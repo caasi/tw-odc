@@ -11,38 +11,64 @@ Large language models are used only for communication, not evaluation. After rul
 ## Tech Stack
 
 - Python >=3.13, managed with `uv` (see `.python-version`)
-- SQLite for storage
+- Filesystem-based storage (no database)
 - Async crawling (aiohttp, asyncio, aiolimiter)
 - CLI via typer
 
 ## Commands
 
 ```bash
-# Run the project
-uv run python main.py
+# Run single portal
+uv run python -m data_gov_tw crawl
+
+# Run all portals
+uv run python main.py --concurrency 3
 
 # Add dependencies
 uv add <package>
-
-# Run with uv
-uv run <command>
 ```
 
 ## Architecture
 
-The system follows a pipeline: `crawl → inspect → evaluate → report → draft emails`
+### Portal-based structure
 
-Planned module structure under `src/`:
+Each government open data portal is an independent Python package at the project root. Shared logic lives in `shared/`.
 
-| Module | Purpose |
-|---|---|
-| `crawler/` | Crawl portal catalogs, extract dataset metadata and download URLs |
-| `inspector/` | HTTP validation, format detection (extension/content-type/magic bytes), machine readability check |
-| `scoring/` | Rule-based 5-star evaluation (no LLM) |
-| `storage/` | SQLite database (datasets, evaluation, issues tables) |
-| `reporting/` | Dataset/agency/national summary reports |
-| `email/` | LLM-drafted improvement request emails (human review required before sending) |
-| `cli.py` | CLI entry point (typer) |
+```
+roc-open-data-checker/
+├── main.py              # Orchestrator: discovers & runs all portals
+├── shared/              # Shared scoring, utilities (future)
+├── data_gov_tw/         # data.gov.tw portal
+│   ├── __init__.py      # Exposes run() for orchestrator
+│   ├── crawler.py       # Downloads export URLs
+│   └── datasets/        # Raw downloaded files (gitignored)
+├── data_taipei/         # Future: data.taipei portal
+└── ...
+```
+
+### Why this structure
+
+- Different portals have very different APIs and structures — each needs custom crawl logic
+- Shared code (scoring, reporting) stays in `shared/`
+- Each portal can run independently (`python -m data_gov_tw crawl`) or together via `main.py`
+
+### Storage
+
+- **Filesystem only, no database** — raw downloads in `datasets/`, future evaluation results as JSON files
+- `datasets/` directories are gitignored
+
+### Pipeline
+
+`crawl → inspect → evaluate → report → draft emails`
+
+### data.gov.tw specifics
+
+The portal provides bulk export of all dataset metadata:
+- `https://data.gov.tw/datasets/export/json`
+- `https://data.gov.tw/datasets/export/csv`
+- `https://data.gov.tw/datasets/export/xml`
+
+These three exports are themselves open data and should be evaluated as datasets.
 
 ## Key Design Decisions
 
@@ -50,6 +76,8 @@ Planned module structure under `src/`:
 - **Polite crawling**: Rate-limited (2 req/s, max concurrency 5), robots.txt compliant, retry with backoff on 429
 - **LLM only for email drafting**: Converts structured issue data into polite messages; human must review before sending
 - **5-Star model**: ★ online → ★★ machine-readable → ★★★ open format → ★★★★ RDF/URI → ★★★★★ linked data
+- **No database**: All data stored as files on the filesystem for simplicity
+- **Portal as package**: Each portal is a top-level Python package, runnable independently or via orchestrator
 
 ## Language
 
