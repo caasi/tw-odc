@@ -33,7 +33,7 @@ async def _run_all(concurrency: int) -> None:
     await asyncio.gather(*tasks)
 
 
-@app.command()
+@app.callback(invoke_without_command=True)
 def main(concurrency: int = typer.Option(3, help="同時執行的 provider 數量上限")) -> None:
     """執行所有 provider 的下載。"""
     asyncio.run(_run_all(concurrency))

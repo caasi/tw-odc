@@ -1,3 +1,4 @@
+import hashlib
 import json
 from collections import Counter
 from pathlib import Path
@@ -20,7 +21,7 @@ from shared.fetcher import fetch_all
 app = typer.Typer()
 
 
-@app.command()
+@app.callback(invoke_without_command=True)
 def crawl() -> None:
     """下載此機關的所有開放資料集。"""
     asyncio.run(fetch_all(__file__))
@@ -92,8 +93,9 @@ def scaffold_provider(
 
     slug = derive_slug(all_urls)
     if not slug:
-        # Fallback: hash of provider name
-        slug = f"org_{abs(hash(provider_name)) % 10**8:08d}"
+        # Fallback: stable hash of provider name (SHA-256, first 16 hex chars)
+        h = hashlib.sha256(provider_name.encode("utf-8")).hexdigest()[:16]
+        slug = f"org_{h}"
 
     pkg_dir = base_dir / slug
     if pkg_dir.exists():
@@ -111,5 +113,6 @@ def scaffold_provider(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     (pkg_dir / "__init__.py").write_text(INIT_TEMPLATE)
+    (pkg_dir / "__main__.py").write_text(MAIN_TEMPLATE)
 
     return slug

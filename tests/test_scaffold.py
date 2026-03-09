@@ -34,6 +34,19 @@ def test_derive_slug_fallback_empty():
     assert derive_slug([]) == ""
 
 
+def test_scaffold_provider_fallback_slug_is_deterministic(tmp_path):
+    """When no URLs are available the fallback slug uses SHA-256 (deterministic)."""
+    datasets = [
+        {"資料集識別碼": 1, "資料集名稱": "資料", "檔案格式": "CSV", "資料下載網址": ""},
+    ]
+    slug1 = scaffold_provider(tmp_path / "run1", "無網址機關", datasets)
+    slug2 = scaffold_provider(tmp_path / "run2", "無網址機關", datasets)
+    assert slug1 == slug2
+    assert slug1.startswith("org_")
+    # Length: "org_" + 16 hex chars
+    assert len(slug1) == 20
+
+
 def test_group_by_provider():
     datasets = [
         {"提供機關": "A機關", "資料集識別碼": 1, "資料集名稱": "資料1", "檔案格式": "CSV", "資料下載網址": "https://a.gov.tw/1"},
@@ -56,6 +69,7 @@ def test_scaffold_provider(tmp_path):
     assert slug == "test_gov_tw"
     pkg_dir = tmp_path / slug
     assert (pkg_dir / "__init__.py").exists()
+    assert (pkg_dir / "__main__.py").exists()
     assert (pkg_dir / "manifest.json").exists()
 
     manifest = json.loads((pkg_dir / "manifest.json").read_text(encoding="utf-8"))
