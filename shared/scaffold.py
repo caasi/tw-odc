@@ -72,9 +72,12 @@ def group_by_provider(datasets: list[dict]) -> dict[str, list[dict]]:
 
 def _parse_dataset(raw: dict) -> dict:
     """Convert a raw export.json entry to manifest dataset format."""
+    from shared import FORMAT_ALIASES
+
     urls = [u.strip() for u in raw["資料下載網址"].split(";") if u.strip()]
     formats = [f.strip() for f in raw["檔案格式"].split(";") if f.strip()]
     fmt = formats[0].lower() if formats else "bin"
+    fmt = FORMAT_ALIASES.get(fmt, fmt)
     return {
         "id": str(raw["資料集識別碼"]),
         "name": raw["資料集名稱"],

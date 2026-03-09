@@ -30,6 +30,7 @@ def _make_mock_session(status, content=b""):
     mock_response.status = status
     mock_response.content_length = len(content) if content else 0
     mock_response.content = mock_content_obj
+    mock_response.headers = {}
     mock_response.__aenter__ = AsyncMock(return_value=mock_response)
     mock_response.__aexit__ = AsyncMock(return_value=False)
 
@@ -101,6 +102,7 @@ async def test_fetch_all_handles_network_error(tmp_path):
         resp.status = 200
         resp.content_length = 2
         resp.content = mock_content_obj
+        resp.headers = {}
         resp.__aenter__ = AsyncMock(return_value=resp)
         resp.__aexit__ = AsyncMock(return_value=False)
         return resp
