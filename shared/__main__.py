@@ -83,12 +83,23 @@ def score(
 
 
 def _score_one(pkg_dir: Path) -> None:
-    """Score a single provider and print summary."""
+    """Score a single provider and print per-file scores + summary."""
     scores = score_provider(pkg_dir)
+    datasets_dir = pkg_dir / "datasets"
+
+    for d in scores["datasets"]:
+        star = d["star_score"]
+        stars = "★" * star + "☆" * (3 - star) if star > 0 else "---"
+        # Build relative path from the file's declared format and id
+        fmt = d["declared_format"]
+        file_path = datasets_dir / f"{d['id']}.{fmt}"
+        rel = file_path.relative_to(Path.cwd()) if file_path.is_relative_to(Path.cwd()) else file_path
+        print(f"{stars}  {rel}")
+
     total = len(scores["datasets"])
     scored = [d for d in scores["datasets"] if d["star_score"] > 0]
     avg = sum(d["star_score"] for d in scored) / len(scored) if scored else 0
-    print(f"✓ {scores['provider']} — {total} 筆資料集, 平均 {avg:.1f} 星")
+    print(f"\n{scores['provider']} — {total} 筆資料集, 平均 {avg:.1f} 星")
 
 
 if __name__ == "__main__":

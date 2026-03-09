@@ -26,12 +26,18 @@ def _make_provider(tmp_path, slug="test_provider", datasets=None):
 def test_score_single_provider(tmp_path):
     pkg_dir = _make_provider(tmp_path)
 
-    result = runner.invoke(app, ["score", str(pkg_dir)])
+    with patch("shared.__main__.Path.cwd", return_value=tmp_path):
+        result = runner.invoke(app, ["score", str(pkg_dir)])
 
     assert result.exit_code == 0
     assert (pkg_dir / "scores.json").exists()
     scores = json.loads((pkg_dir / "scores.json").read_text())
     assert scores["datasets"][0]["star_score"] == 3
+    # Output shows per-file path and stars
+    assert "1001.csv" in result.output
+    assert "★★★" in result.output
+    # Output shows average at the end
+    assert "平均" in result.output
 
 
 def test_score_all_providers(tmp_path):
