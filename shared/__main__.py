@@ -4,7 +4,6 @@ from pathlib import Path
 import typer
 
 from shared.scaffold import group_by_provider, scaffold_provider
-from shared.scorer import score_provider
 
 app = typer.Typer()
 
@@ -52,54 +51,6 @@ def scaffold(
         pkg_dir = output_dir / slug
         n = len(groups[name])
         print(f"✓ {name} → {slug}/ ({n} 筆資料集)")
-
-
-@app.command("score")
-def score(
-    provider_dir: Path | None = typer.Argument(
-        None, help="要評分的 provider 目錄路徑（例如 opdadm_moi_gov_tw）"
-    ),
-    all_providers: bool = typer.Option(
-        False, "--all", help="評分所有有 manifest.json 的 provider"
-    ),
-) -> None:
-    """對已下載的資料集進行 5-Star 評分。"""
-    if all_providers:
-        cwd = Path.cwd()
-        provider_dirs = sorted(
-            p.parent for p in cwd.glob("*/manifest.json")
-            if p.parent.name != "data_gov_tw"
-        )
-        if not provider_dirs:
-            print("找不到任何 provider 目錄")
-            raise typer.Exit(1)
-        for pkg_dir in provider_dirs:
-            _score_one(pkg_dir)
-    elif provider_dir is not None:
-        _score_one(Path(provider_dir))
-    else:
-        print("請指定 provider 目錄或使用 --all")
-        raise typer.Exit(1)
-
-
-def _score_one(pkg_dir: Path) -> None:
-    """Score a single provider and print per-file scores + summary."""
-    scores = score_provider(pkg_dir)
-    datasets_dir = pkg_dir / "datasets"
-
-    for d in scores["datasets"]:
-        star = d["star_score"]
-        stars = "★" * star + "☆" * (3 - star) if star > 0 else "---"
-        # Build relative path from the file's declared format and id
-        fmt = d["declared_format"]
-        file_path = datasets_dir / f"{d['id']}.{fmt}"
-        rel = file_path.relative_to(Path.cwd()) if file_path.is_relative_to(Path.cwd()) else file_path
-        print(f"{stars}  {rel}")
-
-    total = len(scores["datasets"])
-    scored = [d for d in scores["datasets"] if d["star_score"] > 0]
-    avg = sum(d["star_score"] for d in scored) / len(scored) if scored else 0
-    print(f"\n{scores['provider']} — {total} 筆資料集, 平均 {avg:.1f} 星")
 
 
 if __name__ == "__main__":
