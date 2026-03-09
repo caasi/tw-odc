@@ -92,6 +92,21 @@ def test_scaffold_provider_skips_existing(tmp_path):
     assert (pkg_dir / "manifest.json").read_text() == "custom"
 
 
+def test_scaffold_template_has_clean_score_only(tmp_path):
+    """Scaffolded __main__.py should include clean, score subcommands and --only/--no-cache."""
+    datasets = [
+        {"資料集識別碼": 1, "資料集名稱": "資料", "檔案格式": "CSV", "資料下載網址": "https://www.test.gov.tw/a"},
+    ]
+    slug = scaffold_provider(tmp_path, "測試機關", datasets)
+    main_content = (tmp_path / slug / "__main__.py").read_text()
+
+    assert "clean" in main_content
+    assert "score" in main_content
+    assert "only" in main_content
+    assert "no_cache" in main_content
+    assert "score_provider" in main_content
+
+
 def test_scaffold_cli_help():
     import subprocess
 

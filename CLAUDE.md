@@ -20,6 +20,15 @@ Large language models are used only for communication, not evaluation. After rul
 ```bash
 # Download data.gov.tw exports (JSON/CSV/XML)
 uv run python -m data_gov_tw
+uv run python -m data_gov_tw --only export-json.json   # download one file only
+uv run python -m data_gov_tw --no-cache                # bypass ETag cache
+
+# Clean a provider's generated files (datasets/, etags.json, issues.jsonl, scores.json)
+uv run python -m data_gov_tw clean
+uv run python -m <provider_slug> clean
+
+# Score a provider's downloaded datasets (5-Star model)
+uv run python -m <provider_slug> score
 
 # List providers from export metadata
 uv run python -m shared list data_gov_tw/datasets/export-json.json
