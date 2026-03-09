@@ -36,12 +36,14 @@ async def crawl(output_dir: Path = DEFAULT_OUTPUT_DIR) -> None:
                         progress.console.print(f"[red]✗[/red] {filename}: HTTP {resp.status}")
                         continue
 
-                    total = resp.content_length or 0
-                    task = progress.add_task(filename, total=total)
+                    total = resp.content_length
+                    task = progress.add_task(filename, total=total or None)
 
                     with open(dest, "wb") as f:
                         async for chunk in resp.content.iter_chunked(64 * 1024):
                             f.write(chunk)
                             progress.update(task, advance=len(chunk))
 
-                    progress.console.print(f"[green]✓[/green] {filename} ({dest.stat().st_size:,} bytes)")
+                    size = dest.stat().st_size
+                    progress.remove_task(task)
+                    progress.console.print(f"[green]✓[/green] {filename} ({size:,} bytes)")
