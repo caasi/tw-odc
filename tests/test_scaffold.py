@@ -87,4 +87,5 @@ def test_scaffold_cli_help():
         text=True,
     )
     assert result.returncode == 0
-    assert "scaffold" in result.stdout.lower() or "export.json" in result.stdout.lower()
+    assert "scaffold" in result.stdout.lower()
+    assert "list" in result.stdout.lower()
