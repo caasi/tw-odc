@@ -56,15 +56,14 @@ def score_dataset(inspection: InspectionResult) -> DatasetScore:
     (conservative — weakest link determines quality).
     """
     formats = [f for f in inspection.detected_formats if f not in ("missing", "empty")]
+    has_missing_or_empty = any(
+        f in ("missing", "empty") for f in inspection.detected_formats
+    )
 
-    if not inspection.file_exists or not formats:
+    if not inspection.file_exists or not formats or has_missing_or_empty:
         star = 0
     else:
         star = min(_format_star(f) for f in formats)
-
-    # Handle empty files as 0 stars
-    if inspection.file_empty and not formats:
-        star = 0
 
     available = inspection.file_exists and not inspection.file_empty
     machine_readable = star >= 2

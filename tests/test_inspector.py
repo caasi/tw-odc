@@ -1,7 +1,5 @@
 import zipfile
 
-import pytest
-
 from shared.inspector import (
     InspectionResult,
     detect_format,

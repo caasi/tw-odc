@@ -1,11 +1,34 @@
 """Inspect downloaded dataset files to detect actual formats."""
 
-import tempfile
+import re
 import zipfile
 from dataclasses import dataclass, field
 from pathlib import Path
 
-import magic
+try:
+    import magic as _magic
+except ImportError:
+    _magic = None  # type: ignore[assignment]
+    _magic_import_error_msg = (
+        "python-magic requires the system libmagic library. "
+        "Install it with: apt-get install libmagic1  (Debian/Ubuntu) "
+        "or brew install libmagic  (macOS)."
+    )
+else:
+    _magic_import_error_msg = ""
+
+# Number of bytes to read from ZIP members for magic-byte detection.
+_MAGIC_BUFFER_SIZE = 4096
+
+
+def _ensure_magic() -> None:
+    """Raise ImportError with install guidance if libmagic is unavailable."""
+    if _magic is None:
+        raise ImportError(_magic_import_error_msg)
+
+# Safe-character patterns (same as fetcher.py) to prevent path traversal.
+_SAFE_ID_RE = re.compile(r"^[A-Za-z0-9_\-]+$")
+_SAFE_FMT_RE = re.compile(r"^\w+$")
 
 _MIME_TO_FORMAT: dict[str, str] = {
     "text/csv": "csv",
@@ -34,7 +57,8 @@ def detect_format(file_path: Path) -> str:
     if file_path.stat().st_size == 0:
         return "empty"
 
-    mime = magic.from_file(str(file_path), mime=True)
+    _ensure_magic()
+    mime = _magic.from_file(str(file_path), mime=True)
 
     # ZIP-based formats need further inspection
     if mime in ("application/zip", "application/x-zip-compressed"):
@@ -68,12 +92,22 @@ def inspect_zip_contents(file_path: Path) -> list[str]:
     try:
         with zipfile.ZipFile(file_path, "r") as zf:
             formats = []
-            with tempfile.TemporaryDirectory() as tmpdir:
-                for info in zf.infolist():
-                    if info.is_dir():
-                        continue
-                    extracted = Path(zf.extract(info, tmpdir))
-                    fmt = detect_format(extracted)
+            for info in zf.infolist():
+                if info.is_dir():
+                    continue
+                with zf.open(info) as member:
+                    # Read a small buffer for magic-byte detection
+                    buf = member.read(_MAGIC_BUFFER_SIZE)
+                if not buf:
+                    formats.append("empty")
+                    continue
+                _ensure_magic()
+                mime = _magic.from_buffer(buf, mime=True)
+                if mime in ("application/zip", "application/x-zip-compressed"):
+                    # Do not recurse into nested ZIPs
+                    formats.append("zip")
+                else:
+                    fmt = _MIME_TO_FORMAT.get(mime, mime.split("/")[-1])
                     formats.append(fmt)
             return formats
     except (zipfile.BadZipFile, OSError):
@@ -108,6 +142,11 @@ def inspect_dataset(dataset: dict, datasets_dir: Path) -> InspectionResult:
     declared_fmt = dataset["format"].lower()
     urls = dataset["urls"]
     url_count = len(urls)
+
+    if not _SAFE_ID_RE.match(dataset_id):
+        raise ValueError(f"Unsafe dataset id: {dataset_id!r}")
+    if not _SAFE_FMT_RE.match(declared_fmt):
+        raise ValueError(f"Unsafe dataset format: {declared_fmt!r}")
 
     detected_formats: list[str] = []
     zip_contents: list[str] = []

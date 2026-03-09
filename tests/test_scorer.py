@@ -1,9 +1,7 @@
 import json
 
-import pytest
-
 from shared.inspector import InspectionResult
-from shared.scorer import DatasetScore, score_dataset, score_provider
+from shared.scorer import score_dataset, score_provider
 
 
 class TestScoreDataset:
@@ -119,6 +117,28 @@ class TestScoreDataset:
             file_exists=True, file_empty=False,
         )
         assert score_dataset(inspection).star_score == 3
+
+    def test_multi_url_partial_missing_gets_0_stars(self):
+        """Multi-URL dataset where one file is missing → weakest link = 0."""
+        inspection = InspectionResult(
+            dataset_id="3002", dataset_name="Test",
+            declared_format="csv", detected_formats=["csv", "missing"],
+            file_exists=True, file_empty=False,
+            issues=["DOWNLOAD_FAILED"],
+        )
+        score = score_dataset(inspection)
+        assert score.star_score == 0
+
+    def test_multi_url_partial_empty_gets_0_stars(self):
+        """Multi-URL dataset where one file is empty → weakest link = 0."""
+        inspection = InspectionResult(
+            dataset_id="3003", dataset_name="Test",
+            declared_format="csv", detected_formats=["csv", "empty"],
+            file_exists=True, file_empty=True,
+            issues=["EMPTY_FILE"],
+        )
+        score = score_dataset(inspection)
+        assert score.star_score == 0
 
     def test_unknown_format_gets_1_star(self):
         inspection = InspectionResult(

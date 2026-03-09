@@ -56,7 +56,7 @@ def scaffold(
 
 @app.command("score")
 def score(
-    provider_dir: Path = typer.Argument(
+    provider_dir: Path | None = typer.Argument(
         None, help="要評分的 provider 目錄路徑（例如 opdadm_moi_gov_tw）"
     ),
     all_providers: bool = typer.Option(
