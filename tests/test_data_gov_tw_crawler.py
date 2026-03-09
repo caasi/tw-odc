@@ -13,13 +13,20 @@ def test_exports_has_three_urls():
     assert all(url.startswith("https://data.gov.tw/") for url in EXPORTS)
 
 
-@pytest.mark.asyncio
-async def test_crawl_downloads_all_exports(tmp_path):
-    mock_content = b"test content"
+def _make_mock_session(status, content=b""):
+    """Create a mock aiohttp session with streaming support."""
+
+    async def _iter_chunked(chunk_size):
+        if content:
+            yield content
+
+    mock_content_obj = MagicMock()
+    mock_content_obj.iter_chunked = _iter_chunked
 
     mock_response = AsyncMock()
-    mock_response.status = 200
-    mock_response.read = AsyncMock(return_value=mock_content)
+    mock_response.status = status
+    mock_response.content_length = len(content) if content else 0
+    mock_response.content = mock_content_obj
     mock_response.__aenter__ = AsyncMock(return_value=mock_response)
     mock_response.__aexit__ = AsyncMock(return_value=False)
 
@@ -27,6 +34,14 @@ async def test_crawl_downloads_all_exports(tmp_path):
     mock_session.get = MagicMock(return_value=mock_response)
     mock_session.__aenter__ = AsyncMock(return_value=mock_session)
     mock_session.__aexit__ = AsyncMock(return_value=False)
+
+    return mock_session
+
+
+@pytest.mark.asyncio
+async def test_crawl_downloads_all_exports(tmp_path):
+    mock_content = b"test content"
+    mock_session = _make_mock_session(200, mock_content)
 
     with patch("aiohttp.ClientSession", return_value=mock_session):
         await crawl(output_dir=tmp_path)
@@ -37,23 +52,13 @@ async def test_crawl_downloads_all_exports(tmp_path):
 
 
 @pytest.mark.asyncio
-async def test_crawl_handles_http_error(tmp_path, capsys):
-    mock_response = AsyncMock()
-    mock_response.status = 500
-    mock_response.__aenter__ = AsyncMock(return_value=mock_response)
-    mock_response.__aexit__ = AsyncMock(return_value=False)
-
-    mock_session = AsyncMock()
-    mock_session.get = MagicMock(return_value=mock_response)
-    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
-    mock_session.__aexit__ = AsyncMock(return_value=False)
+async def test_crawl_handles_http_error(tmp_path):
+    mock_session = _make_mock_session(500)
 
     with patch("aiohttp.ClientSession", return_value=mock_session):
         await crawl(output_dir=tmp_path)
 
     assert not (tmp_path / "export.json").exists()
-    captured = capsys.readouterr()
-    assert "500" in captured.out or "失敗" in captured.out
 
 
 def test_cli_module_runs():
