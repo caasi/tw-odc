@@ -47,12 +47,21 @@ def clean(init_file: str) -> list[str]:
 
     Deletes: datasets/, etags.json, issues.jsonl, scores.json.
     Returns list of names that were actually removed.
+
+    Raises FileNotFoundError if manifest.json is not found next to init_file,
+    to prevent accidental deletion outside a provider package.
     """
     pkg_dir = Path(init_file).parent
+    manifest_path = pkg_dir / "manifest.json"
+    if not manifest_path.exists():
+        raise FileNotFoundError(
+            f"manifest.json not found in {pkg_dir}; not a provider package"
+        )
+
     removed: list[str] = []
 
     datasets_dir = pkg_dir / "datasets"
-    if datasets_dir.exists():
+    if datasets_dir.is_dir():
         shutil.rmtree(datasets_dir)
         removed.append("datasets/")
 
@@ -76,7 +85,6 @@ async def fetch_all(init_file: str, concurrency: int = 5, only: str | None = Non
     """
     pkg_dir, manifest = _load_manifest(init_file)
     output_dir = pkg_dir / "datasets"
-    output_dir.mkdir(parents=True, exist_ok=True)
     issues_path = pkg_dir / "issues.jsonl"
 
     # Load cached ETags / Last-Modified for conditional requests
@@ -106,6 +114,8 @@ async def fetch_all(init_file: str, concurrency: int = 5, only: str | None = Non
             print(f"找不到檔案: {only}\n可用的檔案: {available}")
             return
         downloads = matched
+
+    output_dir.mkdir(parents=True, exist_ok=True)
 
     sem = asyncio.Semaphore(concurrency)
     issues: list[dict] = []

@@ -249,6 +249,16 @@ def test_clean_nothing_to_delete(tmp_path):
     assert removed == []
 
 
+def test_clean_raises_without_manifest(tmp_path):
+    """clean() should raise FileNotFoundError when manifest.json is missing."""
+    pkg_dir = tmp_path / "not_a_provider"
+    pkg_dir.mkdir()
+    (pkg_dir / "__init__.py").write_text("")
+
+    with pytest.raises(FileNotFoundError, match="manifest.json not found"):
+        clean(str(pkg_dir / "__init__.py"))
+
+
 @pytest.mark.asyncio
 async def test_fetch_all_only_downloads_matching_file(tmp_path):
     """--only should download only the file whose dest name matches."""
@@ -267,7 +277,7 @@ async def test_fetch_all_only_downloads_matching_file(tmp_path):
 
 @pytest.mark.asyncio
 async def test_fetch_all_only_no_match_prints_error(tmp_path, capsys):
-    """--only with a non-existent filename should print available files."""
+    """--only with a non-existent filename should print available files and not create datasets/."""
     pkg_dir = _make_manifest(tmp_path, [
         {"id": "1001", "name": "Data", "format": "CSV", "urls": ["https://example.com/a.csv"]},
     ])
@@ -276,6 +286,7 @@ async def test_fetch_all_only_no_match_prints_error(tmp_path, capsys):
 
     captured = capsys.readouterr()
     assert "1001.csv" in captured.out
+    assert not (pkg_dir / "datasets").exists()
 
 
 @pytest.mark.asyncio
