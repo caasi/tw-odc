@@ -76,3 +76,15 @@ def test_scaffold_provider_skips_existing(tmp_path):
 
     slug2 = scaffold_provider(tmp_path, "測試機關", datasets)
     assert (pkg_dir / "manifest.json").read_text() == "custom"
+
+
+def test_scaffold_cli_help():
+    import subprocess
+
+    result = subprocess.run(
+        ["uv", "run", "python", "-m", "shared", "--help"],
+        capture_output=True,
+        text=True,
+    )
+    assert result.returncode == 0
+    assert "scaffold" in result.stdout.lower() or "export.json" in result.stdout.lower()
