@@ -140,6 +140,54 @@ def test_dest_filename_accepts_unicode_format():
 
 
 @pytest.mark.asyncio
+async def test_fetch_all_blocks_domain_on_429(tmp_path):
+    """After a 429, all subsequent requests to the same domain are skipped."""
+    pkg_dir = _make_manifest(tmp_path, [
+        {"id": "1001", "name": "First", "format": "CSV", "urls": ["https://blocked.example.com/a.csv"]},
+        {"id": "1002", "name": "Second", "format": "CSV", "urls": ["https://blocked.example.com/b.csv"]},
+        {"id": "1003", "name": "Other domain", "format": "CSV", "urls": ["https://other.example.com/c.csv"]},
+    ])
+
+    call_count = {"blocked.example.com": 0, "other.example.com": 0}
+
+    async def _iter_chunked(chunk_size):
+        yield b"ok"
+
+    mock_content_obj = MagicMock()
+    mock_content_obj.iter_chunked = _iter_chunked
+
+    def _get(url, **kwargs):
+        from urllib.parse import urlparse
+        domain = urlparse(url).hostname
+        call_count[domain] = call_count.get(domain, 0) + 1
+
+        resp = AsyncMock()
+        if domain == "blocked.example.com":
+            resp.status = 429
+        else:
+            resp.status = 200
+            resp.content_length = 2
+            resp.content = mock_content_obj
+        resp.headers = {}
+        resp.__aenter__ = AsyncMock(return_value=resp)
+        resp.__aexit__ = AsyncMock(return_value=False)
+        return resp
+
+    mock_session = AsyncMock()
+    mock_session.get = _get
+    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
+    mock_session.__aexit__ = AsyncMock(return_value=False)
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await fetch_all(str(pkg_dir / "__init__.py"), concurrency=1)
+
+    # Only 1 request should hit blocked domain (the first one triggers 429, second is skipped)
+    assert call_count["blocked.example.com"] == 1
+    # Other domain should still work
+    assert (pkg_dir / "datasets" / "1003.csv").exists()
+
+
+@pytest.mark.asyncio
 async def test_fetch_all_handles_multiple_urls(tmp_path):
     pkg_dir = _make_manifest(tmp_path, [
         {

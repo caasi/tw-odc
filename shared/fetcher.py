@@ -3,6 +3,7 @@ import json
 import re
 import ssl
 from pathlib import Path
+from urllib.parse import urlparse
 
 import aiohttp
 from rich.progress import Progress, BarColumn, DownloadColumn, TransferSpeedColumn
@@ -74,6 +75,7 @@ async def fetch_all(init_file: str, concurrency: int = 5) -> None:
 
     sem = asyncio.Semaphore(concurrency)
     issues: list[dict] = []
+    blocked_domains: set[str] = set()
 
     def _print(progress: Progress, msg: str) -> None:
         progress.console.print(msg, highlight=False)
@@ -116,6 +118,13 @@ async def fetch_all(init_file: str, concurrency: int = 5) -> None:
                 _print(progress, f"[dim]—[/dim] {filename} (未變更)")
                 return "not_modified"
 
+            if resp.status == 429:
+                domain = urlparse(url).hostname or url
+                blocked_domains.add(domain)
+                _print(progress, f"[red]✗[/red] {filename}: HTTP 429 — 已封鎖 {domain} 的所有請求")
+                issues.append({"file": filename, "url": url, "issue": "rate_limited", "detail": f"HTTP 429, domain {domain} blocked"})
+                return "error"
+
             if resp.status != 200:
                 _print(progress, f"[red]✗[/red] {filename}: HTTP {resp.status}")
                 issues.append({"file": filename, "url": url, "issue": "http_error", "detail": f"HTTP {resp.status}"})
@@ -139,7 +148,12 @@ async def fetch_all(init_file: str, concurrency: int = 5) -> None:
         session: aiohttp.ClientSession, url: str, dest: Path, progress: Progress
     ) -> None:
         filename = dest.name
+        domain = urlparse(url).hostname or url
         async with sem:
+            if domain in blocked_domains:
+                _print(progress, f"[dim]—[/dim] {filename} (跳過, {domain} 已被 429 封鎖)")
+                issues.append({"file": filename, "url": url, "issue": "rate_limited", "detail": f"skipped, domain {domain} blocked"})
+                return
             await asyncio.sleep(0.5)  # rate limit: 2 req/s
             try:
                 result = await _do_download(session, url, dest, progress)
