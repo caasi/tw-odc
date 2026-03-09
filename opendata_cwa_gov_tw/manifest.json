@@ -1,0 +1,2174 @@
+{
+  "provider": "交通部中央氣象署",
+  "slug": "opendata_cwa_gov_tw",
+  "datasets": [
+    {
+      "id": "7774",
+      "name": "海嘯資訊資料",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/E-A0014-001?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "8192",
+      "name": "高解析可見光衛星雲圖-東亞",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0032-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0032-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9306",
+      "name": "鄉鎮天氣預報-金門縣未來1週天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-087?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-087?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9309",
+      "name": "鄉鎮天氣預報-全臺灣各鄉鎮市區預報資料",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-093?Authorization=rdec-key-123-45678-011121314&locationId=F-D0047-001",
+        "F-D0047-003"
+      ]
+    },
+    {
+      "id": "9289",
+      "name": "鄉鎮天氣預報-新竹市未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-053?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-053?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9293",
+      "name": "鄉鎮天氣預報-臺北市未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-061?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-061?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9298",
+      "name": "鄉鎮天氣預報-新北市未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-071?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-071?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9299",
+      "name": "鄉鎮天氣預報-臺中市未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-073?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-073?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9301",
+      "name": "鄉鎮天氣預報-臺南市未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-077?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-077?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9303",
+      "name": "鄉鎮天氣預報-連江縣未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-081?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-081?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9247",
+      "name": "天氣分析與預測圖-最新天氣圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-003?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9248",
+      "name": "天氣分析與預測圖-一週天氣預測圖(第0天)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-006?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-006?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9251",
+      "name": "天氣分析與預測圖-一週天氣預測圖(第3天)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-009?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-009?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9256",
+      "name": "天氣分析與預測圖-一週天氣預測圖(黑白)",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-014?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-014?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9208",
+      "name": "月平均-地面測站資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0027-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/C-B0027-001?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9218",
+      "name": "一般天氣預報-七天天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-003?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9222",
+      "name": "一般天氣預報-新北市天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-010?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9275",
+      "name": "鄉鎮天氣預報-雲林縣未來3天天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-025?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-025?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9278",
+      "name": "鄉鎮天氣預報-嘉義縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-031?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-031?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9281",
+      "name": "鄉鎮天氣預報-臺東縣未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-037?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-037?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9283",
+      "name": "鄉鎮天氣預報-花蓮縣未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-041?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-041?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9259",
+      "name": "天氣分析與預測圖-波浪分析圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-019?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9266",
+      "name": "鄉鎮天氣預報-桃園市未來1週天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-007?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-007?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9271",
+      "name": "鄉鎮天氣預報-彰化縣未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-017?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-017?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9200",
+      "name": "滿潮預報圖-後天滿潮預報影像圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-003?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9225",
+      "name": "一般天氣預報-宜蘭縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-013?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9231",
+      "name": "一般天氣預報-嘉義縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-018?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9239",
+      "name": "一般天氣預報-南投縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-026?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9240",
+      "name": "一般天氣預報-臺東縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-027?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9183",
+      "name": "觀測網旬資料-農業氣象觀測網旬資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-A0008-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9560",
+      "name": "西北太平洋海域氣候海水位-西北太平洋海域CMEMS衛星 0.125度網格氣候海水位",
+      "format": "json",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450680924910915584.json&filedisplay=C-A0094-001.json&flag=doc"
+      ]
+    },
+    {
+      "id": "10063",
+      "name": "颱風消息與警報-颱風消息",
+      "format": "kmz",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/W-C0034-002?Authorization=rdec-key-123-45678-011121314&format=KMZ"
+      ]
+    },
+    {
+      "id": "6068",
+      "name": "顯著有感地震報告",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/E-A0015-003?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/E-A0015-004?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/E-A0015-004?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/E-A0015-002?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/E-A0015-001?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/E-A0015-005?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/E-A0015-003?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=XML"
+      ]
+    },
+    {
+      "id": "17123",
+      "name": "溫度分布圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0038-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0038-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "25875",
+      "name": "全解析紅外線衛星雲圖-全景",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0033-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0033-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "25877",
+      "name": "全解析可見光衛星雲圖-全景",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0033-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0033-002?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "58977",
+      "name": "數值預報模式-區域預報模式(WRF)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-000?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-006?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-012?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-018?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-024?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-030?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-036?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-042?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-048?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-054?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-060?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-066?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-072?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-078?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0064-084?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-000?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-006?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-012?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-018?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-024?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-030?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-036?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-042?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-048?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-054?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-060?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-066?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-072?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-078?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0061-084?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "76629",
+      "name": "QPESUMS-雷達整合回波格點資料",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0059-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0059-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/historyapi/v1/getMetadata/O-A0059-001?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "45963",
+      "name": "全解析紅外線衛星雲圖KMZ檔-東亞",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0033-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0033-003?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "75125",
+      "name": "雷達整合回波圖-臺灣",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0058-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0058-004?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0058-006?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0058-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0058-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0058-005?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "75380",
+      "name": "日出日沒時刻",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/A-B0062-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/A-B0062-001?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "75382",
+      "name": "高解析可見光反照率資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0055-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0055-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "78815",
+      "name": "交通部中央氣象署政府資料開放諮詢小組會議紀錄",
+      "format": "zip",
+      "urls": [
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20171117_2.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20180614_1.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20181217_2.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20190529_1.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20191106_2.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20200310_1.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20200924_2.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20210409_1.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20211111_2.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20220412_1.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20221108_2.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20230501_1.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20231108_2.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20240326_1.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20241125_2.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20250612_1.zip",
+        "https://opendata.cwa.gov.tw/opendatadoc/meeting/20251210_2.zip"
+      ]
+    },
+    {
+      "id": "33029",
+      "name": "一年觀測資料-地面測站一年觀測資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0024-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0024-002?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "33677",
+      "name": "高解析紅外線彩色衛星雲圖-全球",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "33679",
+      "name": "高解析紅外線黑白衛星雲圖-全球",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-003?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "33680",
+      "name": "高解析紅外線黑白衛星雲圖-台灣",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-004?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-004?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "33681",
+      "name": "高解析紅外線色調強化衛星雲圖-全球",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-005?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-005?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "33682",
+      "name": "高解析紅外線色調強化衛星雲圖-台灣",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-006?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-006?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "33684",
+      "name": "高解析可見光衛星雲圖-台灣",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-008?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-008?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "41438",
+      "name": "風力預測-颱風警報期間各地區風力預測",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0034-005?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0034-005?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "41440",
+      "name": "總雨量預測-颱風警報/大規模豪雨期間各地區總雨量預測",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0034-007?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0034-007?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "40311",
+      "name": "數值預報模式-全球預報模式(GFS)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-000?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-006?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-012?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-018?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-024?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-030?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-036?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-042?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-048?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-054?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-060?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-066?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-072?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-078?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-084?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-090?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-096?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-102?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-108?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-114?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-120?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-126?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-132?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-138?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-144?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-150?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-156?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-162?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-168?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-174?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-180?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-186?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-192?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-198?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-204?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-210?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-216?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-222?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-228?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-234?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-240?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-264?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-276?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-288?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-300?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-312?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-324?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-336?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-348?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-360?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-372?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0060-384?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "40574",
+      "name": "海溫統計-臺灣海域各地海溫觀測月統計",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0050-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "98773",
+      "name": "潮位統計",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0052-001?Authorization=rdec-key-123-45678-011121314&format=json"
+      ]
+    },
+    {
+      "id": "98758",
+      "name": "海岸潮線預報圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0068-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0068-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0068-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0068-004?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "98765",
+      "name": "大潮監測資料",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0069-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0069-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "106682",
+      "name": "氣象測站基本資料",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0074-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0074-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/C-B0074-001?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/C-B0074-002?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0074-002?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0074-002?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "147321",
+      "name": "台灣海域波候統計",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0086-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "160936",
+      "name": "海象暴潮預報資料",
+      "format": "kmz",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0089-001?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=KMZ"
+      ]
+    },
+    {
+      "id": "96582",
+      "name": "溫度分布",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0038-002?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0038-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0038-003?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0038-003?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "130213",
+      "name": "異常波浪潛勢風險預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0083-007?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0083-006?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0083-005?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0083-004?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0083-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0083-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0083-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "130215",
+      "name": "動力小船作業風險-動力小船級別作業風險預報5天",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0081-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "130216",
+      "name": "船級作業風險-依船噸位分級作業風險預報4天",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0082-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "130243",
+      "name": "鄉鎮天氣預報-鄉鎮沿海未來3天逐3小時天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-096?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-095?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "142695",
+      "name": "向日葵九號衛星觀測資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0043-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0043-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0043-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0043-004?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0043-005?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "174285",
+      "name": "有感地震報告發布作業要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E6%9C%89%E6%84%9F%E5%9C%B0%E9%9C%87%E5%A0%B1%E5%91%8A%E7%99%BC%E5%B8%83%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    },
+    {
+      "id": "174286",
+      "name": "海嘯資訊發布作業要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E6%B5%B7%E5%98%AF%E8%B3%87%E8%A8%8A%E7%99%BC%E5%B8%83%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    },
+    {
+      "id": "174272",
+      "name": "氣象業務白皮書",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E6%B0%A3%E8%B1%A1%E6%A5%AD%E5%8B%99%E7%99%BD%E7%9A%AE%E6%9B%B8.pdf/"
+      ]
+    },
+    {
+      "id": "174277",
+      "name": "交通部中央氣象署個案計畫管制評核作業要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E5%80%8B%E6%A1%88%E8%A8%88%E7%95%AB%E7%AE%A1%E5%88%B6%E8%A9%95%E6%A0%B8%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    },
+    {
+      "id": "171707",
+      "name": "向日葵九號衛星衍生產品",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0093-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0093-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0093-003?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "8350",
+      "name": "高解析紅外線色調強化衛星雲圖-東亞",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0032-004?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0032-004?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "12116",
+      "name": "藍色公路海況預報-藍色公路臺北港平潭航線",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-020?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "7038",
+      "name": "潮汐預報-未來1個月潮汐預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0021-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-A0021-001?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "7775",
+      "name": "潮高預報",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0036-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0036-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "7776",
+      "name": "海面天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0012-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "17202",
+      "name": "小區域有感地震報告",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/E-A0016-002?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/E-A0016-001?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "15792",
+      "name": "一般天氣預報-七天天氣預報(英文版)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-004?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "15793",
+      "name": "一般天氣預報-全球都市天氣預報(英文版)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-008?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9039",
+      "name": "紫外線指數-每日紫外線指數最大值",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/O-A0005-001?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0005-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9161",
+      "name": "每日雨量-地面測站每日雨量資料",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/C-B0025-001?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0025-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9176",
+      "name": "氣象觀測站-全測站逐時氣象資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0001-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0001-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/O-A0001-001?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9246",
+      "name": "天氣分析與預測圖-地面天氣圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9249",
+      "name": "天氣分析與預測圖-一週天氣預測圖(第1天)",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-007?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-007?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9250",
+      "name": "天氣分析與預測圖-一週天氣預測圖(第2天)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-008?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-008?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9253",
+      "name": "天氣分析與預測圖-一週天氣預測圖(第5天)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-011?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-011?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9255",
+      "name": "天氣分析與預測圖-一週天氣預測圖(第7天)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-013?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-013?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9257",
+      "name": "天氣分析與預測圖-定量降水預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-015?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-015?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-017?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-017?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-023?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-023?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-024?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-024?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9181",
+      "name": "臭氧總量觀測資料-台北站",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0006-002?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9192",
+      "name": "長期天氣預報-月長期天氣展望",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0013-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9220",
+      "name": "一般天氣預報-全球都市天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-007?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9223",
+      "name": "一般天氣預報-基隆市天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-011?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9193",
+      "name": "長期天氣預報-季長期天氣展望",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0013-002?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9198",
+      "name": "滿潮預報圖-今日滿潮預報影像圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9201",
+      "name": "滿潮預報圖-第4天滿潮預報影像圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-004?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-004?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9203",
+      "name": "滿潮預報圖-第6天滿潮預報影像圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-006?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-006?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9226",
+      "name": "一般天氣預報-金門縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-014?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9228",
+      "name": "一般天氣預報-澎湖縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-015?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9229",
+      "name": "一般天氣預報-台南市天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-016?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9230",
+      "name": "一般天氣預報-高雄市天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-017?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9232",
+      "name": "一般天氣預報-嘉義市天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-019?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9233",
+      "name": "一般天氣預報-苗栗縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-020?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9234",
+      "name": "一般天氣預報-台中市天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-021?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9236",
+      "name": "一般天氣預報-新竹縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-023?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9291",
+      "name": "鄉鎮天氣預報-嘉義市未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-057?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-057?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9295",
+      "name": "鄉鎮天氣預報-高雄市未來3天天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-065?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-065?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9296",
+      "name": "鄉鎮天氣預報-高雄市未來1週天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-067?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-067?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9297",
+      "name": "鄉鎮天氣預報-新北市未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-069?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-069?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9300",
+      "name": "鄉鎮天氣預報-臺中市未來1週天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-075?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-075?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9302",
+      "name": "鄉鎮天氣預報-臺南市未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-079?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-079?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9279",
+      "name": "鄉鎮天氣預報-屏東縣未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-033?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-033?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9280",
+      "name": "鄉鎮天氣預報-屏東縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-035?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-035?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9282",
+      "name": "鄉鎮天氣預報-臺東縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-039?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-039?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9286",
+      "name": "鄉鎮天氣預報-澎湖縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-047?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-047?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9287",
+      "name": "鄉鎮天氣預報-基隆市未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-049?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-049?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9265",
+      "name": "鄉鎮天氣預報-桃園市未來3天天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-005?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-005?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9267",
+      "name": "鄉鎮天氣預報-新竹縣未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-009?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-009?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9269",
+      "name": "鄉鎮天氣預報-苗栗縣未來3天天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-013?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-013?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "10451",
+      "name": "颱風消息與警報-熱帶氣旋路徑",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/W-C0034-005?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/W-C0034-005?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "30372",
+      "name": "閃電落雷系統即時觀測資料",
+      "format": "kmz",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0039-001?Authorization=rdec-key-123-45678-011121314&format=KMZ"
+      ]
+    },
+    {
+      "id": "30374",
+      "name": "日累積雨量圖資料-小間距日累積雨量圖資料",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0040-002?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0040-002?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "33535",
+      "name": "波浪統計-臺灣海域各地浪高週期波向觀測月統計",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0049-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0049-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "33536",
+      "name": "颱風暴潮統計-歷史颱風臺灣各地暴潮極值統計",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0051-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "56706",
+      "name": "育樂天氣預報資料-台灣各類型休閒活動景點預報資料",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-009?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-062?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-058?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-082?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-083?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-084?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-085?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-081?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-079?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-078?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-080?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-006?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-007?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-013?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-052?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-057?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-029?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-063?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-077?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-047?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-043?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-067?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-038?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-040?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-034?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-064?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-069?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-072?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-065?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-066?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-014?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-015?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-022?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-023?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-024?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-031?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-032?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-033?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-041?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-070?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-071?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-055?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-056?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-008?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-042?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-049?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-050?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-051?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-059?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-060?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-054?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-061?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-004?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-005?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-019?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-020?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-068?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-021?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-002?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-003?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-010?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-011?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-012?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-016?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-017?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-018?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-025?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-026?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-027?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-035?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-036?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-044?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-045?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-053?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-028?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-030?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-037?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-039?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-046?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-048?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-076?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-074?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0053-075?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "87867",
+      "name": "地球物理觀測資料",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0065-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0065-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0065-002?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0065-003?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0065-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0065-004?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0065-004?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "74964",
+      "name": "地球物理觀測數值圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0057-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0057-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0057-002?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0057-002?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "75381",
+      "name": "月出月沒時刻",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/A-B0063-001?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/A-B0063-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "41439",
+      "name": "24小時雨量預測-颱風警報/大規模豪雨期間各地區24小時雨量預測",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0034-006?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0034-006?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "42619",
+      "name": "QPESUMS-未來1小時定量降雨預報格點資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0046-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0046-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "48901",
+      "name": "每日雨量-過去一季每日雨量資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0025-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0025-003?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "33683",
+      "name": "高解析可見光衛星雲圖-全球",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-007?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-007?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "45965",
+      "name": "全解析可見光衛星雲圖-東亞",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0033-004?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0033-004?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "39549",
+      "name": "全臺天氣小幫手-全臺天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-031?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-031?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "98749",
+      "name": "澎湖縣海域漁業海水溫預警",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0066-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "122138",
+      "name": "海象監測資料",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/O-B0075-002?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/O-B0075-001?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "96807",
+      "name": "海流模式",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-B0071-000?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "98767",
+      "name": "長浪監測資料",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0070-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0070-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "130214",
+      "name": "船級舒適度-依船長度分級航行舒適度預報4天",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-B0080-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "126373",
+      "name": "生活氣象-海水浴場、休閒漁港、海釣之波流模式預報資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-B0078-001?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON"
+      ]
+    },
+    {
+      "id": "157677",
+      "name": "日曆資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/A-A0087-001?Authorization=rdec-key-123-45678-011121314&format=CSV",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/A-A0087-002?Authorization=rdec-key-123-45678-011121314&format=CSV",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/A-A0087-003?Authorization=rdec-key-123-45678-011121314&format=CSV"
+      ]
+    },
+    {
+      "id": "143330",
+      "name": "健康氣象",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/M-A0085-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0085-002?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0085-003?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0085-004?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0085-005?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/M-A0085-001?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-A0085-002?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-A0085-003?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-A0085-004?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-A0085-005?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "166543",
+      "name": "西北太平洋海域氣候流場",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-A0090-001?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-A0090-001?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=XML"
+      ]
+    },
+    {
+      "id": "174298",
+      "name": "災害性地震應變小組設置要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E7%81%BD%E5%AE%B3%E6%80%A7%E5%9C%B0%E9%9C%87%E6%87%89%E8%AE%8A%E5%B0%8F%E7%B5%84%E8%A8%AD%E7%BD%AE%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    },
+    {
+      "id": "174299",
+      "name": "氣象遙測科普牆",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E6%B0%A3%E8%B1%A1%E9%81%99%E6%B8%AC%E7%A7%91%E6%99%AE%E7%89%86.pdf/"
+      ]
+    },
+    {
+      "id": "174281",
+      "name": "中央氣象署推動氣象實務研習計畫要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E6%8E%A8%E5%8B%95%E6%B0%A3%E8%B1%A1%E5%AF%A6%E5%8B%99%E7%A0%94%E7%BF%92%E8%A8%88%E7%95%AB%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    },
+    {
+      "id": "174287",
+      "name": "火山活動資訊發布作業要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E7%81%AB%E5%B1%B1%E6%B4%BB%E5%8B%95%E8%B3%87%E8%A8%8A%E7%99%BC%E5%B8%83%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    },
+    {
+      "id": "174276",
+      "name": "中央氣象署研究發展實施要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E7%A0%94%E7%A9%B6%E7%99%BC%E5%B1%95%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    },
+    {
+      "id": "9305",
+      "name": "鄉鎮天氣預報-金門縣未來3天天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-085?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-085?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9307",
+      "name": "鄉鎮天氣預報-台灣未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-089?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-089?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9308",
+      "name": "鄉鎮天氣預報-台灣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-091?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-091?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "12109",
+      "name": "藍色公路海況預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-004?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-005?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-006?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-007?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-008?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-009?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-010?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-011?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-012?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-013?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-014?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-015?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-016?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-017?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-018?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-019?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-020?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-024?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-025?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-026?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "12110",
+      "name": "藍色公路海況預報-藍色公路臺中平潭航線",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-008?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "12112",
+      "name": "藍色公路海況預報-藍色公路基隆臺州航線",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-014?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "12115",
+      "name": "藍色公路海況預報-藍色公路臺中金門航線",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0037-016?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "8193",
+      "name": "高解析紅外線彩色衛星雲圖-東亞",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0032-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0032-002?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "30373",
+      "name": "日累積雨量圖資料-大間距日累積雨量圖資料",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0040-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0040-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "33030",
+      "name": "定量降水預報格點資料-颱風警報期間台灣地區定量降水格點預報",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-002?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-003?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-004?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-004?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-007?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-007?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-008?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-008?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-005?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-005?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-006?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0041-006?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9199",
+      "name": "滿潮預報圖-明日滿潮預報影像圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-002?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-002?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9202",
+      "name": "滿潮預報圖-第5天滿潮預報影像圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-005?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-005?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9204",
+      "name": "滿潮預報圖-第7天滿潮預報影像圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-007?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0022-007?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9205",
+      "name": "潮汐表-明年高低潮時潮高預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0023-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0023-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9206",
+      "name": "30天觀測資料-地面測站觀測資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0024-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0024-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9177",
+      "name": "雨量觀測站-雨量資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0002-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/O-A0002-001?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0002-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9178",
+      "name": "氣象觀測站-10分鐘綜觀氣象資料",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/O-A0003-001?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0003-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0003-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9184",
+      "name": "觀測網月資料-農業氣象觀測網月資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-A0009-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9260",
+      "name": "天氣分析與預測圖-24小時波浪預報圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-020?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9261",
+      "name": "天氣分析與預測圖-36小時波浪預報圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-021?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9262",
+      "name": "天氣分析與預測圖-48小時波浪預報圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-022?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9263",
+      "name": "鄉鎮天氣預報-宜蘭縣未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-001?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9264",
+      "name": "鄉鎮天氣預報-宜蘭縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-003?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-003?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9268",
+      "name": "鄉鎮天氣預報-新竹縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-011?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-011?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9270",
+      "name": "鄉鎮天氣預報-苗栗縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-015?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-015?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9272",
+      "name": "鄉鎮天氣預報-彰化縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-019?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-019?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9273",
+      "name": "鄉鎮天氣預報-南投縣未來3天天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-021?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-021?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9274",
+      "name": "鄉鎮天氣預報-南投縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-023?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-023?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9276",
+      "name": "鄉鎮天氣預報-雲林縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-027?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-027?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9277",
+      "name": "鄉鎮天氣預報-嘉義縣未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-029?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-029?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9284",
+      "name": "鄉鎮天氣預報-花蓮縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-043?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-043?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9285",
+      "name": "鄉鎮天氣預報-澎湖縣未來3天天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-045?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-045?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9288",
+      "name": "鄉鎮天氣預報-基隆市未來1週天氣預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-051?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-051?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "9207",
+      "name": "每月氣象-地面測站資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-B0026-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9221",
+      "name": "一般天氣預報-台北市天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-009?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9290",
+      "name": "鄉鎮天氣預報-新竹市未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-055?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-055?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9292",
+      "name": "鄉鎮天氣預報-嘉義市未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-059?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-059?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9294",
+      "name": "鄉鎮天氣預報-臺北市未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-063?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-063?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9304",
+      "name": "鄉鎮天氣預報-連江縣未來1週天氣預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-083?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-D0047-083?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9241",
+      "name": "一般天氣預報-彰化縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-028?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9242",
+      "name": "一般天氣預報-雲林縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-029?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9243",
+      "name": "一般天氣預報-連江縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-030?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9252",
+      "name": "天氣分析與預測圖-一週天氣預測圖(第4天)",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-010?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-010?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9254",
+      "name": "天氣分析與預測圖-一週天氣預測圖(第6天)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-012?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0035-012?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9224",
+      "name": "一般天氣預報-花蓮縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-012?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9235",
+      "name": "一般天氣預報-桃園市天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-022?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9237",
+      "name": "一般天氣預報-新竹市天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-024?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "9238",
+      "name": "一般天氣預報-屏東縣天氣小幫手",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0032-025?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "10059",
+      "name": "颱風消息與警報-颱風侵襲機率",
+      "format": "kmz",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/W-C0034-003?Authorization=rdec-key-123-45678-011121314&format=KMZ"
+      ]
+    },
+    {
+      "id": "8349",
+      "name": "高解析紅外線黑白衛星雲圖-東亞",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0032-003?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0032-003?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "9561",
+      "name": "颱風消息與警報-颱風警報",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/W-C0034-001?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "15789",
+      "name": "海面天氣預報-海面天氣預報(英文版)",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0012-002?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "42623",
+      "name": "QPESUMS-過去1小時定量降雨估計格點資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0045-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0045-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "49975",
+      "name": "全解析可見光衛星雲圖-全景11000x11000",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0033-005?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0033-005?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "74956",
+      "name": "QPESUMS-對流胞即時監測透明圖層",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0054-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0054-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "75383",
+      "name": "高解析紅外線亮度溫度資料",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0056-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0056-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "33678",
+      "name": "高解析紅外線彩色衛星雲圖-台灣",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-002?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-C0042-002?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "39548",
+      "name": "天氣概況-臺灣天氣概況",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-C0044-001?Authorization=rdec-key-123-45678-011121314&format=XML"
+      ]
+    },
+    {
+      "id": "96584",
+      "name": "累積雨量",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0040-004?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0040-004?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0040-003?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0040-003?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "122532",
+      "name": "海象觀測測站資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-B0076-001?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON"
+      ]
+    },
+    {
+      "id": "130074",
+      "name": "降雨雷達圖",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0084-002?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0084-003?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0084-001?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON"
+      ]
+    },
+    {
+      "id": "138041",
+      "name": "天氣特報-縣市鄉鎮",
+      "format": "api",
+      "urls": [
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/W-C0033-003?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/W-C0033-004?Authorization=rdec-key-123-45678-011121314",
+        "https://opendata.cwa.gov.tw/api/v1/rest/datastore/W-C0033-005?Authorization=rdec-key-123-45678-011121314"
+      ]
+    },
+    {
+      "id": "97095",
+      "name": "地震目錄",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/E-A0073-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/E-A0073-003?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/E-A0073-003?Authorization=rdec-key-123-45678-011121314&downloadType=WEB&format=JSON"
+      ]
+    },
+    {
+      "id": "158145",
+      "name": "臺灣海岸極端暴潮線",
+      "format": "xml",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-A0088-001?Authorization=rdec-key-123-45678-011121314&format=XML",
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-A0088-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "168047",
+      "name": "日射量資料",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0091-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "171378",
+      "name": "太平洋海域氣候海表溫",
+      "format": "json",
+      "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/C-A0092-001?Authorization=rdec-key-123-45678-011121314&format=JSON"
+      ]
+    },
+    {
+      "id": "174278",
+      "name": "中央氣象署受理從事氣象海象預報業務許可申請審查作業要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E5%B1%80%E5%8F%97%E7%90%86%E5%BE%9E%E4%BA%8B%E6%B0%A3%E8%B1%A1%E6%B5%B7%E8%B1%A1%E9%A0%90%E5%A0%B1%E6%A5%AD%E5%8B%99%E8%A8%B1%E5%8F%AF%E7%94%B3%E8%AB%8B%E5%AF%A9%E6%9F%A5%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    },
+    {
+      "id": "174279",
+      "name": "中央氣象署處理人民陳情案件作業要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%99%95%E7%90%86%E4%BA%BA%E6%B0%91%E9%99%B3%E6%83%85%E6%A1%88%E4%BB%B6%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    },
+    {
+      "id": "174280",
+      "name": "中央氣象署災害性天氣作業要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E7%81%BD%E5%AE%B3%E6%80%A7%E5%A4%A9%E6%B0%A3%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    },
+    {
+      "id": "174282",
+      "name": "氣象常識問答集",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E6%B0%A3%E8%B1%A1%E5%B8%B8%E8%AD%98%E5%95%8F%E7%AD%94%E9%9B%86.pdf/"
+      ]
+    },
+    {
+      "id": "174283",
+      "name": "颱風百問",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E9%A2%B1%E9%A2%A8%E7%99%BE%E5%95%8F.pdf/"
+      ]
+    },
+    {
+      "id": "174284",
+      "name": "新雨量分級Q&A",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E6%96%B0%E9%9B%A8%E9%87%8F%E5%88%86%E7%B4%9AQ&A.pdf/"
+      ]
+    },
+    {
+      "id": "174288",
+      "name": "火山專家諮詢小組設置要點",
+      "format": "pdf",
+      "urls": [
+        "https://nidwedemon.cwa.gov.tw/ai_data/download/%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E7%81%AB%E5%B1%B1%E5%B0%88%E5%AE%B6%E8%AB%AE%E8%A9%A2%E5%B0%8F%E7%B5%84%E8%A8%AD%E7%BD%AE%E8%A6%81%E9%BB%9E.pdf/"
+      ]
+    }
+  ]
+}
