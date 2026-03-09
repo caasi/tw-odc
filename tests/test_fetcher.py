@@ -247,3 +247,74 @@ def test_clean_nothing_to_delete(tmp_path):
 
     removed = clean(str(pkg_dir / "__init__.py"))
     assert removed == []
+
+
+@pytest.mark.asyncio
+async def test_fetch_all_only_downloads_matching_file(tmp_path):
+    """--only should download only the file whose dest name matches."""
+    pkg_dir = _make_manifest(tmp_path, [
+        {"id": "1001", "name": "Target", "format": "CSV", "urls": ["https://example.com/a.csv"]},
+        {"id": "1002", "name": "Skip", "format": "JSON", "urls": ["https://example.com/b.json"]},
+    ])
+    mock_session = _make_mock_session(200, b"data")
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await fetch_all(str(pkg_dir / "__init__.py"), only="1001.csv")
+
+    assert (pkg_dir / "datasets" / "1001.csv").exists()
+    assert not (pkg_dir / "datasets" / "1002.json").exists()
+
+
+@pytest.mark.asyncio
+async def test_fetch_all_only_no_match_prints_error(tmp_path, capsys):
+    """--only with a non-existent filename should print available files."""
+    pkg_dir = _make_manifest(tmp_path, [
+        {"id": "1001", "name": "Data", "format": "CSV", "urls": ["https://example.com/a.csv"]},
+    ])
+
+    await fetch_all(str(pkg_dir / "__init__.py"), only="nonexistent.csv")
+
+    captured = capsys.readouterr()
+    assert "1001.csv" in captured.out
+
+
+@pytest.mark.asyncio
+async def test_fetch_all_no_cache_skips_conditional_headers(tmp_path):
+    """--no-cache should not send If-None-Match even when etags.json exists."""
+    pkg_dir = _make_manifest(tmp_path, [
+        {"id": "1001", "name": "Data", "format": "CSV", "urls": ["https://example.com/a.csv"]},
+    ])
+    # Pre-populate etags.json
+    import json as _json
+    (pkg_dir / "etags.json").write_text(_json.dumps({
+        "https://example.com/a.csv": {"etag": "\"abc123\""}
+    }))
+
+    captured_headers = {}
+
+    async def _iter_chunked(chunk_size):
+        yield b"data"
+
+    mock_content_obj = MagicMock()
+    mock_content_obj.iter_chunked = _iter_chunked
+
+    def _get(url, **kwargs):
+        captured_headers.update(kwargs.get("headers", {}))
+        resp = AsyncMock()
+        resp.status = 200
+        resp.content_length = 4
+        resp.content = mock_content_obj
+        resp.headers = {}
+        resp.__aenter__ = AsyncMock(return_value=resp)
+        resp.__aexit__ = AsyncMock(return_value=False)
+        return resp
+
+    mock_session = AsyncMock()
+    mock_session.get = _get
+    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
+    mock_session.__aexit__ = AsyncMock(return_value=False)
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await fetch_all(str(pkg_dir / "__init__.py"), no_cache=True)
+
+    assert "If-None-Match" not in captured_headers

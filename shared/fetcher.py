@@ -65,12 +65,14 @@ def clean(init_file: str) -> list[str]:
     return removed
 
 
-async def fetch_all(init_file: str, concurrency: int = 5) -> None:
+async def fetch_all(init_file: str, concurrency: int = 5, only: str | None = None, no_cache: bool = False) -> None:
     """Download all datasets listed in manifest.json next to init_file.
 
     Args:
         init_file: Path to the provider package's __init__.py (or __main__.py).
         concurrency: Maximum number of simultaneous downloads.
+        only: If set, only download the file whose dest name matches.
+        no_cache: If True, skip conditional headers (ignore ETag cache).
     """
     pkg_dir, manifest = _load_manifest(init_file)
     output_dir = pkg_dir / "datasets"
@@ -97,6 +99,14 @@ async def fetch_all(init_file: str, concurrency: int = 5) -> None:
                 raise ValueError(f"Destination path escapes output directory: {dest}")
             downloads.append((url, dest))
 
+    if only:
+        matched = [(url, dest) for url, dest in downloads if dest.name == only]
+        if not matched:
+            available = ", ".join(dest.name for _, dest in downloads)
+            print(f"找不到檔案: {only}\n可用的檔案: {available}")
+            return
+        downloads = matched
+
     sem = asyncio.Semaphore(concurrency)
     issues: list[dict] = []
     blocked_domains: set[str] = set()
@@ -106,6 +116,8 @@ async def fetch_all(init_file: str, concurrency: int = 5) -> None:
 
     def _conditional_headers(url: str) -> dict[str, str]:
         """Build If-None-Match / If-Modified-Since headers from cache."""
+        if no_cache:
+            return {}
         headers: dict[str, str] = {}
         entry = cache.get(url)
         if entry:
