@@ -1,5 +1,3 @@
-import asyncio
-
 from data_gov_tw.crawler import crawl
 
 

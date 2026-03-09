@@ -25,22 +25,25 @@ async def crawl(output_dir: Path = DEFAULT_OUTPUT_DIR) -> None:
         filename = _filename_from_url(url)
         dest = output_dir / filename
 
-        async with session.get(url) as resp:
-            if resp.status != 200:
-                progress.console.print(f"[red]✗[/red] {filename}: HTTP {resp.status}")
-                return
+        try:
+            async with session.get(url) as resp:
+                if resp.status != 200:
+                    progress.console.print(f"[red]✗[/red] {filename}: HTTP {resp.status}")
+                    return
 
-            total = resp.content_length
-            task = progress.add_task(filename, total=total or None)
+                total = resp.content_length
+                task = progress.add_task(filename, total=total or None)
 
-            with open(dest, "wb") as f:
-                async for chunk in resp.content.iter_chunked(64 * 1024):
-                    f.write(chunk)
-                    progress.update(task, advance=len(chunk))
+                with open(dest, "wb") as f:
+                    async for chunk in resp.content.iter_chunked(64 * 1024):
+                        f.write(chunk)
+                        progress.update(task, advance=len(chunk))
 
-            size = dest.stat().st_size
-            progress.remove_task(task)
-            progress.console.print(f"[green]✓[/green] {filename} ({size:,} bytes)")
+                size = dest.stat().st_size
+                progress.remove_task(task)
+                progress.console.print(f"[green]✓[/green] {filename} ({size:,} bytes)")
+        except (aiohttp.ClientError, asyncio.TimeoutError) as exc:
+            progress.console.print(f"[red]✗[/red] {filename}: {type(exc).__name__}: {exc}")
 
     with Progress(
         "[progress.description]{task.description}",
