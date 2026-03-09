@@ -24,8 +24,8 @@ async def _run_all(concurrency: int) -> None:
     await asyncio.gather(*tasks)
 
 
-@app.command()
-def main(concurrency: int = typer.Option(3, help="同時執行的 portal 數量上限")) -> None:
+@app.callback(invoke_without_command=True)
+def main(concurrency: int = typer.Option(3, min=1, help="同時執行的 portal 數量上限")) -> None:
     """執行所有 portal 的爬蟲。"""
     asyncio.run(_run_all(concurrency))
 
