@@ -4,6 +4,7 @@ from pathlib import Path
 import typer
 
 from shared.scaffold import group_by_provider, scaffold_provider
+from shared.scorer import score_provider
 
 app = typer.Typer()
 
@@ -51,6 +52,43 @@ def scaffold(
         pkg_dir = output_dir / slug
         n = len(groups[name])
         print(f"✓ {name} → {slug}/ ({n} 筆資料集)")
+
+
+@app.command("score")
+def score(
+    provider_dir: Path = typer.Argument(
+        None, help="要評分的 provider 目錄路徑（例如 opdadm_moi_gov_tw）"
+    ),
+    all_providers: bool = typer.Option(
+        False, "--all", help="評分所有有 manifest.json 的 provider"
+    ),
+) -> None:
+    """對已下載的資料集進行 5-Star 評分。"""
+    if all_providers:
+        cwd = Path.cwd()
+        provider_dirs = sorted(
+            p.parent for p in cwd.glob("*/manifest.json")
+            if p.parent.name != "data_gov_tw"
+        )
+        if not provider_dirs:
+            print("找不到任何 provider 目錄")
+            raise typer.Exit(1)
+        for pkg_dir in provider_dirs:
+            _score_one(pkg_dir)
+    elif provider_dir is not None:
+        _score_one(Path(provider_dir))
+    else:
+        print("請指定 provider 目錄或使用 --all")
+        raise typer.Exit(1)
+
+
+def _score_one(pkg_dir: Path) -> None:
+    """Score a single provider and print summary."""
+    scores = score_provider(pkg_dir)
+    total = len(scores["datasets"])
+    scored = [d for d in scores["datasets"] if d["star_score"] > 0]
+    avg = sum(d["star_score"] for d in scored) / len(scored) if scored else 0
+    print(f"✓ {scores['provider']} — {total} 筆資料集, 平均 {avg:.1f} 星")
 
 
 if __name__ == "__main__":
