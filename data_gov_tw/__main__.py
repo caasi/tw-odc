@@ -7,8 +7,8 @@ from data_gov_tw.crawler import crawl
 app = typer.Typer()
 
 
-@app.command()
-def do_crawl() -> None:
+@app.callback(invoke_without_command=True)
+def crawl_cmd() -> None:
     """下載 data.gov.tw 的資料集匯出檔案（JSON、CSV、XML）。"""
     asyncio.run(crawl())
 

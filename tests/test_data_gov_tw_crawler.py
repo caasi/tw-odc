@@ -1,6 +1,8 @@
+import asyncio
 import subprocess
 from unittest.mock import AsyncMock, MagicMock, patch
 
+import aiohttp
 import pytest
 
 from data_gov_tw.crawler import crawl, EXPORTS
@@ -52,6 +54,32 @@ async def test_crawl_downloads_all_exports(tmp_path):
 @pytest.mark.asyncio
 async def test_crawl_handles_http_error(tmp_path):
     mock_session = _make_mock_session(500)
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await crawl(output_dir=tmp_path)
+
+    assert not (tmp_path / "export.json").exists()
+
+
+@pytest.mark.asyncio
+async def test_crawl_handles_network_error(tmp_path):
+    mock_session = AsyncMock()
+    mock_session.get = MagicMock(side_effect=aiohttp.ClientConnectionError("connection refused"))
+    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
+    mock_session.__aexit__ = AsyncMock(return_value=False)
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await crawl(output_dir=tmp_path)
+
+    assert not (tmp_path / "export.json").exists()
+
+
+@pytest.mark.asyncio
+async def test_crawl_handles_timeout_error(tmp_path):
+    mock_session = AsyncMock()
+    mock_session.get = MagicMock(side_effect=asyncio.TimeoutError())
+    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
+    mock_session.__aexit__ = AsyncMock(return_value=False)
 
     with patch("aiohttp.ClientSession", return_value=mock_session):
         await crawl(output_dir=tmp_path)
