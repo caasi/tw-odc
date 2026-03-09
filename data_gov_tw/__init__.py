@@ -1,5 +1,5 @@
-from data_gov_tw.crawler import crawl
+from shared.fetcher import fetch_all
 
 
 async def run() -> None:
-    await crawl()
+    await fetch_all(__file__)
