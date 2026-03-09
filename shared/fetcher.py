@@ -7,10 +7,10 @@ from pathlib import Path
 import aiohttp
 from rich.progress import Progress, BarColumn, DownloadColumn, TransferSpeedColumn
 
-# Only allow alphanumeric, hyphen, and underscore in dataset ids and formats
+# Only allow safe characters in dataset ids and formats
 # to prevent path traversal attacks.
 _SAFE_ID_RE = re.compile(r"^[A-Za-z0-9_\-]+$")
-_SAFE_FMT_RE = re.compile(r"^[A-Za-z0-9]+$")
+_SAFE_FMT_RE = re.compile(r"^\w+$")
 
 
 def _load_manifest(init_file: str) -> tuple[Path, dict]:

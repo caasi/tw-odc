@@ -131,6 +131,14 @@ def test_dest_filename_rejects_path_traversal(tmp_path):
         _dest_filename({"id": "1001", "format": "py/../evil"}, 0, 1)
 
 
+def test_dest_filename_accepts_unicode_format():
+    """Chinese format names like '其他' should be accepted."""
+    from shared.fetcher import _dest_filename
+
+    result = _dest_filename({"id": "1001", "format": "其他"}, 0, 1)
+    assert result == "1001.其他"
+
+
 @pytest.mark.asyncio
 async def test_fetch_all_handles_multiple_urls(tmp_path):
     pkg_dir = _make_manifest(tmp_path, [
