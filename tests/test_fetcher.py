@@ -3,7 +3,7 @@ from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
-from shared.fetcher import fetch_all
+from shared.fetcher import clean, fetch_all
 
 
 def _make_manifest(tmp_path, datasets):
@@ -209,3 +209,41 @@ async def test_fetch_all_handles_multiple_urls(tmp_path):
     datasets_dir = pkg_dir / "datasets"
     assert (datasets_dir / "2001-1.csv").read_bytes() == mock_content
     assert (datasets_dir / "2001-2.csv").read_bytes() == mock_content
+
+
+def test_clean_removes_all_generated_files(tmp_path):
+    """clean() should remove datasets/, etags.json, issues.jsonl, scores.json."""
+    pkg_dir = tmp_path / "test_provider"
+    pkg_dir.mkdir()
+    (pkg_dir / "manifest.json").write_text("{}")
+    (pkg_dir / "__init__.py").write_text("")
+
+    # Create generated files
+    ds_dir = pkg_dir / "datasets"
+    ds_dir.mkdir()
+    (ds_dir / "1001.csv").write_text("data")
+    (pkg_dir / "etags.json").write_text("{}")
+    (pkg_dir / "issues.jsonl").write_text("{}")
+    (pkg_dir / "scores.json").write_text("{}")
+
+    removed = clean(str(pkg_dir / "__init__.py"))
+
+    assert not ds_dir.exists()
+    assert not (pkg_dir / "etags.json").exists()
+    assert not (pkg_dir / "issues.jsonl").exists()
+    assert not (pkg_dir / "scores.json").exists()
+    # manifest.json and __init__.py should remain
+    assert (pkg_dir / "manifest.json").exists()
+    assert (pkg_dir / "__init__.py").exists()
+    assert len(removed) == 4
+
+
+def test_clean_nothing_to_delete(tmp_path):
+    """clean() on an already-clean module should return empty list."""
+    pkg_dir = tmp_path / "test_provider"
+    pkg_dir.mkdir()
+    (pkg_dir / "manifest.json").write_text("{}")
+    (pkg_dir / "__init__.py").write_text("")
+
+    removed = clean(str(pkg_dir / "__init__.py"))
+    assert removed == []

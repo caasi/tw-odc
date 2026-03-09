@@ -1,6 +1,7 @@
 import asyncio
 import json
 import re
+import shutil
 import ssl
 from pathlib import Path
 from urllib.parse import urlparse
@@ -39,6 +40,29 @@ def _dest_filename(dataset: dict, url_index: int, url_count: int) -> str:
     if url_count == 1:
         return f"{dataset_id}.{fmt}"
     return f"{dataset_id}-{url_index + 1}.{fmt}"
+
+
+def clean(init_file: str) -> list[str]:
+    """Remove all generated files for a provider package.
+
+    Deletes: datasets/, etags.json, issues.jsonl, scores.json.
+    Returns list of names that were actually removed.
+    """
+    pkg_dir = Path(init_file).parent
+    removed: list[str] = []
+
+    datasets_dir = pkg_dir / "datasets"
+    if datasets_dir.exists():
+        shutil.rmtree(datasets_dir)
+        removed.append("datasets/")
+
+    for name in ("etags.json", "issues.jsonl", "scores.json"):
+        path = pkg_dir / name
+        if path.exists():
+            path.unlink()
+            removed.append(name)
+
+    return removed
 
 
 async def fetch_all(init_file: str, concurrency: int = 5) -> None:
