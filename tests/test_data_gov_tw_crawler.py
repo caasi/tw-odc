@@ -1,4 +1,5 @@
 import asyncio
+import subprocess
 from pathlib import Path
 from unittest.mock import AsyncMock, patch, MagicMock
 
@@ -53,3 +54,13 @@ async def test_crawl_handles_http_error(tmp_path, capsys):
     assert not (tmp_path / "export.json").exists()
     captured = capsys.readouterr()
     assert "500" in captured.out or "失敗" in captured.out
+
+
+def test_cli_module_runs():
+    result = subprocess.run(
+        ["uv", "run", "python", "-m", "data_gov_tw", "--help"],
+        capture_output=True,
+        text=True,
+    )
+    assert result.returncode == 0
+    assert "data.gov.tw" in result.stdout
