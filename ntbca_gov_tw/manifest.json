@@ -1,0 +1,782 @@
+{
+  "provider": "財政部中區國稅局",
+  "slug": "ntbca_gov_tw",
+  "datasets": [
+    {
+      "id": "19813",
+      "name": "財政部中區國稅局及所屬會計報表",
+      "format": "zip",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/161bb9d893d000009e973f47767ed046",
+        "https://www.ntbca.gov.tw/download/161bb9de5f3000003deb788f731162d3",
+        "https://www.ntbca.gov.tw/download/161bb9e49590000082c22e1f2d416e5d",
+        "https://www.ntbca.gov.tw/download/161bb9ea9e200000e878389fb3d8d451",
+        "https://www.ntbca.gov.tw/download/eca4c82a3fd64c34a3fecb8c94940308",
+        "https://www.ntbca.gov.tw/download/154e68b31b20000066612317d42bb3c4",
+        "https://www.ntbca.gov.tw/download/154e68c9e5400000824d2365292a8bd1",
+        "https://www.ntbca.gov.tw/download/154e68e0f200000020154c5f653c793d",
+        "https://www.ntbca.gov.tw/download/161bb9eedaa00000204a07f2286982eb",
+        "https://www.ntbca.gov.tw/download/15557f7a172000009ab0c3ce33b94eba",
+        "https://www.ntbca.gov.tw/download/161bb9f8969000003952b2797af63702",
+        "https://www.ntbca.gov.tw/download/155fd0cc67200000c4a38e58fb84dd4c",
+        "https://www.ntbca.gov.tw/download/161bb9fd36a00000505e4435e127fc6a",
+        "https://www.ntbca.gov.tw/download/1569264cd030000018225c1ac006479a",
+        "https://www.ntbca.gov.tw/download/161bba01c0e00000753f1147f58fab76",
+        "https://www.ntbca.gov.tw/download/157d07d303a000007b0c2397b046ff50",
+        "https://www.ntbca.gov.tw/download/161bba06ac9000005f61dbd58a955956",
+        "https://www.ntbca.gov.tw/download/157d08aee2f000004bf700003c79df33",
+        "https://www.ntbca.gov.tw/download/161bba0b811000006cc82369151d5a6f",
+        "https://www.ntbca.gov.tw/download/1586b2147eb000006abab36d0c706803",
+        "https://www.ntbca.gov.tw/download/161bba10140000003aeab70852cb3eb4",
+        "https://www.ntbca.gov.tw/download/1591517fdfc000008c7c899179fa2937",
+        "https://www.ntbca.gov.tw/download/161bba151d400000411e167b538932d1",
+        "https://www.ntbca.gov.tw/download/15a20caefe7000000ed93c49183d8dcd",
+        "https://www.ntbca.gov.tw/download/161bb8be6ef000002a4bc85d01f1178a",
+        "https://www.ntbca.gov.tw/download/161bb8c2f0a000005f981d586716c6d7",
+        "https://www.ntbca.gov.tw/download/161bb8c986900000777ed6539e62b426",
+        "https://www.ntbca.gov.tw/download/161bb8cea900000046bc47214575391f",
+        "https://www.ntbca.gov.tw/download/161bb8d4ad0000009be4003755d828f2",
+        "https://www.ntbca.gov.tw/download/161bb8da3f200000929f92b978c101c0",
+        "https://www.ntbca.gov.tw/download/161bb8e0fc9000008d4dcd999a420d44",
+        "https://www.ntbca.gov.tw/download/161bb8e5a7800000a83f84af8204790f",
+        "https://www.ntbca.gov.tw/download/161bb8ead88000006887e72e9f7ad480",
+        "https://www.ntbca.gov.tw/download/161bb8efad200000394cc2320e4e57f8",
+        "https://www.ntbca.gov.tw/download/161bb8f4320000001527404351a51810",
+        "https://www.ntbca.gov.tw/download/161bb47ad2400000e9108b1736618eec",
+        "https://www.ntbca.gov.tw/download/161d4dc4c790000004f5c0cb2a105bcb",
+        "https://www.ntbca.gov.tw/download/8163face8f0e41de8f842bf56547f297",
+        "https://www.ntbca.gov.tw/download/162278f473b00000e6722d671da8866c",
+        "https://www.ntbca.gov.tw/download/162279a030d00000bd65d5166159c387",
+        "https://www.ntbca.gov.tw/download/162ff4b0a9c000000542dab8c2990d74",
+        "https://www.ntbca.gov.tw/download/162bdc59927000000b717bb879407234",
+        "https://www.ntbca.gov.tw/download/162ffdb4d8e0000091ee98371fc2f8d2",
+        "https://www.ntbca.gov.tw/download/162ffe1b8c800000f92f5a79fd2bb3b0",
+        "https://www.ntbca.gov.tw/download/162ffe54a9f0000014be57187a4cc34c",
+        "https://www.ntbca.gov.tw/download/162ffe95a250000097595e60e4d3c19b",
+        "https://www.ntbca.gov.tw/download/162ffec16b1000001cd82782ef3fffba",
+        "https://www.ntbca.gov.tw/download/162ffeeb950000001c4286b29f6e3f49",
+        "https://www.ntbca.gov.tw/download/162fff15aec000005d7e68560b2a3d2d",
+        "https://www.ntbca.gov.tw/download/162fff39be000000b5fa84bb71a25f3e",
+        "https://www.ntbca.gov.tw/download/162fff5f52b000008ef85f2b76c478e8",
+        "https://www.ntbca.gov.tw/download/162fff855c4000005b2dd47756b2164c",
+        "https://www.ntbca.gov.tw/download/162fffafdd8000004c7d5da6a5966987",
+        "https://www.ntbca.gov.tw/download/162fffde0c900000c94dfff89a3f0ffa",
+        "https://www.ntbca.gov.tw/download/16361a99e8d00000a01763200ed9e828",
+        "https://www.ntbca.gov.tw/download/16361b1626a00000e308a2f53c4f96f3",
+        "https://www.ntbca.gov.tw/download/163fc0ad50700000a41ff848d946aa3a",
+        "https://www.ntbca.gov.tw/download/163fc198e7100000f733933194944ff5",
+        "https://www.ntbca.gov.tw/download/164a11febb5000005e9c516ab4a07ab7",
+        "https://www.ntbca.gov.tw/download/164a12acb6c00000ed0f105f00a715cd",
+        "https://www.ntbca.gov.tw/download/16540a6d8cd0000087f5aac775cc39bc",
+        "https://www.ntbca.gov.tw/download/16540b079250000075d16294d391bbfd",
+        "https://www.ntbca.gov.tw/download/165eb616dd600000ccebf40833302acd",
+        "https://www.ntbca.gov.tw/download/165eb6c7f100000046af58563a521df2",
+        "https://www.ntbca.gov.tw/download/1667fbc22e600000c3074949d5e9fb28",
+        "https://www.ntbca.gov.tw/download/1667fce08b20000098773d596f7aedf0",
+        "https://www.ntbca.gov.tw/download/1671614168f0000006ff643c5397b453",
+        "https://www.ntbca.gov.tw/download/167161d9cda00000237287c62796b6b5",
+        "https://www.ntbca.gov.tw/download/167ba0b6d0c00000b5e6e0ec0f79ba4b",
+        "https://www.ntbca.gov.tw/download/167ba1ba89000000c6cbb45500dde7c8",
+        "https://www.ntbca.gov.tw/download/323d4a7ce2a647c4b03152ff66fd3a2c",
+        "https://www.ntbca.gov.tw/download/168a1d9204c00000bcfe0c881ee0cd5f",
+        "https://www.ntbca.gov.tw/download/16903804b1b000002b8e5fd1ba8f4d1d",
+        "https://www.ntbca.gov.tw/download/1690475cda5000001691bea3cd667500",
+        "https://www.ntbca.gov.tw/download/16979fe107200000e693dc87c01d361f",
+        "https://www.ntbca.gov.tw/download/1697a3b285200000b318669186e4f150",
+        "https://www.ntbca.gov.tw/download/16a24d11dbf000001666701fc6fd6dc3",
+        "https://www.ntbca.gov.tw/download/16a24e6ffb8000000e5bddce1170f649",
+        "https://www.ntbca.gov.tw/download/16aaf2628a000000ad619bfb8f48f54e",
+        "https://www.ntbca.gov.tw/download/16aaf31cc8800000c0fd5c12575c0fd5",
+        "https://www.ntbca.gov.tw/download/16b68732bf000000a79a8f0e958a3ac3",
+        "https://www.ntbca.gov.tw/download/16b687df525000005ae389b24258e137",
+        "https://www.ntbca.gov.tw/download/16be3e4746f000002aa565a22a436cf8",
+        "https://www.ntbca.gov.tw/download/16be3f42cdf00000ca064b9317823b4e",
+        "https://www.ntbca.gov.tw/download/16c931bd72800000380ac5f1b7bbeead",
+        "https://www.ntbca.gov.tw/download/16c932be6c400000cffc3e4579116f66",
+        "https://www.ntbca.gov.tw/download/16d380eab9f0000028af95194a7ce8b4",
+        "https://www.ntbca.gov.tw/download/16d382168800000028ccdd83741156eb",
+        "https://www.ntbca.gov.tw/download/32063a1ef90647e38b3c80a75c401a0a",
+        "https://www.ntbca.gov.tw/download/2f4579ced6cc46cb9720ad7f0aab2e29",
+        "https://www.ntbca.gov.tw/download/958bf2990b7049c28c7710b061b9688d",
+        "https://www.ntbca.gov.tw/download/b77e1f42106143d18cc35fddf38c8ad1",
+        "https://www.ntbca.gov.tw/download/fa14173e601d4ca391bc55176392cdc3",
+        "https://www.ntbca.gov.tw/download/4367443b90c948be987b9ba4e6e5f370",
+        "https://www.ntbca.gov.tw/download/4f00c47d80cc47359ac47c514aa55219",
+        "https://www.ntbca.gov.tw/download/7c83955d0d834527a3f5c140bf6d955b",
+        "https://www.ntbca.gov.tw/download/aafde0e836c7491582916a1d13c6add4",
+        "https://www.ntbca.gov.tw/download/45e32c185ea743189406dbebd3b5230a",
+        "https://www.ntbca.gov.tw/download/2c82a3f48ed64b5cb4e5388d51770532",
+        "https://www.ntbca.gov.tw/download/daf3e938f89c4d809fa920a47753057c",
+        "https://www.ntbca.gov.tw/download/fc0b96523a9045d489a2dc144ab0cae3",
+        "https://www.ntbca.gov.tw/download/058cfb7b831e485a80557c0308a00d94",
+        "https://www.ntbca.gov.tw/download/1ca778536f08473092ae8d7b77c6349d",
+        "https://www.ntbca.gov.tw/download/94b6df29fd6c4635995335437b618e3d",
+        "https://www.ntbca.gov.tw/download/3864c62a0488432380d1a08717771157",
+        "https://www.ntbca.gov.tw/download/13d0e52148754198b19cb3c1d72abc53",
+        "https://www.ntbca.gov.tw/download/348296519f2547f3a2ccc23be4995572",
+        "https://www.ntbca.gov.tw/download/29574b96e97b466d8765a142410313b5",
+        "https://www.ntbca.gov.tw/download/5f6beec936dc473aa0204b0d3240d7e9",
+        "https://www.ntbca.gov.tw/download/3bdc08c05ae140aab3cae91129c73330",
+        "https://www.ntbca.gov.tw/download/ad0a0e02f35344f8b8e1c99dfae482f7",
+        "https://www.ntbca.gov.tw/download/da4069760899459294a9085948c6d439",
+        "https://www.ntbca.gov.tw/download/dc3e589d77a74908add8ddc6f9017dbc",
+        "https://www.ntbca.gov.tw/download/be2a0120b3bf47608d95c3e33b8f77fc",
+        "https://www.ntbca.gov.tw/download/58712865d6094b599843609444a41036",
+        "https://www.ntbca.gov.tw/download/919904d32e3343c59d75686e2dfa510d",
+        "https://www.ntbca.gov.tw/download/95b3d7cef8ec4681bfdfb8c29e75a02b",
+        "https://www.ntbca.gov.tw/download/cf74f7979442428ebc72d0595bd68858",
+        "https://www.ntbca.gov.tw/download/c3f18ab94e6a453e824d15e0728c440c",
+        "https://www.ntbca.gov.tw/download/74af6327c47e492a9086f88143502815",
+        "https://www.ntbca.gov.tw/download/aef466bb14d148299d10c93b83ddfe66",
+        "https://www.ntbca.gov.tw/download/b40bf44f06f041d695a23ecc4bcd662c",
+        "https://www.ntbca.gov.tw/download/8c1d2ee7a1a2497dad967b68ed1d1512",
+        "https://www.ntbca.gov.tw/download/1983f62226a24aaa9bf385f4c1f2910b",
+        "https://www.ntbca.gov.tw/download/73c610077b924c148a78a27ada5c931a",
+        "https://www.ntbca.gov.tw/download/0af04ebfadfc47ca90d3f10ee203c4f4",
+        "https://www.ntbca.gov.tw/download/6b3d31029b2a4e01bb0446633e96ec68",
+        "https://www.ntbca.gov.tw/download/4e4a9a3f3ed440238806df443185cf01",
+        "https://www.ntbca.gov.tw/download/ccb0e6216b6d414c8824677e30cda857",
+        "https://www.ntbca.gov.tw/download/bd38b346afbc45d1aad5bf0e009b0c6e",
+        "https://www.ntbca.gov.tw/download/a5465a30937a4fd7a6dba85d3995b46b",
+        "https://www.ntbca.gov.tw/download/eedd15fa1f0c4692a7f13ce691d01aa7",
+        "https://www.ntbca.gov.tw/download/3dad93d9331048a6985f27eaa3ffe11a",
+        "https://www.ntbca.gov.tw/download/568b0f1d85074e77b1116360138235a1",
+        "https://www.ntbca.gov.tw/download/a1cb2e19d75b4d6cacf850a85d4d14ec",
+        "https://www.ntbca.gov.tw/download/a3a3255c428c4a0a93c2d55f7e0c909f",
+        "https://www.ntbca.gov.tw/download/7e010ce299e94cfa90c44ebf42d91435",
+        "https://www.ntbca.gov.tw/download/fba7a4e26aa744ebb193405a0fb54d51",
+        "https://www.ntbca.gov.tw/download/b7f5ac8ff3bc417895273ea77b6fd557",
+        "https://www.ntbca.gov.tw/download/09652767d25e45bf8262b9fe96bf8261",
+        "https://www.ntbca.gov.tw/download/ff71fbffe2484179bfe3330ff2e4970d",
+        "https://www.ntbca.gov.tw/download/500a44cd1f844ffdb657c772395157bb",
+        "https://www.ntbca.gov.tw/download/9ff0e9c88b084dacb7ceccdb1609f596",
+        "https://www.ntbca.gov.tw/download/2edac59fa7bc490cbbd91037e71b08a8",
+        "https://www.ntbca.gov.tw/download/2de0bc482c6442268cb7ba2207c38381",
+        "https://www.ntbca.gov.tw/download/8a0678636b2647ebb4002668d99db9b3",
+        "https://www.ntbca.gov.tw/download/7a76024599c24f4e996c9ebb40a53c5d",
+        "https://www.ntbca.gov.tw/download/c01d162ae1f64eabb9fc3d56db57570f",
+        "https://www.ntbca.gov.tw/download/24795a3553434c21b030f93eb6f8d0ca",
+        "https://www.ntbca.gov.tw/download/314a5dfe29554378a619522ff7bd0440",
+        "https://www.ntbca.gov.tw/download/db27d338e30447a3876bcfabccdc778c",
+        "https://www.ntbca.gov.tw/download/c25cd81f305249b8882dc6d1f8d2f764",
+        "https://www.ntbca.gov.tw/download/0ed9f75bb90e4e5bb37be23b77ee4eba",
+        "https://www.ntbca.gov.tw/download/e38b0b4bd1e6454096eef90b001fd102",
+        "https://www.ntbca.gov.tw/download/4c3727fdd51849cc80f3ddf8c16000b9",
+        "https://www.ntbca.gov.tw/download/e77cec6fff544f85894c36bbcd9a6fe8",
+        "https://www.ntbca.gov.tw/download/91cd881f39534e40a000dbf23a6d72fb",
+        "https://www.ntbca.gov.tw/download/321d4ecfb0dc4a0fa25d21d7a78bd786",
+        "https://www.ntbca.gov.tw/download/d94f161e733a44d09282916c6e5b6c38",
+        "https://www.ntbca.gov.tw/download/1311cb92fc5f46c08c2127442d766ca1",
+        "https://www.ntbca.gov.tw/download/b57c2ba60cd5417f82199a23154974a6",
+        "https://www.ntbca.gov.tw/download/dffaf44833964905a66a12dc1279f918",
+        "https://www.ntbca.gov.tw/download/dbe95ce8906743b2b973837351dc053b",
+        "https://www.ntbca.gov.tw/download/c7dc8407bfab4289a9681215513fc697",
+        "https://www.ntbca.gov.tw/download/40f06ed8cdba4beea1ccdf541196ca2a",
+        "https://www.ntbca.gov.tw/download/55bfcc82c0ca4b58b4575933d4f1ae63",
+        "https://www.ntbca.gov.tw/download/d699de42c88247759704c9135df01adc",
+        "https://www.ntbca.gov.tw/download/fd6ec44a4bb949d18dd1aa36c3e11d84"
+      ]
+    },
+    {
+      "id": "25445",
+      "name": "貨物稅、證券交易稅、期貨交易稅及特種貨物及勞務稅減免優惠一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/1609ab680f300000f7eb96aac3b8ddfa_2",
+        "https://www.ntbca.gov.tw/download/15ec6950efc000004e61adde9110b473_2",
+        "https://www.ntbca.gov.tw/download/15ec6919a65000002b02db725aa9d1c5_2"
+      ]
+    },
+    {
+      "id": "25479",
+      "name": "國稅問與答—贈與稅",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/151b323765d000006dfc52ff883dca8f_2"
+      ]
+    },
+    {
+      "id": "25482",
+      "name": "綜合所得稅結算申報稅額試算服務措施",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15ea90155ea0000038bae96b4aa8778d_2"
+      ]
+    },
+    {
+      "id": "25483",
+      "name": "財政部中區國稅局外僑綜合所得稅結算申報案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/e5ae493bbff647ee9ef06f4b28d22c58"
+      ]
+    },
+    {
+      "id": "12805",
+      "name": "財政部中區國稅局轄區內人口數、工商家數及各項申報統計",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/81a62a3fa9cd4e2b87de8db197e91114"
+      ]
+    },
+    {
+      "id": "12632",
+      "name": "財政部中區國稅局預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/e638b3fa3ebf4e32a6ce2614fc4b58fd",
+        "https://www.ntbca.gov.tw/download/a2106f27ff9b4285b933fe7c6aca423f",
+        "https://www.ntbca.gov.tw/download/7fd31b435a4c48d493549c6217253f96",
+        "https://www.ntbca.gov.tw/download/7837079e30ae4bf2ba9c959b4ad8ed0b",
+        "https://www.ntbca.gov.tw/download/96781b536c3a449faa9242dd9a15715f",
+        "https://www.ntbca.gov.tw/download/ede25742f6d4416cb95ad2fec047d440",
+        "https://www.ntbca.gov.tw/download/2b9b34a31f1240929c365d6de174e3d3",
+        "https://www.ntbca.gov.tw/download/d7fa75fd55d54475a8485eaf5c49b25f",
+        "https://www.ntbca.gov.tw/download/7180c9307b02467ba2ea64332ae37884",
+        "https://www.ntbca.gov.tw/download/6b58fd44f2d4449681421a16825c45fe",
+        "https://www.ntbca.gov.tw/download/74fbc464fa374d1299c598cea667b5e8",
+        "https://www.ntbca.gov.tw/download/0b64a6a55c564adeba2aabc525242d59"
+      ]
+    },
+    {
+      "id": "25513",
+      "name": "財政部中區國稅局記帳士名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/151b43b1fa1000006ebfaeff5c1733af_2"
+      ]
+    },
+    {
+      "id": "25657",
+      "name": "營利事業所得稅暫繳申報手冊",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/2f7956f407954b09b1e94224412ec1ea"
+      ]
+    },
+    {
+      "id": "12648",
+      "name": "財政部中區國稅局及所屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15c2ee2db4e0000063ab0a1e827a7e41",
+        "https://www.ntbca.gov.tw/download/162ff6428950000042ce5a4804510bb4",
+        "https://www.ntbca.gov.tw/download/169235d023f00000c2648eb3facda61b",
+        "https://www.ntbca.gov.tw/download/e6dd80eb10184f75b8808ccc20ec7344",
+        "https://www.ntbca.gov.tw/download/e555683ae2ee41e5a43a54898922dff9",
+        "https://www.ntbca.gov.tw/download/90a016f667f0450fa2a146f1c6eb59b7",
+        "https://www.ntbca.gov.tw/download/17feebdc84a247a5a140dea94172f3f2",
+        "https://www.ntbca.gov.tw/download/f5c800ed9dfa44c7aa31400e46f303cd",
+        "https://www.ntbca.gov.tw/download/4287b44f8dc54d91a16d77b8e28e84f7"
+      ]
+    },
+    {
+      "id": "12652",
+      "name": "財政部中區國稅局國稅統計年報(近3年度) ",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/14f3f6f5a2700000a1fedd012624853c_2"
+      ]
+    },
+    {
+      "id": "30079",
+      "name": "財政部中區國稅局業務績效與榮譽",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15dabe3d34f0000002364424e2bdf612_2"
+      ]
+    },
+    {
+      "id": "30091",
+      "name": "財政部中區國稅局提升服務執行計畫",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/162f55f4d9300000aef5cd126fb8b82d_2"
+      ]
+    },
+    {
+      "id": "30050",
+      "name": "財政部中區國稅局期貨商家數統計表 Statistics of the Number of Futures Commission Merchants, National Taxation Bureau of the Central Area (NTBCA), Ministry of Finance",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153c6c711f600000c6ddfcf76868bc8f_2"
+      ]
+    },
+    {
+      "id": "29974",
+      "name": "財政部中區國稅局營業稅籍登記申請收件統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153823ec78a00000c772a2c57352bd0b_2"
+      ]
+    },
+    {
+      "id": "29986",
+      "name": "財政部中區國稅局保有個人資料檔案公開項目彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153bae4bdcf0000013b805cd49bc6170_2"
+      ]
+    },
+    {
+      "id": "30100",
+      "name": "財政部中區國稅局全功能櫃檯Easy速利得免下車服務作業要點",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153bc0d07610000009c19c938f0e9b40_2"
+      ]
+    },
+    {
+      "id": "32915",
+      "name": "財政部中區國稅局全功能櫃檯作業處理件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15a44c2e453000002b10bc0cbf31de5f_2"
+      ]
+    },
+    {
+      "id": "32916",
+      "name": "財政部中區國稅局線上申辦案件辦理情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15a44c1f69d00000f311fbdc7596f303_2"
+      ]
+    },
+    {
+      "id": "32930",
+      "name": "財政部中區國稅局復查案件處理情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/a8126d888a5046339bd62128aba5ec16"
+      ]
+    },
+    {
+      "id": "32931",
+      "name": "財政部中區國稅局公職人員財產申報人數及抽籤比例統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/ff09ec6e62264b5db2ae343610436ab9"
+      ]
+    },
+    {
+      "id": "36918",
+      "name": "財政部中區國稅局贈與稅核定徵免件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15ea8ed31b100000eb70cfbf36bbc740_2"
+      ]
+    },
+    {
+      "id": "119456",
+      "name": "財政部中區國稅局營利事業所得稅受理災害損失報備情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/4e0669cdb105497f811dbc043ceb3694"
+      ]
+    },
+    {
+      "id": "119707",
+      "name": "財政部中區國稅局執行業務暨其他所得者申報家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/479179f84e1e431699d8247d8b4e0613"
+      ]
+    },
+    {
+      "id": "119321",
+      "name": "財政部中區國稅局臨櫃查詢所得及扣除額件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/98275986639749b9a4aa96284912cfc3"
+      ]
+    },
+    {
+      "id": "160864",
+      "name": "財政部中區國稅局受理民眾參與及創新作業要點",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/f2bda3331da8402794573811ceae00ec"
+      ]
+    },
+    {
+      "id": "12806",
+      "name": "財政部中區國稅局歷年支付或接受之補助",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/bcf7d2a81c794250bf9a60f37612c02d"
+      ]
+    },
+    {
+      "id": "30051",
+      "name": "財政部中區國稅局證券商家數統計表 Statistics of the Number of Securities Transaction Tax Applicants, National Taxation Bureau of the Central Area, Ministry of Finance",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153c6c5ca1600000348730ed6012194e_2"
+      ]
+    },
+    {
+      "id": "30188",
+      "name": "財政部中區國稅局最近5年度國家賠償事件處理情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/9ab750af87ac4297baed186566ddf1e2"
+      ]
+    },
+    {
+      "id": "30078",
+      "name": "財政部中區國稅局年度重要施政計畫",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15e18629e1d000003fc606546b2fbf6f_2"
+      ]
+    },
+    {
+      "id": "30080",
+      "name": "財政部中區國稅局業務職掌",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153bb36d50500000dfb9e8a0a8a7ff11_2"
+      ]
+    },
+    {
+      "id": "30108",
+      "name": "稅務行事曆",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/e848acb88c1340949b4a0ae774dfdcf2"
+      ]
+    },
+    {
+      "id": "32580",
+      "name": "財政部中區國稅局電子公文統計彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/8ecbbd79ce6e4f6d98ccd24ed4c13862"
+      ]
+    },
+    {
+      "id": "32516",
+      "name": "財政部中區國稅局營業稅申報家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/1557638d84a00000fa183836172e80f6_2"
+      ]
+    },
+    {
+      "id": "32907",
+      "name": "財政部中區國稅局扣免繳申報收件統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15ea8eab42c000005657c7b00a62861e_2"
+      ]
+    },
+    {
+      "id": "32908",
+      "name": "財政部中區國稅局遺產稅核定徵免件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15ea8ec1f7b000005279555b4b439632_2"
+      ]
+    },
+    {
+      "id": "36917",
+      "name": "房地合一課徵所得稅制度疑義解答",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15765eaacf00000091b389530b7abace_2"
+      ]
+    },
+    {
+      "id": "62536",
+      "name": "財政部中區國稅局公文保存年限統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/278a117f300b4cc7b80d0762b125f106"
+      ]
+    },
+    {
+      "id": "41164",
+      "name": "財政部中區國稅局各項國稅多元繳稅方式統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/b8f19969d22d4489be82644cf51b79ad"
+      ]
+    },
+    {
+      "id": "25446",
+      "name": "財政部中區國稅局使用B2C電子發票營業人清冊",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/168364814c60000055f0a2424dfc5c12_2"
+      ]
+    },
+    {
+      "id": "25481",
+      "name": "稽徵機關核算執行業務者收入及費用標準",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15ea8feed8400000e91bdf335034fde8_2",
+        "https://www.ntbca.gov.tw/download/15ea8ffc69900000f65c0d3e6d0653e8_2"
+      ]
+    },
+    {
+      "id": "25486",
+      "name": "財政部中區國稅局贈與稅收件統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15ea8e97e2000000e850a909a501b2e7_2"
+      ]
+    },
+    {
+      "id": "25515",
+      "name": "財政部中區國稅局記帳及報稅代理人名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/151b43e977f00000a8207c09f12dd764_2"
+      ]
+    },
+    {
+      "id": "25472",
+      "name": "國稅問與答—稅捐稽徵法",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/151b322d35e000007b7350ed6de4f59a_2"
+      ]
+    },
+    {
+      "id": "25478",
+      "name": "國稅問與答—遺產稅",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/151b323219600000fc546ffdb2b29905_2"
+      ]
+    },
+    {
+      "id": "25670",
+      "name": "營業稅繳稅方式說明",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/162d2af57c700000a6e5cb70b21e4c2a_2"
+      ]
+    },
+    {
+      "id": "37059",
+      "name": "財政部中區國稅局營利事業按收入級距核定情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/1577a988870000005e1b5b30a2fc905b_2"
+      ]
+    },
+    {
+      "id": "173179",
+      "name": "財政部中區國稅局受理查詢金融遺產統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/6a121da9175a46a993b6ba60713ef595"
+      ]
+    },
+    {
+      "id": "27954",
+      "name": "財政部中區國稅局招標及決標資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/e556ea5fd88b434586571a405064aefe"
+      ]
+    },
+    {
+      "id": "28954",
+      "name": "財政部中區國稅局員額與素質相關統計資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/dd27c0a99283498484c0864aac89cfcd"
+      ]
+    },
+    {
+      "id": "32932",
+      "name": "財政部中區國稅局訴願以上處理情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/d066dbe9711e4abeb89250ad2e6c4824"
+      ]
+    },
+    {
+      "id": "32936",
+      "name": "財政部中區國稅局菸酒稅廠商家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/1559a4c2255000005480cbfb207da747_2"
+      ]
+    },
+    {
+      "id": "32820",
+      "name": "財政部中區國稅局土地明細清冊",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/b04ee124772a45d3a121d09968daaae8"
+      ]
+    },
+    {
+      "id": "37054",
+      "name": "財政部中區國稅局營利事業單位數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/e1b9f8e2437840f792db8176fbdb38bf"
+      ]
+    },
+    {
+      "id": "30097",
+      "name": "財政部中區國稅局為民服務意見調查分析報告",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/162f55ff63300000c0c81e20b48935e1_2"
+      ]
+    },
+    {
+      "id": "30101",
+      "name": "財政部中區國稅局首長會見民眾實施要點",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153bc0e8c81000001ba177dde0e30394_2"
+      ]
+    },
+    {
+      "id": "30104",
+      "name": "財政部中區國稅局人民陳情案件處理程序及管制作業要點",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/162f583750500000547e3ba03c45efb0_2"
+      ]
+    },
+    {
+      "id": "30105",
+      "name": "財政部中區國稅局人民陳情案件處理情形檢討分析報告",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/162f57d89480000044e496d0df155cd9_2"
+      ]
+    },
+    {
+      "id": "30106",
+      "name": "財政部中區國稅局暨所屬各分局、稽徵所聯絡方式及服務時間",
+      "format": "ods",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153c042ddc7000007e825fede0500580_2",
+        "https://www.ntbca.gov.tw/download/1581a089e95000008b5a25bddfda3407_2"
+      ]
+    },
+    {
+      "id": "30065",
+      "name": "財政部中區國稅局貨物稅申報家數及稅額級距件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153ac5806c5000007bd850425f855009_2"
+      ]
+    },
+    {
+      "id": "29882",
+      "name": "財政部中區國稅局復查決定書案例",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153c0f5c653000001bb79ef75f436d00_2"
+      ]
+    },
+    {
+      "id": "30081",
+      "name": "財政部中區國稅局組織架構",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/153bc59683f000009331dcc15f6308ff_2"
+      ]
+    },
+    {
+      "id": "25480",
+      "name": "個人出售房屋未申報或已申報而未能提出證明文件之財產交易所得標準",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15ea8fdef200000082ba790920f0db67_2"
+      ]
+    },
+    {
+      "id": "25484",
+      "name": "財政部中區國稅局遺產稅收件統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15ea8e7b1f800000edee3ecf202338ce_2"
+      ]
+    },
+    {
+      "id": "25517",
+      "name": "財政部中區國稅局記帳及報稅代理人專業訓練單位名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/151b441708400000af1c711d411c6e94_2"
+      ]
+    },
+    {
+      "id": "15636",
+      "name": "財政部中區國稅局法定預算",
+      "format": "zip",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/c8c37750905c4fe3a88357de02415c64",
+        "https://www.ntbca.gov.tw/download/405800b67a0f489799befd6e02ea79dc",
+        "https://www.ntbca.gov.tw/download/770b93fabfca4ea0977c7f02d6220b48",
+        "https://www.ntbca.gov.tw/download/b467ff4bf1c648a4bbb2a1c246467e2f",
+        "https://www.ntbca.gov.tw/download/6a575972ae9147efae64449580f03fac",
+        "https://www.ntbca.gov.tw/download/89cd8d79ce5348f5bb350c2291da0bcd",
+        "https://www.ntbca.gov.tw/download/c415717640ce41d7be3fa398a6611d83",
+        "https://www.ntbca.gov.tw/download/0a70633b6b79463a95d312c14fe13829",
+        "https://www.ntbca.gov.tw/download/f44afe32811548269a9d0e39fd2330f4",
+        "https://www.ntbca.gov.tw/download/dd2e66b916944e7c8943330d6547b6b6",
+        "https://www.ntbca.gov.tw/download/5159796b48cc4d9186cee101134feca6"
+      ]
+    },
+    {
+      "id": "25630",
+      "name": "財政部中區國稅局違章漏稅案件處理情形表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/b829919deaaf40478eff96202c144973"
+      ]
+    },
+    {
+      "id": "25654",
+      "name": " 財政部中區國稅局使用電子發票績優營業人名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15ec7cdded000000b62034548d4a4312_2"
+      ]
+    },
+    {
+      "id": "25455",
+      "name": "財政部中區國稅局近年公告採購案件數",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/8e5b1350aed642d1afbcb9172b22b618"
+      ]
+    },
+    {
+      "id": "30140",
+      "name": "財政部中區國稅局電子發票服務窗口一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15ec7d7e8e600000ac924004e641134a_2"
+      ]
+    },
+    {
+      "id": "62471",
+      "name": "財政部中區國稅局辦理政策宣導相關廣告費用統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/15fc380268d000006d3b6a1a0a79d26c_2"
+      ]
+    },
+    {
+      "id": "118849",
+      "name": "財政部中區國稅局公司及獨資合夥工商家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.ntbca.gov.tw/download/b38de7b0123541c2a378c17859ef2448"
+      ]
+    }
+  ]
+}

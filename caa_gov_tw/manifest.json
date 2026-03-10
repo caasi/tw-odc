@@ -1,0 +1,677 @@
+{
+  "provider": "民用航空局",
+  "slug": "caa_gov_tw",
+  "datasets": [
+    {
+      "id": "8092",
+      "name": "民營飛行場一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=25642"
+      ]
+    },
+    {
+      "id": "8093",
+      "name": "民用航空站服務台",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=35514"
+      ]
+    },
+    {
+      "id": "8095",
+      "name": "臺灣地區航空公司家數",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=34968"
+      ]
+    },
+    {
+      "id": "6066",
+      "name": "國內定期航線月份班表",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=16680"
+      ]
+    },
+    {
+      "id": "15768",
+      "name": "國籍航空公司機隊機齡",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=34962"
+      ]
+    },
+    {
+      "id": "33239",
+      "name": "國籍航空公司全球航線客貨運概況",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31661"
+      ]
+    },
+    {
+      "id": "35272",
+      "name": "國際及兩岸定期航線班機載客率－按航線分",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30679"
+      ]
+    },
+    {
+      "id": "38258",
+      "name": "國籍航空公司國際航線客貨運市場占有率",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30677"
+      ]
+    },
+    {
+      "id": "29072",
+      "name": "民航局所屬機場(不含桃園)近六年旅客人數趨勢及增減率",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=39836"
+      ]
+    },
+    {
+      "id": "31160",
+      "name": "高雄國際機場近六年旅客人數趨勢及增減率",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=39831"
+      ]
+    },
+    {
+      "id": "31161",
+      "name": "臺中國際機場近六年旅客人數趨勢及增減率",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=39835"
+      ]
+    },
+    {
+      "id": "33725",
+      "name": "國內航線各航空公司及航線班機載客資料",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=35897"
+      ]
+    },
+    {
+      "id": "49021",
+      "name": "臺北飛航情報區限航區範圍圖資",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=25064"
+      ]
+    },
+    {
+      "id": "41618",
+      "name": "國際及兩岸定期班機航線－客運（年資料）",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=34964"
+      ]
+    },
+    {
+      "id": "47490",
+      "name": "民航機場設施與能量（年資料）",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=34967"
+      ]
+    },
+    {
+      "id": "47494",
+      "name": "國際及兩岸航線不定期包機載客率－按航線及航空公司分",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30681"
+      ]
+    },
+    {
+      "id": "47495",
+      "name": "兩岸航線(含定期及不定期包機)載客率－按航線及航空公司分",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30673"
+      ]
+    },
+    {
+      "id": "37242",
+      "name": "松山機場國際線即時離站航班",
+      "format": "json",
+      "urls": [
+        "https://www.tsa.gov.tw/api/publicDataArea/GetFormaterData?id=42879f51-f47f-4d26-8b2b-5535c652cbde"
+      ]
+    },
+    {
+      "id": "37321",
+      "name": "松山機場最新消息",
+      "format": "xml",
+      "urls": [
+        "https://www.tsa.gov.tw/api/publicDataArea/GetFormaterData?id=7d0bd985-914e-445e-a19e-192b72db0985"
+      ]
+    },
+    {
+      "id": "44750",
+      "name": "國際及兩岸定期班機航線－貨運（年資料）",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=34965"
+      ]
+    },
+    {
+      "id": "45701",
+      "name": "機場四周禁止施放有礙飛航安全物體範圍圖資",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=25061"
+      ]
+    },
+    {
+      "id": "43167",
+      "name": "臺中機場國際線即時到站資訊",
+      "format": "json",
+      "urls": [
+        "https://www.tca.gov.tw/cht/index.php?act=fids&code=international_a"
+      ]
+    },
+    {
+      "id": "43168",
+      "name": "臺中機場國內線即時離站資訊",
+      "format": "json",
+      "urls": [
+        "https://www.tca.gov.tw/cht/index.php?act=fids&code=domestic_l"
+      ]
+    },
+    {
+      "id": "43173",
+      "name": "臺中機場最新消息",
+      "format": "xml",
+      "urls": [
+        "https://www.tca.gov.tw/cht/index.php?code=list&flag=detail&ids=407&article_id=876"
+      ]
+    },
+    {
+      "id": "101825",
+      "name": "民用航空局單位預算",
+      "format": "xml",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=37624",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=37626",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=37627",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38622",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38623",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38624",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38625",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38626",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38627",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38677",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38866"
+      ]
+    },
+    {
+      "id": "101834",
+      "name": "交通部民用航空局單位預算會計報告",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=40112"
+      ]
+    },
+    {
+      "id": "174245",
+      "name": "臺灣地區民用機場2040年整體規劃成果摘要",
+      "format": "pdf",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30154"
+      ]
+    },
+    {
+      "id": "174242",
+      "name": "民航局年報",
+      "format": "pdf",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=36088"
+      ]
+    },
+    {
+      "id": "9973",
+      "name": "國際及兩岸定期班表",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=16679"
+      ]
+    },
+    {
+      "id": "8088",
+      "name": "航空公司統一代碼",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=34060"
+      ]
+    },
+    {
+      "id": "30468",
+      "name": "臺北松山國際機場近六年旅客人數趨勢及增減率",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=39834"
+      ]
+    },
+    {
+      "id": "37322",
+      "name": "松山機場聯合候補機位資料",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=25255"
+      ]
+    },
+    {
+      "id": "37323",
+      "name": "松山機場停車場資料",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=25063"
+      ]
+    },
+    {
+      "id": "41617",
+      "name": "國際及兩岸定期航線班機載客率(歷月)",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30678"
+      ]
+    },
+    {
+      "id": "44753",
+      "name": "各航空公司國際及兩岸航線定期航線數（年資料）",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=34960"
+      ]
+    },
+    {
+      "id": "29073",
+      "name": "臺灣桃園國際機場近六年旅客人數趨勢及增減率",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=39833"
+      ]
+    },
+    {
+      "id": "19797",
+      "name": "國籍航空器登記架數及機型",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=40149"
+      ]
+    },
+    {
+      "id": "15527",
+      "name": "國籍航空公司各類航空人員證照統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=34961"
+      ]
+    },
+    {
+      "id": "33726",
+      "name": "國內航線班機載客率及市場占有率－按航線分",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30674"
+      ]
+    },
+    {
+      "id": "33656",
+      "name": "高雄機場國際線即時離站航班",
+      "format": "json",
+      "urls": [
+        "https://www.kia.gov.tw/Announce/NewsArea/InstantSchedule_INTDEP.json"
+      ]
+    },
+    {
+      "id": "43172",
+      "name": "臺中機場國內線即時到站資訊",
+      "format": "json",
+      "urls": [
+        "https://www.tca.gov.tw/cht/index.php?act=fids&code=domestic_a"
+      ]
+    },
+    {
+      "id": "43164",
+      "name": "臺中機場國際線即時離站資訊",
+      "format": "json",
+      "urls": [
+        "https://www.tca.gov.tw/cht/index.php?act=fids&code=international_l"
+      ]
+    },
+    {
+      "id": "77075",
+      "name": "民航事業作業基金附屬單位分決算",
+      "format": "zip",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24689",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24690",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24693",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24696",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24691",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24692",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26528",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38933",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=32145",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=35651",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38434"
+      ]
+    },
+    {
+      "id": "101822",
+      "name": "民航事業作業基金附屬單位分預算案",
+      "format": "xml",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24659",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24660",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24661",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24662",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24663",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26524",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26527",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=29675",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=33171",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=35689",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38934"
+      ]
+    },
+    {
+      "id": "101823",
+      "name": "民航事業作業基金附屬單位分預算",
+      "format": "xml",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38930",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38931",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24656",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24655",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24654",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24653",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38932",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30704",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=32201",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=35689"
+      ]
+    },
+    {
+      "id": "101826",
+      "name": "民用航空局單位預算案",
+      "format": "xml",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=37614",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=37619",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=37616",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=37617",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38619",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38618",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38621",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38616",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38615",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=38614",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=35719"
+      ]
+    },
+    {
+      "id": "130222",
+      "name": "民用航空局最新消息",
+      "format": "xml",
+      "urls": [
+        "https://www.caa.gov.tw/XmlNewsContent.aspx"
+      ]
+    },
+    {
+      "id": "159109",
+      "name": "臺南機場停車場資料",
+      "format": "json",
+      "urls": [
+        "https://www.tna.gov.tw/opendata/parkinglot"
+      ]
+    },
+    {
+      "id": "8089",
+      "name": "國籍各型民用航空器適航情況",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=40150"
+      ]
+    },
+    {
+      "id": "27320",
+      "name": "近六年內國內各機場(含桃園機場)旅客人數趨勢趨勢及增減率",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1468781509019176960.csv&filedisplay=近六年各機場旅客人數趨勢及增減率.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "37248",
+      "name": "松山機場國際線即時到站航班",
+      "format": "json",
+      "urls": [
+        "https://www.tsa.gov.tw/api/publicDataArea/GetFormaterData?id=7dc1379a-9485-4491-866d-fc4f9590ffcf"
+      ]
+    },
+    {
+      "id": "37317",
+      "name": "松山機場國內線即時離站航班",
+      "format": "json",
+      "urls": [
+        "https://www.tsa.gov.tw/api/publicDataArea/GetFormaterData?id=c0f7d5b4-ba73-46d2-8485-6595c64c4e17"
+      ]
+    },
+    {
+      "id": "37319",
+      "name": "松山機場國內線即時到站航班",
+      "format": "json",
+      "urls": [
+        "https://www.tsa.gov.tw/api/publicDataArea/GetFormaterData?id=3057d52f-7a71-49e1-a0d4-87ffa3449a6a"
+      ]
+    },
+    {
+      "id": "35876",
+      "name": "國內民航機場禁限建管制範圍圖資",
+      "format": "zip",
+      "urls": [
+        "https://web-gis2000.caa.gov.tw/caaPublic/Files/kmz.zip"
+      ]
+    },
+    {
+      "id": "31915",
+      "name": "民航運輸各機場營運量－按機場分",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30683"
+      ]
+    },
+    {
+      "id": "33238",
+      "name": "民航運輸各機場營運量－按國際、兩岸及國內航線分",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30682"
+      ]
+    },
+    {
+      "id": "33649",
+      "name": "高雄機場國內線即時到站航班",
+      "format": "json",
+      "urls": [
+        "https://www.kia.gov.tw/Announce/NewsArea/InstantSchedule_DOMARR.json"
+      ]
+    },
+    {
+      "id": "33651",
+      "name": "高雄機場國內線即時離站航班",
+      "format": "json",
+      "urls": [
+        "https://www.kia.gov.tw/Announce/NewsArea/InstantSchedule_DOMDEP.json"
+      ]
+    },
+    {
+      "id": "33655",
+      "name": "高雄機場國際線即時到站航班",
+      "format": "json",
+      "urls": [
+        "https://www.kia.gov.tw/Announce/NewsArea/InstantSchedule_INTARR.json"
+      ]
+    },
+    {
+      "id": "33657",
+      "name": "高雄機場最新消息",
+      "format": "xml",
+      "urls": [
+        "https://www.kia.gov.tw/opendata/5acfe563-66ad-4765-8d32-dcc3a1808e72?format=xml"
+      ]
+    },
+    {
+      "id": "77074",
+      "name": "交通部民用航空局獎補助費明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24644",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24643",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24642",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24641",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24640",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24639",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24638",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24637",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24636",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24635",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24634",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24633",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24632",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24631",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24630",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24629",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24628",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24627",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24626",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24625",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24624",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24623",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24622",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24621",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24620",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24619",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24618",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24617",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24616",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24615",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24614",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24613",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24612",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24611",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=24610",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26201",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26204",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26202",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26644",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26643",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26642",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26645",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26646",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=26647",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31127",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31126",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31058",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31128",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31129",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31130",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31159",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31160",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31164",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31176",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31165",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31166",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31177",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31168",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31169",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31178",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31179",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=31172",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=33964",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=33965",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=33966",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=33967",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=33968",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=33969",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=33970",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=33971",
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=33972"
+      ]
+    },
+    {
+      "id": "47492",
+      "name": "國際及兩岸定期航線班機載客率－按航線及航空公司分",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=30680"
+      ]
+    },
+    {
+      "id": "44751",
+      "name": "國際及兩岸定期航線班機載客率－按航線及航空公司分（年資料）",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=34966"
+      ]
+    },
+    {
+      "id": "44752",
+      "name": "國籍航空公司飛航定期航線營運航點（年資料）",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=34963"
+      ]
+    },
+    {
+      "id": "101821",
+      "name": "民用航空局單位決算",
+      "format": "csv",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=40148"
+      ]
+    },
+    {
+      "id": "127634",
+      "name": "交通部民航局-振興三倍券通訊交易適用業者名單",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/userfiles/file/202007090003.csv"
+      ]
+    },
+    {
+      "id": "159108",
+      "name": "臺南機場最新消息",
+      "format": "json",
+      "urls": [
+        "https://www.tna.gov.tw/opendata/announcement/C000011"
+      ]
+    },
+    {
+      "id": "174244",
+      "name": "國籍航空公司財務監理制度",
+      "format": "pdf",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=21421"
+      ]
+    },
+    {
+      "id": "174243",
+      "name": "民用航空局施政計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.caa.gov.tw/FileAtt.ashx?lang=1&id=37747"
+      ]
+    }
+  ]
+}

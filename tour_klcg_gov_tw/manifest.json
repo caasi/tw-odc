@@ -1,0 +1,19 @@
+{
+  "provider": "基隆市政府觀光及城市行銷處",
+  "slug": "tour_klcg_gov_tw",
+  "datasets": [
+    {
+      "id": "129333",
+      "name": "基隆旅遊網",
+      "format": "json",
+      "urls": [
+        "https://tour.klcg.gov.tw/data/attractions.json",
+        "https://tour.klcg.gov.tw/data/accommodations.json",
+        "https://tour.klcg.gov.tw/data/restaurants.json",
+        "https://tour.klcg.gov.tw/data/attractions.csv",
+        "https://tour.klcg.gov.tw/data/accommodations.csv",
+        "https://tour.klcg.gov.tw/data/restaurants.csv"
+      ]
+    }
+  ]
+}

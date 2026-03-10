@@ -1,0 +1,385 @@
+{
+  "provider": "國立自然科學博物館",
+  "slug": "web3_nmns_edu_tw",
+  "datasets": [
+    {
+      "id": "22332",
+      "name": "國立自然科學博物館蒐藏與研究期刊",
+      "format": "xml",
+      "urls": [
+        "https://libknowledge.nmns.edu.tw/nmnsc/nmnsPubApi?type=bulletin&date=1900:2030"
+      ]
+    },
+    {
+      "id": "22325",
+      "name": "國立自然科學博物館博物館學季刊",
+      "format": "xml",
+      "urls": [
+        "https://libknowledge.nmns.edu.tw/nmnsc/nmnsPubApi?type=quaterly&date=1900:2030"
+      ]
+    },
+    {
+      "id": "6453",
+      "name": "國立自然科學博物921園區未來一週開放時間",
+      "format": "json",
+      "urls": [
+        "https://sciamb.nmns.edu.tw/Project/2024opendata/921_open.php"
+      ]
+    },
+    {
+      "id": "6423",
+      "name": "國立自然科學博物鳳凰谷園區未來一週開放時間",
+      "format": "json",
+      "urls": [
+        "https://sciamb.nmns.edu.tw/Project/2024opendata/fhk_open.php"
+      ]
+    },
+    {
+      "id": "7499",
+      "name": "國立自然科學博物館特展",
+      "format": "json",
+      "urls": [
+        "https://www.nmns.edu.tw/backend/opendata/Exhibition/list?key=571fe588-7dae-4cab-8805-8143f910d88a"
+      ]
+    },
+    {
+      "id": "39359",
+      "name": "國立自然科學博物館歷屆攝影展作品",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/API/ScienceImages/api.json"
+      ]
+    },
+    {
+      "id": "39360",
+      "name": "國立自然科學博物館科學學習中心教案",
+      "format": "csv",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/API/web2/se/SLC/lession-plans.csv"
+      ]
+    },
+    {
+      "id": "147267",
+      "name": "國立自然科學博物館圖書館中文新書",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/API/book/c/api.json"
+      ]
+    },
+    {
+      "id": "175026",
+      "name": "國立自然科學博物館地質學標本館藏故事",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/digicoll/%E5%9C%B0%E8%B3%AA%E5%AD%B8.json"
+      ]
+    },
+    {
+      "id": "175030",
+      "name": "國立自然科學博物館動物學標本館藏故事",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/digicoll/%E5%8B%95%E7%89%A9%E5%AD%B8.json"
+      ]
+    },
+    {
+      "id": "175031",
+      "name": "國立自然科學博物館植物學標本館藏故事",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/digicoll/%E6%A4%8D%E7%89%A9%E5%AD%B8.json"
+      ]
+    },
+    {
+      "id": "7500",
+      "name": "國立自然科學博物館暨所屬三個園區活動",
+      "format": "json",
+      "urls": [
+        "https://www.nmns.edu.tw/backend/opendata/News/list?key=571fe588-7dae-4cab-8805-8143f910d88a&zone=921",
+        "https://www.nmns.edu.tw/backend/opendata/News/list?key=571fe588-7dae-4cab-8805-8143f910d88a&zone=cfpp",
+        "https://www.nmns.edu.tw/backend/opendata/News/list?key=571fe588-7dae-4cab-8805-8143f910d88a&zone=fhk"
+      ]
+    },
+    {
+      "id": "6424",
+      "name": "國立自然科學博物館最新消息",
+      "format": "json",
+      "urls": [
+        "https://www.nmns.edu.tw/backend/opendata/News/list?key=571fe588-7dae-4cab-8805-8143f910d88a&zone=nmns&categoryId=%E5%85%AC%E5%91%8A%E8%A8%8A%E6%81%AF"
+      ]
+    },
+    {
+      "id": "30555",
+      "name": "國立自然科學博物館恐龍卡統計資料",
+      "format": "csv",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/vs/statistics/card/card-105.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/vs/statistics/card/card-106.csv"
+      ]
+    },
+    {
+      "id": "27994",
+      "name": "國立自然科學博物館館訊",
+      "format": "xml",
+      "urls": [
+        "https://libknowledge.nmns.edu.tw/nmnsc/nmnsPubApi?type=lib&date=1900:2030"
+      ]
+    },
+    {
+      "id": "18739",
+      "name": "國立自然科學博物館決算",
+      "format": "xml",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/103-FinalAccReport/103-F2-A.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/103-FinalAccReport/103-F2-B.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/103-FinalAccReport/103-F2-C.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/103-FinalAccReport/103-F2-D.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/104-FinalAccReport/104-F2-A.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/104-FinalAccReport/104-F2-B.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/104-FinalAccReport/104-F2-C.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/104-FinalAccReport/104-F2-D.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/105-FinalAccReport/105-F2-A.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/105-FinalAccReport/105-F2-B.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/105-FinalAccReport/105-F2-C.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/105-FinalAccReport/105-F2-D.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/106-FinalAccReport/106-F2-A.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/106-FinalAccReport/106-F2-B.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/106-FinalAccReport/106-F2-C.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/106-FinalAccReport/106-F2-D.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/107-FinalAccReport/%E9%A4%98%E7%B5%80%E6%92%A5%E8%A3%9C%E6%B1%BA%E7%AE%97%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/107-FinalAccReport/%E7%8F%BE%E9%87%91%E6%B5%81%E9%87%8F%E6%B1%BA%E7%AE%97%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/107-FinalAccReport/%E6%94%B6%E6%94%AF%E9%A4%98%E7%B5%80%E6%B1%BA%E7%AE%97%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/107-FinalAccReport/%E5%B9%B3%E8%A1%A1%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/108-FinalAccReport/%E9%A4%98%E7%B5%80%E6%92%A5%E8%A3%9C%E6%B1%BA%E7%AE%97%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/108-FinalAccReport/%E7%8F%BE%E9%87%91%E6%B5%81%E9%87%8F%E6%B1%BA%E7%AE%97%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/108-FinalAccReport/%E6%94%B6%E6%94%AF%E9%A4%98%E7%B5%80%E6%B1%BA%E7%AE%97%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/108-FinalAccReport/%E5%B9%B3%E8%A1%A1%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/109-FinalAccReport/109決算1-15餘絀撥補表明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/109-FinalAccReport/109決算1-16現金流量表明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/109-FinalAccReport/109決算1-01收支決算明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/109-FinalAccReport/109決算1-02平衡表明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/110-FinalAccReport/110決算1-15餘絀撥補表明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/110-FinalAccReport/110決算1-16現金流量表明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/110-FinalAccReport/110決算1-01收支決算明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/110-FinalAccReport/110決算1-02平衡表明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/111-FinalAccReport/111決算1-15餘絀撥補表明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/111-FinalAccReport/111決算1-16現金流量表明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/111-FinalAccReport/111決算1-01收支決算明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/111-FinalAccReport/111決算1-02平衡表明細.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/112-FinalAccReport/112年度決算餘絀撥補決算表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/112-FinalAccReport/112年度決算現金流量決算表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/112-FinalAccReport/112年度決算收支餘絀決算表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/112-FinalAccReport/112年度決算平衡表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/113-FinalAccReport/113年度餘絀撥補決算表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/113-FinalAccReport/113年度現金流量決算表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/113-FinalAccReport/113年度收支餘絀決算表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/113-FinalAccReport/113年度平衡表.xml"
+      ]
+    },
+    {
+      "id": "26166",
+      "name": "國立自然科學博物館921電子報",
+      "format": "json",
+      "urls": [
+        "https://sciamb.nmns.edu.tw/Project/2024opendata/epaper-921/api.json"
+      ]
+    },
+    {
+      "id": "26790",
+      "name": "國立自然科學博物館週邊ibike站點資訊",
+      "format": "json",
+      "urls": [
+        "https://sciamb.nmns.edu.tw/Project/2024opendata/ibike.php"
+      ]
+    },
+    {
+      "id": "26792",
+      "name": "國立自然科學博物館週邊公車站牌資訊",
+      "format": "json",
+      "urls": [
+        "https://sciamb.nmns.edu.tw/Project/2024opendata/bus.php"
+      ]
+    },
+    {
+      "id": "26799",
+      "name": "國立自然科學博物車籠埔園區未來一週開放時間",
+      "format": "json",
+      "urls": [
+        "https://sciamb.nmns.edu.tw/Project/2024opendata/cfpp_open.php"
+      ]
+    },
+    {
+      "id": "27275",
+      "name": "國立自然科學博物館參觀人數統計",
+      "format": "csv",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10401.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10402.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10403.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10404.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10405.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10406.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10407.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10408.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10409.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10410.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10411.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/104/10412.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10501.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10502.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10503.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10504.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10505.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10506.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10507.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10508.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10509.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10510.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10511.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/105/10512.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/106/10601.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/106/10602.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/106/10603.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/106/10604.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/106/10605.csv",
+        "https://web3.nmns.edu.tw/Project/OpenData/ovci/op/statistics/visiting-num/106/10606.csv"
+      ]
+    },
+    {
+      "id": "147268",
+      "name": " 國立自然科學博物館圖書館西文新書",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/API/book/e/api.json"
+      ]
+    },
+    {
+      "id": "175024",
+      "name": "國立自然科學博物館3D館藏",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/digicoll/3D%E9%A4%A8%E8%97%8F.json"
+      ]
+    },
+    {
+      "id": "175025",
+      "name": "國立自然科學博物館人類學標本館藏故事",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/digicoll/%E4%BA%BA%E9%A1%9E%E5%AD%B8.json"
+      ]
+    },
+    {
+      "id": "7175",
+      "name": "國立自然科學博物館劇場影片放映時間表",
+      "format": "json",
+      "urls": [
+        "https://sciamb.nmns.edu.tw/Project/2024opendata/Theater.php"
+      ]
+    },
+    {
+      "id": "12597",
+      "name": "國立自然科學博物館預算",
+      "format": "xml",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/104-Budget/104-B2-C.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/104-Budget/104-B2-B.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/104-Budget/104-B2-A.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/105-Budget/105-B2-C.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/105-Budget/105-B2-B.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/105-Budget/105-B2-A.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/106-Budget/106-B2-C.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/106-Budget/106-B2-B.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/106-Budget/106-B2-A.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/107-Budget/107%E5%B9%B4%E5%BA%A6%E6%94%B6%E6%94%AF%E9%A4%98%E7%B5%80%E9%A0%90%E8%A8%88%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/107-Budget/107%E5%B9%B4%E5%BA%A6%E7%8F%BE%E9%87%91%E6%B5%81%E9%87%8F%E9%A0%90%E8%A8%88%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/107-Budget/107%E5%B9%B4%E5%BA%A6%E9%A4%98%E7%B5%80%E6%92%A5%E8%A3%9C%E9%A0%90%E8%A8%88%E8%A1%A8.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/108-Budget/108年度餘絀撥補預計表XML.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/108-Budget/108年度現金流量預計表XML.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/108-Budget/108年度收支餘絀預計表XML.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/109-Budget/109年度-餘絀撥補預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/109-Budget/109年度-現金流量預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/109-Budget/109年度-收支預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/110-Budget/110年度-餘絀撥補預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/110-Budget/110年度-現金流量預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/110-Budget/110年度-收支預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/111-Budget/111年度-餘絀撥補預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/111-Budget/111年度-現金流量預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/111-Budget/111年度-收支預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/112-Budget/112年度-餘絀撥補預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/112-Budget/112年度-現金流量預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/112-Budget/112年度-收支預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/113-Budget/113年度-餘絀撥補預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/113-Budget/113年度-現金流量預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/113-Budget/113年度-收支預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/114-Budget/114年度-餘絀撥補預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/114-Budget/114年度-現金流量預計表.xml",
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/114-Budget/114年度-收支預計表.xml"
+      ]
+    },
+    {
+      "id": "22333",
+      "name": "國立自然科學博物館自然科學專書",
+      "format": "xml",
+      "urls": [
+        "https://libknowledge.nmns.edu.tw/nmnsc/nmnsPubApi?type=lib&date=1900:2030"
+      ]
+    },
+    {
+      "id": "18815",
+      "name": "國立自然科學博物館會計月報",
+      "format": "csv",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/acc_2/%E5%9C%8B%E7%AB%8B%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%B8%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.csv"
+      ]
+    },
+    {
+      "id": "26797",
+      "name": "國立自然科學博物館週邊停車場空位資訊",
+      "format": "json",
+      "urls": [
+        "https://sciamb.nmns.edu.tw/Project/2024opendata/carParks.php"
+      ]
+    },
+    {
+      "id": "30483",
+      "name": "國立自然科學博物館遺失物公告",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/lost.json"
+      ]
+    },
+    {
+      "id": "147158",
+      "name": "國立自然科學博物館科學大使名單",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/OpenData/pass_lis.json"
+      ]
+    },
+    {
+      "id": "147221",
+      "name": "720 度環景虛擬導覽-常設展",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/API/720/e/api.json"
+      ]
+    },
+    {
+      "id": "147225",
+      "name": "720 度環景虛擬導覽-特展",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/API/720/t/api.json"
+      ]
+    },
+    {
+      "id": "147228",
+      "name": "國立自然科學博物館大自然的真相影片",
+      "format": "json",
+      "urls": [
+        "https://web3.nmns.edu.tw/Project/API/nature/api.json"
+      ]
+    }
+  ]
+}

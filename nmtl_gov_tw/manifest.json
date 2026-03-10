@@ -1,0 +1,46 @@
+{
+  "provider": "國立臺灣文學館",
+  "slug": "nmtl_gov_tw",
+  "datasets": [
+    {
+      "id": "39325",
+      "name": "臺文館新聞公告",
+      "format": "json",
+      "urls": [
+        "https://www.nmtl.gov.tw/OpenData.aspx?SN=F97A0DBBF90A90EB"
+      ]
+    },
+    {
+      "id": "34658",
+      "name": "國立臺灣文學館單位預算",
+      "format": "json",
+      "urls": [
+        "https://www.nmtl.gov.tw/OpenData.aspx?SN=9F0F7153323D50D6"
+      ]
+    },
+    {
+      "id": "34438",
+      "name": "國立臺灣文學館單位決算",
+      "format": "json",
+      "urls": [
+        "https://www.nmtl.gov.tw/OpenData.aspx?SN=7CFBB68134A41BEB"
+      ]
+    },
+    {
+      "id": "35295",
+      "name": "國立臺灣文學館典藏目錄",
+      "format": "json",
+      "urls": [
+        "https://collections.culture.tw/getMetadataList.aspx?FORMAT=OpenData&DN=nmtl"
+      ]
+    },
+    {
+      "id": "105932",
+      "name": "國立臺灣文學館會計月報",
+      "format": "json",
+      "urls": [
+        "https://www.nmtl.gov.tw/OpenData.aspx?SN=941FC7078F54F406"
+      ]
+    }
+  ]
+}

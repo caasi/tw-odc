@@ -1,0 +1,329 @@
+{
+  "provider": "國立科學工藝博物館",
+  "slug": "websrv_nstm_gov_tw",
+  "datasets": [
+    {
+      "id": "24408",
+      "name": "國立科學工藝博物館典藏品清單",
+      "format": "json",
+      "urls": [
+        "https://dcpub.nstm.gov.tw/PubWeb/Opendata"
+      ]
+    },
+    {
+      "id": "9668",
+      "name": "國立科學工藝博物館館藏圖書書目",
+      "format": "json",
+      "urls": [
+        "https://library.nstm.gov.tw/webopac/LibraryOpenData.ashx"
+      ]
+    },
+    {
+      "id": "10355",
+      "name": "國立科學工藝博物館大事紀",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/ImportantEventsOpenData.ashx"
+      ]
+    },
+    {
+      "id": "7178",
+      "name": "國立科學工藝博物館大銀幕電影資訊",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/MoviesOpenData.ashx"
+      ]
+    },
+    {
+      "id": "10565",
+      "name": "國立科學工藝博物館接受委辦及補助收入資料",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/TasksOpenData.ashx"
+      ]
+    },
+    {
+      "id": "12653",
+      "name": "國立科學工藝博物館預算",
+      "format": "zip",
+      "urls": [
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/104_budget.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/105_budget.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/106_budget.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/107法定預算公告主要表.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/108年度預算案.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/109年度預算案.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/109年度法定預算-NBA(主要表XML).zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/110_budget.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/111_budget.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/112_budget.zip"
+      ]
+    },
+    {
+      "id": "27267",
+      "name": "國立科學工藝博物館歷年展覽資訊",
+      "format": "json",
+      "urls": [
+        "https://www.nstm.gov.tw/Handlers/OpenDataHandler.ashx?ID=8d2ebef5-cf0e-44b7-ae63-513ba3805865&Type=5"
+      ]
+    },
+    {
+      "id": "41122",
+      "name": "國立科學工藝博物館公共藝術品清單",
+      "format": "json",
+      "urls": [
+        "https://www.nstm.gov.tw/OpenDataRoute/2b6a6f17-9325-48fa-abe0-3e2d9a32a051?format=json"
+      ]
+    },
+    {
+      "id": "173797",
+      "name": "國立科學工藝博物館即時新聞",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/NewsOpenData.ashx"
+      ]
+    },
+    {
+      "id": "9669",
+      "name": "國立科學工藝博物館出版品資料集",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/PublishOpenData.ashx"
+      ]
+    },
+    {
+      "id": "9670",
+      "name": "國立科學工藝博物館研討會資訊",
+      "format": "json",
+      "urls": [
+        "https://www.nstm.gov.tw/OpenDataRoute/b378dd94-df62-4ba6-be00-7bd969271393?format=json"
+      ]
+    },
+    {
+      "id": "9672",
+      "name": "國立科學工藝博物館展示公共空間使用資料集",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/ExhOpenData.ashx"
+      ]
+    },
+    {
+      "id": "7176",
+      "name": "國立科學工藝博物館公共設施位置資訊",
+      "format": "json",
+      "urls": [
+        "https://www.nstm.gov.tw/OpenDataRoute/5d02bf6c-1b2e-464d-8f6e-640784e99102?format=json"
+      ]
+    },
+    {
+      "id": "41129",
+      "name": "國立科學工藝博物館電子化博物館清單",
+      "format": "json",
+      "urls": [
+        "https://www.nstm.gov.tw/OpenDataRoute/5d9cf673-8bd5-4369-9825-0c56198f5dce?format=json"
+      ]
+    },
+    {
+      "id": "27268",
+      "name": "國立科學工藝博物館科教校外教學",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/ScienceEducationOpenData.ashx"
+      ]
+    },
+    {
+      "id": "19814",
+      "name": "國立科學工藝博物館會計月報",
+      "format": "zip",
+      "urls": [
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/104-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11101-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11102-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11103-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11104-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11105-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11106-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11107-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11108-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11109-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11001-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11002-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11003-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11004-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11005-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11006-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11007-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11008-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11009-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11010-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11011-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11012-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/10908-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/10909-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/10910-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/10911-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/10912-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11110-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11111-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11112-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11201-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11202-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11203-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11204-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11205-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11206-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11207-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11208-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11209-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11210-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11211-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11212-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11301-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11302-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11303-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11304-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11305-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11306-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11307-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11308-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11309-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11310-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11311-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11312-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11401-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11402-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11403-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11404-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11405-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11406-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11407-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11408-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11409-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11410-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11411-Account_Report.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/11412-Account_Report.zip"
+      ]
+    },
+    {
+      "id": "6457",
+      "name": "國立科學工藝博物館遺失物資訊",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/LostFoundOpenData.ashx"
+      ]
+    },
+    {
+      "id": "6472",
+      "name": "國立科學工藝博物館推廣教育活動訊息",
+      "format": "json",
+      "urls": [
+        "https://serv.nstm.gov.tw/ActivityOpenData.ashx"
+      ]
+    },
+    {
+      "id": "7177",
+      "name": "國立科學工藝博物館展示廳資訊",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/ExhibitionInfoOpenData.ashx"
+      ]
+    },
+    {
+      "id": "9671",
+      "name": "國立科學工藝博物館場地租借情況",
+      "format": "json",
+      "urls": [
+        "https://order.nstm.gov.tw/reserveopendata.ashx"
+      ]
+    },
+    {
+      "id": "10428",
+      "name": "國立科學工藝博物館年報",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/AnnualReportOpenData.ashx"
+      ]
+    },
+    {
+      "id": "19812",
+      "name": "國立科學工藝博物館決算",
+      "format": "zip",
+      "urls": [
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/103-F3-3112601002-XML.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/104_Account.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/105年度決算書-XML.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/106年度決算書-XML.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/107年度決算案.zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/108年度決算書(XML格式).zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/109年度決算書(XML格式).zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/110年度決算書(XML格式).zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/111年度決算書(XML格式).zip",
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/112年度決算書.zip"
+      ]
+    },
+    {
+      "id": "27248",
+      "name": "國立科學工藝博物館各樓層常設展示廳內容",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/ExhibitionOpenData.ashx"
+      ]
+    },
+    {
+      "id": "27262",
+      "name": "國立科學工藝博物館展示廳學習單",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/LearningSheetOpenData.ashx"
+      ]
+    },
+    {
+      "id": "10516",
+      "name": "國立科學工藝博物館政策宣導資訊公開資料",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/PolicyAdvocacyOpenData.ashx"
+      ]
+    },
+    {
+      "id": "10563",
+      "name": "國立科學工藝博物館法規命令與行政規則",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/OrderOpenData.ashx"
+      ]
+    },
+    {
+      "id": "41234",
+      "name": "國立科學工藝博物館電子報清單",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/EpaperListOpenData.ashx"
+      ]
+    },
+    {
+      "id": "41126",
+      "name": "國立科學工藝博物館建議參觀動線",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/OtherInfo/OpenData/GuestfunListOpenData.ashx"
+      ]
+    },
+    {
+      "id": "41127",
+      "name": "國立科學工藝博物館研究人員清單",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/ResearcherOpenData.ashx"
+      ]
+    },
+    {
+      "id": "175519",
+      "name": "國立科學工藝博物館FAQS答客問",
+      "format": "json",
+      "urls": [
+        "https://websrv.nstm.gov.tw/otherinfo/opendata/FAQSOpenData.ashx"
+      ]
+    }
+  ]
+}

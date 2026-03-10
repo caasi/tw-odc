@@ -1,0 +1,48 @@
+{
+  "provider": "衛生福利部護理及健康照護司",
+  "slug": "nhplatform_mohw_gov_tw",
+  "datasets": [
+    {
+      "id": "118550",
+      "name": "專科護理師訓練醫院統計",
+      "format": "csv",
+      "urls": [
+        "https://www.opendata.mohw.gov.tw/dataset/opendata/nh/118550/%E5%B0%88%E7%A7%91%E8%AD%B7%E7%90%86%E5%B8%AB%E7%94%84%E5%AF%A9%E5%8F%8A%E6%A0%BC%E4%BA%BA%E6%95%B8.csv",
+        "https://www.opendata.mohw.gov.tw/dataset/opendata/nh/118550/10906%E6%95%88%E6%9C%9F%E5%85%A7%E5%B0%88%E7%A7%91%E8%AD%B7%E7%90%86%E5%B8%AB%E8%A8%93%E7%B7%B4%E9%86%AB%E9%99%A2%E5%90%8D%E5%96%AE.csv"
+      ]
+    },
+    {
+      "id": "115950",
+      "name": "全國開業護理機構清冊（含一般護理之家、居家護理所及產後護理之家）",
+      "format": "csv",
+      "urls": [
+        "https://nhplatform.mohw.gov.tw/dl-3321-928c86df0c514fdbbf899675f768e000.html"
+      ]
+    },
+    {
+      "id": "139753",
+      "name": "護產人員繼續教育積分課程",
+      "format": "csv",
+      "urls": [
+        "https://nhplatform.mohw.gov.tw/dl-1694-dd0b15ecfeda4f06a7927384f422e1e0.html",
+        "https://nhplatform.mohw.gov.tw/dl-1700-c10bd405aebd45f6b3b74eca3a3a64dc.html"
+      ]
+    },
+    {
+      "id": "173203",
+      "name": "全國一般護理之家護理人員及照顧服務員人力統計表",
+      "format": "csv",
+      "urls": [
+        "https://nhplatform.mohw.gov.tw/dl-3330-4ec65e1bd78f4bed8bf15ad4b38c921e.html"
+      ]
+    },
+    {
+      "id": "118549",
+      "name": "近5年護理人員統計",
+      "format": "csv",
+      "urls": [
+        "https://www.opendata.mohw.gov.tw/dataset/opendata/nh/118549/%E8%BF%915%E5%B9%B4%E8%AD%B7%E7%90%86%E4%BA%BA%E5%93%A1%E7%B5%B1%E8%A8%88.csv"
+      ]
+    }
+  ]
+}

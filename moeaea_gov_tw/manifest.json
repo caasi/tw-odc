@@ -1,0 +1,1483 @@
+{
+  "provider": "經濟部能源署",
+  "slug": "moeaea_gov_tw",
+  "datasets": [
+    {
+      "id": "12347",
+      "name": "能源署單位預算",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=304"
+      ]
+    },
+    {
+      "id": "12348",
+      "name": "經濟特別收入基金附屬單位預算案(石油基金分預算)",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=345"
+      ]
+    },
+    {
+      "id": "12349",
+      "name": "經濟特別收入基金附屬單位預算案(再生能源發展基金分預算)",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=346"
+      ]
+    },
+    {
+      "id": "11158",
+      "name": "國內能源消費年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=21"
+      ]
+    },
+    {
+      "id": "22243",
+      "name": "石油開發技術研究發展計畫成果要覽",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=83"
+      ]
+    },
+    {
+      "id": "22245",
+      "name": "節能成功案例檢索",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=85"
+      ]
+    },
+    {
+      "id": "6442",
+      "name": "節能績優獎",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=5"
+      ]
+    },
+    {
+      "id": "11765",
+      "name": "能源供給月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=27"
+      ]
+    },
+    {
+      "id": "15942",
+      "name": "再生能源發展基金附屬單位決算分決算",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=352",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=353"
+      ]
+    },
+    {
+      "id": "16480",
+      "name": "發電裝置容量年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=69"
+      ]
+    },
+    {
+      "id": "16429",
+      "name": "台電公司發購電量",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=56"
+      ]
+    },
+    {
+      "id": "16430",
+      "name": "合格電器承裝業資料",
+      "format": "csv",
+      "urls": [
+        "https://www.eims-energy.tw/ecem_public/OpenDataFile.ashx?set_id=OD_002"
+      ]
+    },
+    {
+      "id": "16450",
+      "name": "能源署布告欄",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5283"
+      ]
+    },
+    {
+      "id": "16453",
+      "name": "除濕機能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=327"
+      ]
+    },
+    {
+      "id": "25527",
+      "name": "偏遠與原住民族地區家用桶裝瓦斯價差補助成果",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=90"
+      ]
+    },
+    {
+      "id": "25529",
+      "name": "公用天然氣事業供氣區域",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=99"
+      ]
+    },
+    {
+      "id": "25530",
+      "name": "家用桶裝瓦斯價格",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=318"
+      ]
+    },
+    {
+      "id": "25576",
+      "name": "電冰箱節能標章登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=328"
+      ]
+    },
+    {
+      "id": "25533",
+      "name": "液化石油氣分裝業聯絡資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=106"
+      ]
+    },
+    {
+      "id": "25534",
+      "name": "液化石油氣相關公會聯絡資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=107"
+      ]
+    },
+    {
+      "id": "25700",
+      "name": "貯備型電熱水器能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=319"
+      ]
+    },
+    {
+      "id": "8308",
+      "name": "能源指標年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=13"
+      ]
+    },
+    {
+      "id": "18862",
+      "name": "能源研究發展基金附屬單位預算分預算_年度會計月報",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=355"
+      ]
+    },
+    {
+      "id": "18863",
+      "name": "石油基金附屬單位預算分預算_年度會計月報",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=334"
+      ]
+    },
+    {
+      "id": "18870",
+      "name": "石油基金附屬單位分預算",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5289"
+      ]
+    },
+    {
+      "id": "32853",
+      "name": "能源專案知識物件",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=126"
+      ]
+    },
+    {
+      "id": "33614",
+      "name": "電視機節能標章有效獲證產品",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_電視機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "41603",
+      "name": "天然氣用戶總數",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=149"
+      ]
+    },
+    {
+      "id": "41604",
+      "name": "國內桶裝液化石油氣重量查核成果",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=150"
+      ]
+    },
+    {
+      "id": "41606",
+      "name": "溫熱型開飲機能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://ranking.energylabel.org.tw/gen/opendata/經濟部能源署_溫熱型開飲機能源效率分級標示登錄資訊.csv"
+      ]
+    },
+    {
+      "id": "45331",
+      "name": "各基金(能源研究發展及石油基金)出國及赴大陸地區計畫執行情形",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=154"
+      ]
+    },
+    {
+      "id": "45332",
+      "name": "各縣市天然氣用戶數及普及率",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=269",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=270",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=271",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=272",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=273",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=274",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=275",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=155",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=359"
+      ]
+    },
+    {
+      "id": "45324",
+      "name": "溫熱型飲水機節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_溫熱型飲水機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "32716",
+      "name": "石油輸入各油品來源國別統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=110"
+      ]
+    },
+    {
+      "id": "32696",
+      "name": "國民中小學節約能源小劇場創作競賽",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=125"
+      ]
+    },
+    {
+      "id": "32701",
+      "name": "(含石油基金、能源研究發展基金及再生能源發展基金)於平面媒體、網路媒體、廣播媒體及電視媒體辦理政策宣導之相關廣告明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=329"
+      ]
+    },
+    {
+      "id": "36681",
+      "name": "台灣離岸風電潛力場址地理資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=145"
+      ]
+    },
+    {
+      "id": "102745",
+      "name": "道路照明燈具節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_道路照明燈具節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "102747",
+      "name": "離心式風機節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_離心式風機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "85750",
+      "name": "合格汽電共生系統產銷情況",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=161"
+      ]
+    },
+    {
+      "id": "85760",
+      "name": "電業及自用發電設備設置者繳交再生能源發展基金費率",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=164"
+      ]
+    },
+    {
+      "id": "85762",
+      "name": "各年度各縣市風力發電設備設置容量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=165"
+      ]
+    },
+    {
+      "id": "85769",
+      "name": "印表機節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_印表機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "112654",
+      "name": "前瞻基礎建設計畫第1期特別預算對民間團體及個人補(捐)助案件彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW//populace/opendata/wHandOpenData_File.ashx?set_id=177"
+      ]
+    },
+    {
+      "id": "152432",
+      "name": "溫熱型飲水機能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://ranking.energylabel.org.tw/gen/opendata/經濟部能源署_溫熱型飲水機能源效率分級標示登錄資訊.csv"
+      ]
+    },
+    {
+      "id": "145129",
+      "name": "電鍋能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://ranking.energylabel.org.tw/gen/opendata/經濟部能源署_電鍋能源效率分級標示登錄資訊.csv"
+      ]
+    },
+    {
+      "id": "161212",
+      "name": "原油進口來源月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=238"
+      ]
+    },
+    {
+      "id": "161214",
+      "name": "發電業燃料耗用月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=240"
+      ]
+    },
+    {
+      "id": "165163",
+      "name": "各類再生能源發電量",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=252"
+      ]
+    },
+    {
+      "id": "160058",
+      "name": "天然氣供給與消費月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=135"
+      ]
+    },
+    {
+      "id": "160060",
+      "name": "再生能源發電量月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=48"
+      ]
+    },
+    {
+      "id": "163714",
+      "name": "原油進口來源年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=242"
+      ]
+    },
+    {
+      "id": "163717",
+      "name": "發電業燃料耗用年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=245"
+      ]
+    },
+    {
+      "id": "163967",
+      "name": "綜合電業收購大型合格汽電共生系統餘電購電費率",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=15322"
+      ]
+    },
+    {
+      "id": "33618",
+      "name": "電鍋節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=323"
+      ]
+    },
+    {
+      "id": "8849",
+      "name": "各縣市汽車加油站汽柴油銷售統計資料表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=308"
+      ]
+    },
+    {
+      "id": "9709",
+      "name": "太陽光電變流器產品登錄系統平台",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=310"
+      ]
+    },
+    {
+      "id": "11159",
+      "name": "年度施政計畫",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=311"
+      ]
+    },
+    {
+      "id": "11160",
+      "name": "能源業務之性別隔離初步統計分析-決策者、服務提供者及受益者統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=312"
+      ]
+    },
+    {
+      "id": "11163",
+      "name": "車輛油耗指南",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=331"
+      ]
+    },
+    {
+      "id": "6029",
+      "name": "國際原油價格",
+      "format": "csv",
+      "urls": [
+        "https://www2.moeaea.gov.tw/oil111/csv/GlobalOilOpenData.csv"
+      ]
+    },
+    {
+      "id": "6440",
+      "name": "已開業加氣站分布情況",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=1"
+      ]
+    },
+    {
+      "id": "22239",
+      "name": "ESCO廠商服務能量資料庫",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=86"
+      ]
+    },
+    {
+      "id": "22244",
+      "name": "能源科技學術合作研究計畫(油氣開發技術研究發展領域)成果要覽",
+      "format": "xml",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=84"
+      ]
+    },
+    {
+      "id": "33271",
+      "name": "天然氣供給與消費年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=136"
+      ]
+    },
+    {
+      "id": "32690",
+      "name": "113年度列管能源用戶名單",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=122"
+      ]
+    },
+    {
+      "id": "32693",
+      "name": "推動能源教育標竿學校名單",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=124"
+      ]
+    },
+    {
+      "id": "32699",
+      "name": "石油基金對民間團體及個人補捐助案件彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=356"
+      ]
+    },
+    {
+      "id": "32848",
+      "name": "優良太陽光電系統(光鐸獎)得獎名單",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=116"
+      ]
+    },
+    {
+      "id": "32849",
+      "name": "再生能源推動政策",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5269"
+      ]
+    },
+    {
+      "id": "32855",
+      "name": "能源資訊相關報導",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=128"
+      ]
+    },
+    {
+      "id": "32700",
+      "name": "能源研究發展基金對民間團體及個人補捐助案件彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=357"
+      ]
+    },
+    {
+      "id": "62942",
+      "name": "各縣市桶裝液化石油氣用量",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=158"
+      ]
+    },
+    {
+      "id": "85757",
+      "name": "歷年電器承裝業登記統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.eims-energy.tw/ecem_public/OpenDataFile.ashx?set_id=OD_004"
+      ]
+    },
+    {
+      "id": "85758",
+      "name": "107年度興建中民營再生能源發電廠",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=163"
+      ]
+    },
+    {
+      "id": "85763",
+      "name": "各年度各縣市生質能及其他再生能源發電設備容量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=166"
+      ]
+    },
+    {
+      "id": "85768",
+      "name": "影印機節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_影印機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "41607",
+      "name": "冰溫熱型開飲機能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://ranking.energylabel.org.tw/gen/opendata/經濟部能源署_冰溫熱型開飲機能源效率分級標示登錄資訊.csv"
+      ]
+    },
+    {
+      "id": "25528",
+      "name": "優質太陽光電產品評選活動(金能獎)",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=102"
+      ]
+    },
+    {
+      "id": "25536",
+      "name": "石油業儲油設備代行檢查機構名冊資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=89"
+      ]
+    },
+    {
+      "id": "25548",
+      "name": "公用天然氣事業氣體售價",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=92"
+      ]
+    },
+    {
+      "id": "25549",
+      "name": "電力系統可靠度資料統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=101"
+      ]
+    },
+    {
+      "id": "25550",
+      "name": "電業設備查驗統計資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=91"
+      ]
+    },
+    {
+      "id": "25551",
+      "name": "高壓用電設備原製造廠家",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=96"
+      ]
+    },
+    {
+      "id": "16410",
+      "name": "偏遠與原住民族地區家用桶裝瓦斯差價補助金額",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=44"
+      ]
+    },
+    {
+      "id": "16420",
+      "name": "能源署單位預算案",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=278"
+      ]
+    },
+    {
+      "id": "16423",
+      "name": "各年度各縣市太陽光電發電設備同意備案核准情形",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=332"
+      ]
+    },
+    {
+      "id": "16424",
+      "name": "太陽光電模組產品登錄資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=51"
+      ]
+    },
+    {
+      "id": "16427",
+      "name": "民營再生能源發電廠",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=333"
+      ]
+    },
+    {
+      "id": "16437",
+      "name": "全國電力資源供需報告",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5267"
+      ]
+    },
+    {
+      "id": "16456",
+      "name": "燃氣台爐能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=316"
+      ]
+    },
+    {
+      "id": "16481",
+      "name": "發電量年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=70"
+      ]
+    },
+    {
+      "id": "18866",
+      "name": "再生能源發展基金附屬單位預算分預算_年度會計月報",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=336"
+      ]
+    },
+    {
+      "id": "18869",
+      "name": "能源研究發展基金附屬單位分預算",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5288"
+      ]
+    },
+    {
+      "id": "18871",
+      "name": "再生能源發展基金附屬單位分預算",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5292"
+      ]
+    },
+    {
+      "id": "18858",
+      "name": "能源署年度單位決算",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=361"
+      ]
+    },
+    {
+      "id": "18859",
+      "name": "能源署年度會計月報",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=337"
+      ]
+    },
+    {
+      "id": "33589",
+      "name": "乾衣機節能標章有效獲證產品",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=321"
+      ]
+    },
+    {
+      "id": "33615",
+      "name": "溫熱型開飲機節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_溫熱型開飲機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "33620",
+      "name": "發光二極體燈泡節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=325"
+      ]
+    },
+    {
+      "id": "33586",
+      "name": "無風管空氣調節機節能標章有效獲證產品",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_無風管空氣調節機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "33587",
+      "name": "除濕機節能標章有效獲證產品",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_除濕機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "36683",
+      "name": "電力消費年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=148",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=257"
+      ]
+    },
+    {
+      "id": "36680",
+      "name": "沼氣發電系統推廣計畫補助案例",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5459"
+      ]
+    },
+    {
+      "id": "45329",
+      "name": "電熱水瓶節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_電熱水瓶節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "45579",
+      "name": "電扇節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_電扇節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "112653",
+      "name": "能源署對民間團體及個人補(捐)助案件彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW//populace/opendata/wHandOpenData_File.ashx?set_id=173"
+      ]
+    },
+    {
+      "id": "120820",
+      "name": "再生油品業者名單",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=207"
+      ]
+    },
+    {
+      "id": "120821",
+      "name": "生質柴油生產及輸入業者名單",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=208"
+      ]
+    },
+    {
+      "id": "160057",
+      "name": "煤炭供給與消費月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=156"
+      ]
+    },
+    {
+      "id": "160061",
+      "name": "再生能源裝(設)置容量月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=49"
+      ]
+    },
+    {
+      "id": "163720",
+      "name": "再生能源發電量年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=248"
+      ]
+    },
+    {
+      "id": "163715",
+      "name": "液化天然氣進口來源年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=243"
+      ]
+    },
+    {
+      "id": "163718",
+      "name": "再生能源裝(設)置容量年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=246"
+      ]
+    },
+    {
+      "id": "162825",
+      "name": "「指定能源用戶應遵行之節約能源規定」稽查成果",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=241"
+      ]
+    },
+    {
+      "id": "161213",
+      "name": "液化天然氣進口來源月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=239"
+      ]
+    },
+    {
+      "id": "161208",
+      "name": "國內能源消費月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=235"
+      ]
+    },
+    {
+      "id": "176025",
+      "name": "取得電業設置發電設備工作許可證太陽光電案場土地地號",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=344"
+      ]
+    },
+    {
+      "id": "45325",
+      "name": "車輛節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_汽車節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "16451",
+      "name": "無風管空氣調節機能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=313"
+      ]
+    },
+    {
+      "id": "6030",
+      "name": "用電安全資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=307"
+      ]
+    },
+    {
+      "id": "6031",
+      "name": "再生能源電能躉購費率及其計算公式",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=6"
+      ]
+    },
+    {
+      "id": "6032",
+      "name": "車型耗能證明核發資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=305"
+      ]
+    },
+    {
+      "id": "8309",
+      "name": "能源供給年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=14"
+      ]
+    },
+    {
+      "id": "8850",
+      "name": "各縣市汽車加油站汽柴油銷售統計分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=309"
+      ]
+    },
+    {
+      "id": "9708",
+      "name": "電器承裝業、用電設備檢驗維護業及用電場所專任電氣技術人員等登記家數",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=306"
+      ]
+    },
+    {
+      "id": "22242",
+      "name": "獎勵探勘開發石油及天然氣計畫成果要覽",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=82"
+      ]
+    },
+    {
+      "id": "16425",
+      "name": "合格汽電共生系統行業別裝置容量統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=52"
+      ]
+    },
+    {
+      "id": "16426",
+      "name": "綜合電業收購一般合格汽電共生系統餘電購電費率",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5451"
+      ]
+    },
+    {
+      "id": "16428",
+      "name": "我國電力系統裝置容量",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=55"
+      ]
+    },
+    {
+      "id": "16445",
+      "name": "能源署新聞稿",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5282"
+      ]
+    },
+    {
+      "id": "16452",
+      "name": "電冰箱能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=314"
+      ]
+    },
+    {
+      "id": "16455",
+      "name": "即熱式燃氣熱水器能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=315"
+      ]
+    },
+    {
+      "id": "16457",
+      "name": "電熱水瓶能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=317"
+      ]
+    },
+    {
+      "id": "16479",
+      "name": "業界能源科技專案計畫申請需知",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5268"
+      ]
+    },
+    {
+      "id": "32852",
+      "name": "各類再生能源裝置容量",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5270"
+      ]
+    },
+    {
+      "id": "32847",
+      "name": "合格用電設備檢驗維護業資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=320"
+      ]
+    },
+    {
+      "id": "36685",
+      "name": "緊急連絡電話",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=143"
+      ]
+    },
+    {
+      "id": "32714",
+      "name": "辦理石油管理法相關業務各直轄市、縣(市)政府承辦單位",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=108"
+      ]
+    },
+    {
+      "id": "32715",
+      "name": "民營油料管線事業防災工作檢查表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=5455"
+      ]
+    },
+    {
+      "id": "33267",
+      "name": "煤炭供給與消費年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=137"
+      ]
+    },
+    {
+      "id": "33616",
+      "name": "冰溫熱型開飲機節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=322"
+      ]
+    },
+    {
+      "id": "33617",
+      "name": "顯示器節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_顯示器節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "33619",
+      "name": "貯備型電熱水器節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=324"
+      ]
+    },
+    {
+      "id": "33588",
+      "name": "洗衣機節能標章有效獲證產品",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_洗衣機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "11161",
+      "name": "民營火力電廠基本資料及現況",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=24"
+      ]
+    },
+    {
+      "id": "11162",
+      "name": "民營火力電廠分布圖",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=330"
+      ]
+    },
+    {
+      "id": "25532",
+      "name": "油品市場占有率資料集",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=100"
+      ]
+    },
+    {
+      "id": "25535",
+      "name": "液化石油氣經銷業聯絡資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=105"
+      ]
+    },
+    {
+      "id": "25547",
+      "name": "全台模擬風速資料",
+      "format": "zip",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=103"
+      ]
+    },
+    {
+      "id": "25552",
+      "name": "高壓用電設備型式試驗報告審查合格資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=97"
+      ]
+    },
+    {
+      "id": "25553",
+      "name": "高壓用電設備檢驗機構資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=95"
+      ]
+    },
+    {
+      "id": "12350",
+      "name": "經濟特別收入基金附屬單位預算案(能源研究發展基金分預算)",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=347"
+      ]
+    },
+    {
+      "id": "15940",
+      "name": "能源研究發展基金附屬單位決算分決算",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=348",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=349"
+      ]
+    },
+    {
+      "id": "15941",
+      "name": "石油基金附屬單位決算分決算",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=350",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=351"
+      ]
+    },
+    {
+      "id": "11766",
+      "name": "能源需要月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=28"
+      ]
+    },
+    {
+      "id": "86268",
+      "name": "室內照明燈具節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_室內照明燈具節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "85745",
+      "name": "汽柴油批發業者名單",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=159"
+      ]
+    },
+    {
+      "id": "85756",
+      "name": "台灣地熱發電資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=162"
+      ]
+    },
+    {
+      "id": "85766",
+      "name": "空氣源式熱泵熱水器節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_空氣源式熱泵熱水器節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "85771",
+      "name": "筆記型電腦節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_筆記型電腦節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "45430",
+      "name": "自用發電設備登記廠商資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=254"
+      ]
+    },
+    {
+      "id": "45328",
+      "name": "即熱式燃氣熱水器節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_即熱式燃氣熱水器節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "45330",
+      "name": "空氣清淨機節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_空氣清淨機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "45323",
+      "name": "冰溫熱型飲水機節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_冰溫熱型飲水機節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "45327",
+      "name": "燃氣台爐節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_燃氣台爐節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "62923",
+      "name": "災害期間公用天然氣停氣資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?file_id=6816"
+      ]
+    },
+    {
+      "id": "45580",
+      "name": "螢光燈管節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_螢光燈管節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "102744",
+      "name": "桌上型電腦節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=326"
+      ]
+    },
+    {
+      "id": "102746",
+      "name": "浴室通風電扇節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_浴室用通風電扇節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "41605",
+      "name": "公用天然氣導管承裝業名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=151"
+      ]
+    },
+    {
+      "id": "41608",
+      "name": "冰溫熱型飲水機能源效率分級標示登錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://ranking.energylabel.org.tw/gen/opendata/經濟部能源署_冰溫熱型飲水機能源效率分級標示登錄資訊.csv"
+      ]
+    },
+    {
+      "id": "41609",
+      "name": "桶裝液化石油氣用戶數",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=153"
+      ]
+    },
+    {
+      "id": "130271",
+      "name": "天然氣公司鄉鎮市區供氣戶數",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=210"
+      ]
+    },
+    {
+      "id": "112650",
+      "name": "發電量月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW//populace/opendata/wHandOpenData_File.ashx?set_id=171"
+      ]
+    },
+    {
+      "id": "112651",
+      "name": "石油業者名單",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW//populace/opendata/wHandOpenData_File.ashx?set_id=172"
+      ]
+    },
+    {
+      "id": "112652",
+      "name": "再生能源發展基金對民間團體及個人補捐助案件彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=358"
+      ]
+    },
+    {
+      "id": "161209",
+      "name": "電力消費月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=236",
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=256"
+      ]
+    },
+    {
+      "id": "161210",
+      "name": "煤炭進口來源月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=237"
+      ]
+    },
+    {
+      "id": "163721",
+      "name": "能源需要年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=249"
+      ]
+    },
+    {
+      "id": "163716",
+      "name": "煤炭進口來源年資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moeaea.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=244"
+      ]
+    },
+    {
+      "id": "45326",
+      "name": "機車節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_機器腳踏車節能標章有效獲證資訊.csv"
+      ]
+    },
+    {
+      "id": "86266",
+      "name": "出口標示燈與避難方向指示燈節能標章有效獲證資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.energylabel.org.tw/energylbapply/_outweb/gen/opendata/經濟部能源署_出口標示燈與避難方向指示燈節能標章有效獲證資訊.csv"
+      ]
+    }
+  ]
+}

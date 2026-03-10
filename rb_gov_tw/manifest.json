@@ -1,0 +1,583 @@
+{
+  "provider": "交通部鐵道局",
+  "slug": "rb_gov_tw",
+  "datasets": [
+    {
+      "id": "97071",
+      "name": "臺灣桃園國際機場捷運全線里程及路線資料",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1689073949-m0.csv",
+        "https://www.rb.gov.tw/public/files/artsinfo/1689073914-m0.csv"
+      ]
+    },
+    {
+      "id": "97091",
+      "name": "高鐵苗栗站各樓層平面圖",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687688505-m0.csv"
+      ]
+    },
+    {
+      "id": "96911",
+      "name": "申請高鐵電纜槽及預埋管道租用之相關規定",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687696930-m0.csv"
+      ]
+    },
+    {
+      "id": "96912",
+      "name": "交通部鐵道局及所屬單位預算月報",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1742260006-m0.csv"
+      ]
+    },
+    {
+      "id": "96913",
+      "name": "鐵道局優良安衛評選與表揚作業標準",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687697249-m0.csv"
+      ]
+    },
+    {
+      "id": "96915",
+      "name": "鐵道局各展示館參觀人數統計",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1548923354-0.csv"
+      ]
+    },
+    {
+      "id": "96919",
+      "name": "各等級鐵路車站基本設施",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1548908945-0.csv"
+      ]
+    },
+    {
+      "id": "96926",
+      "name": "鐵道局圖書室館藏",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1548656637-0.csv"
+      ]
+    },
+    {
+      "id": "96928",
+      "name": "鐵道局二億元以上在建工程標案",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1762239984-m0.csv"
+      ]
+    },
+    {
+      "id": "96932",
+      "name": "鐵道局工程計畫資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1609232062-m0.csv"
+      ]
+    },
+    {
+      "id": "96939",
+      "name": "高鐵沿線里程座標相關資料",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1655863905-m0.csv"
+      ]
+    },
+    {
+      "id": "96940",
+      "name": "鐵道局政府出版品資料",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1619768912-m0.csv"
+      ]
+    },
+    {
+      "id": "96965",
+      "name": "高鐵車站數",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1544763466-0.csv"
+      ]
+    },
+    {
+      "id": "96969",
+      "name": "台灣高鐵行車事故事件統計",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1762240397-m0.csv"
+      ]
+    },
+    {
+      "id": "96971",
+      "name": "鐵道局基金預算案",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1745455439-m0.csv"
+      ]
+    },
+    {
+      "id": "96942",
+      "name": "機場捷運車站位置座標",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1607418282-m0.csv"
+      ]
+    },
+    {
+      "id": "113916",
+      "name": "高速鐵路(台北至左營路段)沿線毗鄰地區限建範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687685982-m0.csv"
+      ]
+    },
+    {
+      "id": "119890",
+      "name": "交通部鐵道局及所屬特別預算年度會計報告",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1655974015-m0.csv"
+      ]
+    },
+    {
+      "id": "118071",
+      "name": "交通部鐵道局及所屬單位決算",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1742260292-m0.csv"
+      ]
+    },
+    {
+      "id": "172618",
+      "name": "鐵道發展基金分預算案",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1737516727-m0.csv"
+      ]
+    },
+    {
+      "id": "172622",
+      "name": "鐵道局及所屬法定預算",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1753263648-m0.csv"
+      ]
+    },
+    {
+      "id": "59650",
+      "name": "臺鐵0604富里-東竹及0622富源-光復正線出軌事故專案調查報告",
+      "format": "zip",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/202207131033520.zip&filedisplay=調查報告.zip&flag=doc"
+      ]
+    },
+    {
+      "id": "127376",
+      "name": "交通部鐡道局及所屬單位預算案",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1756970679-m0.csv"
+      ]
+    },
+    {
+      "id": "127633",
+      "name": "交通部鐵道局-振興三倍券通訊交易適用業者名單",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/userfiles/file/202007280002.csv"
+      ]
+    },
+    {
+      "id": "117990",
+      "name": "辦理政策宣導相關廣告支出明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1646128625-m0.csv"
+      ]
+    },
+    {
+      "id": "97072",
+      "name": "花東線鐵路車站改建施工資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1546487731-0.csv"
+      ]
+    },
+    {
+      "id": "97076",
+      "name": "扎根高鐵特定區邁向高速新時代之中文文宣",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1703595063-m0.csv"
+      ]
+    },
+    {
+      "id": "97090",
+      "name": "高鐵彰化站各樓層平面圖",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687689872-m0.csv"
+      ]
+    },
+    {
+      "id": "97092",
+      "name": "高鐵雲林站各樓層平面圖",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687687640-m0.csv"
+      ]
+    },
+    {
+      "id": "96967",
+      "name": "支付或接受之補助",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687694584-m0.csv"
+      ]
+    },
+    {
+      "id": "96970",
+      "name": "歷年辦理之委託研究計畫",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1653624078-m0.csv"
+      ]
+    },
+    {
+      "id": "96973",
+      "name": "第三人申請機場捷運路權用地作其他公共利益使用案",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687918892-m0.csv"
+      ]
+    },
+    {
+      "id": "96976",
+      "name": "鐵道局基金決算",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1709713380-m0.csv"
+      ]
+    },
+    {
+      "id": "96983",
+      "name": "機場捷運隔音牆設置資料",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687690784-m0.csv"
+      ]
+    },
+    {
+      "id": "96908",
+      "name": "鐵道局契約範本",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1762240049-m0.csv"
+      ]
+    },
+    {
+      "id": "96909",
+      "name": "東部鐵路快捷化計畫－北宜直線鐵路",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1545794536-0.csv"
+      ]
+    },
+    {
+      "id": "96914",
+      "name": "鐵道局新聞稿",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687696004-m0.csv"
+      ]
+    },
+    {
+      "id": "96918",
+      "name": "鐵道局轄管計畫已完成通車啟用時間",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1762240084-m0.csv"
+      ]
+    },
+    {
+      "id": "96925",
+      "name": "鐵道局施工技術規範-機電類",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1627351571-m0.csv"
+      ]
+    },
+    {
+      "id": "96927",
+      "name": "鐵道局車站公共藝術作品",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1548755177-0.csv"
+      ]
+    },
+    {
+      "id": "96931",
+      "name": "鐵道工程願景館資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1548899477-0.csv"
+      ]
+    },
+    {
+      "id": "96933",
+      "name": "鐵道局改建及新建車站站名",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1548897491-0.csv"
+      ]
+    },
+    {
+      "id": "96936",
+      "name": "鐵道辭典",
+      "format": "ods",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1745389268-m0.csv"
+      ]
+    },
+    {
+      "id": "96945",
+      "name": "鐵道局職員教育程度統計",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1743148905-m0.csv"
+      ]
+    },
+    {
+      "id": "96946",
+      "name": "高鐵桃園等五個車站特定(地)區賸餘可建地面積統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1547802217-0.csv"
+      ]
+    },
+    {
+      "id": "96963",
+      "name": "鐵道局廉政檢舉管道",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1548724384-0.csv"
+      ]
+    },
+    {
+      "id": "99711",
+      "name": "鐵道局土地及建物標售情形一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1702543531-m0.csv"
+      ]
+    },
+    {
+      "id": "97372",
+      "name": "高鐵5個車站特定區資訊幹線簡圖及相關資料",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1687686691-m0.csv"
+      ]
+    },
+    {
+      "id": "120966",
+      "name": "鐵道局施政計畫",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1657194060-m0.csv"
+      ]
+    },
+    {
+      "id": "172614",
+      "name": "臺鐵局撥入資產及債務管理基金分預算",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1737533793-m0.csv"
+      ]
+    },
+    {
+      "id": "172615",
+      "name": "臺鐵局撥入資產及債務管理基金分預算會計月報",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1754026699-m0.csv"
+      ]
+    },
+    {
+      "id": "172617",
+      "name": "臺鐵局撥入資產及債務管理基金分決算",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1754554208-m0.csv"
+      ]
+    },
+    {
+      "id": "172619",
+      "name": "鐵道發展基金分預算會計月報",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1754020642-m0.csv"
+      ]
+    },
+    {
+      "id": "77790",
+      "name": "臺鐵106年8件正線出軌事故專案調查報告",
+      "format": "zip",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/202207131050070.zip&filedisplay=調查報告.zip&flag=doc"
+      ]
+    },
+    {
+      "id": "102160",
+      "name": "阿里山森林鐵路107年1至2月間正線出軌事故專案調查報告",
+      "format": "zip",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/202207131039270.zip&filedisplay=調查報告.zip&flag=doc"
+      ]
+    },
+    {
+      "id": "99700",
+      "name": "鐵道局頒ISO文件",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1653639867-m0.csv"
+      ]
+    },
+    {
+      "id": "96975",
+      "name": "交通部鐵道局及所屬特別預算月報",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1745399307-m0.csv"
+      ]
+    },
+    {
+      "id": "96977",
+      "name": "鐵道局基金會計月報",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1699873605-m0.csv"
+      ]
+    },
+    {
+      "id": "96929",
+      "name": "鐵道局大事紀",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1762240118-m0.csv"
+      ]
+    },
+    {
+      "id": "96934",
+      "name": "交通部金路獎第14屆得獎名單",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1548896893-0.csv"
+      ]
+    },
+    {
+      "id": "96935",
+      "name": "鐵道局高雄鐵路地下化展示館介紹",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1655865993-m0.csv"
+      ]
+    },
+    {
+      "id": "96938",
+      "name": "高鐵車站資料",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1548663003-0.csv"
+      ]
+    },
+    {
+      "id": "96941",
+      "name": "高鐵運量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1762240428-m0.csv"
+      ]
+    },
+    {
+      "id": "96947",
+      "name": "第三人申請高速鐵路交通建設用地作其他公共利益使用案",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1547802439-0.csv"
+      ]
+    },
+    {
+      "id": "96910",
+      "name": "軌道產業相關資料集",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1572590351-m0.csv"
+      ]
+    },
+    {
+      "id": "96916",
+      "name": "鐵道局宣傳影片",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1712802395-m0.csv"
+      ]
+    },
+    {
+      "id": "96920",
+      "name": "鐵道局職員年齡統計",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1743148962-m0.csv"
+      ]
+    },
+    {
+      "id": "96924",
+      "name": "鐵道局工程技術",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1601025023-m0.csv"
+      ]
+    },
+    {
+      "id": "127349",
+      "name": "交通部鐵道局及所屬特別決算",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1742260366-m0.csv"
+      ]
+    },
+    {
+      "id": "172613",
+      "name": "臺鐵局撥入資產及債務管理基金分預算案",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1737533583-m0.csv"
+      ]
+    },
+    {
+      "id": "172621",
+      "name": "鐵道發展基金分決算",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1754639572-m0.csv"
+      ]
+    },
+    {
+      "id": "172601",
+      "name": "鐵道發展基金分預算",
+      "format": "csv",
+      "urls": [
+        "https://www.rb.gov.tw/public/files/artsinfo/1737514504-m0.csv"
+      ]
+    }
+  ]
+}

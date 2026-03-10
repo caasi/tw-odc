@@ -1,0 +1,1613 @@
+{
+  "provider": "交通部高速公路局",
+  "slug": "freeway_gov_tw",
+  "datasets": [
+    {
+      "id": "6218",
+      "name": "高速公路局各服務區顧客服務專線一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=96&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "6227",
+      "name": "高速公路延車公里統計",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/file/TIMCCC/MVK/%E6%AD%B7%E5%B9%B4%E7%99%BE%E8%90%AC%E8%BB%8A%E5%85%AC%E9%87%8C112.csv"
+      ]
+    },
+    {
+      "id": "10029",
+      "name": "臨時道路使用路權申請資料(國道體育活動)",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e8%87%a8%e6%99%82%e9%81%93%e8%b7%af%e4%bd%bf%e7%94%a8%e8%b7%af%e6%ac%8a%e7%94%b3%e8%ab%8b%e8%b3%87%e6%96%99(%e5%9c%8b%e9%81%93%e9%ab%94%e8%82%b2%e6%b4%bb%e5%8b%95)-%e7%94%b3%e8%ab%8b%e4%bd%bf%e7%94%a8%e5%9c%8b%e9%81%93%e8%88%89%e8%be%a6%e9%ab%94%e8%82%b2%e6%b4%bb%e5%8b%95%e7%ae%a1%e7%90%86%e8%a6%81%e9%bb%9e%20(1).csv"
+      ]
+    },
+    {
+      "id": "8234",
+      "name": "高速公路交流道里程編號表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E4%BA%A4%E6%B5%81%E9%81%93%E4%B8%80%E8%A6%BD%E8%A1%A81130413.csv"
+      ]
+    },
+    {
+      "id": "30682",
+      "name": "北二高竣工報告",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/北二高竣工報告.csv"
+      ]
+    },
+    {
+      "id": "40476",
+      "name": "行車速限資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%93%e5%90%84%e4%b8%bb%e8%a6%81%e8%b7%af%e6%ae%b5%e9%80%9f%e9%99%90.csv"
+      ]
+    },
+    {
+      "id": "31348",
+      "name": "高雄港聯外高架道路計畫A區段施工介紹",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/高雄港聯外高架道路計畫A區段施工介紹.csv"
+      ]
+    },
+    {
+      "id": "31290",
+      "name": "高速公路生態敏感里程",
+      "format": "shp",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/File/Construction/opendata/sensi.zip"
+      ]
+    },
+    {
+      "id": "33191",
+      "name": "國道易壅塞路段",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=166&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "46798",
+      "name": "高速公路土地活化利用－無償使用(或認養)",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=152&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "46799",
+      "name": "高速公路土地活化利用－土地出租",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=151&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "47272",
+      "name": "高速公路局施工技術規範目錄",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/高速公路局施工技術規範目錄(1).csv"
+      ]
+    },
+    {
+      "id": "28043",
+      "name": "高速公路局第一新建工程分局完工工程基本資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/高速公路局第一新建工程分局完工工程基本資訊1130322.csv"
+      ]
+    },
+    {
+      "id": "41304",
+      "name": "國道公路建設管理基金分決算",
+      "format": "xml",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/114%E8%87%AA%E7%B7%A8%E6%B1%BA%E7%AE%97xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/113%E5%B9%B4%E5%AF%A9%E5%AE%9A%E6%B1%BA%E7%AE%971xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/112%E6%B1%BA%E7%AE%97%E5%AF%A9%E5%AE%9A%E7%89%881.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/111%E5%AF%A9%E5%AE%9A%E6%B1%BA%E7%AE%97xml1.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/110%E5%AF%A9%E5%AE%9A%E6%B1%BA%E7%AE%97xml1.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/109%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AF%A9%E5%AE%9A%E7%89%881.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/108%E5%B9%B4%E5%BA%A6%E5%AF%A9%E5%AE%9A%E6%B1%BA%E7%AE%971.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/107%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AF%A9%E5%AE%9A%E6%9C%AC1.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/106%E5%B9%B4%E5%BA%A6%E5%AF%A9%E5%AE%9A%E6%B1%BA%E7%AE%971.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/105%E5%B9%B4%E5%BA%A6%E5%AF%A9%E5%AE%9A%E6%B1%BA%E7%AE%971.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%B1%BA%E7%AE%97/104%E5%B9%B4%E5%BA%A6%E5%AF%A9%E5%AE%9A%E6%B1%BA%E7%AE%971.zip",
+        "https://www.freeway.gov.tw/UserFiles/File/Accounting/%E6%B1%BA%E7%AE%97/103%E5%B9%B4%E5%BA%A6%E5%AF%A9%E5%AE%9A%E6%B1%BA%E7%AE%97(8).zip"
+      ]
+    },
+    {
+      "id": "64928",
+      "name": "高速公路局第一新建工程分局轄管工務所簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/高速公路局第一新建工程分局轄管工務所簡介1130710V2.csv"
+      ]
+    },
+    {
+      "id": "82649",
+      "name": "國道通車訊息",
+      "format": "ods",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E5%9C%8B%E9%81%93%E9%80%9A%E8%BB%8A%E8%A8%8A%E6%81%AF%E6%B8%85%E5%96%AE.ods"
+      ]
+    },
+    {
+      "id": "37662",
+      "name": "VD 動態資訊(v2.0)",
+      "format": "xml",
+      "urls": [
+        "https://tisvcloud.freeway.gov.tw/history/motc20/VDLive.xml"
+      ]
+    },
+    {
+      "id": "37757",
+      "name": "站間各車種中位數行駛車速 (M05A)",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e7%ab%99%e9%96%93%e5%90%84%e8%bb%8a%e7%a8%ae%e4%b8%ad%e4%bd%8d%e6%95%b8%e8%a1%8c%e9%a7%9b%e8%bb%8a%e9%80%9f%20(M05A).csv"
+      ]
+    },
+    {
+      "id": "37761",
+      "name": "各類車種旅次平均長度 (M07A)",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%90%84%e9%a1%9e%e8%bb%8a%e7%a8%ae%e6%97%85%e6%ac%a1%e5%b9%b3%e5%9d%87%e9%95%b7%e5%ba%a6%20(M07A).csv"
+      ]
+    },
+    {
+      "id": "37652",
+      "name": "路段基本資訊(v2.0)",
+      "format": "xml",
+      "urls": [
+        "https://tisvcloud.freeway.gov.tw/history/motc20/Section.xml"
+      ]
+    },
+    {
+      "id": "37658",
+      "name": "路段即時路況動態資訊(v2.0)",
+      "format": "xml",
+      "urls": [
+        "https://tisvcloud.freeway.gov.tw/history/motc20/LiveTraffic.xml"
+      ]
+    },
+    {
+      "id": "31045",
+      "name": "高速公路申請施工及標誌布設規定",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e7%94%b3%e8%ab%8b%e6%96%bd%e5%b7%a5%e5%8f%8a%e6%a8%99%e8%aa%8c%e5%b8%83%e8%a8%ad%e8%a6%8f%e5%ae%9a%e6%b8%85%e5%96%ae_331990_062054.csv"
+      ]
+    },
+    {
+      "id": "36645",
+      "name": "國道5號雪山隧道工程",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e9%9b%aa%e5%b1%b1%e9%9a%a7%e9%81%93%e6%a9%9f%e9%9b%bb%e7%85%a7%e6%98%8e%e6%95%b8%e9%87%8f%e8%a8%ad%e5%82%99%e4%b8%80%e8%a6%bd%e8%a1%a8_345212.csv"
+      ]
+    },
+    {
+      "id": "94007",
+      "name": "交通部高速公路局第二新建工程分局轄區標案基本資料表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/交通部高速公路局第二新建工程分局轄區標案基本資料表(1140218).csv"
+      ]
+    },
+    {
+      "id": "91597",
+      "name": "高速公路新(增)建或拓寬工程完工資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/高速公路新(增)建或拓寬工程完工通車資訊(5).csv"
+      ]
+    },
+    {
+      "id": "91515",
+      "name": "高速公路局公務出國報告",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=296&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "106440",
+      "name": "「改道路線」標誌標準化",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E6%94%B9%E9%81%93%E8%B7%AF%E7%B7%9A%E6%A8%99%E8%AA%8C%E6%A8%99%E6%BA%96%E5%8C%96%20(3).csv"
+      ]
+    },
+    {
+      "id": "106476",
+      "name": "局外單位因施工申請封閉國道車道作業規定",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E5%B1%80%E5%A4%96%E5%96%AE%E4%BD%8D%E5%9B%A0%E6%96%BD%E5%B7%A5%E7%94%B3%E8%AB%8B%E5%B0%81%E9%96%89%E5%9C%8B%E9%81%93%E8%BB%8A%E9%81%93%E4%BD%9C%E6%A5%AD%E8%A6%8F%E5%AE%9A.csv"
+      ]
+    },
+    {
+      "id": "94193",
+      "name": "高速公路局第一新建工程分局暨所屬單位之地址及電話一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/高速公路局第一新建工程分局暨所屬單位之地址及電話一覽表1130710.csv"
+      ]
+    },
+    {
+      "id": "98163",
+      "name": "高速公路局工務段轄區範圍",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=335&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "98447",
+      "name": "國道交通標誌位置",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/國道交通標誌位.csv"
+      ]
+    },
+    {
+      "id": "88628",
+      "name": "國道服務區公用電話數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=274&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "88633",
+      "name": "國道服務區無障礙用餐桌椅數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=278&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "92145",
+      "name": "交通部高速公路局檔案應用申請須知",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=610&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "93695",
+      "name": "雪山隧道機電照明數量設備一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=309&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "95138",
+      "name": "高速公路局所轄建管範圍內既有公共建築物無障礙設施分類、分期改善執行期程表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=324&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "151729",
+      "name": "國道服務區停車場充電樁設備一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=480&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "117897",
+      "name": "國道主線實施開放路肩作業規定",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=395&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "131387",
+      "name": "國道加油站加油種類表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=421&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "116169",
+      "name": "高速公路交通安全宣導",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e9%ab%98%e9%80%9f%e5%85%ac%e8%b7%af%e4%ba%a4%e9%80%9a%e5%ae%89%e5%85%a8%e5%ae%a3%e5%b0%8e_021608.csv"
+      ]
+    },
+    {
+      "id": "133039",
+      "name": "交通部高速公路局辦理政策宣導相關廣告支出明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1470617255023742976.csv&filedisplay=114年12月辦理政策宣導之執行情形表(國道基金)csv格式檔1150210.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1332623827686920192.csv&filedisplay=113年12月辦理政策宣導之執行情形表(國道基金)csv格式檔1140110.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1273188109072207872.csv&filedisplay=109-12宣導公告csv1130813.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1273188109097373696.csv&filedisplay=109年11月辦理政策宣導之執行情形表(國道基金)csv格式檔1130813.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "130313",
+      "name": "交通部高速公路局北區養護工程分局簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/northern/Upload/202009/交通部高速公路局北區養護工程分局簡介_373340.csv"
+      ]
+    },
+    {
+      "id": "95068",
+      "name": "國道停車彎相關業務",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%93%e5%85%ac%e5%8b%99%e5%81%9c%e8%bb%8a%e5%bd%8e(%e9%81%bf%e8%bb%8a%e5%bd%8e)%e8%a8%ad%e7%bd%ae%e4%b8%80%e8%a6%bd%e8%a1%a8.csv"
+      ]
+    },
+    {
+      "id": "91667",
+      "name": "坪林車輛總量管制數據",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/file/%E5%8C%97%E5%88%86%E5%B1%80/%E4%BE%BF%E6%B0%91%E6%9C%8D%E5%8B%99/%E5%9D%AA%E6%9E%97%E8%BB%8A%E8%BC%9B%E7%B8%BD%E9%87%8F%E7%AE%A1%E5%88%B6%E6%95%B8%E6%93%9A11412.csv"
+      ]
+    },
+    {
+      "id": "95554",
+      "name": "國道高速公路後續路段橋梁耐震補強工程",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1258607227783090176.csv&filedisplay=(六)國道高速公路後續路段橋樑耐震補強工程V3.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "166496",
+      "name": "高速公路交流道座標",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%938%e8%99%9f_164410.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%931%e8%99%9f(%e5%b9%b3%e9%9d%a2)_095217.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%932%e8%99%9f_554336.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%933%e8%99%9f_571285.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%933%e7%94%b2_575610.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%934%e8%99%9f_112696.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%936%e8%99%9f_160056.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%935%e8%99%9f_120055.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%9310%e8%99%9f_172464.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%932%e7%94%b2_562622.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%931%e8%99%9f(%e9%ab%98%e6%9e%b6)_435259.csv"
+      ]
+    },
+    {
+      "id": "175945",
+      "name": "國道歷年回數票發行類型及面額",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=628&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "175946",
+      "name": "國道設施養護里程資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=629&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "174246",
+      "name": "國道公路建設管理基金出國計畫執行情形表(高公局)",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1470618214428839936.csv&filedisplay=114年度1-12月出國計畫執行情形表.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "174247",
+      "name": "交通部高速公路局對地方政府、民間團體及個人補(捐)助經費彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1399220443646267392.csv&filedisplay=交通部高速公路局114年截至第2季止獎補助.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "174412",
+      "name": "西螺、新營、東山關廟、古坑服務區招商委託專業服務案",
+      "format": "pdf",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=614&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=615&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=613&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=616&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "174676",
+      "name": "國道散落物處理收費要點",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410527571535204352.pdf&filedisplay=1130115修正(1130122生效)-國道散落物處理收費要點.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174685",
+      "name": "高速公路局年報",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=624&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "174851",
+      "name": "高速公路服務區增設或開放地方聯外道路要點",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414819694451363840.pdf&filedisplay=高速公路服務區增設或開放地方聯外道路要點.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174852",
+      "name": "國道既有橫交道路穿跨越橋梁及箱涵拓寬改建辦理暨經費分擔原則",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414820335290683392.pdf&filedisplay=國道既有橫交道路穿跨越橋梁及箱涵拓寬改建辦理暨經費分擔原則.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174900",
+      "name": "高速公路耐震補強工程具特殊性之補強案例資料",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1415591122679369728.pdf&filedisplay=高速公路耐震補強工程具特殊性之補強案例資料.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174913",
+      "name": "高速公路橋梁目視檢測手冊",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1415607011839578112.pdf&filedisplay=高速公路橋梁目視檢測手冊.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "9453",
+      "name": "eTag EPC ID 編碼原則",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=102&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "9970",
+      "name": "交通部高速公路局北區養護工程分局暨所屬單位地址及電話一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1363688361893564416.csv&filedisplay=北區養護工程分局暨所屬單位之地址及電話一覽表1140401.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "30141",
+      "name": "高速公路局第一新建工程分局在建工程",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/高速公路局第一新建工程分局在建工程1130322.csv"
+      ]
+    },
+    {
+      "id": "30616",
+      "name": "國道最高橋梁資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=591&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "31035",
+      "name": "國道爬坡道里程",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1109053181008023552.csv&filedisplay=20230519.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "31038",
+      "name": "國道開放路肩資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=160&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "31289",
+      "name": "高速公路植物生態調查資料",
+      "format": "ods",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/file/Construction/opendata/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E6%A4%8D%E7%89%A9%E7%94%9F%E6%85%8B%E8%AA%BF%E6%9F%A5%E8%B3%87%E6%96%99.ods"
+      ]
+    },
+    {
+      "id": "37752",
+      "name": "站間各車種中位數旅行時間 (M04A)",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e7%ab%99%e9%96%93%e5%90%84%e8%bb%8a%e7%a8%ae%e4%b8%ad%e4%bd%8d%e6%95%b8%e6%97%85%e8%a1%8c%e6%99%82%e9%96%93%20(M04A).csv"
+      ]
+    },
+    {
+      "id": "37760",
+      "name": "各旅次路徑原始資料 (M06A)",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%90%84%e6%97%85%e6%ac%a1%e8%b7%af%e5%be%91%e5%8e%9f%e5%a7%8b%e8%b3%87%e6%96%99%20(M06A).csv"
+      ]
+    },
+    {
+      "id": "37763",
+      "name": "各類車種旅次數量(M08A)",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%90%84%e9%a1%9e%e8%bb%8a%e7%a8%ae%e6%97%85%e6%ac%a1%e6%95%b8%e9%87%8f%20(M08A).csv"
+      ]
+    },
+    {
+      "id": "37668",
+      "name": "CMS一分鐘動態資訊(v2.0)",
+      "format": "xml",
+      "urls": [
+        "https://tisvcloud.freeway.gov.tw/history/motc20/CMSLive.xml"
+      ]
+    },
+    {
+      "id": "33355",
+      "name": "交通部104年度工程查核缺失矯正、預防措施及回饋機制觀摩會成果報告",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/交通部104年度工程查核缺失矯正措施及回饋機制觀摩會成果報告.csv"
+      ]
+    },
+    {
+      "id": "47228",
+      "name": "高速公路兩側違規樹立廣告物查報統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=175&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "47229",
+      "name": "高速公路路權內外單位管線埋設情形",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=176&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "48553",
+      "name": "高速公路四季景觀",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1318425923699085312.csv&filedisplay=高速公路四季景觀.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "82682",
+      "name": "交通工程新措施",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E4%BA%A4%E9%80%9A%E5%B7%A5%E7%A8%8B%E6%94%B9%E5%96%84%E6%8E%AA%E6%96%BD%E7%B6%B2%E5%9D%80_524959.csv"
+      ]
+    },
+    {
+      "id": "88625",
+      "name": "國道加油站設施數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=273&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "88629",
+      "name": "國道服務區公廁數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=275&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "88630",
+      "name": "國道服務區手機充電座數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=276&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "88635",
+      "name": "國道服務區電梯數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=280&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "28805",
+      "name": "國道加油站區位資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=123&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "36646",
+      "name": "多孔隙瀝青混凝土(PAC)設計施工及養護技術手冊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/多孔隙瀝青混凝土(PAC)設計施工及養護技術手冊.csv"
+      ]
+    },
+    {
+      "id": "43473",
+      "name": "高速公路過磅情形統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1268105853785870336.csv&filedisplay=105地磅報表上網.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1268106605367398400.csv&filedisplay=106地磅報表上網.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1268107052362764288.csv&filedisplay=107地磅報表上網.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1268107436204494848.csv&filedisplay=108年地磅報表上網1090115.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1268107701800407040.csv&filedisplay=109年地磅報表上網1100107csv.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1268107917387632640.csv&filedisplay=110年地磅報表上網1130727更新.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1268108096174034944.csv&filedisplay=111年地磅報表上網1130727更新.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1268108196401123328.csv&filedisplay=112年地磅報表上網1130727更新.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "45761",
+      "name": "國道服務區駕駛人休息室(含簡易休憩區)服務資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=143&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "91433",
+      "name": "高速公路入侵紅火蟻防治案件清單",
+      "format": "wms",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%85%A5%E4%BE%B5%E7%B4%85%E7%81%AB%E8%9F%BB%E9%98%B2%E6%B2%BB%E6%A1%88%E4%BB%B6%E6%B8%85%E5%96%AE(1).csv"
+      ]
+    },
+    {
+      "id": "126563",
+      "name": "交通部高速公路局第一新建工程分局簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/交通部高速公路局第一新建工程分局簡介1130710.csv"
+      ]
+    },
+    {
+      "id": "101424",
+      "name": "國道收費方式沿革表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=343&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "118762",
+      "name": "收費員轉置統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=399&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "119901",
+      "name": "交通部高速公路局第二新建工程分局簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/交通部高速公路局第二新建工程分局簡介.csv"
+      ]
+    },
+    {
+      "id": "94008",
+      "name": "高速公路局第二新建工程分局暨所屬單位之地址及電話一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/高速公路局第二新建工程分局暨所屬單位之地址及電話一覽表(1130821).csv"
+      ]
+    },
+    {
+      "id": "95460",
+      "name": "高速公路規劃設計新建工程計畫",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1229714076213448704.csv&filedisplay=高速公路規劃設計新建工程計畫(開放資料集).csv&flag=doc"
+      ]
+    },
+    {
+      "id": "96555",
+      "name": "國道服務區駕駛人休息室統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=331&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=422&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=432&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=486&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=495&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=520&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=568&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=612&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "129933",
+      "name": "「中山高速公路員林-高雄段拓寬工程計畫環境影響差異分析報告(國道1號增設銅鑼交流道工程)環境監測報告書",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/國道1號增設銅鑼交流道工程(第434標)彙總報告109Y08M.CSV"
+      ]
+    },
+    {
+      "id": "130290",
+      "name": "高速公路規劃設計相關規定",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1428660996259450880.csv&filedisplay=(七)高速公路規劃設計相關規定.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "130391",
+      "name": "高速公路交通工程手冊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=419&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "95136",
+      "name": "高速公路局所轄建管範圍內需辦理建築物公共安全申報之建築物統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=323&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "92122",
+      "name": "高速公路局出版品目錄",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e9%87%8d%e6%96%b0%e4%b8%8a%e6%9e%b6-1070212%e6%95%b4%e4%bd%b5%e5%89%8d%e9%ab%98%e5%85%ac%e5%b1%80%e5%87%ba%e7%89%88%e5%93%81%e7%9b%ae%e9%8c%84(utf8).csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/1%e9%87%8d%e6%96%b0%e4%b8%8a%e6%9e%b6-%e5%9c%8b%e5%b7%a5%e5%b1%80%e8%88%87%e8%a6%8f%e5%8a%83%e7%b5%84%e5%90%88%e4%bd%b5%e5%87%ba%e7%89%88%e5%93%81%e7%9b%ae%e9%8c%84(utf8).csv",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=302&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "92142",
+      "name": "高速公路國道視窗",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e9%87%8d%e6%96%b0%e4%b8%8a%e6%9e%b6-%e9%ab%98%e9%80%9f%e5%85%ac%e8%b7%af%e5%9c%8b%e9%81%93%e8%a6%96%e7%aa%97101-107(utf8).csv"
+      ]
+    },
+    {
+      "id": "104431",
+      "name": "國道地磅站里程",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1214869485530386432.csv&filedisplay=1130306更新-國道地磅站里程.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "106442",
+      "name": "交通管制設施之布設與撤除作業程序",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6%E8%A8%AD%E6%96%BD%E4%B9%8B%E5%B8%83%E8%A8%AD%E8%88%87%E6%92%A4%E9%99%A4%E4%BD%9C%E6%A5%AD%E7%A8%8B%E5%BA%8F%20(2).csv"
+      ]
+    },
+    {
+      "id": "106443",
+      "name": "高速公路施工之交通管制守則",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E6%96%BD%E5%B7%A5%E4%B9%8B%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6%E5%AE%88%E5%89%87_431683_370289.csv"
+      ]
+    },
+    {
+      "id": "132995",
+      "name": "國道公路建設管理基金會計月報",
+      "format": "xml",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11501%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11412%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11411%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11410%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11409%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11408%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11407%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11406%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11405%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11404%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11403%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11402%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11401%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11312%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11311%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11310%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11309%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11308%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11307%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11306%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11305%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11304%E6%9C%88%E5%A0%B1xml(1).zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11303%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11302%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1/11301%E6%9C%88%E5%A0%B1xml.zip"
+      ]
+    },
+    {
+      "id": "130963",
+      "name": "高速公路局資通系統清冊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=561&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=608&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e9%ab%98%e9%80%9f%e5%85%ac%e8%b7%af%e5%b1%80%e8%b3%87%e9%80%9a%e7%b3%bb%e7%b5%b1%e6%b8%85%e5%86%8a%e6%aa%94%e6%a1%88(109%e5%b9%b4).csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e9%ab%98%e9%80%9f%e5%85%ac%e8%b7%af%e5%b1%80%e8%b3%87%e9%80%9a%e7%b3%bb%e7%b5%b1%e6%b8%85%e5%86%8a%e6%aa%94%e6%a1%88(110%e5%b9%b4).csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e9%ab%98%e9%80%9f%e5%85%ac%e8%b7%af%e5%b1%80%e8%b3%87%e9%80%9a%e7%b3%bb%e7%b5%b1%e6%b8%85%e5%86%8a%e6%aa%94%e6%a1%88(111%e5%b9%b4).csv"
+      ]
+    },
+    {
+      "id": "130351",
+      "name": "交通部高速公路局中區養護工程分局簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=569&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "139926",
+      "name": "金門大橋工程橋墩座標",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/金門大橋工程橋墩座標(1121106).csv"
+      ]
+    },
+    {
+      "id": "166247",
+      "name": "路段基礎組合對應資訊(v2.0)",
+      "format": "xml",
+      "urls": [
+        "https://tisvcloud.freeway.gov.tw/history/motc20/SectionLink.xml"
+      ]
+    },
+    {
+      "id": "168980",
+      "name": "國道服務區充電樁營運資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=563&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=564&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=565&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=600&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=634&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "174675",
+      "name": "高速公路強風管制作業規定",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410527063521103872.pdf&filedisplay=1130408修正-高速公路強風管制作業規定.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174677",
+      "name": "申請使用國道舉辦體育活動管理要點",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410528845198528512.pdf&filedisplay=1101124發布-申請使用國道舉辦體育活動管理要點.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174910",
+      "name": "植地友生-高速公路植生指南",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1415600985589420032.pdf&filedisplay=植地友生-高速公路植生指南.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174848",
+      "name": "高速公路增設及改善交流道設置原則",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414817820092403712.pdf&filedisplay=高速公路增設及改善交流道設置原則.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174849",
+      "name": "高速公路增設及改善交流道申請審核作業要點",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414819015737479168.pdf&filedisplay=高速公路增設及改善交流道申請審核作業要點.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "169648",
+      "name": "高速公路過磅情形統計(test)",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1267286421085884416.csv&filedisplay=110年地磅報表上網1130727更新.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1267286422360952832.csv&filedisplay=107地磅報表上網.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1267286421345931264.csv&filedisplay=109年地磅報表上網1100107csv.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1267286421492731904.csv&filedisplay=111年地磅報表上網1130727更新.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1267286421580812288.csv&filedisplay=112年地磅報表上網1130727更新.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1267286422029602816.csv&filedisplay=108年地磅報表上網1090115.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "174128",
+      "name": "各國道周邊禁限建範圍內工程清冊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=611&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "174510",
+      "name": "交通部高速公路局交通設施損壞處理要點",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=622&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "174526",
+      "name": "關西、蘇澳服務區優先定約委託專業服務案",
+      "format": "pdf",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=620&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=621&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "174640",
+      "name": "交通部高速公路局公務停車彎設置要點",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=623&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "8161",
+      "name": "國道服務區簡介一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=85&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "18396",
+      "name": "國道最大跨徑鋼箱型梁橋資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%93%e6%9c%80%e5%a4%a7%e8%b7%a8%e5%be%91%e9%8b%bc%e7%ae%b1%e5%9e%8b%e6%a2%81%e6%a9%8b%e8%b3%87%e8%a8%8a.csv"
+      ]
+    },
+    {
+      "id": "21115",
+      "name": "交通量參考值",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/201708/99%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E4%B8%BB%E7%B7%9A)_414112.csv",
+        "https://www.freeway.gov.tw/Upload/201708/99%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E5%8C%9D%E9%81%93)_421611.csv",
+        "https://www.freeway.gov.tw/Upload/201708/100%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E4%B8%BB%E7%B7%9A)_443119.csv",
+        "https://www.freeway.gov.tw/Upload/201708/100%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E5%8C%9D%E9%81%93)_444812.csv",
+        "https://www.freeway.gov.tw/Upload/201708/101%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E4%B8%BB%E7%B7%9A)_002251.csv",
+        "https://www.freeway.gov.tw/Upload/201708/101%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E5%8C%9D%E9%81%93)_022989.csv",
+        "https://www.freeway.gov.tw/Upload/201708/102%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E4%B8%BB%E7%B7%9A)_081534.csv",
+        "https://www.freeway.gov.tw/Upload/201708/102%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E5%8C%9D%E9%81%93)_082655.csv",
+        "https://www.freeway.gov.tw/Upload/201708/103%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E4%B8%BB%E7%B7%9A)_101177.csv",
+        "https://www.freeway.gov.tw/Upload/201708/103%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E5%8C%9D%E9%81%93)_102128.csv",
+        "https://www.freeway.gov.tw/Upload/201708/104%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E4%B8%BB%E7%B7%9A)_115387.csv",
+        "https://www.freeway.gov.tw/Upload/201708/104%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E5%8C%9D%E9%81%93)_120505.csv",
+        "https://www.freeway.gov.tw/Upload/201708/105%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E4%B8%BB%E7%B7%9A)_133230.csv",
+        "https://www.freeway.gov.tw/Upload/201708/105%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E5%8C%9D%E9%81%93)_134011.csv",
+        "https://www.freeway.gov.tw/Upload/201802/106%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E4%B8%BB%E7%B7%9A).csv",
+        "https://www.freeway.gov.tw/Upload/201802/106%E5%B9%B4%E6%97%A5%E4%BA%A4%E9%80%9A%E9%87%8F%E5%8F%83%E8%80%83%E5%80%BC(%E5%8C%9D%E9%81%93).csv",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=6642&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=6647&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=8494&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=16741&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=10813&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=16742&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=14281&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=16743&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=17366&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=17367&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=19145&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=19146&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=20597&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=20598&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=23650&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File.ashx?id=23649&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "21165",
+      "name": "國道計費門架座標及里程牌價表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=112&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "28042",
+      "name": "交通部高速公路局組織法",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1214420197180444672.csv&filedisplay=交通部高速公路局組織法.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "37751",
+      "name": "各類車種通行量統計(M03A)",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=355&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "37661",
+      "name": "VD 靜態資訊(v2.0)",
+      "format": "xml",
+      "urls": [
+        "https://tisvcloud.freeway.gov.tw/history/motc20/VD.xml"
+      ]
+    },
+    {
+      "id": "37665",
+      "name": "CCTV 靜態資訊(v2.0)",
+      "format": "xml",
+      "urls": [
+        "https://tisvcloud.freeway.gov.tw/history/motc20/CCTV.xml"
+      ]
+    },
+    {
+      "id": "37667",
+      "name": "CMS 靜態資訊(v2.0)",
+      "format": "xml",
+      "urls": [
+        "https://tisvcloud.freeway.gov.tw/history/motc20/CMS.xml"
+      ]
+    },
+    {
+      "id": "37660",
+      "name": "壅塞水準資訊(v2.0)",
+      "format": "xml",
+      "urls": [
+        "https://tisvcloud.freeway.gov.tw/history/motc20/CongestionLevel.xml"
+      ]
+    },
+    {
+      "id": "31028",
+      "name": "高速公路交通事故統計及特性分析",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1364786297150902272.csv&filedisplay=1140422更新-國道交通事故統計及特性分析(清單).csv&flag=doc"
+      ]
+    },
+    {
+      "id": "31037",
+      "name": "國道替代道路",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%93%e6%9b%bf%e4%bb%a3%e9%81%93%e8%b7%af112.csv"
+      ]
+    },
+    {
+      "id": "33353",
+      "name": "國道建設計畫推動流程",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1244575916969955328.csv&filedisplay=國道建設推動流程V4.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "24061",
+      "name": "高速公路局第二新建工程分局竣工路段施工紀錄資料目錄",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/國道新建工程局第二區工程處竣工路段施工紀錄資料目錄(UTF-8)1041023.csv"
+      ]
+    },
+    {
+      "id": "10285",
+      "name": "交通部高速公路局南區養護分局暨所屬單位地址及電話一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1318127497509867520.csv&filedisplay=南區養護工程分局暨所屬單位地址及電話一覽表.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "15408",
+      "name": "交通部高速公路局中區養護工程分局暨所屬單位地址及電話一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1214418600794787840.csv&filedisplay=(113)中區養護工程分局暨所屬單位之地址及電話一覽表.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "31285",
+      "name": "高速公路動物生態調查資料",
+      "format": "ods",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/file/Construction/opendata/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%8B%95%E7%89%A9%E7%94%9F%E6%85%8B%E8%AA%BF%E6%9F%A5%E8%B3%87%E6%96%99-1.ods"
+      ]
+    },
+    {
+      "id": "31291",
+      "name": "高速公路道路致死動物資料",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/file/Construction/opendata/roadkill_new20210406.csv"
+      ]
+    },
+    {
+      "id": "31292",
+      "name": "高速公路生態友善設施資料",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/File/Construction/opendata/%E5%8F%8B%E5%96%84%E6%8E%AA%E6%96%BD.csv"
+      ]
+    },
+    {
+      "id": "45759",
+      "name": "國道服務區年度每月營業額",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/103%e5%b9%b4%e5%9c%8b%e9%81%93%e6%9c%8d%e5%8b%99%e5%8d%80%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d_191853.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/104%e5%b9%b4%e5%9c%8b%e9%81%93%e6%9c%8d%e5%8b%99%e5%8d%80%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/105%e5%b9%b4%e5%9c%8b%e9%81%93%e6%9c%8d%e5%8b%99%e5%8d%80%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/106%e5%b9%b4%e5%9c%8b%e9%81%93%e6%9c%8d%e5%8b%99%e5%8d%80%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/107%e5%b9%b4%e5%9c%8b%e9%81%93%e6%9c%8d%e5%8b%99%e5%8d%80%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/108%e5%b9%b4%e5%9c%8b%e9%81%93%e6%9c%8d%e5%8b%99%e5%8d%80%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/109%e5%b9%b4%e5%9c%8b%e9%81%93%e6%9c%8d%e5%8b%99%e5%8d%80%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/110%e5%b9%b4%e5%9c%8b%e9%81%93%e6%9c%8d%e5%8b%99%e5%8d%80%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d_2.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/111%e5%b9%b4%e5%9c%8b%e9%81%93%e6%9c%8d%e5%8b%99%e5%8d%80%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d_1120210.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/112%e5%b9%b4%e5%9c%8b%e9%81%93%e6%9c%8d%e5%8b%99%e5%8d%80%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d_1130117.csv",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=554&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=599&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=636&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "45760",
+      "name": "ETC計程年度運作狀況表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/103%e5%b9%b4%e5%90%84%e6%9c%88%e4%bb%bdETC%e9%81%8b%e4%bd%9c%e7%8b%80%e6%b3%81%e7%b8%bd%e8%a1%a8_1090219.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/104%e5%b9%b4%e5%90%84%e6%9c%88%e4%bb%bdETC%e9%81%8b%e4%bd%9c%e7%8b%80%e6%b3%81%e7%b8%bd%e8%a1%a8_1090219.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/105%e5%b9%b4%e5%90%84%e6%9c%88%e4%bb%bdETC%e9%81%8b%e4%bd%9c%e7%8b%80%e6%b3%81%e7%b8%bd%e8%a1%a8_1090219.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/106%e5%b9%b4%e5%90%84%e6%9c%88%e4%bb%bdETC%e9%81%8b%e4%bd%9c%e7%8b%80%e6%b3%81%e7%b8%bd%e8%a1%a8_1090219.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/107%e5%b9%b4%e5%90%84%e6%9c%88%e4%bb%bdETC%e9%81%8b%e4%bd%9c%e7%8b%80%e6%b3%81%e7%b8%bd%e8%a1%a8_1090219.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/108%e5%b9%b4%e5%90%84%e6%9c%88%e4%bb%bdETC%e9%81%8b%e4%bd%9c%e7%8b%80%e6%b3%81%e7%b8%bd%e8%a1%a8_1090219.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/109%e5%b9%b4%e5%90%84%e6%9c%88%e4%bb%bdETC%e9%81%8b%e4%bd%9c%e7%8b%80%e6%b3%81%e7%b8%bd%e8%a1%a8.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/110%e5%b9%b4%e5%90%84%e6%9c%88%e4%bb%bdETC%e9%81%8b%e4%bd%9c%e7%8b%80%e6%b3%81%e7%b8%bd%e8%a1%a8.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/111%e5%b9%b4%e5%90%84%e6%9c%88%e4%bb%bdETC%e9%81%8b%e4%bd%9c%e7%8b%80%e6%b3%81%e7%b8%bd%e8%a1%a8.csv",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=556&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=607&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=633&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "46801",
+      "name": "國道服務區停車位設施數量(含座標)統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=150&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "82703",
+      "name": "認識國道標誌",
+      "format": "ods",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E5%9C%8B%E9%81%93%E6%A8%99%E8%AA%8C%E9%A1%9E%E5%9E%8B%E6%B8%85%E5%96%AE_551675.ods"
+      ]
+    },
+    {
+      "id": "93977",
+      "name": "交通部高速公路局處務規程",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1214449890080329728.csv&filedisplay=交通部高速公路局處務規程.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "88631",
+      "name": "國道服務區哺集乳室數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=277&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "88634",
+      "name": "國道服務區無障礙坡道數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=279&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "88636",
+      "name": "國道服務區輪椅專用充電座數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=281&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "88638",
+      "name": "國道服務區櫃位名稱一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=282&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "72417",
+      "name": "臺灣地區主要公路路網圖",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E8%87%BA%E7%81%A3%E5%9C%B0%E5%8D%80%E4%B8%BB%E8%A6%81%E5%85%AC%E8%B7%AF%E8%B7%AF%E7%B6%B2%E5%9C%96_133140_351549.csv"
+      ]
+    },
+    {
+      "id": "47269",
+      "name": "金門大橋橋梁工程監測計畫之長期材料腐蝕成果報告",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/金門大橋橋梁工程監測計畫之長期材料腐蝕成果報告_261367.csv"
+      ]
+    },
+    {
+      "id": "47222",
+      "name": "國道交通資訊顯示板設置里程表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%93%e4%ba%a4%e9%80%9a%e8%b3%87%e8%a8%8a%e9%a1%af%e7%a4%ba%e6%9d%bf%e8%a8%ad%e7%bd%ae%e9%87%8c%e7%a8%8b%e8%a1%a8%e6%b8%85%e5%96%ae_382518.csv"
+      ]
+    },
+    {
+      "id": "57470",
+      "name": "紫斑蝶飛越國道3號數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/102%e5%b9%b4%e7%b4%ab%e8%9d%b6%e9%a3%9b%e8%b6%8a%e5%9c%8b%e9%81%933%e8%99%9f%e6%95%b8%e9%87%8f%e7%b5%b1%e8%a8%88%e8%a1%a8_595945.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/103%e5%b9%b4%e7%b4%ab%e8%9d%b6%e9%a3%9b%e8%b6%8a%e5%9c%8b%e9%81%933%e8%99%9f%e6%95%b8%e9%87%8f%e7%b5%b1%e8%a8%88%e8%a1%a8.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/104%e5%b9%b4%e7%b4%ab%e8%9d%b6%e9%a3%9b%e8%b6%8a%e5%9c%8b%e9%81%933%e8%99%9f%e6%95%b8%e9%87%8f%e7%b5%b1%e8%a8%88%e8%a1%a8.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/105%e5%b9%b4%e7%b4%ab%e8%9d%b6%e9%a3%9b%e8%b6%8a%e5%9c%8b%e9%81%933%e8%99%9f%e6%95%b8%e9%87%8f%e7%b5%b1%e8%a8%88%e8%a1%a8.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/106%e5%b9%b4%e7%b4%ab%e8%9d%b6%e9%a3%9b%e8%b6%8a%e5%9c%8b%e9%81%933%e8%99%9f%e6%95%b8%e9%87%8f%e7%b5%b1%e8%a8%88%e8%a1%a8.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/107%e5%b9%b4%e7%b4%ab%e6%96%91%e8%9d%b6%e7%b5%b1%e8%a8%88.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/108%e5%b9%b4%e7%b4%ab%e8%9d%b6%e9%a3%9b%e8%b6%8a%e5%9c%8b%e9%81%933%e8%99%9f%e6%af%8f%e6%97%a5%e6%95%b8%e9%87%8f%e7%b5%b1%e8%a8%88%e8%a1%a8_063564.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/109%e5%b9%b4%e7%b4%ab%e8%9d%b6%e9%a3%9b%e8%b6%8a%e5%9c%8b%e9%81%933%e8%99%9f%e6%95%b8%e9%87%8f%e7%b5%b1%e8%a8%88%e8%a1%a8.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/110%e5%b9%b4%e7%b4%ab%e8%9d%b6%e9%a3%9b%e8%b6%8a%e5%9c%8b%e9%81%933%e8%99%9f%e6%95%b8%e9%87%8f%e7%b5%b1%e8%a8%88%e8%a1%a8.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/111%e5%b9%b4%e7%b4%ab%e8%9d%b6%e9%a3%9b%e8%b6%8a%e5%9c%8b%e9%81%933%e8%99%9f%e6%95%b8%e9%87%8f%e7%b5%b1%e8%a8%88%e8%a1%a8.csv",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1229699583496425472.csv&filedisplay=112年紫蝶飛越國道3號數量統計表.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1235762048328011776.csv&filedisplay=(一)113年紫蝶飛越國道3號數量統計表V1.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1367693045968932864.csv&filedisplay=114年紫蝶飛越國道3號數量統計表.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "80081",
+      "name": "國道服務區每日營業額",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=471&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=472&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=473&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=474&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=490&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=508&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=553&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=598&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=635&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "80220",
+      "name": "電子收費營運服務據點一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=264&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "108323",
+      "name": "電子收費通行量統計",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=377&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=378&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=379&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=380&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=381&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=391&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=441&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=442&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=479&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=497&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=555&FileConditionsID=1",
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=601&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "101552",
+      "name": "服務區變革紀事表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=344&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "106439",
+      "name": "認識國道路面反光標記",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E8%AA%8D%E8%AD%98%E5%8F%8D%E5%85%89%E6%A8%99%E8%A8%98_155286.csv"
+      ]
+    },
+    {
+      "id": "106441",
+      "name": "各機關辦理大型活動申請於高速公路出口設置臨時標誌作業規定",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1228668302293733376.csv&filedisplay=各機關辦理大型活動申請於高速公路出口設置臨時標誌作業規定 (2).csv&flag=doc"
+      ]
+    },
+    {
+      "id": "106475",
+      "name": "高速公路新設暨增設交流道命名原則",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E6%96%B0%E8%A8%AD%E6%9A%A8%E5%A2%9E%E8%A8%AD%E4%BA%A4%E6%B5%81%E9%81%93%E5%91%BD%E5%90%8D%E5%8E%9F%E5%89%87%20(3).csv"
+      ]
+    },
+    {
+      "id": "109930",
+      "name": "雪山隧道一氧化碳日平均數值(ppm)",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/northern/Download_File.ashx?id=24003"
+      ]
+    },
+    {
+      "id": "41070",
+      "name": "國道公路建設管理基金分預算",
+      "format": "xml",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E9%A0%90%E7%AE%97/115%E5%B9%B4%E5%BA%A6%E9%A0%90%E7%AE%97%E6%A1%88XML.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E9%A0%90%E7%AE%97/114%E5%B9%B4%E5%BA%A6%E9%A0%90%E7%AE%97%E6%A1%88-XML.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E9%A0%90%E7%AE%97/113%E5%B9%B4%E5%BA%A6%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97XML-1.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E9%A0%90%E7%AE%97/112%E5%B9%B4%E5%BA%A6%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97XML.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E9%A0%90%E7%AE%97/111%E5%B9%B4%E5%BA%A6%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97XML(%E4%BF%AE).zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/%E9%A0%90%E7%AE%97/110%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97XML(%E4%BF%AE).zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/預算/109法定預算.zip",
+        "https://www.freeway.gov.tw/UserFiles/file/Accounting/預算/108年度法定預算.zip",
+        "https://www.freeway.gov.tw/UserFiles/File/Accounting/預算/107年法定預算.zip",
+        "https://www.freeway.gov.tw/UserFiles/File/Accounting/預算/106法定預算(1).zip",
+        "https://www.freeway.gov.tw/UserFiles/File/Accounting/%E9%A0%90%E7%AE%97/105%E5%B9%B4%E5%BA%A6%E9%A0%90%E7%AE%97(2).zip",
+        "https://www.freeway.gov.tw/UserFiles/File/Accounting/%E9%A0%90%E7%AE%97/104%E5%B9%B4%E5%BA%A6%E9%A0%90%E7%AE%97(3).zip"
+      ]
+    },
+    {
+      "id": "89900",
+      "name": "高速公路局廉政專線服務資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=571&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "91516",
+      "name": "高速公路局採購標案",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=295&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "91518",
+      "name": "高速公路局國道視窗清單",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=297&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "92146",
+      "name": "每月國道百萬車公里統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=308&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "92126",
+      "name": "高速公路局行政採購契約",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/4%e9%87%8d%e6%96%b0%e4%b8%8a%e6%9e%b6-%e9%ab%98%e5%85%ac%e5%b1%80%e8%a1%8c%e6%94%bf%e6%8e%a1%e8%b3%bc%e5%a5%91%e7%b4%84-107(utf-8).csv"
+      ]
+    },
+    {
+      "id": "95069",
+      "name": "國道隧道里程",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%93%e9%9a%a7%e9%81%93%e4%b8%80%e8%a6%bd%e8%a1%a8112.csv"
+      ]
+    },
+    {
+      "id": "95016",
+      "name": "國道百公尺里程樁",
+      "format": "kmz",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/file/國道百公尺里程樁KML/整樁及百公尺里程樁KML(schema加入).zip",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b4%e8%b1%90%e6%bd%ad%e5%bb%b6%e4%bc%b8%e6%ae%b5_%e9%87%8c%e7%a8%8b%e6%a8%81_584722.csv",
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e4%ba%8c%e7%94%b2_145622.csv"
+      ]
+    },
+    {
+      "id": "117899",
+      "name": "開放550c.c.以上大型重型機車行駛國道高速公路評估報告",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1364774814295789568.csv&filedisplay=1140424更新-開放550c.c.以上大型重型機車行駛國道高速公路評估報告.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "129936",
+      "name": "「國3新台五及南港交流道改善工程」環境監測報告",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/國3新台五路及南港交流道工程(第B14標)彙總報告109Y08M.csv"
+      ]
+    },
+    {
+      "id": "129941",
+      "name": "國道2號拓寬工程委託環境監測報告",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/國道2號拓寬工程委託環境監測報告109Y08M.csv"
+      ]
+    },
+    {
+      "id": "130293",
+      "name": "交通部高速公路局南區養護工程分局簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/UserFiles/file/南區養護工程分局/高速公路局南區養護工程分局簡介.csv"
+      ]
+    },
+    {
+      "id": "116168",
+      "name": "國道危險物載運管理",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Upload/DownloadFiles/%e5%9c%8b%e9%81%93%e5%8d%b1%e9%9a%aa%e7%89%a9%e8%bc%89%e9%81%8b%e7%ae%a1%e7%90%86_582315.csv"
+      ]
+    },
+    {
+      "id": "118759",
+      "name": "收費站成立時間表",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=398&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "133035",
+      "name": "國道公路建設管理基金公益支出、委託調查、會費捐助、睦鄰支出執行情形",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=439&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "139244",
+      "name": "國道拖救車輛服務",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1326116652646928384.csv&filedisplay=114拖救區段、範圍、廠商、費率-政府公開網站.csv&flag=doc",
+        "https://www.freeway.gov.tw/UserFiles/file/%E6%8B%96%E6%95%91%E6%9C%8D%E5%8B%99/%E5%9C%8B%E9%81%93%E5%B0%8F%E5%9E%8B%E8%BB%8A%E8%BC%9B%E6%8B%96%E6%95%91%E8%B2%BB%E7%8E%87.csv",
+        "https://www.freeway.gov.tw/UserFiles/file/%E6%8B%96%E6%95%91%E6%9C%8D%E5%8B%99/%E5%9C%8B%E9%81%93%E5%A4%A7%E5%9E%8B%E8%BB%8A%E8%BC%9B%E6%8B%96%E6%95%91%E8%B2%BB%E7%8E%87.csv"
+      ]
+    },
+    {
+      "id": "166264",
+      "name": "路段線型圖資資訊(v2.0)",
+      "format": "xml",
+      "urls": [
+        "https://tisvcloud.freeway.gov.tw/history/motc20/SectionShape.xml"
+      ]
+    },
+    {
+      "id": "174457",
+      "name": "南投、清水、西湖服務區招商委託專業服務案",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1404348239116767232.pdf&filedisplay=南投服務區招商案可行性評估及先期計畫報告書(定稿版).pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1404348242820337664.pdf&filedisplay=清水服務區招商案可行性評估及先期計畫報告書(定稿版).pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1404348241075507200.pdf&filedisplay=西湖服務區招商案可行性評估及先期計畫報告書(定稿版).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174659",
+      "name": "高速公路局纜線防竊獎勵檢舉要點",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1409795686580359168.pdf&filedisplay=高速公路局纜線防竊獎勵檢舉要點.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174911",
+      "name": "流動的風景 一趟充滿時代記憶的公路之旅",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1415602532419375104.pdf&filedisplay=流動的風景－一趟充滿時代記憶的公路之旅.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174912",
+      "name": "工程人員防貪指引手冊",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1415606201483268096.pdf&filedisplay=工程人員防貪指引手冊.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174914",
+      "name": "高速公路橋梁維修補強工法案例集",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1415607513692246016.pdf&filedisplay=高速公路橋梁維修補強工法案例集.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "175214",
+      "name": "交通部高速公路局暨所屬機關業務相關必須完成課程資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.freeway.gov.tw/Download_File_Direct.ashx?id=625&FileConditionsID=1"
+      ]
+    },
+    {
+      "id": "175223",
+      "name": "織錦築跡-交通部高速公路局簡介",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1430796701966274560.pdf&filedisplay=高速公路局業務簡介.pdf&flag=doc"
+      ]
+    }
+  ]
+}

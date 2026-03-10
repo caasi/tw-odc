@@ -1,0 +1,209 @@
+{
+  "provider": "國立臺灣藝術教育館",
+  "slug": "arte_gov_tw",
+  "datasets": [
+    {
+      "id": "6680",
+      "name": "國立臺灣藝術教育館展覽活動",
+      "format": "xml",
+      "urls": [
+        "https://www.arte.gov.tw/xml_exh.asp"
+      ]
+    },
+    {
+      "id": "9171",
+      "name": "國立臺灣藝術教育館臺灣藝術教育網徵選公告",
+      "format": "xml",
+      "urls": [
+        "https://ed.arte.gov.tw/ch/Index/xml_ind.aspx?id=2"
+      ]
+    },
+    {
+      "id": "43536",
+      "name": "全國學生圖畫書創作獎歷年各項獎項統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.arte.gov.tw/Web_admin/Opendata/全國學生圖畫書創作獎歷年各項獎項統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/2017-2018全國學生圖畫書創作獎歷年各項獎項統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/2019-2020年度全國學生圖畫書創作獎歷年各項獎項統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/2021-2022年度全國學生圖畫書創作獎歷年各項獎項統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/2023年度全國學生圖畫書創作獎各項獎項統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/2024年度全國學生圖畫書創作獎各項獎項統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/2025年度全國學生圖畫書創作獎各項獎項統計表.csv"
+      ]
+    },
+    {
+      "id": "42802",
+      "name": "音樂比賽歷年決賽隊數統計表團體組",
+      "format": "csv",
+      "urls": [
+        "https://www.arte.gov.tw/Web_admin/Opendata/音樂比賽歷年決賽隊數統計表團體組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/105-106音樂比賽歷年決賽隊數統計表團體組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/107-108音樂比賽歷年決賽隊數統計表團體組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/109學年度音樂比賽歷年決賽隊數統計表團體組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/110學年度音樂比賽歷年決賽隊數統計表團體組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/111學年度音樂比賽決賽隊數統計表團體組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/112學年度音樂比賽決賽隊數統計表團體組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/113學年度音樂比賽決賽隊數統計表團體組.csv"
+      ]
+    },
+    {
+      "id": "170999",
+      "name": "國立臺灣藝術教育館對民間團體補(捐)助經費彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.arte.gov.tw/Web_admin/Opendata/113年度截至第1季止對民間團體補(捐)助經費彙總表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/113年度截至第2季止對民間團體補(捐)助經費彙總表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/113年度截至第3季止對民間團體補(捐)助經費彙總表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/113年度截至第4季止對民間團體補(捐)助經費彙總表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/114年度截至第1季止對民間團體補(捐)助經費彙總表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/114年度截至第2季止對民間團體補(捐)助經費彙總表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/114年度截至第3季止對民間團體補(捐)助經費彙總表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/114年度截至第4季止對民間團體補(捐)助經費彙總表.csv"
+      ]
+    },
+    {
+      "id": "6678",
+      "name": "國立臺灣藝術教育館最新消息",
+      "format": "xml",
+      "urls": [
+        "https://www.arte.gov.tw/xml_news.asp"
+      ]
+    },
+    {
+      "id": "6729",
+      "name": "國立臺灣藝術教育館研習活動",
+      "format": "xml",
+      "urls": [
+        "https://www.arte.gov.tw/xml_course.asp"
+      ]
+    },
+    {
+      "id": "23985",
+      "name": "國立臺灣藝術教育館藝拍即合最新消息",
+      "format": "rss",
+      "urls": [
+        "https://1872.arte.gov.tw/rss.aspx?kindset_id=79750a99-4505-48b0-9ec2-c03e6627bbc6"
+      ]
+    },
+    {
+      "id": "42801",
+      "name": "音樂比賽歷年決賽隊數統計表個人組",
+      "format": "csv",
+      "urls": [
+        "https://www.arte.gov.tw/Web_admin/Opendata/音樂比賽歷年決賽隊數統計表個人組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/105-106音樂比賽歷年決賽隊數統計表個人組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/107-108音樂比賽歷年決賽隊數統計表個人組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/109學年度音樂比賽歷年決賽隊數統計表個人組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/110學年度音樂比賽歷年決賽隊數統計表個人組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/111學年度音樂比賽決賽隊數統計表個人組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/112學年度音樂比賽決賽隊數統計表個人組.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/113學年度音樂比賽決賽隊數統計表個人組.csv"
+      ]
+    },
+    {
+      "id": "42806",
+      "name": "全國學生創意戲劇比賽歷年決賽隊數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.arte.gov.tw/Web_admin/Opendata/全國學生創意戲劇歷年決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/105-106全國學生創意戲劇歷年決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/107-108全國學生創意戲劇歷年決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/109學年度全國學生創意戲劇歷年決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/110學年度全國學生創意戲劇歷年決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/111學年度全國學生創意戲劇決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/112學年度全國學生創意戲劇決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/113學年度全國學生創意戲劇決賽隊數統計表.csv"
+      ]
+    },
+    {
+      "id": "42807",
+      "name": "全國師生鄉土歌謠比賽歷年決賽隊數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.arte.gov.tw/Web_admin/Opendata/全國師生鄉土歌謠歷年決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/105-106全國師生鄉土歌謠歷年決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/107-108全國師生鄉土歌謠歷年決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/109學年度全國師生鄉土歌謠歷年決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/110學年度全國師生鄉土歌謠歷年決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/111學年度全國師生鄉土歌謠決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/112學年度全國師生鄉土歌謠決賽隊數統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/113學年度全國師生鄉土歌謠決賽隊數統計表.csv"
+      ]
+    },
+    {
+      "id": "42810",
+      "name": "全國學生美術比賽歷年各類組收件暨錄取統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.arte.gov.tw/Web_admin/Opendata/104學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/103學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/105學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/106學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/107學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/108學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/109學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/110學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/111學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/112學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/113學年度全國學生美術比賽各類組收件暨錄取統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/114學年度全國學生美術比賽各類組收件暨錄取統計表.csv"
+      ]
+    },
+    {
+      "id": "6679",
+      "name": "國立臺灣藝術教育館表演活動",
+      "format": "xml",
+      "urls": [
+        "https://www.arte.gov.tw/xml_perf.asp"
+      ]
+    },
+    {
+      "id": "6681",
+      "name": "國立臺灣藝術教育館競賽活動",
+      "format": "xml",
+      "urls": [
+        "https://www.arte.gov.tw/xml_comp.asp"
+      ]
+    },
+    {
+      "id": "9175",
+      "name": "國立臺灣藝術教育館臺灣藝術教育網招生訊息",
+      "format": "xml",
+      "urls": [
+        "https://ed.arte.gov.tw/ch/Index/xml_ind.aspx?id=3"
+      ]
+    },
+    {
+      "id": "9162",
+      "name": "國立臺灣藝術教育館臺灣藝術教育網藝教消息活動",
+      "format": "xml",
+      "urls": [
+        "https://ed.arte.gov.tw/ch/News/xml_News.aspx?id=5"
+      ]
+    },
+    {
+      "id": "9314",
+      "name": "國立臺灣藝術教育館臺灣藝術教育網老師進修",
+      "format": "xml",
+      "urls": [
+        "https://ed.arte.gov.tw/ch/Index/xml_ind.aspx?id=4"
+      ]
+    },
+    {
+      "id": "42775",
+      "name": "教育部文藝創作獎各組各項收件統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.arte.gov.tw/Web_admin/Opendata/文藝創作獎各年度各組各項收件統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/106-107文藝創作獎各年度各組各項收件統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/108-109文藝創作獎各年度各組各項收件統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/110年度文藝創作獎各組各項收件統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/111年度文藝創作獎各組各項收件統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/112年度文藝創作獎各組各項收件統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/113年度文藝創作獎各組各項收件統計表.csv",
+        "https://www.arte.gov.tw/Web_admin/Opendata/114年度文藝創作獎各組各項收件統計表.csv"
+      ]
+    }
+  ]
+}

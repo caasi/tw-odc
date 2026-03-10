@@ -1,0 +1,33 @@
+{
+  "provider": "高雄市三民區公所",
+  "slug": "openapi_kcg_gov_tw",
+  "datasets": [
+    {
+      "id": "166450",
+      "name": "教會名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/776b340f-86b5-4696-85e8-41b2b0143792",
+        "https://data.kcg.gov.tw/File/DirectDownload/776b340f-86b5-4696-85e8-41b2b0143792"
+      ]
+    },
+    {
+      "id": "166357",
+      "name": "寺廟名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5a922ab-f0c2-4767-a882-be74771adfb0",
+        "https://data.kcg.gov.tw/File/DirectDownload/e5a922ab-f0c2-4767-a882-be74771adfb0"
+      ]
+    },
+    {
+      "id": "166451",
+      "name": "三民區轄內或鄰近避難收容所一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7916ee45-a4d4-41f9-8c36-1e23db90eae7",
+        "https://data.kcg.gov.tw/File/DirectDownload/7916ee45-a4d4-41f9-8c36-1e23db90eae7"
+      ]
+    }
+  ]
+}

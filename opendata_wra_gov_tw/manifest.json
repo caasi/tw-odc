@@ -1,0 +1,2306 @@
+{
+  "provider": "經濟部水利署",
+  "slug": "opendata_wra_gov_tw",
+  "datasets": [
+    {
+      "id": "9017",
+      "name": "水源保育與回饋費徵收與執行成果",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3eafcb6e-962d-4782-83cb-d4eaa879c5af?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3eafcb6e-962d-4782-83cb-d4eaa879c5af?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3eafcb6e-962d-4782-83cb-d4eaa879c5af?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "9823",
+      "name": "河川流域範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/1d4d24f4-4745-40e3-b51c-8c422aae4fd7?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/1d4d24f4-4745-40e3-b51c-8c422aae4fd7?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/1d4d24f4-4745-40e3-b51c-8c422aae4fd7?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "9786",
+      "name": "水利事業歷史用地取得作業執行情形",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/f5985149-e76b-4788-b48d-425e748e7be9?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/f5985149-e76b-4788-b48d-425e748e7be9?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/f5985149-e76b-4788-b48d-425e748e7be9?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16927",
+      "name": "水利署政府出版品書目",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/0c5eb1e0-361a-45b7-9ba0-bc865b5ff714?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/0c5eb1e0-361a-45b7-9ba0-bc865b5ff714?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/0c5eb1e0-361a-45b7-9ba0-bc865b5ff714?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16933",
+      "name": "水利署組織職掌及聯絡方式",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/82b492e4-233b-49cb-ad34-ebb691dd5016?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/82b492e4-233b-49cb-ad34-ebb691dd5016?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/82b492e4-233b-49cb-ad34-ebb691dd5016?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16940",
+      "name": "水利署統計分析",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/9877e57d-0b9c-40c6-b3b4-8c6aad52795b?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/9877e57d-0b9c-40c6-b3b4-8c6aad52795b?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/9877e57d-0b9c-40c6-b3b4-8c6aad52795b?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "17436",
+      "name": "水利署統計書刊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/1c12a8a2-f816-45ad-98ac-b63fdd8c477e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/1c12a8a2-f816-45ad-98ac-b63fdd8c477e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/1c12a8a2-f816-45ad-98ac-b63fdd8c477e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25766",
+      "name": "淹水潛勢圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/de9578fe-b014-4f00-b8ca-e6280324f08d?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/de9578fe-b014-4f00-b8ca-e6280324f08d?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/de9578fe-b014-4f00-b8ca-e6280324f08d?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25767",
+      "name": "海氣象資料浮標站位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/fa2eedc3-efc8-4727-ac79-3ea7b2ab9255?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/fa2eedc3-efc8-4727-ac79-3ea7b2ab9255?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/fa2eedc3-efc8-4727-ac79-3ea7b2ab9255?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25768",
+      "name": "即時水位資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/73c4c3de-4045-4765-abeb-89f9f9cd5ff0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/73c4c3de-4045-4765-abeb-89f9f9cd5ff0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/73c4c3de-4045-4765-abeb-89f9f9cd5ff0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25769",
+      "name": "抽水站位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/4c0f5542-c5d8-49d0-aa47-311cbf9f6c00?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/4c0f5542-c5d8-49d0-aa47-311cbf9f6c00?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/4c0f5542-c5d8-49d0-aa47-311cbf9f6c00?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25772",
+      "name": "水利署及所屬單位位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/032dde47-1b2c-4d31-b526-16543e52560a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/032dde47-1b2c-4d31-b526-16543e52560a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/032dde47-1b2c-4d31-b526-16543e52560a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25773",
+      "name": "水利署雨量站位置圖已廢站",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/8cc3eaf9-5f36-4211-ba6e-6aa4a5b9254f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/8cc3eaf9-5f36-4211-ba6e-6aa4a5b9254f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/8cc3eaf9-5f36-4211-ba6e-6aa4a5b9254f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25798",
+      "name": "水利署陸上昆蟲類調查資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3086d28a-ecee-4a07-94fa-c0930c42b11e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3086d28a-ecee-4a07-94fa-c0930c42b11e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3086d28a-ecee-4a07-94fa-c0930c42b11e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25786",
+      "name": "河川流量測站位置圖現存站",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/1b7e4188-f75e-4a8d-a31c-858b504c5071?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/1b7e4188-f75e-4a8d-a31c-858b504c5071?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/1b7e4188-f75e-4a8d-a31c-858b504c5071?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25789",
+      "name": "近海水文潮位站位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ce4a7894-9646-4659-9bdd-efea1acb471f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ce4a7894-9646-4659-9bdd-efea1acb471f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ce4a7894-9646-4659-9bdd-efea1acb471f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25795",
+      "name": "水利署爬蟲類調查資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d36f1d5d-aa84-4e94-95a4-c8e907e8d5e4?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d36f1d5d-aa84-4e94-95a4-c8e907e8d5e4?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d36f1d5d-aa84-4e94-95a4-c8e907e8d5e4?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25796",
+      "name": "水利署藻類調查資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c37d0dc9-2f7e-4505-b246-b5b78dc7eba7?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c37d0dc9-2f7e-4505-b246-b5b78dc7eba7?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c37d0dc9-2f7e-4505-b246-b5b78dc7eba7?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25774",
+      "name": "水利署雨量站位置圖現存站",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/9636249d-92bd-481c-8935-6654af49d98a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/9636249d-92bd-481c-8935-6654af49d98a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/9636249d-92bd-481c-8935-6654af49d98a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25785",
+      "name": "河川流量測站位置圖已廢站",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/1b8db52f-f36c-4c75-b2f5-31360bc6c828?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/1b8db52f-f36c-4c75-b2f5-31360bc6c828?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/1b8db52f-f36c-4c75-b2f5-31360bc6c828?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "8316",
+      "name": "自來水生活用水量統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/76249361-736b-449d-9d96-2c74b5013b93?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/76249361-736b-449d-9d96-2c74b5013b93?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/76249361-736b-449d-9d96-2c74b5013b93?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "18442",
+      "name": "水資源作業基金法定預算",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/25b72796-00ad-45fa-aa4d-2cad8b87d96c?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/25b72796-00ad-45fa-aa4d-2cad8b87d96c?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/25b72796-00ad-45fa-aa4d-2cad8b87d96c?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58683",
+      "name": "水利署臺北水源特定區管理分署所發建築執照執照發照歷年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ae5bd309-6755-430a-a2c8-4c5efb2d3ecc?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ae5bd309-6755-430a-a2c8-4c5efb2d3ecc?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ae5bd309-6755-430a-a2c8-4c5efb2d3ecc?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58690",
+      "name": "寶山第二水庫濁度資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/aa1e8506-5280-42e5-9895-8b4e26deb9f1?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/aa1e8506-5280-42e5-9895-8b4e26deb9f1?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/aa1e8506-5280-42e5-9895-8b4e26deb9f1?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58692",
+      "name": "水利署工業用水量與工業面積",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ed8336fc-240e-4616-b668-d283d9cab9eb?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ed8336fc-240e-4616-b668-d283d9cab9eb?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ed8336fc-240e-4616-b668-d283d9cab9eb?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58339",
+      "name": "水利署地層下陷深層水準樁監測資訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/34551a0e-170d-4514-9385-e4080b616eca?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/34551a0e-170d-4514-9385-e4080b616eca?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/34551a0e-170d-4514-9385-e4080b616eca?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58342",
+      "name": "卑南溪種植區域等級劃分",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/f6b83f30-8a7d-4cf2-a13c-d6289d198941?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/f6b83f30-8a7d-4cf2-a13c-d6289d198941?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/f6b83f30-8a7d-4cf2-a13c-d6289d198941?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58344",
+      "name": "寶山第二水庫集水區範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/bcf7b60e-f974-4616-90a3-c00cfeec8ec7?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/bcf7b60e-f974-4616-90a3-c00cfeec8ec7?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/bcf7b60e-f974-4616-90a3-c00cfeec8ec7?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58345",
+      "name": "鯉魚潭水庫集水區範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/aa48e992-9b45-43d3-80e3-be598207fe53?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/aa48e992-9b45-43d3-80e3-be598207fe53?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/aa48e992-9b45-43d3-80e3-be598207fe53?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41565",
+      "name": "水利工程契約範本",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/17b5713b-b99b-4c09-91cc-2ac7d29ec4d4?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/17b5713b-b99b-4c09-91cc-2ac7d29ec4d4?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/17b5713b-b99b-4c09-91cc-2ac7d29ec4d4?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41567",
+      "name": "河川分署遠端監控影像",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/2ac63ec4-1d43-4c8c-80b9-fedd33357444?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/2ac63ec4-1d43-4c8c-80b9-fedd33357444?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/2ac63ec4-1d43-4c8c-80b9-fedd33357444?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41568",
+      "name": "水庫每日營運狀況",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/51023e88-4c76-4dbc-bbb9-470da690d539?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/51023e88-4c76-4dbc-bbb9-470da690d539?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/51023e88-4c76-4dbc-bbb9-470da690d539?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41572",
+      "name": "水利署地層下陷磁環分層監測井監測資訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d8605d4d-5c63-4839-b595-553f3a36981d?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d8605d4d-5c63-4839-b595-553f3a36981d?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d8605d4d-5c63-4839-b595-553f3a36981d?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "45495",
+      "name": "水利署水庫警告設施設置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/6c82a943-5ef9-4c31-9854-fb08c376bb3f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/6c82a943-5ef9-4c31-9854-fb08c376bb3f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/6c82a943-5ef9-4c31-9854-fb08c376bb3f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "45501",
+      "name": "水庫水情資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/2be9044c-6e44-4856-aad5-dd108c2e6679?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/2be9044c-6e44-4856-aad5-dd108c2e6679?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/2be9044c-6e44-4856-aad5-dd108c2e6679?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "45504",
+      "name": "節水快報",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ca7b0547-47f8-4559-9466-158809b16ade?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ca7b0547-47f8-4559-9466-158809b16ade?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ca7b0547-47f8-4559-9466-158809b16ade?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32717",
+      "name": "地下水水位歷年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d481a040-9603-4450-934e-93c658eaf587?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d481a040-9603-4450-934e-93c658eaf587?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d481a040-9603-4450-934e-93c658eaf587?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32720",
+      "name": "水利署鳥類調查資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/9d88fe98-92e0-41dd-8a5e-83f6d3f57f35?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/9d88fe98-92e0-41dd-8a5e-83f6d3f57f35?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/9d88fe98-92e0-41dd-8a5e-83f6d3f57f35?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32725",
+      "name": "地下水觀測井位置圖現存站",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/07cd4f77-05c0-45f6-9717-274789e926d6?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/07cd4f77-05c0-45f6-9717-274789e926d6?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/07cd4f77-05c0-45f6-9717-274789e926d6?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32729",
+      "name": "水利署所屬雨量站基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/15c166e9-800f-4a81-ba60-0ba61b6c9975?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/15c166e9-800f-4a81-ba60-0ba61b6c9975?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/15c166e9-800f-4a81-ba60-0ba61b6c9975?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36688",
+      "name": "河川復育英文版案例報導",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/8e9bae12-786d-4444-891b-7312484e9a9c?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/8e9bae12-786d-4444-891b-7312484e9a9c?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/8e9bae12-786d-4444-891b-7312484e9a9c?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36689",
+      "name": "河川復育英文版新聞",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c81bc613-9c00-471c-b49c-c56584e9a594?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c81bc613-9c00-471c-b49c-c56584e9a594?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c81bc613-9c00-471c-b49c-c56584e9a594?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36693",
+      "name": "水利署地層下陷GNSS測站基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ad87c3f0-4594-4b5b-859a-beaa6016464c?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ad87c3f0-4594-4b5b-859a-beaa6016464c?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ad87c3f0-4594-4b5b-859a-beaa6016464c?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36695",
+      "name": "枯旱預警",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/51ea7202-18fd-46e3-adae-4d05bc827a28?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/51ea7202-18fd-46e3-adae-4d05bc827a28?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/51ea7202-18fd-46e3-adae-4d05bc827a28?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36698",
+      "name": "自來水管承裝商聘僱中人員統計資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d32716cd-dbe6-49f5-9e8b-143a70e3ea9a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d32716cd-dbe6-49f5-9e8b-143a70e3ea9a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d32716cd-dbe6-49f5-9e8b-143a70e3ea9a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "95806",
+      "name": "鯉魚潭水庫每日水情資訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/0d8814f4-a2fa-414e-bb4b-d4d3d2eb3a0b?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/0d8814f4-a2fa-414e-bb4b-d4d3d2eb3a0b?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/0d8814f4-a2fa-414e-bb4b-d4d3d2eb3a0b?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "86030",
+      "name": "設施水利災情",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/8437526a-64a5-4078-88d3-a3f5f2609852?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/8437526a-64a5-4078-88d3-a3f5f2609852?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/8437526a-64a5-4078-88d3-a3f5f2609852?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "156060",
+      "name": "水利署及所屬單位決算",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ce01b0f4-dfcd-46c9-99c7-30eb735318fb?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ce01b0f4-dfcd-46c9-99c7-30eb735318fb?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ce01b0f4-dfcd-46c9-99c7-30eb735318fb?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "133505",
+      "name": "成大永續環境實驗所公開水質資料庫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/5467344e-a6a3-44e3-b442-8d9249ce3629?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/5467344e-a6a3-44e3-b442-8d9249ce3629?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/5467344e-a6a3-44e3-b442-8d9249ce3629?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "133508",
+      "name": "109年修訂中央管及跨省市河川之河川界點一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/5aa103bf-74dd-434f-9d11-0dd2f973ba97?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/5aa103bf-74dd-434f-9d11-0dd2f973ba97?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/5aa103bf-74dd-434f-9d11-0dd2f973ba97?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131901",
+      "name": "水利署補助款水資源作業基金公益支出",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/5076fbbd-defe-4fff-b8cc-62ce8336ddac?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/5076fbbd-defe-4fff-b8cc-62ce8336ddac?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/5076fbbd-defe-4fff-b8cc-62ce8336ddac?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131907",
+      "name": "水利署補助款重要河川區排計畫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/2bef78a9-4a8c-479c-9105-98dd998ff350?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/2bef78a9-4a8c-479c-9105-98dd998ff350?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/2bef78a9-4a8c-479c-9105-98dd998ff350?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131909",
+      "name": "水利署補助款農田水利事業管理計畫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/688903c7-5ff9-4dfe-be6d-318079309589?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/688903c7-5ff9-4dfe-be6d-318079309589?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/688903c7-5ff9-4dfe-be6d-318079309589?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "132084",
+      "name": "水利署補助款無自來水地區供水改善計畫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d8e88839-41e1-4b98-ac16-c36224fb804e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d8e88839-41e1-4b98-ac16-c36224fb804e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d8e88839-41e1-4b98-ac16-c36224fb804e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129232",
+      "name": "中央管河川區域",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d2c3b3f4-eb69-4d33-9878-e1266bcb7470?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d2c3b3f4-eb69-4d33-9878-e1266bcb7470?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d2c3b3f4-eb69-4d33-9878-e1266bcb7470?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129277",
+      "name": "一般性海堤區域",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/fec7619f-b351-4a72-a6e0-24d9a240b177?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/fec7619f-b351-4a72-a6e0-24d9a240b177?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/fec7619f-b351-4a72-a6e0-24d9a240b177?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129312",
+      "name": "地層下陷水準高程檢測點",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/b08a6ecd-7e57-4d04-94a4-524d7a0e34f3?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/b08a6ecd-7e57-4d04-94a4-524d7a0e34f3?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/b08a6ecd-7e57-4d04-94a4-524d7a0e34f3?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129313",
+      "name": "水利署地層下陷GNSS監測站",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c894c9c0-512e-4238-9907-0eb883ab40ca?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c894c9c0-512e-4238-9907-0eb883ab40ca?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c894c9c0-512e-4238-9907-0eb883ab40ca?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129315",
+      "name": "地下水水質監測站位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/e840f0f9-0ea2-4ee0-b93d-f7b0e71e242c?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/e840f0f9-0ea2-4ee0-b93d-f7b0e71e242c?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/e840f0f9-0ea2-4ee0-b93d-f7b0e71e242c?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129316",
+      "name": "地下水觀測井位置圖已廢站",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/30515192-2449-4770-abf6-9cfcdd263b77?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/30515192-2449-4770-abf6-9cfcdd263b77?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/30515192-2449-4770-abf6-9cfcdd263b77?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129462",
+      "name": "堤防或護岸位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/e3901695-299e-4a8b-ae2c-8de241eb6a6d?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/e3901695-299e-4a8b-ae2c-8de241eb6a6d?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/e3901695-299e-4a8b-ae2c-8de241eb6a6d?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129475",
+      "name": "水庫集水區敏感區範圍：邊界向內鄰近0.5公里範圍",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c096b99a-bd85-4640-9704-abbff8ff3c09?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c096b99a-bd85-4640-9704-abbff8ff3c09?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c096b99a-bd85-4640-9704-abbff8ff3c09?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129449",
+      "name": "公有單位抗旱井",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c1269be2-8434-4eb2-85c2-195db86b54ea?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c1269be2-8434-4eb2-85c2-195db86b54ea?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c1269be2-8434-4eb2-85c2-195db86b54ea?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "139023",
+      "name": "現有海水淡化廠概況",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/b3c70ebc-53b6-495e-8df2-540316cb3bac?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/b3c70ebc-53b6-495e-8df2-540316cb3bac?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/b3c70ebc-53b6-495e-8df2-540316cb3bac?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "142982",
+      "name": "IoW堤防結構安全最新資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ca07732f-fe0a-44da-8fc5-dbabdc6fbbe0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ca07732f-fe0a-44da-8fc5-dbabdc6fbbe0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ca07732f-fe0a-44da-8fc5-dbabdc6fbbe0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "143022",
+      "name": "甲仙攔河堰即時水情資訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/637037ae-d125-4b21-805d-f0d1edb0b553?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/637037ae-d125-4b21-805d-f0d1edb0b553?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/637037ae-d125-4b21-805d-f0d1edb0b553?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "143273",
+      "name": "IoW揚塵最新資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ae7bd821-a879-4b65-ad34-b3dac36874e0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ae7bd821-a879-4b65-ad34-b3dac36874e0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ae7bd821-a879-4b65-ad34-b3dac36874e0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "143274",
+      "name": "IoW累計流量(雨水貯留)基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ad756630-2246-4569-8910-a865cdfa7984?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ad756630-2246-4569-8910-a865cdfa7984?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ad756630-2246-4569-8910-a865cdfa7984?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "161082",
+      "name": "即時地下水水位資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/58a7aa39-287a-4b96-985d-47ffbc7abbd4?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/58a7aa39-287a-4b96-985d-47ffbc7abbd4?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/58a7aa39-287a-4b96-985d-47ffbc7abbd4?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "167897",
+      "name": "流域基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/25d934ae-ecc4-4952-a05b-7ecc208bfd3a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/25d934ae-ecc4-4952-a05b-7ecc208bfd3a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/25d934ae-ecc4-4952-a05b-7ecc208bfd3a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "168793",
+      "name": "水利署行政指導文書",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/62d702e8-31d2-401f-ab8b-3a1288e3a095?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/62d702e8-31d2-401f-ab8b-3a1288e3a095?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/62d702e8-31d2-401f-ab8b-3a1288e3a095?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "168797",
+      "name": "水利署決算書",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3352003f-be17-4342-9ecb-850c41484d23?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3352003f-be17-4342-9ecb-850c41484d23?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3352003f-be17-4342-9ecb-850c41484d23?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "8989",
+      "name": "自來水供水普及率",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c34cfc50-a765-416b-afec-7dae4659cacc?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c34cfc50-a765-416b-afec-7dae4659cacc?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c34cfc50-a765-416b-afec-7dae4659cacc?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "8319",
+      "name": "水質水量保護區基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/9ae30f5e-d5fe-4146-adf0-75e74bd4f408?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/9ae30f5e-d5fe-4146-adf0-75e74bd4f408?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/9ae30f5e-d5fe-4146-adf0-75e74bd4f408?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "5983",
+      "name": "防災資訊河川警戒",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/64d907be-342b-4e3d-ab7e-89f7aa5d776e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/64d907be-342b-4e3d-ab7e-89f7aa5d776e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/64d907be-342b-4e3d-ab7e-89f7aa5d776e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "13795",
+      "name": "水庫蓄水範圍",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/dab16b75-a504-4dd6-a999-b325104389b4?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/dab16b75-a504-4dd6-a999-b325104389b4?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/dab16b75-a504-4dd6-a999-b325104389b4?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "22227",
+      "name": "河川水位測站站況",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c4acc691-7416-40ca-9464-292c0c00da92?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c4acc691-7416-40ca-9464-292c0c00da92?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c4acc691-7416-40ca-9464-292c0c00da92?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "22223",
+      "name": "河川流量測站站況",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/9332bd66-0213-4380-a5d5-a43e7be49255?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/9332bd66-0213-4380-a5d5-a43e7be49255?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/9332bd66-0213-4380-a5d5-a43e7be49255?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58335",
+      "name": "水利署地層下陷深層水準樁基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/e34558d1-038c-4563-a3ca-ada33ef0ba72?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/e34558d1-038c-4563-a3ca-ada33ef0ba72?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/e34558d1-038c-4563-a3ca-ada33ef0ba72?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58343",
+      "name": "中區水資源分署轄管水庫堰壩洩洪訊息",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/a4d577e6-bc30-4007-bd8f-4756241ff5b9?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/a4d577e6-bc30-4007-bd8f-4756241ff5b9?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/a4d577e6-bc30-4007-bd8f-4756241ff5b9?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58346",
+      "name": "石岡壩集水區範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/5b849586-423e-49d7-93c6-d41c911ae21c?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/5b849586-423e-49d7-93c6-d41c911ae21c?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/5b849586-423e-49d7-93c6-d41c911ae21c?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58347",
+      "name": "阿公店水庫集水區範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/0f6eed1b-0683-48fc-bf8f-36fd64efdb34?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/0f6eed1b-0683-48fc-bf8f-36fd64efdb34?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/0f6eed1b-0683-48fc-bf8f-36fd64efdb34?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58350",
+      "name": "自來水管承裝商有效家數統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/67a2a9be-24d9-4c38-841d-89c73edd9af4?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/67a2a9be-24d9-4c38-841d-89c73edd9af4?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/67a2a9be-24d9-4c38-841d-89c73edd9af4?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58361",
+      "name": "水利署地層下陷累積下陷量等值線",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/7e6172b9-b67d-4c71-b2e1-15f42dbd9b53?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/7e6172b9-b67d-4c71-b2e1-15f42dbd9b53?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/7e6172b9-b67d-4c71-b2e1-15f42dbd9b53?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58694",
+      "name": "水利署生活用水量統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/a6f34dee-05f3-48e9-9fb1-94c688609018?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/a6f34dee-05f3-48e9-9fb1-94c688609018?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/a6f34dee-05f3-48e9-9fb1-94c688609018?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58700",
+      "name": "水利署養殖面積與養殖用水量統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/dfc12113-9e62-4185-a3e6-4a83042d0c71?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/dfc12113-9e62-4185-a3e6-4a83042d0c71?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/dfc12113-9e62-4185-a3e6-4a83042d0c71?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58691",
+      "name": "水利署工業用水量來源統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/e197b9f7-240b-44b6-bcf3-60997f966147?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/e197b9f7-240b-44b6-bcf3-60997f966147?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/e197b9f7-240b-44b6-bcf3-60997f966147?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32718",
+      "name": "地下水水位觀測井井況",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3e86faea-e94a-4a91-a870-852d73e83c3d?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3e86faea-e94a-4a91-a870-852d73e83c3d?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3e86faea-e94a-4a91-a870-852d73e83c3d?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32719",
+      "name": "水利署哺乳類調查資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d6011b71-2ceb-4ca1-ae04-fc28b4c8d116?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d6011b71-2ceb-4ca1-ae04-fc28b4c8d116?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d6011b71-2ceb-4ca1-ae04-fc28b4c8d116?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32722",
+      "name": "中央管水門",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/77ecf33d-48d0-47f7-983c-5a02e1dbbcd2?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/77ecf33d-48d0-47f7-983c-5a02e1dbbcd2?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/77ecf33d-48d0-47f7-983c-5a02e1dbbcd2?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32723",
+      "name": "水源保育與回饋計畫執行成果經費統計(鄉鎮市區公所)",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/95cfa63a-6366-4ff5-a3ed-9fb89b9bf57d?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/95cfa63a-6366-4ff5-a3ed-9fb89b9bf57d?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/95cfa63a-6366-4ff5-a3ed-9fb89b9bf57d?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "62990",
+      "name": "海水淡化廠營運概況",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/0e62d2e9-e2d0-4c7d-a178-2d6a03e4ae1c?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/0e62d2e9-e2d0-4c7d-a178-2d6a03e4ae1c?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/0e62d2e9-e2d0-4c7d-a178-2d6a03e4ae1c?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41570",
+      "name": "水利署轄管河川或排水綠美化場地已認養維護管理案件表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/6e67c45b-610a-4fac-b88b-15fa6535692a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/6e67c45b-610a-4fac-b88b-15fa6535692a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/6e67c45b-610a-4fac-b88b-15fa6535692a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41571",
+      "name": "水利署地層下陷磁環分層監測井基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3240b2d3-16a1-43c0-9e36-7151ead9e10a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3240b2d3-16a1-43c0-9e36-7151ead9e10a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3240b2d3-16a1-43c0-9e36-7151ead9e10a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41561",
+      "name": "河川專題文章",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/04e9be50-ec9f-4f82-bd8c-3b508464a19a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/04e9be50-ec9f-4f82-bd8c-3b508464a19a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/04e9be50-ec9f-4f82-bd8c-3b508464a19a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41563",
+      "name": "河川復育達人專欄",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/1c0e6b23-0f52-4f2a-bb58-9784d8894f2f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/1c0e6b23-0f52-4f2a-bb58-9784d8894f2f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/1c0e6b23-0f52-4f2a-bb58-9784d8894f2f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41564",
+      "name": "水利知識文章",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/810deeac-4094-47e6-bdda-170d64e257b6?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/810deeac-4094-47e6-bdda-170d64e257b6?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/810deeac-4094-47e6-bdda-170d64e257b6?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41566",
+      "name": "臺灣溫泉監測季報",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/dacdcbd3-cfec-445c-9c83-ba0c9937f483?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/dacdcbd3-cfec-445c-9c83-ba0c9937f483?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/dacdcbd3-cfec-445c-9c83-ba0c9937f483?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25780",
+      "name": "河川支流",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/5d28220b-388d-4e99-802c-d800cf664048?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/5d28220b-388d-4e99-802c-d800cf664048?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/5d28220b-388d-4e99-802c-d800cf664048?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25781",
+      "name": "河川河道",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/718138bb-7997-4235-ae94-6eae18756dd7?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/718138bb-7997-4235-ae94-6eae18756dd7?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/718138bb-7997-4235-ae94-6eae18756dd7?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25784",
+      "name": "河川水位測站位置圖現存站",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c7148a41-3702-4e85-a734-c2fe85fbccbc?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c7148a41-3702-4e85-a734-c2fe85fbccbc?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c7148a41-3702-4e85-a734-c2fe85fbccbc?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25787",
+      "name": "自來水水質水量保護區圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/4cdf37f2-8379-471c-8c36-a6edb5e18a33?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/4cdf37f2-8379-471c-8c36-a6edb5e18a33?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/4cdf37f2-8379-471c-8c36-a6edb5e18a33?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25770",
+      "name": "歷史淹水資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/72d7aee9-e29b-49a2-bd0b-54acc8e3b75c?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/72d7aee9-e29b-49a2-bd0b-54acc8e3b75c?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/72d7aee9-e29b-49a2-bd0b-54acc8e3b75c?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16929",
+      "name": "含沙量測站位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/e30a0136-cab0-450d-a955-138e8e652ca0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/e30a0136-cab0-450d-a955-138e8e652ca0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/e30a0136-cab0-450d-a955-138e8e652ca0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16930",
+      "name": "河川斷面樁位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3049610e-b0ee-4f92-992a-de6d023709f0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3049610e-b0ee-4f92-992a-de6d023709f0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3049610e-b0ee-4f92-992a-de6d023709f0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16931",
+      "name": "河川斷面線位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/51fa2c1a-a535-47e8-ad2f-ebfce1a3f28c?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/51fa2c1a-a535-47e8-ad2f-ebfce1a3f28c?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/51fa2c1a-a535-47e8-ad2f-ebfce1a3f28c?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16938",
+      "name": "水利署公務統計方案",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/b1588a2b-a322-4515-ab4f-1c8837cdbab3?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/b1588a2b-a322-4515-ab4f-1c8837cdbab3?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/b1588a2b-a322-4515-ab4f-1c8837cdbab3?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16942",
+      "name": "水利署水利統計簡訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/353b5e3d-7b32-40f7-81ee-1638b274d34f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/353b5e3d-7b32-40f7-81ee-1638b274d34f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/353b5e3d-7b32-40f7-81ee-1638b274d34f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "20083",
+      "name": "水資源作業基金附屬單位會計月報",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/9616ee71-b9eb-425e-ab3e-3c03c3deddc4?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/9616ee71-b9eb-425e-ab3e-3c03c3deddc4?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/9616ee71-b9eb-425e-ab3e-3c03c3deddc4?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32727",
+      "name": "水庫淤積量",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/572bda99-0593-4aee-9409-03c82423f8eb?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/572bda99-0593-4aee-9409-03c82423f8eb?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/572bda99-0593-4aee-9409-03c82423f8eb?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32728",
+      "name": "水庫營運",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/43f3501e-c152-4774-ae8c-e2aa9efc1ad0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/43f3501e-c152-4774-ae8c-e2aa9efc1ad0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/43f3501e-c152-4774-ae8c-e2aa9efc1ad0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32732",
+      "name": "中央管排水",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c364c477-c899-4f6d-8f73-d6b51253637b?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c364c477-c899-4f6d-8f73-d6b51253637b?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c364c477-c899-4f6d-8f73-d6b51253637b?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32733",
+      "name": "曾文水庫即時水情資訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/598befe9-a6fe-4126-a8cc-52ccbbecfc68?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/598befe9-a6fe-4126-a8cc-52ccbbecfc68?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/598befe9-a6fe-4126-a8cc-52ccbbecfc68?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32734",
+      "name": "阿公店水庫即時水情資訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ecc4ce8d-0942-474a-8705-53e9aaa7c4e8?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ecc4ce8d-0942-474a-8705-53e9aaa7c4e8?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ecc4ce8d-0942-474a-8705-53e9aaa7c4e8?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32735",
+      "name": "牡丹水庫即時水情資訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/6d7ba910-b627-4844-882b-df232064db0c?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/6d7ba910-b627-4844-882b-df232064db0c?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/6d7ba910-b627-4844-882b-df232064db0c?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36687",
+      "name": "水利署水利防災用影像",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/f71b74eb-cbe5-42c6-8be5-7500450e7db0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/f71b74eb-cbe5-42c6-8be5-7500450e7db0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/f71b74eb-cbe5-42c6-8be5-7500450e7db0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36690",
+      "name": "水利署河川主題網站",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/e6999d0a-f36a-4c39-9c71-16233e6e7b60?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/e6999d0a-f36a-4c39-9c71-16233e6e7b60?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/e6999d0a-f36a-4c39-9c71-16233e6e7b60?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36691",
+      "name": "河川名詞庫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3977829d-04bd-4666-a62b-42a4109b7cc0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3977829d-04bd-4666-a62b-42a4109b7cc0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3977829d-04bd-4666-a62b-42a4109b7cc0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36692",
+      "name": "警戒水位值",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/39ad439a-f7aa-4fd4-b1a7-e4622852cc69?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/39ad439a-f7aa-4fd4-b1a7-e4622852cc69?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/39ad439a-f7aa-4fd4-b1a7-e4622852cc69?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36696",
+      "name": "水權統計資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/03be73eb-5da8-45d4-87d9-4e78d476a843?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/03be73eb-5da8-45d4-87d9-4e78d476a843?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/03be73eb-5da8-45d4-87d9-4e78d476a843?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36697",
+      "name": "水利署列管計畫基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/dcf3bc63-9ed5-4161-a126-fe6673718677?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/dcf3bc63-9ed5-4161-a126-fe6673718677?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/dcf3bc63-9ed5-4161-a126-fe6673718677?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "45503",
+      "name": "省水標章產品",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/7e96189c-d0cd-43ae-8458-755f32aa5268?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/7e96189c-d0cd-43ae-8458-755f32aa5268?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/7e96189c-d0cd-43ae-8458-755f32aa5268?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "45505",
+      "name": "中部地區水資源管理最新消息",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/587042a5-a709-4154-89e7-2a126c3cc9ae?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/587042a5-a709-4154-89e7-2a126c3cc9ae?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/587042a5-a709-4154-89e7-2a126c3cc9ae?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "92144",
+      "name": "警戒水位值影響範圍",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/1775ef72-b8e3-44be-80f9-b00c55b71b5b?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/1775ef72-b8e3-44be-80f9-b00c55b71b5b?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/1775ef72-b8e3-44be-80f9-b00c55b71b5b?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129294",
+      "name": "中央管排水設施範圍",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/7112d115-8c36-4eb5-bcd6-0a33f747643e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/7112d115-8c36-4eb5-bcd6-0a33f747643e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/7112d115-8c36-4eb5-bcd6-0a33f747643e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129473",
+      "name": "自來水水質水量保護區圖：邊界向外鄰近0.5公里範圍",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/9396afdd-bb2b-4c6c-839e-d9f613692a02?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/9396afdd-bb2b-4c6c-839e-d9f613692a02?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/9396afdd-bb2b-4c6c-839e-d9f613692a02?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129297",
+      "name": "中央管排水圖框",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/b770a0e0-89c0-4937-849e-3a1001cbfb3f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/b770a0e0-89c0-4937-849e-3a1001cbfb3f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/b770a0e0-89c0-4937-849e-3a1001cbfb3f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129314",
+      "name": "水利署地層下陷磁環分層監測井圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/323badbe-9ac4-4108-bf50-c3ded223f611?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/323badbe-9ac4-4108-bf50-c3ded223f611?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/323badbe-9ac4-4108-bf50-c3ded223f611?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129317",
+      "name": "地下水分區範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/a4090e43-801b-42e6-80a7-7dc5e1eccb72?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/a4090e43-801b-42e6-80a7-7dc5e1eccb72?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/a4090e43-801b-42e6-80a7-7dc5e1eccb72?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129318",
+      "name": "地下水第一級管制區",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d51ed42b-4496-4215-8d9b-521f18c396f3?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d51ed42b-4496-4215-8d9b-521f18c396f3?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d51ed42b-4496-4215-8d9b-521f18c396f3?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "130015",
+      "name": "水資源作業基金附屬單位決算",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/b8111f63-fad6-43fc-bf18-cd87ca3cf266?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/b8111f63-fad6-43fc-bf18-cd87ca3cf266?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/b8111f63-fad6-43fc-bf18-cd87ca3cf266?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131908",
+      "name": "水利署補助款澎湖地區公共給水改善工程計畫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/7a8241b9-b2e3-4dbe-961c-ca57cbcba542?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/7a8241b9-b2e3-4dbe-961c-ca57cbcba542?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/7a8241b9-b2e3-4dbe-961c-ca57cbcba542?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131903",
+      "name": "水利署補助款板新二期工程計畫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/7e1791c8-e58b-4f79-8623-b1d6b4518d74?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/7e1791c8-e58b-4f79-8623-b1d6b4518d74?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/7e1791c8-e58b-4f79-8623-b1d6b4518d74?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "139336",
+      "name": "水庫代碼",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/f65a2148-9c7a-4e16-acaf-48917a5124e2?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/f65a2148-9c7a-4e16-acaf-48917a5124e2?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/f65a2148-9c7a-4e16-acaf-48917a5124e2?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "150696",
+      "name": "水利署及所屬單位會計報告",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/387a9a51-944d-4f73-a518-6dad2f3df490?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/387a9a51-944d-4f73-a518-6dad2f3df490?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/387a9a51-944d-4f73-a518-6dad2f3df490?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "143272",
+      "name": "IoW揚塵基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/a2ea1f32-9876-4228-8ee6-2284e49ea28d?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/a2ea1f32-9876-4228-8ee6-2284e49ea28d?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/a2ea1f32-9876-4228-8ee6-2284e49ea28d?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "143021",
+      "name": "甲仙攔河堰前日引水量",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/df8cb11b-7606-42bf-8385-0a990ccc997d?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/df8cb11b-7606-42bf-8385-0a990ccc997d?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/df8cb11b-7606-42bf-8385-0a990ccc997d?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "142983",
+      "name": "IoW閘門相關監測基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d82e29eb-22f8-4e94-8d27-be27ac601d5e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d82e29eb-22f8-4e94-8d27-be27ac601d5e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d82e29eb-22f8-4e94-8d27-be27ac601d5e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "142984",
+      "name": "IoW閘門相關監測最新資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3e9e4c4d-9758-49fe-8a65-90c88e11ea54?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3e9e4c4d-9758-49fe-8a65-90c88e11ea54?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3e9e4c4d-9758-49fe-8a65-90c88e11ea54?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "142986",
+      "name": "IoW沖刷深度最新資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/0e51a4ed-1e8d-4c20-9dcb-6efdc7dd87c7?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/0e51a4ed-1e8d-4c20-9dcb-6efdc7dd87c7?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/0e51a4ed-1e8d-4c20-9dcb-6efdc7dd87c7?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "156058",
+      "name": "水利署及所屬法定預算",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c48bb3b3-8324-4d95-9921-588f0e46ae85?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c48bb3b3-8324-4d95-9921-588f0e46ae85?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c48bb3b3-8324-4d95-9921-588f0e46ae85?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "156062",
+      "name": "水利署年報",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/b75176e7-1854-4c0f-b789-f21dfd875f94?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/b75176e7-1854-4c0f-b789-f21dfd875f94?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/b75176e7-1854-4c0f-b789-f21dfd875f94?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "167895",
+      "name": "河川基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/750be3f2-eac0-440d-b1d1-d642f74bb2f3?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/750be3f2-eac0-440d-b1d1-d642f74bb2f3?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/750be3f2-eac0-440d-b1d1-d642f74bb2f3?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "167896",
+      "name": "排水基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/33c1567b-598b-4e5d-9fa9-57059e17ee23?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/33c1567b-598b-4e5d-9fa9-57059e17ee23?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/33c1567b-598b-4e5d-9fa9-57059e17ee23?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "168792",
+      "name": "水利署相關行政救濟案例",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/7a712d6b-a6c9-458a-9f23-b7e854f70045?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/7a712d6b-a6c9-458a-9f23-b7e854f70045?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/7a712d6b-a6c9-458a-9f23-b7e854f70045?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "168795",
+      "name": "水利署預算書",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/52f86843-d933-4127-bcf8-33727124df80?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/52f86843-d933-4127-bcf8-33727124df80?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/52f86843-d933-4127-bcf8-33727124df80?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "161085",
+      "name": "中央管排水設施範圍線",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/216f30dc-3363-41e8-8192-737da699be23?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/216f30dc-3363-41e8-8192-737da699be23?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/216f30dc-3363-41e8-8192-737da699be23?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "173820",
+      "name": "中央管河川界點",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/65f1f323-ba14-4c7b-a156-5012c64a948f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/65f1f323-ba14-4c7b-a156-5012c64a948f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/65f1f323-ba14-4c7b-a156-5012c64a948f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "5981",
+      "name": "水利防災資訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/da10fa1e-9510-4b50-b0c6-bc36fc5ad476?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/da10fa1e-9510-4b50-b0c6-bc36fc5ad476?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/da10fa1e-9510-4b50-b0c6-bc36fc5ad476?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "5982",
+      "name": "防災資訊淹水警戒",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/301c0b62-8736-4e03-95ef-55309c1a5e74?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/301c0b62-8736-4e03-95ef-55309c1a5e74?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/301c0b62-8736-4e03-95ef-55309c1a5e74?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "5984",
+      "name": "防災資訊水庫洩洪警戒",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/eecf1c46-9676-43a0-936e-13b78a69213b?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/eecf1c46-9676-43a0-936e-13b78a69213b?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/eecf1c46-9676-43a0-936e-13b78a69213b?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16926",
+      "name": "疏濬點位資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/b1804e8e-ecc9-4459-b552-36fe010b37cc?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/b1804e8e-ecc9-4459-b552-36fe010b37cc?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/b1804e8e-ecc9-4459-b552-36fe010b37cc?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16928",
+      "name": "水利署最新消息",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/eeef819d-a3eb-4d90-ba77-ab484eed233e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/eeef819d-a3eb-4d90-ba77-ab484eed233e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/eeef819d-a3eb-4d90-ba77-ab484eed233e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16934",
+      "name": "水利署國賠統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/bb1a8c12-9fd0-4aec-9914-5a4f46866cf9?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/bb1a8c12-9fd0-4aec-9914-5a4f46866cf9?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/bb1a8c12-9fd0-4aec-9914-5a4f46866cf9?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "22224",
+      "name": "地下水水位年度統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/f3ae2889-ccaf-45a3-a546-0edd8d9fd2da?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/f3ae2889-ccaf-45a3-a546-0edd8d9fd2da?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/f3ae2889-ccaf-45a3-a546-0edd8d9fd2da?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "22228",
+      "name": "河川代碼",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/a644fa3e-6406-47e5-a797-dd746d5bb83f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/a644fa3e-6406-47e5-a797-dd746d5bb83f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/a644fa3e-6406-47e5-a797-dd746d5bb83f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32731",
+      "name": "中央管海堤",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/0c451165-8868-4c20-821c-ba1ef9f1bc9f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/0c451165-8868-4c20-821c-ba1ef9f1bc9f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/0c451165-8868-4c20-821c-ba1ef9f1bc9f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "36694",
+      "name": "水利署地層下陷GNSS測站監測資訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d98a5c3b-7e65-4aa2-996c-97215c6074bf?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d98a5c3b-7e65-4aa2-996c-97215c6074bf?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d98a5c3b-7e65-4aa2-996c-97215c6074bf?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32721",
+      "name": "水利署植物調查資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/0be84dd8-2aec-4107-9867-7d1b12de0b69?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/0be84dd8-2aec-4107-9867-7d1b12de0b69?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/0be84dd8-2aec-4107-9867-7d1b12de0b69?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32724",
+      "name": "水資源投資分析資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/32ad1232-4098-4bb9-be50-e5a2d8d501da?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/32ad1232-4098-4bb9-be50-e5a2d8d501da?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/32ad1232-4098-4bb9-be50-e5a2d8d501da?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32726",
+      "name": "水庫基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/708a43b0-24dc-40b7-9ed2-fca6a291e7ae?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/708a43b0-24dc-40b7-9ed2-fca6a291e7ae?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/708a43b0-24dc-40b7-9ed2-fca6a291e7ae?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "32730",
+      "name": "中央管河川河堤",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/8f097e23-bd06-45d5-be5c-c3a08de27312?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/8f097e23-bd06-45d5-be5c-c3a08de27312?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/8f097e23-bd06-45d5-be5c-c3a08de27312?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16936",
+      "name": "水利署統計資料指標",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/86608f09-a047-435c-9b07-a272cb793a6e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/86608f09-a047-435c-9b07-a272cb793a6e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/86608f09-a047-435c-9b07-a272cb793a6e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "16937",
+      "name": "水利署公務統計報表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/048890ad-6325-48f4-aafc-2a30c9aac54a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/048890ad-6325-48f4-aafc-2a30c9aac54a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/048890ad-6325-48f4-aafc-2a30c9aac54a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25771",
+      "name": "水利署兩棲類調查資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/8f8bb0df-cb8a-484a-9421-d5a865140154?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/8f8bb0df-cb8a-484a-9421-d5a865140154?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/8f8bb0df-cb8a-484a-9421-d5a865140154?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25775",
+      "name": "水利署電子報",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/a2adce8f-bdbe-4876-9392-8b71406345be?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/a2adce8f-bdbe-4876-9392-8b71406345be?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/a2adce8f-bdbe-4876-9392-8b71406345be?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25776",
+      "name": "水庫堰壩位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/4cd3054e-2f5c-44d6-94d9-24e5882a9d47?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/4cd3054e-2f5c-44d6-94d9-24e5882a9d47?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/4cd3054e-2f5c-44d6-94d9-24e5882a9d47?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25777",
+      "name": "水源特定區圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/e3a1faed-7dde-4a05-94cd-4c563a276d0a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/e3a1faed-7dde-4a05-94cd-4c563a276d0a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/e3a1faed-7dde-4a05-94cd-4c563a276d0a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25778",
+      "name": "水資源分區圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/8c22b5da-df3a-4901-935b-6b18db33420b?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/8c22b5da-df3a-4901-935b-6b18db33420b?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/8c22b5da-df3a-4901-935b-6b18db33420b?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25779",
+      "name": "水資源局轄區範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/73522d60-847a-43b4-9a67-d58a3928a9e1?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/73522d60-847a-43b4-9a67-d58a3928a9e1?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/73522d60-847a-43b4-9a67-d58a3928a9e1?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25782",
+      "name": "河川分署管轄範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/249d50be-ba71-4fae-b7eb-0b7fdc463d0e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/249d50be-ba71-4fae-b7eb-0b7fdc463d0e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/249d50be-ba71-4fae-b7eb-0b7fdc463d0e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25783",
+      "name": "河川水位測站位置圖已廢站",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/7725460a-6eb6-4f55-8dd3-cc2faf0e8f18?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/7725460a-6eb6-4f55-8dd3-cc2faf0e8f18?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/7725460a-6eb6-4f55-8dd3-cc2faf0e8f18?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25788",
+      "name": "近海水文氣象站位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/01ea05f9-bdee-4fbc-af4f-31365cb43bed?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/01ea05f9-bdee-4fbc-af4f-31365cb43bed?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/01ea05f9-bdee-4fbc-af4f-31365cb43bed?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25790",
+      "name": "防汛備料地點",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/e5e4ec84-b0f9-4fd1-b5b8-71b477aafe20?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/e5e4ec84-b0f9-4fd1-b5b8-71b477aafe20?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/e5e4ec84-b0f9-4fd1-b5b8-71b477aafe20?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25797",
+      "name": "水利署蝦蟹貝類調查資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/398782e6-11f4-47a4-99fb-5336eff9c1fc?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/398782e6-11f4-47a4-99fb-5336eff9c1fc?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/398782e6-11f4-47a4-99fb-5336eff9c1fc?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "25799",
+      "name": "水利署魚類調查資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/0a79fde0-a69d-4842-b66b-e51f43ce83f0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/0a79fde0-a69d-4842-b66b-e51f43ce83f0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/0a79fde0-a69d-4842-b66b-e51f43ce83f0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "86026",
+      "name": "防汛備料基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/cbd4f81e-23f3-441e-a22e-3e6f1c00e50a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/cbd4f81e-23f3-441e-a22e-3e6f1c00e50a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/cbd4f81e-23f3-441e-a22e-3e6f1c00e50a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "86029",
+      "name": "防汛場所基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/5069aa84-f6df-479f-bd9b-723750500a68?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/5069aa84-f6df-479f-bd9b-723750500a68?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/5069aa84-f6df-479f-bd9b-723750500a68?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58698",
+      "name": "水利署各項農業用水統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/55bd8e78-5e8b-47a5-9ea3-d7403d06a131?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/55bd8e78-5e8b-47a5-9ea3-d7403d06a131?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/55bd8e78-5e8b-47a5-9ea3-d7403d06a131?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58699",
+      "name": "水利署畜牧數與畜牧用水量統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/f7fa35a0-5d47-48c2-a755-111538507110?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/f7fa35a0-5d47-48c2-a755-111538507110?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/f7fa35a0-5d47-48c2-a755-111538507110?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58701",
+      "name": "水利署灌溉面積與灌溉用水量統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/b0206d05-f54a-4a14-94a1-cb0b2a17a00b?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/b0206d05-f54a-4a14-94a1-cb0b2a17a00b?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/b0206d05-f54a-4a14-94a1-cb0b2a17a00b?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58682",
+      "name": "大臺北華城社區內各污水下水道系統水量累計歷年統計資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/4cc31aab-7493-48d6-b9b0-88b34ceba6e2?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/4cc31aab-7493-48d6-b9b0-88b34ceba6e2?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/4cc31aab-7493-48d6-b9b0-88b34ceba6e2?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58688",
+      "name": "石門水庫濁度資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/7cd352ef-6518-4396-b2d6-61f1946a5611?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/7cd352ef-6518-4396-b2d6-61f1946a5611?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/7cd352ef-6518-4396-b2d6-61f1946a5611?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "45490",
+      "name": "水利節表揚大會影像集",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/82bbc371-5799-4334-8461-cc5048692272?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/82bbc371-5799-4334-8461-cc5048692272?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/82bbc371-5799-4334-8461-cc5048692272?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "45502",
+      "name": "水源保育與回饋計畫執行成果經費統計（保護區）",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/26c7b3d6-1995-4201-a4d7-828b971f7aae?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/26c7b3d6-1995-4201-a4d7-828b971f7aae?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/26c7b3d6-1995-4201-a4d7-828b971f7aae?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58362",
+      "name": "水利署地層下陷平均下陷速率等值線",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/86e3f3be-71ac-4ac2-aab0-e57f429a4dd0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/86e3f3be-71ac-4ac2-aab0-e57f429a4dd0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/86e3f3be-71ac-4ac2-aab0-e57f429a4dd0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58348",
+      "name": "牡丹水庫集水區範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/53a8ae27-5f5f-4d60-8024-bd7270e33c0e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/53a8ae27-5f5f-4d60-8024-bd7270e33c0e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/53a8ae27-5f5f-4d60-8024-bd7270e33c0e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58349",
+      "name": "自來水水質水量保護區專戶運用小組名單",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ed42b924-8ec2-4612-9059-a5fb35237377?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ed42b924-8ec2-4612-9059-a5fb35237377?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ed42b924-8ec2-4612-9059-a5fb35237377?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58351",
+      "name": "自來水管承裝商狀態統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/6d71e76f-7bcb-4d1b-8e83-761832e37c0a?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/6d71e76f-7bcb-4d1b-8e83-761832e37c0a?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/6d71e76f-7bcb-4d1b-8e83-761832e37c0a?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "58340",
+      "name": "用水計畫摘要表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/05c29f44-da17-42c8-b47d-d1d61ea98779?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/05c29f44-da17-42c8-b47d-d1d61ea98779?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/05c29f44-da17-42c8-b47d-d1d61ea98779?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "108612",
+      "name": "水資源作業基金預算案",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c6e26579-62a1-46c2-bc34-b03473f91097?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c6e26579-62a1-46c2-bc34-b03473f91097?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c6e26579-62a1-46c2-bc34-b03473f91097?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41562",
+      "name": "河川復育常見問答",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/37a17a3f-1787-47b5-a49f-4a14cdafc024?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/37a17a3f-1787-47b5-a49f-4a14cdafc024?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/37a17a3f-1787-47b5-a49f-4a14cdafc024?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41569",
+      "name": "水利署轄管河川綠美化場地可開放認養維護管理案件表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3a0f3774-8b94-4d23-ae23-1455592f27ca?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3a0f3774-8b94-4d23-ae23-1455592f27ca?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3a0f3774-8b94-4d23-ae23-1455592f27ca?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "41576",
+      "name": "石門水庫(含榮華壩)集水區範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/c8d54ba7-6613-4559-ae4e-bfec26c48e37?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/c8d54ba7-6613-4559-ae4e-bfec26c48e37?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/c8d54ba7-6613-4559-ae4e-bfec26c48e37?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "92149",
+      "name": "警戒雨量值",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/9fec1686-bfb0-4dc8-aa35-4ab968ec26bf?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/9fec1686-bfb0-4dc8-aa35-4ab968ec26bf?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/9fec1686-bfb0-4dc8-aa35-4ab968ec26bf?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "92150",
+      "name": "警戒雨量值影響範圍",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/bca6679b-a548-488f-9e11-f2af0639d190?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/bca6679b-a548-488f-9e11-f2af0639d190?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/bca6679b-a548-488f-9e11-f2af0639d190?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "95805",
+      "name": "施工補充說明書及其附件",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/e9695117-a3dd-4170-92bf-cfff4456eea9?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/e9695117-a3dd-4170-92bf-cfff4456eea9?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/e9695117-a3dd-4170-92bf-cfff4456eea9?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129233",
+      "name": "天然災害區域排水設施受損情形",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/9cbc07fe-161f-4206-8132-e25e4ab5076f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/9cbc07fe-161f-4206-8132-e25e4ab5076f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/9cbc07fe-161f-4206-8132-e25e4ab5076f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129476",
+      "name": "水庫集水區敏感區範圍：邊界向外鄰近0.5公里範圍",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/58928bf4-46d4-4519-948c-2660207a9ed0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/58928bf4-46d4-4519-948c-2660207a9ed0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/58928bf4-46d4-4519-948c-2660207a9ed0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129472",
+      "name": "自來水水質水量保護區圖：邊界向內鄰近0.5公里範圍",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3f26c5e0-34fe-49c0-9d3e-8e213143c6df?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3f26c5e0-34fe-49c0-9d3e-8e213143c6df?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3f26c5e0-34fe-49c0-9d3e-8e213143c6df?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129474",
+      "name": "水庫集水區",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/5bc42fbc-21d0-46fd-bc07-fd43d45613b0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/5bc42fbc-21d0-46fd-bc07-fd43d45613b0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/5bc42fbc-21d0-46fd-bc07-fd43d45613b0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129319",
+      "name": "地下水第二級管制區",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/86316722-8468-44e5-80eb-a67927befc19?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/86316722-8468-44e5-80eb-a67927befc19?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/86316722-8468-44e5-80eb-a67927befc19?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129325",
+      "name": "近海水文資料浮標站位置圖",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/a8625ddc-4163-43bd-ba26-0d9ddf37f06b?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/a8625ddc-4163-43bd-ba26-0d9ddf37f06b?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/a8625ddc-4163-43bd-ba26-0d9ddf37f06b?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129295",
+      "name": "中央管河川圖框",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/232e25ed-e048-44e8-9c24-0f77799215ee?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/232e25ed-e048-44e8-9c24-0f77799215ee?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/232e25ed-e048-44e8-9c24-0f77799215ee?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129296",
+      "name": "一般性海堤圖框",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/6dd5ea14-2496-4aa1-b507-39183cb4e1aa?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/6dd5ea14-2496-4aa1-b507-39183cb4e1aa?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/6dd5ea14-2496-4aa1-b507-39183cb4e1aa?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "129299",
+      "name": "中央管河川區域線",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/32811803-7f6e-49bf-ae12-0e87aeee366e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/32811803-7f6e-49bf-ae12-0e87aeee366e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/32811803-7f6e-49bf-ae12-0e87aeee366e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "139056",
+      "name": "一級海岸災害防治區",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/2ce43efe-a363-412c-96a7-183b8bea34f3?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/2ce43efe-a363-412c-96a7-183b8bea34f3?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/2ce43efe-a363-412c-96a7-183b8bea34f3?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "139057",
+      "name": "一級海岸陸域緩衝區",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/227fd4fb-4147-4080-a84b-f948e666b615?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/227fd4fb-4147-4080-a84b-f948e666b615?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/227fd4fb-4147-4080-a84b-f948e666b615?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "142979",
+      "name": "IoW淹水深度基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/21c50be1-7c4a-4fdf-a386-790625e984e7?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/21c50be1-7c4a-4fdf-a386-790625e984e7?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/21c50be1-7c4a-4fdf-a386-790625e984e7?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "143275",
+      "name": "IoW累計流量(雨水貯留)最新資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ffa4febb-bc2d-4f6e-ad03-a7c7e6b66c8f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ffa4febb-bc2d-4f6e-ad03-a7c7e6b66c8f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ffa4febb-bc2d-4f6e-ad03-a7c7e6b66c8f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "142980",
+      "name": "IoW淹水深度最新資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/1b991bbb-ad85-4e7a-b931-06ce8749d3ed?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/1b991bbb-ad85-4e7a-b931-06ce8749d3ed?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/1b991bbb-ad85-4e7a-b931-06ce8749d3ed?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "142981",
+      "name": "IoW堤防結構安全基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/1a49527b-a768-499e-a4c3-3e7f8378570f?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/1a49527b-a768-499e-a4c3-3e7f8378570f?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/1a49527b-a768-499e-a4c3-3e7f8378570f?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "142985",
+      "name": "IoW沖刷深度基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/4d3ec222-8ce9-4f3a-bf20-f743441006a4?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/4d3ec222-8ce9-4f3a-bf20-f743441006a4?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/4d3ec222-8ce9-4f3a-bf20-f743441006a4?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "143019",
+      "name": "高屏溪攔河堰前日引水量",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/b613921f-0496-4961-9d26-92ec366acfb4?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/b613921f-0496-4961-9d26-92ec366acfb4?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/b613921f-0496-4961-9d26-92ec366acfb4?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "143020",
+      "name": "高屏溪河堰即時水情資訊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/b2b7cbec-ec4a-4d08-ae41-b3b2cf96b99b?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/b2b7cbec-ec4a-4d08-ae41-b3b2cf96b99b?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/b2b7cbec-ec4a-4d08-ae41-b3b2cf96b99b?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131910",
+      "name": "水利署補助款離島地區供水改善計畫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/2d1a3427-111d-4e95-ada8-f05f0583d5ef?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/2d1a3427-111d-4e95-ada8-f05f0583d5ef?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/2d1a3427-111d-4e95-ada8-f05f0583d5ef?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131911",
+      "name": "水利署補助款曾文南化烏山頭水庫治理及穩定南部地區供水計畫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/707b028a-7f4d-4107-9e13-69f5a2cda4a8?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/707b028a-7f4d-4107-9e13-69f5a2cda4a8?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/707b028a-7f4d-4107-9e13-69f5a2cda4a8?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131902",
+      "name": "水利署補助款申請省水標章檢測費用",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/1767045d-f2cd-44ca-8934-ac5e3a6befdb?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/1767045d-f2cd-44ca-8934-ac5e3a6befdb?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/1767045d-f2cd-44ca-8934-ac5e3a6befdb?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131904",
+      "name": "水利署對民間團體辦理水利宣導活動或研討會捐助作業",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/fbaac010-ec93-45dc-8997-f25f82af2f7c?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/fbaac010-ec93-45dc-8997-f25f82af2f7c?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/fbaac010-ec93-45dc-8997-f25f82af2f7c?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131905",
+      "name": "水利署補助款補助各級地方政府計畫經費撥款",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/ffb4e291-d694-4ae2-b89c-b6647ee2c234?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/ffb4e291-d694-4ae2-b89c-b6647ee2c234?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/ffb4e291-d694-4ae2-b89c-b6647ee2c234?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "131906",
+      "name": "水利署補助款金門自大陸引水工程計畫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/5dd0f964-5001-4b01-b019-7c7fbc25b8a0?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/5dd0f964-5001-4b01-b019-7c7fbc25b8a0?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/5dd0f964-5001-4b01-b019-7c7fbc25b8a0?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "132064",
+      "name": "水利署補助款蓄水建造物更新及改善計畫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/d57028c1-a090-48bf-a55f-1b96effd137e?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/d57028c1-a090-48bf-a55f-1b96effd137e?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/d57028c1-a090-48bf-a55f-1b96effd137e?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "132086",
+      "name": "水利署補助款金門自來水廠補助款查核計畫",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/00856144-8b22-4304-bb6c-8cded58f3633?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/00856144-8b22-4304-bb6c-8cded58f3633?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/00856144-8b22-4304-bb6c-8cded58f3633?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "136413",
+      "name": "主要河川對照表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/2bab8edf-b23a-4f7a-b7bd-7c761c3ba2d4?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/2bab8edf-b23a-4f7a-b7bd-7c761c3ba2d4?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/2bab8edf-b23a-4f7a-b7bd-7c761c3ba2d4?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "161083",
+      "name": "一般性海堤區域線",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/db6f9d73-e01a-4ddc-a285-47dab8268f44?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/db6f9d73-e01a-4ddc-a285-47dab8268f44?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/db6f9d73-e01a-4ddc-a285-47dab8268f44?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "161086",
+      "name": "水利署歷史地下水水質資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/7698a118-233c-4167-a844-e5e22039e39f?sort=_importdate desc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/7698a118-233c-4167-a844-e5e22039e39f?sort=_importdate desc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/7698a118-233c-4167-a844-e5e22039e39f?sort=_importdate desc&format=XML"
+      ]
+    },
+    {
+      "id": "156059",
+      "name": "水利署及所屬預算案",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/8e4519c0-2cc7-4218-b590-683a9b4e679b?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/8e4519c0-2cc7-4218-b590-683a9b4e679b?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/8e4519c0-2cc7-4218-b590-683a9b4e679b?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "168794",
+      "name": "水利署統計動態",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/3d129cfb-0fa8-43f4-9143-293721956ffb?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/3d129cfb-0fa8-43f4-9143-293721956ffb?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/3d129cfb-0fa8-43f4-9143-293721956ffb?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "168798",
+      "name": "水利署招標及決標訊息",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/a826c0c0-2ba5-42eb-b113-2535dcbd8f44?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/a826c0c0-2ba5-42eb-b113-2535dcbd8f44?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/a826c0c0-2ba5-42eb-b113-2535dcbd8f44?sort=_importdate asc&format=XML"
+      ]
+    },
+    {
+      "id": "168799",
+      "name": "水利署支付或接受之補助",
+      "format": "csv",
+      "urls": [
+        "https://opendata.wra.gov.tw/api/v2/163d0e22-55bd-4eeb-870e-2c9b54efae44?sort=_importdate asc&format=CSV",
+        "https://opendata.wra.gov.tw/api/v2/163d0e22-55bd-4eeb-870e-2c9b54efae44?sort=_importdate asc&format=JSON",
+        "https://opendata.wra.gov.tw/api/v2/163d0e22-55bd-4eeb-870e-2c9b54efae44?sort=_importdate asc&format=XML"
+      ]
+    }
+  ]
+}
