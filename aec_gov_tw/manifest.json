@@ -1,0 +1,46 @@
+{
+  "provider": "原子能委員會",
+  "slug": "aec_gov_tw",
+  "datasets": [
+    {
+      "id": "45121",
+      "name": "全國環境輻射監測資料",
+      "format": "csv",
+      "urls": [
+        "https://www.aec.gov.tw/downloadfile/opendata/radiation_monitoring.csv"
+      ]
+    },
+    {
+      "id": "45122",
+      "name": "核能電廠運轉統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.aec.gov.tw/downloadfile/opendata/nuclear_plant_operation.csv"
+      ]
+    },
+    {
+      "id": "45123",
+      "name": "輻射工作人員個人劑量統計",
+      "format": "csv",
+      "urls": [
+        "https://www.aec.gov.tw/downloadfile/opendata/radiation_worker_dose.csv"
+      ]
+    },
+    {
+      "id": "45124",
+      "name": "放射性廢棄物貯存現況",
+      "format": "csv",
+      "urls": [
+        "https://www.aec.gov.tw/downloadfile/opendata/radioactive_waste_storage.csv"
+      ]
+    },
+    {
+      "id": "45125",
+      "name": "核子設施許可清冊",
+      "format": "csv",
+      "urls": [
+        "https://www.aec.gov.tw/downloadfile/opendata/nuclear_facility_license.csv"
+      ]
+    }
+  ]
+}
