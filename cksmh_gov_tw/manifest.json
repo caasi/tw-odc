@@ -93,7 +93,14 @@
       "name": "國立中正紀念堂管理處-館藏圖書目錄",
       "format": "json",
       "urls": [
-        "https://libm7.moc.gov.tw/webopac/opendata/cksmh.json",
+        "https://libm7.moc.gov.tw/webopac/opendata/cksmh.json"
+      ]
+    },
+    {
+      "id": "40157-xml",
+      "name": "國立中正紀念堂管理處-館藏圖書目錄（XML）",
+      "format": "xml",
+      "urls": [
         "https://libm7.moc.gov.tw/webopac/opendata/cksmh.xml"
       ]
     },

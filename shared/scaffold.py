@@ -1,8 +1,12 @@
+import copy
 import hashlib
 import json
 from collections import Counter
 from pathlib import Path
+from typing import Any
 from urllib.parse import urlparse
+
+_PATCHES_DIR: Path = Path(__file__).parent / "patches"
 
 
 INIT_TEMPLATE = '''from shared.fetcher import fetch_all
@@ -136,6 +140,112 @@ def compute_slug(provider_name: str, urls: list[str]) -> str:
     return slug
 
 
+def _resolve_pointer(doc: Any, segments: list[str]) -> tuple[Any, str | int]:
+    """Walk a JSON Pointer (RFC 6901) path and return (parent_node, last_key).
+
+    The last_key is returned as an int when the parent is a list, unless the
+    last segment is ``"-"`` (RFC 6902 end-of-array sentinel).
+    """
+    obj: Any = doc
+    for seg in segments[:-1]:
+        obj = obj[int(seg)] if isinstance(obj, list) else obj[seg]
+    last_seg = segments[-1]
+    last: str | int = last_seg if (not isinstance(obj, list) or last_seg == "-") else int(last_seg)
+    return obj, last
+
+
+def _json_pointer_segments(pointer: str) -> list[str]:
+    """Split a JSON Pointer (RFC 6901) into path segments, unescaping ~ sequences.
+
+    An empty string ``""`` refers to the whole document and returns ``[]``.
+    """
+    if not pointer:
+        return []
+    parts = pointer.split("/")[1:]  # drop the leading empty string before the first /
+    return [seg.replace("~1", "/").replace("~0", "~") for seg in parts]
+
+
+def apply_json_patch(doc: dict, operations: list[dict]) -> dict:
+    """Apply RFC 6902 JSON Patch operations to *doc* and return the patched copy.
+
+    Supports ``add``, ``remove``, ``replace``, and ``test`` operations.
+
+    The ``add`` operation on a numeric array index is idempotent: if the element
+    at the target index already equals the value being inserted, the insertion is
+    skipped.  All other operations are naturally idempotent (overwriting with the
+    same value has no observable effect).  The RFC 6902 end-of-array sentinel
+    (``"-"``) always appends and is never subject to the idempotency check.
+    """
+    doc = copy.deepcopy(doc)
+
+    for op_dict in operations:
+        op = op_dict["op"]
+        segments = _json_pointer_segments(op_dict["path"])
+        parent, last = _resolve_pointer(doc, segments)
+
+        if op == "replace":
+            parent[last] = op_dict["value"]
+
+        elif op == "add":
+            if isinstance(parent, list):
+                if last == "-":
+                    # RFC 6902: "-" always appends to the end
+                    parent.append(op_dict["value"])
+                else:
+                    idx = int(last)
+                    # Idempotency: skip if value at that index already matches
+                    if idx < len(parent) and parent[idx] == op_dict["value"]:
+                        continue
+                    parent.insert(idx, op_dict["value"])
+            else:
+                parent[last] = op_dict["value"]
+
+        elif op == "remove":
+            if isinstance(parent, list):
+                del parent[int(last)]
+            else:
+                del parent[last]
+
+        elif op == "test":
+            try:
+                actual = parent[last]
+            except (KeyError, IndexError):
+                raise ValueError(
+                    f"JSON Patch test failed at {op_dict['path']!r}: path does not exist"
+                )
+            if actual != op_dict["value"]:
+                raise ValueError(
+                    f"JSON Patch test failed at {op_dict['path']!r}: "
+                    f"expected {op_dict['value']!r}, got {actual!r}"
+                )
+
+    return doc
+
+
+def apply_manifest_patch(pkg_dir: Path, slug: str) -> bool:
+    """Apply shared/patches/<slug>/manifest.json (RFC 6902) to manifest.json if it exists.
+
+    Reads the current manifest, applies the patch operations in-memory, and
+    writes the result back.  Operations are applied to a deep copy so the file
+    is only updated if parsing and patching succeed.
+
+    Returns True if a patch file was found and applied, False if none exists.
+    Raises ValueError / KeyError if a patch operation is invalid.
+    """
+    patch_file = _PATCHES_DIR / slug / "manifest.json"
+    if not patch_file.exists():
+        return False
+
+    operations: list[dict] = json.loads(patch_file.read_text(encoding="utf-8"))
+    manifest_path = pkg_dir / "manifest.json"
+    doc: dict = json.loads(manifest_path.read_text(encoding="utf-8"))
+    patched = apply_json_patch(doc, operations)
+    manifest_path.write_text(
+        json.dumps(patched, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    return True
+
+
 def scaffold_provider(
     base_dir: Path, provider_name: str, raw_datasets: list[dict]
 ) -> str:
@@ -161,6 +271,7 @@ def scaffold_provider(
     (pkg_dir / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+    apply_manifest_patch(pkg_dir, slug)
     (pkg_dir / "__init__.py").write_text(INIT_TEMPLATE)
     (pkg_dir / "__main__.py").write_text(MAIN_TEMPLATE)
 
