@@ -1,8 +1,13 @@
 """Score datasets using the 5-Star Open Data model.
 
 Currently computes ★1–★3 based on format detection.
+
 ★4 (RDF/URIs) and ★5 (linked data) are tracked in the stars dict but always
-False — they require semantic analysis not yet implemented.
+False. Evaluating them is meaningless at this stage: virtually no dataset on
+data.gov.tw is published as RDF or uses dereferenceable URIs for its entities,
+so every dataset would score False anyway. When the portal ecosystem matures
+enough that some datasets reach ★3 reliably and start publishing semantic
+identifiers, ★4/★5 rules can be added here.
 """
 
 import json
@@ -97,8 +102,12 @@ def score_dataset(inspection: InspectionResult) -> DatasetScore:
             "available_online": available,
             "machine_readable": machine_readable,
             "open_format": open_format,
-            "rdf_uris": False,       # ★4: use URIs to identify things (not yet implemented)
-            "linked_data": False,    # ★5: link to other datasets (not yet implemented)
+            # ★4 and ★5 are always False: no data.gov.tw dataset currently
+            # publishes RDF or dereferenceable URIs, so evaluating these
+            # criteria would produce uniform False scores with no signal.
+            # Implement when the ecosystem has meaningful ★4-ready datasets.
+            "rdf_uris": False,    # ★4: use URIs to identify things
+            "linked_data": False, # ★5: link to other datasets
         },
         issues=list(inspection.issues),
     )
