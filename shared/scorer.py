@@ -1,4 +1,14 @@
-"""Score datasets using the 5-Star Open Data model (★1-★3 for v1)."""
+"""Score datasets using the 5-Star Open Data model.
+
+Currently computes ★1–★3 based on format detection.
+
+★4 (RDF/URIs) and ★5 (linked data) are tracked in the stars dict but always
+False. Evaluating them is meaningless at this stage: virtually no dataset on
+data.gov.tw is published as RDF or uses dereferenceable URIs for its entities,
+so every dataset would score False anyway. When the portal ecosystem matures
+enough that some datasets reach ★3 reliably and start publishing semantic
+identifiers, ★4/★5 rules can be added here.
+"""
 
 import json
 from dataclasses import dataclass, field
@@ -15,7 +25,10 @@ OPEN_FORMATS = {"csv", "json", "xml", "geojson"}
 
 
 def _format_star(fmt: str) -> int:
-    """Return star score for a single detected format."""
+    """Return star score (0–3) for a single detected format.
+
+    ★4 and ★5 are not computed here — they require semantic analysis.
+    """
     if fmt in ("missing", "empty"):
         return 0
     if fmt in OPEN_FORMATS:
@@ -52,6 +65,10 @@ class DatasetScore:
 def score_dataset(inspection: InspectionResult) -> DatasetScore:
     """Score a dataset based on its inspection result.
 
+    Produces a star_score in the 0–3 range based on format detection.
+    ★4 (rdf_uris) and ★5 (linked_data) are reserved in the stars dict
+    but always False pending semantic analysis implementation.
+
     Uses the minimum star score across all detected formats
     (conservative — weakest link determines quality).
     """
@@ -85,6 +102,12 @@ def score_dataset(inspection: InspectionResult) -> DatasetScore:
             "available_online": available,
             "machine_readable": machine_readable,
             "open_format": open_format,
+            # ★4 and ★5 are always False: no data.gov.tw dataset currently
+            # publishes RDF or dereferenceable URIs, so evaluating these
+            # criteria would produce uniform False scores with no signal.
+            # Implement when the ecosystem has meaningful ★4-ready datasets.
+            "rdf_uris": False,    # ★4: use URIs to identify things
+            "linked_data": False, # ★5: link to other datasets
         },
         issues=list(inspection.issues),
     )
