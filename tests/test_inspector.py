@@ -1,6 +1,6 @@
 import zipfile
 
-from shared.inspector import (
+from tw_odc.inspector import (
     InspectionResult,
     detect_format,
     inspect_dataset,
