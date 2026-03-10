@@ -8,6 +8,7 @@ from pathlib import Path
 
 import typer
 
+from tw_odc.i18n import setup_locale, t
 from tw_odc.manifest import (
     ManifestType,
     create_dataset_manifest,
@@ -16,8 +17,18 @@ from tw_odc.manifest import (
 )
 
 app = typer.Typer(name="tw-odc")
-metadata_app = typer.Typer(help="metadata 資料來源操作")
-dataset_app = typer.Typer(help="dataset 資料集操作")
+
+
+@app.callback()
+def main_callback(
+    lang: str | None = typer.Option(None, "--lang", help="Language: en, zh-TW"),
+) -> None:
+    """Taiwan Open Data Checker CLI."""
+    setup_locale(lang)
+
+
+metadata_app = typer.Typer(help="Metadata source operations")
+dataset_app = typer.Typer(help="Dataset operations")
 app.add_typer(metadata_app, name="metadata")
 app.add_typer(dataset_app, name="dataset")
 
@@ -33,7 +44,7 @@ def _load_and_check(manifest_dir: Path, expected_type: ManifestType) -> dict:
     actual = manifest.get("type")
     if actual != expected_type:
         print(
-            f"錯誤: 預期 manifest type 為 '{expected_type}'，實際為 '{actual}'",
+            f"E001: {t('E001', expected=expected_type, actual=actual)}",
             file=sys.stderr,
         )
         raise typer.Exit(code=1)
@@ -46,7 +57,7 @@ def _find_export_json(manifest: dict, manifest_dir: Path) -> Path:
         if ds["id"] == "export-json":
             filename = f"{ds['id']}.{ds['format']}"
             return manifest_dir / filename
-    print("錯誤: manifest 中找不到 export-json 資料集", file=sys.stderr)
+    print(f"E002: {t('E002')}", file=sys.stderr)
     raise typer.Exit(code=1)
 
 
@@ -63,7 +74,7 @@ def _output(data, fmt: OutputFormat) -> None:
                     extra = {k: v for k, v in item.items() if k not in ("name", "provider")}
                     parts = [name]
                     if "count" in extra:
-                        parts.append(f"({extra['count']} 筆)")
+                        parts.append(t("output.count_suffix", count=extra["count"]))
                     if "slug" in extra:
                         parts.append(f"[{extra['slug']}]")
                     print(" ".join(parts))
@@ -78,11 +89,11 @@ def _output(data, fmt: OutputFormat) -> None:
 
 @metadata_app.command("download")
 def metadata_download(
-    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="輸出格式"),
-    only: str | None = typer.Option(None, "--only", help="只下載指定檔案"),
-    no_cache: bool = typer.Option(False, "--no-cache", help="忽略 ETag 快取"),
+    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
+    only: str | None = typer.Option(None, "--only", help="Download only this file"),
+    no_cache: bool = typer.Option(False, "--no-cache", help="Bypass ETag cache"),
 ) -> None:
-    """下載 metadata 檔案。"""
+    """Download metadata files."""
     from tw_odc.fetcher import fetch_all
 
     cwd = Path.cwd()
@@ -92,14 +103,14 @@ def metadata_download(
 
 @metadata_app.command("list")
 def metadata_list(
-    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="輸出格式"),
+    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
 ) -> None:
-    """列出 metadata 中的所有機關。"""
+    """List all providers in metadata."""
     cwd = Path.cwd()
     manifest = _load_and_check(cwd, ManifestType.METADATA)
     export_path = _find_export_json(manifest, cwd)
     if not export_path.exists():
-        print(f"錯誤: {export_path} 不存在，請先執行 tw-odc metadata download", file=sys.stderr)
+        print(f"E003: {t('E003', path=export_path)}", file=sys.stderr)
         raise typer.Exit(code=1)
 
     data = json.loads(export_path.read_text(encoding="utf-8"))
@@ -122,21 +133,21 @@ def metadata_list(
 
 @metadata_app.command("create")
 def metadata_create(
-    provider: str = typer.Option(..., "--provider", "-p", help="機關名稱"),
+    provider: str = typer.Option(..., "--provider", "-p", help="Provider name"),
 ) -> None:
-    """從 metadata 建立 dataset manifest。輸出資料夾路徑到 stdout。"""
+    """Create a dataset manifest from metadata. Prints directory slug to stdout."""
     cwd = Path.cwd()
     manifest = _load_and_check(cwd, ManifestType.METADATA)
     export_path = _find_export_json(manifest, cwd)
     if not export_path.exists():
-        print(f"錯誤: {export_path} 不存在，請先執行 tw-odc metadata download", file=sys.stderr)
+        print(f"E003: {t('E003', path=export_path)}", file=sys.stderr)
         raise typer.Exit(code=1)
 
     data = json.loads(export_path.read_text(encoding="utf-8"))
     groups = group_by_provider(data)
 
     if provider not in groups:
-        print(f"錯誤: 找不到機關「{provider}」", file=sys.stderr)
+        print(f"E004: {t('E004', provider=provider)}", file=sys.stderr)
         raise typer.Exit(code=1)
 
     slug = create_dataset_manifest(cwd, provider, groups[provider])
@@ -145,15 +156,15 @@ def metadata_create(
 
 @metadata_app.command("update")
 def metadata_update(
-    provider: str | None = typer.Option(None, "--provider", "-p", help="機關名稱"),
-    dir_path: str | None = typer.Option(None, "--dir", help="目標資料夾"),
+    provider: str | None = typer.Option(None, "--provider", "-p", help="Provider name"),
+    dir_path: str | None = typer.Option(None, "--dir", help="Target directory"),
 ) -> None:
-    """更新既有的 dataset manifest。"""
+    """Update an existing dataset manifest."""
     cwd = Path.cwd()
     manifest = _load_and_check(cwd, ManifestType.METADATA)
     export_path = _find_export_json(manifest, cwd)
     if not export_path.exists():
-        print(f"錯誤: {export_path} 不存在，請先執行 tw-odc metadata download", file=sys.stderr)
+        print(f"E003: {t('E003', path=export_path)}", file=sys.stderr)
         raise typer.Exit(code=1)
 
     data = json.loads(export_path.read_text(encoding="utf-8"))
@@ -165,11 +176,11 @@ def metadata_update(
         provider = target_manifest["provider"]
 
     if not provider:
-        print("錯誤: 請指定 --provider 或 --dir", file=sys.stderr)
+        print(f"E005: {t('E005')}", file=sys.stderr)
         raise typer.Exit(code=1)
 
     if provider not in groups:
-        print(f"錯誤: 找不到機關「{provider}」", file=sys.stderr)
+        print(f"E004: {t('E004', provider=provider)}", file=sys.stderr)
         raise typer.Exit(code=1)
 
     slug = create_dataset_manifest(cwd, provider, groups[provider])
@@ -178,7 +189,7 @@ def metadata_update(
 
 # ─── dataset commands ───
 
-_dataset_dir_option = typer.Option(None, "--dir", help="dataset 資料夾路徑")
+_dataset_dir_option = typer.Option(None, "--dir", help="Dataset directory path")
 
 
 @dataset_app.callback()
@@ -186,7 +197,7 @@ def dataset_callback(
     ctx: typer.Context,
     dir_path: str | None = _dataset_dir_option,
 ) -> None:
-    """dataset 操作共用的 --dir 參數。"""
+    """Shared --dir option for dataset commands."""
     ctx.ensure_object(dict)
     if dir_path:
         ctx.obj["dir"] = Path.cwd() / dir_path
@@ -201,9 +212,9 @@ def _get_dataset_dir(ctx: typer.Context) -> Path:
 @dataset_app.command("list")
 def dataset_list(
     ctx: typer.Context,
-    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="輸出格式"),
+    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
 ) -> None:
-    """列出 dataset manifest 中的資料集。"""
+    """List datasets in a dataset manifest."""
     pkg_dir = _get_dataset_dir(ctx)
     manifest = _load_and_check(pkg_dir, ManifestType.DATASET)
     _output(manifest["datasets"], fmt)
@@ -212,10 +223,10 @@ def dataset_list(
 @dataset_app.command("download")
 def dataset_download(
     ctx: typer.Context,
-    dataset_id: str | None = typer.Option(None, "--id", help="只下載指定 ID 的資料集"),
-    no_cache: bool = typer.Option(False, "--no-cache", help="忽略 ETag 快取"),
+    dataset_id: str | None = typer.Option(None, "--id", help="Download only this dataset ID"),
+    no_cache: bool = typer.Option(False, "--no-cache", help="Bypass ETag cache"),
 ) -> None:
-    """下載 dataset 資料集。"""
+    """Download datasets."""
     from tw_odc.fetcher import fetch_all
 
     pkg_dir = _get_dataset_dir(ctx)
@@ -226,7 +237,7 @@ def dataset_download(
     if dataset_id:
         filtered = [ds for ds in manifest["datasets"] if str(ds["id"]) == dataset_id]
         if not filtered:
-            print(f"錯誤: 找不到 ID 為 {dataset_id} 的資料集", file=sys.stderr)
+            print(f"E006: {t('E006', id=dataset_id)}", file=sys.stderr)
             raise typer.Exit(code=1)
         dl_manifest = {**manifest, "datasets": filtered}
 
@@ -236,10 +247,10 @@ def dataset_download(
 @dataset_app.command("check")
 def dataset_check(
     ctx: typer.Context,
-    dataset_id: str | None = typer.Option(None, "--id", help="只檢查指定 ID 的資料集"),
-    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="輸出格式"),
+    dataset_id: str | None = typer.Option(None, "--id", help="Check only this dataset ID"),
+    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
 ) -> None:
-    """檢查已下載的資料集。"""
+    """Check downloaded datasets."""
     from tw_odc.inspector import inspect_dataset
 
     pkg_dir = _get_dataset_dir(ctx)
@@ -250,7 +261,7 @@ def dataset_check(
     if dataset_id:
         targets = [ds for ds in targets if str(ds["id"]) == dataset_id]
         if not targets:
-            print(f"錯誤: 找不到 ID 為 {dataset_id} 的資料集", file=sys.stderr)
+            print(f"E006: {t('E006', id=dataset_id)}", file=sys.stderr)
             raise typer.Exit(code=1)
 
     results = []
@@ -272,10 +283,10 @@ def dataset_check(
 @dataset_app.command("score")
 def dataset_score(
     ctx: typer.Context,
-    dataset_id: str | None = typer.Option(None, "--id", help="只評分指定 ID 的資料集"),
-    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="輸出格式"),
+    dataset_id: str | None = typer.Option(None, "--id", help="Score only this dataset ID"),
+    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
 ) -> None:
-    """對已下載的資料集進行 5-Star 評分。"""
+    """Score downloaded datasets using the 5-Star model."""
     from tw_odc.inspector import inspect_dataset
     from tw_odc.scorer import score_dataset
 
@@ -287,7 +298,7 @@ def dataset_score(
     if dataset_id:
         targets = [ds for ds in targets if str(ds["id"]) == dataset_id]
         if not targets:
-            print(f"錯誤: 找不到 ID 為 {dataset_id} 的資料集", file=sys.stderr)
+            print(f"E006: {t('E006', id=dataset_id)}", file=sys.stderr)
             raise typer.Exit(code=1)
 
     results = []
@@ -302,10 +313,10 @@ def dataset_score(
 @dataset_app.command("clean")
 def dataset_clean(
     ctx: typer.Context,
-    dataset_id: str | None = typer.Option(None, "--id", help="只清除指定 ID 的檔案"),
-    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="輸出格式"),
+    dataset_id: str | None = typer.Option(None, "--id", help="Clean only this dataset ID"),
+    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
 ) -> None:
-    """清除下載的檔案。"""
+    """Clean downloaded files."""
     pkg_dir = _get_dataset_dir(ctx)
     manifest = _load_and_check(pkg_dir, ManifestType.DATASET)
 
@@ -314,7 +325,7 @@ def dataset_clean(
 
         matched = [ds for ds in manifest["datasets"] if str(ds["id"]) == dataset_id]
         if not matched:
-            print(f"錯誤: 找不到 ID 為 {dataset_id} 的資料集", file=sys.stderr)
+            print(f"E006: {t('E006', id=dataset_id)}", file=sys.stderr)
             raise typer.Exit(code=1)
         urls = matched[0].get("urls", [])
         removed = clean_dataset(pkg_dir, dataset_id, urls)
