@@ -214,7 +214,7 @@ async def fetch_all(init_file: str, concurrency: int = 5, only: str | None = Non
                     no_verify.check_hostname = False
                     no_verify.verify_mode = ssl.CERT_NONE
                     no_verify_connector = aiohttp.TCPConnector(ssl=no_verify)
-                    async with aiohttp.ClientSession(connector=no_verify_connector) as retry_session:
+                    async with aiohttp.ClientSession(connector=no_verify_connector, trust_env=True) as retry_session:
                         result = await _do_download(retry_session, url, dest, progress, ssl_ctx=no_verify)
                         if result == "downloaded":
                             size = dest.stat().st_size
@@ -235,7 +235,7 @@ async def fetch_all(init_file: str, concurrency: int = 5, only: str | None = Non
         DownloadColumn(),
         TransferSpeedColumn(),
     ) as progress:
-        async with aiohttp.ClientSession(connector=connector) as session:
+        async with aiohttp.ClientSession(connector=connector, trust_env=True) as session:
             await asyncio.gather(
                 *[_download(session, url, dest, progress) for url, dest in downloads]
             )

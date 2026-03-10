@@ -1,0 +1,1512 @@
+{
+  "provider": "台灣電力股份有限公司",
+  "slug": "service_taipower_com_tw",
+  "datasets": [
+    {
+      "id": "20421",
+      "name": "經濟部主管核能發電後端營運基金決算資料",
+      "format": "xml",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018007/001.xml",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018007/002.xml",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018007/003.xml"
+      ]
+    },
+    {
+      "id": "24945",
+      "name": "台灣電力公司近三年每日尖峰備轉容量率",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006004/001.csv"
+      ]
+    },
+    {
+      "id": "24959",
+      "name": "台灣電力公司台電委託調查研究案",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d546004/001.csv"
+      ]
+    },
+    {
+      "id": "8931",
+      "name": "台灣電力公司各機組發電量即時資訊(含外購電力)",
+      "format": "json",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006001/001.json"
+      ]
+    },
+    {
+      "id": "6570",
+      "name": "台灣電力公司服務據點相關資訊",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007001/001.csv"
+      ]
+    },
+    {
+      "id": "16960",
+      "name": "台灣電力公司二次變電所主變壓器裝置容量及負載",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077002/001.csv"
+      ]
+    },
+    {
+      "id": "16955",
+      "name": "台灣電力公司人力分布",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d096010/001.csv"
+      ]
+    },
+    {
+      "id": "16883",
+      "name": "台灣電力公司公司債",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d010003/001.csv"
+      ]
+    },
+    {
+      "id": "17060",
+      "name": "台灣電力公司各類電價表及計算範例",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007008/001.csv"
+      ]
+    },
+    {
+      "id": "17062",
+      "name": "台灣電力公司住宅用戶每月平均用電度數及電費",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007004/001.csv"
+      ]
+    },
+    {
+      "id": "17051",
+      "name": "台灣電力公司電價小常識",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007006/001.csv"
+      ]
+    },
+    {
+      "id": "17081",
+      "name": "台灣電力公司電價調整近況",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007010/001.csv"
+      ]
+    },
+    {
+      "id": "17144",
+      "name": "台灣電力公司總管理處圖書室館藏",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d014002/001.csv"
+      ]
+    },
+    {
+      "id": "10859",
+      "name": "台灣電力公司近10年核能發電績效及減碳效益",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d056002/001.csv"
+      ]
+    },
+    {
+      "id": "18917",
+      "name": "台灣電力公司會計報表",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018006/001.zip"
+      ]
+    },
+    {
+      "id": "33462",
+      "name": "台灣電力公司未來一週電力供需預測",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006007/001.csv"
+      ]
+    },
+    {
+      "id": "29949",
+      "name": "台灣電力公司現有員工教育程度",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d096005/001.csv"
+      ]
+    },
+    {
+      "id": "29952",
+      "name": "台灣電力公司燃料油採購價格及數量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d009004/001.csv"
+      ]
+    },
+    {
+      "id": "29961",
+      "name": "台灣電力公司風機發電量及發電時數統計表",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d693004/001.csv"
+      ]
+    },
+    {
+      "id": "29937",
+      "name": "台灣電力公司員工清廉度調查報告",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d057001/001.csv"
+      ]
+    },
+    {
+      "id": "29940",
+      "name": "台灣電力公司惜物網拍賣金額",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d008001/001.csv"
+      ]
+    },
+    {
+      "id": "29944",
+      "name": "台灣電力公司柴油採購價格及數量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d009005/001.csv"
+      ]
+    },
+    {
+      "id": "29948",
+      "name": "台灣電力公司現有員工人數",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d096004/001.csv"
+      ]
+    },
+    {
+      "id": "32985",
+      "name": "台灣電力公司汽電共生購電實績",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007015/001.csv"
+      ]
+    },
+    {
+      "id": "33662",
+      "name": "台灣電力公司近十年各類型火力機組可用率",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d004005/001.csv"
+      ]
+    },
+    {
+      "id": "38959",
+      "name": "台灣電力公司各縣市年度住宅、服務業、機關及工業用電比例",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007019/001.csv"
+      ]
+    },
+    {
+      "id": "37326",
+      "name": "台灣電力公司各區域間過去電力潮流量",
+      "format": "json",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006009/001.json"
+      ]
+    },
+    {
+      "id": "37711",
+      "name": "台灣電力公司核能電廠事件通報",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d056004/001.csv"
+      ]
+    },
+    {
+      "id": "44163",
+      "name": "台灣電力公司煙道資料即時量測值",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d004012/001.csv"
+      ]
+    },
+    {
+      "id": "44208",
+      "name": "台灣電力公司雲林縣再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/YUNLIN.zip"
+      ]
+    },
+    {
+      "id": "44194",
+      "name": "台灣電力公司新北市再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/NEWTAIPEI.zip"
+      ]
+    },
+    {
+      "id": "44204",
+      "name": "台灣電力公司嘉義縣市再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/CHIAYI.zip"
+      ]
+    },
+    {
+      "id": "83434",
+      "name": "台灣電力公司雲林縣非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/010.csv"
+      ]
+    },
+    {
+      "id": "83422",
+      "name": "台灣電力公司台北市非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/002.csv"
+      ]
+    },
+    {
+      "id": "83427",
+      "name": "台灣電力公司桃園市非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data//opendata/apply/file/d007021/004.csv"
+      ]
+    },
+    {
+      "id": "83429",
+      "name": "台灣電力公司新竹市非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/005.csv"
+      ]
+    },
+    {
+      "id": "83431",
+      "name": "台灣電力公司苗栗縣非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/007.csv"
+      ]
+    },
+    {
+      "id": "83634",
+      "name": "台灣電力公司屏東縣非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/015.csv"
+      ]
+    },
+    {
+      "id": "83704",
+      "name": "台灣電力公司花蓮縣非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/018.csv"
+      ]
+    },
+    {
+      "id": "133848",
+      "name": "核能發電後端營運基金放射性廢棄物貯存及核電廠除役完成前回饋要點",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d078002/001.csv"
+      ]
+    },
+    {
+      "id": "122524",
+      "name": "台灣電力公司新北市電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/New_Taipei_City.csv"
+      ]
+    },
+    {
+      "id": "111479",
+      "name": "台灣電力公司基隆市再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/KEELUNG.zip"
+      ]
+    },
+    {
+      "id": "111483",
+      "name": "台灣電力公司花蓮縣再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/HUALIEN.zip"
+      ]
+    },
+    {
+      "id": "111484",
+      "name": "台灣電力公司台東縣再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/TAITUNG.zip"
+      ]
+    },
+    {
+      "id": "139306",
+      "name": "台灣電力公司新竹市電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Hsinchu_City.csv"
+      ]
+    },
+    {
+      "id": "139317",
+      "name": "台灣電力公司嘉義縣電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Chiayi_County.csv"
+      ]
+    },
+    {
+      "id": "139318",
+      "name": "台灣電力公司屏東縣電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Pingtung_County.csv"
+      ]
+    },
+    {
+      "id": "162179",
+      "name": "台灣電力公司年齡年資分布",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d096008/001.csv"
+      ]
+    },
+    {
+      "id": "165894",
+      "name": "台灣電力公司出租作電動機車電池交換站使用之租賃據點 ",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d010004/001.csv"
+      ]
+    },
+    {
+      "id": "166557",
+      "name": "台灣電力公司出租臨時平面停車場土地設置充電樁分布",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d063001/001.csv"
+      ]
+    },
+    {
+      "id": "166611",
+      "name": "台灣電力公司「電源不足時期限制用電辦法」執行及通報機制",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006023/001.csv"
+      ]
+    },
+    {
+      "id": "9711",
+      "name": "台灣電力公司年度委託研究主題及研究重點",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d546001/001.csv"
+      ]
+    },
+    {
+      "id": "9749",
+      "name": "台灣電力公司近三年澳煤現貨離岸價格(NEX)季平均",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d009002/001.csv"
+      ]
+    },
+    {
+      "id": "12755",
+      "name": "經濟部主管核能發電後端營運基金預算案主要表",
+      "format": "xml",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018004/001.xml",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018004/002.xml"
+      ]
+    },
+    {
+      "id": "10855",
+      "name": "台灣電力公司重要電業經營績效",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d003007/001.csv"
+      ]
+    },
+    {
+      "id": "10856",
+      "name": "台灣電力公司各種發電方式之發電成本",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018001/001.csv"
+      ]
+    },
+    {
+      "id": "10857",
+      "name": "台灣電力公司財務資訊",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018002/001.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018002/002.csv"
+      ]
+    },
+    {
+      "id": "10858",
+      "name": "台灣電力公司核能發電廠位置及機組設備",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d056001/001.csv"
+      ]
+    },
+    {
+      "id": "29930",
+      "name": "台灣電力公司前三年度促進電力發展營運協助金核定案件、捐助、會費、委託調查研究公佈事項",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d075001/001.zip"
+      ]
+    },
+    {
+      "id": "29932",
+      "name": "台灣電力公司各單位申請台灣職安衛管理系統(TOSHMS)驗證登錄情形一覽表",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d062002/001.csv"
+      ]
+    },
+    {
+      "id": "29954",
+      "name": "台灣電力公司第七輸變電計畫歷年加入系統新增變電所數量",
+      "format": "json",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d653001/001.json"
+      ]
+    },
+    {
+      "id": "29956",
+      "name": "台灣電力公司訓練所核能、水火力電廠員工及承包商技術檢定統計資料",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d513002/001.zip"
+      ]
+    },
+    {
+      "id": "29935",
+      "name": "台灣電力公司各縣市住宅、服務業及機關用電統計資料",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007012/001.csv"
+      ]
+    },
+    {
+      "id": "29936",
+      "name": "台灣電力公司各縣市再生能源別購入情形",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007011/001.csv"
+      ]
+    },
+    {
+      "id": "29939",
+      "name": "台灣電力公司廉政會報會議紀錄",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d057002/001.csv"
+      ]
+    },
+    {
+      "id": "29941",
+      "name": "台灣電力公司招標決標件數比較表",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d008002/001.csv"
+      ]
+    },
+    {
+      "id": "30242",
+      "name": "台灣電力公司電價及單位成本結構比較",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018010/001.csv"
+      ]
+    },
+    {
+      "id": "30184",
+      "name": "台灣電力公司電源開發方案",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d015002/001.csv"
+      ]
+    },
+    {
+      "id": "33305",
+      "name": "台灣電力公司電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077006/all.csv"
+      ]
+    },
+    {
+      "id": "35392",
+      "name": "台灣電力公司發購電量(能源別)及公用售電業售電量(用途別)",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d003005/001.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d003005/002.csv"
+      ]
+    },
+    {
+      "id": "32986",
+      "name": "台灣電力公司太陽光電購電實績",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007018/001.csv"
+      ]
+    },
+    {
+      "id": "32987",
+      "name": "台灣電力公司風力購電實績",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007017/001.csv"
+      ]
+    },
+    {
+      "id": "61139",
+      "name": "台灣電力公司落雷即時資料",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d546005/001.csv"
+      ]
+    },
+    {
+      "id": "44193",
+      "name": "台灣電力公司台北市再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/TAIPEI.zip"
+      ]
+    },
+    {
+      "id": "44202",
+      "name": "台灣電力公司台南市再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/TAINAN.zip"
+      ]
+    },
+    {
+      "id": "44206",
+      "name": "台灣電力公司苗栗縣再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/MIAOLI.zip"
+      ]
+    },
+    {
+      "id": "44207",
+      "name": "台灣電力公司彰化縣再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/CHANGHUA.zip"
+      ]
+    },
+    {
+      "id": "80285",
+      "name": "台灣電力公司新竹縣市再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/HSINCHU.zip"
+      ]
+    },
+    {
+      "id": "83426",
+      "name": "台灣電力公司新北市非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/003.csv"
+      ]
+    },
+    {
+      "id": "83430",
+      "name": "台灣電力公司新竹縣非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/006.csv"
+      ]
+    },
+    {
+      "id": "83432",
+      "name": "台灣電力公司台中市非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/008.csv"
+      ]
+    },
+    {
+      "id": "83433",
+      "name": "台灣電力公司彰化縣非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/009.csv"
+      ]
+    },
+    {
+      "id": "83624",
+      "name": "台灣電力公司高雄市非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/014.csv"
+      ]
+    },
+    {
+      "id": "83619",
+      "name": "台灣電力公司嘉義縣非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/011.csv"
+      ]
+    },
+    {
+      "id": "83735",
+      "name": "台灣電力公司台東縣非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data//opendata/apply/file/d007021/019.csv"
+      ]
+    },
+    {
+      "id": "26140",
+      "name": "台灣電力公司路平專區",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077003/001.csv"
+      ]
+    },
+    {
+      "id": "26145",
+      "name": "台灣電力公司配電線路地下化規劃原則",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077001/001.csv"
+      ]
+    },
+    {
+      "id": "20424",
+      "name": "經濟部主管核能發電後端營運基金會計月報",
+      "format": "xml",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018008/001.xml",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018008/002.xml",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018008/003.xml"
+      ]
+    },
+    {
+      "id": "16874",
+      "name": "台灣電力公司超高壓及一次變電所主變壓器裝置容量及負載",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d005001/001.csv"
+      ]
+    },
+    {
+      "id": "17080",
+      "name": "台灣電力公司各國電價比較",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007009/001.csv"
+      ]
+    },
+    {
+      "id": "17052",
+      "name": "台灣電力公司電價種類及適用範圍",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007007/001.csv"
+      ]
+    },
+    {
+      "id": "33581",
+      "name": "台灣電力公司近十年火力機組大修紀錄",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d004003/001.csv"
+      ]
+    },
+    {
+      "id": "33582",
+      "name": "台灣電力公司近十年水力機組大修紀錄",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d004006/001.csv"
+      ]
+    },
+    {
+      "id": "33583",
+      "name": "台灣電力公司核一、二、三及龍門廠機組歷次大修紀錄相關資料",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d056003/001.csv"
+      ]
+    },
+    {
+      "id": "102210",
+      "name": "台灣電力公司需量競價執行成效",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007022/001.csv"
+      ]
+    },
+    {
+      "id": "103262",
+      "name": "台灣電力公司未來二個月電力供需預測",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006014/001.csv"
+      ]
+    },
+    {
+      "id": "111480",
+      "name": "台灣電力公司南投縣再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/NANTOU.zip"
+      ]
+    },
+    {
+      "id": "122521",
+      "name": "台灣電力公司年度電燈營業用戶(依行業別)售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007023/001.csv"
+      ]
+    },
+    {
+      "id": "122036",
+      "name": "台灣電力公司年度線路損失量(率)",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006016/001.csv"
+      ]
+    },
+    {
+      "id": "122738",
+      "name": "台灣電力公司臺中市電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Taichung_City.csv"
+      ]
+    },
+    {
+      "id": "122741",
+      "name": "台灣電力公司配電系統重大事故停電速報案件記錄",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077011/001.csv"
+      ]
+    },
+    {
+      "id": "139305",
+      "name": "台灣電力公司基隆市電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Keelung_City.csv"
+      ]
+    },
+    {
+      "id": "139307",
+      "name": "台灣電力公司新竹縣電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Hsinchu_County.csv"
+      ]
+    },
+    {
+      "id": "139319",
+      "name": "台灣電力公司宜蘭縣電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Yilan_County.csv"
+      ]
+    },
+    {
+      "id": "162178",
+      "name": "台灣電力公司歷年平均年齡",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d096007/001.csv"
+      ]
+    },
+    {
+      "id": "162740",
+      "name": "台灣電力公司小商店用戶每月平均用電度數及電費",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007026/001.csv"
+      ]
+    },
+    {
+      "id": "162596",
+      "name": "台灣電力公司今日區域別用電情況",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006019/001.csv"
+      ]
+    },
+    {
+      "id": "166244",
+      "name": "台灣電力公司蒐整國際電業公司每戶停電時間及每戶停電次數",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d003008/001.csv"
+      ]
+    },
+    {
+      "id": "166619",
+      "name": "台灣電力公司輸變電計畫資訊",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d023004/001.csv"
+      ]
+    },
+    {
+      "id": "166609",
+      "name": "台灣電力公司發電機組發電排程與系統備轉容量之調度規劃",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006021/001.csv"
+      ]
+    },
+    {
+      "id": "166642",
+      "name": "台灣電力公司郝明義提問配電變壓器採V-V接線疑義",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077013/001.csv"
+      ]
+    },
+    {
+      "id": "161296",
+      "name": "台灣電力公司年度電力品質報告",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006018/001.csv"
+      ]
+    },
+    {
+      "id": "44799",
+      "name": "台灣電力公司電力維生管線災情資訊",
+      "format": "xml",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006012/001.xml"
+      ]
+    },
+    {
+      "id": "6064",
+      "name": "台灣電力公司公用售電業售電統計資料",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d003001/001.csv"
+      ]
+    },
+    {
+      "id": "8307",
+      "name": "台灣電力公司歷年尖峰負載及備用容量率",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d003002/001.csv"
+      ]
+    },
+    {
+      "id": "17140",
+      "name": "台灣電力公司自建之各類再生能源發電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d693001/001.csv"
+      ]
+    },
+    {
+      "id": "17141",
+      "name": "台灣電力公司再生能源各場址資料",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d693002/001.csv"
+      ]
+    },
+    {
+      "id": "9748",
+      "name": "台灣電力公司提供近三年日澳長約年度價格",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d009001/001.csv"
+      ]
+    },
+    {
+      "id": "9750",
+      "name": "台灣電力公司天然氣採購價格及數量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d009003/001.csv"
+      ]
+    },
+    {
+      "id": "9710",
+      "name": "台灣電力公司蘭嶼居民生活環境與飲食習慣調查",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d078001/001.csv"
+      ]
+    },
+    {
+      "id": "16825",
+      "name": "台灣電力公司志工活動",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d014001/001.csv"
+      ]
+    },
+    {
+      "id": "16877",
+      "name": "台灣電力公司變電所電磁場資訊",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d005002/001.zip"
+      ]
+    },
+    {
+      "id": "16884",
+      "name": "台灣電力公司信用評等",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d010002/001.csv"
+      ]
+    },
+    {
+      "id": "19995",
+      "name": "台灣電力公司過去電力供需資訊",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006005/001.csv"
+      ]
+    },
+    {
+      "id": "14135",
+      "name": "台灣電力公司鄉鎮市(郵遞區)別用電統計資料",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_115.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_104.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_105.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_106.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_107.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_108.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_109.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_110.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_111.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_112.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_113.csv",
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007025/dist_kwh_114.csv"
+      ]
+    },
+    {
+      "id": "18911",
+      "name": "台灣電力公司決算主要表",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018005/001.zip"
+      ]
+    },
+    {
+      "id": "31966",
+      "name": "台灣電力公司公用售電業之電力營業用戶(依行業別)售電量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d003004/001.zip"
+      ]
+    },
+    {
+      "id": "29950",
+      "name": "台灣電力公司當年度促進電力發展營運協助金核定案件、捐助、會費、委託調查研究公佈事項",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d075002/001.csv"
+      ]
+    },
+    {
+      "id": "29953",
+      "name": "台灣電力公司第七輸變電計畫歷年加入系統新增CKM數",
+      "format": "json",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d653002/001.json"
+      ]
+    },
+    {
+      "id": "29955",
+      "name": "台灣電力公司訓練所接受代訓統計資料",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d513003/001.csv"
+      ]
+    },
+    {
+      "id": "29957",
+      "name": "台灣電力公司近3年決算書",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018009/001.csv"
+      ]
+    },
+    {
+      "id": "29959",
+      "name": "台灣電力公司電路出租業務公開招租須知",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d545002/001.csv"
+      ]
+    },
+    {
+      "id": "29929",
+      "name": "台灣電力公司供電系統介紹",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d023002/001.csv"
+      ]
+    },
+    {
+      "id": "29931",
+      "name": "台灣電力公司可靠供電考慮要項",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d023003/001.csv"
+      ]
+    },
+    {
+      "id": "29933",
+      "name": "台灣電力公司各年度再生能源別裝置容量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007013/001.csv"
+      ]
+    },
+    {
+      "id": "29934",
+      "name": "台灣電力公司各煤源國燃煤採購數量暨比例",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d009006/001.csv"
+      ]
+    },
+    {
+      "id": "29938",
+      "name": "台灣電力公司太陽光電發電量及平均單位裝置容量每日發電量統計表",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d693003/001.csv"
+      ]
+    },
+    {
+      "id": "29945",
+      "name": "台灣電力公司被核安會開立違規事項",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d054001/001.csv"
+      ]
+    },
+    {
+      "id": "29947",
+      "name": "台灣電力公司火力發電溫室氣體排放量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d061002/001.csv"
+      ]
+    },
+    {
+      "id": "35393",
+      "name": "台灣電力公司未來兩年機組大修停機排程",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006008/001.csv"
+      ]
+    },
+    {
+      "id": "33463",
+      "name": "台灣電力公司105~109年度表燈用電不及底度用戶數",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007014/001.csv"
+      ]
+    },
+    {
+      "id": "12336",
+      "name": "台灣電力公司預算主要表",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d018003/001.csv"
+      ]
+    },
+    {
+      "id": "8934",
+      "name": "台灣電力公司水火力發電廠位置及機組設備",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d004011/001.csv"
+      ]
+    },
+    {
+      "id": "25846",
+      "name": "台灣電力公司新聞稿",
+      "format": "xml",
+      "urls": [
+        "https://www.taipower.com.tw/2289/2323/2324/rss"
+      ]
+    },
+    {
+      "id": "25850",
+      "name": "台灣電力公司本年度每日尖峰備轉容量率",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006002/001.csv"
+      ]
+    },
+    {
+      "id": "26141",
+      "name": "台灣電力公司配電工程承攬商工安罰款",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077005/001.csv"
+      ]
+    },
+    {
+      "id": "26144",
+      "name": "台灣電力公司計畫性工作停電資料",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077004/001.zip"
+      ]
+    },
+    {
+      "id": "30151",
+      "name": "台灣電力公司溫室氣體排放係數",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d061001/001.csv"
+      ]
+    },
+    {
+      "id": "32988",
+      "name": "台灣電力公司水力購電實績",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007016/001.csv"
+      ]
+    },
+    {
+      "id": "83620",
+      "name": "台灣電力公司嘉義市非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data//opendata/apply/file/d007021/012.csv"
+      ]
+    },
+    {
+      "id": "83622",
+      "name": "台灣電力公司台南市非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data//opendata/apply/file/d007021/013.csv"
+      ]
+    },
+    {
+      "id": "83418",
+      "name": "台灣電力公司基隆市非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/001.csv"
+      ]
+    },
+    {
+      "id": "83644",
+      "name": "台灣電力公司南投縣非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/016.csv"
+      ]
+    },
+    {
+      "id": "83650",
+      "name": "台灣電力公司宜蘭縣非營業用戶售電量",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007021/017.csv"
+      ]
+    },
+    {
+      "id": "61177",
+      "name": "台灣電力公司公文線上簽核應用",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d014003/001.csv"
+      ]
+    },
+    {
+      "id": "44209",
+      "name": "台灣電力公司屏東縣再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/PINGTUNG.zip"
+      ]
+    },
+    {
+      "id": "44195",
+      "name": "台灣電力公司桃園市再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/TAOYUAN.zip"
+      ]
+    },
+    {
+      "id": "44196",
+      "name": "台灣電力公司台中市再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/TAICHUNG.zip"
+      ]
+    },
+    {
+      "id": "44203",
+      "name": "台灣電力公司高雄市再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/KAOHSIUNG.zip"
+      ]
+    },
+    {
+      "id": "103046",
+      "name": "台灣電力公司近5年系統概況",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006013/001.csv"
+      ]
+    },
+    {
+      "id": "42326",
+      "name": "台灣電力公司核設施輻射監測即時資料",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d525001/001.csv"
+      ]
+    },
+    {
+      "id": "122523",
+      "name": "台灣電力公司臺北市電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Taipei_City.csv"
+      ]
+    },
+    {
+      "id": "122737",
+      "name": "台灣電力公司桃園市電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Taoyuan_City.csv"
+      ]
+    },
+    {
+      "id": "122739",
+      "name": "台灣電力公司臺南市電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Tainan_City.csv"
+      ]
+    },
+    {
+      "id": "122740",
+      "name": "台灣電力公司高雄市電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Kaohsiung_City.csv"
+      ]
+    },
+    {
+      "id": "122035",
+      "name": "台灣電力公司年度備轉容量彙整",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006015/001.csv"
+      ]
+    },
+    {
+      "id": "139348",
+      "name": "台灣電力公司被核安會開立注意改進事項",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d054002/001.csv"
+      ]
+    },
+    {
+      "id": "139324",
+      "name": "台灣電力公司臺東縣電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Taitung_County.csv"
+      ]
+    },
+    {
+      "id": "139310",
+      "name": "台灣電力公司苗栗縣電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Miaoli_County.csv"
+      ]
+    },
+    {
+      "id": "139312",
+      "name": "台灣電力公司南投縣電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Nantou_County.csv"
+      ]
+    },
+    {
+      "id": "139313",
+      "name": "台灣電力公司彰化縣電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Changhua_County.csv"
+      ]
+    },
+    {
+      "id": "139314",
+      "name": "台灣電力公司雲林縣電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Yunlin_County.csv"
+      ]
+    },
+    {
+      "id": "139315",
+      "name": "台灣電力公司嘉義市電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Chiayi_City.csv"
+      ]
+    },
+    {
+      "id": "139320",
+      "name": "台灣電力公司花蓮縣電桿坐標及桿號",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077010/Hualien_County.csv"
+      ]
+    },
+    {
+      "id": "111481",
+      "name": "台灣電力公司宜蘭縣再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/YILAN.zip"
+      ]
+    },
+    {
+      "id": "133849",
+      "name": "台灣電力公司核電廠除役期間地方回饋金估列及支出情形",
+      "format": "csv",
+      "urls": [
+        "https://www.nbef.org.tw/downloads/expenditure/"
+      ]
+    },
+    {
+      "id": "161874",
+      "name": "台灣電力公司全國各縣市再生能源可併網容量",
+      "format": "zip",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077009/001.zip"
+      ]
+    },
+    {
+      "id": "162177",
+      "name": "台灣電力公司歷年員工人數",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d096006/001.csv"
+      ]
+    },
+    {
+      "id": "162180",
+      "name": "台灣電力公司業務量及員工人數",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d096009/001.csv"
+      ]
+    },
+    {
+      "id": "152419",
+      "name": "台灣電力公司各縣市路燈用電量統計",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d007002/001.csv"
+      ]
+    },
+    {
+      "id": "162595",
+      "name": "台灣電力公司今日系統供需狀況",
+      "format": "json",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006020/001.json"
+      ]
+    },
+    {
+      "id": "166610",
+      "name": "台灣電力公司電力系統緊急調度原則",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006022/001.csv"
+      ]
+    },
+    {
+      "id": "166643",
+      "name": "台灣電力公司配電線路事故分析",
+      "format": "csv",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d077014/001.csv"
+      ]
+    },
+    {
+      "id": "171197",
+      "name": "台灣電力公司即時說明",
+      "format": "xml",
+      "urls": [
+        "https://www.taipower.com.tw/2289/2323/2332/rss"
+      ]
+    },
+    {
+      "id": "173795",
+      "name": "台灣電力公司澄清專區",
+      "format": "xml",
+      "urls": [
+        "https://www.taipower.com.tw/2289/2323/2333/rss"
+      ]
+    },
+    {
+      "id": "37331",
+      "name": "台灣電力公司各機組過去發電量",
+      "format": "json",
+      "urls": [
+        "https://service.taipower.com.tw/data/opendata/apply/file/d006010/001.json"
+      ]
+    }
+  ]
+}

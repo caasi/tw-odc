@@ -1,0 +1,797 @@
+{
+  "provider": "臺灣港務股份有限公司",
+  "slug": "twport_com_tw",
+  "datasets": [
+    {
+      "id": "20682",
+      "name": "臺中港最近24小時船舶實際進港時間",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=TXG&type=6"
+      ]
+    },
+    {
+      "id": "20684",
+      "name": "臺中港進港預報次序",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=TXG&type=5"
+      ]
+    },
+    {
+      "id": "7782",
+      "name": "高雄港務分公司聯絡電話表",
+      "format": "csv",
+      "urls": [
+        "https://kh.twport.com.tw/fapi/opendata?id=13987&format=csv"
+      ]
+    },
+    {
+      "id": "21239",
+      "name": "臺灣港務股份有限公司資產負債表",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13885&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=13883&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=13884&format=csv"
+      ]
+    },
+    {
+      "id": "10121",
+      "name": "臺灣港務股份有限公司組織架構",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13946&format=csv"
+      ]
+    },
+    {
+      "id": "10197",
+      "name": "臺灣港務股份有限公司統計年報",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13889&format=csv"
+      ]
+    },
+    {
+      "id": "17021",
+      "name": "基隆港非作業船舶最新動態表",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KEL&type=3"
+      ]
+    },
+    {
+      "id": "7311",
+      "name": "基隆港兩岸渡輪船期預報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetForecastData?fid=13"
+      ]
+    },
+    {
+      "id": "8365",
+      "name": "臺灣地區國際商港進出港船舶艘次及噸位",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13869"
+      ]
+    },
+    {
+      "id": "8369",
+      "name": "臺灣地區國際商港貨物吞吐量",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13875"
+      ]
+    },
+    {
+      "id": "8370",
+      "name": "臺灣地區國際商港自由貿易港區貿易量、值",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13876"
+      ]
+    },
+    {
+      "id": "9343",
+      "name": "基隆港國際郵輪船期預報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetForecastData?fid=11"
+      ]
+    },
+    {
+      "id": "11982",
+      "name": "國際商港港埠業務費之項目及費率上限標準表",
+      "format": "csv",
+      "urls": [
+        "https://tc.twport.com.tw/fapi/opendata?id=13550"
+      ]
+    },
+    {
+      "id": "40359",
+      "name": "基隆港國際郵輪船期歷年報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetPastYearsReport?pid=11"
+      ]
+    },
+    {
+      "id": "30255",
+      "name": "我國國際商港船舶減速年統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14005&format=csv"
+      ]
+    },
+    {
+      "id": "48904",
+      "name": "臺灣港務股份有限公司政府資料開放諮詢小組會議紀錄",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14012&format=csv"
+      ]
+    },
+    {
+      "id": "43480",
+      "name": "臺中港進出自動化門哨車輛總數",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14410&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14078&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14076&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14077&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14075&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14074&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14079&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14073&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14409&format=csv"
+      ]
+    },
+    {
+      "id": "43488",
+      "name": "基隆港進出自動化門哨車輛總數",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14054&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14053&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14052&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14050&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14049&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14048&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14051&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14055&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14403&format=csv"
+      ]
+    },
+    {
+      "id": "41898",
+      "name": "來臺郵輪旅客國籍",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14101&format=csv"
+      ]
+    },
+    {
+      "id": "42762",
+      "name": "臺灣地區國際商港進港船舶按船種分",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13872"
+      ]
+    },
+    {
+      "id": "157870",
+      "name": "安平港進出自動化門哨車輛總數",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14030&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14039&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14031&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14032&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14033&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14034&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14035&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14037&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14401&format=csv"
+      ]
+    },
+    {
+      "id": "161479",
+      "name": "安平港國際郵輪船期預報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetForecastData?fid=71"
+      ]
+    },
+    {
+      "id": "161485",
+      "name": "基隆港務分公司聯絡電話表",
+      "format": "csv",
+      "urls": [
+        "https://kl.twport.com.tw/fapi/opendata?id=13665"
+      ]
+    },
+    {
+      "id": "161492",
+      "name": "基隆港務分公司單位職掌",
+      "format": "csv",
+      "urls": [
+        "https://kl.twport.com.tw/fapi/opendata?id=13657"
+      ]
+    },
+    {
+      "id": "161493",
+      "name": "臺北港兩岸渡輪船期預報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetForecastData?fid=23"
+      ]
+    },
+    {
+      "id": "161495",
+      "name": "臺北港兩岸渡輪船期歷年報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetPastYearsReport?pid=23"
+      ]
+    },
+    {
+      "id": "161498",
+      "name": "蘇澳港國際郵輪船期歷年報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetPastYearsReport?pid=63"
+      ]
+    },
+    {
+      "id": "159004",
+      "name": "臺灣港務股份有限公司聯絡電話表",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13997&format=csv"
+      ]
+    },
+    {
+      "id": "159058",
+      "name": "臺中港務分公司聯絡電話表",
+      "format": "csv",
+      "urls": [
+        "https://tc.twport.com.tw/fapi/opendata?id=13549&format=csv"
+      ]
+    },
+    {
+      "id": "174523",
+      "name": "臺灣港務股份有限公司文宣",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14884"
+      ]
+    },
+    {
+      "id": "8111",
+      "name": "花蓮港船舶即時動態",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=HUN&type=6",
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=HUN&type=7"
+      ]
+    },
+    {
+      "id": "8114",
+      "name": "花蓮港移錨預報",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=HUN&type=4"
+      ]
+    },
+    {
+      "id": "6141",
+      "name": "花蓮港國際郵輪船期預報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetForecastData?fid=51"
+      ]
+    },
+    {
+      "id": "40358",
+      "name": "花蓮港國際郵輪船期歷年報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetPastYearsReport?pid=51"
+      ]
+    },
+    {
+      "id": "67140",
+      "name": "花蓮港區碼頭設施",
+      "format": "csv",
+      "urls": [
+        "https://hl.twport.com.tw/fapi/opendata?id=13564&format=csv"
+      ]
+    },
+    {
+      "id": "10193",
+      "name": "臺灣港務股份有限公司招標資訊",
+      "format": "json",
+      "urls": [
+        "https://www.twport.com.tw/OpenDataApi/api/News/Tender?lang=zh-TW&company=TPIC&format=json"
+      ]
+    },
+    {
+      "id": "10341",
+      "name": "臺灣港務股份有限公司附屬單位預算",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13887"
+      ]
+    },
+    {
+      "id": "10343",
+      "name": "臺灣港務股份有限公司附屬單位決算",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13888"
+      ]
+    },
+    {
+      "id": "10236",
+      "name": "臺灣港務股份有限公司單位職掌",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13996&format=csv"
+      ]
+    },
+    {
+      "id": "8367",
+      "name": "臺灣地區國際商港貨物裝卸量",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13877"
+      ]
+    },
+    {
+      "id": "6140",
+      "name": "高雄港國際郵輪船期預報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetForecastData?fid=41"
+      ]
+    },
+    {
+      "id": "40353",
+      "name": "高雄港國際郵輪船期歷年報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetPastYearsReport?pid=41"
+      ]
+    },
+    {
+      "id": "40357",
+      "name": "臺中港國際郵輪船期歷年報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetPastYearsReport?pid=31"
+      ]
+    },
+    {
+      "id": "40461",
+      "name": "國際商港土地使用分區及未來發展藍圖",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13998&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=13998&format=json"
+      ]
+    },
+    {
+      "id": "49797",
+      "name": "臺灣港務股份有限公司損益表",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13882&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=13881&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=13880&format=csv"
+      ]
+    },
+    {
+      "id": "44825",
+      "name": "臺中港兩岸渡輪船期預報表",
+      "format": "api",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetForecastData?fid=33"
+      ]
+    },
+    {
+      "id": "25239",
+      "name": "高雄港移錨預報",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KHH&type=4"
+      ]
+    },
+    {
+      "id": "17174",
+      "name": "基隆港當日船席指泊明細表",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KEL&type=1"
+      ]
+    },
+    {
+      "id": "20686",
+      "name": "臺中港非作業船舶最新動態表",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=TXG&type=3"
+      ]
+    },
+    {
+      "id": "17017",
+      "name": "基隆港最近24小時船舶實際進/出港時間",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KEL&type=7"
+      ]
+    },
+    {
+      "id": "17018",
+      "name": "基隆港進港預報次序",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KEL&type=5"
+      ]
+    },
+    {
+      "id": "17020",
+      "name": "基隆港移錨預報",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KEL&type=4"
+      ]
+    },
+    {
+      "id": "43479",
+      "name": "高雄港進出自動化門哨車輛總數",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14064&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14404&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14062&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14061&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14059&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14058&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14057&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14060&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14063&format=csv"
+      ]
+    },
+    {
+      "id": "43489",
+      "name": "花蓮港進出自動化門哨車輛總數",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14046&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14045&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14044&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14043&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14041&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14042&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14040&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14402&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14047&format=csv"
+      ]
+    },
+    {
+      "id": "42760",
+      "name": "臺灣地區國際商港進港船舶按地區分",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13870"
+      ]
+    },
+    {
+      "id": "42761",
+      "name": "臺灣地區國際商港進港船舶按國籍分",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13871"
+      ]
+    },
+    {
+      "id": "42763",
+      "name": "臺灣地區國際商港進港船舶按噸位分",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13873"
+      ]
+    },
+    {
+      "id": "158434",
+      "name": "高雄港務分公司單位職掌",
+      "format": "csv",
+      "urls": [
+        "https://kh.twport.com.tw/fapi/opendata?id=13978&format=csv"
+      ]
+    },
+    {
+      "id": "157958",
+      "name": "基隆港務分公司組織架構",
+      "format": "csv",
+      "urls": [
+        "https://kl.twport.com.tw/fapi/opendata?id=13656"
+      ]
+    },
+    {
+      "id": "158167",
+      "name": "高雄港務分公司組織架構",
+      "format": "csv",
+      "urls": [
+        "https://kh.twport.com.tw/fapi/opendata?id=13979&format=csv"
+      ]
+    },
+    {
+      "id": "158977",
+      "name": "臺中港務分公司單位職掌",
+      "format": "csv",
+      "urls": [
+        "https://tc.twport.com.tw/fapi/opendata?id=13537&format=csv"
+      ]
+    },
+    {
+      "id": "161484",
+      "name": "臺中港兩岸渡輪船期歷年報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetPastYearsReport?pid=33"
+      ]
+    },
+    {
+      "id": "161494",
+      "name": "基隆港兩岸渡輪船期歷年報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetPastYearsReport?pid=13"
+      ]
+    },
+    {
+      "id": "161478",
+      "name": "安平港國際郵輪船期歷年報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetPastYearsReport?pid=71"
+      ]
+    },
+    {
+      "id": "161496",
+      "name": "蘇澳港國際郵輪船期預報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetForecastData?fid=63"
+      ]
+    },
+    {
+      "id": "161554",
+      "name": "澎湖港國際郵輪船期歷年報表",
+      "format": "csv",
+      "urls": [
+        "https://kh.twport.com.tw/fapi/opendata?id=13984&format=csv"
+      ]
+    },
+    {
+      "id": "174533",
+      "name": "臺灣港群智慧港口創新科技產業試驗場域推動要點",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14902"
+      ]
+    },
+    {
+      "id": "17191",
+      "name": "花蓮港進港預報",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=HUN&type=5"
+      ]
+    },
+    {
+      "id": "11013",
+      "name": "花蓮港務分公司單位職掌",
+      "format": "csv",
+      "urls": [
+        "https://hl.twport.com.tw/fapi/opendata?id=13568&format=csv"
+      ]
+    },
+    {
+      "id": "8157",
+      "name": "高雄港進港預報次序",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KHH&type=5"
+      ]
+    },
+    {
+      "id": "8133",
+      "name": "臺中港區碼頭設施",
+      "format": "csv",
+      "urls": [
+        "https://tc.twport.com.tw/fapi/opendata?id=13535"
+      ]
+    },
+    {
+      "id": "8368",
+      "name": "臺灣地區國際商港貨櫃裝卸量",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13878"
+      ]
+    },
+    {
+      "id": "17173",
+      "name": "基隆港船席現況明細表",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KEL&type=2"
+      ]
+    },
+    {
+      "id": "10339",
+      "name": "臺灣港務股份有限公司支付或接受之補助",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13886"
+      ]
+    },
+    {
+      "id": "16826",
+      "name": "高雄港最近24小時船舶實際進/出港時間",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KHH&type=7",
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KHH&type=6"
+      ]
+    },
+    {
+      "id": "16831",
+      "name": "高雄港非作業船舶最新動態表",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=KHH&type=3"
+      ]
+    },
+    {
+      "id": "20683",
+      "name": "臺中港最近２４小時船舶實際出港時間",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=TXG&type=7"
+      ]
+    },
+    {
+      "id": "20685",
+      "name": "臺中港移錨預報(依船名/時間)",
+      "format": "xml",
+      "urls": [
+        "https://tpnet.twport.com.tw/IFAWeb/Reports/OpenData/GetOpenData?port=TXG&type=4"
+      ]
+    },
+    {
+      "id": "8366",
+      "name": "臺灣地區國際商港旅客人數",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13879&format=csv"
+      ]
+    },
+    {
+      "id": "44823",
+      "name": "臺中港國際郵輪船期預報表",
+      "format": "csv",
+      "urls": [
+        "https://tpapim-es.twport.com.tw:8065/v1.0/TcsNetOpenApi/GetForecastData?fid=31"
+      ]
+    },
+    {
+      "id": "73218",
+      "name": "基隆港區碼頭設施",
+      "format": "csv",
+      "urls": [
+        "https://kl.twport.com.tw/fapi/opendata?id=13658"
+      ]
+    },
+    {
+      "id": "100783",
+      "name": "高雄港區碼頭設施",
+      "format": "csv",
+      "urls": [
+        "https://kh.twport.com.tw/fapi/opendata?id=13980&format=csv"
+      ]
+    },
+    {
+      "id": "42759",
+      "name": "臺灣地區國際商港進出港貨物國輪與外輪承運量",
+      "format": "wms",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=13874"
+      ]
+    },
+    {
+      "id": "43490",
+      "name": "臺北港進出自動化門哨車輛總數",
+      "format": "csv",
+      "urls": [
+        "https://www.twport.com.tw/fapi/opendata?id=14070&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14069&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14065&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14067&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14071&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14066&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14068&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14405&format=csv",
+        "https://www.twport.com.tw/fapi/opendata?id=14072&format=csv"
+      ]
+    },
+    {
+      "id": "164613",
+      "name": "高雄港港埠業務費之項目及費率標準表",
+      "format": "csv",
+      "urls": [
+        "https://kh.twport.com.tw/fapi/opendata?id=13981&format=csv"
+      ]
+    },
+    {
+      "id": "161555",
+      "name": "澎湖港國際郵輪船期預報表",
+      "format": "csv",
+      "urls": [
+        "https://kh.twport.com.tw/fapi/opendata?id=13985&format=csv"
+      ]
+    },
+    {
+      "id": "157612",
+      "name": "臺中港務分公司組織架構",
+      "format": "csv",
+      "urls": [
+        "https://tc.twport.com.tw/fapi/opendata?id=13573&format=csv"
+      ]
+    },
+    {
+      "id": "166268",
+      "name": "基隆港港埠業務費之項目及費率標準表",
+      "format": "csv",
+      "urls": [
+        "https://kl.twport.com.tw/fapi/opendata?id=13655"
+      ]
+    },
+    {
+      "id": "11012",
+      "name": "花蓮港營運計畫",
+      "format": "csv",
+      "urls": [
+        "https://hl.twport.com.tw/fapi/opendata?id=13563&format=csv"
+      ]
+    },
+    {
+      "id": "11011",
+      "name": "花蓮港港埠業務費之項目及費率標準表",
+      "format": "csv",
+      "urls": [
+        "https://hl.twport.com.tw/fapi/opendata?id=13565&format=csv"
+      ]
+    },
+    {
+      "id": "158002",
+      "name": "花蓮港務分公司組織架構",
+      "format": "csv",
+      "urls": [
+        "https://hl.twport.com.tw/fapi/opendata?id=13570&format=csv"
+      ]
+    },
+    {
+      "id": "158020",
+      "name": "花蓮港務分公司聯絡電話表",
+      "format": "csv",
+      "urls": [
+        "https://hl.twport.com.tw/fapi/opendata?id=13567&format=csv"
+      ]
+    }
+  ]
+}

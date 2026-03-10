@@ -1,0 +1,1639 @@
+{
+  "provider": "交通部觀光署",
+  "slug": "media_taiwan_net_tw",
+  "datasets": [
+    {
+      "id": "7778",
+      "name": "活動 - 觀光資訊資料庫",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/Event-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/Event-json.zip",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Activity_C_f.kml",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Activity_C_f.zip",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Activity_C_f.csv",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/activity_C_f.json",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/activity_C_f.xml"
+      ]
+    },
+    {
+      "id": "7322",
+      "name": "歷年來台旅客統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/12"
+      ]
+    },
+    {
+      "id": "7327",
+      "name": "歷年國內主要遊憩據點遊客人數月別統計",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/歷年國內主要遊憩據點遊客人數月別統計.csv"
+      ]
+    },
+    {
+      "id": "7329",
+      "name": "歷年旅行業導遊人員按性別分析",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/歷年旅行業導遊人員按性別分析.csv"
+      ]
+    },
+    {
+      "id": "8357",
+      "name": "歷年來台旅客職業統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/14"
+      ]
+    },
+    {
+      "id": "8359",
+      "name": "歷年來台旅客搭乘交通工具及入境港口統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/13"
+      ]
+    },
+    {
+      "id": "8360",
+      "name": "歷年中華民國國民出國年齡統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/2"
+      ]
+    },
+    {
+      "id": "31476",
+      "name": "觀光產業聯盟會員名冊資料",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/聯盟名冊.csv"
+      ]
+    },
+    {
+      "id": "31477",
+      "name": "大鵬灣遊憩區遊客人數",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/遊客人數統計.csv"
+      ]
+    },
+    {
+      "id": "38876",
+      "name": "溫泉業務",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/溫泉/溫泉業務－交通部觀光署認可溫泉檢驗機關構團體名單.csv",
+        "https://media.taiwan.net.tw/od/04_TD/溫泉/溫泉業務－取得標章之業者資訊（每季更新）.csv"
+      ]
+    },
+    {
+      "id": "41444",
+      "name": "觀光遊樂業環境資源資料",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/07_DTD/觀光遊樂業-環境資源.csv"
+      ]
+    },
+    {
+      "id": "41639",
+      "name": "印度餐廳",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/05_IAD/Ind_re.csv"
+      ]
+    },
+    {
+      "id": "79244",
+      "name": "觀光發展基金附屬單位分決算",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/112年度觀光發展基金附屬單位分決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年度觀光發展基金附屬單位分決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/110年度觀光發展基金附屬單位分決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/109年度觀光發展基金附屬單位分決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/108年度觀光發展基金附屬單位分決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/107年度觀光發展基金附屬單位分決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/106年度觀光發展基金附屬單位分決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/105年度觀光發展基金附屬單位分決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/104年度觀光發展基金附屬單位分決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/103年度觀光發展基金附屬單位分決算.zip"
+      ]
+    },
+    {
+      "id": "52790",
+      "name": "圖像-觀光多媒體資料庫",
+      "format": "xml",
+      "urls": [
+        "https://media.taiwan.net.tw/api/galleryXml"
+      ]
+    },
+    {
+      "id": "80608",
+      "name": "觀光發展基金附屬單位分預算案",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/觀光發展基金附屬單位分預算案.zip"
+      ]
+    },
+    {
+      "id": "102466",
+      "name": "觀光產業關鍵人才培育計畫國外訪學人次統計",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/02_TTD/關鍵人才.csv"
+      ]
+    },
+    {
+      "id": "93879",
+      "name": "提供旅客資料服務",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/09_TIAC/提供資料.csv"
+      ]
+    },
+    {
+      "id": "94141",
+      "name": "歷年來臺旅客消費及動向調查",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/歷年來臺旅客消費及動向調查.zip"
+      ]
+    },
+    {
+      "id": "102981",
+      "name": "旅館業中階經理人訓練",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/03_HLD/旅館中階經理人訓練人數統計.csv"
+      ]
+    },
+    {
+      "id": "127636",
+      "name": "交通部觀光署-振興三倍券通訊交易適用業者名單",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/userfiles/file/202009290005.csv"
+      ]
+    },
+    {
+      "id": "128805",
+      "name": "觀光遊樂業活動好康",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/07_DTD/觀光遊樂業活動好康資訊.csv"
+      ]
+    },
+    {
+      "id": "140008",
+      "name": "台灣好行搭乘人數統計",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/07_DTD/台灣好行搭乘人數統計_電子票卷.csv"
+      ]
+    },
+    {
+      "id": "176357",
+      "name": "中文-台南正反面",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/22_SC/中文-台南正反面.pdf"
+      ]
+    },
+    {
+      "id": "176359",
+      "name": "出國報告",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/16_ERV/出國報告-日本茨城筑波霞浦林林單車道及其周邊服務設施.pdf"
+      ]
+    },
+    {
+      "id": "176417",
+      "name": "北海岸探奇：觀音山生態旅遊",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/18_NCG/觀音山.pdf"
+      ]
+    },
+    {
+      "id": "176419",
+      "name": "北海岸探奇：和平島情人湖生態旅遊",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/18_NCG/和平島情人湖.pdf"
+      ]
+    },
+    {
+      "id": "176420",
+      "name": "北觀登山趣：北海岸.觀音山.基隆步道隨興慢旅",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/18_NCG/北觀登山趣.pdf"
+      ]
+    },
+    {
+      "id": "176421",
+      "name": "騎遇北海岸=Bikeway",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/18_NCG/騎遇北海岸.pdf"
+      ]
+    },
+    {
+      "id": "176424",
+      "name": "大鵬灣旅遊美拍攻略-中英",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/大鵬灣旅遊美拍攻略-中英.pdf"
+      ]
+    },
+    {
+      "id": "176428",
+      "name": "揮灑大鵬灣美景足跡",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/揮灑大鵬灣美景足跡藝術展 5_17_FINAL.pdf"
+      ]
+    },
+    {
+      "id": "176429",
+      "name": "「大鵬灣風景區觀光總體檢及定位策略再發展計畫」委託服務案成果報告書",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/108-「大鵬灣風景區觀光總體檢及定位策略再發展計畫」委託服務案成果報告書.pdf"
+      ]
+    },
+    {
+      "id": "176431",
+      "name": "小琉球整體觀光發展規劃-定稿本",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/109-小琉球整體觀光發展規劃-定稿本V6(修訂版1).pdf"
+      ]
+    },
+    {
+      "id": "176433",
+      "name": "113年度琉球風景特定區遊憩承載量綜合評估成果報告書",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/113年度琉球風景特定區遊憩承載量綜合評估委託服務案-成果報告書.pdf"
+      ]
+    },
+    {
+      "id": "176438",
+      "name": "閱讀澎湖海洋地質公園-地景旅遊篇",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/26_PH/閱讀澎湖海洋地質公園-地景旅遊篇_單頁瀏覽用全文檔.pdf"
+      ]
+    },
+    {
+      "id": "176439",
+      "name": "澎島飛羽：澎湖燕鷗之美˙燕鷗旅遊篇",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/26_PH/澎島飛羽-中英文電子書.pdf"
+      ]
+    },
+    {
+      "id": "176349",
+      "name": "特色商圈單元-19處卓越商圈介紹",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/06_IMD/特色商圈單元-19處卓越商圈介紹.pdf"
+      ]
+    },
+    {
+      "id": "176352",
+      "name": "東北角穆斯林友善旅遊手冊",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/15_NYC/1_23165397_2025穆斯林旅遊摺頁 中文版_V1.pdf"
+      ]
+    },
+    {
+      "id": "176353",
+      "name": "蘇澳．南方澳慢慢走更好玩",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/15_NYC/4_23165397_蘇澳(合併)_1534_V1.pdf"
+      ]
+    },
+    {
+      "id": "176354",
+      "name": "福隆濱海渡假小鎮",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/15_NYC/3_23165397_福隆濱海度假小鎮中文版_3636_V1.pdf"
+      ]
+    },
+    {
+      "id": "174597",
+      "name": "特色生物小野柳",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/17_EC/特色生物小野柳.pdf"
+      ]
+    },
+    {
+      "id": "174598",
+      "name": "地景東海岸",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/17_EC/地景東海岸.pdf"
+      ]
+    },
+    {
+      "id": "174599",
+      "name": "美好咫尺：東部海岸人生風景",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/17_EC/美好咫尺.pdf"
+      ]
+    },
+    {
+      "id": "174643",
+      "name": "花東縱谷官網FAQ",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/16_ERV/花東縱谷官網FAQ.pdf"
+      ]
+    },
+    {
+      "id": "174644",
+      "name": "綠能減碳愛山行　阿里山管理處贈苗綠山林",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/112植樹節新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174646",
+      "name": "阿里山管理處攜手林業保育署嘉義分署 「讚碳阿里山，一起趣種樹!」",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/114植樹-新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174648",
+      "name": "110年旅遊安全活動新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/110旅遊安全新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174649",
+      "name": "111年旅遊安全活動新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/111旅遊安全新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174642",
+      "name": "114年花東縱谷管理處新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/16_ERV/1140114-花東縱谷交通疏導措施 助您春節旅遊蛇行千里！走春一路蛇采飛揚！.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140118-花東縱谷管理處新任處長許宗民以智慧、永續、低碳、美學及安全力推觀光產業.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140122-智慧觀光創新服務 花東縱谷新春打卡新亮點.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140125-跟著在地達人體驗花東趣，好玩、好吃、好行!.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140214-打造鳳林國際慢活生態度假營地 縱管處召開鳳林生態遊憩區促參公聽會廣納各界意見.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140307-交通部觀光署「北回之巔旗鑑計畫-微笑南灣in台灣」玉里地區將規劃「歐亞菲板塊遊客中心」.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140319_「螢光漫舞」點亮世界地球日，縱管處邀您一同守護生態之光.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140321_公私部門齊心護安全 縱管處辦理水域航安演練.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140322_2025鯉魚潭賞螢季將於4月11日揭開序幕！歡螢鯉光粼！.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140325_森森不息縱樹節「小鎮迎娶大樹」到新家.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140407_小店翻轉大亮點　花東亮點改造從空間到體驗形塑地方品牌力.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140428-縱谷原遊會精選「縱谷選物」首波主打－果醬優質組合正式上線！.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140429-「燻」陶在地風味，縱谷原遊會品牌夥伴輔導成果亮眼！由嗡嗡私廚帶頭開啟「日日拾光」新旅程！.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140507_縱管處推動亮點改造計畫　助力地方產業品牌升級展現花東觀光新亮點.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140515_賞螢結束不停步　跟著鯉魚潭繼續探秘大自然.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140518_縱谷原遊會榮獲2025 台灣觀光永續獎_銅級-永續觀光創新獎.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140519_湖中綠影生風采　縱管處守護鯉魚潭湖中樹.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/1140528_共創花東部落觀光實力-2025縱谷原遊會品牌夥伴招募.pdf"
+      ]
+    },
+    {
+      "id": "174878",
+      "name": "113年春節疏運",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/113年阿里山管理處春節疏運新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174880",
+      "name": "大草嶺區域觀光發展產業聯盟",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/109成立大草嶺區域觀光發展產業聯盟-新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174881",
+      "name": "阿里山國家風景區內 竹崎鄉文峰觀光產業",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/110政府與地方合作社觀音瀑布園區設立特色市集166縣道旅遊多元化-新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174854",
+      "name": "觀光政策",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/2002年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2003年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2004年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2005年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2006年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2007年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2008年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2009年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2010年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2011年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2012年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2013年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2014年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2015年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2016年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2017年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2018年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2019年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2020年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2021年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2022年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2023年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2024至2025年雙軸轉型觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/2025年觀光政策及施政重點.pdf",
+        "https://media.taiwan.net.tw/od/01_PRD/觀光署未來觀光政策及施政重點.pdf"
+      ]
+    },
+    {
+      "id": "174855",
+      "name": "觀光業務年報",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/觀光業務年報.zip"
+      ]
+    },
+    {
+      "id": "174894",
+      "name": "鄒族逐鹿文創園區開幕-新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/111年鄒族逐鹿文創園區開幕.pdf"
+      ]
+    },
+    {
+      "id": "174895",
+      "name": "嘉義竹崎觀音瀑布開幕活動-新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/嘉義竹崎觀音瀑布開幕活動.pdf"
+      ]
+    },
+    {
+      "id": "175007",
+      "name": "帶著山海私奔",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/17_EC/帶著山海私奔.pdf"
+      ]
+    },
+    {
+      "id": "175008",
+      "name": "山海之約",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/17_EC/山海之約.pdf"
+      ]
+    },
+    {
+      "id": "175009",
+      "name": "綠島摺頁",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/17_EC/綠島-01.pdf",
+        "https://media.taiwan.net.tw/od/17_EC/綠島-02.pdf"
+      ]
+    },
+    {
+      "id": "175013",
+      "name": "瑞太地區服務設施區用地取得暨開發策略之研究",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/瑞太地區服務設施區用地取得暨開發策略之研究.zip"
+      ]
+    },
+    {
+      "id": "175016",
+      "name": "奮起湖摺頁",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/奮起湖中英摺頁_A06-0726.pdf",
+        "https://media.taiwan.net.tw/od/21_ALI/奮起湖中英摺頁_B06-0726.pdf"
+      ]
+    },
+    {
+      "id": "175017",
+      "name": "阿里山顛覆你的想像摺頁",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/阿里山顛覆你的想像-CN-正面.pdf",
+        "https://media.taiwan.net.tw/od/21_ALI/阿里山顛覆你的想像-CN-背面.pdf"
+      ]
+    },
+    {
+      "id": "175021",
+      "name": "奮起湖老街重建建築型式及景觀規範研究服務工作",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/奮起湖老街重建建築型式及景觀規範研究服務工作.zip"
+      ]
+    },
+    {
+      "id": "175022",
+      "name": "阿里山國家風景區之環境敏感地區遊客承載量與環境承載量調查研究",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/阿里山國家風景區之環境敏感地區遊客承載量與環境承載量調查研究.zip"
+      ]
+    },
+    {
+      "id": "7325",
+      "name": "歷年中華民國國民出國目的地人數統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/1"
+      ]
+    },
+    {
+      "id": "7779",
+      "name": "餐飲 - 觀光資訊資料庫",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/Restaurant-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/Restaurant-json.zip",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Restaurant_C_f.csv",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Restaurant_C_f.zip",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Restaurant_C_f.kml",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/restaurant_C_f.json",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/restaurant_C_f.xml"
+      ]
+    },
+    {
+      "id": "7780",
+      "name": "旅館民宿 - 觀光資訊資料庫",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/Hotel-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/Hotel-json.zip"
+      ]
+    },
+    {
+      "id": "8116",
+      "name": "歷年國內主要觀光遊憩據點遊客人數月別統計",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/歷年國內主要觀光遊憩據點遊客人數月別統計.csv"
+      ]
+    },
+    {
+      "id": "8358",
+      "name": "歷年來台旅客年齡統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/4"
+      ]
+    },
+    {
+      "id": "8587",
+      "name": "歷年國人出國旅遊重要指標統計表",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/國人出國旅遊重要指標統計表.csv"
+      ]
+    },
+    {
+      "id": "8588",
+      "name": "歷年國人國內旅遊重要指標統計表",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/國人國內旅遊重要指標統計表.csv"
+      ]
+    },
+    {
+      "id": "8590",
+      "name": "歷年13處國家風景區全區遊客人次推估表",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/歷年13處國家風景區全區遊客人次推估表.csv"
+      ]
+    },
+    {
+      "id": "46676",
+      "name": "民營遊樂園安全檢查資料",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/07_DTD/民營遊樂園安全檢查資料.csv"
+      ]
+    },
+    {
+      "id": "41494",
+      "name": "觀光旅館業不定期聯合稽查結果資料",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/03_HLD/觀光旅館不定期聯合檢查開放資料.csv"
+      ]
+    },
+    {
+      "id": "41629",
+      "name": "穆斯林友善餐廳",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/05_IAD/穆斯林友善餐廳.csv"
+      ]
+    },
+    {
+      "id": "41731",
+      "name": "歷史活動 - 觀光資訊資料庫",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/06_IMD/activityhistory.csv"
+      ]
+    },
+    {
+      "id": "44055",
+      "name": "旅遊服務站點(借問站及旅遊服務中心)",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/TourismServiceSite-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/TourismServiceSite-json.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/En/TourismServiceSite-json.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/En/TourismServiceSite-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Ja/TourismServiceSite-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Ja/TourismServiceSite-json.zip",
+        "https://media.taiwan.net.tw/od/07_DTD/遊客資訊站_借問站及旅遊服務中心_中文版.xml",
+        "https://media.taiwan.net.tw/od/07_DTD/遊客資訊站_借問站及旅遊服務中心_英文版.xml",
+        "https://media.taiwan.net.tw/od/07_DTD/遊客資訊站_借問站及旅遊服務中心_日文版.xml"
+      ]
+    },
+    {
+      "id": "73281",
+      "name": "旅館民宿(日文版)-觀光資訊資料庫",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Ja/Hotel-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Ja/Hotel-json.zip"
+      ]
+    },
+    {
+      "id": "80609",
+      "name": "觀光發展基金附屬單位分預算",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/觀光發展基金附屬單位分預算.zip"
+      ]
+    },
+    {
+      "id": "24417",
+      "name": "觀光拔尖領航方案執行情形表",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/pvet_103.csv"
+      ]
+    },
+    {
+      "id": "15453",
+      "name": "歷年來台旅客居住地統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/7"
+      ]
+    },
+    {
+      "id": "38122",
+      "name": "歷年來台旅客性別統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/8"
+      ]
+    },
+    {
+      "id": "42792",
+      "name": "臺灣觀光年曆遊客量、外籍遊客數、觀光收益及產值等",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/臺灣觀光年曆遊客量、外籍遊客數、觀光收益及產值等.csv"
+      ]
+    },
+    {
+      "id": "38829",
+      "name": "綠建築",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/交通部觀光署各國家風景區管理處綠建築設施調查表.csv"
+      ]
+    },
+    {
+      "id": "38830",
+      "name": "無障礙旅遊行程",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/無障礙旅遊行程.csv"
+      ]
+    },
+    {
+      "id": "38872",
+      "name": "水域遊憩活動",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/水域/禁止或限制水域遊憩活動區域.csv"
+      ]
+    },
+    {
+      "id": "102465",
+      "name": "小琉球繫錨點座標資料",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/小琉球繫錨點座標資料修正.csv"
+      ]
+    },
+    {
+      "id": "93878",
+      "name": "提供電話答詢服務",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/09_TIAC/電話服務.csv"
+      ]
+    },
+    {
+      "id": "93884",
+      "name": "旅行業糾紛資料集",
+      "format": "xml",
+      "urls": [
+        "https://travelagency.tad.gov.tw/DataQuery/Open_Dispute.aspx?FileType=xml"
+      ]
+    },
+    {
+      "id": "93967",
+      "name": "台灣好行站點",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/07_DTD/台灣好行.csv"
+      ]
+    },
+    {
+      "id": "94600",
+      "name": "免費過境半日遊遊客滿意度調查表",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/05_IAD/半日遊滿意度統計表.zip"
+      ]
+    },
+    {
+      "id": "94139",
+      "name": "蔬食餐廳",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/05_IAD/蔬食餐廳.zip"
+      ]
+    },
+    {
+      "id": "135722",
+      "name": "具海洋遊憩活動之景點設施",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/具海洋遊憩活動之景點設施.csv"
+      ]
+    },
+    {
+      "id": "159120",
+      "name": "觀光發展基金會計報告",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/113年11月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年10月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年09月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年08月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年07月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年06月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年05月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年04月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年03月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年02月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年01月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年12月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年11月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年10月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年09月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年08月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年07月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年06月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年05月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年04月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年03月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年02月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年01月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年12月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年11月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年10月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年09月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年08月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年07月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年06月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年05月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年04月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年03月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年02月份觀光發展基金分預算會計月報.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年01月份觀光發展基金分預算會計月報.zip"
+      ]
+    },
+    {
+      "id": "176867",
+      "name": "交通部觀光署法規資訊",
+      "format": "zip",
+      "urls": [
+        "https://law.tad.gov.tw/MOTCTALRS/web_file/Law-json.zip"
+      ]
+    },
+    {
+      "id": "174702",
+      "name": "花東縱谷摺頁",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/16_ERV/太巴塱部落＿中文.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/支亞干部落＿中文.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/永康部落＿中文.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/崁頂部落＿中文.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/漫遊‧花東縱谷.pdf",
+        "https://media.taiwan.net.tw/od/16_ERV/織羅部落_中文.pdf"
+      ]
+    },
+    {
+      "id": "174869",
+      "name": "109年春節疏運",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/109年阿里山管理處春節疏運新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174872",
+      "name": "112年春節疏運",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/112年阿里山管理處春節疏運新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174890",
+      "name": "瑞峰環景茶園品茗享浪漫，單身男女七夕擁抱幸福-新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/107年瑞峰環景茶園品茗享浪漫，單身男女七夕擁抱幸福.pdf"
+      ]
+    },
+    {
+      "id": "175015",
+      "name": "玩WAY阿里山摺頁",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/20_SML/玩WAY阿里山中英摺頁-11212正面.pdf",
+        "https://media.taiwan.net.tw/od/20_SML/玩WAY阿里山中英摺頁-11212反面.pdf"
+      ]
+    },
+    {
+      "id": "175019",
+      "name": "阿里山國家風景區內建築設施規範及圖集研究",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/阿里山國家風景區內建築設施規範及圖集研究.zip"
+      ]
+    },
+    {
+      "id": "176442",
+      "name": "澎湖觀光地圖",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/26_PH/澎湖旅遊地圖(正反面)07.21.pdf"
+      ]
+    },
+    {
+      "id": "176443",
+      "name": "本島遊憩系統導覽地圖",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/26_PH/03本島遊憩系統導覽地圖(62x43cm)正面.背面2025.8版.pdf"
+      ]
+    },
+    {
+      "id": "176426",
+      "name": "恆春半島旅遊導覽-中英",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/恆春半島旅遊導覽-中英.pdf"
+      ]
+    },
+    {
+      "id": "176427",
+      "name": "東港迎王平安祭典文宣",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/東港迎王平安祭典文宣.pdf"
+      ]
+    },
+    {
+      "id": "176430",
+      "name": "108年琉球風景特定區遊憩承載量調查評估期末成果報告書",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/108年琉球風景特定區遊憩承載量調查評估期末成果報告書定稿本.pdf"
+      ]
+    },
+    {
+      "id": "176432",
+      "name": "大鵬灣海洋觀光願景擘劃期末成果報告書",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/112-0710-大鵬灣海洋觀光願景擘劃期末成果報告書.pdf"
+      ]
+    },
+    {
+      "id": "176441",
+      "name": "澎湖之美-世界最美麗海灣",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/26_PH/澎湖之美-澎湖國家風景區簡介(世界最美麗海灣).pdf"
+      ]
+    },
+    {
+      "id": "176350",
+      "name": "景點單元-樂活襪之鄉",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/06_IMD/景點單元-樂活襪之鄉.pdf"
+      ]
+    },
+    {
+      "id": "176355",
+      "name": "中文-雲嘉南全區",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/22_SC/中文-雲嘉南全區.pdf"
+      ]
+    },
+    {
+      "id": "176415",
+      "name": "北海岸探奇：三芝石門生態旅遊",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/18_NCG/三芝石門20150928.pdf"
+      ]
+    },
+    {
+      "id": "176358",
+      "name": "中文-嘉義正反面",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/22_SC/中文-嘉義正反面.pdf"
+      ]
+    },
+    {
+      "id": "174557",
+      "name": "閱讀鼻頭龍洞地質公園",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/15_NYC/閱讀鼻頭龍洞地質公園.pdf"
+      ]
+    },
+    {
+      "id": "174592",
+      "name": "立新東北角",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/15_NYC/立新東北角.pdf"
+      ]
+    },
+    {
+      "id": "174596",
+      "name": "與海同樂 ‧ 天堂島嶼－潛進綠島的11道入口",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/17_EC/與海同樂 ‧ 天堂島嶼.pdf"
+      ]
+    },
+    {
+      "id": "7777",
+      "name": "景點 - 觀光資訊資料庫",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/Attraction-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/Attraction-json.zip",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/scenic_spot_C_f.json",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Scenic_Spot_C_f.csv",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/scenic_spot_C_f.xml",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/scenic_spot_C_f.zip",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/scenic_spot_C_f.kml"
+      ]
+    },
+    {
+      "id": "7326",
+      "name": "歷年國人出國按性別分析",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/歷年國人出國按性別分析.csv"
+      ]
+    },
+    {
+      "id": "38257",
+      "name": "民營遊樂園基本資料",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/07_DTD/民營遊樂園資料.csv"
+      ]
+    },
+    {
+      "id": "8361",
+      "name": "歷年中華民國國民出國搭乘交通工具及出境港口統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/3"
+      ]
+    },
+    {
+      "id": "15432",
+      "name": "歷年來台旅客啟程來台國家統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/10"
+      ]
+    },
+    {
+      "id": "15450",
+      "name": "歷年來台旅客離台後前往國家統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/16"
+      ]
+    },
+    {
+      "id": "8589",
+      "name": "觀光支出統計",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/歷年觀光支出統計.csv"
+      ]
+    },
+    {
+      "id": "38864",
+      "name": "銀髮族旅遊行程",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/銀髮族.zip"
+      ]
+    },
+    {
+      "id": "38865",
+      "name": "穆斯林友善環境建設成果",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/穆斯林友善環境建設成果.csv"
+      ]
+    },
+    {
+      "id": "38866",
+      "name": "台灣燈塔",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/台灣燈塔.csv"
+      ]
+    },
+    {
+      "id": "38867",
+      "name": "補助離島遊客租賃電動機車",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/租賃電動機車/104年度補助離島遊客租賃電動機車經費控管表.csv"
+      ]
+    },
+    {
+      "id": "38828",
+      "name": "部落觀光遊程",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/部落觀光部落小旅行.csv"
+      ]
+    },
+    {
+      "id": "93885",
+      "name": "旅行業旅遊意外事故資料集",
+      "format": "xml",
+      "urls": [
+        "https://travelagency.tad.gov.tw/DataQuery/Open_Accident.aspx?FileType=xml"
+      ]
+    },
+    {
+      "id": "93887",
+      "name": "合格導遊人員資料集",
+      "format": "xml",
+      "urls": [
+        "https://travelagency.tad.gov.tw/DataQuery/Open_Guide.aspx?FileType=xml"
+      ]
+    },
+    {
+      "id": "93888",
+      "name": "合格領隊人員資料集",
+      "format": "xml",
+      "urls": [
+        "https://travelagency.tad.gov.tw/DataQuery/Open_Leader.aspx?FileType=xml"
+      ]
+    },
+    {
+      "id": "93890",
+      "name": "旅行業處分案件資料集",
+      "format": "xml",
+      "urls": [
+        "https://travelagency.tad.gov.tw/DataQuery/Open_Punish.aspx?FileType=xml"
+      ]
+    },
+    {
+      "id": "93966",
+      "name": "台灣觀巴資訊",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/07_DTD/台灣觀巴_105年起.csv"
+      ]
+    },
+    {
+      "id": "93968",
+      "name": "國際旅展參展資訊",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/05_IAD/國際旅展參展資訊.csv"
+      ]
+    },
+    {
+      "id": "94140",
+      "name": "歷年國人旅遊狀況調查",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/01_PRD/歷年國人旅遊狀況調查.zip"
+      ]
+    },
+    {
+      "id": "77004",
+      "name": "交通部觀光署會計報告",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/114年12月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年11月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年10月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年09月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年08月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年07月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年06月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年05月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年04月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年03月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年02月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年01月份交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/110年交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/109年交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/108年交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/107年交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/106年交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/105年交通部觀光署會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/104年交通部觀光署會計報告.zip"
+      ]
+    },
+    {
+      "id": "77005",
+      "name": "交通部觀光署及所屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/113年交通部觀光署及所屬單位決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年交通部觀光署及所屬單位決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/111年交通部觀光署及所屬單位決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/110年交通部觀光署及所屬單位決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/109年交通部觀光署及所屬單位決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/108年交通部觀光署及所屬單位決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/107年交通部觀光署及所屬單位決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/106年交通部觀光署及所屬單位決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/105年交通部觀光署及所屬單位決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/104年交通部觀光署及所屬單位決算.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/103年交通部觀光署及所屬單位決算.zip"
+      ]
+    },
+    {
+      "id": "79249",
+      "name": "交通部觀光署單位預算",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/各年度法定預算合併.zip"
+      ]
+    },
+    {
+      "id": "79254",
+      "name": "交通部觀光署單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/各年度預算案合併.zip"
+      ]
+    },
+    {
+      "id": "72074",
+      "name": "旅行業基本資料",
+      "format": "xml",
+      "urls": [
+        "https://travelagency.tad.gov.tw/Forms/XML/TravelAgent.aspx?key=DF8T1NkUg"
+      ]
+    },
+    {
+      "id": "73280",
+      "name": "旅館民宿(英文版)-觀光資訊資料庫",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/En/Hotel-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/En/Hotel-json.zip"
+      ]
+    },
+    {
+      "id": "54817",
+      "name": "觀光旅館業統計資料集",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/03_HLD/觀光旅館營運報表.zip"
+      ]
+    },
+    {
+      "id": "54303",
+      "name": "105年度莫拉克決算(審定版)",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/molak/final_accounts_molak_105_admitted.zip"
+      ]
+    },
+    {
+      "id": "45537",
+      "name": "歷年來台旅客國籍統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/11"
+      ]
+    },
+    {
+      "id": "45512",
+      "name": "歷年來台旅客來台目的統計",
+      "format": "csv",
+      "urls": [
+        "https://stat.taiwan.net.tw/data/opendata/6"
+      ]
+    },
+    {
+      "id": "103593",
+      "name": "觀光遊樂業優質化教育訓練案",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/07_DTD/觀光遊樂業優質化訓練.csv"
+      ]
+    },
+    {
+      "id": "102467",
+      "name": "交通部觀光署職員年報表",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/12_PD/觀光署職員統計.csv"
+      ]
+    },
+    {
+      "id": "41652",
+      "name": "自行車道",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/CyclingRoute-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/CyclingRoute-json.zip",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Bike_f.kml",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Bike_f.zip",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Bike_f.json",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Bike_f.xml"
+      ]
+    },
+    {
+      "id": "41653",
+      "name": "步道",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/Trail-xml.zip",
+        "https://media.taiwan.net.tw/XMLReleaseAll_public/v2.0/Zh_tw/Trail-json.zip",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Walk_f.kml",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Walk_f.zip",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Walk_f.json",
+        "https://media.taiwan.net.tw/XMLReleaseALL_public/Walk_f.xml"
+      ]
+    },
+    {
+      "id": "41658",
+      "name": "觀光產業取得環保標章補助情形",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/03_HLD/環保標章補助情形表.csv"
+      ]
+    },
+    {
+      "id": "41673",
+      "name": "旅遊服務中心",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/07_DTD/旅服中心.zip"
+      ]
+    },
+    {
+      "id": "113960",
+      "name": "提供各管理處民眾關心之相關設施點點位",
+      "format": "csv",
+      "urls": [
+        "https://gis.tad.gov.tw/TTF/web_api/getCsvFile.jsp",
+        "https://gis.tad.gov.tw/TTF/web_api/getXmlFile.jsp",
+        "https://gis.tad.gov.tw/TTF/web_api/getJsonFile.jsp"
+      ]
+    },
+    {
+      "id": "132066",
+      "name": "全台露營場資料",
+      "format": "csv",
+      "urls": [
+        "https://media.taiwan.net.tw/od/04_TD/全台露營場資料.csv"
+      ]
+    },
+    {
+      "id": "162136",
+      "name": "交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/11_ACD/114年12月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年11月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年10月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年09月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年08月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年07月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年06月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年05月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年04月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年03月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年02月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/114年01月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年12月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年11月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年10月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年09月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年08月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年06月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年07月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年05月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年04月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年03月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年02月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/113年01月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年12月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年11月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年10月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年09月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年08月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年07月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年06月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年05月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip",
+        "https://media.taiwan.net.tw/od/11_ACD/112年04月交通部觀光署疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計報告.zip"
+      ]
+    },
+    {
+      "id": "176356",
+      "name": "中文-雲林正反面",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/22_SC/中文-雲林正反面.pdf"
+      ]
+    },
+    {
+      "id": "176416",
+      "name": "北海岸探奇：金山萬里生態旅遊",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/18_NCG/金山萬里20151002.pdf"
+      ]
+    },
+    {
+      "id": "176418",
+      "name": "潮汐的呼喚：探索北海岸潮間帶",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/18_NCG/潮汐的呼喚增訂版全文閱讀版.pdf"
+      ]
+    },
+    {
+      "id": "176423",
+      "name": "小島的洄龜〔精裝〕",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/20201126_2小島的洄龜內文.pdf",
+        "https://media.taiwan.net.tw/od/25_DB/20201126_2小島的洄龜前知識頁.pdf",
+        "https://media.taiwan.net.tw/od/25_DB/20201126_2小島的洄龜後知識頁.pdf"
+      ]
+    },
+    {
+      "id": "176450",
+      "name": "北海遊憩系統導覽地圖",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/26_PH/05.北海遊憩系統導覽地圖114.04.pdf"
+      ]
+    },
+    {
+      "id": "176451",
+      "name": "南海遊憩系統導覽地圖",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/26_PH/04南海遊憩系統導覽地圖(62x43cm)正面.背面2024.11.pdf"
+      ]
+    },
+    {
+      "id": "176452",
+      "name": "觀音觀鷹-觀音山猛禽辨識手冊",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/18_NCG/20131220_觀音觀鷹-觀音山猛禽辨識手冊.pdf"
+      ]
+    },
+    {
+      "id": "176453",
+      "name": "旅行舊時光金山萬里老故事漫遊",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/18_NCG/20150512_旅行舊時光金山萬里老故事漫遊-中文.pdf"
+      ]
+    },
+    {
+      "id": "176425",
+      "name": "小琉球觀光導覽文宣-中英",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/25_DB/小琉球觀光導覽文宣-中英.pdf"
+      ]
+    },
+    {
+      "id": "174593",
+      "name": "愛玩山海戀",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/15_NYC/愛玩山海戀.pdf"
+      ]
+    },
+    {
+      "id": "174683",
+      "name": "天長橋及地久橋封閉",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/天長橋及地久橋封閉.pdf"
+      ]
+    },
+    {
+      "id": "174645",
+      "name": "植樹愛分享老「桂」客 種下茶花打造觀音瀑布新「嬌」點",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/113植樹-新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174647",
+      "name": "109年旅遊安全活動新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/109旅遊安全新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174650",
+      "name": "112年旅遊安全活動新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/112旅遊安全新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174651",
+      "name": "114年旅遊安全活動新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/114旅遊安全新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174652",
+      "name": "西拉雅觀光資訊網景點內容",
+      "format": "xml",
+      "urls": [
+        "https://www.siraya-nsa.gov.tw/zh-tw/OpenData/AttractionNgisXML"
+      ]
+    },
+    {
+      "id": "174594",
+      "name": "草嶺古道",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/15_NYC/草嶺古道.pdf"
+      ]
+    },
+    {
+      "id": "174595",
+      "name": "騎遇東北角",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/15_NYC/騎遇東北角.pdf"
+      ]
+    },
+    {
+      "id": "174891",
+      "name": "品茗夜宴與螢共舞-新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/108年品茗夜宴與螢共舞.pdf"
+      ]
+    },
+    {
+      "id": "174892",
+      "name": "奮起湖、隙頂及鞍頂停車場收費作業-新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/奮起湖、隙頂及鞍頂停車場收費作業.pdf"
+      ]
+    },
+    {
+      "id": "174893",
+      "name": "嘉義梅山鄉太平雲梯自主營運記者會-新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/107年嘉義梅山鄉太平雲梯自主營運記者會.pdf"
+      ]
+    },
+    {
+      "id": "174870",
+      "name": "110年春節疏運",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/110年阿里山管理處春節疏運新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "174879",
+      "name": "阿里山國家風景區內 梅山鄉太平及碧湖在地觀光產業",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/107碧湖迎曙光咖啡結合音樂-活動新聞稿.pdf",
+        "https://media.taiwan.net.tw/od/21_ALI/07跨年阿里山日出三連發 茶香咖啡香伴首曦-新聞稿.pdf"
+      ]
+    },
+    {
+      "id": "175023",
+      "name": "阿里山國家風景區植栽景觀研究",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/阿里山國家風景區植栽景觀研究.pdf"
+      ]
+    },
+    {
+      "id": "175010",
+      "name": "馬到成功摺頁",
+      "format": "pdf",
+      "urls": [
+        "https://media.taiwan.net.tw/od/17_EC/馬到成功.pdf"
+      ]
+    },
+    {
+      "id": "175014",
+      "name": "阿里山國家風景區遊客量統計校估模式調查研究",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/阿里山國家風景區遊客量統計校估模式調查研究.zip"
+      ]
+    },
+    {
+      "id": "175020",
+      "name": "阿里山國家風景區來吉至十字路道路拓寬可行性研究",
+      "format": "zip",
+      "urls": [
+        "https://media.taiwan.net.tw/od/21_ALI/阿里山國家風景區來吉至十字路道路拓寬可行性研究.zip"
+      ]
+    }
+  ]
+}

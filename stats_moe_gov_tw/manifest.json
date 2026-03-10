@@ -1,0 +1,1131 @@
+{
+  "provider": "教育部統計處",
+  "slug": "stats_moe_gov_tw",
+  "datasets": [
+    {
+      "id": "24393",
+      "name": "大專附設高級中等進修學校名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/school/114/highT.csv",
+        "https://stats.moe.gov.tw/files/school/114/highT.json"
+      ]
+    },
+    {
+      "id": "9632",
+      "name": "高級中等學校應屆畢業生就業概況(按群別分)",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/1_2_10.csv",
+        "https://stats.moe.gov.tw/files/opendata/1_2_10.json"
+      ]
+    },
+    {
+      "id": "9633",
+      "name": "高級中等學校應屆畢業生未升學未就業情形(按群別分）",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/1_2_11.csv",
+        "https://stats.moe.gov.tw/files/opendata/1_2_11.json"
+      ]
+    },
+    {
+      "id": "9621",
+      "name": "大專校院各校科系別概況",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/sdata.csv",
+        "https://stats.moe.gov.tw/files/opendata/sdata.json"
+      ]
+    },
+    {
+      "id": "9623",
+      "name": "大專院校各科系所學生數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/103-105_studentsc.csv",
+        "https://stats.moe.gov.tw/files/opendata/103-105_studentsc.json",
+        "https://stats.moe.gov.tw/files/opendata/106-112_studentsc.csv",
+        "https://stats.moe.gov.tw/files/opendata/106-112_studentsc.json",
+        "https://stats.moe.gov.tw/files/opendata/studentsc.csv",
+        "https://stats.moe.gov.tw/files/opendata/studentsc.json"
+      ]
+    },
+    {
+      "id": "9625",
+      "name": "高級中等學校應屆畢業生升學情形(按設立別分）",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/1_2_1.csv",
+        "https://stats.moe.gov.tw/files/opendata/1_2_1.json"
+      ]
+    },
+    {
+      "id": "6086",
+      "name": "幼兒園名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/k1_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/k1_new.json"
+      ]
+    },
+    {
+      "id": "6088",
+      "name": "國民中學名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/j1_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/j1_new.json"
+      ]
+    },
+    {
+      "id": "6231",
+      "name": "大專院校校別學生數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/103-112_student.csv",
+        "https://stats.moe.gov.tw/files/opendata/103-112_student.json",
+        "https://stats.moe.gov.tw/files/opendata/student.csv",
+        "https://stats.moe.gov.tw/files/opendata/student.json"
+      ]
+    },
+    {
+      "id": "6232",
+      "name": "大專院校校別專任教師數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/teacher_103-104.csv",
+        "https://stats.moe.gov.tw/files/opendata/teacher_103-104.json",
+        "https://stats.moe.gov.tw/files/opendata/teacher_105.csv",
+        "https://stats.moe.gov.tw/files/opendata/teacher_105.json",
+        "https://stats.moe.gov.tw/files/opendata/teacher.csv",
+        "https://stats.moe.gov.tw/files/opendata/teacher.json"
+      ]
+    },
+    {
+      "id": "6234",
+      "name": "大專院校校別班級數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/detail/101/101_class.csv"
+      ]
+    },
+    {
+      "id": "6235",
+      "name": "大專校院校別畢業生人數(上學年度)",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/detail/103/103_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/104/104_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/105/105_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/106/106_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/107/107_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/107/107_graduate.json",
+        "https://stats.moe.gov.tw/files/detail/108/108_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/108/108_graduate.json",
+        "https://stats.moe.gov.tw/files/detail/109/109_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/109/109_graduate.json",
+        "https://stats.moe.gov.tw/files/detail/110/110_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/110/110_graduate.json",
+        "https://stats.moe.gov.tw/files/detail/111/111_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/111/111_graduate.json",
+        "https://stats.moe.gov.tw/files/detail/112/112_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/112/112_graduate.json",
+        "https://stats.moe.gov.tw/files/detail/113/113_graduate.csv",
+        "https://stats.moe.gov.tw/files/detail/113/113_graduate.json"
+      ]
+    },
+    {
+      "id": "6238",
+      "name": "高級中等學校校別資料(含進修部(學校)) ",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/base0.csv",
+        "https://stats.moe.gov.tw/files/opendata/base0.json"
+      ]
+    },
+    {
+      "id": "6286",
+      "name": "大專校院校別職員.警衛.工友人數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/staff.csv",
+        "https://stats.moe.gov.tw/files/opendata/staff.json"
+      ]
+    },
+    {
+      "id": "33506",
+      "name": "中等以下各級學校僑生、港澳生及畢業生人數—按性別、校別與僑居地別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/oversea_B1-2.csv",
+        "https://stats.moe.gov.tw/files/opendata/oversea_B1-2.json"
+      ]
+    },
+    {
+      "id": "33512",
+      "name": "大專校院僑生及畢業生人數—按性別、校別與僑居地別分",
+      "format": "json",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/oversea_B1-1a.json",
+        "https://stats.moe.gov.tw/files/opendata/oversea_B1-1a.csv"
+      ]
+    },
+    {
+      "id": "33513",
+      "name": "大專校院原住民學生及畢業生人數—按年級別、等級別與性別分",
+      "format": "json",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/native_A2-3.json",
+        "https://stats.moe.gov.tw/files/opendata/native_A2-3.csv"
+      ]
+    },
+    {
+      "id": "33516",
+      "name": "高級中等學校原住民學生及畢業生人數—按年級別、等級別與性別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/native_B1-6.csv",
+        "https://stats.moe.gov.tw/files/opendata/native_B1-6.json"
+      ]
+    },
+    {
+      "id": "40118",
+      "name": "各級學校學生人數占年底人口比率",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_A_2_6.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_A_2_6.json"
+      ]
+    },
+    {
+      "id": "31454",
+      "name": "高級中等學校概況—按學校所在縣市別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_4_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_4_2.json"
+      ]
+    },
+    {
+      "id": "31455",
+      "name": "高級中等學校概況—按設立別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_4_1.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_4_1.json"
+      ]
+    },
+    {
+      "id": "31442",
+      "name": "國民中小學補習學校概況—按設立別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_1.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_1.json"
+      ]
+    },
+    {
+      "id": "31445",
+      "name": "大專校院概況",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_5_1.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_5_1.json"
+      ]
+    },
+    {
+      "id": "31449",
+      "name": "幼兒園概況—按設立別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_2_1_1.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_2_1_1.json",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_2_1_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_2_1_2.json"
+      ]
+    },
+    {
+      "id": "31451",
+      "name": "特殊教育概況",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/104_108edu_B_6_1.csv",
+        "https://stats.moe.gov.tw/files/opendata/104_108edu_B_6_1.json",
+        "https://stats.moe.gov.tw/files/opendata/109_113edu_B_6_1.csv",
+        "https://stats.moe.gov.tw/files/opendata/109_113edu_B_6_1.json"
+      ]
+    },
+    {
+      "id": "31452",
+      "name": "空中大學概況",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_6-大學部.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_6-專科部.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_6-大學部.json",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_6-專科部.json",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_6_105.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_6_105.json"
+      ]
+    },
+    {
+      "id": "31453",
+      "name": "空中進修專校及空中進修學院學生數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_8.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_8.json"
+      ]
+    },
+    {
+      "id": "46326",
+      "name": "大專校院學士班及專科延修生人數及比率－按學年別與設立別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_A_1_18.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_A_1_18.json"
+      ]
+    },
+    {
+      "id": "46316",
+      "name": "高級中等學校開設綜合高中一覽表",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_8_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_8_2.json"
+      ]
+    },
+    {
+      "id": "46318",
+      "name": "高級中等學校學生休學人數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/HighSuspended.csv",
+        "https://stats.moe.gov.tw/files/opendata/HighSuspended.json"
+      ]
+    },
+    {
+      "id": "28585",
+      "name": "大陸臺商子弟學校與海外臺灣學校名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/school04_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/school04_new.json"
+      ]
+    },
+    {
+      "id": "28587",
+      "name": "互助教保服務中心名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/k2_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/k2_new.json"
+      ]
+    },
+    {
+      "id": "28582",
+      "name": "偏遠地區國中小名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/faraway1.csv",
+        "https://stats.moe.gov.tw/files/opendata/faraway3.csv",
+        "https://stats.moe.gov.tw/files/opendata/faraway1.json",
+        "https://stats.moe.gov.tw/files/opendata/faraway3.json"
+      ]
+    },
+    {
+      "id": "9617",
+      "name": "高級中等學校科別資料",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/base2.csv",
+        "https://stats.moe.gov.tw/files/opendata/base2.json"
+      ]
+    },
+    {
+      "id": "9618",
+      "name": "大專校院科系別正式修讀學位之大陸學生數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/chinas1a.csv",
+        "https://stats.moe.gov.tw/files/opendata/chinas1a.json",
+        "https://stats.moe.gov.tw/files/opendata/chinas2a.csv",
+        "https://stats.moe.gov.tw/files/opendata/chinas2a.json"
+      ]
+    },
+    {
+      "id": "9619",
+      "name": "大專校院各校科系別畢業生數(上學年度)",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/detail/103/103_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/104/104_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/105/105_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/106/106_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/107/107_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/107/107_graduates.json",
+        "https://stats.moe.gov.tw/files/detail/108/108_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/108/108_graduates.json",
+        "https://stats.moe.gov.tw/files/detail/109/109_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/109/109_graduates.json",
+        "https://stats.moe.gov.tw/files/detail/110/110_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/111/111_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/110/110_graduates.json",
+        "https://stats.moe.gov.tw/files/detail/111/111_graduates.json",
+        "https://stats.moe.gov.tw/files/detail/112/112_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/112/112_graduates.json",
+        "https://stats.moe.gov.tw/files/detail/113/113_graduates.csv",
+        "https://stats.moe.gov.tw/files/detail/113/113_graduates.json"
+      ]
+    },
+    {
+      "id": "9620",
+      "name": "大專校院各科系所畢業生人數(上學年度)",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/detail/103/103_graduatesb.csv",
+        "https://stats.moe.gov.tw/files/detail/104/104_graduatesb.csv",
+        "https://stats.moe.gov.tw/files/detail/105/105_graduatesc.csv",
+        "https://stats.moe.gov.tw/files/detail/106/106_graduatesc.csv",
+        "https://stats.moe.gov.tw/files/detail/107/107_graduatesc.csv",
+        "https://stats.moe.gov.tw/files/detail/107/107_graduatesc.json",
+        "https://stats.moe.gov.tw/files/detail/108/108_graduatesc.csv",
+        "https://stats.moe.gov.tw/files/detail/108/108_graduatesc.json",
+        "https://stats.moe.gov.tw/files/detail/109/109_graduatesc.csv",
+        "https://stats.moe.gov.tw/files/detail/109/109_graduatesc.json",
+        "https://stats.moe.gov.tw/files/detail/110/110_graduatesc.csv",
+        "https://stats.moe.gov.tw/files/detail/111/111_graduatesc.csv",
+        "https://stats.moe.gov.tw/files/detail/110/110_graduatesc.json",
+        "https://stats.moe.gov.tw/files/detail/111/111_graduatesc.json",
+        "https://stats.moe.gov.tw/files/detail/112/112_graduatesc.csv",
+        "https://stats.moe.gov.tw/files/detail/112/112_graduatesc.json",
+        "https://stats.moe.gov.tw/files/detail/113/113_graduatesc.csv",
+        "https://stats.moe.gov.tw/files/detail/113/113_graduatesc.json"
+      ]
+    },
+    {
+      "id": "9624",
+      "name": "大專校院各校科系別專任教師數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/teachers_103-104.csv",
+        "https://stats.moe.gov.tw/files/opendata/teachers_103-104.json",
+        "https://stats.moe.gov.tw/files/opendata/teachers_105.csv",
+        "https://stats.moe.gov.tw/files/opendata/teachers_105.json",
+        "https://stats.moe.gov.tw/files/opendata/teachers.csv",
+        "https://stats.moe.gov.tw/files/opendata/teachers.json"
+      ]
+    },
+    {
+      "id": "9626",
+      "name": "高級中等學校應屆畢業生就業概況(按設立別分)",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/1_2_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/1_2_2.json"
+      ]
+    },
+    {
+      "id": "9628",
+      "name": "高級中等學校應屆畢業生升學情形(按縣市別分）",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/1_2_5.csv",
+        "https://stats.moe.gov.tw/files/opendata/1_2_5.json"
+      ]
+    },
+    {
+      "id": "9629",
+      "name": "高級中等學校應屆畢業生就業概況(按縣市別分)",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/1_2_6.csv",
+        "https://stats.moe.gov.tw/files/opendata/1_2_6.json"
+      ]
+    },
+    {
+      "id": "9630",
+      "name": "高級中等學校應屆畢業生未升學未就業情形(按縣市別分）",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/1_2_7.csv",
+        "https://stats.moe.gov.tw/files/opendata/1_2_7.json"
+      ]
+    },
+    {
+      "id": "9631",
+      "name": "高級中等學校應屆畢業生升學情形(按群別分)",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/1_2_9.csv",
+        "https://stats.moe.gov.tw/files/opendata/1_2_9.json"
+      ]
+    },
+    {
+      "id": "6090",
+      "name": "獨立高級中等進修學校名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/highV.csv",
+        "https://stats.moe.gov.tw/files/opendata/highV.json"
+      ]
+    },
+    {
+      "id": "6289",
+      "name": "大專校院境外學生人數統計",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/103-111_ab111_S.csv",
+        "https://stats.moe.gov.tw/files/opendata/103-111_ab111_S.json",
+        "https://stats.moe.gov.tw/files/opendata/103-111_ab111_C.csv",
+        "https://stats.moe.gov.tw/files/opendata/103-111_ab111_C.json",
+        "https://stats.moe.gov.tw/files/opendata/112_ab112_S.csv",
+        "https://stats.moe.gov.tw/files/opendata/112_ab112_S.json",
+        "https://stats.moe.gov.tw/files/opendata/112_ab112_C.csv",
+        "https://stats.moe.gov.tw/files/opendata/112_ab112_C.json",
+        "https://stats.moe.gov.tw/files/opendata/113_ab112_S.csv",
+        "https://stats.moe.gov.tw/files/opendata/113_ab112_S.json",
+        "https://stats.moe.gov.tw/files/opendata/113_ab112_C.csv",
+        "https://stats.moe.gov.tw/files/opendata/113_ab112_C.json"
+      ]
+    },
+    {
+      "id": "6290",
+      "name": "大專校院外籍專任教師統計－按校別、性別與職級別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/foreignteacher.csv",
+        "https://stats.moe.gov.tw/files/opendata/foreignteacher.json"
+      ]
+    },
+    {
+      "id": "6233",
+      "name": "大專校院校別專任教師數－學歷別",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/degree_103-104.csv",
+        "https://stats.moe.gov.tw/files/opendata/degree_103-104.json",
+        "https://stats.moe.gov.tw/files/opendata/degree_105.csv",
+        "https://stats.moe.gov.tw/files/opendata/degree_105.json",
+        "https://stats.moe.gov.tw/files/opendata/degree.csv",
+        "https://stats.moe.gov.tw/files/opendata/degree.json"
+      ]
+    },
+    {
+      "id": "6237",
+      "name": "空大及大專進修學校概況",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/highera1.csv",
+        "https://stats.moe.gov.tw/files/opendata/highera2.csv",
+        "https://stats.moe.gov.tw/files/opendata/highera1.json",
+        "https://stats.moe.gov.tw/files/opendata/highera2.json"
+      ]
+    },
+    {
+      "id": "6239",
+      "name": "國民中學校別資料",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/basej.csv",
+        "https://stats.moe.gov.tw/files/opendata/basej.json"
+      ]
+    },
+    {
+      "id": "6240",
+      "name": "國民小學校別資料",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/detail/103/103_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/104/104_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/105/105_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/106/106_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/107/107_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/107/107_basec.json",
+        "https://stats.moe.gov.tw/files/detail/108/108_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/108/108_basec.json",
+        "https://stats.moe.gov.tw/files/detail/109/109_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/109/109_basec.json",
+        "https://stats.moe.gov.tw/files/detail/110/110_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/110/110_basec.json",
+        "https://stats.moe.gov.tw/files/detail/111/111_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/111/111_basec.json",
+        "https://stats.moe.gov.tw/files/detail/112/112_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/112/112_basec.json",
+        "https://stats.moe.gov.tw/files/detail/113/113_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/113/113_basec.json",
+        "https://stats.moe.gov.tw/files/detail/114/114_basec.csv",
+        "https://stats.moe.gov.tw/files/detail/114/114_basec.json"
+      ]
+    },
+    {
+      "id": "6241",
+      "name": "國民中小學進修部(補校)校別資料",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/bases.csv",
+        "https://stats.moe.gov.tw/files/opendata/bases.json"
+      ]
+    },
+    {
+      "id": "31446",
+      "name": "大專進修學校概況—按設立別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_4.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_4.json",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_4_105.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_4_105.json"
+      ]
+    },
+    {
+      "id": "31447",
+      "name": "宗教研修學院概況",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_5_12.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_5_12.json"
+      ]
+    },
+    {
+      "id": "31448",
+      "name": "幼兒園概況—按學校所在縣市別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_2_2_1.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_2_2_1.json",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_2_2_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_2_2_2.json"
+      ]
+    },
+    {
+      "id": "31436",
+      "name": "各級學校概況—學生數及畢業生數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_1_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_1_2.json"
+      ]
+    },
+    {
+      "id": "31437",
+      "name": "各級學校概況—校數、專任教師數及職員數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_1_1.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_1_1.json"
+      ]
+    },
+    {
+      "id": "31439",
+      "name": "國民中學概況—按學校所在縣市別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_3_8.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_3_8.json"
+      ]
+    },
+    {
+      "id": "33505",
+      "name": "各級學校僑生及港澳生分發入學人數統計",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/oversea_APP1.csv",
+        "https://stats.moe.gov.tw/files/opendata/oversea_APP1.json",
+        "https://stats.moe.gov.tw/files/opendata/oversea_APP1_104-112.csv",
+        "https://stats.moe.gov.tw/files/opendata/oversea_APP1_104-112.json"
+      ]
+    },
+    {
+      "id": "33509",
+      "name": "國民中學原住民學生及畢業生人數—按年級別與校別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/native_C2-1.csv",
+        "https://stats.moe.gov.tw/files/opendata/native_C2-1.json"
+      ]
+    },
+    {
+      "id": "33511",
+      "name": "國民小學原住民學生及畢業生人數—按年級別與校別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/native_C2-2.csv",
+        "https://stats.moe.gov.tw/files/opendata/native_C2-2.json"
+      ]
+    },
+    {
+      "id": "40119",
+      "name": "國中小圖書館(室)概況",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_3_12.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_3_12.json"
+      ]
+    },
+    {
+      "id": "146551",
+      "name": "國民中小學校校地面積統計",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/area.csv",
+        "https://stats.moe.gov.tw/files/opendata/area.json"
+      ]
+    },
+    {
+      "id": "146649",
+      "name": "新住民子女就讀國中小學生人數資料－鄉鎮市區別",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/109son_of_foreign.csv",
+        "https://stats.moe.gov.tw/files/opendata/109son_of_foreign.json",
+        "https://stats.moe.gov.tw/files/opendata/110son_of_foreign.csv",
+        "https://stats.moe.gov.tw/files/opendata/110son_of_foreign.json",
+        "https://stats.moe.gov.tw/files/opendata/111son_of_foreign.csv",
+        "https://stats.moe.gov.tw/files/opendata/111son_of_foreign.json",
+        "https://stats.moe.gov.tw/files/opendata/112son_of_foreign.csv",
+        "https://stats.moe.gov.tw/files/opendata/112son_of_foreign.json",
+        "https://stats.moe.gov.tw/files/opendata/113son_of_foreign.csv",
+        "https://stats.moe.gov.tw/files/opendata/113son_of_foreign.json"
+      ]
+    },
+    {
+      "id": "6087",
+      "name": "國民小學名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/school/103/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/104/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/105/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/106/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/107/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/107/e1_new.json",
+        "https://stats.moe.gov.tw/files/school/108/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/108/e1_new.json",
+        "https://stats.moe.gov.tw/files/school/109/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/109/e1_new.json",
+        "https://stats.moe.gov.tw/files/school/110/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/110/e1_new.json",
+        "https://stats.moe.gov.tw/files/school/111/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/111/e1_new.json",
+        "https://stats.moe.gov.tw/files/school/112/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/112/e1_new.json",
+        "https://stats.moe.gov.tw/files/school/113/e1_new.csv",
+        "https://stats.moe.gov.tw/files/school/113/e1_new.json"
+      ]
+    },
+    {
+      "id": "6089",
+      "name": "一般高級中等學校名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/school/103/high.csv",
+        "https://stats.moe.gov.tw/files/school/104/high.csv",
+        "https://stats.moe.gov.tw/files/school/105/high.csv",
+        "https://stats.moe.gov.tw/files/school/106/high.csv",
+        "https://stats.moe.gov.tw/files/school/107/high.csv",
+        "https://stats.moe.gov.tw/files/school/107/high.json",
+        "https://stats.moe.gov.tw/files/school/108/high.csv",
+        "https://stats.moe.gov.tw/files/school/108/high.json",
+        "https://stats.moe.gov.tw/files/school/109/high.csv",
+        "https://stats.moe.gov.tw/files/school/109/high.json",
+        "https://stats.moe.gov.tw/files/school/110/high.csv",
+        "https://stats.moe.gov.tw/files/school/110/high.json",
+        "https://stats.moe.gov.tw/files/school/111/high.csv",
+        "https://stats.moe.gov.tw/files/school/111/111_high.json",
+        "https://stats.moe.gov.tw/files/school/112/high.csv",
+        "https://stats.moe.gov.tw/files/school/112/high.json",
+        "https://stats.moe.gov.tw/files/school/113/high.csv",
+        "https://stats.moe.gov.tw/files/school/113/high.json",
+        "https://stats.moe.gov.tw/files/school/114/high.csv",
+        "https://stats.moe.gov.tw/files/school/114/high.json"
+      ]
+    },
+    {
+      "id": "6091",
+      "name": "大專校院名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/u1_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/u1_new.json"
+      ]
+    },
+    {
+      "id": "6236",
+      "name": "宗教研修學院概況－按校別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/higherr.csv",
+        "https://stats.moe.gov.tw/files/opendata/higherr.json"
+      ]
+    },
+    {
+      "id": "6288",
+      "name": "大專校院圖書館統計",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/library1.csv",
+        "https://stats.moe.gov.tw/files/opendata/library2.csv",
+        "https://stats.moe.gov.tw/files/opendata/library1.json",
+        "https://stats.moe.gov.tw/files/opendata/library2.json"
+      ]
+    },
+    {
+      "id": "6291",
+      "name": "大專校院外籍專任教師統計－按校別、國別、性別與職級別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/foreignteacher1.csv",
+        "https://stats.moe.gov.tw/files/opendata/foreignteacher1.json"
+      ]
+    },
+    {
+      "id": "6287",
+      "name": "大專校院校地校舍面積統計",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/detail/103/103_land.csv",
+        "https://stats.moe.gov.tw/files/detail/104/104_land.csv",
+        "https://stats.moe.gov.tw/files/detail/105/105_land.csv",
+        "https://stats.moe.gov.tw/files/detail/106/106_land.csv",
+        "https://stats.moe.gov.tw/files/detail/107/107_land.csv",
+        "https://stats.moe.gov.tw/files/detail/109/109_land.csv",
+        "https://stats.moe.gov.tw/files/detail/109/109_land.json",
+        "https://stats.moe.gov.tw/files/detail/110/110_land.csv",
+        "https://stats.moe.gov.tw/files/detail/110/110_land.json",
+        "https://stats.moe.gov.tw/files/detail/111/111_land.csv",
+        "https://stats.moe.gov.tw/files/detail/111/111_land.json",
+        "https://stats.moe.gov.tw/files/detail/112/112_land.csv",
+        "https://stats.moe.gov.tw/files/detail/112/112_land.json",
+        "https://stats.moe.gov.tw/files/detail/108/108_land.csv",
+        "https://stats.moe.gov.tw/files/detail/108/108_land.json",
+        "https://stats.moe.gov.tw/files/detail/107/107_land.json",
+        "https://stats.moe.gov.tw/files/detail/113/113_land.csv",
+        "https://stats.moe.gov.tw/files/detail/113/113_land.json",
+        "https://stats.moe.gov.tw/files/detail/103/103_land.json",
+        "https://stats.moe.gov.tw/files/detail/104/104_land.json",
+        "https://stats.moe.gov.tw/files/detail/105/105_land.json",
+        "https://stats.moe.gov.tw/files/detail/106/106_land.json"
+      ]
+    },
+    {
+      "id": "9622",
+      "name": "大專院校各校科系別學生數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/103-105_students.csv",
+        "https://stats.moe.gov.tw/files/opendata/103-105_students.json",
+        "https://stats.moe.gov.tw/files/opendata/106-112_students.csv",
+        "https://stats.moe.gov.tw/files/opendata/106-112_students.json",
+        "https://stats.moe.gov.tw/files/opendata/students.csv",
+        "https://stats.moe.gov.tw/files/opendata/students.json"
+      ]
+    },
+    {
+      "id": "9627",
+      "name": "高級中等學校應屆畢業生未升學未就業情形(按設立別分)",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/1_2_3.csv",
+        "https://stats.moe.gov.tw/files/opendata/1_2_3.json"
+      ]
+    },
+    {
+      "id": "28583",
+      "name": "原住民族地區國小名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/native_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/native_new.json"
+      ]
+    },
+    {
+      "id": "33514",
+      "name": "大專校院原住民學生及畢業生人數—按等級別與校別分",
+      "format": "json",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/native_A1-1.json",
+        "https://stats.moe.gov.tw/files/opendata/native_A1-1.csv"
+      ]
+    },
+    {
+      "id": "33515",
+      "name": "大專校院港澳生及畢業生人數—按性別、校別與僑居地別分",
+      "format": "json",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/oversea_B1-1b.json",
+        "https://stats.moe.gov.tw/files/opendata/oversea_B1-1b.csv"
+      ]
+    },
+    {
+      "id": "33517",
+      "name": "高級中等學校原住民學生及畢業生人數—按年級別與校別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/native_B1-7.csv",
+        "https://stats.moe.gov.tw/files/opendata/native_B1-7.json"
+      ]
+    },
+    {
+      "id": "33507",
+      "name": "中等以下各級學校僑生、港澳生及畢業生人數—按等級別與縣市別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/oversea_APP5.csv",
+        "https://stats.moe.gov.tw/files/opendata/oversea_APP5.json"
+      ]
+    },
+    {
+      "id": "33508",
+      "name": "各級學校原住民學生人數結構",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/native_APP3.csv",
+        "https://stats.moe.gov.tw/files/opendata/native_APP3.json"
+      ]
+    },
+    {
+      "id": "33510",
+      "name": "國民中小學原住民學生及畢業生人數—按年級別、等級別與性別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/native_C2-4.csv",
+        "https://stats.moe.gov.tw/files/opendata/native_C2-4.json"
+      ]
+    },
+    {
+      "id": "28584",
+      "name": "國民中小學進修部(補校)名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/s2_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/s2_new.json"
+      ]
+    },
+    {
+      "id": "28586",
+      "name": "宗教研修學院名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/u3_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/u3_new.json"
+      ]
+    },
+    {
+      "id": "28588",
+      "name": "空大及大專附設進修學校名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/u2_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/u2_new.json"
+      ]
+    },
+    {
+      "id": "28589",
+      "name": "軍警大專校院名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/school08_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/school08_new.json"
+      ]
+    },
+    {
+      "id": "28590",
+      "name": "附設國中部名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/aj_new.csv",
+        "https://stats.moe.gov.tw/files/opendata/aj_new.json"
+      ]
+    },
+    {
+      "id": "28591",
+      "name": "附設國小部名錄",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/school/104/ac.csv",
+        "https://stats.moe.gov.tw/files/school/105/ac.csv",
+        "https://stats.moe.gov.tw/files/school/106/ac.csv",
+        "https://stats.moe.gov.tw/files/school/107/ac.csv",
+        "https://stats.moe.gov.tw/files/school/108/ac.csv",
+        "https://stats.moe.gov.tw/files/school/109/ac.csv",
+        "https://stats.moe.gov.tw/files/school/110/ac.csv",
+        "https://stats.moe.gov.tw/files/school/111/ac.csv",
+        "https://stats.moe.gov.tw/files/school/111/ac.json",
+        "https://stats.moe.gov.tw/files/school/112/ac.csv",
+        "https://stats.moe.gov.tw/files/school/112/ac.json",
+        "https://stats.moe.gov.tw/files/school/110/ac.json",
+        "https://stats.moe.gov.tw/files/school/109/ac.json",
+        "https://stats.moe.gov.tw/files/school/108/ac.json",
+        "https://stats.moe.gov.tw/files/school/113/ac.csv",
+        "https://stats.moe.gov.tw/files/school/113/ac.json",
+        "https://stats.moe.gov.tw/files/school/114/ac.csv",
+        "https://stats.moe.gov.tw/files/school/114/ac.json"
+      ]
+    },
+    {
+      "id": "31438",
+      "name": "各級學校年齡別學生人數",
+      "format": "json",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/104_student_age.json",
+        "https://stats.moe.gov.tw/files/opendata/104_student_age.csv",
+        "https://stats.moe.gov.tw/files/opendata/student_age.csv",
+        "https://stats.moe.gov.tw/files/opendata/student_age.json"
+      ]
+    },
+    {
+      "id": "31440",
+      "name": "國民中學概況—按設立別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_3_7.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_3_7.json"
+      ]
+    },
+    {
+      "id": "31441",
+      "name": "國民中小學補習學校概況—按學校所在縣市別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_2.json"
+      ]
+    },
+    {
+      "id": "31443",
+      "name": "國民小學概況—按學校所在縣市別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_3_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_3_2.json"
+      ]
+    },
+    {
+      "id": "31444",
+      "name": "國民小學概況—按設立別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_3_1.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_3_1.json"
+      ]
+    },
+    {
+      "id": "31450",
+      "name": "特殊教育學校概況",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/104_108edu_B_6_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/104_108edu_B_6_2.json",
+        "https://stats.moe.gov.tw/files/opendata/109_113edu_B_6_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/109_113edu_B_6_2.json"
+      ]
+    },
+    {
+      "id": "46317",
+      "name": "高級中等學校學生學籍喪失人數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/HighWithdrawn.csv",
+        "https://stats.moe.gov.tw/files/opendata/HighWithdrawn.json"
+      ]
+    },
+    {
+      "id": "46319",
+      "name": "空大及大專進修學校學生數及畢業生數—按科系別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_5.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_5.json",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_5_106.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_7_5_106.json"
+      ]
+    },
+    {
+      "id": "46320",
+      "name": "新住民子女就讀幼兒園及國中小學生人數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/104_113edu_A_1_9.csv",
+        "https://stats.moe.gov.tw/files/opendata/104_113edu_A_1_9.json"
+      ]
+    },
+    {
+      "id": "46323",
+      "name": "大專校院研究所及科系數－按學門別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_5_3.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_5_3.json"
+      ]
+    },
+    {
+      "id": "46324",
+      "name": "大專校院校數及研究所、科系數－按學校類型與設立別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_5_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_5_2.json"
+      ]
+    },
+    {
+      "id": "46325",
+      "name": "大專校院學生休、退學人數－按原因別分",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/98_104_HigherSuspended.csv",
+        "https://stats.moe.gov.tw/files/opendata/98_104_HigherSuspended.json",
+        "https://stats.moe.gov.tw/files/opendata/105_110_HigherSuspended.csv",
+        "https://stats.moe.gov.tw/files/opendata/105_110_HigherSuspended.json",
+        "https://stats.moe.gov.tw/files/opendata/111_HigherSuspended.csv",
+        "https://stats.moe.gov.tw/files/opendata/111_HigherSuspended.json"
+      ]
+    },
+    {
+      "id": "40115",
+      "name": "高級中等學校圖書館（室）概況",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_4_20.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_4_20.json"
+      ]
+    },
+    {
+      "id": "40116",
+      "name": "中等以下學校僑生人數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_4_19.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_4_19.json"
+      ]
+    },
+    {
+      "id": "40117",
+      "name": "各級學校原住民學生概況",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_A_1_7.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_A_1_7.json"
+      ]
+    },
+    {
+      "id": "40120",
+      "name": "各級學校女性教師人數及所占比率",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/67_113edu_A_2_2.csv",
+        "https://stats.moe.gov.tw/files/opendata/67_113edu_A_2_2.json"
+      ]
+    },
+    {
+      "id": "40121",
+      "name": "各級學校縣市別學生人數",
+      "format": "csv",
+      "urls": [
+        "https://stats.moe.gov.tw/files/opendata/edu_B_1_4.csv",
+        "https://stats.moe.gov.tw/files/opendata/edu_B_1_4.json"
+      ]
+    }
+  ]
+}

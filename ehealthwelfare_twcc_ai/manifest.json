@@ -1,0 +1,25 @@
+{
+  "provider": "衛生福利部資訊處",
+  "slug": "ehealthwelfare_twcc_ai",
+  "datasets": [
+    {
+      "id": "120384",
+      "name": "108年整年期間健康福祉科技整合照護示範場域推動計畫",
+      "format": "json",
+      "urls": [
+        "https://ehealthwelfare.twcc.ai/api/household/getDistribution?year=2019",
+        "https://ehealthwelfare.twcc.ai/api/casePatient/getAcceptCount?year=2019",
+        "https://ehealthwelfare.twcc.ai/api/distanceHealthCare/getUseCount?year=2019",
+        "https://ehealthwelfare.twcc.ai/api/household/getCareRatio?year=2019"
+      ]
+    },
+    {
+      "id": "31284",
+      "name": "衛生福利部政府資料開放行動策略",
+      "format": "json",
+      "urls": [
+        "https://www.opendata.mohw.gov.tw/dataset/opendata/cc/31284/MOHW_opendata_docs.json"
+      ]
+    }
+  ]
+}

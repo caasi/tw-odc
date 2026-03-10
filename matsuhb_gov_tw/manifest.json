@@ -1,0 +1,30 @@
+{
+  "provider": "連江縣衛生福利局",
+  "slug": "matsuhb_gov_tw",
+  "datasets": [
+    {
+      "id": "144985",
+      "name": "連江縣流感疫苗接種計畫公費合約醫療院所資訊",
+      "format": "xlsx",
+      "urls": [
+        "https://www.matsuhb.gov.tw/upload/f-20210927080845.xlsx"
+      ]
+    },
+    {
+      "id": "157809",
+      "name": "連江縣（市）111年度流感疫苗接種計畫公費合約醫療院所",
+      "format": "ods",
+      "urls": [
+        "https://www.matsuhb.gov.tw/upload/f-20220907185233.ods"
+      ]
+    },
+    {
+      "id": "76061",
+      "name": "連江縣流感抗病毒藥劑合約配置點",
+      "format": "csv",
+      "urls": [
+        "https://www.matsu.gov.tw/upload/f-20180208100656.csv"
+      ]
+    }
+  ]
+}

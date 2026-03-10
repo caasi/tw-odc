@@ -1,0 +1,728 @@
+{
+  "provider": "財政部統計處",
+  "slug": "web02_mof_gov_tw",
+  "datasets": [
+    {
+      "id": "6739",
+      "name": "各級政府歲入歲出淨額、餘絀及融資",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=6300&kind=21&type=1&funid=i0101&cycle=4&outmode=12&compmode=00&outkind=11&fldspc=0%2C10%2C&utf=1"
+      ]
+    },
+    {
+      "id": "6740",
+      "name": "全國賦稅預算數-按稅目別分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=3&funid=i2451&cycle=4&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "41",
+        "42",
+        "9",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "6743",
+      "name": "全國賦稅收入實徵淨額日曆年別-按直接稅與間接稅分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9100&kind=21&type=5&funid=i2425&cycle=41&outmode=12&compmode=00&outkind=11&fldlst=111&utf=1"
+      ]
+    },
+    {
+      "id": "8472",
+      "name": "公庫支出淨額－按政事別及公庫別",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=8600&kind=21&type=2&funid=i2202&cycle=4&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "22",
+        "&codspc0=0",
+        "6",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8378",
+      "name": "進出口貿易值",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=i8101&cycle=41&outmode=12&compmode=00&outkind=1&fld0=1&codlst0=11001001&utf=1"
+      ]
+    },
+    {
+      "id": "8382",
+      "name": "進出口貿易值_按國際貿易標準(SITC)分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=i8151&cycle=41&outmode=12&compmode=00&outkind=1&fld0=1&codlst0=11&codspc1=0",
+        "2",
+        "12",
+        "1",
+        "15",
+        "1",
+        "25",
+        "1",
+        "30",
+        "1",
+        "34",
+        "1",
+        "44",
+        "1",
+        "55",
+        "1",
+        "70",
+        "1",
+        "80",
+        "1",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8385",
+      "name": "貿易指數－總指數(連鎖指數)",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10000&kind=21&type=4&funid=i8301&cycle=41&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "8",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28536",
+      "name": "對中國大陸及香港出口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8201&cycle=41&outmode=12&compmode=00&outkind=12&fld1=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28538",
+      "name": "對日本出口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8201&cycle=41&outmode=12&compmode=00&outkind=12&fld3=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28554",
+      "name": "自日本進口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8202&cycle=41&outmode=12&compmode=00&outkind=12&fld3=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28557",
+      "name": "自東協進口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8202&cycle=41&outmode=12&compmode=00&outkind=12&fld6=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28558",
+      "name": "自德國進口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8202&cycle=41&outmode=12&compmode=00&outkind=12&fld5=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "146645",
+      "name": "國人贈與受贈人數 ",
+      "format": "csv",
+      "urls": [
+        "https://service.mof.gov.tw/public/Data/statistic/gender/opendata/a2140.csv"
+      ]
+    },
+    {
+      "id": "146647",
+      "name": "幼兒學前特別扣除額受益戶數 ",
+      "format": "csv",
+      "urls": [
+        "https://service.mof.gov.tw/public/Data/statistic/gender/opendata/a2070.csv"
+      ]
+    },
+    {
+      "id": "6671",
+      "name": "全國賦稅收入實徵淨額日曆年別-按稅目別分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=6300&kind=21&type=5&funid=i0421&cycle=41&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "44",
+        "45",
+        "9",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "6744",
+      "name": "賦稅負擔率(不含社會安全捐)-按國家別分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=5400&kind=21&type=5&funid=i2801&cycle=4&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "21",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "6741",
+      "name": "全國賦稅收入實徵淨額日曆年別-按稅目別與機關別分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10000&kind=21&type=5&funid=i0423&cycle=41&outmode=12&compmode=00&outkind=2&fldspc=0",
+        "43",
+        "&codspc0=0",
+        "39",
+        "40",
+        "3",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "6742",
+      "name": "全國賦稅收入實徵淨額日曆年別-按稅目別與地區別分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=5&funid=i0424&cycle=41&outmode=12&compmode=00&outkind=2&fldspc=0",
+        "30",
+        "&codspc0=0",
+        "39",
+        "40",
+        "3",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "6939",
+      "name": "進出口貨品別貿易值－按貿易結構分類",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=i8102&cycle=41&outmode=12&compmode=00&outkind=1&fldlst=11&codspc0=0",
+        "10",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8379",
+      "name": "進出口貿易值_按洲別 ∕ 國別分(CY1981~2000)",
+      "format": "csv",
+      "urls": [
+        "https://service.mof.gov.tw/public/data/statistic/trade/u2011ex.csv",
+        "https://service.mof.gov.tw/public/data/statistic/trade/u2011im.csv"
+      ]
+    },
+    {
+      "id": "8380",
+      "name": "出口值_按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=i8121&cycle=41&outmode=12&compmode=00&outkind=1&fld0=1&codlst0=1101111010100011110111100111110110100&utf=1"
+      ]
+    },
+    {
+      "id": "8381",
+      "name": "進口值_按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=i8122&cycle=41&outmode=12&compmode=00&outkind=1&fld0=1&codlst0=11100011010101000111111101001000001101&utf=1"
+      ]
+    },
+    {
+      "id": "8383",
+      "name": "進出口貿易值_按國際商品統一分類制度(HS)分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=i8141&cycle=41&outmode=12&compmode=00&outkind=1&fld0=1&codlst0=11&codspc1=0",
+        "2",
+        "7",
+        "1",
+        "17",
+        "1",
+        "19",
+        "1",
+        "29",
+        "1",
+        "33",
+        "1",
+        "45",
+        "1",
+        "48",
+        "1",
+        "52",
+        "1",
+        "56",
+        "1",
+        "60",
+        "1",
+        "75",
+        "1",
+        "80",
+        "1",
+        "84",
+        "1",
+        "86",
+        "1",
+        "98",
+        "1",
+        "101",
+        "1",
+        "106",
+        "1",
+        "110",
+        "1",
+        "112",
+        "1",
+        "116",
+        "1",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8384",
+      "name": "進出口貿易值_按結構別複分類投入要素密集度分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=8700&kind=21&type=4&funid=i8131&cycle=41&outmode=12&compmode=00&outkind=1&fldlst=11&codspc0=0",
+        "13",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8389",
+      "name": "貿易指數－進口數量指數",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10000&kind=21&type=4&funid=i9305&cycle=41&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "6",
+        "7",
+        "1",
+        "9",
+        "1",
+        "11",
+        "7",
+        "20",
+        "1",
+        "28",
+        "2",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8474",
+      "name": "公庫支出－按政事別及公庫別",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=8800&kind=21&type=1&funid=i2206&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "13",
+        "&codspc0=0",
+        "10",
+        "&codlst1=11&utf=1"
+      ]
+    },
+    {
+      "id": "8475",
+      "name": "公庫結存－按公庫別",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=8800&kind=21&type=1&funid=i2203&cycle=41&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "11",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8476",
+      "name": "國庫收入－按來源別",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=8800&kind=21&type=1&funid=i2211&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0%2C14%2C&codlst0=11%2C&utf=1"
+      ]
+    },
+    {
+      "id": "8478",
+      "name": "國庫資金流通狀況",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=8800&kind=21&type=1&funid=i2213&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "16",
+        "&codlst0=11&utf=1"
+      ]
+    },
+    {
+      "id": "8470",
+      "name": "各級政府歲出淨額-按政事別分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=5100&kind=21&type=2&funid=i0121&cycle=4&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "11",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8471",
+      "name": "公庫收入淨額－按來源別及公庫別",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=7100&kind=21&type=2&funid=i2201&cycle=4&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "26",
+        "&codspc0=0",
+        "6",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28539",
+      "name": "對南韓出口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8201&cycle=41&outmode=12&compmode=00&outkind=12&fld4=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28543",
+      "name": "自中國大陸及香港進口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8202&cycle=41&outmode=12&compmode=00&outkind=12&fld1=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28544",
+      "name": "自美國進口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8202&cycle=41&outmode=12&compmode=00&outkind=12&fld2=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28483",
+      "name": "稅務行業標準分類",
+      "format": "csv",
+      "urls": [
+        "https://service.mof.gov.tw/public/Data/statistic/class/tsic.csv"
+      ]
+    },
+    {
+      "id": "15392",
+      "name": "進出口貿易值_按洲別 ∕ 國別分(CY2001~)",
+      "format": "csv",
+      "urls": [
+        "https://service.mof.gov.tw/public/data/statistic/trade/u2010ex.csv",
+        "https://service.mof.gov.tw/public/data/statistic/trade/u2010im.csv"
+      ]
+    },
+    {
+      "id": "90556",
+      "name": "營利事業家數-按地區別及稅務行業別分(107~111年)",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10700&ymt=10712&kind=21&type=6&funid=i0509&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "23",
+        "&codspc0=0",
+        "356",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10800&ymt=10812&kind=21&type=6&funid=i0509&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "23",
+        "&codspc0=0",
+        "356",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10900&ymt=10912&kind=21&type=6&funid=i0509&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "23",
+        "&codspc0=0",
+        "356",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=11000&ymt=11012&kind=21&type=6&funid=i0509&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "23",
+        "&codspc0=0",
+        "356",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=11100&ymt=11112&kind=21&type=6&funid=i0509&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "23",
+        "&codspc0=0",
+        "356",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "146646",
+      "name": "國人遺產拋棄繼承人數 ",
+      "format": "csv",
+      "urls": [
+        "https://service.mof.gov.tw/public/Data/statistic/gender/opendata/a2120.csv"
+      ]
+    },
+    {
+      "id": "16910",
+      "name": "全國賦稅收入實徵淨額與預算數之比較",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=3& funid=i3451&cycle=4&outmode=12&compmode=00&outkind=3&fldlst=1111&codspc0=0",
+        "3 4",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28573",
+      "name": "進出口貿易值_按國際商品統一分類制度(HS)及主要國別分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=i9901&cycle=41&outmode=12&compmode=00&outkind=1&fldspc=0",
+        "1",
+        "3",
+        "4",
+        "&codlst0=11&codspc1=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8467",
+      "name": "營利事業家數-按地區別及稅務行業別分(102年~106年)",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10200&ymt=10400&kind=21&type=6&funid=i0507&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0%2C23%2C&codlst0=111000100100111111000000001001100000100011100010011000001000001111000001000010000010000010000000100000010001000100001001000111000111100011110001000001100000000000000100000000000001100000100110000000110011001000011001001001110011000010000010000111001100100100100010011111000010011100011100011100000000110001111000111001100010001000001&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10500&ymt=10600&kind=21&type=6&funid=i0507&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0%2C23%2C&codlst0=111000100100111111000000001001100000100011100010011000001000001111000001000010000010000010000000100000010001000100001001000111000111100011110001000001100000000000000100000000000001100000100110000000110011001000011001001001110011000010000010000111001100100100100010011111000010011100011100011100000000110001111000111001100010001000001&utf=1"
+      ]
+    },
+    {
+      "id": "8468",
+      "name": "營利事業銷售額-按地區別及稅務行業別分(102年~106年)",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10200&ymt=10400&kind=21&type=6&funid=i0507&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=23",
+        "23",
+        "&codlst0=111000100100111111000000001001100000100011100010011000001000001111000001000010000010000010000000100000010001000100001001000111000111100011110001000001100000000000000100000000000001100000100110000000110011001000011001001001110011000010000010000111001100100100100010011111000010011100011100011100000000110001111000111001100010001000001&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10500&ymt=10600&kind=21&type=6&funid=i0507&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=23",
+        "23",
+        "&codlst0=111000100100111111000000001001100000100011100010011000001000001111000001000010000010000010000000100000010001000100001001000111000111100011110001000001100000000000000100000000000001100000100110000000110011001000011001001001110011000010000010000111001100100100100010011111000010011100011100011100000000110001111000111001100010001000001&utf=1"
+      ]
+    },
+    {
+      "id": "8469",
+      "name": "各級政府歲入淨額-按來源別分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=5100&kind=21&type=1&funid=i0111&cycle=4&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "11",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8473",
+      "name": "公庫收入－按來源別及公庫別",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=8800&kind=21&type=1&funid=i2205&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "18",
+        "&codspc0=0",
+        "11",
+        "&codlst1=11&utf=1"
+      ]
+    },
+    {
+      "id": "8386",
+      "name": "貿易指數－出口單位價值指數",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10000&kind=21&type=4&funid=i9302&cycle=41&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "8",
+        "9",
+        "7",
+        "17",
+        "1",
+        "25",
+        "2",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8387",
+      "name": "貿易指數－出口數量指數",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10000&kind=21&type=4&funid=i9304&cycle=41&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "8",
+        "9",
+        "7",
+        "17",
+        "1",
+        "25",
+        "2",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8388",
+      "name": "貿易指數－進口單位價值指數",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10000&kind=21&type=4&funid=i9303&cycle=41&outmode=12&compmode=00&outkind=11&fldspc=0",
+        "6",
+        "7",
+        "1",
+        "9",
+        "1",
+        "11",
+        "7",
+        "20",
+        "1",
+        "28",
+        "2",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "8477",
+      "name": "國庫支出－按政事別",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=8800&kind=21&type=1&funid=i2211&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "16",
+        "&codlst0=11&utf=1"
+      ]
+    },
+    {
+      "id": "28537",
+      "name": "對美國出口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8201&cycle=41&outmode=12&compmode=00&outkind=12&fld2=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28540",
+      "name": "對東協出口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8201&cycle=41&outmode=12&compmode=00&outkind=12&fld6=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28541",
+      "name": "對德國出口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8201&cycle=41&outmode=12&compmode=00&outkind=12&fld5=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "28555",
+      "name": "自南韓進口－按主要貨品分",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&kind=21&type=4&funid=op8202&cycle=41&outmode=12&compmode=00&outkind=12&fld4=1&codspc0=0",
+        "20",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "90558",
+      "name": "營利事業銷售額-按地區別及稅務行業別分(107年~111年)",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10700&ymt=10712&kind=21&type=6&funid=i0509&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=23",
+        "23",
+        "&codspc0=0",
+        "356",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10800&ymt=10812&kind=21&type=6&funid=i0509&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=23",
+        "23",
+        "&codspc0=0",
+        "356",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=10900&ymt=10912&kind=21&type=6&funid=i0509&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=23",
+        "23",
+        "&codspc0=0",
+        "356",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=11000&ymt=11012&kind=21&type=6&funid=i0509&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=23",
+        "23",
+        "&codspc0=0",
+        "356",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=11100&ymt=11112&kind=21&type=6&funid=i0509&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=23",
+        "23",
+        "&codspc0=0",
+        "356",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "46440",
+      "name": "結構別複分類－按OECD科技產業分類",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=8700&kind=21&type=4&funid=op8135&cycle=41&outmode=12&compmode=00&outkind=1&deflst=2&utf=1compmode=00&outkind=1&fldlst=11&codspc0=0",
+        "5",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "161861",
+      "name": "營利事業銷售額-按地區別及稅務行業別分(112年~116年)",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=11200&ymt=11212&kind=21&type=6&funid=i0520&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=23",
+        "23",
+        "&codspc0=0",
+        "358",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=11300&ymt=11312&kind=21&type=6&funid=i0520&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=23",
+        "23",
+        "&codspc0=0",
+        "358",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=11400&ymt=11412&kind=21&type=6&funid=i0520&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=23",
+        "23",
+        "&codspc0=0",
+        "358",
+        "&utf=1"
+      ]
+    },
+    {
+      "id": "161864",
+      "name": "營利事業家數-按地區別及稅務行業別分(112~116年)",
+      "format": "csv",
+      "urls": [
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=11200&ymt=11212&kind=21&type=6&funid=i0520&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "23",
+        "&codspc0=0",
+        "358",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=11300&ymt=11312&kind=21&type=6&funid=i0520&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "23",
+        "&codspc0=0",
+        "358",
+        "&utf=1",
+        "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=11400&ymt=11412&kind=21&type=6&funid=i0520&cycle=41&outmode=12&compmode=00&outkind=3&fldspc=0",
+        "23",
+        "&codspc0=0",
+        "358",
+        "&utf=1"
+      ]
+    }
+  ]
+}
