@@ -1,0 +1,46 @@
+{
+  "provider": "外交部",
+  "slug": "mofa_gov_tw",
+  "datasets": [
+    {
+      "id": "32001",
+      "name": "駐外館處名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.mofa.gov.tw/uploadfiles/opendata/overseas_offices.csv"
+      ]
+    },
+    {
+      "id": "32002",
+      "name": "在台外國機構名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.mofa.gov.tw/uploadfiles/opendata/foreign_offices_in_taiwan.csv"
+      ]
+    },
+    {
+      "id": "32003",
+      "name": "邦交國清單",
+      "format": "csv",
+      "urls": [
+        "https://www.mofa.gov.tw/uploadfiles/opendata/diplomatic_allies.csv"
+      ]
+    },
+    {
+      "id": "32004",
+      "name": "護照申辦統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.mofa.gov.tw/uploadfiles/opendata/passport_statistics.csv"
+      ]
+    },
+    {
+      "id": "32005",
+      "name": "簽證申請統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.mofa.gov.tw/uploadfiles/opendata/visa_statistics.csv"
+      ]
+    }
+  ]
+}

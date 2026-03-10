@@ -1,0 +1,54 @@
+{
+  "provider": "金融監督管理委員會",
+  "slug": "fsc_gov_tw",
+  "datasets": [
+    {
+      "id": "35001",
+      "name": "銀行業務統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.fsc.gov.tw/uploadfiles/opendata/bank_statistics.csv"
+      ]
+    },
+    {
+      "id": "35002",
+      "name": "保險業務統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.fsc.gov.tw/uploadfiles/opendata/insurance_statistics.csv"
+      ]
+    },
+    {
+      "id": "35003",
+      "name": "證券期貨業統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.fsc.gov.tw/uploadfiles/opendata/securities_futures_statistics.csv"
+      ]
+    },
+    {
+      "id": "35004",
+      "name": "上市上櫃公司資本額統計",
+      "format": "csv",
+      "urls": [
+        "https://www.fsc.gov.tw/uploadfiles/opendata/listed_company_capital.csv"
+      ]
+    },
+    {
+      "id": "35005",
+      "name": "金融機構許可名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.fsc.gov.tw/uploadfiles/opendata/financial_institution_licenses.csv"
+      ]
+    },
+    {
+      "id": "35006",
+      "name": "裁罰案件統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.fsc.gov.tw/uploadfiles/opendata/enforcement_actions.csv"
+      ]
+    }
+  ]
+}
