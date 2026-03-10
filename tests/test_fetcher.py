@@ -3,7 +3,7 @@ from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
-from tw_odc.fetcher import clean, fetch_all, _dest_filename
+from tw_odc.fetcher import clean, clean_dataset, fetch_all, _dest_filename
 
 
 def _make_manifest(tmp_path, datasets):
@@ -246,6 +246,122 @@ def test_clean_raises_without_manifest(tmp_path):
 
     with pytest.raises(FileNotFoundError, match="manifest.json not found"):
         clean(pkg_dir)
+
+
+def test_clean_dataset_removes_files_and_entries(tmp_path):
+    """clean_dataset() should remove dataset files and related entries from etags/issues/scores."""
+    pkg_dir = tmp_path / "test_provider"
+    pkg_dir.mkdir()
+    (pkg_dir / "manifest.json").write_text("{}")
+
+    ds_dir = pkg_dir / "datasets"
+    ds_dir.mkdir()
+    (ds_dir / "1001.csv").write_text("data")
+    (ds_dir / "1002.json").write_text("other")
+
+    (pkg_dir / "etags.json").write_text(json.dumps({
+        "https://example.com/1001.csv": {"etag": "\"aaa\""},
+        "https://example.com/1002.json": {"etag": "\"bbb\""},
+    }))
+    (pkg_dir / "issues.jsonl").write_text(
+        '{"file": "1001.csv", "url": "https://example.com/1001.csv", "issue": "http_error"}\n'
+        '{"file": "1002.json", "url": "https://example.com/1002.json", "issue": "ssl_error"}\n'
+    )
+    (pkg_dir / "scores.json").write_text(json.dumps({
+        "provider": "測試",
+        "datasets": [
+            {"id": "1001", "star_score": 2},
+            {"id": "1002", "star_score": 3},
+        ],
+    }))
+
+    removed = clean_dataset(pkg_dir, "1001", ["https://example.com/1001.csv"])
+
+    assert "1001.csv" in removed
+    assert not (ds_dir / "1001.csv").exists()
+    assert (ds_dir / "1002.json").exists()
+
+    # etags.json should only have 1002
+    etags = json.loads((pkg_dir / "etags.json").read_text())
+    assert "https://example.com/1001.csv" not in etags
+    assert "https://example.com/1002.json" in etags
+
+    # issues.jsonl should only have 1002
+    lines = (pkg_dir / "issues.jsonl").read_text().strip().splitlines()
+    assert len(lines) == 1
+    assert "1002.json" in lines[0]
+
+    # scores.json should only have 1002
+    scores = json.loads((pkg_dir / "scores.json").read_text())
+    assert len(scores["datasets"]) == 1
+    assert scores["datasets"][0]["id"] == "1002"
+
+
+def test_clean_dataset_removes_files_when_last_entry(tmp_path):
+    """clean_dataset() should delete the file entirely when no entries remain."""
+    pkg_dir = tmp_path / "test_provider"
+    pkg_dir.mkdir()
+    (pkg_dir / "manifest.json").write_text("{}")
+
+    (pkg_dir / "etags.json").write_text(json.dumps({
+        "https://example.com/1001.csv": {"etag": "\"aaa\""},
+    }))
+    (pkg_dir / "issues.jsonl").write_text(
+        '{"file": "1001.csv", "issue": "http_error"}\n'
+    )
+    (pkg_dir / "scores.json").write_text(json.dumps({
+        "provider": "測試",
+        "datasets": [{"id": "1001", "star_score": 2}],
+    }))
+
+    removed = clean_dataset(pkg_dir, "1001", ["https://example.com/1001.csv"])
+
+    assert not (pkg_dir / "etags.json").exists()
+    assert not (pkg_dir / "issues.jsonl").exists()
+    assert not (pkg_dir / "scores.json").exists()
+    assert "etags.json (部分)" in removed
+    assert "issues.jsonl (部分)" in removed
+    assert "scores.json (部分)" in removed
+
+
+def test_clean_dataset_multi_url(tmp_path):
+    """clean_dataset() should handle datasets with multiple URLs."""
+    pkg_dir = tmp_path / "test_provider"
+    pkg_dir.mkdir()
+    (pkg_dir / "manifest.json").write_text("{}")
+
+    ds_dir = pkg_dir / "datasets"
+    ds_dir.mkdir()
+    (ds_dir / "2001-1.csv").write_text("a")
+    (ds_dir / "2001-2.csv").write_text("b")
+
+    (pkg_dir / "etags.json").write_text(json.dumps({
+        "https://example.com/part1.csv": {"etag": "\"a\""},
+        "https://example.com/part2.csv": {"etag": "\"b\""},
+    }))
+
+    removed = clean_dataset(
+        pkg_dir, "2001",
+        ["https://example.com/part1.csv", "https://example.com/part2.csv"],
+    )
+
+    assert "2001-1.csv" in removed
+    assert "2001-2.csv" in removed
+    assert not (pkg_dir / "etags.json").exists()
+
+
+def test_clean_dataset_no_side_files(tmp_path):
+    """clean_dataset() should work when etags/issues/scores don't exist."""
+    pkg_dir = tmp_path / "test_provider"
+    pkg_dir.mkdir()
+    (pkg_dir / "manifest.json").write_text("{}")
+
+    ds_dir = pkg_dir / "datasets"
+    ds_dir.mkdir()
+    (ds_dir / "1001.csv").write_text("data")
+
+    removed = clean_dataset(pkg_dir, "1001", ["https://example.com/1001.csv"])
+    assert removed == ["1001.csv"]
 
 
 @pytest.mark.asyncio

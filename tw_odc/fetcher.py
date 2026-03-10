@@ -51,6 +51,85 @@ def clean(pkg_dir: Path) -> list[str]:
     return removed
 
 
+def clean_dataset(pkg_dir: Path, dataset_id: str, dataset_urls: list[str]) -> list[str]:
+    """Remove generated files for a single dataset.
+
+    Deletes matching files in datasets/, and removes related entries from
+    etags.json, issues.jsonl, and scores.json.
+    Returns list of descriptions of what was removed.
+    """
+    removed: list[str] = []
+
+    # Remove dataset files
+    datasets_dir = pkg_dir / "datasets"
+    if datasets_dir.exists():
+        for f in datasets_dir.glob(f"{dataset_id}.*"):
+            f.unlink()
+            removed.append(str(f.name))
+        for f in datasets_dir.glob(f"{dataset_id}-*"):
+            f.unlink()
+            removed.append(str(f.name))
+
+    # Remove matching entries from etags.json
+    etags_path = pkg_dir / "etags.json"
+    if etags_path.exists():
+        etags = json.loads(etags_path.read_text(encoding="utf-8"))
+        url_set = set(dataset_urls)
+        filtered = {k: v for k, v in etags.items() if k not in url_set}
+        if len(filtered) < len(etags):
+            removed.append("etags.json (部分)")
+            if filtered:
+                etags_path.write_text(
+                    json.dumps(filtered, ensure_ascii=False, indent=2),
+                    encoding="utf-8",
+                )
+            else:
+                etags_path.unlink()
+
+    # Remove matching lines from issues.jsonl
+    issues_path = pkg_dir / "issues.jsonl"
+    if issues_path.exists():
+        lines = issues_path.read_text(encoding="utf-8").splitlines()
+        kept = []
+        removed_count = 0
+        prefix = f"{dataset_id}."
+        prefix_dash = f"{dataset_id}-"
+        for line in lines:
+            if not line.strip():
+                continue
+            entry = json.loads(line)
+            fname = entry.get("file", "")
+            if fname.startswith(prefix) or fname.startswith(prefix_dash):
+                removed_count += 1
+            else:
+                kept.append(line)
+        if removed_count > 0:
+            removed.append("issues.jsonl (部分)")
+            if kept:
+                issues_path.write_text("\n".join(kept) + "\n", encoding="utf-8")
+            else:
+                issues_path.unlink()
+
+    # Remove matching entries from scores.json
+    scores_path = pkg_dir / "scores.json"
+    if scores_path.exists():
+        scores = json.loads(scores_path.read_text(encoding="utf-8"))
+        datasets = scores.get("datasets", [])
+        filtered_ds = [d for d in datasets if str(d.get("id")) != dataset_id]
+        if len(filtered_ds) < len(datasets):
+            removed.append("scores.json (部分)")
+            if filtered_ds:
+                scores["datasets"] = filtered_ds
+                scores_path.write_text(
+                    json.dumps(scores, ensure_ascii=False, indent=2),
+                    encoding="utf-8",
+                )
+            else:
+                scores_path.unlink()
+
+    return removed
+
+
 async def fetch_all(
     manifest: dict,
     output_dir: Path,

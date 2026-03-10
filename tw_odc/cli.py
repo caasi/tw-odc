@@ -307,18 +307,17 @@ def dataset_clean(
 ) -> None:
     """清除下載的檔案。"""
     pkg_dir = _get_dataset_dir(ctx)
-    _load_and_check(pkg_dir, ManifestType.DATASET)
+    manifest = _load_and_check(pkg_dir, ManifestType.DATASET)
 
     if dataset_id:
-        datasets_dir = pkg_dir / "datasets"
-        removed = []
-        if datasets_dir.exists():
-            for f in datasets_dir.glob(f"{dataset_id}.*"):
-                f.unlink()
-                removed.append(str(f.name))
-            for f in datasets_dir.glob(f"{dataset_id}-*"):
-                f.unlink()
-                removed.append(str(f.name))
+        from tw_odc.fetcher import clean_dataset
+
+        matched = [ds for ds in manifest["datasets"] if str(ds["id"]) == dataset_id]
+        if not matched:
+            print(f"錯誤: 找不到 ID 為 {dataset_id} 的資料集", file=sys.stderr)
+            raise typer.Exit(code=1)
+        urls = matched[0].get("urls", [])
+        removed = clean_dataset(pkg_dir, dataset_id, urls)
         _output({"removed": removed}, fmt)
     else:
         from tw_odc.fetcher import clean
