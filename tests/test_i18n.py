@@ -65,3 +65,34 @@ class TestTranslation:
         setup_locale("en")
         result = t("nonexistent.key")
         assert "nonexistent.key" in result
+
+
+class TestIntegration:
+    def test_all_keys_present_in_both_locales(self):
+        """Every key in en.json must exist in zh-TW.json and vice versa."""
+        import json
+        from pathlib import Path
+
+        locales_dir = Path(__file__).parent.parent / "tw_odc" / "locales"
+        en = json.loads((locales_dir / "en.json").read_text(encoding="utf-8"))
+        zh = json.loads((locales_dir / "zh-TW.json").read_text(encoding="utf-8"))
+        assert set(en.keys()) == set(zh.keys()), (
+            f"Missing in zh-TW: {set(en.keys()) - set(zh.keys())}, "
+            f"Missing in en: {set(zh.keys()) - set(en.keys())}"
+        )
+
+    def test_cli_lang_flag_produces_chinese(self, tmp_path, monkeypatch):
+        """End-to-end: --lang zh-TW should produce Chinese error output."""
+        import json
+        from typer.testing import CliRunner
+        from tw_odc.cli import app
+
+        manifest = {"type": "dataset", "provider": "T", "slug": "t", "datasets": []}
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+        monkeypatch.chdir(tmp_path)
+
+        runner = CliRunner()
+        result = runner.invoke(app, ["--lang", "zh-TW", "metadata", "list"])
+        assert result.exit_code != 0
+        assert "E001" in result.output
+        assert "預期" in result.output
