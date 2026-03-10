@@ -12,7 +12,7 @@ app = typer.Typer()
 @app.callback(invoke_without_command=True)
 def crawl(
     ctx: typer.Context,
-    only: str = typer.Option(None, "--only", help="只下載指定檔案（datasets/ 中的檔名）"),
+    only: str | None = typer.Option(None, "--only", help="只下載指定檔案（datasets/ 中的檔名）"),
     no_cache: bool = typer.Option(False, "--no-cache", help="忽略 ETag 快取，強制重新下載"),
 ) -> None:
     """下載此機關的所有開放資料集。"""
