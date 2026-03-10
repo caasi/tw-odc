@@ -1,0 +1,62 @@
+{
+  "provider": "教育部",
+  "slug": "moe_gov_tw",
+  "datasets": [
+    {
+      "id": "24001",
+      "name": "各級學校基本統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moe.gov.tw/uploadfiles/opendata/school_statistics.csv"
+      ]
+    },
+    {
+      "id": "24002",
+      "name": "大專校院學生人數統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moe.gov.tw/uploadfiles/opendata/university_student_statistics.csv"
+      ]
+    },
+    {
+      "id": "24003",
+      "name": "國中小學生人數統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moe.gov.tw/uploadfiles/opendata/k12_student_statistics.csv"
+      ]
+    },
+    {
+      "id": "24004",
+      "name": "教師人數統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moe.gov.tw/uploadfiles/opendata/teacher_statistics.csv"
+      ]
+    },
+    {
+      "id": "24005",
+      "name": "學生學習成就資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moe.gov.tw/uploadfiles/opendata/student_achievement_statistics.csv"
+      ]
+    },
+    {
+      "id": "24006",
+      "name": "外國學生來臺就讀統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moe.gov.tw/uploadfiles/opendata/foreign_student_statistics.csv"
+      ]
+    },
+    {
+      "id": "24007",
+      "name": "教育經費統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moe.gov.tw/uploadfiles/opendata/education_expenditure_statistics.csv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "provider": "內政部",
+  "slug": "moi_gov_tw",
+  "datasets": [
+    {
+      "id": "23001",
+      "name": "人口統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moi.gov.tw/uploadfiles/opendata/population_statistics.csv"
+      ]
+    },
+    {
+      "id": "23002",
+      "name": "出生、死亡、結婚、離婚統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moi.gov.tw/uploadfiles/opendata/vital_statistics.csv"
+      ]
+    },
+    {
+      "id": "23003",
+      "name": "建築管理統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moi.gov.tw/uploadfiles/opendata/building_statistics.csv"
+      ]
+    },
+    {
+      "id": "23004",
+      "name": "地政業務統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moi.gov.tw/uploadfiles/opendata/land_administration_statistics.csv"
+      ]
+    },
+    {
+      "id": "23005",
+      "name": "入出境及移民統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moi.gov.tw/uploadfiles/opendata/immigration_statistics.csv"
+      ]
+    },
+    {
+      "id": "23006",
+      "name": "宗教統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moi.gov.tw/uploadfiles/opendata/religious_statistics.csv"
+      ]
+    },
+    {
+      "id": "23007",
+      "name": "社會福利統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moi.gov.tw/uploadfiles/opendata/social_welfare_statistics.csv"
+      ]
+    },
+    {
+      "id": "23008",
+      "name": "不動產交易成交案件資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moi.gov.tw/uploadfiles/opendata/real_estate_transactions.csv"
+      ]
+    }
+  ]
+}

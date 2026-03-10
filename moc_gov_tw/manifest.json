@@ -1,0 +1,54 @@
+{
+  "provider": "文化部",
+  "slug": "moc_gov_tw",
+  "datasets": [
+    {
+      "id": "34001",
+      "name": "文化資產基本資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moc.gov.tw/uploadfiles/opendata/cultural_heritage.csv"
+      ]
+    },
+    {
+      "id": "34002",
+      "name": "博物館基本資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moc.gov.tw/uploadfiles/opendata/museum_data.csv"
+      ]
+    },
+    {
+      "id": "34003",
+      "name": "出版品資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moc.gov.tw/uploadfiles/opendata/publication_data.csv"
+      ]
+    },
+    {
+      "id": "34004",
+      "name": "藝文活動資料",
+      "format": "json",
+      "urls": [
+        "https://www.moc.gov.tw/uploadfiles/opendata/cultural_events.json"
+      ]
+    },
+    {
+      "id": "34005",
+      "name": "電影產業統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moc.gov.tw/uploadfiles/opendata/film_industry_statistics.csv"
+      ]
+    },
+    {
+      "id": "34006",
+      "name": "圖書館統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moc.gov.tw/uploadfiles/opendata/library_statistics.csv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "provider": "國家發展委員會",
+  "slug": "ndc_gov_tw",
+  "datasets": [
+    {
+      "id": "30001",
+      "name": "中華民國人口推計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ndc.gov.tw/uploadfiles/opendata/population_projection.csv"
+      ]
+    },
+    {
+      "id": "30002",
+      "name": "國家發展計畫執行概況",
+      "format": "csv",
+      "urls": [
+        "https://www.ndc.gov.tw/uploadfiles/opendata/national_development_plan.csv"
+      ]
+    },
+    {
+      "id": "30003",
+      "name": "政府服務品質獎評核結果",
+      "format": "csv",
+      "urls": [
+        "https://www.ndc.gov.tw/uploadfiles/opendata/government_service_award.csv"
+      ]
+    },
+    {
+      "id": "30004",
+      "name": "數位服務指標資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ndc.gov.tw/uploadfiles/opendata/digital_service_indicators.csv"
+      ]
+    },
+    {
+      "id": "30005",
+      "name": "景氣指標統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ndc.gov.tw/uploadfiles/opendata/economic_indicators.csv"
+      ]
+    },
+    {
+      "id": "30006",
+      "name": "開放資料應用案例資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ndc.gov.tw/uploadfiles/opendata/open_data_use_cases.csv"
+      ]
+    }
+  ]
+}
