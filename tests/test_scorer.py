@@ -1,7 +1,7 @@
 import json
 
-from shared.inspector import InspectionResult
-from shared.scorer import score_dataset, score_provider
+from tw_odc.inspector import InspectionResult
+from tw_odc.scorer import score_dataset, score_provider
 
 
 class TestScoreDataset:

@@ -3,17 +3,16 @@ from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
-from shared.fetcher import clean, fetch_all
+from tw_odc.fetcher import clean, fetch_all, _dest_filename
 
 
 def _make_manifest(tmp_path, datasets):
-    """Create a minimal package with manifest.json."""
-    manifest = {"provider": "測試機關", "slug": "test_provider", "datasets": datasets}
+    """Create a minimal package with manifest.json, return (manifest_dict, pkg_dir)."""
+    manifest = {"type": "dataset", "provider": "測試機關", "slug": "test_provider", "datasets": datasets}
     pkg_dir = tmp_path / "test_provider"
     pkg_dir.mkdir()
     (pkg_dir / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False))
-    (pkg_dir / "__init__.py").write_text("")
-    return pkg_dir
+    return manifest, pkg_dir
 
 
 def _make_mock_session(status, content=b""):
@@ -44,7 +43,7 @@ def _make_mock_session(status, content=b""):
 
 @pytest.mark.asyncio
 async def test_fetch_all_downloads_from_manifest(tmp_path):
-    pkg_dir = _make_manifest(tmp_path, [
+    manifest, pkg_dir = _make_manifest(tmp_path, [
         {"id": "1001", "name": "測試資料", "format": "CSV", "urls": ["https://example.com/data.csv"]},
         {"id": "1002", "name": "另一筆", "format": "JSON", "urls": ["https://example.com/data.json"]},
     ])
@@ -52,7 +51,7 @@ async def test_fetch_all_downloads_from_manifest(tmp_path):
     mock_session = _make_mock_session(200, mock_content)
 
     with patch("aiohttp.ClientSession", return_value=mock_session):
-        await fetch_all(str(pkg_dir / "__init__.py"))
+        await fetch_all(manifest, pkg_dir / "datasets")
 
     datasets_dir = pkg_dir / "datasets"
     assert (datasets_dir / "1001.csv").read_bytes() == mock_content
@@ -61,13 +60,13 @@ async def test_fetch_all_downloads_from_manifest(tmp_path):
 
 @pytest.mark.asyncio
 async def test_fetch_all_handles_http_error(tmp_path):
-    pkg_dir = _make_manifest(tmp_path, [
+    manifest, pkg_dir = _make_manifest(tmp_path, [
         {"id": "1001", "name": "測試資料", "format": "CSV", "urls": ["https://example.com/data.csv"]},
     ])
     mock_session = _make_mock_session(500)
 
     with patch("aiohttp.ClientSession", return_value=mock_session):
-        await fetch_all(str(pkg_dir / "__init__.py"))
+        await fetch_all(manifest, pkg_dir / "datasets")
 
     assert not (pkg_dir / "datasets" / "1001.csv").exists()
 
@@ -77,7 +76,7 @@ async def test_fetch_all_handles_network_error(tmp_path):
     """A network error for one download should not abort others."""
     import aiohttp as _aiohttp
 
-    pkg_dir = _make_manifest(tmp_path, [
+    manifest, pkg_dir = _make_manifest(tmp_path, [
         {"id": "good", "name": "正常資料", "format": "CSV", "urls": ["https://example.com/good.csv"]},
         {"id": "bad", "name": "壞連結", "format": "CSV", "urls": ["https://example.com/bad.csv"]},
     ])
@@ -113,8 +112,7 @@ async def test_fetch_all_handles_network_error(tmp_path):
     mock_session.__aexit__ = AsyncMock(return_value=False)
 
     with patch("aiohttp.ClientSession", return_value=mock_session):
-        # Should not raise even though one download fails
-        await fetch_all(str(pkg_dir / "__init__.py"))
+        await fetch_all(manifest, pkg_dir / "datasets")
 
     assert (pkg_dir / "datasets" / "good.csv").exists()
     assert not (pkg_dir / "datasets" / "bad.csv").exists()
@@ -122,8 +120,6 @@ async def test_fetch_all_handles_network_error(tmp_path):
 
 def test_dest_filename_rejects_path_traversal(tmp_path):
     """dataset ids or formats with path separators must be rejected."""
-    from shared.fetcher import _dest_filename
-
     with pytest.raises(ValueError, match="Unsafe dataset id"):
         _dest_filename({"id": "../__init__", "format": "py"}, 0, 1)
 
@@ -133,8 +129,6 @@ def test_dest_filename_rejects_path_traversal(tmp_path):
 
 def test_dest_filename_accepts_unicode_format():
     """Chinese format names like '其他' should be accepted."""
-    from shared.fetcher import _dest_filename
-
     result = _dest_filename({"id": "1001", "format": "其他"}, 0, 1)
     assert result == "1001.其他"
 
@@ -142,7 +136,7 @@ def test_dest_filename_accepts_unicode_format():
 @pytest.mark.asyncio
 async def test_fetch_all_blocks_domain_on_429(tmp_path):
     """After a 429, all subsequent requests to the same domain are skipped."""
-    pkg_dir = _make_manifest(tmp_path, [
+    manifest, pkg_dir = _make_manifest(tmp_path, [
         {"id": "1001", "name": "First", "format": "CSV", "urls": ["https://blocked.example.com/a.csv"]},
         {"id": "1002", "name": "Second", "format": "CSV", "urls": ["https://blocked.example.com/b.csv"]},
         {"id": "1003", "name": "Other domain", "format": "CSV", "urls": ["https://other.example.com/c.csv"]},
@@ -179,7 +173,7 @@ async def test_fetch_all_blocks_domain_on_429(tmp_path):
     mock_session.__aexit__ = AsyncMock(return_value=False)
 
     with patch("aiohttp.ClientSession", return_value=mock_session):
-        await fetch_all(str(pkg_dir / "__init__.py"), concurrency=1)
+        await fetch_all(manifest, pkg_dir / "datasets", concurrency=1)
 
     # Only 1 request should hit blocked domain (the first one triggers 429, second is skipped)
     assert call_count["blocked.example.com"] == 1
@@ -189,7 +183,7 @@ async def test_fetch_all_blocks_domain_on_429(tmp_path):
 
 @pytest.mark.asyncio
 async def test_fetch_all_handles_multiple_urls(tmp_path):
-    pkg_dir = _make_manifest(tmp_path, [
+    manifest, pkg_dir = _make_manifest(tmp_path, [
         {
             "id": "2001",
             "name": "多檔資料",
@@ -204,7 +198,7 @@ async def test_fetch_all_handles_multiple_urls(tmp_path):
     mock_session = _make_mock_session(200, mock_content)
 
     with patch("aiohttp.ClientSession", return_value=mock_session):
-        await fetch_all(str(pkg_dir / "__init__.py"))
+        await fetch_all(manifest, pkg_dir / "datasets")
 
     datasets_dir = pkg_dir / "datasets"
     assert (datasets_dir / "2001-1.csv").read_bytes() == mock_content
@@ -216,7 +210,6 @@ def test_clean_removes_all_generated_files(tmp_path):
     pkg_dir = tmp_path / "test_provider"
     pkg_dir.mkdir()
     (pkg_dir / "manifest.json").write_text("{}")
-    (pkg_dir / "__init__.py").write_text("")
 
     # Create generated files
     ds_dir = pkg_dir / "datasets"
@@ -226,15 +219,13 @@ def test_clean_removes_all_generated_files(tmp_path):
     (pkg_dir / "issues.jsonl").write_text("{}")
     (pkg_dir / "scores.json").write_text("{}")
 
-    removed = clean(str(pkg_dir / "__init__.py"))
+    removed = clean(pkg_dir)
 
     assert not ds_dir.exists()
     assert not (pkg_dir / "etags.json").exists()
     assert not (pkg_dir / "issues.jsonl").exists()
     assert not (pkg_dir / "scores.json").exists()
-    # manifest.json and __init__.py should remain
     assert (pkg_dir / "manifest.json").exists()
-    assert (pkg_dir / "__init__.py").exists()
     assert len(removed) == 4
 
 
@@ -243,9 +234,8 @@ def test_clean_nothing_to_delete(tmp_path):
     pkg_dir = tmp_path / "test_provider"
     pkg_dir.mkdir()
     (pkg_dir / "manifest.json").write_text("{}")
-    (pkg_dir / "__init__.py").write_text("")
 
-    removed = clean(str(pkg_dir / "__init__.py"))
+    removed = clean(pkg_dir)
     assert removed == []
 
 
@@ -253,23 +243,22 @@ def test_clean_raises_without_manifest(tmp_path):
     """clean() should raise FileNotFoundError when manifest.json is missing."""
     pkg_dir = tmp_path / "not_a_provider"
     pkg_dir.mkdir()
-    (pkg_dir / "__init__.py").write_text("")
 
     with pytest.raises(FileNotFoundError, match="manifest.json not found"):
-        clean(str(pkg_dir / "__init__.py"))
+        clean(pkg_dir)
 
 
 @pytest.mark.asyncio
 async def test_fetch_all_only_downloads_matching_file(tmp_path):
     """--only should download only the file whose dest name matches."""
-    pkg_dir = _make_manifest(tmp_path, [
+    manifest, pkg_dir = _make_manifest(tmp_path, [
         {"id": "1001", "name": "Target", "format": "CSV", "urls": ["https://example.com/a.csv"]},
         {"id": "1002", "name": "Skip", "format": "JSON", "urls": ["https://example.com/b.json"]},
     ])
     mock_session = _make_mock_session(200, b"data")
 
     with patch("aiohttp.ClientSession", return_value=mock_session):
-        await fetch_all(str(pkg_dir / "__init__.py"), only="1001.csv")
+        await fetch_all(manifest, pkg_dir / "datasets", only="1001.csv")
 
     assert (pkg_dir / "datasets" / "1001.csv").exists()
     assert not (pkg_dir / "datasets" / "1002.json").exists()
@@ -278,26 +267,25 @@ async def test_fetch_all_only_downloads_matching_file(tmp_path):
 @pytest.mark.asyncio
 async def test_fetch_all_only_no_match_prints_error(tmp_path, capsys):
     """--only with a non-existent filename should print available files and not create datasets/."""
-    pkg_dir = _make_manifest(tmp_path, [
+    manifest, pkg_dir = _make_manifest(tmp_path, [
         {"id": "1001", "name": "Data", "format": "CSV", "urls": ["https://example.com/a.csv"]},
     ])
 
-    await fetch_all(str(pkg_dir / "__init__.py"), only="nonexistent.csv")
+    await fetch_all(manifest, pkg_dir / "datasets", only="nonexistent.csv")
 
     captured = capsys.readouterr()
-    assert "1001.csv" in captured.out
+    assert "1001.csv" in captured.err
     assert not (pkg_dir / "datasets").exists()
 
 
 @pytest.mark.asyncio
 async def test_fetch_all_no_cache_skips_conditional_headers(tmp_path):
     """--no-cache should not send If-None-Match even when etags.json exists."""
-    pkg_dir = _make_manifest(tmp_path, [
+    manifest, pkg_dir = _make_manifest(tmp_path, [
         {"id": "1001", "name": "Data", "format": "CSV", "urls": ["https://example.com/a.csv"]},
     ])
     # Pre-populate etags.json
-    import json as _json
-    (pkg_dir / "etags.json").write_text(_json.dumps({
+    (pkg_dir / "etags.json").write_text(json.dumps({
         "https://example.com/a.csv": {"etag": "\"abc123\""}
     }))
 
@@ -326,6 +314,6 @@ async def test_fetch_all_no_cache_skips_conditional_headers(tmp_path):
     mock_session.__aexit__ = AsyncMock(return_value=False)
 
     with patch("aiohttp.ClientSession", return_value=mock_session):
-        await fetch_all(str(pkg_dir / "__init__.py"), no_cache=True)
+        await fetch_all(manifest, pkg_dir / "datasets", no_cache=True)
 
     assert "If-None-Match" not in captured_headers

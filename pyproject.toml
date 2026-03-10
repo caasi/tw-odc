@@ -1,15 +1,19 @@
 [project]
 name = "roc-open-data-checker"
 version = "0.1.0"
-description = "Add your description here"
+description = "Taiwan Open Data Checker — 台灣開放資料品質檢測工具"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "aiohttp>=3.13.3",
+    "jsonpatch>=1.33",
     "python-magic>=0.4.27",
     "rich>=13.0.0",
     "typer>=0.24.1",
 ]
+
+[project.scripts]
+tw-odc = "tw_odc.cli:app"
 
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
