@@ -1,0 +1,46 @@
+{
+  "provider": "僑務委員會",
+  "slug": "ocac_gov_tw",
+  "datasets": [
+    {
+      "id": "84601",
+      "name": "全球僑民人口統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ocac.gov.tw/uploadfiles/opendata/overseas_population.csv"
+      ]
+    },
+    {
+      "id": "84602",
+      "name": "海外僑立學校名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.ocac.gov.tw/uploadfiles/opendata/overseas_schools.csv"
+      ]
+    },
+    {
+      "id": "84603",
+      "name": "海外臺灣商會名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.ocac.gov.tw/uploadfiles/opendata/overseas_chambers.csv"
+      ]
+    },
+    {
+      "id": "84604",
+      "name": "僑生回國就學統計",
+      "format": "csv",
+      "urls": [
+        "https://www.ocac.gov.tw/uploadfiles/opendata/overseas_student_statistics.csv"
+      ]
+    },
+    {
+      "id": "84605",
+      "name": "僑務獎章核給統計",
+      "format": "csv",
+      "urls": [
+        "https://www.ocac.gov.tw/uploadfiles/opendata/overseas_award_statistics.csv"
+      ]
+    }
+  ]
+}
