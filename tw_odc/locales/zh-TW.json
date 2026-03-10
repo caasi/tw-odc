@@ -1,0 +1,22 @@
+{
+  "E001": "預期 manifest type 為 '%{expected}'，實際為 '%{actual}'",
+  "E002": "manifest 中找不到 export-json 資料集",
+  "E003": "%{path} 不存在，請先執行 tw-odc metadata download",
+  "E004": "找不到機關「%{provider}」",
+  "E005": "請指定 --provider 或 --dir",
+  "E006": "找不到 ID 為 %{id} 的資料集",
+  "E106": "找不到檔案: %{name}\n可用的檔案: %{available}",
+  "status.not_modified": "%{filename} (未變更)",
+  "status.downloaded": "%{filename} (%{size} bytes)",
+  "status.downloaded_ssl_skip": "%{filename} (%{size} bytes) (SSL 驗證跳過)",
+  "status.rate_limited": "%{filename}: HTTP 429 — 已封鎖 %{domain} 的所有請求",
+  "status.http_error": "%{filename}: HTTP %{status}",
+  "status.skipped_blocked": "%{filename} (跳過, %{domain} 已被 429 封鎖)",
+  "status.ssl_retry": "%{filename}: SSL 錯誤，嘗試跳過驗證重試",
+  "status.retry_failed": "%{filename}: 重試失敗: %{error}",
+  "status.network_error": "%{filename}: 網路錯誤: %{error}",
+  "status.unexpected_error": "%{filename}: 非預期錯誤: %{error}",
+  "summary.issues": "⚠ %{count} 個問題已記錄到 %{path}",
+  "output.count_suffix": "(%{count} 筆)",
+  "output.partial": "(部分)"
+}
