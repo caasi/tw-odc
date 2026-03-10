@@ -19,9 +19,14 @@ from tw_odc.manifest import (
 app = typer.Typer(name="tw-odc")
 
 
+class Lang(StrEnum):
+    EN = "en"
+    ZH_TW = "zh-TW"
+
+
 @app.callback()
 def main_callback(
-    lang: str | None = typer.Option(None, "--lang", help="Language: en, zh-TW"),
+    lang: Lang | None = typer.Option(None, "--lang", help="Language: en, zh-TW"),
 ) -> None:
     """Taiwan Open Data Checker CLI."""
     setup_locale(lang)
