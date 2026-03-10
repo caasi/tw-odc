@@ -3,7 +3,7 @@ from pathlib import Path
 
 import typer
 
-from shared.scaffold import group_by_provider, scaffold_provider
+from shared.scaffold import derive_slug, group_by_provider, scaffold_provider
 
 app = typer.Typer()
 
@@ -16,6 +16,12 @@ def list_providers(
     query: str = typer.Option(
         "", help="篩選機關名稱（模糊比對）"
     ),
+    missing: bool = typer.Option(
+        False, "--missing", help="只顯示尚未產生 package 的機關"
+    ),
+    output_dir: Path = typer.Option(
+        ".", help="掃描已存在 package 的根目錄（與 scaffold 的 --output-dir 相同）"
+    ),
 ) -> None:
     """列出 export.json 中所有提供機關。"""
     data = json.loads(export_json.read_text(encoding="utf-8"))
@@ -24,6 +30,16 @@ def list_providers(
     for name, datasets in sorted(groups.items()):
         if query and query not in name:
             continue
+        if missing:
+            all_urls = [
+                u.strip()
+                for d in datasets
+                for u in d["資料下載網址"].split(";")
+                if u.strip()
+            ]
+            slug = derive_slug(all_urls)
+            if slug and (output_dir / slug).exists():
+                continue
         print(f"{name} ({len(datasets)} 筆)")
 
 
