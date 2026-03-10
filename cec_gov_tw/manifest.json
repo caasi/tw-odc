@@ -1,0 +1,54 @@
+{
+  "provider": "中央選舉委員會",
+  "slug": "cec_gov_tw",
+  "datasets": [
+    {
+      "id": "38201",
+      "name": "歷屆總統副總統選舉候選人得票資料",
+      "format": "csv",
+      "urls": [
+        "https://www.cec.gov.tw/uploadfiles/opendata/president_votes.csv"
+      ]
+    },
+    {
+      "id": "38202",
+      "name": "歷屆立法委員選舉候選人得票資料",
+      "format": "csv",
+      "urls": [
+        "https://www.cec.gov.tw/uploadfiles/opendata/legislator_votes.csv"
+      ]
+    },
+    {
+      "id": "38203",
+      "name": "選舉人數統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.cec.gov.tw/uploadfiles/opendata/voter_statistics.csv"
+      ]
+    },
+    {
+      "id": "38204",
+      "name": "投票所基本資料",
+      "format": "csv",
+      "urls": [
+        "https://www.cec.gov.tw/uploadfiles/opendata/polling_stations.csv"
+      ]
+    },
+    {
+      "id": "38205",
+      "name": "公民投票案件統計",
+      "format": "csv",
+      "urls": [
+        "https://www.cec.gov.tw/uploadfiles/opendata/referendum_statistics.csv"
+      ]
+    },
+    {
+      "id": "38206",
+      "name": "政黨名冊及政黨補助款資料",
+      "format": "csv",
+      "urls": [
+        "https://www.cec.gov.tw/uploadfiles/opendata/political_parties.csv"
+      ]
+    }
+  ]
+}
