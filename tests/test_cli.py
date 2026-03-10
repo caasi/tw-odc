@@ -201,6 +201,48 @@ class TestDatasetDownloadById:
 
         result = runner.invoke(app, ["dataset", "download", "--id", "9999"])
         assert result.exit_code != 0
+        assert "E006" in result.output
+
+
+class TestLangFlag:
+    def test_default_locale_is_en(self, tmp_path, monkeypatch):
+        """Without --lang, locale defaults to en."""
+        manifest = {"type": "metadata", "provider": "data.gov.tw",
+                    "datasets": [{"id": "export-json", "name": "JSON", "format": "json",
+                                  "urls": ["https://data.gov.tw/datasets/export/json"]}]}
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+        export_data = [{"提供機關": "X", "資料集識別碼": 1, "資料集名稱": "D",
+                        "檔案格式": "CSV", "資料下載網址": "https://x.tw/d"}]
+        (tmp_path / "export-json.json").write_text(json.dumps(export_data, ensure_ascii=False))
+        monkeypatch.chdir(tmp_path)
+        result = runner.invoke(app, ["metadata", "list"])
+        assert result.exit_code == 0
+
+    def test_lang_zh_tw(self, tmp_path, monkeypatch):
+        """--lang zh-TW should produce Chinese error messages."""
+        manifest = {"type": "dataset", "provider": "T", "slug": "t", "datasets": []}
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+        monkeypatch.chdir(tmp_path)
+        result = runner.invoke(app, ["--lang", "zh-TW", "metadata", "list"])
+        assert result.exit_code != 0
+        assert "E001" in result.output
+
+    def test_lang_en(self, tmp_path, monkeypatch):
+        """--lang en should produce English error messages."""
+        manifest = {"type": "dataset", "provider": "T", "slug": "t", "datasets": []}
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+        monkeypatch.chdir(tmp_path)
+        result = runner.invoke(app, ["--lang", "en", "metadata", "list"])
+        assert result.exit_code != 0
+        assert "E001" in result.output
+        assert "Expected manifest type" in result.output
+
+    def test_invalid_lang_value(self, tmp_path, monkeypatch):
+        """--lang with an unsupported value should produce a CLI error."""
+        monkeypatch.chdir(tmp_path)
+        result = runner.invoke(app, ["--lang", "fr", "metadata", "list"])
+        assert result.exit_code != 0
+        assert "Invalid value" in result.output
 
 
 class TestWrongManifestType:
@@ -211,6 +253,7 @@ class TestWrongManifestType:
 
         result = runner.invoke(app, ["metadata", "list"])
         assert result.exit_code != 0
+        assert "E001" in result.output
 
     def test_dataset_cmd_in_metadata_dir(self, tmp_path, monkeypatch):
         manifest = {"type": "metadata", "provider": "data.gov.tw", "datasets": []}
@@ -219,3 +262,4 @@ class TestWrongManifestType:
 
         result = runner.invoke(app, ["dataset", "list"])
         assert result.exit_code != 0
+        assert "E001" in result.output

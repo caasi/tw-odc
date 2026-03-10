@@ -1,0 +1,22 @@
+{
+  "E001": "Expected manifest type '%{expected}', got '%{actual}'",
+  "E002": "export-json dataset not found in manifest",
+  "E003": "%{path} does not exist, run 'tw-odc metadata download' first",
+  "E004": "Provider not found: '%{provider}'",
+  "E005": "Please specify --provider or --dir",
+  "E006": "Dataset not found: ID %{id}",
+  "E106": "File not found: %{name}\nAvailable files: %{available}",
+  "status.not_modified": "%{filename} (not modified)",
+  "status.downloaded": "%{filename} (%{size} bytes)",
+  "status.downloaded_ssl_skip": "%{filename} (%{size} bytes) (SSL verification skipped)",
+  "status.rate_limited": "%{filename}: HTTP 429 — blocked all requests for %{domain}",
+  "status.http_error": "%{filename}: HTTP %{status}",
+  "status.skipped_blocked": "%{filename} (skipped, %{domain} blocked by 429)",
+  "status.ssl_retry": "%{filename}: SSL error, retrying without verification",
+  "status.retry_failed": "%{filename}: retry failed: %{error}",
+  "status.network_error": "%{filename}: network error: %{error}",
+  "status.unexpected_error": "%{filename}: unexpected error: %{error}",
+  "summary.issues": "%{count} issue(s) recorded to %{path}",
+  "output.count_suffix": "(%{count} datasets)",
+  "output.partial": "(partial)"
+}
