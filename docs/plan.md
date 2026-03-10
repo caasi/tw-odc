@@ -1,473 +1,279 @@
-# Open Data Audit System – Implementation Plan
+# tw-odc — Implementation Plan
 
 ## 1. Project Goal
 
 Build an automated system that:
 
-1. Crawls government open data portals.
-2. Inspects datasets and evaluates them using **Tim Berners-Lee’s 5-Star Open Data model**.
-3. Records dataset quality metrics in a database.
-4. Generates structured issue reports.
-5. Uses an LLM only to draft **polite improvement request emails**.
-6. Allows a human operator to review and send emails to dataset providers.
+1. Downloads dataset metadata from the Taiwan government open data portal (data.gov.tw).
+2. Scaffolds per-provider manifests and downloads individual datasets.
+3. Inspects datasets and evaluates them using **Tim Berners-Lee's 5-Star Open Data model**.
+4. Records issues and scores as structured JSON on the filesystem.
 
-The system should minimize LLM usage and rely primarily on **deterministic rules**.
+Issue classification and scoring are **purely deterministic** — no LLMs in the evaluation pipeline. The CLI outputs structured JSON that any LLM agent (or human) can consume to produce reports, draft emails, or perform further analysis.
 
 ---
 
-# 2. System Architecture
+## 2. System Architecture
 
 ```
-crawler
+metadata download (data.gov.tw bulk exports)
   ↓
-dataset inspector
+provider manifest scaffolding
   ↓
-rule-based scoring engine
+dataset download (per provider)
   ↓
-dataset database
+format inspection (magic bytes, ZIP contents)
   ↓
-report generator
+5-Star scoring engine
   ↓
-LLM email drafting
+structured JSON output (issues.jsonl, scores.json)
   ↓
-human review + send
-```
-
----
-
-# 3. Technology Stack
-
-Recommended stack for fast development and long-term maintainability.
-
-## Language
-
-Python (>=3.11)
-
-Reason:
-
-* Strong ecosystem for data formats
-* Async crawling support
-* Good RDF libraries
-* Fast iteration speed
-
-## Core Libraries
-
-| Purpose             | Library                   |
-| ------------------- | ------------------------- |
-| HTTP crawling       | `aiohttp`                 |
-| Async control       | `asyncio`                 |
-| Rate limiting       | `aiolimiter`              |
-| HTML parsing        | `beautifulsoup4`          |
-| CSV/XLSX parsing    | `pandas`, `openpyxl`      |
-| RDF detection       | `rdflib`                  |
-| File type detection | `python-magic`            |
-| Database            | `sqlite`                  |
-| CLI                 | `typer`                   |
-| LLM interface       | optional (`openai`, etc.) |
-
----
-
-# 4. Repository Layout
-
-```
-open-data-audit/
-│
-├─ pyproject.toml
-├─ README.md
-│
-├─ src/
-│   ├─ crawler/
-│   │   └─ crawl_portal.py
-│   │
-│   ├─ inspector/
-│   │   ├─ detect_format.py
-│   │   ├─ parse_dataset.py
-│   │   └─ validate_links.py
-│   │
-│   ├─ scoring/
-│   │   └─ star_evaluator.py
-│   │
-│   ├─ storage/
-│   │   └─ database.py
-│   │
-│   ├─ reporting/
-│   │   └─ generate_reports.py
-│   │
-│   ├─ email/
-│   │   └─ draft_email.py
-│   │
-│   └─ cli.py
-│
-└─ data/
-    └─ audit.db
+any LLM agent or human → reports, emails, dashboards
 ```
 
 ---
 
-# 5. Database Schema
+## 3. Technology Stack
 
-Use SQLite for simplicity.
+**Language:** Python >=3.13, managed with `uv`
 
-### datasets
+| Purpose             | Library        |
+| ------------------- | -------------- |
+| HTTP crawling       | `aiohttp`      |
+| Async control       | `asyncio`      |
+| File type detection | `python-magic` |
+| CLI                 | `typer`        |
+| JSON patching       | `jsonpatch`    |
+| Terminal UI         | `rich`         |
+| i18n                | `i18nice`      |
 
-| column       | description          |
-| ------------ | -------------------- |
-| dataset_id   | unique identifier    |
-| title        | dataset name         |
-| agency       | provider             |
-| source_url   | dataset page         |
-| download_url | data file URL        |
-| format       | detected file format |
-| http_status  | HTTP status code     |
-| size_bytes   | file size            |
-| last_checked | timestamp            |
-
-### evaluation
-
-| column           | description |
-| ---------------- | ----------- |
-| dataset_id       | FK          |
-| star_score       | 1–5         |
-| machine_readable | bool        |
-| open_format      | bool        |
-| rdf_detected     | bool        |
-| linked_data      | bool        |
-| dead_links       | bool        |
-| notes            | text        |
-
-### issues
-
-| column      | description    |
-| ----------- | -------------- |
-| dataset_id  | FK             |
-| issue_type  | e.g. DEAD_LINK |
-| description | explanation    |
+**No database.** All data stored as files on the filesystem.
 
 ---
 
-# 6. Crawler Design
-
-Crawler should be **low-concurrency and polite**.
-
-Example limits:
+## 4. Repository Layout
 
 ```
-2 requests / second
-max concurrency = 5
+tw-odc/
+├── manifest.json              # type: metadata — data.gov.tw export URLs
+├── pyproject.toml             # registers tw-odc CLI entry point
+├── tw_odc/                    # CLI package
+│   ├── __init__.py            # FORMAT_ALIASES (中文格式名對照)
+│   ├── __main__.py            # python -m tw_odc entry point
+│   ├── cli.py                 # typer app — metadata/dataset subcommands
+│   ├── fetcher.py             # async downloader (aiohttp, ETag caching)
+│   ├── inspector.py           # file format detection & validation
+│   ├── scorer.py              # 5-Star scoring engine
+│   ├── manifest.py            # manifest I/O, RFC 6902 patch, scaffolding
+│   ├── i18n.py                # locale detection and translation
+│   └── locales/               # translation files
+│       ├── en.json
+│       └── zh-TW.json
+├── <provider_slug>/           # one directory per provider organization
+│   ├── manifest.json          # type: dataset — committed
+│   ├── patch.json             # RFC 6902 patch — optional, committed
+│   └── datasets/              # downloaded files — gitignored
+├── tests/
+│   ├── test_cli.py
+│   ├── test_fetcher.py
+│   ├── test_i18n.py
+│   ├── test_inspector.py
+│   ├── test_manifest.py
+│   └── test_scorer.py
+└── docs/
+    └── plan.md
 ```
-
-Steps:
-
-1. Fetch portal catalog pages
-2. Extract dataset metadata
-3. Extract download URLs
-4. Store dataset record
-5. Send URLs to inspector
-
-Crawler should support:
-
-* pagination
-* retries
-* backoff on `429`
-* robots.txt compliance
 
 ---
 
-# 7. Dataset Inspection
+## 5. Data Storage
 
-Inspector analyzes each dataset URL.
+**Filesystem only, no database.**
 
-Checks include:
+### Manifest types
 
-### HTTP Validation
+Two manifest types distinguished by the `type` field:
 
-```
-200 → valid
-404 → dead dataset
-timeout → unreliable
-```
+- **metadata** (`manifest.json` in project root): lists data.gov.tw bulk export URLs
+- **dataset** (`manifest.json` in provider dirs): lists individual datasets for a provider
+
+### Per-provider files
+
+| File             | Description                              | Committed |
+| ---------------- | ---------------------------------------- | --------- |
+| `manifest.json`  | Dataset list for this provider           | Yes       |
+| `patch.json`     | RFC 6902 patch for manifest adjustments  | Yes       |
+| `datasets/`      | Downloaded data files                    | No        |
+| `etags.json`     | ETag cache for conditional downloads     | No        |
+| `issues.jsonl`   | Download/format issues (one JSON per line) | No      |
+| `scores.json`    | 5-Star evaluation results                | No        |
+
+---
+
+## 6. Crawler Design
+
+tw-odc does **not** crawl portal HTML pages. Instead it downloads bulk metadata exports from data.gov.tw and scaffolds provider manifests from the JSON export.
+
+Design constraints:
+
+- Concurrency-limited (default 5 simultaneous downloads)
+- ETag-based conditional requests to avoid re-downloading
+- Automatic SSL retry without verification (many government servers have certificate issues)
+- Domain blocking on HTTP 429 (rate limit) — stops all requests to that domain
+- Path traversal protection on destination filenames
+- Error isolation — one failed download does not abort others
+
+---
+
+## 7. Dataset Inspection
+
+Inspector analyzes each downloaded file.
 
 ### Format Detection
 
-Determine file type using:
+Determines actual file type using:
 
-* file extension
-* content-type header
-* magic bytes
+- Magic bytes (via `python-magic`)
+- Comparison against declared format from manifest
 
-Common types:
+### Checks
 
-```
-CSV
-JSON
-XML
-XLSX
-PDF
-HTML table
-API endpoint
-```
-
-### Machine Readability
-
-Machine readable formats:
-
-```
-CSV
-JSON
-XML
-XLSX
-GeoJSON
-```
-
-Not machine readable:
-
-```
-PDF
-image
-scanned document
-```
-
-### Open Format
-
-Open formats:
-
-```
-CSV
-JSON
-XML
-GeoJSON
-```
-
-Closed formats:
-
-```
-XLS
-XLSX
-DOC
-PDF
-```
-
-### Link Validation
-
-For datasets containing links:
-
-* verify embedded URLs
-* detect broken links
+- File exists and is non-empty
+- Declared format matches detected format
+- ZIP contents inspection (detects formats inside archives)
+- PDF detection (flagged as non-machine-readable)
 
 ---
 
-# 8. Five-Star Evaluation Rules
+## 8. Five-Star Evaluation Rules
 
-Use rule-based scoring.
+Deterministic, rule-based scoring. **No LLMs.**
 
-### ★
+### ★ Available online
 
-Data exists online.
+Data exists and is downloadable (HTTP 200).
 
-### ★★
-
-Machine readable format.
+### ★★ Machine-readable
 
 ```
-CSV
-JSON
-XML
-XLSX
+CSV, JSON, XML, XLSX, ODS
 ```
 
-### ★★★
-
-Open format.
+### ★★★ Open format
 
 ```
-CSV
-JSON
-XML
+CSV, JSON, XML, ODS
 ```
 
-### ★★★★
-
-RDF / URI-based identifiers detected.
-
-Indicators:
+### ★★★★ RDF / URI-based identifiers
 
 ```
-RDF
-Turtle
-JSON-LD
-SPARQL endpoint
+RDF, Turtle, JSON-LD, SPARQL endpoint
 ```
 
-### ★★★★★
-
-Linked data.
-
-Detection:
+### ★★★★★ Linked data
 
 ```
-external URIs
-linked datasets
-RDF triples referencing other domains
+External URIs, linked datasets, RDF triples referencing other domains
 ```
+
+Currently ★★★★ and ★★★★★ detection is not yet implemented.
 
 ---
 
-# 9. Issue Classification
+## 9. Issue Classification
 
-Typical issue types:
+Issues are recorded in `issues.jsonl` with structured fields:
 
-```
-DEAD_LINK
-PDF_DATASET
-EXCEL_ONLY
-MISSING_METADATA
-BROKEN_DOWNLOAD
-NO_MACHINE_FORMAT
+```json
+{"file": "1001.csv", "url": "https://...", "issue": "http_error", "detail": "HTTP 404"}
+{"file": "1002.csv", "url": "https://...", "issue": "ssl_error", "detail": "..."}
 ```
 
-These should be deterministic.
+Issue types:
 
-LLMs must **not decide issues**.
+```
+http_error        — non-200 response
+ssl_error         — certificate verification failed
+rate_limited      — HTTP 429 / domain blocked
+network_error     — connection failure
+unexpected_error  — unhandled exception
+format_mismatch   — declared format differs from detected
+```
+
+Issues are deterministic. LLMs must **not decide issues**.
 
 ---
 
-# 10. Report Generation
+## 10. CLI Commands
 
-Reports should include:
+```bash
+# Metadata operations (project root)
+tw-odc metadata download          # download data.gov.tw exports
+tw-odc metadata list              # list providers from metadata
+tw-odc metadata create -p "機關"  # scaffold provider manifest
+tw-odc metadata update -p "機關"  # update existing manifest
 
-### Dataset Report
+# Dataset operations (per provider)
+tw-odc dataset --dir <slug> download
+tw-odc dataset --dir <slug> list
+tw-odc dataset --dir <slug> check
+tw-odc dataset --dir <slug> score
+tw-odc dataset --dir <slug> clean
 
-```
-dataset title
-agency
-star score
-detected issues
-download URL
-inspection timestamp
-```
-
-### Agency Summary
-
-```
-total datasets
-average star score
-dead link rate
-machine-readable ratio
+# Global options
+tw-odc --lang zh-TW ...           # locale (en or zh-TW)
 ```
 
-### National Summary
-
-```
-dataset distribution by format
-star score distribution
-dead dataset ratio
-```
+All commands output JSON by default (`--format text` for human-readable). Logs and progress go to stderr.
 
 ---
 
-# 11. LLM Email Drafting
+## 11. LLM Integration
 
-LLM should only convert structured issues into polite messages.
+tw-odc itself contains **no LLM code**. The CLI produces structured JSON output (scores, issues, dataset metadata) that any LLM agent can consume to:
 
-Input:
+- Generate quality reports
+- Draft improvement request emails to data providers
+- Build dashboards or summaries
+- Compare providers or track quality over time
 
-```
-agency: Ministry of X
-dataset: air quality statistics
-issues:
- - Excel format
- - dead download link
-score: ★★
-```
-
-LLM output:
-
-```
-Dear Data Provider,
-
-During a routine open data audit we noticed several issues with the dataset "Air Quality Statistics".
-
-Observed issues:
-- Download link returns 404
-- Dataset only provided in Excel format
-
-Providing the dataset in CSV or JSON format would improve accessibility and machine usability.
-
-Thank you for maintaining this dataset.
-```
-
-Human operator must review before sending.
+This separation keeps the audit pipeline deterministic and reproducible, while allowing flexible downstream use by any AI agent or human workflow.
 
 ---
 
-# 12. CLI Commands
+## 12. i18n
 
-Example CLI interface:
+The CLI supports English (`en`, default) and Traditional Chinese (`zh-TW`) via the `--lang` flag or `LANG`/`LC_ALL` environment variables.
 
-```
-audit crawl
-audit inspect
-audit evaluate
-audit report
-audit draft-emails
-```
-
-Typical workflow:
-
-```
-crawl → inspect → evaluate → report → draft emails
-```
+- Translation files: `tw_odc/locales/{en,zh-TW}.json`
+- Error codes (`E001`–`E106`) are locale-independent identifiers
+- Help text and docstrings are English-only
+- i18nice library with JSON format, fallback to `en`
 
 ---
 
-# 13. Initial Development Milestones
+## 13. Development Milestones
 
-### Phase 1
+### Phase 1 — Done
 
-* basic crawler
-* SQLite database
-* dataset metadata collection
+- Bulk metadata download from data.gov.tw
+- Provider manifest scaffolding
+- Per-provider dataset download with ETag caching
+- Format detection and inspection
+- 5-Star scoring engine
+- CLI with `metadata` and `dataset` subcommand groups
+- i18n support (en/zh-TW)
 
-### Phase 2
+### Phase 2 — Planned
 
-* format detection
-* star scoring engine
+- ★★★★/★★★★★ detection (RDF, linked data)
+- Incremental re-checking (only re-inspect changed files)
+- Provider-level and national-level aggregate statistics
 
-### Phase 3
+### Phase 3 — Future
 
-* issue detection
-* reporting dashboard
-
-### Phase 4
-
-* LLM email drafting
-
-### Phase 5
-
-* incremental crawling
-* long-term monitoring
-
----
-
-# 14. Long-Term Enhancements
-
-Possible improvements:
-
-* dataset change detection
-* API discovery
-* semantic dataset linking
-* historical trend reports
-* public transparency dashboard
-
----
-
-# 15. Expected Outcomes
-
-The system should produce:
-
-1. Quantitative measurements of open data quality
-2. Dataset issue tracking
-3. Agency-level data quality comparison
-4. Automated but human-supervised improvement requests
-
-This transforms open data evaluation into a **continuous auditing system**.
+- Dataset change detection over time
+- API endpoint discovery
+- Historical trend tracking
+- Public transparency dashboard

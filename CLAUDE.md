@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This project builds an automated system to audit government open data portals and evaluate datasets using Tim Berners-Lee's Five-Star Open Data model. Starting from the Taiwan government open data portal (https://data.gov.tw/), a crawler collects dataset entries while deterministic rules inspect formats, validate links, and detect common issues such as PDFs, spreadsheets used as databases, or broken downloads. Results are stored and scored so that dataset quality becomes measurable at scale, allowing systematic evaluation of how close public data ecosystems come to machine-readable and open formats.
 
-Large language models are used only for communication, not evaluation. After rule-based analysis identifies issues, an LLM helps draft clear and polite improvement requests that a human can review and send to data providers. This approach allows a single individual to audit many datasets and apply gentle, continuous pressure for improvement, while also observing how institutions respond. Over time, such audits can improve public data quality and strengthen the feedback loop between open data availability and the capabilities of AI systems that rely on machine-readable information.
+tw-odc itself contains no LLM code. All evaluation is deterministic and rule-based. The CLI outputs structured JSON (scores, issues, dataset metadata) that any LLM agent can consume to generate reports, draft improvement request emails, or build dashboards. This separation keeps the audit pipeline reproducible while allowing flexible downstream use by any AI agent or human workflow.
 
 ## Tech Stack
 
@@ -81,7 +81,9 @@ tw-odc/
 │   ├── fetcher.py             # async downloader (aiohttp, etag caching)
 │   ├── inspector.py           # file format detection & validation
 │   ├── scorer.py              # 5-Star scoring engine
-│   └── manifest.py            # manifest I/O, RFC 6902 patch, scaffolding
+│   ├── manifest.py            # manifest I/O, RFC 6902 patch, scaffolding
+│   ├── i18n.py                # locale detection and translation
+│   └── locales/               # en.json, zh-TW.json
 ├── <provider_slug>/           # one directory per provider organization
 │   ├── manifest.json          # type: dataset — committed
 │   ├── patch.json             # RFC 6902 patch — optional, committed
@@ -89,6 +91,7 @@ tw-odc/
 └── tests/
     ├── test_cli.py
     ├── test_fetcher.py
+    ├── test_i18n.py
     ├── test_inspector.py
     ├── test_manifest.py
     └── test_scorer.py
@@ -115,7 +118,7 @@ Two manifest types distinguished by the `type` field:
 
 ### Pipeline
 
-`crawl → inspect → evaluate → report → draft emails`
+`metadata download → manifest scaffolding → dataset download → inspect → score → JSON output`
 
 ### data.gov.tw specifics
 
@@ -130,7 +133,7 @@ The JSON export is the input for creating provider manifests.
 
 - **Deterministic scoring**: Issue classification and star scoring must NOT use LLMs — pure rule-based logic only
 - **Polite crawling**: Concurrency-limited (default 5), path-traversal-safe filenames, error isolation per download
-- **LLM only for email drafting**: Converts structured issue data into polite messages; human must review before sending
+- **No LLM in pipeline**: All evaluation is deterministic; any external LLM agent can consume the JSON output
 - **5-Star model**: ★ online → ★★ machine-readable → ★★★ open format → ★★★★ RDF/URI → ★★★★★ linked data
 - **No database**: All data stored as files on the filesystem for simplicity
 - **Manifest-based providers**: Each provider has only `manifest.json` (+ optional `patch.json`); all logic in `tw_odc/`
