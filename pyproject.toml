@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "aiohttp>=3.13.3",
+    "i18nice>=0.16.0",
     "jsonpatch>=1.33",
     "python-magic>=0.4.27",
     "rich>=13.0.0",
