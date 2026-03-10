@@ -127,6 +127,15 @@ def _parse_dataset(raw: dict) -> dict:
     }
 
 
+def compute_slug(provider_name: str, urls: list[str]) -> str:
+    """Return the slug for a provider: domain-based or org_<sha256> fallback."""
+    slug = derive_slug(urls)
+    if not slug:
+        h = hashlib.sha256(provider_name.encode("utf-8")).hexdigest()[:16]
+        slug = f"org_{h}"
+    return slug
+
+
 def scaffold_provider(
     base_dir: Path, provider_name: str, raw_datasets: list[dict]
 ) -> str:
@@ -135,11 +144,7 @@ def scaffold_provider(
     for d in raw_datasets:
         all_urls.extend(u.strip() for u in d["資料下載網址"].split(";") if u.strip())
 
-    slug = derive_slug(all_urls)
-    if not slug:
-        # Fallback: stable hash of provider name (SHA-256, first 16 hex chars)
-        h = hashlib.sha256(provider_name.encode("utf-8")).hexdigest()[:16]
-        slug = f"org_{h}"
+    slug = compute_slug(provider_name, all_urls)
 
     pkg_dir = base_dir / slug
     if pkg_dir.exists():

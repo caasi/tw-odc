@@ -3,7 +3,7 @@ from pathlib import Path
 
 import typer
 
-from shared.scaffold import derive_slug, group_by_provider, scaffold_provider
+from shared.scaffold import compute_slug, group_by_provider, scaffold_provider
 
 app = typer.Typer()
 
@@ -37,8 +37,8 @@ def list_providers(
                 for u in d["資料下載網址"].split(";")
                 if u.strip()
             ]
-            slug = derive_slug(all_urls)
-            if slug and (output_dir / slug).exists():
+            slug = compute_slug(name, all_urls)
+            if (output_dir / slug).exists():
                 continue
         print(f"{name} ({len(datasets)} 筆)")
 
