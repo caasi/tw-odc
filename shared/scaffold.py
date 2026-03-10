@@ -1,8 +1,12 @@
 import hashlib
 import json
+import shutil
+import subprocess
 from collections import Counter
 from pathlib import Path
 from urllib.parse import urlparse
+
+_PATCHES_DIR: Path = Path(__file__).parent / "patches"
 
 
 INIT_TEMPLATE = '''from shared.fetcher import fetch_all
@@ -136,6 +140,43 @@ def compute_slug(provider_name: str, urls: list[str]) -> str:
     return slug
 
 
+def apply_manifest_patch(pkg_dir: Path, slug: str) -> bool:
+    """Apply shared/patches/<slug>/manifest.patch to manifest.json if it exists.
+
+    Uses ``patch --forward -p0`` so the operation is idempotent: if the patch
+    has already been applied the hunk is silently skipped (exit code 1 is
+    treated as success).
+
+    Returns True if a patch file was found and applied (or already applied),
+    False if no patch file exists for this slug.
+    Raises RuntimeError if the ``patch`` command is not found or fails.
+    """
+    patch_file = _PATCHES_DIR / slug / "manifest.patch"
+    if not patch_file.exists():
+        return False
+
+    patch_bin = shutil.which("patch")
+    if patch_bin is None:
+        raise RuntimeError(
+            "The 'patch' command was not found. Install GNU patch to apply manifest patches."
+        )
+
+    result = subprocess.run(
+        [patch_bin, "--forward", "-p0", "-i", str(patch_file), "manifest.json"],
+        cwd=str(pkg_dir),
+        capture_output=True,
+        text=True,
+    )
+    # 0 = all hunks applied; 1 = some hunks already applied (--forward skips)
+    if result.returncode > 1:
+        raise RuntimeError(
+            f"Failed to apply patch for {slug}:\n"
+            f"stdout: {result.stdout.strip()}\n"
+            f"stderr: {result.stderr.strip()}"
+        )
+    return True
+
+
 def scaffold_provider(
     base_dir: Path, provider_name: str, raw_datasets: list[dict]
 ) -> str:
@@ -161,6 +202,7 @@ def scaffold_provider(
     (pkg_dir / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+    apply_manifest_patch(pkg_dir, slug)
     (pkg_dir / "__init__.py").write_text(INIT_TEMPLATE)
     (pkg_dir / "__main__.py").write_text(MAIN_TEMPLATE)
 
