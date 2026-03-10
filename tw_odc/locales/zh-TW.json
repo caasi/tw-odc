@@ -16,7 +16,7 @@
   "status.retry_failed": "%{filename}: 重試失敗: %{error}",
   "status.network_error": "%{filename}: 網路錯誤: %{error}",
   "status.unexpected_error": "%{filename}: 非預期錯誤: %{error}",
-  "summary.issues": "⚠ %{count} 個問題已記錄到 %{path}",
+  "summary.issues": "%{count} 個問題已記錄到 %{path}",
   "output.count_suffix": "(%{count} 筆)",
   "output.partial": "(部分)"
 }
