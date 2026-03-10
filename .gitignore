@@ -12,6 +12,11 @@ wheels/
 # Worktrees
 .worktrees/
 
+# Metadata downloads (root level)
+/export-json.json
+/export-csv.csv
+/export-xml.xml
+
 # Downloaded datasets
 **/datasets/
 

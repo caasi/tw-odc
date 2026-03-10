@@ -1,0 +1,24 @@
+{
+  "type": "metadata",
+  "provider": "data.gov.tw",
+  "datasets": [
+    {
+      "id": "export-json",
+      "name": "全站資料集匯出 JSON",
+      "format": "json",
+      "urls": ["https://data.gov.tw/datasets/export/json"]
+    },
+    {
+      "id": "export-csv",
+      "name": "全站資料集匯出 CSV",
+      "format": "csv",
+      "urls": ["https://data.gov.tw/datasets/export/csv"]
+    },
+    {
+      "id": "export-xml",
+      "name": "全站資料集匯出 XML",
+      "format": "xml",
+      "urls": ["https://data.gov.tw/datasets/export/xml"]
+    }
+  ]
+}
