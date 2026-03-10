@@ -1,0 +1,46 @@
+{
+  "provider": "公平交易委員會",
+  "slug": "ftc_gov_tw",
+  "datasets": [
+    {
+      "id": "52301",
+      "name": "多層次傳銷事業資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ftc.gov.tw/uploadfiles/opendata/mlm_companies.csv"
+      ]
+    },
+    {
+      "id": "52302",
+      "name": "結合案件核准統計",
+      "format": "csv",
+      "urls": [
+        "https://www.ftc.gov.tw/uploadfiles/opendata/merger_cases.csv"
+      ]
+    },
+    {
+      "id": "52303",
+      "name": "裁處案件統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ftc.gov.tw/uploadfiles/opendata/penalty_cases.csv"
+      ]
+    },
+    {
+      "id": "52304",
+      "name": "聯合行為案件統計",
+      "format": "csv",
+      "urls": [
+        "https://www.ftc.gov.tw/uploadfiles/opendata/cartel_cases.csv"
+      ]
+    },
+    {
+      "id": "52305",
+      "name": "不公平競爭檢舉案件統計",
+      "format": "csv",
+      "urls": [
+        "https://www.ftc.gov.tw/uploadfiles/opendata/unfair_competition_complaints.csv"
+      ]
+    }
+  ]
+}
