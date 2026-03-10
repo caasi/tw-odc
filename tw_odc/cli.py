@@ -222,17 +222,15 @@ def dataset_download(
     manifest = _load_and_check(pkg_dir, ManifestType.DATASET)
     output_dir = pkg_dir / "datasets"
 
-    only = None
+    dl_manifest = manifest
     if dataset_id:
-        for ds in manifest["datasets"]:
-            if str(ds["id"]) == dataset_id:
-                only = f"{ds['id']}.{ds['format']}"
-                break
-        else:
+        filtered = [ds for ds in manifest["datasets"] if str(ds["id"]) == dataset_id]
+        if not filtered:
             print(f"錯誤: 找不到 ID 為 {dataset_id} 的資料集", file=sys.stderr)
             raise typer.Exit(code=1)
+        dl_manifest = {**manifest, "datasets": filtered}
 
-    asyncio.run(fetch_all(manifest, output_dir, only=only, no_cache=no_cache, cache_path=pkg_dir / "etags.json"))
+    asyncio.run(fetch_all(dl_manifest, output_dir, no_cache=no_cache, cache_path=pkg_dir / "etags.json"))
 
 
 @dataset_app.command("check")
