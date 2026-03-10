@@ -71,7 +71,7 @@ The CLI has two subcommand groups: `metadata` (operates on the root manifest for
 ### Directory structure
 
 ```
-roc-open-data-checker/
+tw-odc/
 ├── manifest.json              # type: metadata — data.gov.tw export URLs
 ├── pyproject.toml             # registers tw-odc CLI entry point
 ├── tw_odc/                    # CLI package

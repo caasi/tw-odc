@@ -77,7 +77,7 @@ uv run pytest -v
 統一的 CLI 工具 `tw-odc`，支援兩種 manifest 類型：`metadata`（根目錄，管理匯出檔）和 `dataset`（provider 資料夾，管理資料集）。
 
 ```
-roc-open-data-checker/
+tw-odc/
 ├── manifest.json              # type: metadata（data.gov.tw 匯出 URL）
 ├── tw_odc/                    # CLI 套件
 │   ├── cli.py                 # typer app，metadata/dataset 子命令
