@@ -10,6 +10,8 @@ from urllib.parse import urlparse
 import aiohttp
 from rich.progress import Progress, BarColumn, DownloadColumn, TransferSpeedColumn
 
+from tw_odc.i18n import t
+
 _SAFE_ID_RE = re.compile(r"^[A-Za-z0-9_\-]+$")
 _SAFE_FMT_RE = re.compile(r"^\w+$")
 
@@ -77,7 +79,7 @@ def clean_dataset(pkg_dir: Path, dataset_id: str, dataset_urls: list[str]) -> li
         url_set = set(dataset_urls)
         filtered = {k: v for k, v in etags.items() if k not in url_set}
         if len(filtered) < len(etags):
-            removed.append("etags.json (部分)")
+            removed.append(f"etags.json {t('output.partial')}")
             if filtered:
                 etags_path.write_text(
                     json.dumps(filtered, ensure_ascii=False, indent=2),
@@ -104,7 +106,7 @@ def clean_dataset(pkg_dir: Path, dataset_id: str, dataset_urls: list[str]) -> li
             else:
                 kept.append(line)
         if removed_count > 0:
-            removed.append("issues.jsonl (部分)")
+            removed.append(f"issues.jsonl {t('output.partial')}")
             if kept:
                 issues_path.write_text("\n".join(kept) + "\n", encoding="utf-8")
             else:
@@ -117,7 +119,7 @@ def clean_dataset(pkg_dir: Path, dataset_id: str, dataset_urls: list[str]) -> li
         datasets = scores.get("datasets", [])
         filtered_ds = [d for d in datasets if str(d.get("id")) != dataset_id]
         if len(filtered_ds) < len(datasets):
-            removed.append("scores.json (部分)")
+            removed.append(f"scores.json {t('output.partial')}")
             if filtered_ds:
                 scores["datasets"] = filtered_ds
                 scores_path.write_text(
@@ -174,7 +176,7 @@ async def fetch_all(
         matched = [(url, dest) for url, dest in downloads if dest.name == only]
         if not matched:
             available = ", ".join(dest.name for _, dest in downloads)
-            print(f"找不到檔案: {only}\n可用的檔案: {available}", file=sys.stderr)
+            print(f"E106: {t('E106', name=only, available=available)}", file=sys.stderr)
             return
         downloads = matched
 
@@ -221,16 +223,16 @@ async def fetch_all(
         headers = _conditional_headers(url)
         async with session.get(url, ssl=ssl_ctx, headers=headers) as resp:
             if resp.status == 304:
-                _print(progress, f"[dim]—[/dim] {filename} (未變更)")
+                _print(progress, f"[dim]—[/dim] {t('status.not_modified', filename=filename)}")
                 return "not_modified"
             if resp.status == 429:
                 domain = urlparse(url).hostname or url
                 blocked_domains.add(domain)
-                _print(progress, f"[red]✗[/red] {filename}: HTTP 429 — 已封鎖 {domain} 的所有請求")
+                _print(progress, f"[red]✗[/red] {t('status.rate_limited', filename=filename, domain=domain)}")
                 issues.append({"file": filename, "url": url, "issue": "rate_limited", "detail": f"HTTP 429, domain {domain} blocked"})
                 return "error"
             if resp.status != 200:
-                _print(progress, f"[red]✗[/red] {filename}: HTTP {resp.status}")
+                _print(progress, f"[red]✗[/red] {t('status.http_error', filename=filename, status=resp.status)}")
                 issues.append({"file": filename, "url": url, "issue": "http_error", "detail": f"HTTP {resp.status}"})
                 return "error"
             _update_cache(url, dict(resp.headers))
@@ -250,7 +252,7 @@ async def fetch_all(
         domain = urlparse(url).hostname or url
         async with sem:
             if domain in blocked_domains:
-                _print(progress, f"[dim]—[/dim] {filename} (跳過, {domain} 已被 429 封鎖)")
+                _print(progress, f"[dim]—[/dim] {t('status.skipped_blocked', filename=filename, domain=domain)}")
                 issues.append({"file": filename, "url": url, "issue": "rate_limited", "detail": f"skipped, domain {domain} blocked"})
                 return
             await asyncio.sleep(0.5)
@@ -258,9 +260,9 @@ async def fetch_all(
                 result = await _do_download(session, url, dest, progress)
                 if result == "downloaded":
                     size = dest.stat().st_size
-                    _print(progress, f"[green]✓[/green] {filename} ({size:,} bytes)")
+                    _print(progress, f"[green]✓[/green] {t('status.downloaded', filename=filename, size=f'{size:,}')}")
             except aiohttp.ClientSSLError as exc:
-                _print(progress, f"[yellow]⚠[/yellow] {filename}: SSL error, retrying without verification")
+                _print(progress, f"[yellow]⚠[/yellow] {t('status.ssl_retry', filename=filename)}")
                 issues.append({"file": filename, "url": url, "issue": "ssl_error", "detail": str(exc)})
                 try:
                     no_verify = ssl.create_default_context()
@@ -271,14 +273,14 @@ async def fetch_all(
                         result = await _do_download(retry_session, url, dest, progress, ssl_ctx=no_verify)
                         if result == "downloaded":
                             size = dest.stat().st_size
-                            _print(progress, f"[green]✓[/green] {filename} ({size:,} bytes) [yellow](SSL 驗證跳過)[/yellow]")
+                            _print(progress, f"[green]✓[/green] {t('status.downloaded_ssl_skip', filename=filename, size=f'{size:,}')}")
                 except (aiohttp.ClientError, asyncio.TimeoutError) as retry_exc:
-                    _print(progress, f"[red]✗[/red] {filename}: retry failed: {retry_exc}")
+                    _print(progress, f"[red]✗[/red] {t('status.retry_failed', filename=filename, error=retry_exc)}")
             except (aiohttp.ClientError, asyncio.TimeoutError) as exc:
-                _print(progress, f"[red]✗[/red] {filename}: network error: {exc}")
+                _print(progress, f"[red]✗[/red] {t('status.network_error', filename=filename, error=exc)}")
                 issues.append({"file": filename, "url": url, "issue": "network_error", "detail": str(exc)})
             except Exception as exc:
-                _print(progress, f"[red]✗[/red] {filename}: unexpected error: {exc}")
+                _print(progress, f"[red]✗[/red] {t('status.unexpected_error', filename=filename, error=exc)}")
                 issues.append({"file": filename, "url": url, "issue": "unexpected_error", "detail": str(exc)})
 
     connector = aiohttp.TCPConnector(limit=concurrency)
@@ -299,4 +301,4 @@ async def fetch_all(
         with open(issues_path, "w", encoding="utf-8") as f:
             for issue in issues:
                 f.write(json.dumps(issue, ensure_ascii=False) + "\n")
-        print(f"⚠ {len(issues)} 個問題已記錄到 {issues_path}", file=sys.stderr)
+        print(f"⚠ {t('summary.issues', count=len(issues), path=issues_path)}", file=sys.stderr)

@@ -319,9 +319,9 @@ def test_clean_dataset_removes_files_when_last_entry(tmp_path):
     assert not (pkg_dir / "etags.json").exists()
     assert not (pkg_dir / "issues.jsonl").exists()
     assert not (pkg_dir / "scores.json").exists()
-    assert "etags.json (部分)" in removed
-    assert "issues.jsonl (部分)" in removed
-    assert "scores.json (部分)" in removed
+    assert any("etags.json" in r for r in removed)
+    assert any("issues.jsonl" in r for r in removed)
+    assert any("scores.json" in r for r in removed)
 
 
 def test_clean_dataset_multi_url(tmp_path):
@@ -390,6 +390,7 @@ async def test_fetch_all_only_no_match_prints_error(tmp_path, capsys):
     await fetch_all(manifest, pkg_dir / "datasets", only="nonexistent.csv")
 
     captured = capsys.readouterr()
+    assert "E106" in captured.err
     assert "1001.csv" in captured.err
     assert not (pkg_dir / "datasets").exists()
 
