@@ -56,7 +56,7 @@ def score() -> None:
 
     for d in scores["datasets"]:
         star = d["star_score"]
-        stars = "★" * star + "☆" * (3 - star) if star > 0 else "---"
+        stars = "★" * star + "☆" * (5 - star) if star > 0 else "-----"
         fmt = d["declared_format"]
         file_path = datasets_dir / f"{d['id']}.{fmt}"
         rel = file_path.relative_to(cwd) if file_path.is_relative_to(cwd) else file_path

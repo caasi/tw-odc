@@ -1,4 +1,4 @@
-"""Score datasets using the 5-Star Open Data model (★1-★3 for v1)."""
+"""Score datasets using the 5-Star Open Data model."""
 
 import json
 from dataclasses import dataclass, field
@@ -85,6 +85,8 @@ def score_dataset(inspection: InspectionResult) -> DatasetScore:
             "available_online": available,
             "machine_readable": machine_readable,
             "open_format": open_format,
+            "rdf_uris": False,       # ★4: use URIs to identify things
+            "linked_data": False,    # ★5: link to other datasets
         },
         issues=list(inspection.issues),
     )
