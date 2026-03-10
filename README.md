@@ -18,37 +18,53 @@ uv sync
 ### 1. 下載 data.gov.tw 匯出檔
 
 ```bash
-uv run python -m data_gov_tw
+tw-odc metadata download
+tw-odc metadata download --only export-json.json   # 只下載一個檔案
+tw-odc metadata download --no-cache                 # 忽略 ETag 快取
 ```
 
-下載 JSON、CSV、XML 三份匯出檔到 `data_gov_tw/datasets/`。
+下載 JSON、CSV、XML 三份匯出檔到專案根目錄。
 
-### 2. 查詢與產生 provider
+### 2. 查詢機關與建立 provider
 
 ```bash
-# 列出所有提供機關
-uv run python -m shared list data_gov_tw/datasets/export-json.json
+# 列出所有提供機關（JSON 輸出）
+tw-odc metadata list
 
-# 搜尋特定機關
-uv run python -m shared list data_gov_tw/datasets/export-json.json --query 交通部
+# 人類可讀格式
+tw-odc metadata list --format text
 
-# 只列出尚未產生 package 的機關（找出缺口）
-uv run python -m shared list data_gov_tw/datasets/export-json.json --missing
+# 從 metadata 建立指定機關的 dataset manifest
+tw-odc metadata create --provider "交通部中央氣象署"
 
-# 產生指定機關的 package（可多個 -p）
-uv run python -m shared scaffold data_gov_tw/datasets/export-json.json \
-  -p "交通部中央氣象署"
+# 更新既有的 dataset manifest
+tw-odc metadata update --provider "交通部中央氣象署"
+tw-odc metadata update --dir cwa_gov_tw
 ```
 
-### 3. 下載 provider 資料集
+### 3. 下載與檢查 dataset
 
 ```bash
-# 下載單一 provider
-uv run python -m <provider_slug>
+# 下載 provider 的所有資料集
+tw-odc dataset --dir cwa_gov_tw download
 
-# 下載所有已產生的 provider（平行執行）
-uv run python main.py --concurrency 3
+# 只下載特定 ID
+tw-odc dataset --dir cwa_gov_tw download --id 12345
+
+# 列出 dataset manifest 中的資料集
+tw-odc dataset --dir cwa_gov_tw list
+
+# 檢查已下載的資料集
+tw-odc dataset --dir cwa_gov_tw check
+
+# 五星評分
+tw-odc dataset --dir cwa_gov_tw score
+
+# 清除下載的檔案
+tw-odc dataset --dir cwa_gov_tw clean
 ```
+
+所有指令也可以用 `uv run python -m tw_odc` 取代 `tw-odc`。
 
 ### 4. 測試
 
@@ -58,24 +74,49 @@ uv run pytest -v
 
 ## 架構
 
-每個提供機關是一個獨立的 Python package，包含 `manifest.json`（資料集清單）與 `__init__.py`。所有下載邏輯在 `shared/fetcher.py`，provider 產生器在 `shared/scaffold.py`。
+統一的 CLI 工具 `tw-odc`，支援兩種 manifest 類型：`metadata`（根目錄，管理匯出檔）和 `dataset`（provider 資料夾，管理資料集）。
 
 ```
 roc-open-data-checker/
-├── main.py              # 自動發現所有 provider 並執行下載
-├── shared/
-│   ├── fetcher.py       # 通用下載器（讀 manifest.json）
-│   ├── scaffold.py      # 從 export.json 產生 provider package
-│   └── __main__.py      # CLI: list / scaffold
-├── data_gov_tw/         # data.gov.tw（手動維護）
-│   ├── manifest.json    # 3 筆匯出 URL
-│   └── datasets/        # 下載的檔案（gitignored）
-├── <provider_slug>/     # 自動產生的 provider
-│   ├── manifest.json
-│   └── datasets/
+├── manifest.json              # type: metadata（data.gov.tw 匯出 URL）
+├── tw_odc/                    # CLI 套件
+│   ├── cli.py                 # typer app，metadata/dataset 子命令
+│   ├── fetcher.py             # 非同期下載（aiohttp, etag 快取）
+│   ├── inspector.py           # 檔案格式檢查
+│   ├── scorer.py              # 五星評分
+│   └── manifest.py            # manifest 讀寫、RFC 6902 patch
+├── <provider_slug>/           # 每個提供機關一個資料夾
+│   ├── manifest.json          # type: dataset（committed）
+│   ├── patch.json             # RFC 6902 patch（可選，committed）
+│   └── datasets/              # 下載的檔案（gitignored）
 └── tests/
+```
+
+### manifest.json 格式
+
+**Metadata**（根目錄）：
+```json
+{
+  "type": "metadata",
+  "provider": "data.gov.tw",
+  "datasets": [
+    { "id": "export-json", "name": "全站資料集匯出 JSON", "format": "json", "urls": ["..."] }
+  ]
+}
+```
+
+**Dataset**（provider 資料夾）：
+```json
+{
+  "type": "dataset",
+  "provider": "財政部",
+  "slug": "mof_gov_tw",
+  "datasets": [
+    { "id": "21001", "name": "綜合所得稅申報核定統計專冊", "format": "csv", "urls": ["..."] }
+  ]
+}
 ```
 
 ## 專案狀態
 
-開發中。已完成 manifest-based 架構與 provider scaffolding，下一步是實作格式檢查與評分。詳見 `docs/plans/`。
+開發中。已完成 CLI 重構（`tw-odc`）、manifest-based 架構、格式檢查（inspector）與五星評分（scorer）。下一步是 report 產出與改善建議信草稿。詳見 `docs/plans/`。
