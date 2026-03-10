@@ -20,6 +20,9 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools.packages.find]
 include = ["tw_odc*"]
 
+[tool.setuptools.package-data]
+tw_odc = ["locales/*.json"]
+
 [project.scripts]
 tw-odc = "tw_odc.cli:app"
 

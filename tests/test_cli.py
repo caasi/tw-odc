@@ -237,6 +237,13 @@ class TestLangFlag:
         assert "E001" in result.output
         assert "Expected manifest type" in result.output
 
+    def test_invalid_lang_value(self, tmp_path, monkeypatch):
+        """--lang with an unsupported value should produce a CLI error."""
+        monkeypatch.chdir(tmp_path)
+        result = runner.invoke(app, ["--lang", "fr", "metadata", "list"])
+        assert result.exit_code != 0
+        assert "Invalid value" in result.output
+
 
 class TestWrongManifestType:
     def test_metadata_cmd_in_dataset_dir(self, tmp_path, monkeypatch):
