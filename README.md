@@ -32,6 +32,9 @@ uv run python -m shared list data_gov_tw/datasets/export-json.json
 # 搜尋特定機關
 uv run python -m shared list data_gov_tw/datasets/export-json.json --query 交通部
 
+# 只列出尚未產生 package 的機關（找出缺口）
+uv run python -m shared list data_gov_tw/datasets/export-json.json --missing
+
 # 產生指定機關的 package（可多個 -p）
 uv run python -m shared scaffold data_gov_tw/datasets/export-json.json \
   -p "交通部中央氣象署"

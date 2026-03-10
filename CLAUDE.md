@@ -34,6 +34,10 @@ uv run python -m <provider_slug> score
 uv run python -m shared list data_gov_tw/datasets/export-json.json
 uv run python -m shared list data_gov_tw/datasets/export-json.json --query 財政部
 
+# List providers that do NOT yet have a scaffolded package (useful for finding gaps)
+uv run python -m shared list data_gov_tw/datasets/export-json.json --missing
+uv run python -m shared list data_gov_tw/datasets/export-json.json --missing --output-dir .
+
 # Scaffold specific provider packages
 uv run python -m shared scaffold data_gov_tw/datasets/export-json.json -p "機關名稱"
 
