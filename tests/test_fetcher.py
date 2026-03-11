@@ -27,13 +27,12 @@ def test_resolve_params_empty():
 
 
 def test_dest_filename_with_params():
-    """Datasets with resolved params should include param values in filename."""
+    """Resolved params are used for URL substitution only; filename should not include param values."""
     result = _dest_filename(
         {"id": "daily-changed-json", "format": "json"},
         0, 1,
-        resolved_params={"date": "2026-03-10"},
     )
-    assert result == "daily-changed-json-2026-03-10.json"
+    assert result == "daily-changed-json.json"
 
 
 def test_dest_filename_without_params_unchanged():
@@ -447,8 +446,8 @@ async def test_fetch_all_resolves_params(tmp_path):
     # URL should have date substituted
     assert len(captured_urls) == 1
     assert f"report_date={today}" in captured_urls[0]
-    # Filename should include date
-    assert (tmp_path / f"daily-changed-json-{today}.json").exists()
+    # Filename should NOT include date (params are for URL substitution only)
+    assert (tmp_path / "daily-changed-json.json").exists()
 
 
 @pytest.mark.asyncio
@@ -493,7 +492,7 @@ async def test_fetch_all_param_overrides(tmp_path):
         await fetch_all(manifest, tmp_path, param_overrides={"date": "2026-01-01"})
 
     assert "report_date=2026-01-01" in captured_urls[0]
-    assert (tmp_path / "daily-changed-json-2026-01-01.json").exists()
+    assert (tmp_path / "daily-changed-json.json").exists()
 
 
 @pytest.mark.asyncio

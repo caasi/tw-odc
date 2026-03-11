@@ -211,7 +211,7 @@ def metadata_apply_daily(
     if not date:
         date = _dt.date.today().isoformat()
 
-    daily_path = cwd / f"daily-changed-json-{date}.json"
+    daily_path = cwd / "daily-changed-json.json"
     if not daily_path.exists():
         print(f"E107: {t('E107', path=daily_path)}", file=sys.stderr)
         raise typer.Exit(code=1)

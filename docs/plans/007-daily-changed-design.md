@@ -105,17 +105,17 @@ tw-odc metadata download --only daily-changed-json.json --date 2026-03-10
 ### CLI 介面
 
 ```bash
-# 用今天日期（找 daily-changed-json-YYYY-MM-DD.json）
+# 讀 daily-changed-json.json
 tw-odc metadata apply-daily
 
-# 指定日期
+# 指定日期（僅供輸出記錄用）
 tw-odc metadata apply-daily --date 2026-03-10
 ```
 
 ### 流程
 
 ```
-daily-changed-json-{date}.json
+daily-changed-json.json
   → group_by_provider()
   → 遍歷每個 provider:
       有本地 manifest? → update_dataset_manifest() 增量合併
