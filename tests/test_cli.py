@@ -245,6 +245,38 @@ class TestLangFlag:
         assert "Invalid value" in result.output
 
 
+class TestMetadataDownloadDate:
+    def test_date_option_passes_param_overrides(self, tmp_path, monkeypatch):
+        """--date should pass param_overrides to fetch_all."""
+        manifest = {
+            "type": "metadata",
+            "provider": "data.gov.tw",
+            "datasets": [{
+                "id": "daily-changed-json",
+                "name": "每日異動資料集 JSON",
+                "format": "json",
+                "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+                "params": {"date": "today"},
+            }],
+        }
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+        monkeypatch.chdir(tmp_path)
+
+        captured_kwargs = {}
+
+        async def mock_fetch_all(m, output_dir, **kwargs):
+            captured_kwargs.update(kwargs)
+
+        import tw_odc.fetcher
+        monkeypatch.setattr(tw_odc.fetcher, "fetch_all", mock_fetch_all)
+        import asyncio
+        monkeypatch.setattr("tw_odc.cli.asyncio.run", lambda coro: asyncio.get_event_loop().run_until_complete(coro))
+
+        result = runner.invoke(app, ["metadata", "download", "--date", "2026-03-10"])
+        assert result.exit_code == 0
+        assert captured_kwargs.get("param_overrides") == {"date": "2026-03-10"}
+
+
 class TestWrongManifestType:
     def test_metadata_cmd_in_dataset_dir(self, tmp_path, monkeypatch):
         manifest = {"type": "dataset", "provider": "T", "slug": "t", "datasets": []}

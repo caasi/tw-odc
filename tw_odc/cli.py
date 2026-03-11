@@ -97,13 +97,15 @@ def metadata_download(
     fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
     only: str | None = typer.Option(None, "--only", help="Download only this file"),
     no_cache: bool = typer.Option(False, "--no-cache", help="Bypass ETag cache"),
+    date: str | None = typer.Option(None, "--date", help="Override {date} param (YYYY-MM-DD)"),
 ) -> None:
     """Download metadata files."""
     from tw_odc.fetcher import fetch_all
 
     cwd = Path.cwd()
     manifest = _load_and_check(cwd, ManifestType.METADATA)
-    asyncio.run(fetch_all(manifest, cwd, only=only, no_cache=no_cache, cache_path=cwd / "etags.json"))
+    param_overrides = {"date": date} if date else None
+    asyncio.run(fetch_all(manifest, cwd, only=only, no_cache=no_cache, cache_path=cwd / "etags.json", param_overrides=param_overrides))
 
 
 @metadata_app.command("list")
