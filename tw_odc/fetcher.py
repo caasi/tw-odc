@@ -158,6 +158,7 @@ async def fetch_all(
     only: str | None = None,
     no_cache: bool = False,
     cache_path: Path | None = None,
+    param_overrides: dict | None = None,
 ) -> None:
     """Download all datasets listed in manifest.
 
@@ -181,9 +182,12 @@ async def fetch_all(
     # Collect all (url, dest) pairs
     downloads: list[tuple[str, Path]] = []
     for dataset in manifest["datasets"]:
+        resolved = resolve_params(dataset.get("params"), param_overrides)
         urls = dataset["urls"]
+        if resolved:
+            urls = [u.format_map(resolved) for u in urls]
         for i, url in enumerate(urls):
-            filename = _dest_filename(dataset, i, len(urls))
+            filename = _dest_filename(dataset, i, len(urls), resolved_params=resolved or None)
             dest = (output_dir / filename).resolve()
             try:
                 dest.relative_to(output_dir.resolve())

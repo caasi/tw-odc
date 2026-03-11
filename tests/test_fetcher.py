@@ -401,6 +401,102 @@ def test_clean_dataset_no_side_files(tmp_path):
 
 
 @pytest.mark.asyncio
+async def test_fetch_all_resolves_params(tmp_path):
+    """fetch_all should substitute {date} in URLs and include date in filename."""
+    manifest = {
+        "type": "metadata",
+        "provider": "data.gov.tw",
+        "datasets": [{
+            "id": "daily-changed-json",
+            "name": "每日異動資料集 JSON",
+            "format": "json",
+            "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+            "params": {"date": "today"},
+        }],
+    }
+
+    import datetime
+    captured_urls = []
+
+    async def _iter_chunked(chunk_size):
+        yield b'[{"id": 1}]'
+
+    mock_content_obj = MagicMock()
+    mock_content_obj.iter_chunked = _iter_chunked
+
+    def _get(url, **kwargs):
+        captured_urls.append(url)
+        resp = AsyncMock()
+        resp.status = 200
+        resp.content_length = 12
+        resp.content = mock_content_obj
+        resp.headers = {}
+        resp.__aenter__ = AsyncMock(return_value=resp)
+        resp.__aexit__ = AsyncMock(return_value=False)
+        return resp
+
+    mock_session = AsyncMock()
+    mock_session.get = _get
+    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
+    mock_session.__aexit__ = AsyncMock(return_value=False)
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await fetch_all(manifest, tmp_path)
+
+    today = datetime.date.today().isoformat()
+    # URL should have date substituted
+    assert len(captured_urls) == 1
+    assert f"report_date={today}" in captured_urls[0]
+    # Filename should include date
+    assert (tmp_path / f"daily-changed-json-{today}.json").exists()
+
+
+@pytest.mark.asyncio
+async def test_fetch_all_param_overrides(tmp_path):
+    """param_overrides should take precedence over manifest params."""
+    manifest = {
+        "type": "metadata",
+        "provider": "data.gov.tw",
+        "datasets": [{
+            "id": "daily-changed-json",
+            "name": "每日異動資料集 JSON",
+            "format": "json",
+            "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+            "params": {"date": "today"},
+        }],
+    }
+    captured_urls = []
+
+    async def _iter_chunked(chunk_size):
+        yield b'[]'
+
+    mock_content_obj = MagicMock()
+    mock_content_obj.iter_chunked = _iter_chunked
+
+    def _get(url, **kwargs):
+        captured_urls.append(url)
+        resp = AsyncMock()
+        resp.status = 200
+        resp.content_length = 2
+        resp.content = mock_content_obj
+        resp.headers = {}
+        resp.__aenter__ = AsyncMock(return_value=resp)
+        resp.__aexit__ = AsyncMock(return_value=False)
+        return resp
+
+    mock_session = AsyncMock()
+    mock_session.get = _get
+    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
+    mock_session.__aexit__ = AsyncMock(return_value=False)
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await fetch_all(manifest, tmp_path, param_overrides={"date": "2026-01-01"})
+
+    assert "report_date=2026-01-01" in captured_urls[0]
+    assert (tmp_path / "daily-changed-json-2026-01-01.json").exists()
+
+
+@pytest.mark.asyncio
 async def test_fetch_all_only_downloads_matching_file(tmp_path):
     """--only should download only the file whose dest name matches."""
     manifest, pkg_dir = _make_manifest(tmp_path, [
