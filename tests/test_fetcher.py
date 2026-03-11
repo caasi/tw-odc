@@ -3,7 +3,27 @@ from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
-from tw_odc.fetcher import clean, clean_dataset, fetch_all, _dest_filename
+from tw_odc.fetcher import clean, clean_dataset, fetch_all, resolve_params, _dest_filename
+
+
+def test_resolve_params_today(monkeypatch):
+    """resolve_params should replace 'today' with current date."""
+    import datetime
+    monkeypatch.setattr("tw_odc.fetcher.datetime", type("M", (), {"date": type("D", (), {"today": staticmethod(lambda: datetime.date(2026, 3, 10))})})())
+    result = resolve_params({"date": "today"})
+    assert result == {"date": "2026-03-10"}
+
+
+def test_resolve_params_literal():
+    """resolve_params should pass through literal string values."""
+    result = resolve_params({"date": "2026-01-15"})
+    assert result == {"date": "2026-01-15"}
+
+
+def test_resolve_params_empty():
+    """resolve_params with None or empty dict returns empty dict."""
+    assert resolve_params(None) == {}
+    assert resolve_params({}) == {}
 
 
 def _make_manifest(tmp_path, datasets):

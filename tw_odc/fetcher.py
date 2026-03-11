@@ -1,4 +1,5 @@
 import asyncio
+import datetime
 import json
 import re
 import shutil
@@ -14,6 +15,20 @@ from tw_odc.i18n import t
 
 _SAFE_ID_RE = re.compile(r"^[A-Za-z0-9_\-]+$")
 _SAFE_FMT_RE = re.compile(r"^\w+$")
+
+
+def resolve_params(params: dict | None, overrides: dict | None = None) -> dict:
+    """Resolve special param values. 'today' → YYYY-MM-DD. Overrides take precedence."""
+    if not params:
+        return {}
+    resolved = {}
+    merged = {**params, **(overrides or {})}
+    for key, value in merged.items():
+        if value == "today":
+            resolved[key] = datetime.date.today().isoformat()
+        else:
+            resolved[key] = str(value)
+    return resolved
 
 
 def _dest_filename(dataset: dict, url_index: int, url_count: int) -> str:
