@@ -6,7 +6,7 @@
     {
       "id": "25922",
       "name": "桃園市寵物登記機構",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/5ebd9a3c-22f2-4786-b134-87987810415d/resource/c3f12332-0515-444e-a7aa-cf3d4ad4d1f3/download"
       ]
@@ -14,7 +14,7 @@
     {
       "id": "25962",
       "name": "桃園市合法農場",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/6bad8ead-e7de-45c2-a097-6e4db4a8a3f3/resource/f881f04e-fbac-46c8-bfb3-cafa9f21bf75/download"
       ]
@@ -22,7 +22,7 @@
     {
       "id": "26087",
       "name": "桃園市GMP動物用藥廠名冊",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/579f5e71-4f67-4d5b-b0a5-a46b58ad4df3/resource/44051cb3-1be6-4df5-a663-51372d7623ca/download"
       ]
@@ -30,7 +30,7 @@
     {
       "id": "26113",
       "name": "桃園市漁會通訊資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/e5f8d415-5739-486f-9d8c-2600768d299b/resource/443be07e-0d7f-48ac-8bb6-1f5bf56b54c4/download"
       ]
@@ -38,7 +38,7 @@
     {
       "id": "26129",
       "name": "桃園市受保護樹木資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/25bbcd34-16a8-4c4e-a341-4666cd0db5b4/resource/64ead2ac-24d0-48b5-8c4d-8ea4deec0baf/download"
       ]
@@ -46,7 +46,7 @@
     {
       "id": "41655",
       "name": "桃園市農村再生社區",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/334d8c9d-2160-4105-8e91-b3ef725dc365/resource/296c0d9f-f959-4755-be7d-3940ee6e260d/download"
       ]
@@ -54,7 +54,7 @@
     {
       "id": "75226",
       "name": "桃園市政府農業局產銷履歷清冊",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/ad8ac2a5-1561-4199-8c4d-0467671d4325/resource/4ffd7941-d7b7-451c-8a26-d9e711953c11/download",
         "https://opendata.tycg.gov.tw/api/dataset/ad8ac2a5-1561-4199-8c4d-0467671d4325/resource/82c24b53-ff2d-4140-86fb-ca2c308b37bb/download"
@@ -63,7 +63,7 @@
     {
       "id": "105746",
       "name": "桃園市政府農業局107年度農產面積及產量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/4a4159d2-3d50-4b24-b3c3-547e015ae504/resource/940c9ca9-fe7e-4cb7-b23b-511c4d148c85/download"
       ]
@@ -71,7 +71,7 @@
     {
       "id": "170832",
       "name": "寵物友善公園名單(寵物友善專區)",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/cb8fac1a-31ba-4439-8712-d938dd1ae943/resource/868af070-974e-4c11-bf1f-c7b78e2e10db/download"
       ]
@@ -79,7 +79,7 @@
     {
       "id": "26126",
       "name": "桃園市休閒農場",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/d28bbe38-f849-4a5c-951d-86161d093691/resource/907fb9d4-76ad-4d8d-b4e3-0b37b8d870f8/download"
       ]
@@ -87,7 +87,7 @@
     {
       "id": "26090",
       "name": "桃園市各級農會通訊資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/102a51e8-f4ff-47ab-b32b-48b7802214d7/resource/4e4db78e-9f80-4990-9f87-0da0f9c4902a/download",
         "https://opendata.tycg.gov.tw/api/dataset/102a51e8-f4ff-47ab-b32b-48b7802214d7/resource/4604af65-719d-446f-b6c4-81c1f912dde6/download"
@@ -96,7 +96,7 @@
     {
       "id": "25953",
       "name": "桃園市獸醫診療機構名冊",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/6d5ef140-65c4-486c-9e52-1b49459fa2ce/resource/9f13cdc2-7389-4790-a4aa-a148ab2c4d59/download"
       ]
@@ -104,17 +104,20 @@
     {
       "id": "25979",
       "name": "桃園市動保園區入園公告",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/7c9eafac-7c26-461c-8b21-6e725957d270/resource/ab9cb5ed-947c-45a0-85ce-b03f4469e231/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7c9eafac-7c26-461c-8b21-6e725957d270/resource/ab9cb5ed-947c-45a0-85ce-b03f4469e231/download",
         "https://opendata.tycg.gov.tw/api/dataset/7c9eafac-7c26-461c-8b21-6e725957d270/resource/1a9b4300-65d8-4e7f-9096-d7089aa26cee/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7c9eafac-7c26-461c-8b21-6e725957d270/resource/1a9b4300-65d8-4e7f-9096-d7089aa26cee/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7c9eafac-7c26-461c-8b21-6e725957d270/resource/13a69051-6a73-4b9a-8891-520289b42c83/download",
         "https://opendata.tycg.gov.tw/api/dataset/7c9eafac-7c26-461c-8b21-6e725957d270/resource/13a69051-6a73-4b9a-8891-520289b42c83/download"
       ]
     },
     {
       "id": "94280",
       "name": "桃園市特定寵物業名冊",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/48e18e6b-a435-4c3c-ae6d-1d772ce37020/resource/f2949b4d-a456-4850-862f-af11d121c9c9/download"
       ]
@@ -122,7 +125,7 @@
     {
       "id": "170831",
       "name": "桃園市寵物友善空間名單",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://opendata.tycg.gov.tw/api/dataset/c04712a2-3dc9-41b1-9361-c1795f7cadb7/resource/c69de83f-0f95-44f9-890a-884ceb65b103/download"
       ]

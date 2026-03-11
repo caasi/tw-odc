@@ -1141,7 +1141,7 @@
     {
       "id": "30372",
       "name": "閃電落雷系統即時觀測資料",
-      "format": "kmz",
+      "format": "bin",
       "urls": [
         "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/O-A0039-001?Authorization=rdec-key-123-45678-011121314&format=KMZ"
       ]
@@ -1561,7 +1561,7 @@
     {
       "id": "9205",
       "name": "潮汐表-明年高低潮時潮高預報",
-      "format": "json",
+      "format": "bin",
       "urls": [
         "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0023-001?Authorization=rdec-key-123-45678-011121314&format=JSON",
         "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0023-001?Authorization=rdec-key-123-45678-011121314&format=XML"
@@ -2083,7 +2083,7 @@
     {
       "id": "138041",
       "name": "天氣特報-縣市鄉鎮",
-      "format": "api",
+      "format": "bin",
       "urls": [
         "https://opendata.cwa.gov.tw/api/v1/rest/datastore/W-C0033-003?Authorization=rdec-key-123-45678-011121314",
         "https://opendata.cwa.gov.tw/api/v1/rest/datastore/W-C0033-004?Authorization=rdec-key-123-45678-011121314",

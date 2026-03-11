@@ -6,27 +6,27 @@
     {
       "id": "8996",
       "name": "環境檢驗測定機構許可項目資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/niea_p_04?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/niea_p_04?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/niea_p_04?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/niea_p_04?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/niea_p_04?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6372",
       "name": "環境教育設施場所認證資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/eedu_s_01?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/eedu_s_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/eedu_s_01?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/eedu_s_01?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eedu_s_01?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eedu_s_01?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "32003",
       "name": "國家環境研究院單位決算(原環檢所)",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_10/6b1f8c26-0c31-49b0-a94e-0c5acfd1149a"
       ]
@@ -34,47 +34,47 @@
     {
       "id": "34974",
       "name": "環境教育人員認證展延研習30小時課程規劃參考表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/eedu_p_46?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_46?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_46?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/eedu_p_46?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_46?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_46?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "72349",
       "name": "環保證照訓練近期開班訊息",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/eedu_p_35?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_35?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_35?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/eedu_p_35?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_35?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_35?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34654",
       "name": "環保專責及技術人員電子報",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ep_p_34?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ep_p_34?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ep_p_34?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ep_p_34?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ep_p_34?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ep_p_34?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34634",
       "name": "環訓所年度年報彙編",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/doc_p_16?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/doc_p_16?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/doc_p_16?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/doc_p_16?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/doc_p_16?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "169071",
       "name": "國家環境研究院法定預算",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_52/7eaf6404-a493-46cd-b5b3-f289aeed66ce",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_52/164432f9-788a-4d6f-8a93-b6c4cbb2350a"
@@ -83,7 +83,7 @@
     {
       "id": "169086",
       "name": "國家環境研究院會計月報",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_50/e1aa98d6-5b37-4be5-a25f-5e032c55366f",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_50/21c81c71-0304-44b5-82ef-389203e1275a",
@@ -115,55 +115,56 @@
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_50/f7059813-a2d4-4966-b714-2a5c7bb5b3a8",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_50/fcef160b-f445-4937-ac7e-f5b6cba361b5",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_50/10294eaa-3af6-47ed-998b-d3a526e9ad3a",
-        "https://newcdx.moenv.gov.tw/api/files/BGT_P_50/58d1706f-86e4-4c26-90eb-6422edadaed1"
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_50/58d1706f-86e4-4c26-90eb-6422edadaed1",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_50/f12744b5-c1c0-42b8-bb6f-c2dcda35f357"
       ]
     },
     {
       "id": "8994",
       "name": "機動車輛測定機構許可項目資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/niea_p_03?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/niea_p_03?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/niea_p_03?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/niea_p_03?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/niea_p_03?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6373",
       "name": "環境教育機構認證資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/eedu_s_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/eedu_s_02?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/eedu_s_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/eedu_s_02?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eedu_s_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6375",
       "name": "機動車輛測定機構許可資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/niea_p_01?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/niea_p_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/niea_p_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/niea_p_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/niea_p_01?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/niea_p_01?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34648",
       "name": "環境教育人員認證得採計之專業領域課程(ODT)",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/eedu_p_30?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_30?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_30?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/eedu_p_30?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_30?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_30?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34649",
       "name": "環境教育人員認證得採計之專業領域課程(ODS)",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/eedu_p_31?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_31?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/eedu_p_31?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/eedu_p_31?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
@@ -171,17 +172,17 @@
     {
       "id": "34635",
       "name": "年度環境保護人員訓練計畫",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/eedu_p_07?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_07?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_07?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/eedu_p_07?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_07?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "31997",
       "name": "國家環境研究院會計月報(原環訓所)",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_15/43daa8a9-0774-42db-93f0-66b89db62800",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_15/ce737d53-155e-4404-9911-34bb341ad08f",
@@ -203,7 +204,7 @@
     {
       "id": "32002",
       "name": "國家環境研究院法定預算(原環檢所)",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_12/e104ca1e-36ac-43f3-a2ce-91914ced3907",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_12/9160e5ae-8d43-44bf-b7db-460eb1e1cd29",
@@ -214,7 +215,7 @@
     {
       "id": "32005",
       "name": "國家環境研究院會計月報（原環檢所）",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_11/1597ea62-bb78-43b9-8ef8-5fe2ced6838e"
       ]
@@ -222,17 +223,17 @@
     {
       "id": "31993",
       "name": "國家環境研究院法定預算(原環訓所)",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/bgt_p_07?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_07?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_07?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/bgt_p_07?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_07?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_07?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "31994",
       "name": "國家環境研究院單位決算(原環訓所)",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_08/264a1095-9bac-4f51-b991-83ad8779fed3"
       ]
@@ -240,27 +241,27 @@
     {
       "id": "35160",
       "name": "環保專責（技術）人員合格證書申請表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/eedu_p_12?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_12?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_12?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/eedu_p_12?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_12?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_12?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "150898",
       "name": "各年度環境檢測標準方法研訂資訊表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/niea_p_07?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/niea_p_07?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/niea_p_07?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/niea_p_07?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/niea_p_07?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/niea_p_07?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "169070",
       "name": "國家環境研究院單位預算案",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_53/fd71b5cb-1f35-4112-b280-fd35b5551051",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_53/1242bde5-1f9b-46a2-91b3-e8ce26bc67a3"
@@ -269,47 +270,47 @@
     {
       "id": "169072",
       "name": "國家環境研究院單位決算",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/bgt_p_51?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_51?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_51?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/bgt_p_51?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_51?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_51?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6374",
       "name": "環境檢驗測定機構許可資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/niea_p_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/niea_p_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/niea_p_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/niea_p_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/niea_p_02?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "9734",
       "name": "環境教育人員認證資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/eedu_p_01?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_01?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_01?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/eedu_p_01?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_01?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_01?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "31995",
       "name": "國家環境研究院單位預算案(原環訓所)",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/bgt_p_18?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_18?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/bgt_p_18?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_18?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/bgt_p_18?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "32004",
       "name": "國家環境研究院單位預算案(原環檢所)",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_19/e29b2d5b-7aa8-4d12-961e-7ecb8b5d5c02",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_19/137909b0-5e23-443d-b2a6-ac81729b1bcf",
@@ -322,41 +323,41 @@
     {
       "id": "35159",
       "name": "環保專責（技術）人員訓練簡章",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/eedu_p_11?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_11?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_11?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/eedu_p_11?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_11?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_11?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34984",
       "name": "環保專業訓練近期開班訊息",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/eedu_p_52?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/eedu_p_52?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_52?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eedu_p_52?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/eedu_p_52?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "8824",
       "name": "環境檢測機構位置圖",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_14?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_14?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_14?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_14?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_14?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_14?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "100629",
       "name": "PM2.5化學成分監測數據",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/aqx_p_464?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/aqx_p_464?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/aqx_p_464?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/aqx_p_464?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/aqx_p_464?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/aqx_p_464?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     }
   ]

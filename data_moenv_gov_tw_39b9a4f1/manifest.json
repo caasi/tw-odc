@@ -16,396 +16,397 @@
     {
       "id": "8998",
       "name": "應回收廢棄物回收量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_13?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_13?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_13?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_13?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_13?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_13?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "8999",
       "name": "應回收廢棄物受補貼機構（回收業）",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_15?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_15?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_15?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_15?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_15?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "16023",
       "name": "公告事業廢棄物清運機具資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_17?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_17?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_17?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_17?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_17?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_17?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6358",
       "name": "應回收廢棄物回收業者資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_s_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_s_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_s_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_s_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_s_02?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_s_02?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "37217",
       "name": "應回收廢棄物處理業者(廢輪胎類)最大處理量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_156?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_156?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_156?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_156?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_156?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_156?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35016",
       "name": "各事業廢棄物代碼申報流向統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_100?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_100?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_100?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_100?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_100?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "28207",
       "name": "公告應回收項目之責任業者列管資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_48?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_48?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_48?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_48?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_48?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "28208",
       "name": "公告應回收項目之責任業者申報營業量或進口量年總量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_49?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_49?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_49?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_49?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_49?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_49?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35136",
       "name": "應回收廢棄物(廢電子電器及廢資訊物品類)回收量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_225?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_225?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_225?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_225?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_225?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_225?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35137",
       "name": "應回收廢棄物(廢照明光源類)回收量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_226?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_226?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_226?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_226?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_226?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35133",
       "name": "應回收廢棄物(廢機動車輛類)回收量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_222?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_222?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_222?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_222?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_222?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_222?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34919",
       "name": "事業廢棄物委託或共同處理申報量統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_22?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_22?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_22?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_22?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_22?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_22?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34922",
       "name": "各公告類別事業廢棄物自行處理申報量統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_25?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_25?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_25?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_25?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_25?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34923",
       "name": "各公告類別事業廢棄物委託或共同處理申報量統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_26?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_26?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_26?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_26?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_26?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_26?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34947",
       "name": "經濟部事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_51?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_51?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_51?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_51?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_51?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_51?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34948",
       "name": "營建署事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_54?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_54?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_54?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_54?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_54?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_54?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34918",
       "name": "事業廢棄物自行處理申報量統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_21?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_21?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_21?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_21?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_21?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_21?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34845",
       "name": "公民營廢棄物乙級清除機構許可資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_36?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_36?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_36?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_36?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_36?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_36?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34847",
       "name": "公民營廢棄物甲級處理機構許可資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_38?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_38?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_38?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_38?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_38?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_38?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35374",
       "name": "乾電池汞、鎘含量確認文件資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_50?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_50?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_50?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_50?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_50?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_50?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "47255",
       "name": "重點事業廢棄物-生物醫療廢棄物之處理方式",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_177?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_177?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_177?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_177?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_177?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "47259",
       "name": "重點事業廢棄物-有害性集塵灰之處理方式",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_181?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_181?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_181?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_181?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_181?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_181?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "47260",
       "name": "重點事業廢棄物-一般污泥之處理方式",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_182?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_182?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_182?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_182?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "47251",
       "name": "教育部事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_53?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_53?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_53?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_53?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_53?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_53?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "49445",
       "name": "應回收廢棄物(廢乾電池類)回收量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_227?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_227?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_227?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_227?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_227?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45158",
       "name": "0800資源回收免費專線-查詢非公告應回收廢棄物類統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_205?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_205?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_205?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_205?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_205?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_205?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45160",
       "name": "0800資源回收免費專線-查詢非業務範圍統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_207?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_207?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_207?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_207?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45162",
       "name": "0800資源回收免費專線-整體話務達成狀況統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_209?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_209?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_209?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_209?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_209?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_209?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45163",
       "name": "0800資源回收免費專線-民眾通報路邊廢車統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_210?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_210?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_210?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_210?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_210?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45164",
       "name": "0800資源回收免費專線-查詢廢輪胎、鉛蓄電池統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_203?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_203?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_203?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_203?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_203?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45154",
       "name": "0800資源回收免費專線-一般件問題查詢廢機動車輛統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_200?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_200?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_200?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_200?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_200?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "127250",
       "name": "共通性事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_243?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_243?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_243?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_243?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_243?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "91052",
       "name": "重點事業廢棄物-一般污泥之產出及清理流向",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_191?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_191?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_191?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_191?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_191?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "91053",
       "name": "重點事業廢棄物-有害污泥之產出及清理流向",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_192?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_192?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_192?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_192?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_192?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "91057",
       "name": "重點事業廢棄物-有機廢液之產出及清理流向",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_196?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_196?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_196?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_196?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_196?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_196?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "163144",
       "name": "全國不用品實體站點資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_250?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_250?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_250?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_250?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_250?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_250?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "167610",
       "name": "公共下水道污水處理廠事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_253?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_253?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_253?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_253?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_253?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "176518",
       "name": "環境部資源循環署中央政府花蓮馬太鞍溪堰塞湖災後重建特別預算會計月報",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_61/66126481-317e-4b28-854f-1f5b50f10302",
-        "https://newcdx.moenv.gov.tw/api/files/BGT_P_61/e1730093-ade3-4787-a261-0ee63fcb1233"
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_61/e1730093-ade3-4787-a261-0ee63fcb1233",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_61/7b6e402a-af75-4948-9d7c-a3e28bf6a7d9"
       ]
     },
     {
       "id": "168262",
       "name": "環境部資源循環署補、捐(獎)助團體及個人情形表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/bgt_p_43?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_43?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/bgt_p_43?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_43?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/bgt_p_43?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "173854",
       "name": "環境部資源循環署單位決算",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_58/346284fd-8c28-4f79-97f1-33223ffa5606",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_58/3974ff80-d10e-427e-8a9c-9dffc021cd8d"
@@ -414,49 +415,49 @@
     {
       "id": "173855",
       "name": "環境部資源循環署會計月報",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/bgt_p_57?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_57?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_57?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/bgt_p_57?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_57?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_57?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6360",
       "name": "全國各縣市清潔隊資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_s_04?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_s_04?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_s_04?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_s_04?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_s_04?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_s_04?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6359",
       "name": "應回收廢棄物處理業者資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_s_03?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_s_03?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_s_03?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_s_03?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_s_03?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_s_03?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "9000",
       "name": "應回收廢棄物受補貼機構（處理業）",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_16?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_16?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_16?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_16?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_16?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_16?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35134",
       "name": "應回收廢棄物(廢鉛蓄電池類)回收量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_223?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_223?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_223?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_223?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
@@ -464,251 +465,251 @@
     {
       "id": "35135",
       "name": "應回收廢棄物(廢輪胎類)回收量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_224?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_224?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_224?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_224?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_224?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45157",
       "name": "0800資源回收免費專線-查詢廢乾電池、照明光源統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_204?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_204?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_204?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_204?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_204?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_204?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45159",
       "name": "0800資源回收免費專線-一般件問題查詢活動統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_206?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_206?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_206?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_206?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_206?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45161",
       "name": "0800資源回收免費專線-查詢事業廢棄物統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_208?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_208?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_208?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_208?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_208?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_208?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45156",
       "name": "0800資源回收免費專線-一般件問題查詢廢資訊物品統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_202?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_202?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_202?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_202?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_202?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34846",
       "name": "公民營廢棄物丙級清除機構許可資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_37?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_37?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_37?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_37?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_37?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_37?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34920",
       "name": "事業廢棄物境外輸出申報量統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_23?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_23?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_23?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_23?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34921",
       "name": "各公告類別事業廢棄物再利用申報量統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_24?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_24?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_24?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_24?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34917",
       "name": "事業廢棄物再利用申報量統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_39?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_39?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_39?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_39?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/stat_p_39?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34953",
       "name": "通訊傳播事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_59?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_59?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_59?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_59?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_59?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_59?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34954",
       "name": "環境部事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_60?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_60?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_60?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_60?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_60?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_60?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35376",
       "name": "醫療事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_52?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_52?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_52?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_52?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_52?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_52?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "28204",
       "name": "應設置資源回收設施之電子電器販賣業者資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_32?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_32?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_32?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_32?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_32?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "28205",
       "name": "公告應回收項目之責任業者列管家數統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_46?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_46?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_46?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_46?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_46?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "28206",
       "name": "全國各縣市之責任業者列管家數統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_47?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_47?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_47?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_47?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_47?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_47?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "37211",
       "name": "應回收廢棄物處理業者(廢家電資訊類)最大處理量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_157?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_157?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_157?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_157?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_157?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_157?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "37213",
       "name": "應回收廢棄物處理業者(廢乾電池類)最大處理量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_159?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_159?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_159?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_159?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_159?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_159?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "37214",
       "name": "應回收廢棄物處理業者(廢照明光源類)最大處理量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_158?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_158?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_158?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_158?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "37215",
       "name": "應回收廢棄物處理業者(廢鉛蓄電池類)最大處理量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_155?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_155?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_155?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_155?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_155?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "47253",
       "name": "執行機關資源回收設施統計資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_77?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_77?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_77?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_77?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_77?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "47256",
       "name": "重點事業廢棄物-有機廢液之處理方式",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_178?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_178?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_178?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_178?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_178?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_178?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "49446",
       "name": "應回收廢棄物(農藥廢容器)回收量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_232?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_232?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_232?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_232?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_232?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "118447",
       "name": "環境保護許可管理系統(暨解除列管)對象基本資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ems_s_01?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ems_s_01?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ems_s_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ems_s_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ems_s_01?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ems_s_01?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "91054",
       "name": "重點事業廢棄物-有害性集塵灰之產出及清理流向",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_193?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_193?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_193?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_193?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_193?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "8806",
       "name": "各公告類別申報事業廢棄物流向統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_06?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_06?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_06?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_06?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_06?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_06?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
@@ -724,47 +725,47 @@
     {
       "id": "8997",
       "name": "公告列管材質回收率統計資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_14?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_14?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_14?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_14?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_14?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "28200",
       "name": "資源回收電子報",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_31?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_31?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_31?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_31?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_31?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_31?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35090",
       "name": "應回收廢棄物(廢容器類)回收量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_221?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_221?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_221?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_221?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_221?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34839",
       "name": "公民營廢棄物乙級處理機構許可資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_39?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_39?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_39?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_39?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_39?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_39?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34844",
       "name": "公民營廢棄物甲級清除機構許可資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_35?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_35?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
@@ -774,59 +775,59 @@
     {
       "id": "37212",
       "name": "應回收廢棄物處理業者(廢容器類)最大處理量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_153?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_153?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_153?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_153?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_153?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_153?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "37216",
       "name": "應回收廢棄物處理業者(廢機動車輛類)最大處理量資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_154?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_154?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_154?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_154?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_154?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_154?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35378",
       "name": "應回收廢棄物稽核認證行程",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_20?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_20?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_20?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_20?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_20?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34949",
       "name": "交通事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_55?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_55?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_55?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_55?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_55?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34950",
       "name": "農業事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_56?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_56?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_56?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_56?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_56?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_56?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34951",
       "name": "科學工業事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_57?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_57?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_57?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_57?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
@@ -834,97 +835,97 @@
     {
       "id": "34952",
       "name": "菸酒事業廢棄物再利用機構資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_58?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_58?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_58?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_58?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_58?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_58?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35017",
       "name": "廢食用油流向清運資料統計(屬事業廢棄物部分)",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_102?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_102?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/wr_p_102?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_102?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_102?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34626",
       "name": "事業廢棄物輸出/輸入申報量統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_28?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_28?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_28?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_28?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_28?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_28?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "47257",
       "name": "重點事業廢棄物-廢酸鹼之處理方式",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/wr_p_179?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_179?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_179?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_179?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "47254",
       "name": "重點事業廢棄物-有害污泥之處理方式",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_176?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_176?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_176?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_176?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_176?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_176?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45153",
       "name": "0800資源回收免費專線-一般件問題查詢廢電子電器統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_199?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_199?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_199?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_199?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_199?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "45155",
       "name": "0800資源回收免費專線-一般件問題查詢廢容器統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_201?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_201?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_201?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_201?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_201?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_201?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "91056",
       "name": "重點事業廢棄物-廢酸鹼之產出及清理流向",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_195?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_195?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_195?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_195?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_195?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_195?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "168261",
       "name": "環境部資源循環署補、捐(獎)助地方政府情形表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/bgt_p_44?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_44?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_44?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/bgt_p_44?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_44?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_44?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "168311",
       "name": "環境部資源循環署單位預算案",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_45/616722e4-77a0-4dcc-8f7e-2d0aaa672d34",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_45/16ddfa02-f32b-4034-8758-451b141ac9ed",
@@ -934,10 +935,19 @@
     {
       "id": "168310",
       "name": "環境部資源循環署法定預算",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_46/54f4445d-d26a-43fb-8359-a476ad6251dc",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_46/5734dd76-27bc-42e4-a654-3d73e7f963cf"
+      ]
+    },
+    {
+      "id": "177191",
+      "name": "環境部資源循環署中央政府丹娜絲颱風及七二八豪雨災後復原重建特別預算會計月報",
+      "format": "bin",
+      "urls": [
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_63/98a56bbd-0dcd-468e-8a82-e5918c456d34",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_63/1694696a-a7e6-4086-b004-c5d7571a2837"
       ]
     }
   ]

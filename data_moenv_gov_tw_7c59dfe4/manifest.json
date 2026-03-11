@@ -6,209 +6,209 @@
     {
       "id": "8817",
       "name": "土壤及地下水污染場址位置圖",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/gisepa_p_24?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/gisepa_p_24?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_24?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_24?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6365",
       "name": "焚化廠基本資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_s_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_s_01?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_s_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_s_01?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_s_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_s_01?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6366",
       "name": "焚化廠營運月報",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/fac_s_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/fac_s_02?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_s_02?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_s_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6368",
       "name": "焚化廠空污監測資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_s_04?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_s_04?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_s_04?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_s_04?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_s_04?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_s_04?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6344",
       "name": "土壤及地下水污染管制區公告資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ems_s_08?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ems_s_08?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ems_s_08?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ems_s_08?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ems_s_08?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ems_s_08?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6351",
       "name": "土壤及地下水污染場址基本資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ems_s_07?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=anno_date desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ems_s_07?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=anno_date desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ems_s_07?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=anno_date desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ems_s_07?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=anno_date desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ems_s_07?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=anno_date desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ems_s_07?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=anno_date desc&format=XML"
       ]
     },
     {
       "id": "6384",
       "name": "土壤污染管制區範圍圖",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/gisepa_p_25?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_25?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_25?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/gisepa_p_25?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6389",
       "name": "焚化爐廠區範圍圖",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_12?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_12?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_12?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_12?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_12?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_12?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6390",
       "name": "公害陳情案件分佈位置圖",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/gisepa_p_06?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/gisepa_p_06?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_06?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_06?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35075",
       "name": "底泥申報各類水體數量",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/soil_p_09?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/soil_p_09?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/soil_p_09?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/soil_p_09?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/soil_p_09?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/soil_p_09?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35092",
       "name": "地下水污染管制區範圍圖",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/gisepa_p_32?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_32?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_32?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_32?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_32?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "30780",
       "name": "全國場址新增列管及解列統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ems_p_22?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ems_p_22?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ems_p_22?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ems_p_22?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ems_p_22?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ems_p_22?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "30804",
       "name": "環評監督辦理流程",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ep_p_30?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ep_p_30?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ep_p_30?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ep_p_30?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ep_p_30?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ep_p_30?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "30805",
       "name": "環評監督追蹤之作業架構",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/ep_p_29?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ep_p_29?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ep_p_29?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/ep_p_29?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35233",
       "name": "環評監督委員會監督委員名單",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ep_p_20?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ep_p_20?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/ep_p_20?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ep_p_20?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ep_p_20?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34628",
       "name": "廚餘堆肥製作DIY",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_34?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_34?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_34?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_34?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_34?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_34?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34929",
       "name": "清潔人員執行職務死亡濟助申請程序",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/gp_p_19?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/gp_p_19?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/gp_p_19?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/gp_p_19?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/gp_p_19?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34941",
       "name": "垃圾處理場(廠)統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_44?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_44?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_44?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_44?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_44?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_44?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34910",
       "name": "南科樹谷環評監督委員會會議紀錄",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_27?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_27?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_27?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_27?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_27?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_27?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34911",
       "name": "中油三輕環評監督委員會會議紀錄",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_28?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_28?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/stat_p_28?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_28?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_28?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34912",
       "name": "中科后里環評監督小組會議紀錄",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_29?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_29?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/stat_p_29?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/stat_p_29?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
@@ -216,87 +216,87 @@
     {
       "id": "34913",
       "name": "六輕相關計畫環評監督委員會會議紀錄",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_30?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_30?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_30?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_30?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_30?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_30?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34849",
       "name": "中油三輕環境監測資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_03?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_03?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_03?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_03?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_03?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_03?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34851",
       "name": "六輕相關計畫環境監測資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/fac_p_05?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_05?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_05?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/fac_p_05?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34854",
       "name": "核能一廠用過核燃料中期貯存計畫環境監測資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_31?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_31?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_31?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_31?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/stat_p_31?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34855",
       "name": "核能四廠環境監測資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_32?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_32?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_32?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_32?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/stat_p_32?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34856",
       "name": "南科樹谷環境監測資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/stat_p_35?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/stat_p_35?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_35?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_35?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34861",
       "name": "建檔公廁明細-花蓮縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_10?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_10?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/fac_p_10?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_10?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_10?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34867",
       "name": "建檔公廁明細-桃園市",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_16?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_16?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_16?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_16?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_16?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_16?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34869",
       "name": "建檔公廁明細-基隆市",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/fac_p_18?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/fac_p_18?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
@@ -306,97 +306,97 @@
     {
       "id": "34873",
       "name": "建檔公廁明細-新竹市",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_22?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_22?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_22?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_22?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/fac_p_22?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34876",
       "name": "建檔公廁明細-嘉義縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_25?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_25?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_25?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_25?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_25?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_25?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34882",
       "name": "建檔公廁明細-澎湖縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_31?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_31?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_31?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_31?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_31?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_31?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35377",
       "name": "全國工業區年度備查案件狀態統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ems_p_32?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ems_p_32?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ems_p_32?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ems_p_32?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ems_p_32?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ems_p_32?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "89023",
       "name": "縣市清運機具統計資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_47?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_47?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_47?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_47?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/stat_p_47?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "88283",
       "name": "焚化廠飛灰穩定化檢測資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_s_05?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_s_05?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/fac_s_05?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_s_05?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_s_05?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "151898",
       "name": "濱海公有掩埋場統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_113?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_113?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_113?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_113?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_113?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_113?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "168127",
       "name": "環境部環境管理署補、捐(獎)助團體及個人情形表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/bgt_p_41?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_41?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_41?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/bgt_p_41?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_41?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "168128",
       "name": "環境部環境管理署補、捐(獎)助地方政府情形表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/bgt_p_40?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_40?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/bgt_p_40?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/bgt_p_40?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_40?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_40?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "168002",
       "name": "環境部環境管理署單位預算案",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_36/ed214c3b-a6d5-4825-95bf-fbff94713d01",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_36/dda26180-9ddb-4c78-8baf-e248d9aecac7",
@@ -406,257 +406,257 @@
     {
       "id": "9845",
       "name": "工業區燈號分級現況",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/sgm_p_02?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/sgm_p_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/sgm_p_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/sgm_p_02?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/sgm_p_02?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "8341",
       "name": "焚化爐煙囪位置圖",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_11?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_11?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_11?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_11?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_11?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_11?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34843",
       "name": "不法利得宣導資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_34?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_34?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/stat_p_34?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_34?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_34?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34894",
       "name": "環境部工程施工查核小組、問答集",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ep_p_18?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ep_p_18?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ep_p_18?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ep_p_18?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ep_p_18?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ep_p_18?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34895",
       "name": "環評監督委員會設置要點",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ep_p_19?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ep_p_19?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/ep_p_19?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ep_p_19?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ep_p_19?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34896",
       "name": "核能一廠、二廠相關計畫環評監督委員會會議紀錄",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ep_p_21?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ep_p_21?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/ep_p_21?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ep_p_21?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ep_p_21?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34868",
       "name": "建檔公廁明細-高雄市",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/fac_p_17?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/fac_p_17?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_17?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_17?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34872",
       "name": "建檔公廁明細-新北市",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_21?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_21?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_21?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_21?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/fac_p_21?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34874",
       "name": "建檔公廁明細-新竹縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_23?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_23?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_23?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_23?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_23?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_23?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34878",
       "name": "建檔公廁明細-臺中市",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_27?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_27?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_27?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_27?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/fac_p_27?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34879",
       "name": "建檔公廁明細-臺北市",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_28?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_28?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_28?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_28?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_28?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_28?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34909",
       "name": "核能四廠環評監督委員會會議紀錄",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/stat_p_26?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_26?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_26?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_26?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_26?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34852",
       "name": "彰濱工業區環境監測資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_06?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_06?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_06?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_06?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_06?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_06?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34864",
       "name": "建檔公廁明細-南投縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_13?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_13?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/fac_p_13?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_13?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_13?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34866",
       "name": "建檔公廁明細-苗栗縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_15?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_15?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_15?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_15?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_15?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_15?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34939",
       "name": "公害陳情上半年度統計分析報告",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/pnd_p_05?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/pnd_p_05?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/pnd_p_05?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/pnd_p_05?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/pnd_p_05?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34940",
       "name": "公害陳情年度統計分析報告",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/pnd_p_06?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/pnd_p_06?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/pnd_p_06?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/pnd_p_06?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/pnd_p_06?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/pnd_p_06?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35102",
       "name": "歷年燈號變換情形",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/soil_p_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/soil_p_02?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/soil_p_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/soil_p_02?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/soil_p_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "30801",
       "name": "清潔隊員節慶祝活動",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/mnews_p_05?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/mnews_p_05?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/mnews_p_05?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/mnews_p_05?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/mnews_p_05?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/mnews_p_05?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "30803",
       "name": "環評監督成果統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/ep_p_31?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/ep_p_31?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ep_p_31?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ep_p_31?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "30775",
       "name": "全國模範清潔人員名單",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/mnews_p_04?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/mnews_p_04?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/mnews_p_04?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/mnews_p_04?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/mnews_p_04?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "30790",
       "name": "場址列管公文",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ems_p_28?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ems_p_28?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ems_p_28?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ems_p_28?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/ems_p_28?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34101",
       "name": "列管事業污染源裁處資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ems_p_46?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ems_p_46?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ems_p_46?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ems_p_46?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/ems_p_46?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "89021",
       "name": "水肥清運處理狀況",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_43?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_43?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_43?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_43?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/stat_p_43?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "91059",
       "name": "重金屬污染農地管理及改善技術評析計畫",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/soil_p_15?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/soil_p_15?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/soil_p_15?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/soil_p_15?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/soil_p_15?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/soil_p_15?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "168000",
       "name": "環境部環境管理署會計月報",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_38/cf8110a9-4fde-420f-8244-c001936f0d37",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_38/36210102-5eac-492c-ab6c-7ceeb7503e3a",
@@ -676,19 +676,19 @@
     {
       "id": "169894",
       "name": "公害陳情件數及人口數陳情頻率分析",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/pnd_p_07?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/pnd_p_07?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/pnd_p_07?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/pnd_p_07?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/pnd_p_07?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/pnd_p_07?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6392",
       "name": "公害陳情警示區域範圍圖",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_07?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_07?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/gisepa_p_07?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/gisepa_p_07?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
@@ -696,119 +696,119 @@
     {
       "id": "6367",
       "name": "焚化廠營運年報",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_s_03?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_s_03?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_s_03?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_s_03?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/fac_s_03?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "6371",
       "name": "焚化廠底渣原始檢測資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/fac_s_07?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_s_07?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_s_07?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_s_07?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_s_07?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "9370",
       "name": "營運中公有掩埋場掩埋場容量統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_02?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/fac_p_02?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_02?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "30779",
       "name": "全國場址公告與解列情形統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ems_p_23?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ems_p_23?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ems_p_23?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ems_p_23?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ems_p_23?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ems_p_23?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35094",
       "name": "全國土壤及地下水污染場址筆數及面積統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/ems_p_20?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/ems_p_20?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/ems_p_20?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/ems_p_20?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ems_p_20?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ems_p_20?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "35074",
       "name": "底泥申報單位數量",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/soil_p_08?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/soil_p_08?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/soil_p_08?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/soil_p_08?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34850",
       "name": "中科后里環境監測資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/fac_p_04?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_04?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_04?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/fac_p_04?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34862",
       "name": "建檔公廁明細-宜蘭縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_11?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_11?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_11?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_11?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/fac_p_11?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34863",
       "name": "建檔公廁明細-金門縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_12?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_12?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_12?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_12?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_12?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_12?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34865",
       "name": "建檔公廁明細-屏東縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_14?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_14?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/fac_p_14?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_14?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_14?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34870",
       "name": "建檔公廁明細-連江縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_19?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_19?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_19?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_19?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_19?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_19?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34871",
       "name": "建檔公廁明細-雲林縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_20?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_20?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/fac_p_20?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/fac_p_20?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
@@ -816,147 +816,147 @@
     {
       "id": "34875",
       "name": "建檔公廁明細-嘉義市",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/fac_p_24?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_24?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_24?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_24?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_24?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34877",
       "name": "建檔公廁明細-彰化縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/fac_p_26?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_26?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_26?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/fac_p_26?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34880",
       "name": "建檔公廁明細-臺東縣",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_29?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_29?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_29?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_29?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/fac_p_29?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34881",
       "name": "建檔公廁明細-臺南市",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/fac_p_30?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_30?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_30?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_30?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_30?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34106",
       "name": "環境管理署（改制前環境督察總隊）對污染源裁處資訊",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/doc_p_15?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/doc_p_15?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/doc_p_15?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/doc_p_15?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/doc_p_15?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "30794",
       "name": "全國公廁建檔資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_07?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_07?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_07?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_07?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_07?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_07?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34942",
       "name": "一般廢棄物回收率指標資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/stat_p_46?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_46?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_46?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/stat_p_46?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34914",
       "name": "補助地方設置廚餘堆肥廠一覽",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.moenv.gov.tw/api/v2/stat_p_36?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_36?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_36?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_36?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_36?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34915",
       "name": "補助地方設置巨大廢棄物回收再利用廠一覽",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_37?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_37?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_37?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_37?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_37?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_37?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34931",
       "name": "垃圾清運（處理）作業安全講習會執行成果",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/mnews_p_06?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/mnews_p_06?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/mnews_p_06?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/mnews_p_06?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/mnews_p_06?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34627",
       "name": "廢家具修繕DIY",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_33?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_33?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/wr_p_33?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/wr_p_33?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_33?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_33?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "34650",
       "name": "一般廢棄物最終處置前組成分析資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/eia_p_04?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eia_p_04?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
         "https://data.moenv.gov.tw/api/v2/eia_p_04?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/eia_p_04?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/eia_p_04?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "48902",
       "name": "地下水場置性監測井位置圖",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_33?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_33?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/gisepa_p_33?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_33?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_33?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/gisepa_p_33?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "89022",
       "name": "一般廢棄物清理情況資料",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/stat_p_45?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/stat_p_45?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/stat_p_45?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/stat_p_45?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/stat_p_45?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/stat_p_45?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "167999",
       "name": "環境部環境管理署單位決算",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_39/0f103932-f5e1-46c3-b537-79fc7c98ad18",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_39/052ac6ee-2154-4b0f-8253-c9c1616f0efc"
@@ -965,7 +965,7 @@
     {
       "id": "168001",
       "name": "環境部環境管理署法定預算",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_37/94f96a3d-1de0-4b05-a230-7fdb7503ab07",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_37/8035719b-5232-4656-9c43-f8687a445f6e"
@@ -974,27 +974,27 @@
     {
       "id": "114494",
       "name": "督察檢測環境介質數據",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/fac_p_91?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/fac_p_91?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
-        "https://data.moenv.gov.tw/api/v2/fac_p_91?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+        "https://data.moenv.gov.tw/api/v2/fac_p_91?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/fac_p_91?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/fac_p_91?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "145968",
       "name": "列管廢棄物棄置場址",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://data.moenv.gov.tw/api/v2/wr_p_244?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
-        "https://data.moenv.gov.tw/api/v2/wr_p_244?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_244?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_244?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
         "https://data.moenv.gov.tw/api/v2/wr_p_244?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
       ]
     },
     {
       "id": "168129",
       "name": "環境部環境管理署前瞻基礎建設計畫特別預算會計月報",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_42/f86474c2-0baf-4e3e-9439-ba69a775183a",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_42/df781991-a7cc-49c9-9b2b-eaf73431312e",
@@ -1006,7 +1006,7 @@
     {
       "id": "176213",
       "name": "環境部環境管理署中央政府丹娜絲颱風及七二八豪雨災後復原重建特別預算會計月報",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_60/569b5551-8eab-4016-86f7-1ae7907bdae2",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_60/9a90b366-315e-4fe4-b543-62679e9f3023",
@@ -1014,6 +1014,15 @@
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_60/431733e3-2cf9-44cf-9a4c-272338b2047b",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_60/9f2416ad-9ef2-465f-8cde-3f8c93b66eb2",
         "https://newcdx.moenv.gov.tw/api/files/BGT_P_60/9b184105-731c-43f2-b423-f26e0067eb6f"
+      ]
+    },
+    {
+      "id": "177190",
+      "name": "環境部環境管理署中央政府花蓮馬太鞍溪堰塞湖災後重建特別預算會計月報",
+      "format": "bin",
+      "urls": [
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_62/67acdb0b-2a79-45a2-9a0c-341bd89413d7",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_62/aeb30bf2-f82d-4c42-a657-b50e66815e42"
       ]
     }
   ]

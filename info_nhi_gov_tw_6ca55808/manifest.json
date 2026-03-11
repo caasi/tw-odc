@@ -771,7 +771,7 @@
     {
       "id": "168342",
       "name": "醫療院所服務項目明細",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2100H-001"
       ]
@@ -779,7 +779,7 @@
     {
       "id": "39291",
       "name": "全民健康保險特約院所固定服務時段",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D21006-001"
       ]
@@ -787,7 +787,7 @@
     {
       "id": "39273",
       "name": "醫療給付改善方案院所-PRE-ESRD STAGE 3B、4、5及蛋白尿",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2000E-001"
       ]
@@ -795,7 +795,7 @@
     {
       "id": "39274",
       "name": "全民健康保險西醫住院病人中醫特定疾病輔助醫療計畫承辦院所名單",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2000G-001"
       ]
@@ -803,7 +803,7 @@
     {
       "id": "39265",
       "name": "醫療給付改善方案院所-乳癌",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D20006-001"
       ]
@@ -811,7 +811,7 @@
     {
       "id": "168341",
       "name": "健保特約醫療院所名冊",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2100G-001"
       ]
@@ -819,7 +819,7 @@
     {
       "id": "168338",
       "name": "診療科別代碼對照檔",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2100F-001"
       ]
@@ -827,7 +827,7 @@
     {
       "id": "168344",
       "name": "醫療院所診療科別明細",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2100C-001"
       ]
@@ -851,7 +851,7 @@
     {
       "id": "39282",
       "name": "健保特約醫事機構-地區醫院",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D21003-003"
       ]
@@ -859,7 +859,7 @@
     {
       "id": "39281",
       "name": "健保特約醫事機構-區域醫院",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D21002-005"
       ]
@@ -883,7 +883,7 @@
     {
       "id": "24893",
       "name": "十三歲以上病人執行全口牙結石清除之比率 (牙醫門診總額指標)",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-E3500A-001"
       ]
@@ -955,7 +955,7 @@
     {
       "id": "128319",
       "name": "自付差額醫材對應健保全額給付品項明細",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D42002-001"
       ]
@@ -1918,7 +1918,7 @@
     {
       "id": "148988",
       "name": "全民健康保險基金會計月報(108年度起)",
-      "format": "zip",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-L0100N-001",
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-L0100N-002",
@@ -2004,7 +2004,8 @@
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-L0100N-02X",
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-L0100N-02Y",
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-L0100N-02Z",
-        "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-L0100N-030"
+        "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-L0100N-030",
+        "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-L0100N-031"
       ]
     },
     {
@@ -2075,7 +2076,7 @@
     {
       "id": "39269",
       "name": "醫療給付改善方案院所-呼吸照護-慢性呼吸照護病房(病床)",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2000A-001"
       ]
@@ -2083,7 +2084,7 @@
     {
       "id": "39270",
       "name": "醫療給付改善方案院所-思覺失調症醫療給付改善方案",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2000B-001"
       ]
@@ -2091,7 +2092,7 @@
     {
       "id": "168966",
       "name": "6歲以下兒童門診開立原瓶口服液劑比率",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-E3001G-001"
       ]
@@ -2099,7 +2100,7 @@
     {
       "id": "39259",
       "name": "自付差額特材數量佔率-醫學中心",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-E4200A-001"
       ]
@@ -2107,7 +2108,7 @@
     {
       "id": "39260",
       "name": "自付差額特材數量佔率-區域醫院",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-E4200B-001"
       ]
@@ -2115,7 +2116,7 @@
     {
       "id": "39263",
       "name": "醫療給付改善方案院所-糖尿病",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D20004-001"
       ]
@@ -2123,7 +2124,7 @@
     {
       "id": "39266",
       "name": "醫療給付改善方案院所-呼吸照護-IDS",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D20007-001"
       ]
@@ -2179,7 +2180,7 @@
     {
       "id": "39284",
       "name": "健保特約醫事機構-藥局",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D21005-001"
       ]
@@ -2187,7 +2188,7 @@
     {
       "id": "39283",
       "name": "健保特約醫事機構-診所",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D21004-009"
       ]
@@ -2203,7 +2204,7 @@
     {
       "id": "169468",
       "name": "規格代碼對照表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-E40002-001"
       ]
@@ -2211,7 +2212,7 @@
     {
       "id": "127335",
       "name": "健保尚未納入給付特材品項收費情形",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-E4200E-001"
       ]
@@ -2219,7 +2220,7 @@
     {
       "id": "127336",
       "name": "民眾自付差額品項收費情形",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-E4200F-001"
       ]
@@ -2227,7 +2228,7 @@
     {
       "id": "128318",
       "name": "尚未納入給付特材健保替代品項明細",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D42001-001"
       ]
@@ -3559,7 +3560,7 @@
     {
       "id": "168345",
       "name": "型態別代碼對照檔",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2100D-001"
       ]
@@ -3567,7 +3568,7 @@
     {
       "id": "168346",
       "name": "服務項目代碼對照檔",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2100E-001"
       ]
@@ -3583,7 +3584,7 @@
     {
       "id": "39280",
       "name": "健保特約醫事機構-醫學中心",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D21001-003"
       ]
@@ -3591,7 +3592,7 @@
     {
       "id": "39262",
       "name": "自付差額特材數量佔率-基層診所",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-E4200D-001"
       ]
@@ -3599,7 +3600,7 @@
     {
       "id": "39261",
       "name": "自付差額特材數量佔率-地區醫院",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-E4200C-001"
       ]
@@ -3607,7 +3608,7 @@
     {
       "id": "39267",
       "name": "醫療給付改善方案院所-呼吸照護-亞急性呼吸照護病房(病床)",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D20008-001"
       ]
@@ -3615,7 +3616,7 @@
     {
       "id": "39272",
       "name": "醫療給付改善方案院所-初期慢性腎臟病醫療給付改善方案",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2000D-001"
       ]
@@ -3623,7 +3624,7 @@
     {
       "id": "39331",
       "name": "居家醫療整合計畫參與院所名單",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2000H-001"
       ]
@@ -3631,7 +3632,7 @@
     {
       "id": "39275",
       "name": "醫療給付改善方案院所-呼吸照護-居家照護",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D2000I-001"
       ]
@@ -3639,7 +3640,7 @@
     {
       "id": "39264",
       "name": "醫療給付改善方案院所-氣喘",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D20005-001"
       ]
@@ -3671,7 +3672,7 @@
     {
       "id": "174451",
       "name": "醫療服務給付項目及支付標準(txt檔)",
-      "format": "txt",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D20020-002"
       ]
@@ -3679,7 +3680,7 @@
     {
       "id": "174450",
       "name": "醫療服務給付項目及支付標準(csv檔)",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D20021-001"
       ]
@@ -3695,7 +3696,7 @@
     {
       "id": "169469",
       "name": "單位代碼對照表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-E40003-001"
       ]
