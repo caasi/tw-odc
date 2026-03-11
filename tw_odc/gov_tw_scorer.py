@@ -5,6 +5,9 @@ Indicator 7 (民眾回饋意見之回復效率) requires manual review and is no
 """
 
 from dataclasses import dataclass, field
+from pathlib import Path
+
+import chardet
 
 from tw_odc.inspector import InspectionResult
 
@@ -31,6 +34,56 @@ def check_structured(detected_formats: list[str]) -> bool:
     if not real:
         return False
     return all(f in STRUCTURED_FORMATS for f in real)
+
+
+_ENCODING_BUFFER_SIZE = 8192
+
+# Mapping from metadata encoding names to chardet-compatible names
+_ENCODING_ALIASES: dict[str, set[str]] = {
+    "UTF-8": {"utf-8", "ascii", "utf-8-sig"},
+    "BIG5": {"big5", "big5hkscs", "cp950"},
+}
+
+
+def _normalize_encoding(detected: str) -> str:
+    """Normalize a chardet encoding name to uppercase canonical form."""
+    detected_lower = detected.lower().replace("-", "").replace("_", "")
+    for canonical, aliases in _ENCODING_ALIASES.items():
+        normalized_aliases = {a.lower().replace("-", "").replace("_", "") for a in aliases}
+        if detected_lower in normalized_aliases or detected_lower == canonical.lower().replace("-", ""):
+            return canonical
+    return detected.upper()
+
+
+def check_encoding_match(file_path: Path, declared_encoding: str) -> bool | None:
+    """Indicator 4: 編碼描述與資料相符.
+
+    Returns True if detected encoding matches declared, False if mismatch,
+    None if file is missing or detection fails.
+    """
+    if not file_path.exists():
+        return None
+    buf = file_path.read_bytes()[:_ENCODING_BUFFER_SIZE]
+    if not buf:
+        return None
+    result = chardet.detect(buf)
+    detected = result.get("encoding")
+    if not detected:
+        return None
+    normalized = _normalize_encoding(detected)
+    if not declared_encoding or not declared_encoding.strip():
+        # No declared encoding → pass if UTF-8 (guideline recommends UTF-8)
+        return normalized == "UTF-8"
+    declared_upper = declared_encoding.strip().upper().replace("-", "").replace("_", "")
+    canonical_declared = None
+    for canonical, aliases in _ENCODING_ALIASES.items():
+        normalized_aliases = {a.lower().replace("-", "").replace("_", "") for a in aliases}
+        if declared_upper.lower() in normalized_aliases or declared_upper == canonical.upper().replace("-", ""):
+            canonical_declared = canonical
+            break
+    if canonical_declared is None:
+        canonical_declared = declared_encoding.strip().upper()
+    return normalized == canonical_declared
 
 
 @dataclass
