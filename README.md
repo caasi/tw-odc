@@ -25,6 +25,22 @@ tw-odc metadata download --no-cache                 # 忽略 ETag 快取
 
 下載 JSON、CSV、XML 三份匯出檔到專案根目錄。
 
+### 1b. 下載每日異動資料集
+
+```bash
+# 下載今天的異動清單
+tw-odc metadata download --only daily-changed-json.json
+
+# 指定日期
+tw-odc metadata download --only daily-changed-json.json --date 2026-03-10
+
+# 套用到已存在的 provider manifests
+tw-odc metadata apply-daily
+tw-odc metadata apply-daily --date 2026-03-10
+```
+
+`apply-daily` 讀取 `daily-changed-json.json`，將異動資料集合併進已存在的 provider manifest，輸出 JSON 摘要（updated / skipped / warnings）。
+
 ### 2. 查詢機關與建立 provider
 
 ```bash
@@ -100,7 +116,12 @@ tw-odc/
   "type": "metadata",
   "provider": "data.gov.tw",
   "datasets": [
-    { "id": "export-json", "name": "全站資料集匯出 JSON", "format": "json", "urls": ["..."] }
+    { "id": "export-json", "name": "全站資料集匯出 JSON", "format": "json", "urls": ["..."] },
+    {
+      "id": "daily-changed-json", "name": "每日異動資料集 JSON", "format": "json",
+      "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+      "params": { "date": "today" }
+    }
   ]
 }
 ```
@@ -119,4 +140,4 @@ tw-odc/
 
 ## 專案狀態
 
-開發中。已完成 CLI 重構（`tw-odc`）、manifest-based 架構、格式檢查（inspector）與五星評分（scorer）。下一步是 report 產出與改善建議信草稿。詳見 `docs/plans/`。
+開發中。已完成 CLI 重構（`tw-odc`）、manifest-based 架構、格式檢查（inspector）、五星評分（scorer）、每日異動資料集下載（`params` URL 模板）與增量更新（`apply-daily`）。下一步是 report 產出與改善建議信草稿。詳見 `docs/plans/`。

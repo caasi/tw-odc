@@ -107,8 +107,8 @@ tw-odc/
 
 ### How it works
 
-- `tw_odc/manifest.py` reads `export-json.json` (downloaded metadata), groups datasets by provider (提供機關), derives a slug from download URLs, and creates/updates `manifest.json` per provider
-- `tw_odc/fetcher.py` reads `manifest.json` from a directory and downloads all listed URLs with concurrency control, ETag caching, error isolation, and path traversal protection
+- `tw_odc/manifest.py` reads `export-json.json` (downloaded metadata), groups datasets by provider (提供機關), derives a slug from download URLs, and creates/updates `manifest.json` per provider; `update_dataset_manifest` merges daily-changed entries incrementally; `find_existing_providers` maps provider names to local `pkg_dir` paths
+- `tw_odc/fetcher.py` reads `manifest.json` from a directory and downloads all listed URLs with concurrency control, ETag caching, error isolation, and path traversal protection; `resolve_params` resolves URL template variables (e.g. `"today"` → `YYYY-MM-DD`); parameterized datasets bypass ETag caching entirely
 - `tw_odc/inspector.py` detects actual file formats (via magic bytes), validates against declared format, inspects ZIP contents
 - `tw_odc/scorer.py` scores datasets using the 5-Star Open Data model based on inspection results
 - Provider directories contain only `manifest.json` (and optional `patch.json`) — no Python code
@@ -126,7 +126,9 @@ Two manifest types distinguished by the `type` field:
 
 ### Pipeline
 
-`metadata download → manifest scaffolding → dataset download → inspect → score → JSON output`
+Full audit: `metadata download → manifest scaffolding → dataset download → inspect → score → JSON output`
+
+Incremental update: `metadata download --only daily-changed-json.json → metadata apply-daily`
 
 ### data.gov.tw specifics
 
@@ -135,7 +137,11 @@ The portal provides bulk export of all dataset metadata (defined in root `manife
 - `https://data.gov.tw/datasets/export/csv` → `export-csv.csv`
 - `https://data.gov.tw/datasets/export/xml` → `export-xml.xml`
 
-The JSON export is the input for creating provider manifests.
+Daily changed datasets (parameterized — require `report_date`):
+- `https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}` → `daily-changed-json.json`
+- `https://data.gov.tw/api/front/dataset/changed/export?format=csv&report_date={date}` → `daily-changed-csv.csv`
+
+The JSON export is the input for creating provider manifests. The daily-changed JSON has the same field structure as `export-json.json` plus an extra `資料集變動狀態` field (新增/修改/刪除).
 
 ## Key Design Decisions
 
@@ -148,6 +154,8 @@ The JSON export is the input for creating provider manifests.
 - **Incremental scaffolding**: Providers are created one at a time via `metadata create --provider`
 - **JSON-first output**: All commands output JSON by default (`--format text` for human-readable); logs/progress go to stderr
 - **RFC 6902 patches**: Provider-specific manifest adjustments via `patch.json`
+- **Stable filenames for parameterized datasets**: `params` affect URL template substitution only; filenames are always `{id}.{format}` regardless of resolved param values
+- **ETag bypass for parameterized datasets**: Parameterized downloads never send conditional headers and are never written to the ETag cache — stale entries are evicted on each run
 
 ## Plans (RFC-style)
 
