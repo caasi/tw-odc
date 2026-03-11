@@ -744,6 +744,14 @@
       "urls": [
         "https://data.moa.gov.tw/api/FileToJson.ashx?DataId=I52&DataTable=OpenDataList"
       ]
+    },
+    {
+      "id": "87817",
+      "name": "全國單日平均糧價",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/Service/OpenData/Ricepriceavg.aspx?IsTransData=1&UnitId=E69"
+      ]
     }
   ]
 }

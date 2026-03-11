@@ -1977,23 +1977,9 @@
     {
       "id": "13493",
       "name": "污水下水道系統執行概況─按區域別分  ",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0830201&cycle=4&outmode=12&utf=1&compmode=0&outkind=2&fldspc=0",
-        "9",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&rdm=xtiexij9&ym=10800&ymt=10800"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C145B484-BFAA-4BA0-8587-75695A44D5E0/resource/E553A5A8-643A-4F8D-A348-69C6A36EB931/download"
       ]
     },
     {
@@ -2015,19 +2001,9 @@
     {
       "id": "13496",
       "name": "移民轉介服務─按單位別分",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0930203&cycle=41&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "8",
-        "&codspc0=0",
-        "4",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "17",
-        "&rdm=geNaljZg&ym=11101&ymt=11112"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1434F02B-453A-492B-9F2A-56C48457EAB3/resource/B776DC30-FF38-4477-B1F5-FE957725700D/download"
       ]
     },
     {
