@@ -80,7 +80,7 @@ class TestMetadataCreate:
         result = runner.invoke(app, ["metadata", "create", "--provider", "測試機關"])
         assert result.exit_code == 0
         slug = result.output.strip()
-        assert slug == "test_gov_tw"
+        assert slug == "test_gov_tw_09fdb4a6"
         assert (tmp_path / slug / "manifest.json").exists()
 
 
