@@ -46,6 +46,11 @@ class OutputFormat(StrEnum):
     TEXT = "text"
 
 
+class ScoringMethod(StrEnum):
+    FIVE_STARS = "5-stars"
+    GOV_TW = "gov-tw"
+
+
 def _load_and_check(manifest_dir: Path, expected_type: ManifestType) -> dict:
     """Load manifest and verify type matches expected."""
     manifest = load_manifest(manifest_dir)
@@ -352,15 +357,40 @@ def dataset_check(
     _output(results, fmt)
 
 
+def _load_export_json_lookup() -> dict[str, dict]:
+    """Load export-json.json from project root and build a lookup by dataset ID.
+
+    Returns empty dict if file not found (graceful degradation).
+    """
+    # Walk up from cwd to find root manifest
+    cwd = Path.cwd()
+    root_manifest_path = cwd / "manifest.json"
+    if not root_manifest_path.exists():
+        # Try parent (if we're in a provider dir)
+        root_manifest_path = cwd.parent / "manifest.json"
+    if not root_manifest_path.exists():
+        print(f"W001: {t('W001')}", file=sys.stderr)
+        return {}
+
+    root_dir = root_manifest_path.parent
+    export_path = root_dir / "export-json.json"
+    if not export_path.exists():
+        print(f"W002: {t('W002')}", file=sys.stderr)
+        return {}
+
+    data = json.loads(export_path.read_text(encoding="utf-8"))
+    return {str(d["資料集識別碼"]): d for d in data}
+
+
 @dataset_app.command("score")
 def dataset_score(
     ctx: typer.Context,
     dataset_id: str | None = typer.Option(None, "--id", help="Score only this dataset ID"),
     fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
+    method: ScoringMethod = typer.Option(ScoringMethod.FIVE_STARS, "--method", help="Scoring method: 5-stars, gov-tw"),
 ) -> None:
-    """Score downloaded datasets using the 5-Star model."""
+    """Score downloaded datasets using the 5-Star model or gov-tw quality indicators."""
     from tw_odc.inspector import inspect_dataset
-    from tw_odc.scorer import score_dataset
 
     pkg_dir = _get_dataset_dir(ctx)
     manifest = _load_and_check(pkg_dir, ManifestType.DATASET)
@@ -373,11 +403,26 @@ def dataset_score(
             print(f"E006: {t('E006', id=dataset_id)}", file=sys.stderr)
             raise typer.Exit(code=1)
 
-    results = []
-    for ds in targets:
-        inspection = inspect_dataset(ds, datasets_dir)
-        score = score_dataset(inspection)
-        results.append(score.to_dict())
+    if method == ScoringMethod.GOV_TW:
+        from tw_odc.gov_tw_scorer import gov_tw_score_dataset
+
+        # Load export-json metadata for gov-tw scoring
+        metadata_lookup = _load_export_json_lookup()
+
+        results = []
+        for ds in targets:
+            inspection = inspect_dataset(ds, datasets_dir)
+            meta = metadata_lookup.get(str(ds["id"]))
+            score = gov_tw_score_dataset(inspection, meta, datasets_dir)
+            results.append(score.to_dict())
+    else:
+        from tw_odc.scorer import score_dataset
+
+        results = []
+        for ds in targets:
+            inspection = inspect_dataset(ds, datasets_dir)
+            score = score_dataset(inspection)
+            results.append(score.to_dict())
 
     _output(results, fmt)
 
