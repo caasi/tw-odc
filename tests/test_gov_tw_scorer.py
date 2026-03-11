@@ -1,5 +1,7 @@
 """Tests for gov-tw quality scoring method."""
 
+import datetime
+
 from tw_odc.gov_tw_scorer import (
     GovTwScore,
     check_link_valid,
@@ -7,7 +9,9 @@ from tw_odc.gov_tw_scorer import (
     check_structured,
     check_encoding_match,
     check_fields_match,
+    check_update_timeliness,
     parse_field_description,
+    parse_update_frequency,
 )
 from tw_odc.inspector import InspectionResult
 
@@ -174,3 +178,63 @@ class TestCheckFieldsMatch:
         f = tmp_path / "data.xml"
         f.write_text('<?xml version="1.0"?><root><row><名稱>a</名稱></row></root>', encoding="utf-8")
         assert check_fields_match(f, "xml", "名稱、數值") is False
+
+
+class TestParseUpdateFrequency:
+    def test_daily(self):
+        assert parse_update_frequency("每1日") == datetime.timedelta(days=1)
+
+    def test_monthly(self):
+        assert parse_update_frequency("每1月") == datetime.timedelta(days=30)
+
+    def test_yearly(self):
+        assert parse_update_frequency("每1年") == datetime.timedelta(days=365)
+
+    def test_every_3_months(self):
+        assert parse_update_frequency("每3月") == datetime.timedelta(days=90)
+
+    def test_hourly(self):
+        assert parse_update_frequency("每1時") == datetime.timedelta(hours=1)
+
+    def test_every_30_minutes(self):
+        assert parse_update_frequency("每30分") == datetime.timedelta(minutes=30)
+
+    def test_irregular_returns_none(self):
+        assert parse_update_frequency("不定期更新") is None
+
+    def test_empty_returns_none(self):
+        assert parse_update_frequency("") is None
+
+    def test_unknown_format_returns_none(self):
+        assert parse_update_frequency("隨時") is None
+
+
+class TestCheckUpdateTimeliness:
+    def test_within_interval(self):
+        now = datetime.datetime(2026, 3, 11, tzinfo=datetime.timezone.utc)
+        last_update = "2026-03-10 12:00:00.000000"
+        assert check_update_timeliness("每1日", last_update, now=now) is True
+
+    def test_overdue(self):
+        now = datetime.datetime(2026, 3, 11, tzinfo=datetime.timezone.utc)
+        last_update = "2026-01-01 00:00:00.000000"
+        assert check_update_timeliness("每1日", last_update, now=now) is False
+
+    def test_irregular_returns_none(self):
+        assert check_update_timeliness("不定期更新", "2026-01-01 00:00:00.000000") is None
+
+    def test_empty_frequency_returns_none(self):
+        assert check_update_timeliness("", "2026-01-01 00:00:00.000000") is None
+
+    def test_empty_last_update_returns_none(self):
+        assert check_update_timeliness("每1日", "") is None
+
+    def test_monthly_within_interval(self):
+        now = datetime.datetime(2026, 3, 11, tzinfo=datetime.timezone.utc)
+        last_update = "2026-03-01 00:00:00.000000"
+        assert check_update_timeliness("每1月", last_update, now=now) is True
+
+    def test_monthly_overdue(self):
+        now = datetime.datetime(2026, 3, 11, tzinfo=datetime.timezone.utc)
+        last_update = "2025-12-01 00:00:00.000000"
+        assert check_update_timeliness("每1月", last_update, now=now) is False
