@@ -155,7 +155,7 @@ The JSON export is the input for creating provider manifests. The daily-changed 
 - **JSON-first output**: All commands output JSON by default (`--format text` for human-readable); logs/progress go to stderr
 - **RFC 6902 patches**: Provider-specific manifest adjustments via `patch.json`
 - **Stable filenames for parameterized datasets**: `params` affect URL template substitution only; filenames are always `{id}.{format}` regardless of resolved param values
-- **ETag bypass for parameterized datasets**: Parameterized downloads never send conditional headers and are never written to the ETag cache — stale entries are evicted on each run
+- **ETag bypass for parameterized datasets**: Parameterized downloads always bypass conditional requests and are never written to the ETag cache; cache entries are only removed for parameterized URLs downloaded in the current run (older entries may remain)
 
 ## Plans (RFC-style)
 

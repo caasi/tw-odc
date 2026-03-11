@@ -140,4 +140,4 @@ tw-odc/
 
 ## 專案狀態
 
-開發中。已完成 CLI 重構（`tw-odc`）、manifest-based 架構、格式檢查（inspector）、五星評分（scorer）、每日異動資料集下載（`params` URL 模板）與增量更新（`apply-daily`）。下一步是 report 產出與改善建議信草稿。詳見 `docs/plans/`。
+開發中。已完成 CLI 重構（`tw-odc`）、manifest-based 架構、格式檢查（inspector）、五星評分模型（scorer，現階段僅實作 ★1–★3，★4/★5 規則規劃中）、每日異動資料集下載（`params` URL 模板）與增量更新（`apply-daily`）。下一步是 report 產出與改善建議信草稿。詳見 `docs/plans/`。

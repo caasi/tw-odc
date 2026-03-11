@@ -97,11 +97,11 @@ for dataset in manifest["datasets"]:
 
 **ETag cache safety for parameterized datasets** (not in original plan):
 
-Parameterized datasets bypass ETag caching entirely:
-- Stale cache entries for parameterized URLs are **evicted** at the start of `fetch_all` (different dates produce different URLs that map to the same filename)
+Parameterized datasets interact with the ETag cache as follows:
+- At the start of `fetch_all`, existing ETag cache entries whose URL matches a parameterized URL being fetched in this run are **evicted** (different dates produce different URLs that map to the same filename)
 - Conditional headers (`If-None-Match`, `If-Modified-Since`) are **never sent** for parameterized URLs
 - Successful downloads for parameterized URLs are **never written** to the ETag cache
-- If eviction empties the cache entirely, `etags.json` is deleted
+- ETag cache entries for parameterized URLs from previous runs may remain in `etags.json`, but they are no longer consulted
 
 > **Divergence from original plan:** The original plan called `_dest_filename(dataset, i, len(urls), resolved_params=resolved or None)`. The implementation calls `_dest_filename(dataset, i, len(urls))` — no resolved_params argument needed since filenames are stable.
 
