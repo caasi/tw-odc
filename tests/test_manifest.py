@@ -65,7 +65,9 @@ class TestDeriveSlug:
 
 class TestComputeSlug:
     def test_with_urls(self):
-        assert compute_slug("財政部", ["https://mof.gov.tw/a"]) == "mof_gov_tw"
+        slug = compute_slug("財政部", ["https://mof.gov.tw/a"])
+        assert slug.endswith("_mof_gov_tw")
+        assert len(slug.split("_")[0]) == 8
 
     def test_fallback_hash(self):
         slug = compute_slug("無網址機關", [])
@@ -131,7 +133,7 @@ class TestCreateDatasetManifest:
             },
         ]
         slug = create_dataset_manifest(tmp_path, "測試機關", raw_datasets)
-        assert slug == "test_gov_tw"
+        assert slug.endswith("_test_gov_tw")
         manifest_path = tmp_path / slug / "manifest.json"
         assert manifest_path.exists()
         m = json.loads(manifest_path.read_text())
