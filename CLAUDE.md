@@ -141,6 +141,22 @@ The JSON export is the input for creating provider manifests.
 - **JSON-first output**: All commands output JSON by default (`--format text` for human-readable); logs/progress go to stderr
 - **RFC 6902 patches**: Provider-specific manifest adjustments via `patch.json`
 
+## Plans (RFC-style)
+
+Design documents and implementation plans live in `docs/plans/` with RFC-style numbering:
+
+```
+docs/plans/
+├── NNN-<topic>-design.md    # design document (brainstorming output)
+└── NNN-<topic>-plan.md      # implementation plan (TDD tasks)
+```
+
+- **Numbering**: 3-digit zero-padded, monotonically increasing (001, 002, ...)
+- **Naming**: `NNN-<kebab-case-topic>-{design,plan}.md`
+- **Each feature gets a pair**: design doc first, then implementation plan
+- **New plans**: use the next available number; check `ls docs/plans/` for the current max
+- **Never reuse numbers**: even if a plan is superseded or abandoned
+
 ## Language
 
 Use Traditional Chinese (zh-TW) for user-facing text and documentation where appropriate, as this targets ROC/Taiwan government data.
