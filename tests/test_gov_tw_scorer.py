@@ -6,6 +6,8 @@ from tw_odc.gov_tw_scorer import (
     check_direct_download,
     check_structured,
     check_encoding_match,
+    check_fields_match,
+    parse_field_description,
 )
 from tw_odc.inspector import InspectionResult
 
@@ -109,3 +111,66 @@ class TestCheckEncodingMatch:
     def test_missing_file_returns_none(self, tmp_path):
         f = tmp_path / "nonexistent.csv"
         assert check_encoding_match(f, "UTF-8") is None
+
+
+class TestParseFieldDescription:
+    def test_fullwidth_separator(self):
+        assert parse_field_description("名稱、數值、日期") == ["名稱", "數值", "日期"]
+
+    def test_comma_separator(self):
+        assert parse_field_description("名稱,數值,日期") == ["名稱", "數值", "日期"]
+
+    def test_empty_string(self):
+        assert parse_field_description("") == []
+
+    def test_none(self):
+        assert parse_field_description(None) == []
+
+    def test_strips_whitespace(self):
+        assert parse_field_description(" 名稱 、 數值 ") == ["名稱", "數值"]
+
+
+class TestCheckFieldsMatch:
+    def test_csv_all_fields_present(self, tmp_path):
+        f = tmp_path / "data.csv"
+        f.write_text("名稱,數值,日期\na,1,2026-01-01\n", encoding="utf-8")
+        assert check_fields_match(f, "csv", "名稱、數值、日期") is True
+
+    def test_csv_missing_field(self, tmp_path):
+        f = tmp_path / "data.csv"
+        f.write_text("名稱,數值\na,1\n", encoding="utf-8")
+        assert check_fields_match(f, "csv", "名稱、數值、日期") is False
+
+    def test_json_all_fields_present(self, tmp_path):
+        f = tmp_path / "data.json"
+        f.write_text('[{"名稱": "a", "數值": 1}]', encoding="utf-8")
+        assert check_fields_match(f, "json", "名稱、數值") is True
+
+    def test_json_missing_field(self, tmp_path):
+        f = tmp_path / "data.json"
+        f.write_text('[{"名稱": "a"}]', encoding="utf-8")
+        assert check_fields_match(f, "json", "名稱、數值") is False
+
+    def test_empty_field_description_returns_none(self, tmp_path):
+        f = tmp_path / "data.csv"
+        f.write_text("a,b\n1,2\n", encoding="utf-8")
+        assert check_fields_match(f, "csv", "") is None
+
+    def test_pdf_returns_none(self, tmp_path):
+        f = tmp_path / "data.pdf"
+        f.write_bytes(b"%PDF-1.4")
+        assert check_fields_match(f, "pdf", "名稱、數值") is None
+
+    def test_missing_file_returns_none(self, tmp_path):
+        f = tmp_path / "nonexistent.csv"
+        assert check_fields_match(f, "csv", "名稱、數值") is None
+
+    def test_xml_all_fields_present(self, tmp_path):
+        f = tmp_path / "data.xml"
+        f.write_text('<?xml version="1.0"?><root><row><名稱>a</名稱><數值>1</數值></row></root>', encoding="utf-8")
+        assert check_fields_match(f, "xml", "名稱、數值") is True
+
+    def test_xml_missing_field(self, tmp_path):
+        f = tmp_path / "data.xml"
+        f.write_text('<?xml version="1.0"?><root><row><名稱>a</名稱></row></root>', encoding="utf-8")
+        assert check_fields_match(f, "xml", "名稱、數值") is False
