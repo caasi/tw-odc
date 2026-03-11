@@ -54,9 +54,13 @@ tw-odc dataset --dir <provider_slug> list
 tw-odc dataset --dir <provider_slug> check
 tw-odc dataset --dir <provider_slug> check --id <dataset_id>
 
-# Score datasets (5-Star model)
+# Score datasets (5-Star model, default)
 tw-odc dataset --dir <provider_slug> score
 tw-odc dataset --dir <provider_slug> score --id <dataset_id>
+
+# Score with gov-tw quality indicators
+tw-odc dataset --dir <provider_slug> score --method gov-tw
+tw-odc dataset --dir <provider_slug> score --method gov-tw --id <dataset_id>
 
 # View raw dataset content (pipe to grep/jq/head)
 tw-odc dataset --dir <provider_slug> view --id <dataset_id>
@@ -94,6 +98,7 @@ tw-odc/
 │   ├── fetcher.py             # async downloader (aiohttp, etag caching)
 │   ├── inspector.py           # file format detection & validation
 │   ├── scorer.py              # 5-Star scoring engine
+│   ├── gov_tw_scorer.py       # gov-tw quality indicators scoring
 │   ├── manifest.py            # manifest I/O, RFC 6902 patch, scaffolding
 │   ├── i18n.py                # locale detection and translation
 │   └── locales/               # en.json, zh-TW.json
@@ -107,7 +112,8 @@ tw-odc/
     ├── test_i18n.py
     ├── test_inspector.py
     ├── test_manifest.py
-    └── test_scorer.py
+    ├── test_scorer.py
+    └── test_gov_tw_scorer.py
 ```
 
 ### How it works
@@ -116,6 +122,7 @@ tw-odc/
 - `tw_odc/fetcher.py` reads `manifest.json` from a directory and downloads all listed URLs with concurrency control, ETag caching, error isolation, and path traversal protection; `resolve_params` resolves URL template variables (e.g. `"today"` → `YYYY-MM-DD`); parameterized datasets bypass ETag caching entirely
 - `tw_odc/inspector.py` detects actual file formats (via magic bytes), validates against declared format, inspects ZIP contents
 - `tw_odc/scorer.py` scores datasets using the 5-Star Open Data model based on inspection results
+- `tw_odc/gov_tw_scorer.py` scores datasets using 6 quality indicators from 數位發展部「政府資料品質提升機制運作指引」; requires export-json metadata for encoding, field, and timeliness checks
 - Provider directories contain only `manifest.json` (and optional `patch.json`) — no Python code
 
 ### Manifest types
@@ -161,7 +168,11 @@ The JSON export is the input for creating provider manifests. The daily-changed 
 - **RFC 6902 patches**: Provider-specific manifest adjustments via `patch.json`
 - **Stable filenames for parameterized datasets**: `params` affect URL template substitution only; filenames are always `{id}.{format}` regardless of resolved param values
 - **ETag bypass for parameterized datasets**: Parameterized downloads always bypass conditional requests and are never written to the ETag cache; cache entries are only removed for parameterized URLs downloaded in the current run (older entries may remain)
+<<<<<<< HEAD
 - **Unix philosophy for data viewing**: `dataset view` outputs raw file content to stdout without parsing; use external tools (`grep`, `jq`, `head`) for filtering/formatting. Multi-file datasets print filenames to stderr to keep stdout clean for piping
+=======
+- **Dual scoring**: `5-stars` (Tim Berners-Lee) and `gov-tw` (數位發展部品質指引) are independent scoring methods selectable via `--method`
+>>>>>>> 4ed10b5 (docs: add gov-tw scoring to i18n and CLAUDE.md)
 
 ## Plans (RFC-style)
 

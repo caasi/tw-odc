@@ -18,6 +18,8 @@
   "status.network_error": "%{filename}: 網路錯誤: %{error}",
   "status.unexpected_error": "%{filename}: 非預期錯誤: %{error}",
   "summary.issues": "%{count} 個問題已記錄到 %{path}",
+  "W001": "找不到根目錄 manifest.json；gov-tw 詮釋資料相關指標將無法使用",
+  "W002": "找不到 export-json.json；請先執行 'tw-odc metadata download'",
   "output.count_suffix": "(%{count} 筆)",
   "output.partial": "(部分)"
 }
