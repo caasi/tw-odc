@@ -1,0 +1,801 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府農業局",
+  "slug": "newdatacenter_taichung_gov_tw_f55533b1",
+  "datasets": [
+    {
+      "id": "81732",
+      "name": "臺中市產銷履歷清冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5a80fd37-8f8b-451d-b78d-9a3cb87fa230",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5e8942da-0e30-4fdb-b7b4-d84d66e43dff",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c6cd6ebc-9763-4e9e-89cc-e699304131e4"
+      ]
+    },
+    {
+      "id": "84483",
+      "name": "臺中市蛋雞場普查",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/09014f7f-ec23-40b7-8f01-191a5156550f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/42c063e0-3355-4dcf-9714-069c3638bd13",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a714be2c-c1a3-4942-a21d-219ef64bf2bd"
+      ]
+    },
+    {
+      "id": "127825",
+      "name": "21411-90-03-2 臺中市蔬菜、水果及毛豬批發交易量及交易金額",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=08cdf43b-0d14-4aa3-9783-e785a6654d49",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c305b297-cba5-4dd3-9324-7c658a8e6684",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f3fdde80-8499-4d05-ad3a-766dac370735",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=08163023-485c-4aaf-b052-686025ee82d2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bcccd6d4-dea6-4cfb-baea-8d46ee360b98",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f2a1a5e0-8a65-4bf9-8415-e0fc16ce5944",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c2fd5b37-5810-418c-9aa7-07dfe11d8a86",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d87bb9c8-7ef6-40d9-a5ab-0b5f435e947f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a34158d6-61d3-42d5-8497-6deb4d40b57b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c79ed652-5ee5-4cef-a664-d19c76afe826",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=671d8329-beec-4da1-84ad-5420f365ac5a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=349a9aa9-093a-435b-a26a-f7db7ac18148",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e648f001-f4ed-42d1-8b0f-0288c40a1947",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=181b7b7e-0b4d-4afa-aae4-77b32848d52a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7b356771-ab17-4fdc-aa3e-08c1627fe45f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=505bfdac-4c73-4657-a291-63dba37d0a82",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5643fa18-ff30-43c9-b5c7-e50769f3cd09",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b086f8e6-beca-4fd0-8c12-0d922e18da0b"
+      ]
+    },
+    {
+      "id": "84369",
+      "name": "臺中市動物之家收容動物公告",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c5fbf0e9-b82b-4a0c-bff6-833f9c4c322b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e84f2afc-9075-4861-9d7a-81bc7095be29",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e948ef66-2840-4e93-840b-c073a47be159"
+      ]
+    },
+    {
+      "id": "83950",
+      "name": "臺中市各區優質農特產品介紹(生鮮)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/13db1797-45d2-433e-88a0-062fc97d4cd8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/171d8f52-fd38-42ff-bf6b-6624c3fa43b7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5726a9cf-9c8d-41de-a0c0-2c4e305cb4f0"
+      ]
+    },
+    {
+      "id": "83609",
+      "name": "臺中市農會資料",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/169e94d0-a70f-4332-8cbe-cb4ac6d4547b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/752bf27f-5f99-44de-ac39-4a7c46cb58ed",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/949f2e55-989d-4a0a-9860-985a4e7239f2"
+      ]
+    },
+    {
+      "id": "91787",
+      "name": "20321-02-03-2 臺中市蔬菜生產概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6707ef82-4922-4afa-a9bd-e5a409b82d77",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a6cff9a-f69c-4064-be6e-51bd0f69dba0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fefbecea-654f-45a3-9303-f40fecbfff9c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d97c4070-d96e-4059-ae95-a195e55145dc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eb588edf-6e84-4c4e-b2a1-bd6f721233c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=400b6d0a-1026-4bfd-99ad-1fabe900bd21"
+      ]
+    },
+    {
+      "id": "91788",
+      "name": "20321-02-04-2 臺中市果品生產概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06df7537-cd78-4490-a214-4b1bcec7a7bc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=afa76a4e-97bb-49bd-9fbf-9bab0e15b73c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d3879b74-f81e-4f39-ab5d-ebe15f66ab96",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=575d0f27-5945-4f7d-b9e8-906dacea6987",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=47b521d8-21cf-4c45-8b36-f3c2b951f661",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03e0d3cc-4e79-45df-832c-528e56b78b78",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b2a124d6-0b0c-4df9-aca4-b8328c3858c6"
+      ]
+    },
+    {
+      "id": "91797",
+      "name": "20331-04-01-2 臺中市林業(伐木業)生產成本",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=85e42121-4b7e-49b6-ba01-d664d83589e0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d46d29c-37fa-42e1-a656-b5d8a42cb074",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=05ef6213-2f67-41af-9db5-95d0d81dc0ae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d2e7491-4ce1-4bf7-bf7d-8bfabb22747a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=220be8b3-d075-4b8a-8a2f-1609081448fc"
+      ]
+    },
+    {
+      "id": "91800",
+      "name": "20359-01-01-2 臺中市偶蹄類動物口蹄疫疫苗注射措施管理",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4f0f324e-d988-4ed1-b2cc-fcfba4853797",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fcee8fdd-f5aa-48ab-89f9-41b3979caedc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f8dc5960-2ef2-46b7-85d9-0723ff08f417",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e426c2ed-33e4-4f76-a3b5-b18912ad0181",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=af6a43bf-cad3-49fe-b631-37f78f5ac3c9"
+      ]
+    },
+    {
+      "id": "91801",
+      "name": "20359-01-02-2 臺中市動物疾病檢驗件數統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e68e424f-c7a3-4c54-8d1a-708a2f0c234a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3f8bc106-57f6-4d33-aee7-aefaee83bec4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06dddcc1-bbb9-43bd-9a7a-299c9040f392",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3bc6444a-118e-46cf-9b50-dfbeb35d0316",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cab00d3c-b4d7-42ec-8246-c7aae6be9391",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3fc6d8c3-9e14-4514-9a53-0a72bc488c80",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a51702c-f878-4e7c-af1e-38994160c570",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a8b12c71-eea6-4155-9c73-0915640d114f"
+      ]
+    },
+    {
+      "id": "91803",
+      "name": "20393-03-01-2 臺中市農作物天然災害損失救助概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c57fe0bf-9ef5-4a13-8f15-16f66eeccc8e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=949fac07-afee-4d6d-a2b0-4b829ce235c3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3454ae74-dce6-4c8c-bb0f-5c38f5e60368",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d15b3a46-e8df-43da-8ade-6bf8bff119c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=154e32ab-090f-449d-9711-6ab23a62dab1"
+      ]
+    },
+    {
+      "id": "91809",
+      "name": "20811-90-01-2 臺中市農會盈虧餘絀統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ede07e81-2cde-4084-aedb-e5cb129a7f94",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=52c0d90f-4493-4bab-ac25-5cab12d1026c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d5721eb8-3b05-4060-8f0d-cb8b66ad2a27",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=66ebe743-6fcd-4577-80b2-ad284074d103",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9186f93e-5a92-4711-9649-afe93052eca4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8057cd21-a789-4cf5-949f-43401bb7f2ae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8fa191b0-1fe0-4d10-8a62-a19c71a58b71",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=817c88b3-da09-470b-b8f3-70d2baa76d19"
+      ]
+    },
+    {
+      "id": "91783",
+      "name": "11233-01-01-2 臺中市造林工作",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d9a88d1f-a4c8-46e8-ae5e-eb318e5ed59d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14d3a71b-c6fe-48b9-8a9d-5f0453319129",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eded70f6-f86a-4d43-acbc-6ad9e5e16284",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1bd47f30-2960-4446-80e9-8d7d2999ccbe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d73dee7-addb-4737-8d3b-f2fd4b430007",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=beb3d0c4-3fff-46f1-aa60-54d0941bcba7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ee5bfd03-be20-4d31-9f48-26754e9250b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6924843-a76c-48d9-ab6f-04f198a5e394",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cf94d7fb-1919-428a-9ef3-8bee7c01bbf5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=47fc61c8-1f0a-4040-a3c8-93dddcb87244",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aa544e5f-ae3a-47b7-9670-ba83eabf446f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1a78ac7a-41db-419b-80bf-84ee8f5f0ccf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=72e5459b-c3c2-4362-9e9c-0260c3b17db9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=13b34b61-48db-42f2-a4ae-afa091db38c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a903fab-90e3-4e93-8039-ad1b839d2fee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2978c9b2-da6d-484d-82fc-bd451d29b2b4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=095cbb90-c991-4310-9dff-77fe80247e02",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a5ba053-cabd-46c1-9d57-7b6d127ab08a"
+      ]
+    },
+    {
+      "id": "91786",
+      "name": "20321-02-02-2 臺中市雜糧生產概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bbc09fab-25ba-4d10-ae09-688aaae7080d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=45c3b663-3a6d-4f65-9375-388c17273804",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=792ee45a-9a14-498c-b19d-71b7e37e8610",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c31ee394-5855-49a2-bd44-ce960bc96fb9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e4aeae73-b662-48a9-b6b1-9e36fd51e895",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=29b723ed-1f24-464f-99d3-72959f6a3965"
+      ]
+    },
+    {
+      "id": "90827",
+      "name": "20393-05-01-2 臺中市獸醫診療機構統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4bd9122c-3884-4965-bd55-bb6569f2928b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7371798a-a8be-4cc8-8486-c2025a413d7e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4d4f04fb-0a11-4c15-a15e-4ac762b8deb2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b6b5a918-92b0-4a7e-acdb-7c93c265d59f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d12e03e0-5f0a-4610-be01-214c6a20e05a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=adafe8fd-b1e4-4d3c-b229-3640882048d6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff5180c0-12cb-485f-b91e-4ef9ef3b6fc5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=12b79b8c-9fa2-4758-ba4f-82317b7b0104"
+      ]
+    },
+    {
+      "id": "90782",
+      "name": "20343-02-03-2 臺中市現有漁筏數量",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bb93927f-5133-4c96-8a49-311b26aed0bf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=24cae10a-2bf0-458a-8bb7-e01553bebae5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=19cc774b-2bd2-4e9d-a5fd-7482eb1925db",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cb4cedcc-1173-43ec-b24d-752cef9ad1e6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4981dc91-a8e3-4f9c-a971-c991471a24e6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=84dd5447-92a5-4932-99f5-2c3bfae0d9c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6ff215f-de1c-427f-bf6d-387563eed28c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=774b52c6-f041-417a-9724-a075bbb6bf12"
+      ]
+    },
+    {
+      "id": "90783",
+      "name": "20349-01-01-2 臺中市遭難漁民數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fa44a82a-72a5-49dd-95e6-2ff945ffa107",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=886531f5-1edd-4c90-b783-31068907b380",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c855b3d2-16e3-4579-a3cd-2f0000f6127a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=93473701-819d-48ea-b1fd-ca02f632b7c3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6f22e3b-c596-4113-b367-48644612e3ae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=31d6f23c-9b41-4b3f-977a-15015d89be64"
+      ]
+    },
+    {
+      "id": "90776",
+      "name": "20343-01-01-2 臺中市漁業從業人數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2b95da1f-1b98-41f7-a107-49ce07448f96",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1c8f29ec-4c46-40c0-8303-0173f2fb1b31",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=927e9cd6-24af-4aba-9516-3bbd6decab0d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=50a837b8-e5e5-49b2-b08d-742f2d1ffabe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c663b8da-08de-4274-8945-3dbb9ad14602",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=afda1651-5f93-4670-992a-769c2e3c175e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=33649052-8889-428a-b162-cc7f717f5f09",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=23568860-d560-4df1-a6cd-d9c6efc2a70e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b53c2f37-475a-4167-b406-458fdbf3aa78"
+      ]
+    },
+    {
+      "id": "90777",
+      "name": "20343-01-02-2 臺中市漁戶數及漁戶人口數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab815ec7-5fd1-4c1f-8b8e-256758ece37e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0ce8e614-9371-4e0c-be37-407a60c3d0da",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=288d8a46-c951-43e1-9170-965a505eb57d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aef9d7e1-e84f-4763-94bb-c80a5bd934c2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=17738a58-84c6-417d-98ac-c76de91806f0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3a015378-ec7f-4af2-a3ef-3e4b59577f74",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=243e7956-8abc-4445-9b21-1c76666f4fa3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b744724f-cb94-4ed9-bae1-51581f3e96e8"
+      ]
+    },
+    {
+      "id": "90779",
+      "name": "20343-02-01-2 臺中市現有動力漁船數─按漁業別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ebe630f1-1a77-492f-b24e-5ae18b2c9c2b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9f1c4fa7-5daa-4ad4-b98c-9d115a94e474",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5ef50130-847a-401b-95e2-d0edd4887f3a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7bf15105-3614-4be5-bdb5-84b84ac59f28",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd79d891-8daf-4cae-a3a1-134589452608",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e87f6349-0614-4e88-ab8d-c94eeb57dd68",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f7b7f60-6ab9-48b9-8a3f-a62635353efe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=236b7f28-3bcb-4631-b5d0-e2b7b8203f31"
+      ]
+    },
+    {
+      "id": "163944",
+      "name": "臺中市108年底各農會信用部存放款概況",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/13b06ae7-0d82-4ae4-8d9f-196046aac118",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4b237536-91aa-45bc-bddd-e3b93e700419",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f6c86b48-2abb-4501-8a1e-90ff77d8e6bc"
+      ]
+    },
+    {
+      "id": "146804",
+      "name": "臺中市農會資料集",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/362eb5f6-7649-4c7a-a3e9-872601cebedb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b41ab574-9538-4f81-a12a-19edd3c5a740",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f50131ce-e6ec-4f37-882e-b60ac0d8e195"
+      ]
+    },
+    {
+      "id": "167880",
+      "name": "112年度臺中市各農會信用部存放款概況表0301",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1f878a57-efec-4a94-9002-b61b0af77c7f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ec4400b0-9673-4526-a56f-9402c98d73a5"
+      ]
+    },
+    {
+      "id": "168512",
+      "name": "臺中市外來入侵致災動植物防治名單",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5600589f-ed13-4ed5-8e3d-b2b5c94484cb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ea4b3dc1-9423-4b02-9900-ea7539bc5ec8"
+      ]
+    },
+    {
+      "id": "168513",
+      "name": "臺中市各魚種平均價格表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/896e154a-c487-424c-9aa4-791508781b34",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d9a75474-0350-46e9-972a-bee114eee33d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ee7939e4-b78a-4b01-a1bd-c9c1f75f075d"
+      ]
+    },
+    {
+      "id": "84482",
+      "name": "臺中市家禽屠宰場",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/33227808-9db8-42a6-8878-da83b64d7487",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6c4b7f67-8c4b-44e6-b648-e1123d26a9f6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7dbb6334-6613-424e-964d-9282eca5f338"
+      ]
+    },
+    {
+      "id": "83559",
+      "name": "臺中市特定寵物業者名冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/50fffb03-21f7-4750-81f7-da6e2a270ffe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8edcd203-3f1e-4ae0-b9b4-d36e5de4947a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b2c49fd3-3817-4c9c-8ce1-abde075f53e7"
+      ]
+    },
+    {
+      "id": "83884",
+      "name": "臺中市苗圃資訊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4f950f70-1786-46e1-8eda-cf6713f22514",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b2318843-b069-4f47-8562-81b0a8a7e460",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/de5dc4df-925a-4aec-a4b9-95d62c9131e7"
+      ]
+    },
+    {
+      "id": "83762",
+      "name": "臺中市合法動物醫院名冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/07a37d1d-a1f5-4bb7-9a7b-239b1f1e02d6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0c0f33e2-470a-4724-ae55-76943706f31e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bb3f1ae3-e890-4c16-b5df-6a3a8676131f"
+      ]
+    },
+    {
+      "id": "83763",
+      "name": "臺中市夜間急診或24小時急診動物醫院",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7ee08855-4143-43d0-b0dd-9df094b452c0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/81b80ead-6ae0-4378-9331-0e1f05c387c6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d2f1c44c-6d6c-4901-bcec-7cdcb1f55eef"
+      ]
+    },
+    {
+      "id": "83684",
+      "name": "臺中市野生動物保護區",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/56432d66-0f52-4004-ba57-6a71aaad4801",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b25ef970-3cfa-494f-ab4a-eb93771aae97",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c9f808a5-24ff-4076-907b-32bfe4ef21b3"
+      ]
+    },
+    {
+      "id": "83951",
+      "name": "臺中市各區優質農特產品介紹(加工)",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/17db78d3-f375-4802-af3a-58c63d670f4a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2a2465b0-ebad-4e83-a8f7-31a29a7d9b9a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/70ffa2de-a4d5-4929-bd34-19502f88f7db"
+      ]
+    },
+    {
+      "id": "89436",
+      "name": "臺中市動物用藥品販賣業名冊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0e5206fe-8f7b-4632-a3ac-3036c093662d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/16796305-e5d4-4fba-86a2-afd113a2f910",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b6f223dd-6fa6-4a98-8e37-91d7e7f7f9a1"
+      ]
+    },
+    {
+      "id": "113553",
+      "name": "臺中市休閒農業區",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2272f3ec-72ac-4731-aa77-3803fa940d5e"
+      ]
+    },
+    {
+      "id": "114781",
+      "name": "20331-03-01-2 臺中市森林副產物生產量值",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=53b34c9f-e78a-45a3-a3de-60c8ec28b3df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5e0dddf7-f320-415a-aa4d-80374547b08a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bb22139b-2faf-4883-ab66-9799cffa1439",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=19554056-1c77-446a-b81a-2488b06b7e43",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=287c70a7-6189-4e66-81a1-682be74ceef5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c279a6b1-d93e-4f42-a06f-1363626b2a70",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11dfc80a-af4b-48e8-bd3b-136525bd6ba9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a0ed05e-4d92-4a8b-8d52-2a8dbb423e51",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b7e700ea-4b13-4028-bf4b-0ba153aec0fe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=72d6eaa6-edea-4a9b-972b-0af484b6ad95",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d2fd5de8-66ac-452f-adb7-fc92baf90172",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c3d64a67-e40a-49f5-a763-2f67a8fa4f97",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f39745bb-7bc8-4715-a0a5-58be5be70983",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0684cec6-76ce-4049-accb-760a6937d954",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bcb76196-3866-49f8-b1ed-1b6c04a13ed0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=56933c70-c33e-43c2-b2a8-be531d3b1712",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=70ca3d56-4a76-41a2-8abe-018a329a44aa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=258de459-1542-420f-878a-f8cafd527570"
+      ]
+    },
+    {
+      "id": "114783",
+      "name": "20329-90-01-2 臺中市現有農機數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=90e6ec99-5eba-463c-aa18-07c3c554b308",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c0dd6cea-fa77-4adc-924c-68e540caddab"
+      ]
+    },
+    {
+      "id": "114786",
+      "name": "20811-07-01-2 臺中市各農會信用部存放款餘額",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=317a99cb-6e64-4230-ad74-38a4ba3ea8a9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a088daf6-2944-4bb1-8417-9db343b84bc6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b31ae81-fd1f-4a1f-afe9-494a0b3f4179",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc134a31-d183-4467-b8b7-ed1f0c758a8e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=431603d6-fe53-428a-b119-faf4e56ae07e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6f3b6d1-dec7-422a-847b-653d990de495"
+      ]
+    },
+    {
+      "id": "114790",
+      "name": "20329-90-01-2 臺中市有效農機使用證之農機數量",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9db84a41-160d-435f-b287-e7cd7741a326",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6802d67-ea87-4d78-8359-4f3a7e821975",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=505bcfeb-c52d-4bdc-847c-82b1cc8fe3db",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=406d2241-890f-413f-a7fc-aa3220e12cfe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=214a1285-365e-488f-a3e6-b60f0b2ce1eb"
+      ]
+    },
+    {
+      "id": "90785",
+      "name": "20349-01-02-2 臺中市遭難漁船數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d3a8f8a-f4c4-4ad8-af63-e027502cdba8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=16302719-c75a-4808-9493-8c113cd0d21e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=edf49935-bacc-409a-9d8b-e2276c3cb6d6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d8ab7423-2a2d-4bcf-80f5-548091592a6a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6fcbc903-3aa6-49c2-9226-bdce0f8f0f25",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8f589cbd-dbf0-4bee-94e7-bc2b372926b5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e05c16c0-3d11-4abf-b5c1-45a1d29d61a7"
+      ]
+    },
+    {
+      "id": "90815",
+      "name": "20329-03-01-2 臺中市休閒農業統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=60939d39-f2b7-4475-9afd-b1df429c7a1f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5ae3fb97-7f41-4979-9615-6ff6feaa7a06",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9b9f40f3-fb29-4487-97c2-f38ebf5a9119",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1357c1db-a962-4029-8caf-a52888d5e563",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a044ba0a-1b33-4b65-bfc5-d1170a215c18",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=28ffdd91-2960-4a82-8a38-6a09cff8be8f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=162c01d5-3f2b-4c1c-a18a-929763ac9f1b"
+      ]
+    },
+    {
+      "id": "90772",
+      "name": "20341-02-01-2 臺中市近海、沿岸漁業、海面養殖、內陸漁撈、內陸養殖漁業生產量",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a975adb6-2d77-4474-966a-665ad10e5f4e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bfed89c3-6e4a-48ec-8d4c-9e5671d840a3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18717505-06b1-4eb8-a485-5736fade7d62",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=24c2f4bf-0cea-42d0-9634-8612ab4b25fa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a02b3067-60ca-49b4-9c66-7a5b653ade73",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=16c1c533-daaf-4d95-b14d-b4471db9f3d6"
+      ]
+    },
+    {
+      "id": "90774",
+      "name": "20341-04-01-2 臺中市水產養殖面積─按魚類別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=214baf0c-f5b7-4b3b-9bde-48b55d77a475",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e70f3ef3-2a0e-46e4-88be-e7c5b4a56091",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=51d46e31-1303-484f-ada3-9f6d103918e6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0243837d-217f-4e89-bfc3-5c528acf304b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ad9a8afc-c1db-4af8-b1e1-6c9f80b0a3a4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dfe5c240-3f63-4415-a49d-2a6dc47092d5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1fcfac83-c247-4e71-9abc-7d067a7d281a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6df69469-2f80-4af3-8915-e724b7f3c406"
+      ]
+    },
+    {
+      "id": "127820",
+      "name": "臺中市批發市場地址及聯絡電話",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/82f7b607-df70-4b6b-b74e-7d675bd3c85d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/87294032-31c9-4f6e-92a9-896f05bb19c2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9856592e-fb6e-44c9-9e40-4a3781c14e2d"
+      ]
+    },
+    {
+      "id": "127824",
+      "name": "21411-90-02-2 臺中市農產品批發市場面積、交易量、交易額、管理費收入、交易天數及員工人數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a49dd2f2-4cdc-4d44-858e-0bc9dc38f309",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7e96d2a7-7c84-4d04-a08f-3cb5f515b60e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8a85f39d-de69-4865-87ec-178f78e10c02",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=78bb94cc-b273-44ff-8475-822b9abb88b7"
+      ]
+    },
+    {
+      "id": "91791",
+      "name": "20322-08-01-2 臺中市農業產銷班概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e2bc29cb-52f8-46a0-a129-5b3b8f146453",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9acadf9d-1ac7-4471-aa2a-5245cf68fe1c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cf4f2907-8611-46b5-b866-5aed2c88fa7c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d71ba8af-1c32-48ef-8af6-f52d18d32ba1"
+      ]
+    },
+    {
+      "id": "91792",
+      "name": "20325-02-01-2 臺中市有機農作物栽培概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=57e45753-9e68-4eab-a2d2-b8388ac68fce"
+      ]
+    },
+    {
+      "id": "85030",
+      "name": "臺中市休閒農場",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/df212c03-40ca-4ba9-b13e-a448bb53023a"
+      ]
+    },
+    {
+      "id": "84978",
+      "name": "臺中市取得農場登記證之農糧類農場名單",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6f01d47c-8495-4b42-b979-229fb064bf00"
+      ]
+    },
+    {
+      "id": "83850",
+      "name": "臺中市漁會資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/30a80e0c-b155-40d7-8ed8-49938cecb359",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/33c0581f-f2f5-4be8-aaaf-58ea95b47d0d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bb47473b-1f93-4a47-a1cd-56a35a65b58a"
+      ]
+    },
+    {
+      "id": "84825",
+      "name": "臺中市國家重要濕地-高美濕地資料",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2a2fe583-9c8a-42f0-a53e-db99b2d4bcb0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8f0792fd-e419-4783-8063-32d03fc552df",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dfea55ea-9ceb-4399-b09f-69756eb81d64"
+      ]
+    },
+    {
+      "id": "103689",
+      "name": "20321-02-05-2 臺中市特用作物生產概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b691f42-f43e-4b62-9710-75211cbe6ba1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cdf5afbe-cd9b-4adb-a80f-bd8a3c4f4da6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3f1a689c-b805-4390-8a6f-74ad334bbd01",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7479289a-d6ff-4c7e-ba55-c7e8c6470222",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2dfc958e-21de-42e1-a563-ff462eec0d5e"
+      ]
+    },
+    {
+      "id": "91784",
+      "name": "11243-01-01-2 臺中市農耕土地面積",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d66a70d4-cafa-40f0-8e0b-96e89aab537b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=33a9703f-35ca-4bb1-a3d3-b06d6e5a48ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0af6b260-ac01-4710-b174-90e7b4752a0f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=99368cc1-c9c1-4420-b255-35f5f9b364a5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=025beb04-521d-4d9e-822d-7678dcabe73a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f14f8591-c71b-44f6-9221-2d28d103a0c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=997d3a40-97fc-40f0-a0df-57778ebc8540",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d986d742-5a46-45e6-bfa8-59e17cd5c9da",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b4044228-2057-4eda-84b5-bd8e4d774c7c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bd81543a-6ba7-4d80-af93-23b96774b517",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7dd9890f-cb86-4902-b3bf-5e7c00f2d76f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=64893ed6-cf0b-4e02-a44b-36af1a2c91bb"
+      ]
+    },
+    {
+      "id": "91785",
+      "name": "20321-02-01-2 臺中市稻米生產概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=12f66f83-aab6-466d-9c2b-8f51c77ac683",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d96ad91b-c710-42c9-9288-245540a1fc68",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b279117a-894a-493c-87a5-91677b508c73",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a6666ba-2488-4d6f-b989-647e6e43e2d6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=59a2d20a-7b76-4d2a-9417-479a0e4be2d8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=27953fd7-88e6-4b88-916b-6297d3d7141e"
+      ]
+    },
+    {
+      "id": "91790",
+      "name": "20321-02-06-2 臺中市花卉生產概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7331f06b-ba33-40ac-b90d-e7d28cbc4bad",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b10b7fa8-6f18-4fd3-ac54-c76f880caf0a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=02c331e8-a3b4-4f27-8df3-b2c6789d5be8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=60c4442c-a260-4ff4-abc3-69473fe6eb21",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=90054a39-3c45-46e0-b8a4-9537c52a7768"
+      ]
+    },
+    {
+      "id": "91805",
+      "name": "20331-02-01-2 臺中市森林主產物砍伐生產",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=26555559-4942-4106-bb9a-a5e9f9e543df"
+      ]
+    },
+    {
+      "id": "83621",
+      "name": "臺中市執業獸醫師(佐)名冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5c4a4d75-3a7a-4587-855f-e03065f92185"
+      ]
+    },
+    {
+      "id": "83615",
+      "name": "臺中市受保護樹木公告清單",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=89a5f1cc-817c-4380-897d-720c1bf9e8c3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bb890b04-5d5d-4718-94ab-4aa1299b89f9"
+      ]
+    },
+    {
+      "id": "84370",
+      "name": "臺中市動物之家鼓勵認養公告",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5aee4d43-3c9d-4efb-9731-d8e5e327d1b1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a06d84da-7da3-4e5a-b6e9-dd34f0b7d3bb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/afb302b4-10f5-4a53-b7bb-8fdb9b266b9f"
+      ]
+    },
+    {
+      "id": "127826",
+      "name": "21411-90-01-2 臺中市各類農產品批發市場交易量、交易額、平均價及管理費收入",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c7ad4695-264a-43a4-a9df-928fbabe4bc7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b82a55ea-e2da-4749-a369-e9877f6d3fc8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=36552ba5-aaef-4057-a8ac-c5874745e8c3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d7b353a9-08f7-441f-a837-c65369c36e9d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=32a8530b-129d-4e0c-83ea-a1692a45d217",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b5c8ba53-4204-4641-93fc-2a71a6f8803f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d80801b1-a98f-4274-ba10-9701e52e4894",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff1b9155-1737-4d0c-b148-b10dcd8487a6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=909d0f35-8d6e-491b-b567-11b30d8c15f2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3c1ed8cc-12fd-470d-9b5e-8e46b3d9ce35",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1be58d7b-f7ed-4517-941c-4bddde847ad5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4dfbdd3f-3619-4ca0-8977-0da8c58406a1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=33baf9bd-292b-4e35-a929-c9d1d8905292",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8bf93138-a1d6-4333-ab50-6d55c0a1d96d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=79845c2c-4b27-4a0f-a953-05e3c695412f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3fe3e324-a153-4327-acb7-40f93eb26d68",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b54d4ff-46a3-4e22-8a13-b17ad03db4ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=473846b4-4834-44ee-a823-c77524107b4f"
+      ]
+    },
+    {
+      "id": "167334",
+      "name": "臺中市政府農業局113年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d8f77e63-06ad-421d-9cc0-8679e1aa8d05",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d9be8e27-c83c-47a9-856e-d4a726de97df"
+      ]
+    },
+    {
+      "id": "167881",
+      "name": "112年度臺中市各農會信用部存放款餘額0301",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1f0d5263-5351-4209-a7c5-46c80c4fcb57",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a8df3296-cd84-41cf-9920-efd1e883d6bb"
+      ]
+    },
+    {
+      "id": "114764",
+      "name": "20811-07-02-2 臺中市各農會信用部存放款概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e7ab5913-e8be-4f84-9717-c5e83b97cb77",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=13b9b92e-be1e-4435-95a8-f609bbb3ba3a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7690ee75-b613-47bd-a5a7-7aca665c70df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6d3057fc-ef40-46d9-9a49-4b17d83a4893",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f68b489b-8b9e-4bb8-afe5-4563a768e28c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=37ab02c3-fa1a-4fe9-8cae-feae1cf498b2"
+      ]
+    },
+    {
+      "id": "147057",
+      "name": "臺中市政府標章認證農產品抽檢清冊",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a203cf25-5b26-43d7-b00d-0e92febc4907"
+      ]
+    },
+    {
+      "id": "162701",
+      "name": "臺中市有機農戶清冊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3f46f16f-0c40-402f-84e3-21013476629e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b06feb81-586c-475d-a8fc-5123446c73b3"
+      ]
+    },
+    {
+      "id": "175753",
+      "name": "臺中市苗圃經常性培育提供市民(機關)領苗苗木清單",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03429d3c-399e-4389-b856-ca8be592ecea"
+      ]
+    }
+  ]
+}

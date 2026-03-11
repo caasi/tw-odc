@@ -1,0 +1,2975 @@
+{
+  "type": "dataset",
+  "provider": "金融監督管理委員會銀行局",
+  "slug": "fsc_gov_tw_3a6cf7b0",
+  "datasets": [
+    {
+      "id": "10689",
+      "name": "金融控股公司設立情形表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking20.csv"
+      ]
+    },
+    {
+      "id": "10693",
+      "name": "93年9月迄今併購案件",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking22.csv"
+      ]
+    },
+    {
+      "id": "10695",
+      "name": "外資投資國內金融機構一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking24.csv"
+      ]
+    },
+    {
+      "id": "10525",
+      "name": "本國銀行逾放等財務資料",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking12.csv"
+      ]
+    },
+    {
+      "id": "10552",
+      "name": "以土地為擔保品之放款餘額資訊揭露      ",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking16.csv"
+      ]
+    },
+    {
+      "id": "11577",
+      "name": "金融研訓院年報資料",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1460.csv"
+      ]
+    },
+    {
+      "id": "14857",
+      "name": "信用合作社簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/refer/ccop_intro.csv"
+      ]
+    },
+    {
+      "id": "14859",
+      "name": "信用合作社前置協商電話諮詢窗口、專線電話",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/debtnegotiate/debit_nego.csv"
+      ]
+    },
+    {
+      "id": "14862",
+      "name": "信用合作社辦理民眾申請查詢存款帳戶作業流程",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/refer/inquiry_apply_procedure.csv"
+      ]
+    },
+    {
+      "id": "14863",
+      "name": "信用合作社辦理民眾申請查詢存款帳戶作業說明",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/refer/inquiry_apply_explain.csv"
+      ]
+    },
+    {
+      "id": "15855",
+      "name": "金融研訓院暢銷書榜前10名",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1540.csv"
+      ]
+    },
+    {
+      "id": "13378",
+      "name": "金融聯合徵信中心企業總貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/corporate_loan.CSV"
+      ]
+    },
+    {
+      "id": "14043",
+      "name": "金融研訓院法定班次",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1490.csv"
+      ]
+    },
+    {
+      "id": "20391",
+      "name": "外國銀行在臺分行排名表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking34.csv"
+      ]
+    },
+    {
+      "id": "20392",
+      "name": "票券金融公司排名表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking35.csv"
+      ]
+    },
+    {
+      "id": "20394",
+      "name": "本國銀行國外分支機構一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking37.csv"
+      ]
+    },
+    {
+      "id": "20395",
+      "name": "本國銀行OBU一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking38.csv"
+      ]
+    },
+    {
+      "id": "20397",
+      "name": "外國銀行在臺分行一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking40.csv"
+      ]
+    },
+    {
+      "id": "20399",
+      "name": "外國銀行在臺代表人辦事處一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking42.csv"
+      ]
+    },
+    {
+      "id": "11702",
+      "name": "聯合信用卡處理中心特約商店分佈比例",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/08_Network_of NCCC_Service_Establishments.csv"
+      ]
+    },
+    {
+      "id": "11703",
+      "name": "各發卡機構通報之詐欺金額",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/09_NCCC_Member_Banks_Card_Issuing_Fraud_Types.csv"
+      ]
+    },
+    {
+      "id": "11704",
+      "name": "聯合信用卡處理中心風險特店管制暨沒收卡統計",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/10_Merchant_Risk_Management_and_Number_of_Recovered_Cards.csv"
+      ]
+    },
+    {
+      "id": "11705",
+      "name": "聯合信用卡處理中心特約商店型態及比例",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/11_NCCC_Merchant_Categories_and_Percentage_of_Shares.csv"
+      ]
+    },
+    {
+      "id": "11713",
+      "name": "信用卡發卡機構差別循環信用利率",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11713.csv"
+      ]
+    },
+    {
+      "id": "11714",
+      "name": "信用卡分期付款手續費",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11714.csv"
+      ]
+    },
+    {
+      "id": "11688",
+      "name": "票券公會規章",
+      "format": "csv",
+      "urls": [
+        "https://www.tbfa.org.tw/law/%E7%9B%B8%E9%97%9C%E6%B3%95%E8%A6%8F_%E7%A5%A8%E5%88%B8%E5%85%AC%E6%9C%83%E8%A6%8F%E7%AB%A0.csv"
+      ]
+    },
+    {
+      "id": "11691",
+      "name": "票券業務人員測驗",
+      "format": "csv",
+      "urls": [
+        "https://www.tbfa.org.tw/BizTrain/files/%E7%A5%A8%E5%88%B8%E6%A5%AD%E5%8B%99%E4%BA%BA%E5%93%A1%E5%B0%88%E5%8D%80%E7%A5%A8%E5%88%B8%E6%A5%AD%E5%8B%99%E4%BA%BA%E5%93%A1%E6%B8%AC%E9%A9%97.csv"
+      ]
+    },
+    {
+      "id": "11697",
+      "name": "信用卡簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/03_Sales_Volume_and_Number_of_Sales_Drafts_Processed_of_NCCC.csv"
+      ]
+    },
+    {
+      "id": "11698",
+      "name": "信用卡預借現金金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/04_ATM_Cash_Advance_Transaction_in_NCCNET.csv"
+      ]
+    },
+    {
+      "id": "11701",
+      "name": "聯合信用卡處理中心簽帳端末機裝機臺數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/07_Number_of_NCCC_POS_Terminals_Installed.csv"
+      ]
+    },
+    {
+      "id": "11721",
+      "name": "中華民國信託業商業同業公會相關法規",
+      "format": "rss",
+      "urls": [
+        "https://www.trust.org.tw/rss/laws/get"
+      ]
+    },
+    {
+      "id": "11722",
+      "name": "中華民國信託業商業同業公會研究報告",
+      "format": "csv",
+      "urls": [
+        "https://www.trust.org.tw/files/annual_download.csv"
+      ]
+    },
+    {
+      "id": "11732",
+      "name": "金融聯合徵信中心常見問答",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Public_Question.csv"
+      ]
+    },
+    {
+      "id": "11733",
+      "name": "金融聯合徵信中心年報資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Annul_Report.csv"
+      ]
+    },
+    {
+      "id": "37231",
+      "name": "金融研訓院金融研訓院最新消息",
+      "format": "rss",
+      "urls": [
+        "https://www.tabf.org.tw/Tabf/Page/Rss/RssHyperLinkFrom.ashx?c=Tabf"
+      ]
+    },
+    {
+      "id": "38311",
+      "name": "兩性持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender/BANK_TWN_ALL_GD.CSV"
+      ]
+    },
+    {
+      "id": "38318",
+      "name": "各年收入族群持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Annual Income/BANK_LOC_ALL_AI.CSV"
+      ]
+    },
+    {
+      "id": "38319",
+      "name": "各年齡層持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Age Group/BANK_MCT_ALL_AG.CSV"
+      ]
+    },
+    {
+      "id": "38321",
+      "name": "各年齡層持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Age Group/BANK_TWN_ALL_AG.CSV"
+      ]
+    },
+    {
+      "id": "38322",
+      "name": "各性別持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender/BANK_MCT_ALL_GD.CSV"
+      ]
+    },
+    {
+      "id": "38323",
+      "name": "各性別持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender/BANK_LOC_ALL_GD.CSV"
+      ]
+    },
+    {
+      "id": "38324",
+      "name": "各教育程度持卡人各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Education Level/BANK_TWN_ALL_EL.CSV"
+      ]
+    },
+    {
+      "id": "38328",
+      "name": "各職業類別持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Classified Employment/BANK_MCT_ALL_CE.CSV"
+      ]
+    },
+    {
+      "id": "32327",
+      "name": "金融聯合徵信中心信用卡平均每戶循環信用金額統計",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_18.csv"
+      ]
+    },
+    {
+      "id": "32317",
+      "name": "金融聯合徵信中心車貸借款人各年齡層下的授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Auto_Age.CSV"
+      ]
+    },
+    {
+      "id": "32318",
+      "name": "金融聯合徵信中心車貸借款人不同性別下的授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Auto_Sex.CSV"
+      ]
+    },
+    {
+      "id": "31541",
+      "name": "票券商業務人員表單",
+      "format": "csv",
+      "urls": [
+        "https://www.tbfa.org.tw/BizTrain/files/%E7%A5%A8%E5%88%B8%E5%95%86%E6%A5%AD%E5%8B%99%E4%BA%BA%E5%93%A1%E5%B0%88%E5%8D%80-%E5%90%84%E9%A1%9E%E8%A1%A8%E5%96%AE.csv"
+      ]
+    },
+    {
+      "id": "33458",
+      "name": "外國持卡人於六都十六縣以信用卡消費之金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Foreign/NCCC_LCSUM_FR.CSV"
+      ]
+    },
+    {
+      "id": "28774",
+      "name": "金融機構家數統計",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking48.csv"
+      ]
+    },
+    {
+      "id": "28776",
+      "name": "一般銀行及信用合作社存款月底餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking50.csv"
+      ]
+    },
+    {
+      "id": "28777",
+      "name": "一般銀行及信用合作社放款月底餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking51.csv"
+      ]
+    },
+    {
+      "id": "28778",
+      "name": "一般銀行對公、民營事業放款(含催收款)餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking52.csv"
+      ]
+    },
+    {
+      "id": "28779",
+      "name": "一般銀行對中小企業放款(含催收款)餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking53.csv"
+      ]
+    },
+    {
+      "id": "28782",
+      "name": "外國銀行在臺分行(含OBU)資產負債簡表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking56.csv"
+      ]
+    },
+    {
+      "id": "28784",
+      "name": "票券金融公司資產負債簡表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking58.csv"
+      ]
+    },
+    {
+      "id": "28785",
+      "name": "信用合作社資產負債簡表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking59.csv"
+      ]
+    },
+    {
+      "id": "28787",
+      "name": "兩岸金融業務統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking61.csv"
+      ]
+    },
+    {
+      "id": "28788",
+      "name": "臺閩地區金融機構存放款餘額-按縣市別分",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking62.csv"
+      ]
+    },
+    {
+      "id": "27937",
+      "name": "金融研訓院網站歷年瀏覽人次統計",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1684.csv"
+      ]
+    },
+    {
+      "id": "63029",
+      "name": "十六縣持卡人前十大國外消費金額及筆數(依簽帳筆數排名)",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Country/BANK_LOC_ALL_COUNTRY_NO.CSV"
+      ]
+    },
+    {
+      "id": "62945",
+      "name": "以信用卡支付網路購物(EC)消費之各產業類別的金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/EC/BANK_EC_ALL.CSV"
+      ]
+    },
+    {
+      "id": "54478",
+      "name": "金融聯合徵信中心個人學生貸款狀況統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Stut_Amt.CSV"
+      ]
+    },
+    {
+      "id": "54480",
+      "name": "金融聯合徵信中心個人房貸與信貸交叉狀況統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Mortgage_X_Credit_Amt.CSV"
+      ]
+    },
+    {
+      "id": "54483",
+      "name": "金融聯合徵信中心各年齡層信用卡平均每戶持卡張數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_22.csv"
+      ]
+    },
+    {
+      "id": "54485",
+      "name": "金融聯合徵信中心各年齡層信用卡平均每戶應收帳款金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_24.csv"
+      ]
+    },
+    {
+      "id": "54486",
+      "name": "金融聯合徵信中心不同性別信用卡平均每戶應收帳款金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_25.csv"
+      ]
+    },
+    {
+      "id": "54493",
+      "name": "金融聯合徵信中心各年齡層信用卡循環信用戶數占流通卡歸戶數比重統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_32.csv"
+      ]
+    },
+    {
+      "id": "54494",
+      "name": "金融聯合徵信中心不同性別信用卡循環信用戶數占流通卡歸戶數比重統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_33.csv"
+      ]
+    },
+    {
+      "id": "44117",
+      "name": "金融聯合徵信中心企業產業別新增貸款狀況授信金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_corporate_loan_industry.csv"
+      ]
+    },
+    {
+      "id": "44126",
+      "name": "金融聯合徵信中心各規模別(營收)資產總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/ASSET_AMT2_SCALE2.csv"
+      ]
+    },
+    {
+      "id": "44127",
+      "name": "金融聯合徵信中心各規模別(營收)負債總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/DEBT_AMT2_SCALE2.csv"
+      ]
+    },
+    {
+      "id": "44129",
+      "name": "金融聯合徵信中心各規模別(營收)淨利(損)總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/NI_AMT2_SCALE2.csv"
+      ]
+    },
+    {
+      "id": "45208",
+      "name": "一般銀行及信用合作社消費者貸款業務項目",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking65.csv"
+      ]
+    },
+    {
+      "id": "45210",
+      "name": "現金卡重要業務及財務資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking67.csv"
+      ]
+    },
+    {
+      "id": "73189",
+      "name": "可供視障民眾使用之ATM設置地點資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A103_Location.csv"
+      ]
+    },
+    {
+      "id": "73191",
+      "name": "會員機構辦理房屋貸款及車輛貸款委外行銷業務通過評量而續予委託之受委託機構名單暨銀行窗口及專線電話調查表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking73191.csv"
+      ]
+    },
+    {
+      "id": "73192",
+      "name": "會員機構辦理債權催收作業委外業務通過評量而續予委託之催收機構名單暨銀行受理客戶申訴窗口及專線電話調查表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking73192.csv"
+      ]
+    },
+    {
+      "id": "73195",
+      "name": "各信用卡業務機構對網路交易所採行之防盜刷機制彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking73195.csv"
+      ]
+    },
+    {
+      "id": "21855",
+      "name": "本國金融機構赴大陸投資融資租賃公司情形表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking45.csv"
+      ]
+    },
+    {
+      "id": "21929",
+      "name": "金融聯合徵信中心本國銀行企業授信金額企業規模別佔比統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_scale_pct.csv"
+      ]
+    },
+    {
+      "id": "21930",
+      "name": "金融聯合徵信中心本國銀行企業授信金額產業別佔比統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_ind_pct.csv"
+      ]
+    },
+    {
+      "id": "21934",
+      "name": "金融聯合徵信中心本國銀行企業授信金額小型企業產業別佔比統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_se_pct.csv"
+      ]
+    },
+    {
+      "id": "21935",
+      "name": "金融聯合徵信中心個人汽車貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Auto_Amt.CSV"
+      ]
+    },
+    {
+      "id": "21939",
+      "name": "金融聯合徵信中心新增個人總貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Total_New_Amt.CSV"
+      ]
+    },
+    {
+      "id": "21946",
+      "name": "金融聯合徵信中心房貸借款人各年齡層下的新增授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/NewMortgage_Age.CSV"
+      ]
+    },
+    {
+      "id": "21948",
+      "name": "金融聯合徵信中心房貸擔保品所在地區別下的新增授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/NewMortgage_Location.CSV"
+      ]
+    },
+    {
+      "id": "21949",
+      "name": "金融聯合徵信中心房貸往來金融機構類別下的新增授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/NewMortgage_Institution.CSV"
+      ]
+    },
+    {
+      "id": "24633",
+      "name": "金融聯合徵信中心信貸借款人各年齡層下的新增授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Credit_New_Age.CSV"
+      ]
+    },
+    {
+      "id": "24636",
+      "name": "金融聯合徵信中心公開/非公開企業負債總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/DEBT_AMT2.csv"
+      ]
+    },
+    {
+      "id": "24644",
+      "name": "金融聯合徵信中心各產業營收總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/SALES_AMT.csv"
+      ]
+    },
+    {
+      "id": "24645",
+      "name": "金融聯合徵信中心各產業負債總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/DEBT_AMT.csv"
+      ]
+    },
+    {
+      "id": "24646",
+      "name": "金融聯合徵信中心各產業資產總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/ASSET_AMT.csv"
+      ]
+    },
+    {
+      "id": "24624",
+      "name": "金融聯合徵信中心不同性別未到期分期償還待墊帳單帳款餘額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_8.csv"
+      ]
+    },
+    {
+      "id": "24625",
+      "name": "金融聯合徵信中心不同性別未到期分期償還待墊消費款餘額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_7.csv"
+      ]
+    },
+    {
+      "id": "25364",
+      "name": "以信用卡消費之金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/NCCC%20Open%20Data/Location/NCCC_TWN.CSV"
+      ]
+    },
+    {
+      "id": "21954",
+      "name": "金融聯合徵信中心信用卡未解約特約商店筆數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_13.csv"
+      ]
+    },
+    {
+      "id": "21955",
+      "name": "金融聯合徵信中心信用卡特約商店當月簽約筆數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_14.csv"
+      ]
+    },
+    {
+      "id": "79285",
+      "name": "各年齡層男性持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Age Group/BANK_MCT_ALL_AG_M.CSV"
+      ]
+    },
+    {
+      "id": "79290",
+      "name": "各年齡層女性持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Age Group/BANK_TWN_ALL_AG_F.CSV"
+      ]
+    },
+    {
+      "id": "79292",
+      "name": "各年收入族群女性持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Annual Income/BANK_MCT_ALL_AI_F.CSV"
+      ]
+    },
+    {
+      "id": "79293",
+      "name": "各年收入族群男性持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Annual Income/BANK_LOC_ALL_AI_M.CSV"
+      ]
+    },
+    {
+      "id": "79305",
+      "name": "各教育程度男性持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Education Level/BANK_LOC_ALL_EL_M.CSV"
+      ]
+    },
+    {
+      "id": "79306",
+      "name": "各教育程度女性持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Education Level/BANK_LOC_ALL_EL_F.CSV"
+      ]
+    },
+    {
+      "id": "79308",
+      "name": "各教育程度女性持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Education Level/BANK_TWN_ALL_EL_F.CSV"
+      ]
+    },
+    {
+      "id": "119731",
+      "name": "外國銀行逾放等財務資料揭露_NEW",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11.csv"
+      ]
+    },
+    {
+      "id": "119737",
+      "name": "銀行業休假日期表_NEW",
+      "format": "csv",
+      "urls": [
+        "https://stat.fsc.gov.tw/FSC_OAS3_RESTORE/api/CSV_EXPORT?TableID=809&OUTPUT_FILE=Y"
+      ]
+    },
+    {
+      "id": "98235",
+      "name": "外國持卡人以信用卡於十六縣支付各產業類別詐欺交易型態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Fraud/ACQ/FR/BANK_FRAUDACQ_LOC_IDSUM_FR.CSV"
+      ]
+    },
+    {
+      "id": "113748",
+      "name": "金融聯合徵信中心購置住宅貸款統計分析表-性別(流量)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Housingloan_gender_flow.csv"
+      ]
+    },
+    {
+      "id": "157954",
+      "name": "金融聯合徵信中心企業授信用途別為「購置動產」下十足擔保與否之新增授信金額統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_seg_sc_pos_2.csv"
+      ]
+    },
+    {
+      "id": "157956",
+      "name": "金融聯合徵信中心企業授信用途別為「週轉金」下十足擔保與否之新增授信金額統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_seg_sc_pos_4.csv"
+      ]
+    },
+    {
+      "id": "170265",
+      "name": "金融聯合徵信中心信貸借款人各年齡層與性別交叉狀況的新增授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Credit_New_Age_X_Sex.CSV"
+      ]
+    },
+    {
+      "id": "171403",
+      "name": "民眾於六都十六縣以信用卡消費之金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/NCCC%20Open%20Data/NCCC_LCSUM.CSV"
+      ]
+    },
+    {
+      "id": "167286",
+      "name": "票券承銷及首次買入金額",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking68.csv"
+      ]
+    },
+    {
+      "id": "170708",
+      "name": "中華民國信託業商業同業公會信託業務統計",
+      "format": "csv",
+      "urls": [
+        "https://www.trust.org.tw/files/statisticstrust001.csv"
+      ]
+    },
+    {
+      "id": "174075",
+      "name": "金融聯合徵信中心企業綠色授信統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Green_Ban_Amt.CSV"
+      ]
+    },
+    {
+      "id": "174078",
+      "name": "金融聯合徵信中心個人綠色授信統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Green_Idn_Amt.CSV"
+      ]
+    },
+    {
+      "id": "175018",
+      "name": "各地區持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Billing Address/BANK_LCSUM_IDSUM_BA.CSV"
+      ]
+    },
+    {
+      "id": "13026",
+      "name": "金融研訓院網路書店新書快訊",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1474.csv"
+      ]
+    },
+    {
+      "id": "13028",
+      "name": "金融研訓院網路書店證照測驗/就業/檢定書籍資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1476.csv"
+      ]
+    },
+    {
+      "id": "13377",
+      "name": "金融聯合徵信中心企業規模別貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/corporate_loan_scale.CSV"
+      ]
+    },
+    {
+      "id": "13373",
+      "name": "金融聯合徵信中心個人房屋貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Mortgage_Amt.CSV"
+      ]
+    },
+    {
+      "id": "13374",
+      "name": "金融聯合徵信中心個人信用貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Credit_Amt.CSV"
+      ]
+    },
+    {
+      "id": "13375",
+      "name": "金融聯合徵信中心個人總貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Total_Amt.CSV"
+      ]
+    },
+    {
+      "id": "13576",
+      "name": "中華民國信託業商業同業公會公益信託業務統計",
+      "format": "csv",
+      "urls": [
+        "https://www.trust.org.tw/files/statisticstrust02.csv"
+      ]
+    },
+    {
+      "id": "14044",
+      "name": "金融研訓院近期課程",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1491.csv"
+      ]
+    },
+    {
+      "id": "14269",
+      "name": "中華民國票券金融商業同業公會財經指標-我國金融暨經濟發展重要指標",
+      "format": "csv",
+      "urls": [
+        "https://www.tbfa.org.tw/target/files/%E8%B2%A1%E7%B6%93%E6%8C%87%E6%A8%99-%E6%88%91%E5%9C%8B%E9%87%91%E8%9E%8D%E6%9A%A8%E7%B6%93%E6%BF%9F%E7%99%BC%E5%B1%95%E9%87%8D%E8%A6%81%E6%8C%87%E6%A8%99.csv"
+      ]
+    },
+    {
+      "id": "14860",
+      "name": "信用合作社標售不良債權售後申訴處理窗口",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/badclaim/bad_creditor_right.csv"
+      ]
+    },
+    {
+      "id": "15385",
+      "name": "中華民國票券金融商業同業公會公會年報",
+      "format": "csv",
+      "urls": [
+        "https://www.tbfa.org.tw/report/%E7%A5%A8%E5%88%B8%E5%85%AC%E6%9C%83%E5%B9%B4%E5%A0%B1.csv"
+      ]
+    },
+    {
+      "id": "15230",
+      "name": "金融研訓院金融研究計畫資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1496.csv"
+      ]
+    },
+    {
+      "id": "11725",
+      "name": "金融聯合徵信中心會員金融機構公告資訊",
+      "format": "xml",
+      "urls": [
+        "https://member.jcic.org.tw/main_member/Rss.ashx?uid=271&pid=226"
+      ]
+    },
+    {
+      "id": "11727",
+      "name": "金融聯合徵信中心中小企業融資服務平台文件專區",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/SEM_Platform.csv"
+      ]
+    },
+    {
+      "id": "11728",
+      "name": "金融聯合徵信中心公告事項",
+      "format": "xml",
+      "urls": [
+        "https://www.jcic.org.tw/main_ch/Rss.ashx?uid=69&pid=37"
+      ]
+    },
+    {
+      "id": "11729",
+      "name": "郵局代收代驗信用報告申請書便民措施",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Post_Creditreport.csv"
+      ]
+    },
+    {
+      "id": "11734",
+      "name": "金融聯合徵信雜誌",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/JCIC_Magazine.csv"
+      ]
+    },
+    {
+      "id": "11735",
+      "name": "金融聯合徵信中心採購資訊",
+      "format": "xml",
+      "urls": [
+        "https://www.jcic.org.tw/main_ch/Rss.ashx?uid=71&pid=37"
+      ]
+    },
+    {
+      "id": "11826",
+      "name": "現金卡發卡銀行收取各項費用彙整",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11826.csv"
+      ]
+    },
+    {
+      "id": "11827",
+      "name": "現金卡發卡銀行差別利率彙整",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11827.csv"
+      ]
+    },
+    {
+      "id": "11711",
+      "name": "信用卡各項費用及客服電話等資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11711.csv"
+      ]
+    },
+    {
+      "id": "11581",
+      "name": "信用合作社符合輪椅民眾使用ATM設置地點一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/commoncharge/atm_wheel_list.csv"
+      ]
+    },
+    {
+      "id": "11582",
+      "name": "信用合作社無障礙語音ATM設置地點一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/commoncharge/atm_voice_list.csv"
+      ]
+    },
+    {
+      "id": "11583",
+      "name": "信用合作社存款業務共通性費用收取方式彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/commoncharge/commoncharge1.csv"
+      ]
+    },
+    {
+      "id": "11584",
+      "name": "信用合作社放款業務共通性費用收取方式彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/commoncharge/commoncharge2.csv"
+      ]
+    },
+    {
+      "id": "11687",
+      "name": "票券金融重要法規",
+      "format": "csv",
+      "urls": [
+        "https://www.tbfa.org.tw/law/相關法規_重要法規條列.csv"
+      ]
+    },
+    {
+      "id": "11689",
+      "name": "票券金融相關下載",
+      "format": "csv",
+      "urls": [
+        "https://www.tbfa.org.tw/law/%E7%9B%B8%E9%97%9C%E6%B3%95%E8%A6%8F_%E7%9B%B8%E9%97%9C%E4%B8%8B%E8%BC%89.csv"
+      ]
+    },
+    {
+      "id": "11696",
+      "name": "信用卡授權轉接筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/02_Number_of_Authorization_Process_Interchange_Authorized_NCCC.csv"
+      ]
+    },
+    {
+      "id": "11699",
+      "name": "聯合信用卡處理中心會員機構流通卡數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/05_Statistic_of_Cards_in_Circulation_via_NCCC.csv"
+      ]
+    },
+    {
+      "id": "11700",
+      "name": "聯合信用卡處理中心收單特約商店數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/06_Number_of_NCCC_acquired_Merchants.csv"
+      ]
+    },
+    {
+      "id": "10405",
+      "name": "金融監督管理委員會銀行局單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201805151645160.zip&filedisplay=106%E5%B9%B4%E5%BA%A6%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201805151633440.zip&filedisplay=105%E5%B9%B4%E5%BA%A6%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201904151518541.zip&filedisplay=107%E5%B9%B4%E5%BA%A6%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202003231017420.zip&filedisplay=108%E5%B9%B4%E5%BA%A6%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%9F%BA%E9%87%91%E9%8A%80%E8%A1%8C%E5%B1%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202103021046311.zip&filedisplay=109%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97zip.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202202251420471.zip&filedisplay=110%E5%B9%B4%E5%BA%A6%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202302151600371.zip&filedisplay=111%E5%B9%B4%E5%BA%A6%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202402170924141.zip&filedisplay=112%E5%B9%B4%E5%BA%A6%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202502131408471.zip&filedisplay=113%E5%B9%B4%E5%BA%A6%E9%8A%80%E8%A1%8C%E5%B1%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97.zip&flag=doc"
+      ]
+    },
+    {
+      "id": "10577",
+      "name": "董監事及大股東持股質押比例統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking5.csv"
+      ]
+    },
+    {
+      "id": "10518",
+      "name": "信用合作社逾放等財務資料",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking10.csv"
+      ]
+    },
+    {
+      "id": "10557",
+      "name": "電子票證重要業務資訊揭露",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking17.csv"
+      ]
+    },
+    {
+      "id": "18631",
+      "name": "金融監督管理委員會銀行局會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131621200.zip&filedisplay=105%E5%B9%B401%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131621330.zip&filedisplay=105%E5%B9%B402%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131621450.zip&filedisplay=105%E5%B9%B403%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131621580.zip&filedisplay=105%E5%B9%B404%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131622110.zip&filedisplay=105%E5%B9%B405%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131622280.zip&filedisplay=105%E5%B9%B406%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131622420.zip&filedisplay=105%E5%B9%B407%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131622560.zip&filedisplay=105%E5%B9%B408%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131623520.zip&filedisplay=105%E5%B9%B409%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131624070.zip&filedisplay=105%E5%B9%B410%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201805141121470.zip&filedisplay=105%E5%B9%B411%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131624350.zip&filedisplay=105%E5%B9%B412%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131552440.zip&filedisplay=106%E5%B9%B401%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201805141614390.zip&filedisplay=106%E5%B9%B402%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131554450.zip&filedisplay=106%E5%B9%B403%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131554570.zip&filedisplay=106%E5%B9%B404%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131555100.zip&filedisplay=106%E5%B9%B405%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131555220.zip&filedisplay=106%E5%B9%B406%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131555320.zip&filedisplay=106%E5%B9%B407%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131555510.zip&filedisplay=106%E5%B9%B408%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131556070.zip&filedisplay=106%E5%B9%B409%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131558270.zip&filedisplay=106%E5%B9%B410%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803131558450.zip&filedisplay=106%E5%B9%B411%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201805141615070.zip&filedisplay=106%E5%B9%B412%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803151015260.zip&filedisplay=107%E5%B9%B401%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201803151015370.zip&filedisplay=107%E5%B9%B402%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201804131128101.zip&filedisplay=107%E5%B9%B403%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201805111203001.zip&filedisplay=107%E5%B9%B404%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201806271602331.zip&filedisplay=107%E5%B9%B405%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201808301111280.zip&filedisplay=107%E5%B9%B406%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201808301112271.zip&filedisplay=107%E5%B9%B407%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201809071610460.zip&filedisplay=107%E5%B9%B408%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201811011104041.zip&filedisplay=107%E5%B9%B409%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201811161352421.zip&filedisplay=107%E5%B9%B410%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201812211856330.zip&filedisplay=107%E5%B9%B411%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201901311544421.zip&filedisplay=107%E5%B9%B412%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201902191108371.zip&filedisplay=108%E5%B9%B41%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201903111153161.zip&filedisplay=108%E5%B9%B42%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201904111209251.zip&filedisplay=108%E5%B9%B43%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201905100855451.zip&filedisplay=108%E5%B9%B44%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201906120922581.zip&filedisplay=108%E5%B9%B45%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201907100936171.zip&filedisplay=108%E5%B9%B46%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201908081556591.zip&filedisplay=108%E5%B9%B47%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201909111044451.zip&filedisplay=108%E5%B9%B48%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201910081527311.zip&filedisplay=108%E5%B9%B49%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201911111339421.zip&filedisplay=108%E5%B9%B410%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201912091350051.zip&filedisplay=108%E5%B9%B411%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202002210927440.zip&filedisplay=108%E5%B9%B412%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202003190835560.zip&filedisplay=109%E5%B9%B41%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202003190836090.zip&filedisplay=109%E5%B9%B42%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202004101439331.zip&filedisplay=109%E5%B9%B43%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202005071419481.zip&filedisplay=109%E5%B9%B44%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202006080916141.zip&filedisplay=109%E5%B9%B45%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202007141459481.zip&filedisplay=109%E5%B9%B46%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202010061456430.zip&filedisplay=109%E5%B9%B47%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202010061502210.zip&filedisplay=109%E5%B9%B48%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202010140829121.zip&filedisplay=109%E5%B9%B49%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202011091110401.zip&filedisplay=109%E5%B9%B410%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202012101143390.zip&filedisplay=109%E5%B9%B411%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202101201602371.zip&filedisplay=109%E5%B9%B412%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202102041400491.zip&filedisplay=110%E5%B9%B41%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202103080832231.zip&filedisplay=110%E5%B9%B42%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202104081028400.zip&filedisplay=110%E5%B9%B43%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202105071338210.zip&filedisplay=110%E5%B9%B44%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202106071406411.zip&filedisplay=110%E5%B9%B45%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202107121107131.zip&filedisplay=110%E5%B9%B46%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202108101050291.zip&filedisplay=110%E5%B9%B47%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202109091016531.zip&filedisplay=110%E5%B9%B48%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202110081012521.zip&filedisplay=110%E5%B9%B49%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202111080942591.zip&filedisplay=110%E5%B9%B410%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202112091127521.zip&filedisplay=110%E5%B9%B411%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202201261412111.zip&filedisplay=110%E5%B9%B412%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202202160849391.zip&filedisplay=111%E5%B9%B41%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202203141448061.zip&filedisplay=111%E5%B9%B42%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202204131728321.zip&filedisplay=111%E5%B9%B43%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202205061610200.zip&filedisplay=111%E5%B9%B44%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202206131509581.zip&filedisplay=111%E5%B9%B45%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202207110949090.zip&filedisplay=111%E5%B9%B46%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202208101601021.zip&filedisplay=111%E5%B9%B47%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202209141153181.zip&filedisplay=111%E5%B9%B48%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202210131617041.zip&filedisplay=111%E5%B9%B49%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202211091455441.zip&filedisplay=111%E5%B9%B410%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202212131734470.zip&filedisplay=111%E5%B9%B411%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202302041947581.zip&filedisplay=111%E5%B9%B412%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202302151637051.zip&filedisplay=112%E5%B9%B41%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202303131504351.zip&filedisplay=112%E5%B9%B42%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202304141643521.zip&filedisplay=112%E5%B9%B43%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202305120925471.zip&filedisplay=112%E5%B9%B44%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202306091650151.zip&filedisplay=112%E5%B9%B45%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202307121432051.zip&filedisplay=112%E5%B9%B46%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202309120914160.zip&filedisplay=112%E5%B9%B47%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202309110937091.zip&filedisplay=112%E5%B9%B48%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202310131123331.zip&filedisplay=112%E5%B9%B49%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202311151543041.zip&filedisplay=112%E5%B9%B410%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202312111048561.zip&filedisplay=112%E5%B9%B411%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202401251133401.zip&filedisplay=112%E5%B9%B412%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202402071152301.zip&filedisplay=113%E5%B9%B41%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202403131409171.zip&filedisplay=113%E5%B9%B42%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202404121033201.zip&filedisplay=113%E5%B9%B43%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202405081118581.zip&filedisplay=113%E5%B9%B44%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202406141108041.zip&filedisplay=113%E5%B9%B45%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202407101422381.zip&filedisplay=113%E5%B9%B46%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202408131206231.zip&filedisplay=113%E5%B9%B47%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202409101357421.zip&filedisplay=113%E5%B9%B47%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202410140915151.zip&filedisplay=113%E5%B9%B49%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202411130858251.zip&filedisplay=113%E5%B9%B410%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202412111553480.zip&filedisplay=113%E5%B9%B411%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202501231635451.zip&filedisplay=113%E5%B9%B412%E6%9C%88%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%9F%BA%E9%87%91%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202502111101561.zip&filedisplay=114%E5%B9%B41%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202503101603251.zip&filedisplay=114%E5%B9%B42%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202504111628221.zip&filedisplay=114%E5%B9%B43%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202505090856061.zip&filedisplay=114%E5%B9%B44%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202506121555380.zip&filedisplay=114%E5%B9%B45%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202507091533581.zip&filedisplay=114%E5%B9%B46%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202508111722161.zip&filedisplay=114%E5%B9%B47%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202509051129431.zip&filedisplay=114%E5%B9%B48%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/202510141115411.zip&filedisplay=114%E5%B9%B49%E6%9C%88%E4%BB%BD%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1%28XML%29.zip&flag=doc"
+      ]
+    },
+    {
+      "id": "15969",
+      "name": "衍生性金融商品名目本金餘額(商品別)",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking29.csv"
+      ]
+    },
+    {
+      "id": "15970",
+      "name": "金融機構損益簡表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking30.csv"
+      ]
+    },
+    {
+      "id": "24627",
+      "name": "金融聯合徵信中心不同性別現金卡戶放款餘額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CASHCARD_6_2.csv"
+      ]
+    },
+    {
+      "id": "24628",
+      "name": "金融聯合徵信中心企業授信金額十足擔保/非十足擔保統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_sc_amt.csv"
+      ]
+    },
+    {
+      "id": "24639",
+      "name": "金融聯合徵信中心各年齡層未到期分期償還待墊帳單帳款餘額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_5.csv"
+      ]
+    },
+    {
+      "id": "21931",
+      "name": "金融聯合徵信中心本國銀行企業授信金額上市櫃企業產業別佔比統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_tseotc_pct.csv"
+      ]
+    },
+    {
+      "id": "21933",
+      "name": "金融聯合徵信中心本國銀行企業授信金額中型企業產業別佔比統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_me_pct.csv"
+      ]
+    },
+    {
+      "id": "21936",
+      "name": "金融聯合徵信中心個人非十足擔保貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Nsc_Amt.CSV"
+      ]
+    },
+    {
+      "id": "21937",
+      "name": "金融聯合徵信中心新增個人房屋貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Mortgage_New_Amt.CSV"
+      ]
+    },
+    {
+      "id": "21938",
+      "name": "金融聯合徵信中心新增個人信用貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Credit_New_Amt.CSV"
+      ]
+    },
+    {
+      "id": "21945",
+      "name": "金融聯合徵信中心房貸往來金融機構類別下的授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Mortgage_Institution.CSV"
+      ]
+    },
+    {
+      "id": "21951",
+      "name": "金融聯合徵信中心信用卡不同性別持卡張數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_10.csv"
+      ]
+    },
+    {
+      "id": "21953",
+      "name": "金融聯合徵信中心信用卡不同性別應繳款金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_12.csv"
+      ]
+    },
+    {
+      "id": "45206",
+      "name": "本國銀行在國外設立分行及分支機構地區別、國家別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking63.csv"
+      ]
+    },
+    {
+      "id": "45209",
+      "name": "信用卡重要業務與財務資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking66.csv"
+      ]
+    },
+    {
+      "id": "33279",
+      "name": "票券商業務相連網站",
+      "format": "csv",
+      "urls": [
+        "https://www.tbfa.org.tw/link/files/%E7%A5%A8%E5%88%B8%E6%A5%AD%E5%8B%99%E7%9B%B8%E9%80%A3%E7%B6%B2%E7%AB%99.csv"
+      ]
+    },
+    {
+      "id": "32328",
+      "name": "金融聯合徵信中心信用卡平均每戶未到期分期償還相關金額統計",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_19.csv"
+      ]
+    },
+    {
+      "id": "32323",
+      "name": "金融聯合徵信中心現金卡平均每戶持卡統計",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CASHCARD_1_47.csv"
+      ]
+    },
+    {
+      "id": "33599",
+      "name": "金融研訓院線上學習課程資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1751.csv"
+      ]
+    },
+    {
+      "id": "36415",
+      "name": "金融聯合徵信中心企業授信用途別為「購置不動產」下之十足擔保與否授信金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_sc_pos_1.csv"
+      ]
+    },
+    {
+      "id": "36416",
+      "name": "金融聯合徵信中心企業授信用途別為「購置動產」下之十足擔保與否授信金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_sc_pos_2.csv"
+      ]
+    },
+    {
+      "id": "36417",
+      "name": "金融聯合徵信中心企業授信用途別為「企業投資」下之十足擔保與否授信金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_sc_pos_3.csv"
+      ]
+    },
+    {
+      "id": "36418",
+      "name": "金融聯合徵信中心企業授信用途別為「週轉金」下之十足擔保與否授信金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_sc_pos_4.csv"
+      ]
+    },
+    {
+      "id": "38325",
+      "name": "各教育程度持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Education Level/BANK_MCT_ALL_EL.CSV"
+      ]
+    },
+    {
+      "id": "38326",
+      "name": "各教育程度持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Education Level/BANK_LOC_ALL_EL.CSV"
+      ]
+    },
+    {
+      "id": "38327",
+      "name": "各職業類別持卡人各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Classified Employment/BANK_TWN_ALL_CE.CSV"
+      ]
+    },
+    {
+      "id": "38329",
+      "name": "各職業類別持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Classified Employment/BANK_LOC_ALL_CE.CSV"
+      ]
+    },
+    {
+      "id": "38320",
+      "name": "各年齡層持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Age Group/BANK_LOC_ALL_AG.CSV"
+      ]
+    },
+    {
+      "id": "20323",
+      "name": "金融研訓院金融證照筆試測驗最新歷屆試題",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1548.csv"
+      ]
+    },
+    {
+      "id": "20390",
+      "name": "本國銀行排名表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking33.csv"
+      ]
+    },
+    {
+      "id": "20393",
+      "name": "信用合作社排名表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking36.csv"
+      ]
+    },
+    {
+      "id": "20398",
+      "name": "大陸地區銀行在臺分行一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking41.csv"
+      ]
+    },
+    {
+      "id": "23891",
+      "name": "金融研訓院金融訓練熱門專區",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1550.csv"
+      ]
+    },
+    {
+      "id": "25363",
+      "name": "以信用卡支付網路購物(EC)之金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/NCCC%20Open%20Data/Location%20EC/NCCC_TWN_EC.CSV"
+      ]
+    },
+    {
+      "id": "22766",
+      "name": "本國銀行體系資本適足率",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking46.csv"
+      ]
+    },
+    {
+      "id": "28781",
+      "name": "本國銀行資產負債簡表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking55.csv"
+      ]
+    },
+    {
+      "id": "28786",
+      "name": "金融控股公司財務及業務比率表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking60.csv"
+      ]
+    },
+    {
+      "id": "28790",
+      "name": "金融聯合徵信中心公開與否及產業別下企業營收淨額統計值",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/SALES_STATUS_AMT.csv"
+      ]
+    },
+    {
+      "id": "28791",
+      "name": "金融聯合徵信中心公開與否及產業別下企業財報借款資訊統計值",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/LN_STATUS_AMT.csv"
+      ]
+    },
+    {
+      "id": "28775",
+      "name": "金融控股公司總機構一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking49.csv"
+      ]
+    },
+    {
+      "id": "72343",
+      "name": "金融研訓院FinTech 推薦商品",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1969.csv"
+      ]
+    },
+    {
+      "id": "62943",
+      "name": "發卡機構通報詐欺交易型態之金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Fraud/BANK_FRAUD_TWN_ALL.CSV"
+      ]
+    },
+    {
+      "id": "62946",
+      "name": "六都持卡人前十大國外消費金額及筆數(依簽帳筆數排名)",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Country/BANK_MCT_ALL_COUNTRY_NO.CSV"
+      ]
+    },
+    {
+      "id": "63034",
+      "name": "發卡機構通報以信用卡支付各產業類別詐欺交易型態之金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Fraud/BANK_FRAUD_TWN_IDSUM.CSV"
+      ]
+    },
+    {
+      "id": "63030",
+      "name": "十六縣持卡人前十大國外消費金額及筆數(依簽帳金額排名)",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Country/BANK_LOC_ALL_COUNTRY_AMT.CSV"
+      ]
+    },
+    {
+      "id": "79294",
+      "name": "各年收入族群女性持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Annual Income/BANK_LOC_ALL_AI_F.CSV"
+      ]
+    },
+    {
+      "id": "79296",
+      "name": "各年收入族群女性持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Annual Income/BANK_TWN_ALL_AI_F.CSV"
+      ]
+    },
+    {
+      "id": "79297",
+      "name": "各職業類別男性持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Classified Employment/BANK_MCT_ALL_CE_M.CSV"
+      ]
+    },
+    {
+      "id": "79298",
+      "name": "各職業類別女性持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Classified Employment/BANK_MCT_ALL_CE_F.CSV"
+      ]
+    },
+    {
+      "id": "79299",
+      "name": "各職業類別男性持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Classified Employment/BANK_LOC_ALL_CE_M.CSV"
+      ]
+    },
+    {
+      "id": "79301",
+      "name": "各職業類別男性持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Classified Employment/BANK_TWN_ALL_CE_M.CSV"
+      ]
+    },
+    {
+      "id": "79302",
+      "name": "各職業類別女性持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Classified Employment/BANK_TWN_ALL_CE_F.CSV"
+      ]
+    },
+    {
+      "id": "79307",
+      "name": "各教育程度男性持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Education Level/BANK_TWN_ALL_EL_M.CSV"
+      ]
+    },
+    {
+      "id": "79286",
+      "name": "各年齡層女性持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Age Group/BANK_MCT_ALL_AG_F.CSV"
+      ]
+    },
+    {
+      "id": "79287",
+      "name": "各年齡層男性持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Age Group/BANK_LOC_ALL_AG_M.CSV"
+      ]
+    },
+    {
+      "id": "79289",
+      "name": "各年齡層男性持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Age Group/BANK_TWN_ALL_AG_M.CSV"
+      ]
+    },
+    {
+      "id": "33457",
+      "name": "外國持卡人以信用卡支付六大產業類別消費之金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Foreign/NCCC_TWN_IDSUM_FR.CSV"
+      ]
+    },
+    {
+      "id": "44120",
+      "name": "金融聯合徵信中心企業新增授信金額十足擔保/非十足擔保統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_corporate_loan_sc.csv"
+      ]
+    },
+    {
+      "id": "44122",
+      "name": "金融聯合徵信中心各規模別(資本額)資產總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/ASSET_AMT_SCALE1.csv"
+      ]
+    },
+    {
+      "id": "44123",
+      "name": "金融聯合徵信中心各規模別(資本額)負債總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/DEBT_AMT_SCALE1.csv"
+      ]
+    },
+    {
+      "id": "44124",
+      "name": "金融聯合徵信中心各規模別(資本額)營收總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/SALES_AMT_SCALE1.csv"
+      ]
+    },
+    {
+      "id": "44125",
+      "name": "金融聯合徵信中心各規模別(資本額)淨利(損)總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/NI_AMT_SCALE1.csv"
+      ]
+    },
+    {
+      "id": "44128",
+      "name": "金融聯合徵信中心各規模別(營收)營收總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/SALES_AMT2_SCALE2.csv"
+      ]
+    },
+    {
+      "id": "54479",
+      "name": "金融聯合徵信中心新增個人學生貸款狀況統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Stut_New_Amt.CSV"
+      ]
+    },
+    {
+      "id": "54482",
+      "name": "金融聯合徵信中心個人信貸與車貸交叉狀況統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Credit_X_Auto_Amt.CSV"
+      ]
+    },
+    {
+      "id": "54488",
+      "name": "金融聯合徵信中心不同性別信用卡平均每戶循環信用金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_27.csv"
+      ]
+    },
+    {
+      "id": "54489",
+      "name": "金融聯合徵信中心各年齡層信用卡平均每戶未到期分期償還相關金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_28.csv"
+      ]
+    },
+    {
+      "id": "54491",
+      "name": "金融聯合徵信中心各年齡層信用卡循環信用金額占應收帳款比重統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_30.csv"
+      ]
+    },
+    {
+      "id": "73194",
+      "name": "各信用卡發卡機構紅利點數使用期限及範圍彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking73194.csv"
+      ]
+    },
+    {
+      "id": "73188",
+      "name": "可供使用輪椅民眾操作之ATM設置地點資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A102_Location.csv"
+      ]
+    },
+    {
+      "id": "98233",
+      "name": "外國持卡人以信用卡於我國境內支付各產業類別詐欺交易型態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Fraud/ACQ/FR/BANK_FRAUDACQ_TWN_IDSUM_FR.CSV"
+      ]
+    },
+    {
+      "id": "119732",
+      "name": "本國銀行轉銷呆帳金額彙總表_NEW",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking15.csv"
+      ]
+    },
+    {
+      "id": "119734",
+      "name": "金融機構出售不良債權之彙總表_NEW",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking7.csv"
+      ]
+    },
+    {
+      "id": "119735",
+      "name": "台灣資產證券化商品發行統計表_NEW",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw//webdowndoc?file=/stat/itopendata/banking2.csv"
+      ]
+    },
+    {
+      "id": "119743",
+      "name": "台灣資產證券化商品核准統計表_NEW",
+      "format": "csv",
+      "urls": [
+        "https://stat.fsc.gov.tw/FSC_OAS3_RESTORE/api/CSV_EXPORT?TableID=814&OUTPUT_FILE=Y"
+      ]
+    },
+    {
+      "id": "119809",
+      "name": "金融機構警示帳戶調查統計表_NEW",
+      "format": "csv",
+      "urls": [
+        "https://stat.fsc.gov.tw/FSC_OAS3_RESTORE/api/CSV_EXPORT?TableID=806&OUTPUT_FILE=Y"
+      ]
+    },
+    {
+      "id": "119810",
+      "name": "金融機構出售不良債權之季報表_NEW",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking8.csv"
+      ]
+    },
+    {
+      "id": "135272",
+      "name": "銀行局行政函釋全文資料集",
+      "format": "xml",
+      "urls": [
+        "https://law.banking.gov.tw/opendata/xmlfiles/%E8%A1%8C%E6%94%BF%E5%87%BD%E9%87%8B/%E8%A1%8C%E6%94%BF%E5%87%BD%E9%87%8B%E8%B3%87%E6%96%99%E9%9B%86.xml"
+      ]
+    },
+    {
+      "id": "151726",
+      "name": "金融聯合徵信中心不同年齡及貸款類別區隔下授信金額及逾放比統計",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/NPL_1_63.csv"
+      ]
+    },
+    {
+      "id": "151727",
+      "name": "金融聯合徵信中心15歲（含）以上女性自銀行或金融機構借貸比例",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/FEMALE_1_64.csv"
+      ]
+    },
+    {
+      "id": "151731",
+      "name": "每10萬名15歲以上人口之商業銀行家數",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/numberofbanks.csv"
+      ]
+    },
+    {
+      "id": "165058",
+      "name": "金融控股公司法第46條揭露資料表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking46.csv"
+      ]
+    },
+    {
+      "id": "143857",
+      "name": "金融聯合徵信中心特約商店解約原因統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_34.csv"
+      ]
+    },
+    {
+      "id": "157953",
+      "name": "金融聯合徵信中心企業授信用途別為「購置不動產」下十足擔保與否之新增授信金額統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_seg_sc_pos_1.csv"
+      ]
+    },
+    {
+      "id": "157955",
+      "name": "金融聯合徵信中心企業授信用途別為「企業投資」下十足擔保與否之新增授信金額統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_seg_sc_pos_3.csv"
+      ]
+    },
+    {
+      "id": "171414",
+      "name": "六都十六縣居民跨境消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/ICR/BANK_LCSUM_ALL_ICR.CSV"
+      ]
+    },
+    {
+      "id": "171401",
+      "name": "以信用卡支付各產業類別消費之金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/NCCC%20Open%20Data/NCCC_TWN_IDSUM.CSV"
+      ]
+    },
+    {
+      "id": "170261",
+      "name": "金融聯合徵信中心企業信用貸款新增授信金額統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_corporate_credit_amt.csv"
+      ]
+    },
+    {
+      "id": "170262",
+      "name": "金融聯合徵信中心建築貸款餘額統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/building_amt.csv"
+      ]
+    },
+    {
+      "id": "173982",
+      "name": "本國銀行持有債券及股票情形表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking33.csv"
+      ]
+    },
+    {
+      "id": "174077",
+      "name": "金融聯合徵信中心企業永續績效連結授信統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Sll_Ban_Amt.CSV"
+      ]
+    },
+    {
+      "id": "174079",
+      "name": "金融聯合徵信中心個人永續績效連結授信統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Sll_Idn_Amt.CSV"
+      ]
+    },
+    {
+      "id": "174081",
+      "name": "金融聯合徵信中心個人十足擔保之綠色授信統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Sc_Green_Idn_Amt.CSV"
+      ]
+    },
+    {
+      "id": "10381",
+      "name": "金融監督管理委員會銀行局單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201804241542350.zip&filedisplay=105-%E9%A0%90%E7%AE%97%E6%A1%88-20180424093605.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201804241544170.zip&filedisplay=106-%E9%A0%90%E7%AE%97%E6%A1%88-20180424093526.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201804241544480.zip&filedisplay=106-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97-20180424093728.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201804241543170.zip&filedisplay=105-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97-20180424093702.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201804241546020.zip&filedisplay=107-%E9%A0%90%E7%AE%97%E6%A1%88-20180424093241.zip&flag=doc",
+        "https://www.fsc.gov.tw/uploaddowndoc?file=budget/201810041142480.zip&filedisplay=107%E5%B9%B4%E5%BA%A6%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97.zip&flag=doc",
+        "https://www.fsc.gov.tw/fckdowndoc?file=/%E9%87%91%E8%9E%8D%E7%9B%A3%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E9%8A%80%E8%A1%8C%E5%B1%80108%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97%E6%A1%88(XML).zip&flag=doc",
+        "https://www.fsc.gov.tw/userfiles/file/108-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97-20220902082242.zip",
+        "https://www.fsc.gov.tw/fckdowndoc?file=/109-預算案-20190910125831(xml).zip&flag=doc",
+        "https://www.fsc.gov.tw/fckdowndoc?file=/109-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97-20200323170136.zip&flag=doc",
+        "https://www.fsc.gov.tw/fckdowndoc?file=/110-%E9%A0%90%E7%AE%97%E6%A1%88(xml)(1).zip&flag=doc",
+        "https://www.fsc.gov.tw/userfiles/file/110-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97-20210226175129.zip",
+        "https://www.fsc.gov.tw/userfiles/file/111-%E9%A0%90%E7%AE%97%E6%A1%88(XML)-20210831112210.zip",
+        "https://www.fsc.gov.tw/userfiles/file/111-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97-Xml.zip",
+        "https://www.fsc.gov.tw/userfiles/file/112-%E9%A0%90%E7%AE%97%E6%A1%88(XML)-20220829103816.zip",
+        "https://www.fsc.gov.tw/userfiles/file/112-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97(XML).zip",
+        "https://www.fsc.gov.tw/userfiles/file/113-%E9%A0%90%E7%AE%97%E6%A1%88(XML).zip",
+        "https://www.fsc.gov.tw/userfiles/file/113-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97(XML)%E6%96%B0.zip",
+        "https://www.fsc.gov.tw/userfiles/file/114-%E9%A0%90%E7%AE%97%E6%A1%88(XML).zip",
+        "https://www.fsc.gov.tw/userfiles/file/114-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97(XML).zip",
+        "https://www.fsc.gov.tw/userfiles/file/115-%E9%A0%90%E7%AE%97%E6%A1%88(XML).zip"
+      ]
+    },
+    {
+      "id": "24632",
+      "name": "金融聯合徵信中心信貸借款人各年齡層下的授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Credit_Age.CSV"
+      ]
+    },
+    {
+      "id": "24634",
+      "name": "金融聯合徵信中心公開/非公開企業淨利(損)總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/NI_AMT2.csv"
+      ]
+    },
+    {
+      "id": "24635",
+      "name": "金融聯合徵信中心公開/非公開企業營收總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/SALES_AMT2.csv"
+      ]
+    },
+    {
+      "id": "24637",
+      "name": "金融聯合徵信中心公開/非公開企業資產總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/ASSET_AMT2.csv"
+      ]
+    },
+    {
+      "id": "24638",
+      "name": "金融聯合徵信中心各年齡層信用卡循環信用金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_1.csv"
+      ]
+    },
+    {
+      "id": "24640",
+      "name": "金融聯合徵信中心各年齡層未到期分期償還待墊消費款餘額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_4.csv"
+      ]
+    },
+    {
+      "id": "24641",
+      "name": "金融聯合徵信中心各年齡層未到期分期償還預借現金餘額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_3.csv"
+      ]
+    },
+    {
+      "id": "24642",
+      "name": "金融聯合徵信中心各年齡層現金卡戶放款餘額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CASHCARD_6_1.csv"
+      ]
+    },
+    {
+      "id": "24643",
+      "name": "金融聯合徵信中心各產業淨利(損)總額及企業家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/NI_AMT.csv"
+      ]
+    },
+    {
+      "id": "24623",
+      "name": "金融聯合徵信中心不同性別信用卡循環信用金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_2.csv"
+      ]
+    },
+    {
+      "id": "24626",
+      "name": "金融聯合徵信中心不同性別未到期分期償還預借現金餘額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_6.csv"
+      ]
+    },
+    {
+      "id": "24629",
+      "name": "金融聯合徵信中心企業授信金額用途別統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_wrk_amt.csv"
+      ]
+    },
+    {
+      "id": "24630",
+      "name": "金融聯合徵信中心信貸借款人不同性別下的授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Credit_Sex.CSV"
+      ]
+    },
+    {
+      "id": "24631",
+      "name": "金融聯合徵信中心信貸借款人不同性別下的新增授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Credit_New_Sex.CSV"
+      ]
+    },
+    {
+      "id": "11575",
+      "name": "金融研訓院菁業獎",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1464.csv"
+      ]
+    },
+    {
+      "id": "11576",
+      "name": "金融研訓院捐助單位",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1461.csv"
+      ]
+    },
+    {
+      "id": "11580",
+      "name": "信合社辦理公務機關查詢及解繳扣押款收費作業要點收費彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/movement/gov_service_charge.csv"
+      ]
+    },
+    {
+      "id": "13575",
+      "name": "中華民國信託業商業同業公會各會員單位承辦信託業務一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.trust.org.tw/files/statisticstrust01-1.csv"
+      ]
+    },
+    {
+      "id": "17181",
+      "name": "中華民國票券金融商業同業公會會員公司介紹",
+      "format": "csv",
+      "urls": [
+        "https://www.tbfa.org.tw/member/%E6%9C%83%E5%93%A1%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%B4%B9.csv"
+      ]
+    },
+    {
+      "id": "17246",
+      "name": "金融研訓院近3年取得金融證照人數統計",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1547.csv"
+      ]
+    },
+    {
+      "id": "20396",
+      "name": "外國銀行OBU一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking39.csv"
+      ]
+    },
+    {
+      "id": "20400",
+      "name": "大陸地區銀行在臺代表人辦事處一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking43.csv"
+      ]
+    },
+    {
+      "id": "28773",
+      "name": "金融機構員工人數",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking47.csv"
+      ]
+    },
+    {
+      "id": "10574",
+      "name": "董監事及大股東持股質押比例>50%統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking6.csv"
+      ]
+    },
+    {
+      "id": "10685",
+      "name": "各銀行呆帳資訊揭露網址",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking26.csv"
+      ]
+    },
+    {
+      "id": "28780",
+      "name": "金融機構自動化服務機器概況表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking54.csv"
+      ]
+    },
+    {
+      "id": "28783",
+      "name": "大陸地區銀行在臺分行資產負債簡表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking57.csv"
+      ]
+    },
+    {
+      "id": "21940",
+      "name": "金融聯合徵信中心新增個人汽車貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Auto_New_Amt.CSV"
+      ]
+    },
+    {
+      "id": "21941",
+      "name": "金融聯合徵信中心新增個人非十足擔保貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Nsc_New_Amt.CSV"
+      ]
+    },
+    {
+      "id": "21942",
+      "name": "金融聯合徵信中心房貸借款人各年齡層下的授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Mortgage_Age.CSV"
+      ]
+    },
+    {
+      "id": "21943",
+      "name": "金融聯合徵信中心房貸借款人不同性別下的授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Mortgage_Sex.CSV"
+      ]
+    },
+    {
+      "id": "21944",
+      "name": "金融聯合徵信中心房貸擔保品所在地區別下的授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Mortgage_Location.CSV"
+      ]
+    },
+    {
+      "id": "21947",
+      "name": "金融聯合徵信中心房貸借款人不同性別下的新增授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/NewMortgage_Sex.CSV"
+      ]
+    },
+    {
+      "id": "21950",
+      "name": "金融聯合徵信中心信用卡各年齡層持卡張數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_9.csv"
+      ]
+    },
+    {
+      "id": "21952",
+      "name": "金融聯合徵信中心信用卡各年齡層應繳款金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_11.csv"
+      ]
+    },
+    {
+      "id": "21956",
+      "name": "金融聯合徵信中心信用卡特約商店當月解約筆數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_15.csv"
+      ]
+    },
+    {
+      "id": "21854",
+      "name": "本國金控集團國內及海外暴險統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking44.csv"
+      ]
+    },
+    {
+      "id": "21856",
+      "name": "金融研訓院最近課程人數統計",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1549.csv"
+      ]
+    },
+    {
+      "id": "21932",
+      "name": "金融聯合徵信中心本國銀行企業授信金額大型企業產業別佔比統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_le_pct.csv"
+      ]
+    },
+    {
+      "id": "13025",
+      "name": "金融研訓院金融就業服務",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1473.csv"
+      ]
+    },
+    {
+      "id": "13027",
+      "name": "金融研訓院網路書店銀行家雜誌資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1475.csv"
+      ]
+    },
+    {
+      "id": "10512",
+      "name": "本國銀行對中小企業放款餘額統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking4.csv"
+      ]
+    },
+    {
+      "id": "11712",
+      "name": "信用卡發卡機構年費收取方式",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11712.csv"
+      ]
+    },
+    {
+      "id": "11715",
+      "name": "外匯業務共通性費用資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11715.csv"
+      ]
+    },
+    {
+      "id": "11716",
+      "name": "放款業務共通性費用資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11716.csv"
+      ]
+    },
+    {
+      "id": "11717",
+      "name": "特定金錢信託業務共通性費用資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11717.csv"
+      ]
+    },
+    {
+      "id": "11718",
+      "name": "存款業務共通性費用資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11718.csv"
+      ]
+    },
+    {
+      "id": "11720",
+      "name": "中華民國信託業商業同業公會最新消息",
+      "format": "rss",
+      "urls": [
+        "https://www.trust.org.tw/rss/news/get"
+      ]
+    },
+    {
+      "id": "11724",
+      "name": "個人購置房屋契約價格資料(已去識別化)",
+      "format": "zip",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Contract_Price.zip"
+      ]
+    },
+    {
+      "id": "11726",
+      "name": "金融聯合徵信中心查詢講習資料",
+      "format": "xml",
+      "urls": [
+        "https://member.jcic.org.tw/main_member/Rss.ashx?uid=277&pid=226"
+      ]
+    },
+    {
+      "id": "11730",
+      "name": "金融聯合徵信中心信用常識宣導",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Credit_Information.csv"
+      ]
+    },
+    {
+      "id": "11731",
+      "name": "金融聯合徵信中心各項信用資訊揭露期限說明",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Data_Disclosure.csv"
+      ]
+    },
+    {
+      "id": "11828",
+      "name": "銀行辦理各項消費性貸款提前清償違約金收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking11828.csv"
+      ]
+    },
+    {
+      "id": "11695",
+      "name": "信用卡國內清算金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/01_Domestic_Interchange_Settlement_NCCC.csv"
+      ]
+    },
+    {
+      "id": "13312",
+      "name": "金融研訓院金融訓練精選課程",
+      "format": "csv",
+      "urls": [
+        "https://service.tabf.org.tw/BECommon/Doc/FormEdit/1504.csv"
+      ]
+    },
+    {
+      "id": "13376",
+      "name": "金融聯合徵信中心企業產業別貸款狀況統計趨勢資料(已去識別化)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/corporate_loan_industry.CSV"
+      ]
+    },
+    {
+      "id": "14856",
+      "name": "信聯社簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/refer/nfcc_intro.csv"
+      ]
+    },
+    {
+      "id": "14858",
+      "name": "信用合作社業務區域",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/refer/ccop_oper_area.csv"
+      ]
+    },
+    {
+      "id": "14861",
+      "name": "信用合作社業FATCA註冊情形統計彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.nfcc.org.tw/data/refer/fatca_registration.csv"
+      ]
+    },
+    {
+      "id": "15226",
+      "name": "金融研訓院證照測驗資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.tabf.org.tw/BECommon/Doc/FormEdit/1492.csv"
+      ]
+    },
+    {
+      "id": "32319",
+      "name": "金融聯合徵信中心車貸借款人各年齡層下的新增授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Auto_New_Age.CSV"
+      ]
+    },
+    {
+      "id": "32320",
+      "name": "金融聯合徵信中心車貸借款人不同性別下的新增授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Auto_New_Sex.CSV"
+      ]
+    },
+    {
+      "id": "32321",
+      "name": "金融聯合徵信中心企業十足擔保/非十足擔保平均每家授信金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_avg_sc_amt.csv"
+      ]
+    },
+    {
+      "id": "32322",
+      "name": "金融聯合徵信中心企業各授信用途別下之平均每家授信金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/seg_avg_wrk_amt.csv"
+      ]
+    },
+    {
+      "id": "32324",
+      "name": "金融聯合徵信中心現金卡平均每戶放款金額統計",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CASHCARD_1_48.csv"
+      ]
+    },
+    {
+      "id": "32325",
+      "name": "金融聯合徵信中心信用卡平均每戶持卡張數統計",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_16.csv"
+      ]
+    },
+    {
+      "id": "32326",
+      "name": "金融聯合徵信中心信用卡平均每戶應收帳款金額統計",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_17.csv"
+      ]
+    },
+    {
+      "id": "32329",
+      "name": "金融聯合徵信中心信用卡循環信用金額占應收帳款比重統計",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_20.csv"
+      ]
+    },
+    {
+      "id": "32330",
+      "name": "金融聯合徵信中心信用卡循環信用戶數占流通卡歸戶數比重統計",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_21.csv"
+      ]
+    },
+    {
+      "id": "38316",
+      "name": "各年收入族群持卡人各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Annual Income/BANK_TWN_ALL_AI.CSV"
+      ]
+    },
+    {
+      "id": "38317",
+      "name": "各年收入族群持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Annual Income/BANK_MCT_ALL_AI.CSV"
+      ]
+    },
+    {
+      "id": "33473",
+      "name": "外國持卡人於六都十六縣以信用卡支付網路購物(EC)之金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Foreign/NCCC_LCSUM_EC_FR.CSV"
+      ]
+    },
+    {
+      "id": "62948",
+      "name": "六都持卡人前十大國外消費金額及筆數(依簽帳金額排名)",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Country/BANK_MCT_ALL_COUNTRY_AMT.CSV"
+      ]
+    },
+    {
+      "id": "73190",
+      "name": "銀行協助女性就業或創業相關金融措施彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking73190.csv"
+      ]
+    },
+    {
+      "id": "45207",
+      "name": "外國銀行在臺設立分行及代表人辦事處地區別、國家別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/banking64.csv"
+      ]
+    },
+    {
+      "id": "54481",
+      "name": "金融聯合徵信中心個人房貸與車貸交叉狀況統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Mortgage_X_Auto_Amt.CSV"
+      ]
+    },
+    {
+      "id": "54484",
+      "name": "金融聯合徵信中心不同性別信用卡平均每戶持卡張數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_23.csv"
+      ]
+    },
+    {
+      "id": "54487",
+      "name": "金融聯合徵信中心各年齡層信用卡平均每戶循環信用金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_26.csv"
+      ]
+    },
+    {
+      "id": "54490",
+      "name": "金融聯合徵信中心不同性別信用卡平均每戶未到期分期償還相關金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_29.csv"
+      ]
+    },
+    {
+      "id": "54492",
+      "name": "金融聯合徵信中心不同性別信用卡循環信用金額占應收帳款比重統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_31.csv"
+      ]
+    },
+    {
+      "id": "44118",
+      "name": "金融聯合徵信中心企業規模別新增貸款狀況授信金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_corporate_loan_scale.csv"
+      ]
+    },
+    {
+      "id": "44119",
+      "name": "金融聯合徵信中心企業新增總貸款狀況授信金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_corporate_loan.csv"
+      ]
+    },
+    {
+      "id": "44121",
+      "name": "金融聯合徵信中心企業新增授信金額用途別統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_corporate_loan_wrk.csv"
+      ]
+    },
+    {
+      "id": "79288",
+      "name": "各年齡層女性持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Age Group/BANK_LOC_ALL_AG_F.CSV"
+      ]
+    },
+    {
+      "id": "79291",
+      "name": "各年收入族群男性持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Annual Income/BANK_MCT_ALL_AI_M.CSV"
+      ]
+    },
+    {
+      "id": "79295",
+      "name": "各年收入族群男性持卡人於各行業別總簽帳金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Annual Income/BANK_TWN_ALL_AI_M.CSV"
+      ]
+    },
+    {
+      "id": "79300",
+      "name": "各職業類別女性持卡人於十六縣消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Classified Employment/BANK_LOC_ALL_CE_F.CSV"
+      ]
+    },
+    {
+      "id": "79303",
+      "name": "各教育程度男性持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Education Level/BANK_MCT_ALL_EL_M.CSV"
+      ]
+    },
+    {
+      "id": "79304",
+      "name": "各教育程度女性持卡人於六都消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Gender X Education Level/BANK_MCT_ALL_EL_F.CSV"
+      ]
+    },
+    {
+      "id": "98234",
+      "name": "外國持卡人以信用卡於六都支付各產業類別詐欺交易型態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/Fraud/ACQ/FR/BANK_FRAUDACQ_MCT_IDSUM_FR.CSV"
+      ]
+    },
+    {
+      "id": "119808",
+      "name": "金融服務欠缺地區鄉鎮名單_NEW",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking19.csv"
+      ]
+    },
+    {
+      "id": "119811",
+      "name": "本國銀行放款品質分類統計表_NEW",
+      "format": "csv",
+      "urls": [
+        "https://stat.fsc.gov.tw/FSC_OAS3_RESTORE/api/CSV_EXPORT?TableID=801&OUTPUT_FILE=Y"
+      ]
+    },
+    {
+      "id": "119733",
+      "name": "本國銀行對大陸地區之授信、投資及資金拆存總額度_NEW",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/itopendata/banking18.csv"
+      ]
+    },
+    {
+      "id": "135271",
+      "name": "銀行局法規條文全文資料集",
+      "format": "xml",
+      "urls": [
+        "https://law.banking.gov.tw/opendata/xmlfiles/%E6%B3%95%E8%A6%8F/%E6%B3%95%E8%A6%8F%E8%B3%87%E6%96%99%E9%9B%86.xml"
+      ]
+    },
+    {
+      "id": "170709",
+      "name": "中華民國信託業商業同業公會金錢信託業務統計(不含證投信、期信基金保管)",
+      "format": "csv",
+      "urls": [
+        "https://www.trust.org.tw/files/statisticstrust002.csv"
+      ]
+    },
+    {
+      "id": "171404",
+      "name": "民眾於六都十六縣以信用卡支付網路購物(EC)之金額及筆數",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/NCCC%20Open%20Data/NCCC_LCSUM_EC.CSV"
+      ]
+    },
+    {
+      "id": "171563",
+      "name": "六都十六縣居民跨縣市消費樣態",
+      "format": "csv",
+      "urls": [
+        "https://www.nccc.com.tw/dataDownload/DCR/BANK_LCSUM_ALL_DCR.CSV"
+      ]
+    },
+    {
+      "id": "113749",
+      "name": "金融聯合徵信中心購置住宅貸款統計分析表-性別(存量)",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Housingloan_gender_stock.csv"
+      ]
+    },
+    {
+      "id": "143855",
+      "name": "金融聯合徵信中心個人十足擔保貸款狀況統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Sc_Amt.CSV"
+      ]
+    },
+    {
+      "id": "143856",
+      "name": "金融聯合徵信中心新增個人十足擔保貸款狀況統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Sc_New_Amt.CSV"
+      ]
+    },
+    {
+      "id": "143858",
+      "name": "金融聯合徵信中心信用卡預借現金額度統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_35.csv"
+      ]
+    },
+    {
+      "id": "143859",
+      "name": "金融聯合徵信中心不同利率區隔下信用卡適用利率分布統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/CREDITCARD_6_36.csv"
+      ]
+    },
+    {
+      "id": "143920",
+      "name": "本國銀行資產報酬率、淨值報酬率",
+      "format": "csv",
+      "urls": [
+        "https://www.banking.gov.tw/webdowndoc?file=/stat/opendata/roa_e.csv"
+      ]
+    },
+    {
+      "id": "170260",
+      "name": "金融聯合徵信中心企業信用貸款授信金額統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/corporate_credit_amt.csv"
+      ]
+    },
+    {
+      "id": "170263",
+      "name": "金融聯合徵信中心新增建築貸款餘額統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/new_building_amt.csv"
+      ]
+    },
+    {
+      "id": "170264",
+      "name": "金融聯合徵信中心信貸借款人各年齡層與性別交叉狀況的授信金額及利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Credit_Age_X_Sex.CSV"
+      ]
+    },
+    {
+      "id": "174080",
+      "name": "金融聯合徵信中心企業十足擔保之綠色授信統計趨勢資料",
+      "format": "csv",
+      "urls": [
+        "https://www.jcic.org.tw/jcweb/en/services/inquiry/public/files/Sc_Green_Ban_Amt.CSV"
+      ]
+    }
+  ]
+}

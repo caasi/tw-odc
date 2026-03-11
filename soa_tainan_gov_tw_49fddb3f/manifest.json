@@ -1,0 +1,136 @@
+{
+  "type": "dataset",
+  "provider": "臺南市政府水利局",
+  "slug": "soa_tainan_gov_tw_49fddb3f",
+  "datasets": [
+    {
+      "id": "53475",
+      "name": "臺南市管區域排水之水位站名稱及位置",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/6c525fc0-f70a-433e-8529-8e11e65e85e9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6c525fc0-f70a-433e-8529-8e11e65e85e9"
+      ]
+    },
+    {
+      "id": "100218",
+      "name": "臺南市管區域排水即時影像",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/427a8287-0bc1-4b45-92ac-53eb858b5b9c"
+      ]
+    },
+    {
+      "id": "128983",
+      "name": "臺南市淹水感測器資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/21b31a27-3e61-48b8-8259-83c2001bec8c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cdc1ead4-d56a-4092-8e1c-e1f2fa9ee864"
+      ]
+    },
+    {
+      "id": "171554",
+      "name": "114年度抽水站基本資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d9311994-b4c3-4952-8493-b7e49d17fbd3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d9311994-b4c3-4952-8493-b7e49d17fbd3"
+      ]
+    },
+    {
+      "id": "53476",
+      "name": "臺南市管區域排水即時影像站名稱及位置",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/98422694-144f-4a07-855e-d94aabd755a5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/98422694-144f-4a07-855e-d94aabd755a5"
+      ]
+    },
+    {
+      "id": "53447",
+      "name": "臺南市管區域排水警告標示位置",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4cfb2d7c-3991-4c8b-85bb-fb9ac7a662d2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4cfb2d7c-3991-4c8b-85bb-fb9ac7a662d2"
+      ]
+    },
+    {
+      "id": "100219",
+      "name": "臺南市管區域排水基本資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/45072ff7-c2b1-486e-9018-bf008dad2266",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a104e39f-5bd6-488d-8608-189f8f69560f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7ccc4bb7-19eb-40d6-88a4-e708a82527f5"
+      ]
+    },
+    {
+      "id": "108523",
+      "name": "臺南市滯洪池位置及相關資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/fabe9ae6-a046-4346-9b4d-60b037fdb91b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fabe9ae6-a046-4346-9b4d-60b037fdb91b"
+      ]
+    },
+    {
+      "id": "139277",
+      "name": "臺南市水資源回收中心相關資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/016f185e-c487-40d9-8d5e-4457e13023a7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/016f185e-c487-40d9-8d5e-4457e13023a7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f7b111a7-4add-4802-a66c-e6edd37ecacf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f7b111a7-4add-4802-a66c-e6edd37ecacf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b9ae663f-b2c7-486f-ab25-fbd3842bb390",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b9ae663f-b2c7-486f-ab25-fbd3842bb390"
+      ]
+    },
+    {
+      "id": "176364",
+      "name": "臺南市陸閘資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/90bbd3cb-c6e2-4077-a88d-28aae61dda35",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/90bbd3cb-c6e2-4077-a88d-28aae61dda35"
+      ]
+    },
+    {
+      "id": "176292",
+      "name": "臺南市危險水域警告標誌及救生圈位置",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/31f9056d-997d-4483-beb8-0ba4c2c3bf7b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/31f9056d-997d-4483-beb8-0ba4c2c3bf7b"
+      ]
+    },
+    {
+      "id": "172214",
+      "name": "114年度水門基本資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3be620b5-4381-4195-bc2f-2eff62a46291",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3be620b5-4381-4195-bc2f-2eff62a46291"
+      ]
+    },
+    {
+      "id": "176202",
+      "name": "臺南市111年污水下水道管線圖資",
+      "format": "shp",
+      "urls": [
+        "https://data.tainan.gov.tw/Resource/d9e83f68-8f1e-49b8-874c-02346f862285?fileId=68d7d856-fb77-4642-9253-62413ab66d44&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "139295",
+      "name": "臺南市RO等級移動式淨水設備資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5e874742-cc90-4015-af86-6cd27307dd7a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5e874742-cc90-4015-af86-6cd27307dd7a"
+      ]
+    }
+  ]
+}

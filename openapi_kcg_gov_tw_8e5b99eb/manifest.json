@@ -1,0 +1,4467 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府財政局",
+  "slug": "openapi_kcg_gov_tw_8e5b99eb",
+  "datasets": [
+    {
+      "id": "43794",
+      "name": "高雄市最新債務資訊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/26684f20-16fe-4717-910b-ad34482225e1",
+        "https://data.kcg.gov.tw/File/directDownload/26684f20-16fe-4717-910b-ad34482225e1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c70d4fcb-12fe-4323-a207-ce5f2a877b5c",
+        "https://data.kcg.gov.tw/File/directDownload/c70d4fcb-12fe-4323-a207-ce5f2a877b5c"
+      ]
+    },
+    {
+      "id": "86772",
+      "name": "高雄市房屋稅免稅現值-按公私有別及構造別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/910f5be4-1ef1-46ef-8229-9a12cf815fe2",
+        "https://data.kcg.gov.tw/File/DirectDownload/910f5be4-1ef1-46ef-8229-9a12cf815fe2"
+      ]
+    },
+    {
+      "id": "86774",
+      "name": "高雄市房屋稅免稅戶數-按公私有別及構造別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ab6c2db-09c8-4c4a-ba58-1a6fedf3362d",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ab6c2db-09c8-4c4a-ba58-1a6fedf3362d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/00fff15e-b853-42ee-9791-d4cf70c411e3",
+        "https://data.kcg.gov.tw/File/DirectDownload/00fff15e-b853-42ee-9791-d4cf70c411e3"
+      ]
+    },
+    {
+      "id": "86776",
+      "name": "高雄市房屋稅應稅面積-按公私有別、構造別及使用別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc395364-d760-403e-8f25-dd528b7c321a",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc395364-d760-403e-8f25-dd528b7c321a"
+      ]
+    },
+    {
+      "id": "86619",
+      "name": "高雄市土地增值稅調整後原規定地價或前次移轉現值-按移轉原因別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/db30385d-8269-4cf3-82b0-997a507979a9",
+        "https://data.kcg.gov.tw/File/DirectDownload/db30385d-8269-4cf3-82b0-997a507979a9"
+      ]
+    },
+    {
+      "id": "86623",
+      "name": "高雄市土地增值稅減徵稅額-按稅率別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2c791d3c-0bb8-49b9-a3b6-186bf42d4c53",
+        "https://data.kcg.gov.tw/File/DirectDownload/2c791d3c-0bb8-49b9-a3b6-186bf42d4c53",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a5df0eb9-84cc-43a7-b846-a17bd30b37f7",
+        "https://data.kcg.gov.tw/File/DirectDownload/a5df0eb9-84cc-43a7-b846-a17bd30b37f7"
+      ]
+    },
+    {
+      "id": "86740",
+      "name": "高雄市各項稅捐徵課費用-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/76067f62-43e0-4a2d-875e-c73e8abfbb23",
+        "https://data.kcg.gov.tw/File/DirectDownload/76067f62-43e0-4a2d-875e-c73e8abfbb23",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e4c6fda4-b261-4d70-af9f-f92c9390e75c",
+        "https://data.kcg.gov.tw/File/DirectDownload/e4c6fda4-b261-4d70-af9f-f92c9390e75c"
+      ]
+    },
+    {
+      "id": "86744",
+      "name": "高雄市稅捐稽徵處違章罰鍰案件發給執行憑證件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b3f606a1-127c-4601-9688-00a97f648766",
+        "https://data.kcg.gov.tw/File/DirectDownload/b3f606a1-127c-4601-9688-00a97f648766",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0470ddf7-f9fe-47c4-802a-c68080785820",
+        "https://data.kcg.gov.tw/File/DirectDownload/0470ddf7-f9fe-47c4-802a-c68080785820"
+      ]
+    },
+    {
+      "id": "86745",
+      "name": "高雄市稅捐稽徵處違章罰鍰案件移送執行繳納金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/74fd30e9-28f3-4ccc-8740-2a15b6ba83b7",
+        "https://data.kcg.gov.tw/File/DirectDownload/74fd30e9-28f3-4ccc-8740-2a15b6ba83b7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3d869b5d-ad16-4a86-b051-7044b9de0db0",
+        "https://data.kcg.gov.tw/File/DirectDownload/3d869b5d-ad16-4a86-b051-7044b9de0db0"
+      ]
+    },
+    {
+      "id": "86746",
+      "name": "高雄市稅捐稽徵處違章罰鍰案件移送執行繳納件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95deefc3-f83b-4c35-9e61-459bab88308d",
+        "https://data.kcg.gov.tw/File/DirectDownload/95deefc3-f83b-4c35-9e61-459bab88308d"
+      ]
+    },
+    {
+      "id": "86751",
+      "name": "高雄市稅捐稽徵處違章漏稅案件處罰後自行繳納金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ea3f66c0-abbb-45ce-9de2-33b56e5e7fcf",
+        "https://data.kcg.gov.tw/File/DirectDownload/ea3f66c0-abbb-45ce-9de2-33b56e5e7fcf",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/abbebdab-5e2a-4fd6-8e66-f906478748df",
+        "https://data.kcg.gov.tw/File/DirectDownload/abbebdab-5e2a-4fd6-8e66-f906478748df"
+      ]
+    },
+    {
+      "id": "86752",
+      "name": "高雄市稅捐稽徵處違章漏稅案件處罰後自行繳納件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/376a2777-4c96-478c-8dce-8a6246e66be3",
+        "https://data.kcg.gov.tw/File/DirectDownload/376a2777-4c96-478c-8dce-8a6246e66be3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8ae48b39-5c19-460e-a158-ab61f32fa513",
+        "https://data.kcg.gov.tw/File/DirectDownload/8ae48b39-5c19-460e-a158-ab61f32fa513"
+      ]
+    },
+    {
+      "id": "86753",
+      "name": "高雄市稅捐稽徵處違章漏稅案件審理件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/43dec139-45f9-41bc-8ca4-a27455aa83e7",
+        "https://data.kcg.gov.tw/File/DirectDownload/43dec139-45f9-41bc-8ca4-a27455aa83e7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a3b2ba4-235f-41d7-829c-d748afe29dd2",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a3b2ba4-235f-41d7-829c-d748afe29dd2"
+      ]
+    },
+    {
+      "id": "86756",
+      "name": "高雄市稅捐稽徵處未徵件數-按未徵情形別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6109827a-9d40-48ac-8dc5-0aadbf5c8270",
+        "https://data.kcg.gov.tw/File/DirectDownload/6109827a-9d40-48ac-8dc5-0aadbf5c8270",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/beed8520-87cd-4120-adeb-904436a0fe7a",
+        "https://data.kcg.gov.tw/File/DirectDownload/beed8520-87cd-4120-adeb-904436a0fe7a"
+      ]
+    },
+    {
+      "id": "86757",
+      "name": "高雄市稅捐稽徵處逾核課期限金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d10788d0-7699-4541-9b9e-c72b85feeb1b",
+        "https://data.kcg.gov.tw/File/DirectDownload/d10788d0-7699-4541-9b9e-c72b85feeb1b"
+      ]
+    },
+    {
+      "id": "86760",
+      "name": "高雄市稅捐稽徵處減免註銷金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/40bdb86f-e2a7-4fbf-bbd4-7c832d3c5911",
+        "https://data.kcg.gov.tw/File/DirectDownload/40bdb86f-e2a7-4fbf-bbd4-7c832d3c5911",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/633e1e7e-1a36-449e-ae42-9a8b023b62b9",
+        "https://data.kcg.gov.tw/File/DirectDownload/633e1e7e-1a36-449e-ae42-9a8b023b62b9"
+      ]
+    },
+    {
+      "id": "86761",
+      "name": "高雄市稅捐稽徵處減免註銷件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c9b4fd60-3ebb-41c3-bb01-c9901f22dcf2",
+        "https://data.kcg.gov.tw/File/DirectDownload/c9b4fd60-3ebb-41c3-bb01-c9901f22dcf2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e7c5639a-6da7-44c8-af31-e377c1da9aaa",
+        "https://data.kcg.gov.tw/File/DirectDownload/e7c5639a-6da7-44c8-af31-e377c1da9aaa"
+      ]
+    },
+    {
+      "id": "86763",
+      "name": "高雄市稅捐稽徵處實徵件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/480f9c5d-6dca-4cef-9403-1037e1591250",
+        "https://data.kcg.gov.tw/File/DirectDownload/480f9c5d-6dca-4cef-9403-1037e1591250"
+      ]
+    },
+    {
+      "id": "86765",
+      "name": "高雄市娛樂稅實徵淨額-按來源別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6b3dd289-c8e4-47ba-9059-227403ddcfb2",
+        "https://data.kcg.gov.tw/File/DirectDownload/6b3dd289-c8e4-47ba-9059-227403ddcfb2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4631fcb2-3824-4e82-8ae5-78231bd9d3e2",
+        "https://data.kcg.gov.tw/File/DirectDownload/4631fcb2-3824-4e82-8ae5-78231bd9d3e2"
+      ]
+    },
+    {
+      "id": "86625",
+      "name": "高雄市土地增值稅漲價總數額-按稅率別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3c4b0504-61d3-4e8c-8e61-2c621841486f",
+        "https://data.kcg.gov.tw/File/DirectDownload/3c4b0504-61d3-4e8c-8e61-2c621841486f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95f28dae-d27d-4fc0-b03a-b2495f400cff",
+        "https://data.kcg.gov.tw/File/DirectDownload/95f28dae-d27d-4fc0-b03a-b2495f400cff"
+      ]
+    },
+    {
+      "id": "86628",
+      "name": "高雄市土地增值稅移轉面積-按稅率別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1fd3dea7-ab49-4b6c-9dad-857ac6ec6a04",
+        "https://data.kcg.gov.tw/File/DirectDownload/1fd3dea7-ab49-4b6c-9dad-857ac6ec6a04",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95473dc3-a5b7-4d75-bbcb-c763162ccdb0",
+        "https://data.kcg.gov.tw/File/DirectDownload/95473dc3-a5b7-4d75-bbcb-c763162ccdb0"
+      ]
+    },
+    {
+      "id": "86631",
+      "name": "高雄市地價稅減免課稅面積-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fbb275f4-4937-4280-8a40-31dbb42c945f",
+        "https://data.kcg.gov.tw/File/DirectDownload/fbb275f4-4937-4280-8a40-31dbb42c945f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/02f496da-cd49-4539-a9c4-4c221fa158f7",
+        "https://data.kcg.gov.tw/File/DirectDownload/02f496da-cd49-4539-a9c4-4c221fa158f7"
+      ]
+    },
+    {
+      "id": "86636",
+      "name": "高雄市稅捐納庫數-107",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/15b3b1b2-5e8e-446e-8706-1a88214c4f68",
+        "https://data.kcg.gov.tw/File/DirectDownload/15b3b1b2-5e8e-446e-8706-1a88214c4f68"
+      ]
+    },
+    {
+      "id": "86642",
+      "name": "高雄市各項稅捐實徵數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e64cf057-0193-464a-a1bf-4035d26f4822",
+        "https://data.kcg.gov.tw/File/DirectDownload/e64cf057-0193-464a-a1bf-4035d26f4822",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0bfa3fcf-18d9-4d66-a8dc-94f726ec6923",
+        "https://data.kcg.gov.tw/File/DirectDownload/0bfa3fcf-18d9-4d66-a8dc-94f726ec6923"
+      ]
+    },
+    {
+      "id": "106043",
+      "name": "各年度土地增值稅漲價總數額-按移轉原因別31",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/de6c0b48-7a9f-496d-9bcb-505b97a12092",
+        "https://data.kcg.gov.tw/File/DirectDownload/de6c0b48-7a9f-496d-9bcb-505b97a12092"
+      ]
+    },
+    {
+      "id": "127778",
+      "name": "高雄市遠距視訊服務件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ae3006eb-6cb1-4d6b-9610-520cd966d724",
+        "https://data.kcg.gov.tw/File/DirectDownload/ae3006eb-6cb1-4d6b-9610-520cd966d724"
+      ]
+    },
+    {
+      "id": "104379",
+      "name": "高雄市地價稅開徵概況--按納稅義務人性別查定稅額分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a0b34fdd-3e4b-4d76-98c6-3d7108c80fd7",
+        "https://data.kcg.gov.tw/File/DirectDownload/a0b34fdd-3e4b-4d76-98c6-3d7108c80fd7"
+      ]
+    },
+    {
+      "id": "104381",
+      "name": "高雄市地價稅開徵概況--按納稅義務人性別戶數分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/549121c2-fd26-4e56-a39e-17983a2e0855",
+        "https://data.kcg.gov.tw/File/DirectDownload/549121c2-fd26-4e56-a39e-17983a2e0855",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/308a90d0-8e43-4cab-b71b-5f05f66ad5a0",
+        "https://data.kcg.gov.tw/File/DirectDownload/308a90d0-8e43-4cab-b71b-5f05f66ad5a0"
+      ]
+    },
+    {
+      "id": "104385",
+      "name": "高雄市完全以電能為動力之電動貨車使用牌照稅稅額表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0e240451-8582-4808-a6f7-a034b5610cdc",
+        "https://data.kcg.gov.tw/File/DirectDownload/0e240451-8582-4808-a6f7-a034b5610cdc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0dcf5880-522a-4b5e-8f01-f67d3e3a46cd",
+        "https://data.kcg.gov.tw/File/DirectDownload/0dcf5880-522a-4b5e-8f01-f67d3e3a46cd"
+      ]
+    },
+    {
+      "id": "104387",
+      "name": "高雄市完全以電能為動力之電動小客車使用牌照稅稅額表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/588af529-d8c8-46a3-8f9e-37155b68227d",
+        "https://data.kcg.gov.tw/File/DirectDownload/588af529-d8c8-46a3-8f9e-37155b68227d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/02be7594-a148-458a-9b49-bd185c3e7dc5",
+        "https://data.kcg.gov.tw/File/DirectDownload/02be7594-a148-458a-9b49-bd185c3e7dc5"
+      ]
+    },
+    {
+      "id": "104388",
+      "name": "高雄市完全以電能為動力之電動機車使用牌照稅稅額表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7b57fb2c-a8a5-4ece-be77-52c1403dfea3",
+        "https://data.kcg.gov.tw/File/DirectDownload/7b57fb2c-a8a5-4ece-be77-52c1403dfea3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/119436fb-f09c-4999-befe-561b8106be1c",
+        "https://data.kcg.gov.tw/File/DirectDownload/119436fb-f09c-4999-befe-561b8106be1c"
+      ]
+    },
+    {
+      "id": "104362",
+      "name": "高雄市多元繳稅方式房屋稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/96638e4c-4a43-4390-8e68-3cfe23c7e34c",
+        "https://data.kcg.gov.tw/File/DirectDownload/96638e4c-4a43-4390-8e68-3cfe23c7e34c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/34c7b92f-9bcc-4e1d-8579-e5daa0499f7d",
+        "https://data.kcg.gov.tw/File/DirectDownload/34c7b92f-9bcc-4e1d-8579-e5daa0499f7d"
+      ]
+    },
+    {
+      "id": "104363",
+      "name": "高雄市多元繳稅方式使用牌照稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8750e16c-5bea-47fe-bc4c-e7a0bf7408a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/8750e16c-5bea-47fe-bc4c-e7a0bf7408a7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5b7c1419-23a5-4a9c-82b9-fb8cae42c42a",
+        "https://data.kcg.gov.tw/File/DirectDownload/5b7c1419-23a5-4a9c-82b9-fb8cae42c42a"
+      ]
+    },
+    {
+      "id": "104364",
+      "name": "高雄市多元繳稅方式地價稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bf09da68-bb3c-411a-b2b5-4882d3b0ebf6",
+        "https://data.kcg.gov.tw/File/DirectDownload/bf09da68-bb3c-411a-b2b5-4882d3b0ebf6"
+      ]
+    },
+    {
+      "id": "104368",
+      "name": "高雄市多元繳稅方式使用牌照稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/792969f8-007f-451e-b0e9-6c8de55a8126",
+        "https://data.kcg.gov.tw/File/DirectDownload/792969f8-007f-451e-b0e9-6c8de55a8126",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/24df6401-6a89-4b0b-b017-e108bc9b1294",
+        "https://data.kcg.gov.tw/File/DirectDownload/24df6401-6a89-4b0b-b017-e108bc9b1294"
+      ]
+    },
+    {
+      "id": "104370",
+      "name": "高雄市多元繳稅方式房屋稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/781f1fda-6e41-443d-b7cb-2892a485c440",
+        "https://data.kcg.gov.tw/File/DirectDownload/781f1fda-6e41-443d-b7cb-2892a485c440",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1d405b69-1a9b-4202-b98c-6239acc4234c",
+        "https://data.kcg.gov.tw/File/DirectDownload/1d405b69-1a9b-4202-b98c-6239acc4234c"
+      ]
+    },
+    {
+      "id": "104373",
+      "name": "高雄市多元繳稅方式土地增值稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ebec11c8-dd32-4ca3-8ecd-c97e278bc350",
+        "https://data.kcg.gov.tw/File/DirectDownload/ebec11c8-dd32-4ca3-8ecd-c97e278bc350"
+      ]
+    },
+    {
+      "id": "104374",
+      "name": "高雄市使用牌照稅開徵概況-按納稅義務人性別分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/54272ccf-0aba-4b1a-b37d-0f86993406ee",
+        "https://data.kcg.gov.tw/File/DirectDownload/54272ccf-0aba-4b1a-b37d-0f86993406ee",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b0def859-966e-4832-9dc4-c463e1ff1d86",
+        "https://data.kcg.gov.tw/File/DirectDownload/b0def859-966e-4832-9dc4-c463e1ff1d86"
+      ]
+    },
+    {
+      "id": "104377",
+      "name": "高雄市房屋稅開徵概況--按納稅義務人性別戶數分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/350efa61-dcac-47e1-8b3d-37ca1508e4f4",
+        "https://data.kcg.gov.tw/File/DirectDownload/350efa61-dcac-47e1-8b3d-37ca1508e4f4"
+      ]
+    },
+    {
+      "id": "138952",
+      "name": "109年違章罰鍰案件更正註銷件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cbd99479-375d-42ff-8c54-655df6635368",
+        "https://data.kcg.gov.tw/File/DirectDownload/cbd99479-375d-42ff-8c54-655df6635368"
+      ]
+    },
+    {
+      "id": "138847",
+      "name": "109年實徵件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/def7e187-ea57-450f-bdf3-de6b49577898",
+        "https://data.kcg.gov.tw/File/DirectDownload/def7e187-ea57-450f-bdf3-de6b49577898"
+      ]
+    },
+    {
+      "id": "138850",
+      "name": "109年娛樂稅實徵淨額-按來源別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cad16719-1b69-4a36-9496-165ccfebe671",
+        "https://data.kcg.gov.tw/File/DirectDownload/cad16719-1b69-4a36-9496-165ccfebe671"
+      ]
+    },
+    {
+      "id": "138851",
+      "name": "109年娛樂稅查定及申報家數-按來源別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b07c2720-f358-4bc7-9bc5-e3bbb169c4c0",
+        "https://data.kcg.gov.tw/File/DirectDownload/b07c2720-f358-4bc7-9bc5-e3bbb169c4c0"
+      ]
+    },
+    {
+      "id": "138857",
+      "name": "109年房屋稅免稅現值-按公私有別及構造別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/49902d4f-1160-4a63-ad06-c86f880a1ab7",
+        "https://data.kcg.gov.tw/File/DirectDownload/49902d4f-1160-4a63-ad06-c86f880a1ab7"
+      ]
+    },
+    {
+      "id": "138992",
+      "name": "109年本轄代發他機關作業統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2a041a02-b36e-4fda-926a-26622744079f",
+        "https://data.kcg.gov.tw/File/DirectDownload/2a041a02-b36e-4fda-926a-26622744079f"
+      ]
+    },
+    {
+      "id": "138995",
+      "name": "109年推展志願服務志工服務成果統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/edfa8828-c8c4-4e68-b372-3822d69f5b2d",
+        "https://data.kcg.gov.tw/File/DirectDownload/edfa8828-c8c4-4e68-b372-3822d69f5b2d"
+      ]
+    },
+    {
+      "id": "138996",
+      "name": "109年推展志願服務志工基本資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bfe2c101-4df8-4b3c-8bd5-63fd6c40ec54",
+        "https://data.kcg.gov.tw/File/DirectDownload/bfe2c101-4df8-4b3c-8bd5-63fd6c40ec54"
+      ]
+    },
+    {
+      "id": "138997",
+      "name": "109年多元繳稅方式娛樂稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b83d44f9-4555-4985-81a9-7f4bed373fde",
+        "https://data.kcg.gov.tw/File/DirectDownload/b83d44f9-4555-4985-81a9-7f4bed373fde"
+      ]
+    },
+    {
+      "id": "139001",
+      "name": "109年土地增值稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8cfcd1cd-552e-4c65-85e0-1d10a6cb4fd0",
+        "https://data.kcg.gov.tw/File/DirectDownload/8cfcd1cd-552e-4c65-85e0-1d10a6cb4fd0"
+      ]
+    },
+    {
+      "id": "139005",
+      "name": "109年跨區服務件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/15526280-a8de-4c2b-bf2b-7c694693a00c",
+        "https://data.kcg.gov.tw/File/DirectDownload/15526280-a8de-4c2b-bf2b-7c694693a00c"
+      ]
+    },
+    {
+      "id": "139006",
+      "name": "109年中午不打烊統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3453f5e0-1494-454b-859f-fb7abe2a984e",
+        "https://data.kcg.gov.tw/File/DirectDownload/3453f5e0-1494-454b-859f-fb7abe2a984e"
+      ]
+    },
+    {
+      "id": "138916",
+      "name": "109年違章漏稅案件審理件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/68258681-915c-4391-996a-02b0a463af27",
+        "https://data.kcg.gov.tw/File/DirectDownload/68258681-915c-4391-996a-02b0a463af27"
+      ]
+    },
+    {
+      "id": "138917",
+      "name": "109年違章漏稅案件受理件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9177c726-6822-4ece-9a0e-e622408be774",
+        "https://data.kcg.gov.tw/File/DirectDownload/9177c726-6822-4ece-9a0e-e622408be774"
+      ]
+    },
+    {
+      "id": "138918",
+      "name": "109年未徵金額-按未徵情形別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aa0b093b-86f9-4bb1-9dc5-1814e6866292",
+        "https://data.kcg.gov.tw/File/DirectDownload/aa0b093b-86f9-4bb1-9dc5-1814e6866292"
+      ]
+    },
+    {
+      "id": "138920",
+      "name": "109年逾核課期限金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/70b6544f-ae5d-42d3-a5e1-a2fc41fc6e6b",
+        "https://data.kcg.gov.tw/File/DirectDownload/70b6544f-ae5d-42d3-a5e1-a2fc41fc6e6b"
+      ]
+    },
+    {
+      "id": "138922",
+      "name": "109年逾徵收期限金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0fca7b37-a120-44d4-b51b-2e5d9fe8dfcc",
+        "https://data.kcg.gov.tw/File/DirectDownload/0fca7b37-a120-44d4-b51b-2e5d9fe8dfcc"
+      ]
+    },
+    {
+      "id": "138973",
+      "name": "109年多元繳稅方式使用牌照稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6b7109d3-5c97-41d1-85e5-add9ddc34f6f",
+        "https://data.kcg.gov.tw/File/DirectDownload/6b7109d3-5c97-41d1-85e5-add9ddc34f6f"
+      ]
+    },
+    {
+      "id": "138974",
+      "name": "109年多元繳稅方式地價稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/988d3665-6885-4638-b33f-6beb8b2ed7a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/988d3665-6885-4638-b33f-6beb8b2ed7a3"
+      ]
+    },
+    {
+      "id": "138976",
+      "name": "109年多元繳稅方式土地增值稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e1c12967-fbe2-42d9-bd08-d734f2b6f29e",
+        "https://data.kcg.gov.tw/File/DirectDownload/e1c12967-fbe2-42d9-bd08-d734f2b6f29e"
+      ]
+    },
+    {
+      "id": "138977",
+      "name": "109年多元繳稅方式娛樂稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/12804c5a-716d-4947-b03b-0f288d6d1a91",
+        "https://data.kcg.gov.tw/File/DirectDownload/12804c5a-716d-4947-b03b-0f288d6d1a91"
+      ]
+    },
+    {
+      "id": "138979",
+      "name": "109年多元繳稅方式房屋稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/83e344df-9c29-48d8-bd03-baba68bf0638",
+        "https://data.kcg.gov.tw/File/DirectDownload/83e344df-9c29-48d8-bd03-baba68bf0638"
+      ]
+    },
+    {
+      "id": "138980",
+      "name": "109年多元繳稅方式使用牌照稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d36fe455-d8b8-4c0f-a514-6fe27ee111b3",
+        "https://data.kcg.gov.tw/File/DirectDownload/d36fe455-d8b8-4c0f-a514-6fe27ee111b3"
+      ]
+    },
+    {
+      "id": "138983",
+      "name": "109年多元繳稅方式土地增值稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8975991b-20a7-40e3-9538-bc10dfe9b578",
+        "https://data.kcg.gov.tw/File/DirectDownload/8975991b-20a7-40e3-9538-bc10dfe9b578"
+      ]
+    },
+    {
+      "id": "138862",
+      "name": "109年房屋稅應稅戶數-按公私有別、構造別及使用別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e907ddf6-c6a1-4354-8dbc-64ea496c5b69",
+        "https://data.kcg.gov.tw/File/DirectDownload/e907ddf6-c6a1-4354-8dbc-64ea496c5b69"
+      ]
+    },
+    {
+      "id": "138864",
+      "name": "109年土地增值稅減徵稅額-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/844df557-0f78-4cc7-850b-dc89b8d8efa8",
+        "https://data.kcg.gov.tw/File/DirectDownload/844df557-0f78-4cc7-850b-dc89b8d8efa8"
+      ]
+    },
+    {
+      "id": "138865",
+      "name": "109年土地增值稅增繳地價稅抵繳稅額-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2954ab4a-e5d9-4d57-ba33-dc2d55c1e770",
+        "https://data.kcg.gov.tw/File/DirectDownload/2954ab4a-e5d9-4d57-ba33-dc2d55c1e770"
+      ]
+    },
+    {
+      "id": "138866",
+      "name": "109年土地增值稅查定稅額-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c44ad52d-5120-46b5-8f99-1f7e3c5da85e",
+        "https://data.kcg.gov.tw/File/DirectDownload/c44ad52d-5120-46b5-8f99-1f7e3c5da85e"
+      ]
+    },
+    {
+      "id": "138869",
+      "name": "109年土地增值稅調整後原規定地價或前次移轉現值-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dab8bb74-e4b3-435d-9a0e-08dd1463bf60",
+        "https://data.kcg.gov.tw/File/DirectDownload/dab8bb74-e4b3-435d-9a0e-08dd1463bf60"
+      ]
+    },
+    {
+      "id": "138870",
+      "name": "109年土地增值稅移轉現值-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/be8bcf39-f0bc-434d-841b-dff59645e213",
+        "https://data.kcg.gov.tw/File/DirectDownload/be8bcf39-f0bc-434d-841b-dff59645e213"
+      ]
+    },
+    {
+      "id": "138871",
+      "name": "109年土地增值稅移轉面積-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5897c699-6ebd-437d-8a81-ee02eb805470",
+        "https://data.kcg.gov.tw/File/DirectDownload/5897c699-6ebd-437d-8a81-ee02eb805470"
+      ]
+    },
+    {
+      "id": "138878",
+      "name": "109年土地增值稅改良土地費用-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dcb201fa-91a6-4824-98dd-fbe729c9dd0a",
+        "https://data.kcg.gov.tw/File/DirectDownload/dcb201fa-91a6-4824-98dd-fbe729c9dd0a"
+      ]
+    },
+    {
+      "id": "138882",
+      "name": "109年土地增值稅移轉筆數-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8651a2fe-80e9-49f3-b626-93ee955d423c",
+        "https://data.kcg.gov.tw/File/DirectDownload/8651a2fe-80e9-49f3-b626-93ee955d423c"
+      ]
+    },
+    {
+      "id": "139687",
+      "name": "109年各項稅收季節變動指數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0409fb37-0d9d-4df1-9cc4-0e171d071824",
+        "https://data.kcg.gov.tw/File/DirectDownload/0409fb37-0d9d-4df1-9cc4-0e171d071824"
+      ]
+    },
+    {
+      "id": "139688",
+      "name": "109年高雄市稅捐稽徵處歲出預算執行率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9c6b52cb-8cfe-4e1e-87e6-af8c5408211d",
+        "https://data.kcg.gov.tw/File/DirectDownload/9c6b52cb-8cfe-4e1e-87e6-af8c5408211d"
+      ]
+    },
+    {
+      "id": "139690",
+      "name": "109各項稅捐查定數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c0ce026b-6538-4818-b2c0-2bdb7eb4a3c9",
+        "https://data.kcg.gov.tw/File/DirectDownload/c0ce026b-6538-4818-b2c0-2bdb7eb4a3c9"
+      ]
+    },
+    {
+      "id": "139655",
+      "name": "109年各項稅捐實徵淨額環比指數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/96975dd8-219c-4f15-b9b0-8c88d36731a9",
+        "https://data.kcg.gov.tw/File/DirectDownload/96975dd8-219c-4f15-b9b0-8c88d36731a9"
+      ]
+    },
+    {
+      "id": "139030",
+      "name": "109年契稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0fd48ded-89d0-4d41-9a70-490d4fbd2c0e",
+        "https://data.kcg.gov.tw/File/DirectDownload/0fd48ded-89d0-4d41-9a70-490d4fbd2c0e"
+      ]
+    },
+    {
+      "id": "139032",
+      "name": "109年房屋稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2b417994-da8b-4432-abee-9ba4a9bb7a2d",
+        "https://data.kcg.gov.tw/File/DirectDownload/2b417994-da8b-4432-abee-9ba4a9bb7a2d"
+      ]
+    },
+    {
+      "id": "139040",
+      "name": "109年各項稅捐實徵淨額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/84cd1962-04eb-49e2-b4ca-37f0e3d31556",
+        "https://data.kcg.gov.tw/File/DirectDownload/84cd1962-04eb-49e2-b4ca-37f0e3d31556"
+      ]
+    },
+    {
+      "id": "143118",
+      "name": "各年度土地增值稅減徵稅額-按移轉原因別34",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/17dd7483-07ff-409b-bfdd-cded05ad3acd",
+        "https://data.kcg.gov.tw/File/DirectDownload/17dd7483-07ff-409b-bfdd-cded05ad3acd"
+      ]
+    },
+    {
+      "id": "143126",
+      "name": "各年度土地增值稅減徵稅額-按稅率別24",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e4a6d74f-29c4-4d68-a75a-3b12d577685e",
+        "https://data.kcg.gov.tw/File/DirectDownload/e4a6d74f-29c4-4d68-a75a-3b12d577685e"
+      ]
+    },
+    {
+      "id": "143077",
+      "name": "各年度高雄市稅捐稽徵處歲出預算執行率79",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3a3426ac-89cf-4e50-9828-349cb9296f6b",
+        "https://data.kcg.gov.tw/File/DirectDownload/3a3426ac-89cf-4e50-9828-349cb9296f6b"
+      ]
+    },
+    {
+      "id": "143078",
+      "name": "各年度高雄市稅捐稽徵處歲出決算數78",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9e381277-1cb8-4741-8c54-a0895a8308f0",
+        "https://data.kcg.gov.tw/File/DirectDownload/9e381277-1cb8-4741-8c54-a0895a8308f0"
+      ]
+    },
+    {
+      "id": "157251",
+      "name": "各年度地價稅課稅地價12",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/51a2d4ee-890f-42d7-8e09-8c3addfd651d",
+        "https://data.kcg.gov.tw/File/DirectDownload/51a2d4ee-890f-42d7-8e09-8c3addfd651d"
+      ]
+    },
+    {
+      "id": "157252",
+      "name": "各年度全功能服務櫃台辦理件數80",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1330d41b-9d56-466f-a024-9d52ed00028f",
+        "https://data.kcg.gov.tw/File/DirectDownload/1330d41b-9d56-466f-a024-9d52ed00028f"
+      ]
+    },
+    {
+      "id": "148355",
+      "name": "110年娛樂稅查定及申報家數-按來源別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a873fc85-6c62-4755-938c-6ac15280f456",
+        "https://data.kcg.gov.tw/File/DirectDownload/a873fc85-6c62-4755-938c-6ac15280f456"
+      ]
+    },
+    {
+      "id": "148339",
+      "name": "110年娛樂稅實徵淨額-按來源別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ad1a26e0-2e3d-4a2f-9fac-5b8277ed8932",
+        "https://data.kcg.gov.tw/File/DirectDownload/ad1a26e0-2e3d-4a2f-9fac-5b8277ed8932"
+      ]
+    },
+    {
+      "id": "148340",
+      "name": "110年印花稅徵收稅額-按來源別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6b974e6f-5582-4abe-ba1e-232aea5a95c2",
+        "https://data.kcg.gov.tw/File/DirectDownload/6b974e6f-5582-4abe-ba1e-232aea5a95c2"
+      ]
+    },
+    {
+      "id": "148344",
+      "name": "110年多元繳稅方式使用牌照稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1d03d179-ae28-4c6b-8b96-5c30d552051f",
+        "https://data.kcg.gov.tw/File/DirectDownload/1d03d179-ae28-4c6b-8b96-5c30d552051f"
+      ]
+    },
+    {
+      "id": "148347",
+      "name": "110年多元繳稅方式土地增值稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cfaaf29c-2f51-4773-ba86-2b91180e7430",
+        "https://data.kcg.gov.tw/File/DirectDownload/cfaaf29c-2f51-4773-ba86-2b91180e7430"
+      ]
+    },
+    {
+      "id": "148352",
+      "name": "110年多元繳稅方式地價稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f289ad38-e7b5-4a74-babd-f9cfa0e17bf3",
+        "https://data.kcg.gov.tw/File/DirectDownload/f289ad38-e7b5-4a74-babd-f9cfa0e17bf3"
+      ]
+    },
+    {
+      "id": "143284",
+      "name": "109年大寮分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3d3e9be-a62d-4446-b3e0-0134fae1ca13",
+        "https://data.kcg.gov.tw/File/DirectDownload/a3d3e9be-a62d-4446-b3e0-0134fae1ca13"
+      ]
+    },
+    {
+      "id": "143285",
+      "name": "109年仁武分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f6aeb7ce-112b-4593-aff7-dead6c0ad833",
+        "https://data.kcg.gov.tw/File/DirectDownload/f6aeb7ce-112b-4593-aff7-dead6c0ad833"
+      ]
+    },
+    {
+      "id": "143286",
+      "name": "109年岡山分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/65b51448-d08c-463c-8979-4e03848db98e",
+        "https://data.kcg.gov.tw/File/DirectDownload/65b51448-d08c-463c-8979-4e03848db98e"
+      ]
+    },
+    {
+      "id": "143287",
+      "name": "109年旗山分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f776416-9ed9-4080-9537-7691f8e44959",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f776416-9ed9-4080-9537-7691f8e44959"
+      ]
+    },
+    {
+      "id": "143291",
+      "name": "109年小港分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2bc672a3-34a9-46ce-a7a5-4cd8beb11f80",
+        "https://data.kcg.gov.tw/File/DirectDownload/2bc672a3-34a9-46ce-a7a5-4cd8beb11f80"
+      ]
+    },
+    {
+      "id": "143293",
+      "name": "109年左營分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5215c6a8-da24-4197-a816-3d01c319fbcc",
+        "https://data.kcg.gov.tw/File/DirectDownload/5215c6a8-da24-4197-a816-3d01c319fbcc"
+      ]
+    },
+    {
+      "id": "156492",
+      "name": "110年楠梓分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e39a8eae-19f4-4d01-8bcc-7a63c792e4c4",
+        "https://data.kcg.gov.tw/File/DirectDownload/e39a8eae-19f4-4d01-8bcc-7a63c792e4c4"
+      ]
+    },
+    {
+      "id": "156493",
+      "name": "110年小港分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d78ed172-a205-43df-a4c4-e36f39916f33",
+        "https://data.kcg.gov.tw/File/DirectDownload/d78ed172-a205-43df-a4c4-e36f39916f33"
+      ]
+    },
+    {
+      "id": "156494",
+      "name": "110年三民分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/130e3386-68b2-4309-83ae-a2e493837054",
+        "https://data.kcg.gov.tw/File/DirectDownload/130e3386-68b2-4309-83ae-a2e493837054"
+      ]
+    },
+    {
+      "id": "156495",
+      "name": "110年左營分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0cc2b78b-61dc-40e6-9d2a-1b40c6edf625",
+        "https://data.kcg.gov.tw/File/DirectDownload/0cc2b78b-61dc-40e6-9d2a-1b40c6edf625"
+      ]
+    },
+    {
+      "id": "156496",
+      "name": "110年鹽埕分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/867a875c-3a4a-4bac-a35f-c18aa5f09b3e",
+        "https://data.kcg.gov.tw/File/DirectDownload/867a875c-3a4a-4bac-a35f-c18aa5f09b3e"
+      ]
+    },
+    {
+      "id": "156503",
+      "name": "110年土地增值稅減徵稅額-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b9b3e7f0-2066-41d1-9b38-8a4f57fe6bed",
+        "https://data.kcg.gov.tw/File/DirectDownload/b9b3e7f0-2066-41d1-9b38-8a4f57fe6bed"
+      ]
+    },
+    {
+      "id": "156504",
+      "name": "110年土地增值稅減徵稅額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b535e40e-c7c3-477d-9204-092e8fb7de35",
+        "https://data.kcg.gov.tw/File/DirectDownload/b535e40e-c7c3-477d-9204-092e8fb7de35"
+      ]
+    },
+    {
+      "id": "156507",
+      "name": "各年度稅捐納庫數09",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/589459ef-47a8-441d-b026-86987e1893ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/589459ef-47a8-441d-b026-86987e1893ab"
+      ]
+    },
+    {
+      "id": "162999",
+      "name": "各年度各項稅捐預算數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/52f255f8-2de7-44eb-9268-29a8a7501f89",
+        "https://data.kcg.gov.tw/File/directDownload/52f255f8-2de7-44eb-9268-29a8a7501f89"
+      ]
+    },
+    {
+      "id": "147340",
+      "name": "110年地價稅減免課稅地價",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/25519d76-58b9-4ce0-9a4c-004fcf2b4af2",
+        "https://data.kcg.gov.tw/File/DirectDownload/25519d76-58b9-4ce0-9a4c-004fcf2b4af2"
+      ]
+    },
+    {
+      "id": "147341",
+      "name": "110年地價稅減免課稅面積",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1b876b0a-cc93-402c-88d7-5f1e11195df4",
+        "https://data.kcg.gov.tw/File/DirectDownload/1b876b0a-cc93-402c-88d7-5f1e11195df4"
+      ]
+    },
+    {
+      "id": "147342",
+      "name": "110年地價稅減免筆數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/541cccf1-e955-4198-a376-9089f654fbd8",
+        "https://data.kcg.gov.tw/File/DirectDownload/541cccf1-e955-4198-a376-9089f654fbd8"
+      ]
+    },
+    {
+      "id": "147344",
+      "name": "110年地價稅課稅面積",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/49190cc7-5d02-4c6c-b9b6-2341c82cecec",
+        "https://data.kcg.gov.tw/File/DirectDownload/49190cc7-5d02-4c6c-b9b6-2341c82cecec"
+      ]
+    },
+    {
+      "id": "147349",
+      "name": "各年度地價稅減免課稅面積14",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1bf4f41e-7505-4ec8-9362-da3e52566bf8",
+        "https://data.kcg.gov.tw/File/DirectDownload/1bf4f41e-7505-4ec8-9362-da3e52566bf8"
+      ]
+    },
+    {
+      "id": "147350",
+      "name": "各年度地價稅減免課稅地價15",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e860463b-b94f-45a9-9538-5650636523f0",
+        "https://data.kcg.gov.tw/File/DirectDownload/e860463b-b94f-45a9-9538-5650636523f0"
+      ]
+    },
+    {
+      "id": "151671",
+      "name": "110年特別稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d542f6ef-4648-4de8-ad10-9334fda41c27",
+        "https://data.kcg.gov.tw/File/DirectDownload/d542f6ef-4648-4de8-ad10-9334fda41c27"
+      ]
+    },
+    {
+      "id": "151672",
+      "name": "110年娛樂稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/44909cb6-42f6-494a-bfdb-ee80f3138141",
+        "https://data.kcg.gov.tw/File/DirectDownload/44909cb6-42f6-494a-bfdb-ee80f3138141"
+      ]
+    },
+    {
+      "id": "151674",
+      "name": "110年契稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bc25f0d9-b331-4cd1-81bb-2155e5b2ddb2",
+        "https://data.kcg.gov.tw/File/DirectDownload/bc25f0d9-b331-4cd1-81bb-2155e5b2ddb2"
+      ]
+    },
+    {
+      "id": "151675",
+      "name": "110年使用牌照稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58e331cc-20c2-4791-8240-3cca9ba7d01f",
+        "https://data.kcg.gov.tw/File/DirectDownload/58e331cc-20c2-4791-8240-3cca9ba7d01f"
+      ]
+    },
+    {
+      "id": "151647",
+      "name": "各年度土地增值稅移轉筆數-按稅率別16",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0223bf7c-21b6-41ba-86e1-23e81969e771",
+        "https://data.kcg.gov.tw/File/DirectDownload/0223bf7c-21b6-41ba-86e1-23e81969e771"
+      ]
+    },
+    {
+      "id": "151636",
+      "name": "各年度違章罰鍰案件更正註銷金額68",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e3ed4490-58ba-425b-a408-a9fa9136f534",
+        "https://data.kcg.gov.tw/File/DirectDownload/e3ed4490-58ba-425b-a408-a9fa9136f534"
+      ]
+    },
+    {
+      "id": "151638",
+      "name": "各年度違章罰鍰案件移送執行繳納金額70",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/32ae92ac-766f-4f43-97f7-784a8e90f68a",
+        "https://data.kcg.gov.tw/File/DirectDownload/32ae92ac-766f-4f43-97f7-784a8e90f68a"
+      ]
+    },
+    {
+      "id": "151639",
+      "name": "各年度違章罰鍰案件發給執行憑證件數71",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/974a63b4-3ebc-426e-b502-ff2a20833742",
+        "https://data.kcg.gov.tw/File/DirectDownload/974a63b4-3ebc-426e-b502-ff2a20833742"
+      ]
+    },
+    {
+      "id": "151901",
+      "name": "109年土地增值稅增繳地價稅抵繳稅額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7caf09d6-0956-48d5-b02d-b243c9f9f9da",
+        "https://data.kcg.gov.tw/File/DirectDownload/7caf09d6-0956-48d5-b02d-b243c9f9f9da"
+      ]
+    },
+    {
+      "id": "151904",
+      "name": "110年政策宣導廣告預算執行情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a20daea5-6aa4-43b0-87c1-96fb00be15cf",
+        "https://data.kcg.gov.tw/File/DirectDownload/a20daea5-6aa4-43b0-87c1-96fb00be15cf"
+      ]
+    },
+    {
+      "id": "151812",
+      "name": "各年度土地增值稅增繳地價稅抵繳稅額-按稅率別23",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3707a3e6-60bf-448e-8214-bec725ed2064",
+        "https://data.kcg.gov.tw/File/DirectDownload/3707a3e6-60bf-448e-8214-bec725ed2064"
+      ]
+    },
+    {
+      "id": "151822",
+      "name": "110年房屋稅應稅戶數-按公私有別、構造別及使用別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f126169-f37f-4576-84fd-71df6ba4587d",
+        "https://data.kcg.gov.tw/File/DirectDownload/5f126169-f37f-4576-84fd-71df6ba4587d"
+      ]
+    },
+    {
+      "id": "151786",
+      "name": "各年度房屋稅免稅面積-按公私有別及構造別40",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7f833f20-94f3-4f22-a2be-c6ff2810c78b",
+        "https://data.kcg.gov.tw/File/DirectDownload/7f833f20-94f3-4f22-a2be-c6ff2810c78b"
+      ]
+    },
+    {
+      "id": "151787",
+      "name": "各年度房屋稅免稅現值-按公私有別及構造別41",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d2cf9eca-89a1-449f-8b46-3f060f24d6ea",
+        "https://data.kcg.gov.tw/File/DirectDownload/d2cf9eca-89a1-449f-8b46-3f060f24d6ea"
+      ]
+    },
+    {
+      "id": "151788",
+      "name": "各年度使用牌照稅稽徵件數-按車種別42",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f98921ad-d7ec-4e35-bbd3-cf9ecf221ddc",
+        "https://data.kcg.gov.tw/File/directDownload/f98921ad-d7ec-4e35-bbd3-cf9ecf221ddc"
+      ]
+    },
+    {
+      "id": "151795",
+      "name": "各年度印花稅徵收稅額-按來源別46",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dd213e0e-6258-4e20-9645-9203f5914ed7",
+        "https://data.kcg.gov.tw/File/DirectDownload/dd213e0e-6258-4e20-9645-9203f5914ed7"
+      ]
+    },
+    {
+      "id": "151808",
+      "name": "各年度未徵件數-按未徵情形別59",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f5f916c-66a4-4601-bd00-dda329e49166",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f5f916c-66a4-4601-bd00-dda329e49166"
+      ]
+    },
+    {
+      "id": "132793",
+      "name": "前鎮分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bc50bfef-b721-4258-8cfb-8a9143a852e8",
+        "https://data.kcg.gov.tw/File/DirectDownload/bc50bfef-b721-4258-8cfb-8a9143a852e8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/110b5b18-328c-4c05-83cd-ef68fe2785ee",
+        "https://data.kcg.gov.tw/File/DirectDownload/110b5b18-328c-4c05-83cd-ef68fe2785ee"
+      ]
+    },
+    {
+      "id": "132794",
+      "name": "地價稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eb9e4de1-f2bd-4ef5-852d-ce6a0f832573",
+        "https://data.kcg.gov.tw/File/DirectDownload/eb9e4de1-f2bd-4ef5-852d-ce6a0f832573"
+      ]
+    },
+    {
+      "id": "132853",
+      "name": "他轄代發本機統計表關作業",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/439165f2-ce25-48f3-9810-99037410272f",
+        "https://data.kcg.gov.tw/File/DirectDownload/439165f2-ce25-48f3-9810-99037410272f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/242455ad-fd3b-4a10-a8b7-bb44111ecd94",
+        "https://data.kcg.gov.tw/File/DirectDownload/242455ad-fd3b-4a10-a8b7-bb44111ecd94"
+      ]
+    },
+    {
+      "id": "132854",
+      "name": "政策宣導廣告預算執行情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f89b1938-3118-42e9-b14d-b577d72d03e2",
+        "https://data.kcg.gov.tw/File/DirectDownload/f89b1938-3118-42e9-b14d-b577d72d03e2"
+      ]
+    },
+    {
+      "id": "132862",
+      "name": "高雄市109年至110年地價稅稅額計算公式",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4c26696e-e9bf-48be-8712-27398cc60fad",
+        "https://data.kcg.gov.tw/File/DirectDownload/4c26696e-e9bf-48be-8712-27398cc60fad",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ac7c747a-7ce9-4931-9a42-ab32029f36f9",
+        "https://data.kcg.gov.tw/File/DirectDownload/ac7c747a-7ce9-4931-9a42-ab32029f36f9"
+      ]
+    },
+    {
+      "id": "132834",
+      "name": "岡山分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a4b40581-16e7-44ba-981a-d8c49c747b88",
+        "https://data.kcg.gov.tw/File/DirectDownload/a4b40581-16e7-44ba-981a-d8c49c747b88",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c266325d-ae9b-44ed-a944-fbe095e15373",
+        "https://data.kcg.gov.tw/File/DirectDownload/c266325d-ae9b-44ed-a944-fbe095e15373"
+      ]
+    },
+    {
+      "id": "132840",
+      "name": "鹽埕分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1db54f42-5851-42c7-890c-50fc8487e878",
+        "https://data.kcg.gov.tw/File/DirectDownload/1db54f42-5851-42c7-890c-50fc8487e878"
+      ]
+    },
+    {
+      "id": "132841",
+      "name": "新興分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e3220a97-559e-4880-a696-7ba4bf110c7a",
+        "https://data.kcg.gov.tw/File/DirectDownload/e3220a97-559e-4880-a696-7ba4bf110c7a"
+      ]
+    },
+    {
+      "id": "132845",
+      "name": "使用牌照稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bd4ad3fd-889b-4a6e-853a-3266ddc39124",
+        "https://data.kcg.gov.tw/File/DirectDownload/bd4ad3fd-889b-4a6e-853a-3266ddc39124",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7c6534ef-9553-4fc8-8739-c58dda407b82",
+        "https://data.kcg.gov.tw/File/DirectDownload/7c6534ef-9553-4fc8-8739-c58dda407b82"
+      ]
+    },
+    {
+      "id": "149048",
+      "name": "110年違章罰鍰案件移送退案或撤回金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0ff5efd-56c2-44c6-8b35-0f47238b9143",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0ff5efd-56c2-44c6-8b35-0f47238b9143"
+      ]
+    },
+    {
+      "id": "149049",
+      "name": "110年違章罰鍰案件移送退案或撤回件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0e7d6ad-3f7f-4eea-b392-d0a1b12ab66e",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0e7d6ad-3f7f-4eea-b392-d0a1b12ab66e"
+      ]
+    },
+    {
+      "id": "149050",
+      "name": "110年違章罰鍰案件發給執行憑證金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f0b138f-b0cd-4dc2-aed8-308a231a573b",
+        "https://data.kcg.gov.tw/File/DirectDownload/5f0b138f-b0cd-4dc2-aed8-308a231a573b"
+      ]
+    },
+    {
+      "id": "149052",
+      "name": "110年違章罰鍰案件移送執行繳納金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/25033eee-e68e-4a13-91bf-46913461200c",
+        "https://data.kcg.gov.tw/File/DirectDownload/25033eee-e68e-4a13-91bf-46913461200c"
+      ]
+    },
+    {
+      "id": "149056",
+      "name": "110年違章罰鍰案件移送執行金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72854952-a49c-40db-83be-e5fbab282cbd",
+        "https://data.kcg.gov.tw/File/DirectDownload/72854952-a49c-40db-83be-e5fbab282cbd"
+      ]
+    },
+    {
+      "id": "149057",
+      "name": "110年違章罰鍰案件移送執行件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f09e632d-b05e-4ac8-b614-89323bf829c5",
+        "https://data.kcg.gov.tw/File/DirectDownload/f09e632d-b05e-4ac8-b614-89323bf829c5"
+      ]
+    },
+    {
+      "id": "149058",
+      "name": "110年違章漏稅案件處罰後自行繳納金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d63cf669-cb9d-44eb-9edb-2163c64b1936",
+        "https://data.kcg.gov.tw/File/DirectDownload/d63cf669-cb9d-44eb-9edb-2163c64b1936"
+      ]
+    },
+    {
+      "id": "149059",
+      "name": "110年稅捐稽徵處違章漏稅案件處罰後自行繳納件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b21620ae-8556-447c-8bb2-45d00714d04e",
+        "https://data.kcg.gov.tw/File/DirectDownload/b21620ae-8556-447c-8bb2-45d00714d04e"
+      ]
+    },
+    {
+      "id": "150776",
+      "name": "110年房屋稅免稅現值-按公私有別及構造別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7f916924-7781-4519-842c-2adf535a5a1a",
+        "https://data.kcg.gov.tw/File/DirectDownload/7f916924-7781-4519-842c-2adf535a5a1a"
+      ]
+    },
+    {
+      "id": "150777",
+      "name": "110年房屋稅免稅面積-按公私有別及構造別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6869e634-244a-45d1-b647-5903f2d88d04",
+        "https://data.kcg.gov.tw/File/DirectDownload/6869e634-244a-45d1-b647-5903f2d88d04"
+      ]
+    },
+    {
+      "id": "150778",
+      "name": "110年房屋稅免稅戶數-按公私有別及構造別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eabe4dd5-dc09-4358-80bc-1501dbad8a88",
+        "https://data.kcg.gov.tw/File/DirectDownload/eabe4dd5-dc09-4358-80bc-1501dbad8a88"
+      ]
+    },
+    {
+      "id": "150779",
+      "name": "110年房屋稅應稅現值-按公私有別、構造別及使用別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6090ec00-bf36-478e-9ea4-d76bdabf8683",
+        "https://data.kcg.gov.tw/File/DirectDownload/6090ec00-bf36-478e-9ea4-d76bdabf8683"
+      ]
+    },
+    {
+      "id": "150924",
+      "name": "110年土地增值稅漲價總數額-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b9224702-3d4b-4856-9798-c15e046b0ecc",
+        "https://data.kcg.gov.tw/File/DirectDownload/b9224702-3d4b-4856-9798-c15e046b0ecc"
+      ]
+    },
+    {
+      "id": "150926",
+      "name": "110年土地增值稅改良土地費用-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/55b8b6f7-d71b-417c-8a11-458abeced09e",
+        "https://data.kcg.gov.tw/File/DirectDownload/55b8b6f7-d71b-417c-8a11-458abeced09e"
+      ]
+    },
+    {
+      "id": "150930",
+      "name": "110年土地增值稅移轉筆數-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1d889805-b68c-4f7c-aa2c-bd69d3df2d37",
+        "https://data.kcg.gov.tw/File/DirectDownload/1d889805-b68c-4f7c-aa2c-bd69d3df2d37"
+      ]
+    },
+    {
+      "id": "150967",
+      "name": "110年未徵金額-按未徵情形別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d9b9447-7eee-4533-8635-4508eeacec59",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d9b9447-7eee-4533-8635-4508eeacec59"
+      ]
+    },
+    {
+      "id": "150968",
+      "name": "110年未徵件數-按未徵情形別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7e0c8cbc-6ad5-460e-8a42-87c84ba59b2b",
+        "https://data.kcg.gov.tw/File/DirectDownload/7e0c8cbc-6ad5-460e-8a42-87c84ba59b2b"
+      ]
+    },
+    {
+      "id": "150969",
+      "name": "110年逾核課期限金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e54260ea-161b-4f38-9cb2-cf5f69f3c388",
+        "https://data.kcg.gov.tw/File/DirectDownload/e54260ea-161b-4f38-9cb2-cf5f69f3c388"
+      ]
+    },
+    {
+      "id": "150970",
+      "name": "110年逾核課期限件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/146376a3-7298-4a68-b4c9-7059ac5be0cc",
+        "https://data.kcg.gov.tw/File/DirectDownload/146376a3-7298-4a68-b4c9-7059ac5be0cc"
+      ]
+    },
+    {
+      "id": "150971",
+      "name": "110年減免註銷金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e11ae6bc-2aca-49d7-846b-a9bdc1111075",
+        "https://data.kcg.gov.tw/File/DirectDownload/e11ae6bc-2aca-49d7-846b-a9bdc1111075"
+      ]
+    },
+    {
+      "id": "150974",
+      "name": "110年實徵件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ba145f4-8e1a-496b-a687-f0a733926025",
+        "https://data.kcg.gov.tw/File/DirectDownload/7ba145f4-8e1a-496b-a687-f0a733926025"
+      ]
+    },
+    {
+      "id": "139332",
+      "name": "109各項稅捐徵課費用",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/321ef08a-5327-42da-93c9-2e457335d1df",
+        "https://data.kcg.gov.tw/File/DirectDownload/321ef08a-5327-42da-93c9-2e457335d1df"
+      ]
+    },
+    {
+      "id": "139957",
+      "name": "109年高雄市稅捐稽徵處歲出決算數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e19a246d-4d68-4d22-aa75-59f2ce50a909",
+        "https://data.kcg.gov.tw/File/DirectDownload/e19a246d-4d68-4d22-aa75-59f2ce50a909"
+      ]
+    },
+    {
+      "id": "147827",
+      "name": "110年各項稅捐實徵淨額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72a799b5-f8e6-4bb1-93c0-e8c9ba12acb7",
+        "https://data.kcg.gov.tw/File/DirectDownload/72a799b5-f8e6-4bb1-93c0-e8c9ba12acb7"
+      ]
+    },
+    {
+      "id": "147540",
+      "name": "110年各項稅捐預算數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aa313a93-29cf-421f-9ff3-1c38d47fd8ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/aa313a93-29cf-421f-9ff3-1c38d47fd8ff"
+      ]
+    },
+    {
+      "id": "147544",
+      "name": "110年使用牌照稅稽徵件數-按車種別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8e413ae6-09b7-4fb2-8271-2075c4f5050e",
+        "https://data.kcg.gov.tw/File/DirectDownload/8e413ae6-09b7-4fb2-8271-2075c4f5050e"
+      ]
+    },
+    {
+      "id": "147546",
+      "name": "110年跨區繼承查欠",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b33617cb-a16b-465a-b5c3-ab36eb219bae",
+        "https://data.kcg.gov.tw/File/directDownload/b33617cb-a16b-465a-b5c3-ab36eb219bae"
+      ]
+    },
+    {
+      "id": "147553",
+      "name": "109年房屋稅開徵概況--按納稅義務人性別現值分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d161a9d7-3719-4b99-84cf-e9f01094a09e",
+        "https://data.kcg.gov.tw/File/DirectDownload/d161a9d7-3719-4b99-84cf-e9f01094a09e"
+      ]
+    },
+    {
+      "id": "147556",
+      "name": "109年房屋稅開徵概況--按納稅義務人性別面積分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/287f59c9-8dd3-4ee7-875a-b6699337b51c",
+        "https://data.kcg.gov.tw/File/DirectDownload/287f59c9-8dd3-4ee7-875a-b6699337b51c"
+      ]
+    },
+    {
+      "id": "147557",
+      "name": "109年地價稅開徵概況--按納稅義務人性別查定稅額分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a67fd13-2f51-4d0b-bc89-1e139052e6e0",
+        "https://data.kcg.gov.tw/File/DirectDownload/6a67fd13-2f51-4d0b-bc89-1e139052e6e0"
+      ]
+    },
+    {
+      "id": "86618",
+      "name": "高雄市土地增值稅改良土地費用-按移轉原因別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/805193ba-604d-412f-9553-6d9d0c2cfb69",
+        "https://data.kcg.gov.tw/File/DirectDownload/805193ba-604d-412f-9553-6d9d0c2cfb69"
+      ]
+    },
+    {
+      "id": "86620",
+      "name": "高雄市土地增值稅移轉面積-按移轉原因別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b89c84b1-44b5-465f-bb0b-b6bedaea1627",
+        "https://data.kcg.gov.tw/File/DirectDownload/b89c84b1-44b5-465f-bb0b-b6bedaea1627"
+      ]
+    },
+    {
+      "id": "86621",
+      "name": "高雄市土地增值稅移轉筆數-按移轉原因別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7cdf8ff1-2ffd-4f5a-a712-f333451e4110",
+        "https://data.kcg.gov.tw/File/DirectDownload/7cdf8ff1-2ffd-4f5a-a712-f333451e4110"
+      ]
+    },
+    {
+      "id": "86624",
+      "name": "高雄市土地增值稅查定稅額-按稅率別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/77d397f1-b8a7-4523-8aeb-d2ac545cd815",
+        "https://data.kcg.gov.tw/File/DirectDownload/77d397f1-b8a7-4523-8aeb-d2ac545cd815"
+      ]
+    },
+    {
+      "id": "86630",
+      "name": "高雄市地價稅減免課稅地價-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/54c09f42-7f5a-437e-abef-7618aa220d4c",
+        "https://data.kcg.gov.tw/File/DirectDownload/54c09f42-7f5a-437e-abef-7618aa220d4c"
+      ]
+    },
+    {
+      "id": "86634",
+      "name": "高雄市地價稅課稅面積-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/19ad3b2b-4e1c-4970-8991-5762a8bf551e",
+        "https://data.kcg.gov.tw/File/DirectDownload/19ad3b2b-4e1c-4970-8991-5762a8bf551e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2bf08b20-f0dc-424b-9c97-e2b75d3847b5",
+        "https://data.kcg.gov.tw/File/DirectDownload/2bf08b20-f0dc-424b-9c97-e2b75d3847b5"
+      ]
+    },
+    {
+      "id": "86639",
+      "name": "高雄市各項稅捐實徵淨額基比指數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f270b640-02eb-40ed-a7ea-0a1868deebab",
+        "https://data.kcg.gov.tw/File/DirectDownload/f270b640-02eb-40ed-a7ea-0a1868deebab",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0920f9bd-295a-4716-ab49-a12d12d51ecc",
+        "https://data.kcg.gov.tw/File/DirectDownload/0920f9bd-295a-4716-ab49-a12d12d51ecc"
+      ]
+    },
+    {
+      "id": "86640",
+      "name": "高雄市各項稅捐實徵淨額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/893019c9-579b-47be-8027-8c5d848270ea",
+        "https://data.kcg.gov.tw/File/DirectDownload/893019c9-579b-47be-8027-8c5d848270ea"
+      ]
+    },
+    {
+      "id": "86641",
+      "name": "高雄市各項稅捐退還以前年度歲入款-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c7c9bc4f-3858-44d5-9853-9f8ad02a6f9f",
+        "https://data.kcg.gov.tw/File/DirectDownload/c7c9bc4f-3858-44d5-9853-9f8ad02a6f9f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6e8ee7ad-a06e-41e6-989d-a3245b36904a",
+        "https://data.kcg.gov.tw/File/DirectDownload/6e8ee7ad-a06e-41e6-989d-a3245b36904a"
+      ]
+    },
+    {
+      "id": "86643",
+      "name": "高雄市各項稅捐查定數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d99e9e5c-abdb-4ce0-a747-20d767368a57",
+        "https://data.kcg.gov.tw/File/DirectDownload/d99e9e5c-abdb-4ce0-a747-20d767368a57"
+      ]
+    },
+    {
+      "id": "86644",
+      "name": "高雄市各項稅捐預算數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4b5743ef-48b4-47e8-9242-54735b86e24e",
+        "https://data.kcg.gov.tw/File/DirectDownload/4b5743ef-48b4-47e8-9242-54735b86e24e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/15b795b7-9fcd-448f-8ab8-ffcd5057ec0e",
+        "https://data.kcg.gov.tw/File/DirectDownload/15b795b7-9fcd-448f-8ab8-ffcd5057ec0e"
+      ]
+    },
+    {
+      "id": "86735",
+      "name": "高雄市稅捐稽徵處歲出預算執行率-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f780e819-4de7-4dec-875a-16fa4894588b",
+        "https://data.kcg.gov.tw/File/DirectDownload/f780e819-4de7-4dec-875a-16fa4894588b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/497e078e-e366-4e87-92be-54d8b94be20f",
+        "https://data.kcg.gov.tw/File/DirectDownload/497e078e-e366-4e87-92be-54d8b94be20f"
+      ]
+    },
+    {
+      "id": "86738",
+      "name": "高雄市稅捐稽徵處歲出預算數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0743560-4562-4036-997b-ab18b13180fc",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0743560-4562-4036-997b-ab18b13180fc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8e165dca-4d6a-4b78-9dd8-cd2e83fe0760",
+        "https://data.kcg.gov.tw/File/DirectDownload/8e165dca-4d6a-4b78-9dd8-cd2e83fe0760"
+      ]
+    },
+    {
+      "id": "86739",
+      "name": "高雄市稅捐稽徵處各項稅捐徵課成本-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9427000f-60ef-4b9d-9544-27e850ff1d69",
+        "https://data.kcg.gov.tw/File/DirectDownload/9427000f-60ef-4b9d-9544-27e850ff1d69",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a34eed92-8c03-4ae0-8273-bb09f489a928",
+        "https://data.kcg.gov.tw/File/DirectDownload/a34eed92-8c03-4ae0-8273-bb09f489a928"
+      ]
+    },
+    {
+      "id": "86741",
+      "name": "高雄市稅捐稽徵處違章罰鍰案件移送退案或撤回金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ef5708e7-6ec5-4ca1-85b1-66c08c6c09a1",
+        "https://data.kcg.gov.tw/File/DirectDownload/ef5708e7-6ec5-4ca1-85b1-66c08c6c09a1"
+      ]
+    },
+    {
+      "id": "86769",
+      "name": "高雄市契稅查定件數-按契別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/db6ef5b3-ca5d-4e87-9604-00d1be214b41",
+        "https://data.kcg.gov.tw/File/DirectDownload/db6ef5b3-ca5d-4e87-9604-00d1be214b41",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/21e2a6e3-fb6d-4fbd-8fa0-92ca1a963c91",
+        "https://data.kcg.gov.tw/File/DirectDownload/21e2a6e3-fb6d-4fbd-8fa0-92ca1a963c91"
+      ]
+    },
+    {
+      "id": "86771",
+      "name": "高雄市使用牌照稅稽徵件數-按車種別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/503715ab-541f-4c78-9dd5-ade3d3bb3086",
+        "https://data.kcg.gov.tw/File/DirectDownload/503715ab-541f-4c78-9dd5-ade3d3bb3086"
+      ]
+    },
+    {
+      "id": "86773",
+      "name": "高雄市房屋稅免稅面積-按公私有別及構造別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3a68d24-8cf9-472b-9cfb-8288da9f4dea",
+        "https://data.kcg.gov.tw/File/DirectDownload/a3a68d24-8cf9-472b-9cfb-8288da9f4dea"
+      ]
+    },
+    {
+      "id": "86780",
+      "name": "高雄市土地增值稅查定稅額-按移轉原因別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/046bf7cc-e33d-4df8-bfde-bd1e3913eeed",
+        "https://data.kcg.gov.tw/File/DirectDownload/046bf7cc-e33d-4df8-bfde-bd1e3913eeed"
+      ]
+    },
+    {
+      "id": "86749",
+      "name": "高雄市稅捐稽徵處違章罰鍰案件移送執行金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6d2e7cb8-e3d8-447b-90de-0acc8283bca5",
+        "https://data.kcg.gov.tw/File/DirectDownload/6d2e7cb8-e3d8-447b-90de-0acc8283bca5"
+      ]
+    },
+    {
+      "id": "86750",
+      "name": "高雄市稅捐稽徵處違章罰鍰案件移送執行件數-107",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b9910a4f-113c-4f65-b127-5b0cb6a484bd",
+        "https://data.kcg.gov.tw/File/DirectDownload/b9910a4f-113c-4f65-b127-5b0cb6a484bd"
+      ]
+    },
+    {
+      "id": "86754",
+      "name": "高雄市稅捐稽徵處違章漏稅案件受理件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/233c5f3f-1e38-4b8b-a998-1f45f0e71ec7",
+        "https://data.kcg.gov.tw/File/DirectDownload/233c5f3f-1e38-4b8b-a998-1f45f0e71ec7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fa1948a2-8cf2-4077-93fe-95adc0bd8117",
+        "https://data.kcg.gov.tw/File/DirectDownload/fa1948a2-8cf2-4077-93fe-95adc0bd8117"
+      ]
+    },
+    {
+      "id": "86758",
+      "name": "高雄市稅捐稽徵處逾核課期限件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/201be887-6504-4b8e-a452-2b39d44a64fb",
+        "https://data.kcg.gov.tw/File/DirectDownload/201be887-6504-4b8e-a452-2b39d44a64fb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6e00b543-65fc-4629-abbc-4acf76026e60",
+        "https://data.kcg.gov.tw/File/DirectDownload/6e00b543-65fc-4629-abbc-4acf76026e60"
+      ]
+    },
+    {
+      "id": "86766",
+      "name": "高雄市娛樂稅查定及申報家數-按來源別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0edf1f9a-7076-438c-93c4-01b247022f46",
+        "https://data.kcg.gov.tw/File/DirectDownload/0edf1f9a-7076-438c-93c4-01b247022f46",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/358d7bc0-a2e2-4ae1-8abf-8ab5957693a0",
+        "https://data.kcg.gov.tw/File/DirectDownload/358d7bc0-a2e2-4ae1-8abf-8ab5957693a0"
+      ]
+    },
+    {
+      "id": "86767",
+      "name": "高雄市印花稅徵收稅額-按來源別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d905192-7842-43bf-9ebc-11eb5cc58ffc",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d905192-7842-43bf-9ebc-11eb5cc58ffc"
+      ]
+    },
+    {
+      "id": "43894",
+      "name": "高雄市稅捐稽徵處聯絡資訊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/96b2144b-67e5-4e0f-952e-f507c1116388",
+        "https://data.kcg.gov.tw/File/DirectDownload/96b2144b-67e5-4e0f-952e-f507c1116388"
+      ]
+    },
+    {
+      "id": "104380",
+      "name": "高雄市地價稅開徵概況--按納稅義務人性別地價分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9d7da56d-55d4-4c0b-b5fe-670606de7c24",
+        "https://data.kcg.gov.tw/File/DirectDownload/9d7da56d-55d4-4c0b-b5fe-670606de7c24"
+      ]
+    },
+    {
+      "id": "104382",
+      "name": "高雄市大客車及貨車使用牌照稅稅額表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ac86fbf-f308-40a9-a266-8bd3dab9cea2",
+        "https://data.kcg.gov.tw/File/DirectDownload/7ac86fbf-f308-40a9-a266-8bd3dab9cea2"
+      ]
+    },
+    {
+      "id": "104383",
+      "name": "高雄市小客車使用牌照稅稅額表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/47374b4f-b4ad-452e-8ba6-3c8f0e350a11",
+        "https://data.kcg.gov.tw/File/DirectDownload/47374b4f-b4ad-452e-8ba6-3c8f0e350a11",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a244aa7d-ff62-4794-bebd-912b6b05cabc",
+        "https://data.kcg.gov.tw/File/DirectDownload/a244aa7d-ff62-4794-bebd-912b6b05cabc"
+      ]
+    },
+    {
+      "id": "104384",
+      "name": "高雄市機車使用牌照稅稅額表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1c7cccee-bf6e-49d3-8731-480723ed4367",
+        "https://data.kcg.gov.tw/File/DirectDownload/1c7cccee-bf6e-49d3-8731-480723ed4367"
+      ]
+    },
+    {
+      "id": "104386",
+      "name": "高雄市完全以電能為動力之電動大客車使用牌照稅稅額表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cbf200c6-9229-43d1-92d1-78744909622a",
+        "https://data.kcg.gov.tw/File/DirectDownload/cbf200c6-9229-43d1-92d1-78744909622a"
+      ]
+    },
+    {
+      "id": "104360",
+      "name": "高雄市多元繳稅方式娛樂稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/257f030b-bf4b-413d-bb75-32fcd542e278",
+        "https://data.kcg.gov.tw/File/DirectDownload/257f030b-bf4b-413d-bb75-32fcd542e278",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/26552d99-0fe6-40b7-b6ca-908660e654be",
+        "https://data.kcg.gov.tw/File/DirectDownload/26552d99-0fe6-40b7-b6ca-908660e654be"
+      ]
+    },
+    {
+      "id": "104361",
+      "name": "高雄市多元繳稅方式契稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/23f65b4f-4848-4fd1-9e58-a4a85b42a229",
+        "https://data.kcg.gov.tw/File/DirectDownload/23f65b4f-4848-4fd1-9e58-a4a85b42a229"
+      ]
+    },
+    {
+      "id": "104367",
+      "name": "高雄市多元繳稅方式娛樂稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aaca3187-ed25-48b7-82af-a923d2e9d572",
+        "https://data.kcg.gov.tw/File/DirectDownload/aaca3187-ed25-48b7-82af-a923d2e9d572",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ea663538-6a80-4dc0-a343-dc0aba967aec",
+        "https://data.kcg.gov.tw/File/DirectDownload/ea663538-6a80-4dc0-a343-dc0aba967aec"
+      ]
+    },
+    {
+      "id": "104369",
+      "name": "高雄市多元繳稅方式印花稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8d6c7c13-6fab-4ea3-88e5-9e3b4a16f3c1",
+        "https://data.kcg.gov.tw/File/DirectDownload/8d6c7c13-6fab-4ea3-88e5-9e3b4a16f3c1"
+      ]
+    },
+    {
+      "id": "104371",
+      "name": "高雄市多元繳稅方式契稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bab025ac-2157-402b-9157-5004f15ede26",
+        "https://data.kcg.gov.tw/File/DirectDownload/bab025ac-2157-402b-9157-5004f15ede26"
+      ]
+    },
+    {
+      "id": "104372",
+      "name": "高雄市多元繳稅方式地價稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f5db2f86-9ea9-4abc-9bfe-5272c4e65400",
+        "https://data.kcg.gov.tw/File/DirectDownload/f5db2f86-9ea9-4abc-9bfe-5272c4e65400"
+      ]
+    },
+    {
+      "id": "104376",
+      "name": "高雄市房屋稅開徵概況--按納稅義務人性別面積分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f682cd8-15c4-4650-abeb-fd8ede386ea4",
+        "https://data.kcg.gov.tw/File/DirectDownload/0f682cd8-15c4-4650-abeb-fd8ede386ea4"
+      ]
+    },
+    {
+      "id": "106071",
+      "name": "各年度逾徵收期限金額56",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c53c8e2b-9443-4c04-abb6-9b99fdd0d75c",
+        "https://data.kcg.gov.tw/File/DirectDownload/c53c8e2b-9443-4c04-abb6-9b99fdd0d75c"
+      ]
+    },
+    {
+      "id": "106078",
+      "name": "各年度違章漏稅案件處罰後自行繳納件數63",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/552fcc52-8e8b-45c4-9f65-3f0510e152c4",
+        "https://data.kcg.gov.tw/File/DirectDownload/552fcc52-8e8b-45c4-9f65-3f0510e152c4"
+      ]
+    },
+    {
+      "id": "106049",
+      "name": "各年度土地增值稅應納稅額-按移轉原因別35",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/75b2f141-e2a1-49ac-9875-790201b8e6ec",
+        "https://data.kcg.gov.tw/File/DirectDownload/75b2f141-e2a1-49ac-9875-790201b8e6ec"
+      ]
+    },
+    {
+      "id": "127791",
+      "name": "高雄市各稅行動支付件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c1dcad28-2957-4733-8f81-32d5106d66b9",
+        "https://data.kcg.gov.tw/File/DirectDownload/c1dcad28-2957-4733-8f81-32d5106d66b9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c16c270d-d06d-425d-b057-7573045efed1",
+        "https://data.kcg.gov.tw/File/DirectDownload/c16c270d-d06d-425d-b057-7573045efed1"
+      ]
+    },
+    {
+      "id": "132849",
+      "name": "跨區繼承查欠",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9e270cf8-8302-443c-9ee8-f8661b6576f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/9e270cf8-8302-443c-9ee8-f8661b6576f3"
+      ]
+    },
+    {
+      "id": "132850",
+      "name": "跨區服務件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f27184d7-f95a-4bea-9747-f828a7b26178",
+        "https://data.kcg.gov.tw/File/DirectDownload/f27184d7-f95a-4bea-9747-f828a7b26178"
+      ]
+    },
+    {
+      "id": "132857",
+      "name": "遠距視訊窗口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0d1a99ab-937c-4331-9ab3-04a673a9aedd",
+        "https://data.kcg.gov.tw/File/DirectDownload/0d1a99ab-937c-4331-9ab3-04a673a9aedd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5c7e7167-66c9-4844-8f20-1481f90597ce",
+        "https://data.kcg.gov.tw/File/DirectDownload/5c7e7167-66c9-4844-8f20-1481f90597ce"
+      ]
+    },
+    {
+      "id": "132858",
+      "name": "高雄市房屋路線地段等級表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/512a3cc1-fbf0-46a0-bea2-699c75a84995",
+        "https://data.kcg.gov.tw/File/DirectDownload/512a3cc1-fbf0-46a0-bea2-699c75a84995"
+      ]
+    },
+    {
+      "id": "132860",
+      "name": "高雄市一般房屋標準單價表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fb13fd4f-e9f9-4a90-8b52-7260174dbd17",
+        "https://data.kcg.gov.tw/File/DirectDownload/fb13fd4f-e9f9-4a90-8b52-7260174dbd17"
+      ]
+    },
+    {
+      "id": "132861",
+      "name": "高雄市三十一層以上超高大樓房屋標準單價表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/81ec9760-c29c-4395-8e14-d1f0bbde5d49",
+        "https://data.kcg.gov.tw/File/DirectDownload/81ec9760-c29c-4395-8e14-d1f0bbde5d49"
+      ]
+    },
+    {
+      "id": "132833",
+      "name": "仁武分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/29ee9513-d958-41ec-815c-b32423a834ba",
+        "https://data.kcg.gov.tw/File/DirectDownload/29ee9513-d958-41ec-815c-b32423a834ba"
+      ]
+    },
+    {
+      "id": "132835",
+      "name": "旗山分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/56bfb480-0f54-4532-b79f-0b7019036af4",
+        "https://data.kcg.gov.tw/File/DirectDownload/56bfb480-0f54-4532-b79f-0b7019036af4"
+      ]
+    },
+    {
+      "id": "132836",
+      "name": "楠梓分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3bed9e47-ee46-4881-a068-11d9671dedd9",
+        "https://data.kcg.gov.tw/File/DirectDownload/3bed9e47-ee46-4881-a068-11d9671dedd9"
+      ]
+    },
+    {
+      "id": "132842",
+      "name": "特別稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ad0ac5dd-f9be-4264-bf23-415d6a355b42",
+        "https://data.kcg.gov.tw/File/DirectDownload/ad0ac5dd-f9be-4264-bf23-415d6a355b42"
+      ]
+    },
+    {
+      "id": "132844",
+      "name": "契稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/51a42b41-ea7c-481f-afbf-1b61fbc3c9c4",
+        "https://data.kcg.gov.tw/File/DirectDownload/51a42b41-ea7c-481f-afbf-1b61fbc3c9c4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4fcd36a2-89ca-481e-a187-f438f91a79fd",
+        "https://data.kcg.gov.tw/File/DirectDownload/4fcd36a2-89ca-481e-a187-f438f91a79fd"
+      ]
+    },
+    {
+      "id": "132847",
+      "name": "土地增值稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b8839c5b-ad6d-4237-9845-358b27656f87",
+        "https://data.kcg.gov.tw/File/DirectDownload/b8839c5b-ad6d-4237-9845-358b27656f87"
+      ]
+    },
+    {
+      "id": "132848",
+      "name": "跨機關合作統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c6b0f98d-3f50-46a2-a245-dbc2c16478e1",
+        "https://data.kcg.gov.tw/File/DirectDownload/c6b0f98d-3f50-46a2-a245-dbc2c16478e1"
+      ]
+    },
+    {
+      "id": "151548",
+      "name": "110年土地增值稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/881a19ee-7e74-42f2-ba0d-64f4fcdba05a",
+        "https://data.kcg.gov.tw/File/DirectDownload/881a19ee-7e74-42f2-ba0d-64f4fcdba05a"
+      ]
+    },
+    {
+      "id": "151549",
+      "name": "110年地價稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/626e5b80-7c34-4b3b-92fc-c12e27e747b4",
+        "https://data.kcg.gov.tw/File/DirectDownload/626e5b80-7c34-4b3b-92fc-c12e27e747b4"
+      ]
+    },
+    {
+      "id": "151550",
+      "name": "110年各項稅捐徵課成本",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aec89e94-38da-41a1-8254-2be46c3b23e1",
+        "https://data.kcg.gov.tw/File/DirectDownload/aec89e94-38da-41a1-8254-2be46c3b23e1"
+      ]
+    },
+    {
+      "id": "151649",
+      "name": "各年度各項稅捐退還以前年度歲入款04",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ccf6a1c-0b71-44f2-b8a2-50f474082ee7",
+        "https://data.kcg.gov.tw/File/directDownload/7ccf6a1c-0b71-44f2-b8a2-50f474082ee7"
+      ]
+    },
+    {
+      "id": "151673",
+      "name": "110年印花稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a36e992-cf56-4c75-89af-69f3285b4b22",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a36e992-cf56-4c75-89af-69f3285b4b22"
+      ]
+    },
+    {
+      "id": "151634",
+      "name": "各年度違章罰鍰案件移送執行金額66",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/efb12734-746a-4e2b-962d-b0bcc5d0be7f",
+        "https://data.kcg.gov.tw/File/DirectDownload/efb12734-746a-4e2b-962d-b0bcc5d0be7f"
+      ]
+    },
+    {
+      "id": "151640",
+      "name": "各年度違章罰鍰案件發給執行憑證金額72",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3514c3e5-8252-4c5e-94b7-a976664c3ea9",
+        "https://data.kcg.gov.tw/File/DirectDownload/3514c3e5-8252-4c5e-94b7-a976664c3ea9"
+      ]
+    },
+    {
+      "id": "151641",
+      "name": "各年度違章罰鍰案件移送退案或撤回件數73",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a50eed2a-b98e-4894-a109-92d7919f6f19",
+        "https://data.kcg.gov.tw/File/DirectDownload/a50eed2a-b98e-4894-a109-92d7919f6f19"
+      ]
+    },
+    {
+      "id": "151642",
+      "name": "各年度違章罰鍰案件移送退案或撤回金額74",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d662c820-3c68-42de-993c-74249d38f602",
+        "https://data.kcg.gov.tw/File/DirectDownload/d662c820-3c68-42de-993c-74249d38f602"
+      ]
+    },
+    {
+      "id": "151643",
+      "name": "各年度土地增值稅移轉面積-按稅率別17",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/57ab2661-05a5-4001-9cd3-0e4257f2b5fd",
+        "https://data.kcg.gov.tw/File/DirectDownload/57ab2661-05a5-4001-9cd3-0e4257f2b5fd"
+      ]
+    },
+    {
+      "id": "151811",
+      "name": "各年度違章漏稅案件處罰後自行繳納金額64",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7370ad10-8490-4670-ae94-e8d75da7e064",
+        "https://data.kcg.gov.tw/File/DirectDownload/7370ad10-8490-4670-ae94-e8d75da7e064"
+      ]
+    },
+    {
+      "id": "151813",
+      "name": "各年度土地增值稅查定稅額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/437931f1-2679-4380-8bdb-d4d72f2f3346",
+        "https://data.kcg.gov.tw/File/DirectDownload/437931f1-2679-4380-8bdb-d4d72f2f3346"
+      ]
+    },
+    {
+      "id": "151815",
+      "name": "各年度土地增值稅改良土地費用-按稅率別20",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4c36e5a2-8449-44c6-912c-8a7929715ccd",
+        "https://data.kcg.gov.tw/File/DirectDownload/4c36e5a2-8449-44c6-912c-8a7929715ccd"
+      ]
+    },
+    {
+      "id": "151817",
+      "name": "各年度土地增值稅移轉現值-按稅率別18",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/45307015-e032-4ff0-8366-9bf9875b7e04",
+        "https://data.kcg.gov.tw/File/DirectDownload/45307015-e032-4ff0-8366-9bf9875b7e04"
+      ]
+    },
+    {
+      "id": "151783",
+      "name": "各年度房屋稅應稅面積-按公私有別、構造別及使用別37",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/117868f8-fcd6-42f6-8a63-b3afcd932495",
+        "https://data.kcg.gov.tw/File/DirectDownload/117868f8-fcd6-42f6-8a63-b3afcd932495"
+      ]
+    },
+    {
+      "id": "151789",
+      "name": "各年度使用牌照稅實徵淨額-按車種別43",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ab540f09-8cee-47ba-ac6f-f1931cb9b626",
+        "https://data.kcg.gov.tw/File/DirectDownload/ab540f09-8cee-47ba-ac6f-f1931cb9b626"
+      ]
+    },
+    {
+      "id": "151791",
+      "name": "各年度土地增值稅調整後原規定地價或前次移轉現值-按移轉原因別29",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0c1f9d31-9d87-49af-9cab-f099ccd966a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/0c1f9d31-9d87-49af-9cab-f099ccd966a3"
+      ]
+    },
+    {
+      "id": "151794",
+      "name": "各年度契稅查定契價-按契別45",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0dda305-9124-4f5a-a8da-392a83bc3ef8",
+        "https://data.kcg.gov.tw/File/directDownload/f0dda305-9124-4f5a-a8da-392a83bc3ef8"
+      ]
+    },
+    {
+      "id": "151804",
+      "name": "各年度土地增值稅應納稅額-按稅率別25",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f9656876-c38d-40fe-b188-8dc5677d5b8d",
+        "https://data.kcg.gov.tw/File/DirectDownload/f9656876-c38d-40fe-b188-8dc5677d5b8d"
+      ]
+    },
+    {
+      "id": "151806",
+      "name": "各年度逾核課期限件數57",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1887f2cb-43b3-441c-8faa-5b5e637e5484",
+        "https://data.kcg.gov.tw/File/DirectDownload/1887f2cb-43b3-441c-8faa-5b5e637e5484"
+      ]
+    },
+    {
+      "id": "151547",
+      "name": "110年房屋稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f83e29a9-8db1-4669-a2e1-fbe51ebfabce",
+        "https://data.kcg.gov.tw/File/DirectDownload/f83e29a9-8db1-4669-a2e1-fbe51ebfabce"
+      ]
+    },
+    {
+      "id": "151579",
+      "name": "各年度各項稅捐實徵數03",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8c0db602-d70e-4fe1-9818-60af52e6eb02",
+        "https://data.kcg.gov.tw/File/directDownload/8c0db602-d70e-4fe1-9818-60af52e6eb02"
+      ]
+    },
+    {
+      "id": "151903",
+      "name": "110年政策宣導廣告預算執行情形-本處經費",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e90b3d29-d47a-48e7-ac34-2973820bef65",
+        "https://data.kcg.gov.tw/File/DirectDownload/e90b3d29-d47a-48e7-ac34-2973820bef65"
+      ]
+    },
+    {
+      "id": "147345",
+      "name": "110年地價稅課稅戶數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1fbc9031-a01d-4d12-9886-90763fd5dc74",
+        "https://data.kcg.gov.tw/File/DirectDownload/1fbc9031-a01d-4d12-9886-90763fd5dc74"
+      ]
+    },
+    {
+      "id": "147347",
+      "name": "各年度地價稅課稅面積11",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fc8c1937-4c4e-4e63-b284-bc8bc233bd53",
+        "https://data.kcg.gov.tw/File/DirectDownload/fc8c1937-4c4e-4e63-b284-bc8bc233bd53"
+      ]
+    },
+    {
+      "id": "147348",
+      "name": "各年度地價稅減免筆數13",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bbc0e37e-a04e-4cf2-968e-065658c29b4d",
+        "https://data.kcg.gov.tw/File/DirectDownload/bbc0e37e-a04e-4cf2-968e-065658c29b4d"
+      ]
+    },
+    {
+      "id": "147538",
+      "name": "110年各項稅捐退還以前年度歲入款",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/afb0e795-98f3-481f-b2dc-c6cb4b9681af",
+        "https://data.kcg.gov.tw/File/DirectDownload/afb0e795-98f3-481f-b2dc-c6cb4b9681af"
+      ]
+    },
+    {
+      "id": "147539",
+      "name": "110年各項稅捐實徵數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ca6a3001-843e-416b-82f6-b0f9d28026d1",
+        "https://data.kcg.gov.tw/File/DirectDownload/ca6a3001-843e-416b-82f6-b0f9d28026d1"
+      ]
+    },
+    {
+      "id": "147552",
+      "name": "109年使用牌照稅開徵概況-按納稅義務人性別分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/82a676f5-3c94-4f56-adf0-8770c8e65e2d",
+        "https://data.kcg.gov.tw/File/DirectDownload/82a676f5-3c94-4f56-adf0-8770c8e65e2d"
+      ]
+    },
+    {
+      "id": "147554",
+      "name": "109年地價稅開徵概況--按納稅義務人性別面積分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2a30313d-5bc2-4da2-8429-cac1b2a76bbe",
+        "https://data.kcg.gov.tw/File/DirectDownload/2a30313d-5bc2-4da2-8429-cac1b2a76bbe"
+      ]
+    },
+    {
+      "id": "147555",
+      "name": "109年房屋稅開徵概況--按納稅義務人性別戶數分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/280dac95-dce6-4f4a-8f09-469c29ccb92d",
+        "https://data.kcg.gov.tw/File/DirectDownload/280dac95-dce6-4f4a-8f09-469c29ccb92d"
+      ]
+    },
+    {
+      "id": "147558",
+      "name": "109年地價稅開徵概況--按納稅義務人性別地價分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3c6faf5-504e-4138-9b86-52a14aa0059d",
+        "https://data.kcg.gov.tw/File/DirectDownload/a3c6faf5-504e-4138-9b86-52a14aa0059d"
+      ]
+    },
+    {
+      "id": "147559",
+      "name": "109年地價稅開徵概況--按納稅義務人性別戶數分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7bac8519-c419-4b0b-9fe6-5eb3d7f55e04",
+        "https://data.kcg.gov.tw/File/DirectDownload/7bac8519-c419-4b0b-9fe6-5eb3d7f55e04"
+      ]
+    },
+    {
+      "id": "156485",
+      "name": "各年度各項稅捐查定數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e214d600-14f2-4353-a181-c1b96c1b864e",
+        "https://data.kcg.gov.tw/File/directDownload/e214d600-14f2-4353-a181-c1b96c1b864e"
+      ]
+    },
+    {
+      "id": "156486",
+      "name": "110年大寮分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b6f94768-73e6-4e51-b716-00b23667ed09",
+        "https://data.kcg.gov.tw/File/DirectDownload/b6f94768-73e6-4e51-b716-00b23667ed09"
+      ]
+    },
+    {
+      "id": "156487",
+      "name": "110年仁武分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3b6d01c2-ebbe-4063-8dd0-9b1851be72a5",
+        "https://data.kcg.gov.tw/File/DirectDownload/3b6d01c2-ebbe-4063-8dd0-9b1851be72a5"
+      ]
+    },
+    {
+      "id": "156488",
+      "name": "110年岡山分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b1a286d7-9aa4-44a6-acd9-9c6ebdcde943",
+        "https://data.kcg.gov.tw/File/DirectDownload/b1a286d7-9aa4-44a6-acd9-9c6ebdcde943"
+      ]
+    },
+    {
+      "id": "156489",
+      "name": "110年旗山分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/32775154-8b0a-49db-aa9f-935f4f35b541",
+        "https://data.kcg.gov.tw/File/DirectDownload/32775154-8b0a-49db-aa9f-935f4f35b541"
+      ]
+    },
+    {
+      "id": "156491",
+      "name": "110年前鎮分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f862a8e5-1916-4c4a-8ac4-0ebefa0c1b3a",
+        "https://data.kcg.gov.tw/File/DirectDownload/f862a8e5-1916-4c4a-8ac4-0ebefa0c1b3a"
+      ]
+    },
+    {
+      "id": "139654",
+      "name": "109年各項稅捐實徵淨額基比指數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/18e7fe92-114f-4620-bb5e-f239e68658ce",
+        "https://data.kcg.gov.tw/File/DirectDownload/18e7fe92-114f-4620-bb5e-f239e68658ce"
+      ]
+    },
+    {
+      "id": "139689",
+      "name": "109年高雄市稅捐稽徵處歲出預算數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2a88959b-32a2-483d-b363-c4caa162db8d",
+        "https://data.kcg.gov.tw/File/DirectDownload/2a88959b-32a2-483d-b363-c4caa162db8d"
+      ]
+    },
+    {
+      "id": "138881",
+      "name": "109年土地增值稅移轉面積-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9dc2b4ad-cbad-4be3-9e0c-8c0f43248b1f",
+        "https://data.kcg.gov.tw/File/DirectDownload/9dc2b4ad-cbad-4be3-9e0c-8c0f43248b1f"
+      ]
+    },
+    {
+      "id": "138883",
+      "name": "109年地價稅減免課稅地價",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/07dbe497-0bfd-4435-ad2e-560e99f52b7b",
+        "https://data.kcg.gov.tw/File/DirectDownload/07dbe497-0bfd-4435-ad2e-560e99f52b7b"
+      ]
+    },
+    {
+      "id": "138913",
+      "name": "109年違章罰鍰案件移送執行件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b1093b9b-d8e0-4d6f-9cd8-ffd8f18b3ed8",
+        "https://data.kcg.gov.tw/File/DirectDownload/b1093b9b-d8e0-4d6f-9cd8-ffd8f18b3ed8"
+      ]
+    },
+    {
+      "id": "138914",
+      "name": "109年違章漏稅案件處罰後自行繳納金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/daf94189-bef9-4352-b852-189aa803a4c4",
+        "https://data.kcg.gov.tw/File/DirectDownload/daf94189-bef9-4352-b852-189aa803a4c4"
+      ]
+    },
+    {
+      "id": "138971",
+      "name": "109年多元繳稅方式契稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b933e53d-6c57-4f2b-9141-686d3cc9885a",
+        "https://data.kcg.gov.tw/File/DirectDownload/b933e53d-6c57-4f2b-9141-686d3cc9885a"
+      ]
+    },
+    {
+      "id": "138972",
+      "name": "109年多元繳稅方式房屋稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e4541f5b-d13e-4057-8c5a-ad3348f231f2",
+        "https://data.kcg.gov.tw/File/DirectDownload/e4541f5b-d13e-4057-8c5a-ad3348f231f2"
+      ]
+    },
+    {
+      "id": "138919",
+      "name": "109年未徵件數-按未徵情形別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3fd62a65-11b2-45fd-ae64-4ab1f9101ff4",
+        "https://data.kcg.gov.tw/File/DirectDownload/3fd62a65-11b2-45fd-ae64-4ab1f9101ff4"
+      ]
+    },
+    {
+      "id": "138921",
+      "name": "109年逾核課期限件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/53e65e01-a21e-49ae-a958-32b6771f7e2f",
+        "https://data.kcg.gov.tw/File/DirectDownload/53e65e01-a21e-49ae-a958-32b6771f7e2f"
+      ]
+    },
+    {
+      "id": "138923",
+      "name": "109年逾徵收期限件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b86a3522-72a2-44a1-964e-f67f7429f731",
+        "https://data.kcg.gov.tw/File/DirectDownload/b86a3522-72a2-44a1-964e-f67f7429f731"
+      ]
+    },
+    {
+      "id": "138924",
+      "name": "109年減免註銷金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/563292f6-9000-4fae-8bb2-22f820ca9ced",
+        "https://data.kcg.gov.tw/File/DirectDownload/563292f6-9000-4fae-8bb2-22f820ca9ced"
+      ]
+    },
+    {
+      "id": "138925",
+      "name": "109年減免註銷件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d65ce1ad-66d2-4690-858f-462a4a12f83e",
+        "https://data.kcg.gov.tw/File/DirectDownload/d65ce1ad-66d2-4690-858f-462a4a12f83e"
+      ]
+    },
+    {
+      "id": "138945",
+      "name": "109年違章罰鍰案件移送退案或撤回金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/10886944-d03f-40fc-a541-a7860efc8c07",
+        "https://data.kcg.gov.tw/File/DirectDownload/10886944-d03f-40fc-a541-a7860efc8c07"
+      ]
+    },
+    {
+      "id": "138946",
+      "name": "109年違章罰緩案件移送退案或撤回件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/490081c0-bc8c-4e69-ba37-51b098b26e3b",
+        "https://data.kcg.gov.tw/File/DirectDownload/490081c0-bc8c-4e69-ba37-51b098b26e3b"
+      ]
+    },
+    {
+      "id": "138947",
+      "name": "109年違章罰鍰案件發給執行憑證金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/687dc0c9-8b1e-421a-9b43-68d58e614626",
+        "https://data.kcg.gov.tw/File/DirectDownload/687dc0c9-8b1e-421a-9b43-68d58e614626"
+      ]
+    },
+    {
+      "id": "138948",
+      "name": "109年違章罰鍰案件發給執行憑證件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/70bfde27-ae70-49c4-9597-396fa20e57ed",
+        "https://data.kcg.gov.tw/File/DirectDownload/70bfde27-ae70-49c4-9597-396fa20e57ed",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/37dbfd08-aa24-47d7-8f8c-f4f98ae0527b",
+        "https://data.kcg.gov.tw/File/DirectDownload/37dbfd08-aa24-47d7-8f8c-f4f98ae0527b"
+      ]
+    },
+    {
+      "id": "138953",
+      "name": "109年違章罰鍰案件移送執行金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/644913f1-7602-4775-93c2-b85d6251ea9c",
+        "https://data.kcg.gov.tw/File/DirectDownload/644913f1-7602-4775-93c2-b85d6251ea9c"
+      ]
+    },
+    {
+      "id": "138861",
+      "name": "109房屋稅應稅面積-按公私有別、構造別及使用別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/97e008aa-2f26-4e52-9064-33154d3f1dda",
+        "https://data.kcg.gov.tw/File/DirectDownload/97e008aa-2f26-4e52-9064-33154d3f1dda"
+      ]
+    },
+    {
+      "id": "138867",
+      "name": "109年土地增值稅漲價總數額-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d70b6b71-e3fd-4f2d-9094-dc96e3709d63",
+        "https://data.kcg.gov.tw/File/DirectDownload/d70b6b71-e3fd-4f2d-9094-dc96e3709d63"
+      ]
+    },
+    {
+      "id": "138872",
+      "name": "109年土地增值稅移轉筆數-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9cca6a66-ff51-4432-98ee-e43395bdb928",
+        "https://data.kcg.gov.tw/File/DirectDownload/9cca6a66-ff51-4432-98ee-e43395bdb928"
+      ]
+    },
+    {
+      "id": "138874",
+      "name": "109年土地增值稅減徵稅額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a38dd715-4352-4a13-80bc-9ce6cb1a99ee",
+        "https://data.kcg.gov.tw/File/DirectDownload/a38dd715-4352-4a13-80bc-9ce6cb1a99ee"
+      ]
+    },
+    {
+      "id": "138875",
+      "name": "109年土地增值稅地價稅抵繳稅額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f4532d0-9760-4af2-bb0d-39533cac220c",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f4532d0-9760-4af2-bb0d-39533cac220c"
+      ]
+    },
+    {
+      "id": "138876",
+      "name": "109年土地增值稅查定稅額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90322db6-9255-4a4b-a808-10a1a26c3b10",
+        "https://data.kcg.gov.tw/File/DirectDownload/90322db6-9255-4a4b-a808-10a1a26c3b10"
+      ]
+    },
+    {
+      "id": "138877",
+      "name": "109年土地增值稅漲價總數額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/801c55a4-3828-4d37-b66d-db53b069be4c",
+        "https://data.kcg.gov.tw/File/DirectDownload/801c55a4-3828-4d37-b66d-db53b069be4c"
+      ]
+    },
+    {
+      "id": "138849",
+      "name": "109年查核定開徵件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c9203e61-5409-433f-94e1-6652f124fd8e",
+        "https://data.kcg.gov.tw/File/DirectDownload/c9203e61-5409-433f-94e1-6652f124fd8e"
+      ]
+    },
+    {
+      "id": "138852",
+      "name": "109年印花稅徵收稅額-按來源別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/184221b6-2d35-4612-86b0-df410fc00914",
+        "https://data.kcg.gov.tw/File/DirectDownload/184221b6-2d35-4612-86b0-df410fc00914"
+      ]
+    },
+    {
+      "id": "139347",
+      "name": "高雄市各類房屋折舊標準及耐用年數表資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/77bb7aeb-2ce8-456c-b32a-e9c91a4e1f9a",
+        "https://data.kcg.gov.tw/File/DirectDownload/77bb7aeb-2ce8-456c-b32a-e9c91a4e1f9a"
+      ]
+    },
+    {
+      "id": "149053",
+      "name": "110年違章罰鍰案件移送執行繳納件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e2526a84-8d1d-41fc-966b-951c7e373b01",
+        "https://data.kcg.gov.tw/File/DirectDownload/e2526a84-8d1d-41fc-966b-951c7e373b01"
+      ]
+    },
+    {
+      "id": "149054",
+      "name": "110年違章罰鍰案件更正註銷金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95c75b77-ead4-43de-9f11-fdcd4de904c5",
+        "https://data.kcg.gov.tw/File/DirectDownload/95c75b77-ead4-43de-9f11-fdcd4de904c5"
+      ]
+    },
+    {
+      "id": "149061",
+      "name": "110年違章漏稅案件受理件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5b11f68f-9d21-4423-bbce-6a8c0a59b7bd",
+        "https://data.kcg.gov.tw/File/DirectDownload/5b11f68f-9d21-4423-bbce-6a8c0a59b7bd"
+      ]
+    },
+    {
+      "id": "139043",
+      "name": "109年各項稅捐預算數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e6cd7668-1f8b-41fe-b73a-5620eb485a57",
+        "https://data.kcg.gov.tw/File/DirectDownload/e6cd7668-1f8b-41fe-b73a-5620eb485a57"
+      ]
+    },
+    {
+      "id": "139002",
+      "name": "109年地價稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f77b079d-ad47-4217-9d49-3bb213a8821e",
+        "https://data.kcg.gov.tw/File/DirectDownload/f77b079d-ad47-4217-9d49-3bb213a8821e"
+      ]
+    },
+    {
+      "id": "139003",
+      "name": "109年跨機關合作統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63b628f1-71dd-405a-bb19-dc213dd143a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/63b628f1-71dd-405a-bb19-dc213dd143a7"
+      ]
+    },
+    {
+      "id": "138981",
+      "name": "109年多元繳稅方式地價稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0c832a19-e56f-4513-9791-1710f3f74ff5",
+        "https://data.kcg.gov.tw/File/DirectDownload/0c832a19-e56f-4513-9791-1710f3f74ff5"
+      ]
+    },
+    {
+      "id": "138982",
+      "name": "109年多元繳稅方式印花稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/10031c27-7138-4495-97c2-5617494aa0aa",
+        "https://data.kcg.gov.tw/File/DirectDownload/10031c27-7138-4495-97c2-5617494aa0aa"
+      ]
+    },
+    {
+      "id": "139027",
+      "name": "109年特別稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3d7f75b-f089-4766-8055-9480c22ad169",
+        "https://data.kcg.gov.tw/File/DirectDownload/a3d7f75b-f089-4766-8055-9480c22ad169"
+      ]
+    },
+    {
+      "id": "139029",
+      "name": "109年印花稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/77383bb2-ce53-446c-9b63-b1fa786d2a2e",
+        "https://data.kcg.gov.tw/File/DirectDownload/77383bb2-ce53-446c-9b63-b1fa786d2a2e"
+      ]
+    },
+    {
+      "id": "139035",
+      "name": "109年地價稅減免課稅面積",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d2a1a4a9-975d-4986-9a2c-d7e3d14d2e01",
+        "https://data.kcg.gov.tw/File/DirectDownload/d2a1a4a9-975d-4986-9a2c-d7e3d14d2e01"
+      ]
+    },
+    {
+      "id": "139036",
+      "name": "109年地價稅減免筆數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f3ed26fd-d771-4e90-9b50-15eeb2dfc5ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/f3ed26fd-d771-4e90-9b50-15eeb2dfc5ab"
+      ]
+    },
+    {
+      "id": "139037",
+      "name": "109年地價稅課稅地價",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7b9c9c1d-9e0b-48ea-b234-27445c9e9756",
+        "https://data.kcg.gov.tw/File/DirectDownload/7b9c9c1d-9e0b-48ea-b234-27445c9e9756"
+      ]
+    },
+    {
+      "id": "139039",
+      "name": "109年地價稅課稅戶數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/24440de5-7c57-410c-a589-3504fcabc06d",
+        "https://data.kcg.gov.tw/File/DirectDownload/24440de5-7c57-410c-a589-3504fcabc06d"
+      ]
+    },
+    {
+      "id": "150780",
+      "name": "110年房屋稅應稅面積-按公私有別、構造別及使用別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4139ce72-060b-4e83-acf3-7654bbd2ffc5",
+        "https://data.kcg.gov.tw/File/DirectDownload/4139ce72-060b-4e83-acf3-7654bbd2ffc5"
+      ]
+    },
+    {
+      "id": "150922",
+      "name": "110年土地增值稅增繳地價稅抵繳稅額-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/81b81695-c913-4e18-b6d9-d6c55fff2db8",
+        "https://data.kcg.gov.tw/File/DirectDownload/81b81695-c913-4e18-b6d9-d6c55fff2db8"
+      ]
+    },
+    {
+      "id": "150923",
+      "name": "110年土地增值稅查定稅額-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/252dc2b3-695f-44d0-bdbd-fd95eebbce69",
+        "https://data.kcg.gov.tw/File/DirectDownload/252dc2b3-695f-44d0-bdbd-fd95eebbce69"
+      ]
+    },
+    {
+      "id": "150925",
+      "name": "110年土地增值稅漲價總數額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0ceee462-429e-46f6-94b3-07b4c771e668",
+        "https://data.kcg.gov.tw/File/DirectDownload/0ceee462-429e-46f6-94b3-07b4c771e668"
+      ]
+    },
+    {
+      "id": "150927",
+      "name": "110年土地增值稅調整後原規定地價或前次移轉現值-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/71b2435a-23b3-4ed1-9115-59882c5026fe",
+        "https://data.kcg.gov.tw/File/DirectDownload/71b2435a-23b3-4ed1-9115-59882c5026fe"
+      ]
+    },
+    {
+      "id": "150929",
+      "name": "110年土地增值稅移轉面積-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d1186529-4a32-435c-991b-3665de411702",
+        "https://data.kcg.gov.tw/File/DirectDownload/d1186529-4a32-435c-991b-3665de411702"
+      ]
+    },
+    {
+      "id": "150931",
+      "name": "110年土地增值稅增繳地價稅抵繳稅額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3375c0f6-e6dd-45d5-98e2-32ced463fead",
+        "https://data.kcg.gov.tw/File/DirectDownload/3375c0f6-e6dd-45d5-98e2-32ced463fead"
+      ]
+    },
+    {
+      "id": "150933",
+      "name": "110年土地增值稅改良土地費用-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b2932896-46e5-4b8f-ba70-7db4cd6b5069",
+        "https://data.kcg.gov.tw/File/DirectDownload/b2932896-46e5-4b8f-ba70-7db4cd6b5069"
+      ]
+    },
+    {
+      "id": "150934",
+      "name": "110年土地增值稅調整後原規定地價或前次移轉現值-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/56e9aa25-bd22-4937-ad1f-48c924ebe610",
+        "https://data.kcg.gov.tw/File/DirectDownload/56e9aa25-bd22-4937-ad1f-48c924ebe610"
+      ]
+    },
+    {
+      "id": "150972",
+      "name": "110年減免註銷件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/00b13354-23c1-4742-91b3-eb8d34e66267",
+        "https://data.kcg.gov.tw/File/DirectDownload/00b13354-23c1-4742-91b3-eb8d34e66267"
+      ]
+    },
+    {
+      "id": "150973",
+      "name": "110年實徵金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/53c15276-1e55-419a-add8-618bf2750641",
+        "https://data.kcg.gov.tw/File/DirectDownload/53c15276-1e55-419a-add8-618bf2750641"
+      ]
+    },
+    {
+      "id": "150976",
+      "name": "110年查核定開徵件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/df6d28a6-240d-438c-980f-6ed9178319b4",
+        "https://data.kcg.gov.tw/File/DirectDownload/df6d28a6-240d-438c-980f-6ed9178319b4"
+      ]
+    },
+    {
+      "id": "150977",
+      "name": "110年土地增值稅應納稅額-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9b87a72c-4aa7-4e77-b54a-2a3d260fbfcd",
+        "https://data.kcg.gov.tw/File/DirectDownload/9b87a72c-4aa7-4e77-b54a-2a3d260fbfcd"
+      ]
+    },
+    {
+      "id": "150978",
+      "name": "110年土地增值稅應納稅額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e50640b5-e594-48bb-b108-668e540c040e",
+        "https://data.kcg.gov.tw/File/DirectDownload/e50640b5-e594-48bb-b108-668e540c040e"
+      ]
+    },
+    {
+      "id": "156497",
+      "name": "110年新興分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/105755a3-4e82-4eae-8e34-44ba892d3a53",
+        "https://data.kcg.gov.tw/File/DirectDownload/105755a3-4e82-4eae-8e34-44ba892d3a53"
+      ]
+    },
+    {
+      "id": "156498",
+      "name": "110年歲出預算執行率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3086a400-bc07-4b61-af55-cc055b661abe",
+        "https://data.kcg.gov.tw/File/DirectDownload/3086a400-bc07-4b61-af55-cc055b661abe"
+      ]
+    },
+    {
+      "id": "156499",
+      "name": "110年歲出決算數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cb63a963-bb59-45d8-8efe-858092b3bb5a",
+        "https://data.kcg.gov.tw/File/DirectDownload/cb63a963-bb59-45d8-8efe-858092b3bb5a"
+      ]
+    },
+    {
+      "id": "156502",
+      "name": "110年逾徵收期限件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58bf0553-cc60-49c4-b866-1ef5dc84ea1e",
+        "https://data.kcg.gov.tw/File/DirectDownload/58bf0553-cc60-49c4-b866-1ef5dc84ea1e"
+      ]
+    },
+    {
+      "id": "157596",
+      "name": "各年度地價稅課稅戶數10",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/128023a1-d288-4b85-9418-a06f95ec836f",
+        "https://data.kcg.gov.tw/File/DirectDownload/128023a1-d288-4b85-9418-a06f95ec836f"
+      ]
+    },
+    {
+      "id": "148341",
+      "name": "110年多元繳稅方式娛樂稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f86f635-f9ce-424a-987f-56795994572a",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f86f635-f9ce-424a-987f-56795994572a"
+      ]
+    },
+    {
+      "id": "148342",
+      "name": "110年多元繳稅方式契稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/96519584-d738-42ec-b401-46f480940147",
+        "https://data.kcg.gov.tw/File/DirectDownload/96519584-d738-42ec-b401-46f480940147"
+      ]
+    },
+    {
+      "id": "148345",
+      "name": "110年多元繳稅方式地價稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/49638b82-5ee2-4103-b87b-cb855c1f9377",
+        "https://data.kcg.gov.tw/File/DirectDownload/49638b82-5ee2-4103-b87b-cb855c1f9377"
+      ]
+    },
+    {
+      "id": "148348",
+      "name": "110年多元繳稅方式娛樂稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/61a88d9b-626a-4b6f-998c-8a389af614d9",
+        "https://data.kcg.gov.tw/File/DirectDownload/61a88d9b-626a-4b6f-998c-8a389af614d9"
+      ]
+    },
+    {
+      "id": "148349",
+      "name": "110年多元繳稅方式契稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/94461b93-45ba-4bf7-9858-35acae98306c",
+        "https://data.kcg.gov.tw/File/DirectDownload/94461b93-45ba-4bf7-9858-35acae98306c"
+      ]
+    },
+    {
+      "id": "148350",
+      "name": "110年多元繳稅方式房屋稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cad1626c-35f6-48c2-bf96-e1143880c8c6",
+        "https://data.kcg.gov.tw/File/DirectDownload/cad1626c-35f6-48c2-bf96-e1143880c8c6"
+      ]
+    },
+    {
+      "id": "86622",
+      "name": "高雄市土地增值稅應納稅額-按稅率別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/acbf7000-2042-4e60-9722-6ee4d9420b1d",
+        "https://data.kcg.gov.tw/File/DirectDownload/acbf7000-2042-4e60-9722-6ee4d9420b1d"
+      ]
+    },
+    {
+      "id": "102041",
+      "name": "高雄市稅捐稽徵處逾徵收期限金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dcdcfaa3-0495-4659-aeb6-5c1cb608c12c",
+        "https://data.kcg.gov.tw/File/DirectDownload/dcdcfaa3-0495-4659-aeb6-5c1cb608c12c"
+      ]
+    },
+    {
+      "id": "86731",
+      "name": "高雄市土地增值稅移轉現值-按移轉原因別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/251b8fe5-c042-4239-9460-7cb171bf67a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/251b8fe5-c042-4239-9460-7cb171bf67a3"
+      ]
+    },
+    {
+      "id": "86732",
+      "name": "高雄市土地增值稅增繳地價稅抵繳稅額-按稅率別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c5b3d082-237f-4153-852f-3e18ee78fc28",
+        "https://data.kcg.gov.tw/File/DirectDownload/c5b3d082-237f-4153-852f-3e18ee78fc28",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ced0040f-7acc-4c0e-886a-665aeea58d1b",
+        "https://data.kcg.gov.tw/File/DirectDownload/ced0040f-7acc-4c0e-886a-665aeea58d1b"
+      ]
+    },
+    {
+      "id": "86733",
+      "name": "高雄市土地增值稅改良土地費用-按稅率別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eced8406-be49-46a8-b865-85c2755d5f60",
+        "https://data.kcg.gov.tw/File/DirectDownload/eced8406-be49-46a8-b865-85c2755d5f60",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/749ba0a8-caad-4712-a747-971ac849f1a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/749ba0a8-caad-4712-a747-971ac849f1a7"
+      ]
+    },
+    {
+      "id": "86734",
+      "name": "高雄市稅捐稽徵處查核定開徵件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/040909c9-02f4-47f5-a2a9-987562ae54fa",
+        "https://data.kcg.gov.tw/File/DirectDownload/040909c9-02f4-47f5-a2a9-987562ae54fa",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4336158e-9431-4091-aaef-c6d4c5ead8f4",
+        "https://data.kcg.gov.tw/File/DirectDownload/4336158e-9431-4091-aaef-c6d4c5ead8f4"
+      ]
+    },
+    {
+      "id": "86736",
+      "name": "高雄市稅捐稽徵處全功能服務櫃台辦理件數-107",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dfec1e39-695f-4b08-94a9-74ff8494b8e8",
+        "https://data.kcg.gov.tw/File/DirectDownload/dfec1e39-695f-4b08-94a9-74ff8494b8e8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/61351fce-245e-4f65-a214-d330e37f4876",
+        "https://data.kcg.gov.tw/File/DirectDownload/61351fce-245e-4f65-a214-d330e37f4876"
+      ]
+    },
+    {
+      "id": "86737",
+      "name": "高雄市稅捐稽徵處歲出決算數-107",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/86b01080-5472-4169-8126-1500f7ada6b3",
+        "https://data.kcg.gov.tw/File/DirectDownload/86b01080-5472-4169-8126-1500f7ada6b3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95e116b2-189f-47a1-b728-88faf71cf797",
+        "https://data.kcg.gov.tw/File/DirectDownload/95e116b2-189f-47a1-b728-88faf71cf797"
+      ]
+    },
+    {
+      "id": "86742",
+      "name": "高雄市稅捐稽徵處違章罰鍰案件移送退案或撤回件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bab93300-4bed-419a-b19e-a8032d8dee3e",
+        "https://data.kcg.gov.tw/File/DirectDownload/bab93300-4bed-419a-b19e-a8032d8dee3e"
+      ]
+    },
+    {
+      "id": "86743",
+      "name": "高雄市稅捐稽徵處違章罰鍰案件發給執行憑證金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7bf8a451-10e6-4260-ae62-2e0881c68858",
+        "https://data.kcg.gov.tw/File/DirectDownload/7bf8a451-10e6-4260-ae62-2e0881c68858",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f679e6e6-357c-47c4-a4f7-c976c3db6ab0",
+        "https://data.kcg.gov.tw/File/DirectDownload/f679e6e6-357c-47c4-a4f7-c976c3db6ab0"
+      ]
+    },
+    {
+      "id": "86768",
+      "name": "高雄市契稅查定契價-按契別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/32a198a6-5140-47ca-b8cb-a166e562d4c7",
+        "https://data.kcg.gov.tw/File/DirectDownload/32a198a6-5140-47ca-b8cb-a166e562d4c7"
+      ]
+    },
+    {
+      "id": "86770",
+      "name": "高雄市使用牌照稅實徵淨額-按車種別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/29248ff2-0782-4d28-b372-9a891bf4f49c",
+        "https://data.kcg.gov.tw/File/DirectDownload/29248ff2-0782-4d28-b372-9a891bf4f49c"
+      ]
+    },
+    {
+      "id": "86775",
+      "name": "高雄市房屋稅應稅現值-按公私有別、構造別及使用別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b2d206c9-5f1e-4035-b4cd-4f6871cc9dbc",
+        "https://data.kcg.gov.tw/File/DirectDownload/b2d206c9-5f1e-4035-b4cd-4f6871cc9dbc"
+      ]
+    },
+    {
+      "id": "86778",
+      "name": "高雄市土地增值稅應納稅額-按移轉原因別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ce972e2f-a1ef-4e26-913a-ca6890524241",
+        "https://data.kcg.gov.tw/File/DirectDownload/ce972e2f-a1ef-4e26-913a-ca6890524241"
+      ]
+    },
+    {
+      "id": "86779",
+      "name": "高雄市土地增值稅減徵稅額-按移轉原因別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72454a52-f803-4f48-9509-9b72215985f8",
+        "https://data.kcg.gov.tw/File/DirectDownload/72454a52-f803-4f48-9509-9b72215985f8"
+      ]
+    },
+    {
+      "id": "86781",
+      "name": "高雄市土地增值稅增繳地價稅抵繳稅額-按移轉原因別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0eaa38c4-3cd8-433d-98af-cdd08d870f66",
+        "https://data.kcg.gov.tw/File/DirectDownload/0eaa38c4-3cd8-433d-98af-cdd08d870f66"
+      ]
+    },
+    {
+      "id": "86626",
+      "name": "高雄市土地增值稅調整後原規定地價或前次移轉現值-按稅率別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7e3bdf48-3aac-4a56-ae98-5eb7af37c993",
+        "https://data.kcg.gov.tw/File/DirectDownload/7e3bdf48-3aac-4a56-ae98-5eb7af37c993",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bf735702-51fc-4db5-bb3b-6a30cd133934",
+        "https://data.kcg.gov.tw/File/DirectDownload/bf735702-51fc-4db5-bb3b-6a30cd133934"
+      ]
+    },
+    {
+      "id": "86627",
+      "name": "高雄市土地增值稅移轉現值-按稅率別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/91ba7ad9-c10c-4407-a516-9cc3dc0ade10",
+        "https://data.kcg.gov.tw/File/DirectDownload/91ba7ad9-c10c-4407-a516-9cc3dc0ade10",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85f75460-c5a6-478e-976f-d93e746fda97",
+        "https://data.kcg.gov.tw/File/DirectDownload/85f75460-c5a6-478e-976f-d93e746fda97"
+      ]
+    },
+    {
+      "id": "86629",
+      "name": "高雄市土地增值稅移轉筆數-按稅率別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/08c88c61-5a23-48ca-bcd6-44ca3fa80d66",
+        "https://data.kcg.gov.tw/File/DirectDownload/08c88c61-5a23-48ca-bcd6-44ca3fa80d66",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c4a122e4-fb16-4bd1-b8e8-70e7c8721872",
+        "https://data.kcg.gov.tw/File/DirectDownload/c4a122e4-fb16-4bd1-b8e8-70e7c8721872"
+      ]
+    },
+    {
+      "id": "86632",
+      "name": "高雄市地價稅減免筆數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3e35ae70-1007-478c-9882-84df03ab685a",
+        "https://data.kcg.gov.tw/File/DirectDownload/3e35ae70-1007-478c-9882-84df03ab685a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0204da1-9453-4d8e-9789-b9bea83c56d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0204da1-9453-4d8e-9789-b9bea83c56d6"
+      ]
+    },
+    {
+      "id": "86633",
+      "name": "高雄市地價稅課稅地價-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4581e1e8-3d3f-42a8-bedd-242e266adac9",
+        "https://data.kcg.gov.tw/File/DirectDownload/4581e1e8-3d3f-42a8-bedd-242e266adac9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2190d184-1311-4ec0-aca9-567589ddebd9",
+        "https://data.kcg.gov.tw/File/DirectDownload/2190d184-1311-4ec0-aca9-567589ddebd9"
+      ]
+    },
+    {
+      "id": "86635",
+      "name": "高雄市地價稅課稅戶數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/487af6e9-231e-4e25-94fb-6b7e10b1225a",
+        "https://data.kcg.gov.tw/File/DirectDownload/487af6e9-231e-4e25-94fb-6b7e10b1225a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dbcb7398-adc4-4a25-aa2a-6d730e3398cd",
+        "https://data.kcg.gov.tw/File/DirectDownload/dbcb7398-adc4-4a25-aa2a-6d730e3398cd"
+      ]
+    },
+    {
+      "id": "86637",
+      "name": "高雄市各項稅收季節變動指數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6afaf600-9063-4f0e-95d0-ce8637ff49a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/6afaf600-9063-4f0e-95d0-ce8637ff49a7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc453d12-77c0-4970-8ad0-e3249a454388",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc453d12-77c0-4970-8ad0-e3249a454388"
+      ]
+    },
+    {
+      "id": "86638",
+      "name": "高雄市各項稅捐實徵淨額環比指數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/415d9ecf-8158-4d3a-8e5b-deb7bd480d3d",
+        "https://data.kcg.gov.tw/File/DirectDownload/415d9ecf-8158-4d3a-8e5b-deb7bd480d3d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/99bb8285-093c-4b36-ab1b-e6bf0d9f711b",
+        "https://data.kcg.gov.tw/File/DirectDownload/99bb8285-093c-4b36-ab1b-e6bf0d9f711b"
+      ]
+    },
+    {
+      "id": "86747",
+      "name": "高雄市稅捐稽徵處違章罰鍰案件更正註銷金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/97b9271c-c82c-4f4f-857c-018601aa66df",
+        "https://data.kcg.gov.tw/File/DirectDownload/97b9271c-c82c-4f4f-857c-018601aa66df",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b05294be-f63d-4d67-961a-76149fca8459",
+        "https://data.kcg.gov.tw/File/DirectDownload/b05294be-f63d-4d67-961a-76149fca8459"
+      ]
+    },
+    {
+      "id": "86748",
+      "name": "高雄市稅捐稽徵處違章罰鍰案件更正註銷件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6b7e1a95-ab30-4b0c-ad4f-305ccfb42ed2",
+        "https://data.kcg.gov.tw/File/DirectDownload/6b7e1a95-ab30-4b0c-ad4f-305ccfb42ed2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aced47fe-22dc-4583-ae4c-339f98e8e8b5",
+        "https://data.kcg.gov.tw/File/DirectDownload/aced47fe-22dc-4583-ae4c-339f98e8e8b5"
+      ]
+    },
+    {
+      "id": "86755",
+      "name": "高雄市稅捐稽徵處未徵金額-按未徵情形別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6b805146-b069-4eca-83f2-875e0160caab",
+        "https://data.kcg.gov.tw/File/DirectDownload/6b805146-b069-4eca-83f2-875e0160caab",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8a02f73f-951a-4752-b042-d8feaef70a14",
+        "https://data.kcg.gov.tw/File/DirectDownload/8a02f73f-951a-4752-b042-d8feaef70a14"
+      ]
+    },
+    {
+      "id": "86759",
+      "name": "高雄市稅捐稽徵處逾徵收期限件數-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cdc2e7f6-5780-40cf-aa78-830aa8124634",
+        "https://data.kcg.gov.tw/File/DirectDownload/cdc2e7f6-5780-40cf-aa78-830aa8124634"
+      ]
+    },
+    {
+      "id": "86762",
+      "name": "高雄市稅捐稽徵處實徵金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/110fbce3-8bbe-4237-8ab0-8cc7fd1c7afd",
+        "https://data.kcg.gov.tw/File/DirectDownload/110fbce3-8bbe-4237-8ab0-8cc7fd1c7afd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1b81ea42-6500-4d3f-ad30-ac6f0a9348c8",
+        "https://data.kcg.gov.tw/File/DirectDownload/1b81ea42-6500-4d3f-ad30-ac6f0a9348c8"
+      ]
+    },
+    {
+      "id": "86764",
+      "name": "高雄市稅捐稽徵處查核定開徵金額-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f069c10c-29eb-4217-a4d4-4c1080fe5e5c",
+        "https://data.kcg.gov.tw/File/DirectDownload/f069c10c-29eb-4217-a4d4-4c1080fe5e5c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/205dc6f6-833e-454d-8de6-eda7a21273a8",
+        "https://data.kcg.gov.tw/File/DirectDownload/205dc6f6-833e-454d-8de6-eda7a21273a8"
+      ]
+    },
+    {
+      "id": "87491",
+      "name": "高雄市土地增值稅漲價總數額-按移轉原因別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6622bb21-97c0-4a82-a076-fc04261116b1",
+        "https://data.kcg.gov.tw/File/DirectDownload/6622bb21-97c0-4a82-a076-fc04261116b1"
+      ]
+    },
+    {
+      "id": "104365",
+      "name": "高雄市多元繳稅方式印花稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3b06ae60-1510-4132-a2d5-24830baa1524",
+        "https://data.kcg.gov.tw/File/DirectDownload/3b06ae60-1510-4132-a2d5-24830baa1524"
+      ]
+    },
+    {
+      "id": "104366",
+      "name": "高雄市多元繳稅方式土地增值稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a6fd3369-5c03-4bf9-8423-a687eb7a198d",
+        "https://data.kcg.gov.tw/File/DirectDownload/a6fd3369-5c03-4bf9-8423-a687eb7a198d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/71fe4f22-ac22-477f-8424-aca8db4a45dc",
+        "https://data.kcg.gov.tw/File/DirectDownload/71fe4f22-ac22-477f-8424-aca8db4a45dc"
+      ]
+    },
+    {
+      "id": "104375",
+      "name": "高雄市房屋稅開徵概況--按納稅義務人性別現值分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/df73b66f-f66a-413b-9b20-088fe2e356a2",
+        "https://data.kcg.gov.tw/File/DirectDownload/df73b66f-f66a-413b-9b20-088fe2e356a2"
+      ]
+    },
+    {
+      "id": "104378",
+      "name": "高雄市地價稅開徵概況--按納稅義務人性別面積分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f98704f0-c57a-41a9-b6b5-cbad141f3dff",
+        "https://data.kcg.gov.tw/File/DirectDownload/f98704f0-c57a-41a9-b6b5-cbad141f3dff"
+      ]
+    },
+    {
+      "id": "106040",
+      "name": "各年度土地增值稅移轉面積-按移轉原因別27",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/353b5d78-4c69-40af-ad87-4e27b69c85c1",
+        "https://data.kcg.gov.tw/File/directDownload/353b5d78-4c69-40af-ad87-4e27b69c85c1"
+      ]
+    },
+    {
+      "id": "106075",
+      "name": "各年度未徵金額-按未徵情形別60",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2141d54f-3aa1-4283-b25c-0c3561757cde",
+        "https://data.kcg.gov.tw/File/DirectDownload/2141d54f-3aa1-4283-b25c-0c3561757cde"
+      ]
+    },
+    {
+      "id": "139042",
+      "name": "109年各項稅捐實徵數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/035f98f7-84c5-4c14-8936-6936cc71f047",
+        "https://data.kcg.gov.tw/File/DirectDownload/035f98f7-84c5-4c14-8936-6936cc71f047"
+      ]
+    },
+    {
+      "id": "138975",
+      "name": "109年多元繳稅方式印花稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72a4b150-4fea-443a-a0ca-1d4cf241e8e9",
+        "https://data.kcg.gov.tw/File/DirectDownload/72a4b150-4fea-443a-a0ca-1d4cf241e8e9"
+      ]
+    },
+    {
+      "id": "138978",
+      "name": "109年多元繳稅方式契稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/20d18c18-b6b1-48e6-a6ac-9f4b4bb5bd30",
+        "https://data.kcg.gov.tw/File/DirectDownload/20d18c18-b6b1-48e6-a6ac-9f4b4bb5bd30"
+      ]
+    },
+    {
+      "id": "139028",
+      "name": "109年娛樂稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/32b6703b-6058-45ff-ba54-32f015938540",
+        "https://data.kcg.gov.tw/File/DirectDownload/32b6703b-6058-45ff-ba54-32f015938540"
+      ]
+    },
+    {
+      "id": "139031",
+      "name": "109年使用牌照稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e6521e77-1f6c-4596-b86b-8bc4011833c7",
+        "https://data.kcg.gov.tw/File/DirectDownload/e6521e77-1f6c-4596-b86b-8bc4011833c7"
+      ]
+    },
+    {
+      "id": "139038",
+      "name": "109年地價稅課稅面積",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03151d06-71b4-4786-b5f0-80879fa9f7a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/03151d06-71b4-4786-b5f0-80879fa9f7a3"
+      ]
+    },
+    {
+      "id": "139041",
+      "name": "109年各項稅捐退還以前年度歲入款",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b04b37c8-263c-4a03-b4e1-00ebedddc0f5",
+        "https://data.kcg.gov.tw/File/DirectDownload/b04b37c8-263c-4a03-b4e1-00ebedddc0f5"
+      ]
+    },
+    {
+      "id": "138993",
+      "name": "109年他轄代發本機關作業統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4c08d425-57c0-404e-acae-2a14190df8ef",
+        "https://data.kcg.gov.tw/File/DirectDownload/4c08d425-57c0-404e-acae-2a14190df8ef"
+      ]
+    },
+    {
+      "id": "138994",
+      "name": "109年政策宣導廣告預算執行情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6003e9cd-2b95-4e37-b6f9-23a8409d136d",
+        "https://data.kcg.gov.tw/File/DirectDownload/6003e9cd-2b95-4e37-b6f9-23a8409d136d"
+      ]
+    },
+    {
+      "id": "139004",
+      "name": "109年跨區繼承查欠統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b71edceb-4acf-436c-8649-79e483362bab",
+        "https://data.kcg.gov.tw/File/directDownload/b71edceb-4acf-436c-8649-79e483362bab"
+      ]
+    },
+    {
+      "id": "138949",
+      "name": "109年違章罰鍰案件移送執行繳納金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/526867b8-203a-4693-968a-db926f0912ad",
+        "https://data.kcg.gov.tw/File/DirectDownload/526867b8-203a-4693-968a-db926f0912ad"
+      ]
+    },
+    {
+      "id": "138950",
+      "name": "109違章罰鍰案件移送執行繳納件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a630d8e5-1e3f-435e-9222-463dcfd71f69",
+        "https://data.kcg.gov.tw/File/DirectDownload/a630d8e5-1e3f-435e-9222-463dcfd71f69"
+      ]
+    },
+    {
+      "id": "138951",
+      "name": "109年違章罰鍰案件更正註銷金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/28e49749-8590-4ddd-aa4e-3f951bf78368",
+        "https://data.kcg.gov.tw/File/DirectDownload/28e49749-8590-4ddd-aa4e-3f951bf78368"
+      ]
+    },
+    {
+      "id": "139346",
+      "name": "109各項稅捐徵課成本",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/479afd5f-ccef-41ae-ac51-2875febcf9bc",
+        "https://data.kcg.gov.tw/File/DirectDownload/479afd5f-ccef-41ae-ac51-2875febcf9bc"
+      ]
+    },
+    {
+      "id": "139955",
+      "name": "各年度稅捐納庫數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0d399d03-f462-4ca0-a454-fcb7066c282e",
+        "https://data.kcg.gov.tw/File/DirectDownload/0d399d03-f462-4ca0-a454-fcb7066c282e"
+      ]
+    },
+    {
+      "id": "139956",
+      "name": "109年全功能服務櫃台辦理件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1b73c758-3cd1-4cce-8769-60df3a791712",
+        "https://data.kcg.gov.tw/File/DirectDownload/1b73c758-3cd1-4cce-8769-60df3a791712"
+      ]
+    },
+    {
+      "id": "136835",
+      "name": "財政局資料盤點表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9e718228-6fc4-415d-965e-d6d0a7a3942c",
+        "https://data.kcg.gov.tw/File/DirectDownload/9e718228-6fc4-415d-965e-d6d0a7a3942c"
+      ]
+    },
+    {
+      "id": "138846",
+      "name": "109年實徵金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a616ac9-9d6e-4267-8f78-df8d6a3569c8",
+        "https://data.kcg.gov.tw/File/DirectDownload/9a616ac9-9d6e-4267-8f78-df8d6a3569c8"
+      ]
+    },
+    {
+      "id": "138848",
+      "name": "109年查核定開徵金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/948fc747-e3fa-428e-b3df-6901e032f769",
+        "https://data.kcg.gov.tw/File/DirectDownload/948fc747-e3fa-428e-b3df-6901e032f769"
+      ]
+    },
+    {
+      "id": "138853",
+      "name": "109年契稅查定契價-按契別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/22526eca-09fd-4f00-82ea-57f7a4df345f",
+        "https://data.kcg.gov.tw/File/DirectDownload/22526eca-09fd-4f00-82ea-57f7a4df345f"
+      ]
+    },
+    {
+      "id": "138854",
+      "name": "109年契稅查定件數-按契別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/621f1099-b6a2-4255-bcf0-dd542a4df8a4",
+        "https://data.kcg.gov.tw/File/DirectDownload/621f1099-b6a2-4255-bcf0-dd542a4df8a4"
+      ]
+    },
+    {
+      "id": "138855",
+      "name": "109年使用牌照稅實徵淨額-按車種別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e08a75e9-aae6-45a7-80da-89f03b2690cd",
+        "https://data.kcg.gov.tw/File/DirectDownload/e08a75e9-aae6-45a7-80da-89f03b2690cd"
+      ]
+    },
+    {
+      "id": "138856",
+      "name": "109年使用牌照稅稽徵件數-按車種別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a8de06a-9485-454c-be2e-86eeb9dff6f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a8de06a-9485-454c-be2e-86eeb9dff6f3"
+      ]
+    },
+    {
+      "id": "138858",
+      "name": "109年房屋稅免稅面積-按公私有別及構造別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/689a9338-b0d1-4aaa-9ff1-96c9d3c1861d",
+        "https://data.kcg.gov.tw/File/DirectDownload/689a9338-b0d1-4aaa-9ff1-96c9d3c1861d"
+      ]
+    },
+    {
+      "id": "138859",
+      "name": "109年房屋稅免稅戶數-按公私有別及構造別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/14ab8dcc-22d9-47f7-9237-0d552cd43801",
+        "https://data.kcg.gov.tw/File/DirectDownload/14ab8dcc-22d9-47f7-9237-0d552cd43801"
+      ]
+    },
+    {
+      "id": "138860",
+      "name": "109年房屋稅應稅現值-按公私有別、構造別及使用別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f1f89d03-12a7-432f-8f7a-c55a042b6903",
+        "https://data.kcg.gov.tw/File/DirectDownload/f1f89d03-12a7-432f-8f7a-c55a042b6903"
+      ]
+    },
+    {
+      "id": "138880",
+      "name": "109年土地增值稅移轉現值-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ca876627-5282-4353-8fe9-b1eed0471f9e",
+        "https://data.kcg.gov.tw/File/DirectDownload/ca876627-5282-4353-8fe9-b1eed0471f9e"
+      ]
+    },
+    {
+      "id": "138915",
+      "name": "109年違章漏稅案件處罰後自行繳納件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/76b081c1-c57f-4402-bf77-640298e93686",
+        "https://data.kcg.gov.tw/File/DirectDownload/76b081c1-c57f-4402-bf77-640298e93686"
+      ]
+    },
+    {
+      "id": "138863",
+      "name": "109年土地增值稅應納稅額-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c181b60a-a203-4b85-8a3d-99cc530cc59a",
+        "https://data.kcg.gov.tw/File/DirectDownload/c181b60a-a203-4b85-8a3d-99cc530cc59a"
+      ]
+    },
+    {
+      "id": "138868",
+      "name": "109年土地增值稅改良土地費用-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc98ded8-9cd3-41a3-a275-81bddd4a8567",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc98ded8-9cd3-41a3-a275-81bddd4a8567"
+      ]
+    },
+    {
+      "id": "138873",
+      "name": "109年土地增值稅應納稅額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/54eb005d-113f-4683-a2e9-a5d9f4369589",
+        "https://data.kcg.gov.tw/File/DirectDownload/54eb005d-113f-4683-a2e9-a5d9f4369589"
+      ]
+    },
+    {
+      "id": "138879",
+      "name": "109年土地增值稅調整後原規定地價或前次移轉現值-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed5b0c7e-64b8-4e4f-bedb-a79f46a77bcc",
+        "https://data.kcg.gov.tw/File/DirectDownload/ed5b0c7e-64b8-4e4f-bedb-a79f46a77bcc"
+      ]
+    },
+    {
+      "id": "158921",
+      "name": "使用牌照稅稅式支出",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bbe231ec-81ed-47b3-8f43-09bc8ca90396",
+        "https://data.kcg.gov.tw/File/DirectDownload/bbe231ec-81ed-47b3-8f43-09bc8ca90396",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95f834c7-0a06-40ed-b09f-12234e870ef0",
+        "https://data.kcg.gov.tw/File/DirectDownload/95f834c7-0a06-40ed-b09f-12234e870ef0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f2031a1-27fa-40e0-9a5e-56ec3bad0599",
+        "https://data.kcg.gov.tw/File/DirectDownload/0f2031a1-27fa-40e0-9a5e-56ec3bad0599",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/34b00054-93a9-449b-8e5c-a699c753b0b1",
+        "https://data.kcg.gov.tw/File/DirectDownload/34b00054-93a9-449b-8e5c-a699c753b0b1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d9ba0382-3860-4594-8ea4-b8940ccfb100",
+        "https://data.kcg.gov.tw/File/DirectDownload/d9ba0382-3860-4594-8ea4-b8940ccfb100",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4c0e568c-b3c1-4dbd-97fd-dfa707ec42b1",
+        "https://data.kcg.gov.tw/File/DirectDownload/4c0e568c-b3c1-4dbd-97fd-dfa707ec42b1"
+      ]
+    },
+    {
+      "id": "149060",
+      "name": "110年稅捐稽徵處違章漏稅案件審理件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/32e32893-877f-4031-a4f2-a9bbd7b557a1",
+        "https://data.kcg.gov.tw/File/DirectDownload/32e32893-877f-4031-a4f2-a9bbd7b557a1"
+      ]
+    },
+    {
+      "id": "149051",
+      "name": "110年違章罰鍰案件發給執行憑證件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/38d9cd0a-2787-480e-bcd6-f28c099c9a65",
+        "https://data.kcg.gov.tw/File/DirectDownload/38d9cd0a-2787-480e-bcd6-f28c099c9a65"
+      ]
+    },
+    {
+      "id": "149055",
+      "name": "110年違章罰鍰案件更正註銷件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e2079441-dcce-422f-8840-a0b240030bb1",
+        "https://data.kcg.gov.tw/File/DirectDownload/e2079441-dcce-422f-8840-a0b240030bb1"
+      ]
+    },
+    {
+      "id": "148343",
+      "name": "110年多元繳稅方式房屋稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c0f8e9dd-aa66-4585-a0ba-c18656b61b69",
+        "https://data.kcg.gov.tw/File/DirectDownload/c0f8e9dd-aa66-4585-a0ba-c18656b61b69"
+      ]
+    },
+    {
+      "id": "148346",
+      "name": "110年多元繳稅方式印花稅金額統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d49815ef-9b9e-46da-b548-6ba3a5c0f7eb",
+        "https://data.kcg.gov.tw/File/DirectDownload/d49815ef-9b9e-46da-b548-6ba3a5c0f7eb"
+      ]
+    },
+    {
+      "id": "148351",
+      "name": "110年多元繳稅方式使用牌照稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5bb582b8-0c97-4bb7-af4a-d813c5703847",
+        "https://data.kcg.gov.tw/File/DirectDownload/5bb582b8-0c97-4bb7-af4a-d813c5703847"
+      ]
+    },
+    {
+      "id": "132851",
+      "name": "中午不打烊統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/42ade105-f9ce-4e37-9831-30d1ff98735b",
+        "https://data.kcg.gov.tw/File/DirectDownload/42ade105-f9ce-4e37-9831-30d1ff98735b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7df5a1f9-3025-433d-b140-6420906bafff",
+        "https://data.kcg.gov.tw/File/DirectDownload/7df5a1f9-3025-433d-b140-6420906bafff"
+      ]
+    },
+    {
+      "id": "132852",
+      "name": "本轄代發他機關作業統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7a9b6e5a-601f-41a7-8dde-fd35c94f159a",
+        "https://data.kcg.gov.tw/File/DirectDownload/7a9b6e5a-601f-41a7-8dde-fd35c94f159a"
+      ]
+    },
+    {
+      "id": "132855",
+      "name": "推展志願服務志工服務成果統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2bd75861-35b9-473a-9be2-e008cffdf8f1",
+        "https://data.kcg.gov.tw/File/DirectDownload/2bd75861-35b9-473a-9be2-e008cffdf8f1"
+      ]
+    },
+    {
+      "id": "132856",
+      "name": "推展志願服務志工基本資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1e486195-21eb-483e-b414-9e4bb46379df",
+        "https://data.kcg.gov.tw/File/DirectDownload/1e486195-21eb-483e-b414-9e4bb46379df"
+      ]
+    },
+    {
+      "id": "132790",
+      "name": "印花稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/77870045-bff2-40f8-b194-1e120d1c2e85",
+        "https://data.kcg.gov.tw/File/DirectDownload/77870045-bff2-40f8-b194-1e120d1c2e85",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d61fa92d-aac4-4030-a7d9-c62c90d66d2b",
+        "https://data.kcg.gov.tw/File/DirectDownload/d61fa92d-aac4-4030-a7d9-c62c90d66d2b"
+      ]
+    },
+    {
+      "id": "132791",
+      "name": "鳳山分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/672454f5-4eb2-46ae-80ff-3e1095dce1b5",
+        "https://data.kcg.gov.tw/File/DirectDownload/672454f5-4eb2-46ae-80ff-3e1095dce1b5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c5af30a4-f3b5-426e-aacc-9fdf0b4c9b89",
+        "https://data.kcg.gov.tw/File/DirectDownload/c5af30a4-f3b5-426e-aacc-9fdf0b4c9b89"
+      ]
+    },
+    {
+      "id": "132832",
+      "name": "大寮分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a106b5b7-d325-482a-8c9b-248305d15805",
+        "https://data.kcg.gov.tw/File/DirectDownload/a106b5b7-d325-482a-8c9b-248305d15805",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ae2ae42a-2ecd-41ff-a02d-37712a21fbb2",
+        "https://data.kcg.gov.tw/File/DirectDownload/ae2ae42a-2ecd-41ff-a02d-37712a21fbb2"
+      ]
+    },
+    {
+      "id": "132837",
+      "name": "小港分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d3e27ad0-857c-4edf-bb29-2ca960ccd1cb",
+        "https://data.kcg.gov.tw/File/DirectDownload/d3e27ad0-857c-4edf-bb29-2ca960ccd1cb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d0eb1597-a963-46d4-8442-4ae311be2954",
+        "https://data.kcg.gov.tw/File/DirectDownload/d0eb1597-a963-46d4-8442-4ae311be2954"
+      ]
+    },
+    {
+      "id": "132838",
+      "name": "三民分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/920536fb-2c21-4237-b993-fdece89c71f2",
+        "https://data.kcg.gov.tw/File/DirectDownload/920536fb-2c21-4237-b993-fdece89c71f2"
+      ]
+    },
+    {
+      "id": "132839",
+      "name": "左營分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e74d757f-41a1-45ff-98f0-b952af224716",
+        "https://data.kcg.gov.tw/File/DirectDownload/e74d757f-41a1-45ff-98f0-b952af224716"
+      ]
+    },
+    {
+      "id": "132843",
+      "name": "娛樂稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f0209b0-4c1d-419c-9cce-90533dece398",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f0209b0-4c1d-419c-9cce-90533dece398"
+      ]
+    },
+    {
+      "id": "132846",
+      "name": "房屋稅欠稅數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/765609fa-d889-4271-abfb-523910688131",
+        "https://data.kcg.gov.tw/File/DirectDownload/765609fa-d889-4271-abfb-523910688131"
+      ]
+    },
+    {
+      "id": "143288",
+      "name": "109年鳳山分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b0867619-d54a-48a5-87cb-6c2e207dab27",
+        "https://data.kcg.gov.tw/File/DirectDownload/b0867619-d54a-48a5-87cb-6c2e207dab27"
+      ]
+    },
+    {
+      "id": "143289",
+      "name": "109年楠梓分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85b6ec0d-5bee-4e03-989b-e7264fdabce7",
+        "https://data.kcg.gov.tw/File/DirectDownload/85b6ec0d-5bee-4e03-989b-e7264fdabce7"
+      ]
+    },
+    {
+      "id": "143290",
+      "name": "109年前鎮分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/79a7f682-844d-4366-85ee-1ca74247de20",
+        "https://data.kcg.gov.tw/File/DirectDownload/79a7f682-844d-4366-85ee-1ca74247de20"
+      ]
+    },
+    {
+      "id": "143292",
+      "name": "109年三民分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f2263d52-af91-45c2-b256-5c1731a16d50",
+        "https://data.kcg.gov.tw/File/DirectDownload/f2263d52-af91-45c2-b256-5c1731a16d50"
+      ]
+    },
+    {
+      "id": "143294",
+      "name": "109年鹽埕分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/30f57e02-40d2-4a04-9327-546e8939ff6b",
+        "https://data.kcg.gov.tw/File/DirectDownload/30f57e02-40d2-4a04-9327-546e8939ff6b"
+      ]
+    },
+    {
+      "id": "143295",
+      "name": "109年新興分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/be3e1bb2-5daf-420b-b38a-0e42dd684c7e",
+        "https://data.kcg.gov.tw/File/DirectDownload/be3e1bb2-5daf-420b-b38a-0e42dd684c7e"
+      ]
+    },
+    {
+      "id": "143079",
+      "name": "各年度高雄市稅捐稽徵處歲出預算數77",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/700702a1-fb94-415c-8ba3-628202c45067",
+        "https://data.kcg.gov.tw/File/DirectDownload/700702a1-fb94-415c-8ba3-628202c45067"
+      ]
+    },
+    {
+      "id": "143098",
+      "name": "各年度逾徵收期限件數55",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b66a5261-d8c2-4c81-a262-8c4be234594e",
+        "https://data.kcg.gov.tw/File/DirectDownload/b66a5261-d8c2-4c81-a262-8c4be234594e"
+      ]
+    },
+    {
+      "id": "156490",
+      "name": "110年鳳山分處稽徵區域",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/13dec951-ad8e-499a-8285-5e5fa9aa3c14",
+        "https://data.kcg.gov.tw/File/DirectDownload/13dec951-ad8e-499a-8285-5e5fa9aa3c14"
+      ]
+    },
+    {
+      "id": "156500",
+      "name": "110年歲出預算數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/73004753-6f6b-4ed4-9f88-883662664571",
+        "https://data.kcg.gov.tw/File/DirectDownload/73004753-6f6b-4ed4-9f88-883662664571"
+      ]
+    },
+    {
+      "id": "156501",
+      "name": "110年逾徵收期限金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/518fd832-6b16-49f6-8c77-1a8c161a3494",
+        "https://data.kcg.gov.tw/File/DirectDownload/518fd832-6b16-49f6-8c77-1a8c161a3494"
+      ]
+    },
+    {
+      "id": "156506",
+      "name": "110年各項稅捐查定數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2371be2a-c4de-474a-8278-ca34287b997c",
+        "https://data.kcg.gov.tw/File/DirectDownload/2371be2a-c4de-474a-8278-ca34287b997c"
+      ]
+    },
+    {
+      "id": "156603",
+      "name": "110年全功能服務櫃台辦理件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/db9d7704-3cb7-4c50-bc48-e826d4d36fdf",
+        "https://data.kcg.gov.tw/File/DirectDownload/db9d7704-3cb7-4c50-bc48-e826d4d36fdf"
+      ]
+    },
+    {
+      "id": "147343",
+      "name": "110年地價稅課稅地價",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7145f7b4-0a70-4075-9458-b1aba59a1ccf",
+        "https://data.kcg.gov.tw/File/DirectDownload/7145f7b4-0a70-4075-9458-b1aba59a1ccf"
+      ]
+    },
+    {
+      "id": "147545",
+      "name": "110年跨機關合作統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9257ff68-2914-44ef-ba69-add8b656b4df",
+        "https://data.kcg.gov.tw/File/DirectDownload/9257ff68-2914-44ef-ba69-add8b656b4df"
+      ]
+    },
+    {
+      "id": "147547",
+      "name": "110年跨區服務件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f8114ad-5604-407a-b528-6a33337fc31b",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f8114ad-5604-407a-b528-6a33337fc31b"
+      ]
+    },
+    {
+      "id": "147548",
+      "name": "110年中午不打烊統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5c685817-7711-47b7-bc49-56f31943cf07",
+        "https://data.kcg.gov.tw/File/DirectDownload/5c685817-7711-47b7-bc49-56f31943cf07"
+      ]
+    },
+    {
+      "id": "147549",
+      "name": "110年本轄代發他機關作業統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f36bcf98-f001-40f7-81bc-ae5853ecf2b0",
+        "https://data.kcg.gov.tw/File/DirectDownload/f36bcf98-f001-40f7-81bc-ae5853ecf2b0"
+      ]
+    },
+    {
+      "id": "147550",
+      "name": "110年他轄代發本機關作業統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c3b42b84-bf40-4927-b7ef-34655bfe1007",
+        "https://data.kcg.gov.tw/File/DirectDownload/c3b42b84-bf40-4927-b7ef-34655bfe1007"
+      ]
+    },
+    {
+      "id": "147551",
+      "name": "110年推展志願服務志工服務成果統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/553c35b1-4b85-4724-8b33-d7a5e3fb0c0a",
+        "https://data.kcg.gov.tw/File/DirectDownload/553c35b1-4b85-4724-8b33-d7a5e3fb0c0a"
+      ]
+    },
+    {
+      "id": "147541",
+      "name": "110年契稅查定契價-按契別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d98b3b2e-9695-4721-a6a1-30a77cee6644",
+        "https://data.kcg.gov.tw/File/DirectDownload/d98b3b2e-9695-4721-a6a1-30a77cee6644"
+      ]
+    },
+    {
+      "id": "147542",
+      "name": "110年契稅查定件數-按契別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85685bcf-4ba0-4057-a388-31d09adce8bd",
+        "https://data.kcg.gov.tw/File/DirectDownload/85685bcf-4ba0-4057-a388-31d09adce8bd"
+      ]
+    },
+    {
+      "id": "147543",
+      "name": "110年使用牌照稅實徵淨額-按車種別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f9fb371a-b5fa-4ff2-aa93-a852dcdcbd47",
+        "https://data.kcg.gov.tw/File/DirectDownload/f9fb371a-b5fa-4ff2-aa93-a852dcdcbd47"
+      ]
+    },
+    {
+      "id": "148353",
+      "name": "110年多元繳稅方式印花稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b00dc826-69ab-4ee1-a802-b72788db8cd8",
+        "https://data.kcg.gov.tw/File/DirectDownload/b00dc826-69ab-4ee1-a802-b72788db8cd8"
+      ]
+    },
+    {
+      "id": "148354",
+      "name": "110年多元繳稅方式土地增值稅件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0edcc43b-c28c-45f9-bd9c-da616a12a535",
+        "https://data.kcg.gov.tw/File/DirectDownload/0edcc43b-c28c-45f9-bd9c-da616a12a535"
+      ]
+    },
+    {
+      "id": "151648",
+      "name": "各年度各項稅捐實徵淨額05",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0e89451-2735-483d-bac2-3d5c48deba1f",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0e89451-2735-483d-bac2-3d5c48deba1f"
+      ]
+    },
+    {
+      "id": "151633",
+      "name": "各年度違章罰鍰案件移送執行件數65",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2d9fcd3d-a0ac-4d48-bd43-3ae887adbd5e",
+        "https://data.kcg.gov.tw/File/DirectDownload/2d9fcd3d-a0ac-4d48-bd43-3ae887adbd5e"
+      ]
+    },
+    {
+      "id": "151635",
+      "name": "各年度違章罰鍰案件更正註銷件數67",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/277a7391-765c-4100-bfbf-ae8067cd1da7",
+        "https://data.kcg.gov.tw/File/DirectDownload/277a7391-765c-4100-bfbf-ae8067cd1da7"
+      ]
+    },
+    {
+      "id": "151637",
+      "name": "各年度違章罰鍰案件移送執行繳納件數69",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1390a75e-7edb-497b-8abf-228724229e88",
+        "https://data.kcg.gov.tw/File/DirectDownload/1390a75e-7edb-497b-8abf-228724229e88"
+      ]
+    },
+    {
+      "id": "151644",
+      "name": "各年度各項稅捐徵課費用75",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d125711d-390a-49bb-8408-c27d8fcbea97",
+        "https://data.kcg.gov.tw/File/DirectDownload/d125711d-390a-49bb-8408-c27d8fcbea97"
+      ]
+    },
+    {
+      "id": "151645",
+      "name": "各年度各項稅捐徵課成本76",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6555bd81-19fb-4409-8b74-9f01b0f29da7",
+        "https://data.kcg.gov.tw/File/DirectDownload/6555bd81-19fb-4409-8b74-9f01b0f29da7"
+      ]
+    },
+    {
+      "id": "151551",
+      "name": "110年各項稅捐徵課費用",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a8fc97a-5431-4c9a-926f-08dde9561f3d",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a8fc97a-5431-4c9a-926f-08dde9561f3d"
+      ]
+    },
+    {
+      "id": "151902",
+      "name": "110年政策宣導廣告預算執行情形-代辦經費",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a6d9754b-d956-4d97-9d2f-b48ef1e03b27",
+        "https://data.kcg.gov.tw/File/DirectDownload/a6d9754b-d956-4d97-9d2f-b48ef1e03b27"
+      ]
+    },
+    {
+      "id": "150781",
+      "name": "房屋稅應稅戶數-按公私有別、構造別及使用別-108",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ea22d95-56aa-42c1-81e9-602254b0a823",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ea22d95-56aa-42c1-81e9-602254b0a823"
+      ]
+    },
+    {
+      "id": "150932",
+      "name": "110年土地增值稅查定稅額-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/02c6f936-b995-469b-8088-abb8f8e3ca12",
+        "https://data.kcg.gov.tw/File/DirectDownload/02c6f936-b995-469b-8088-abb8f8e3ca12"
+      ]
+    },
+    {
+      "id": "150935",
+      "name": "110年土地增值稅移轉現值-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4b547310-33ac-458b-863f-47dd9fe2d9a5",
+        "https://data.kcg.gov.tw/File/DirectDownload/4b547310-33ac-458b-863f-47dd9fe2d9a5"
+      ]
+    },
+    {
+      "id": "150936",
+      "name": "110年土地增值稅移轉面積-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c9b06eff-ae62-47b7-847c-82b7a45bf445",
+        "https://data.kcg.gov.tw/File/DirectDownload/c9b06eff-ae62-47b7-847c-82b7a45bf445"
+      ]
+    },
+    {
+      "id": "150937",
+      "name": "110年土地增值稅移轉筆數-按稅率別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/05913b48-01ec-41e4-9f00-98c8e20d459a",
+        "https://data.kcg.gov.tw/File/DirectDownload/05913b48-01ec-41e4-9f00-98c8e20d459a"
+      ]
+    },
+    {
+      "id": "150928",
+      "name": "110年土地增值稅移轉現值-按移轉原因別",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0e039db5-f190-48d6-a298-40ebf32a46a1",
+        "https://data.kcg.gov.tw/File/DirectDownload/0e039db5-f190-48d6-a298-40ebf32a46a1"
+      ]
+    },
+    {
+      "id": "150975",
+      "name": "110年查核定開徵金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/94059159-de72-47ad-88e7-a1f7d3749d6a",
+        "https://data.kcg.gov.tw/File/DirectDownload/94059159-de72-47ad-88e7-a1f7d3749d6a"
+      ]
+    },
+    {
+      "id": "151809",
+      "name": "各年度違章漏稅案件受理件數61",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/206c6c25-51d8-4b53-a5c1-0e88642f38ed",
+        "https://data.kcg.gov.tw/File/DirectDownload/206c6c25-51d8-4b53-a5c1-0e88642f38ed"
+      ]
+    },
+    {
+      "id": "151810",
+      "name": "各年度違章漏稅案件審理件數62",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b6884d77-62c4-4744-b37e-5d78e4647bc0",
+        "https://data.kcg.gov.tw/File/DirectDownload/b6884d77-62c4-4744-b37e-5d78e4647bc0"
+      ]
+    },
+    {
+      "id": "151816",
+      "name": "各年度土地增值稅調整後原規定地價或前次移轉現值-按稅率別19",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8570e227-b10b-47c2-8ee5-f71158c5cce4",
+        "https://data.kcg.gov.tw/File/DirectDownload/8570e227-b10b-47c2-8ee5-f71158c5cce4"
+      ]
+    },
+    {
+      "id": "151780",
+      "name": "各年度土地增值稅查定稅額-按移轉原因別32",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1e7db9cd-8c91-47f7-b35b-02d38061cf76",
+        "https://data.kcg.gov.tw/File/DirectDownload/1e7db9cd-8c91-47f7-b35b-02d38061cf76"
+      ]
+    },
+    {
+      "id": "151781",
+      "name": "各年度土地增值稅增繳地價稅抵繳稅額-按移轉原因別33",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2acf0f5a-666e-4d67-857b-35b104997675",
+        "https://data.kcg.gov.tw/File/DirectDownload/2acf0f5a-666e-4d67-857b-35b104997675"
+      ]
+    },
+    {
+      "id": "151782",
+      "name": "各年度房屋稅應稅戶數-按公私有別、構造別及使用別36",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6e3242e4-e1da-41e3-9a7e-9a7ff29c6781",
+        "https://data.kcg.gov.tw/File/DirectDownload/6e3242e4-e1da-41e3-9a7e-9a7ff29c6781"
+      ]
+    },
+    {
+      "id": "151784",
+      "name": "各年度房屋稅應稅現值-按公私有別、構造別及使用別38",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/15ccc36a-49a4-4370-8664-ca9f476930ae",
+        "https://data.kcg.gov.tw/File/DirectDownload/15ccc36a-49a4-4370-8664-ca9f476930ae"
+      ]
+    },
+    {
+      "id": "151785",
+      "name": "各年度房屋稅免稅戶數-按公私有別及構造別39",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/43c0fab1-ea3b-43b5-b5e4-fadc315efac1",
+        "https://data.kcg.gov.tw/File/directDownload/43c0fab1-ea3b-43b5-b5e4-fadc315efac1"
+      ]
+    },
+    {
+      "id": "151790",
+      "name": "各年度土地增值稅改良土地費用-按移轉原因別30",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e7379455-17f2-452a-b913-b1c9c5edd2df",
+        "https://data.kcg.gov.tw/File/DirectDownload/e7379455-17f2-452a-b913-b1c9c5edd2df"
+      ]
+    },
+    {
+      "id": "151792",
+      "name": "各年度土地增值稅移轉現值-按移轉原因別28",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d09e4978-d0dc-48cf-a1ea-7828d33f4698",
+        "https://data.kcg.gov.tw/File/DirectDownload/d09e4978-d0dc-48cf-a1ea-7828d33f4698"
+      ]
+    },
+    {
+      "id": "151793",
+      "name": "各年度契稅查定件數-按契別44",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6fbacbb8-9ae4-48bf-bd8e-206a55d3acfb",
+        "https://data.kcg.gov.tw/File/directDownload/6fbacbb8-9ae4-48bf-bd8e-206a55d3acfb"
+      ]
+    },
+    {
+      "id": "151796",
+      "name": "各年度娛樂稅查定及申報家數-按來源別47",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7b812dc-0132-4bb3-8811-2cc75fa3ef72",
+        "https://data.kcg.gov.tw/File/directDownload/f7b812dc-0132-4bb3-8811-2cc75fa3ef72"
+      ]
+    },
+    {
+      "id": "151797",
+      "name": "各年度娛樂稅實徵淨額-按來源別48",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/836af471-4875-4405-995c-bf550d58c4fe",
+        "https://data.kcg.gov.tw/File/DirectDownload/836af471-4875-4405-995c-bf550d58c4fe"
+      ]
+    },
+    {
+      "id": "151798",
+      "name": "各年度土地增值稅移轉筆數-按移轉原因別26",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6351f737-9710-4739-ae96-dc5cd67f202a",
+        "https://data.kcg.gov.tw/File/DirectDownload/6351f737-9710-4739-ae96-dc5cd67f202a"
+      ]
+    },
+    {
+      "id": "151799",
+      "name": "各年度查核定開徵件數49",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fd5889ee-80de-4728-bcbe-cb2ab73ba335",
+        "https://data.kcg.gov.tw/File/directDownload/fd5889ee-80de-4728-bcbe-cb2ab73ba335"
+      ]
+    },
+    {
+      "id": "151800",
+      "name": "各年度查核定開徵金額50",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2e1694ee-1d5f-4e41-b0f1-89435306f33d",
+        "https://data.kcg.gov.tw/File/DirectDownload/2e1694ee-1d5f-4e41-b0f1-89435306f33d"
+      ]
+    },
+    {
+      "id": "151801",
+      "name": "各年度實徵件數51",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/caabacbc-2042-48da-9532-191d58343615",
+        "https://data.kcg.gov.tw/File/DirectDownload/caabacbc-2042-48da-9532-191d58343615"
+      ]
+    },
+    {
+      "id": "151802",
+      "name": "各年度實徵金額52",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5bd1b39d-ac96-4d5e-b73a-dc915da75c10",
+        "https://data.kcg.gov.tw/File/DirectDownload/5bd1b39d-ac96-4d5e-b73a-dc915da75c10"
+      ]
+    },
+    {
+      "id": "151803",
+      "name": "各年度減免註銷件數53",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b4719613-b458-4f8b-b853-8107db43243b",
+        "https://data.kcg.gov.tw/File/DirectDownload/b4719613-b458-4f8b-b853-8107db43243b"
+      ]
+    },
+    {
+      "id": "151805",
+      "name": "各年度減免註銷金額54",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6d52c64c-7b9d-4066-9beb-189aa9ca0949",
+        "https://data.kcg.gov.tw/File/DirectDownload/6d52c64c-7b9d-4066-9beb-189aa9ca0949"
+      ]
+    },
+    {
+      "id": "151807",
+      "name": "各年度逾核課期限金額58",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a5cce8f-9bf3-419d-b60a-3d36d7364b53",
+        "https://data.kcg.gov.tw/File/DirectDownload/5a5cce8f-9bf3-419d-b60a-3d36d7364b53"
+      ]
+    }
+  ]
+}

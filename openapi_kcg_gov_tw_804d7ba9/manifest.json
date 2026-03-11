@@ -1,0 +1,3370 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府消防局",
+  "slug": "openapi_kcg_gov_tw_804d7ba9",
+  "datasets": [
+    {
+      "id": "47102",
+      "name": "105年高雄市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c18b5dff-be4a-435d-a7ad-fbee3950d02b",
+        "https://data.kcg.gov.tw/File/DirectDownload/c18b5dff-be4a-435d-a7ad-fbee3950d02b"
+      ]
+    },
+    {
+      "id": "47103",
+      "name": "105年高雄市火災人員死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3107620e-b18f-4ba5-989c-63d8fccd7019",
+        "https://data.kcg.gov.tw/File/DirectDownload/3107620e-b18f-4ba5-989c-63d8fccd7019"
+      ]
+    },
+    {
+      "id": "43798",
+      "name": "高雄市12導程心電圖機配置清冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/190d8695-2347-42c7-8e9d-0b2daec36604",
+        "https://data.kcg.gov.tw/File/DirectDownload/190d8695-2347-42c7-8e9d-0b2daec36604"
+      ]
+    },
+    {
+      "id": "43812",
+      "name": "高雄市救護車及器材捐贈芳名錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/96066986-9a7a-4623-90d8-3a791275f78a",
+        "https://data.kcg.gov.tw/File/DirectDownload/96066986-9a7a-4623-90d8-3a791275f78a"
+      ]
+    },
+    {
+      "id": "43814",
+      "name": "106年消防局公布危險水域地點及曾發生溺水事故地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d9c8c47c-f883-479f-bd73-1ab6cb6e54c0",
+        "https://data.kcg.gov.tw/File/DirectDownload/d9c8c47c-f883-479f-bd73-1ab6cb6e54c0"
+      ]
+    },
+    {
+      "id": "46947",
+      "name": "高雄市政府消防局歷年受理市話電話量統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1df29d40-97a2-4e16-9e5f-8ecb5c604407",
+        "https://data.kcg.gov.tw/File/DirectDownload/1df29d40-97a2-4e16-9e5f-8ecb5c604407"
+      ]
+    },
+    {
+      "id": "75682",
+      "name": "104年高雄市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/45180275-2d05-4772-a0dd-e61759affc80",
+        "https://data.kcg.gov.tw/File/DirectDownload/45180275-2d05-4772-a0dd-e61759affc80"
+      ]
+    },
+    {
+      "id": "75683",
+      "name": "103年高雄市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc8b736f-0bec-447a-b630-8b0f7f5327da",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc8b736f-0bec-447a-b630-8b0f7f5327da"
+      ]
+    },
+    {
+      "id": "75685",
+      "name": "101年高雄市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b88f013a-e0cb-4909-bde6-bcc698be4e48",
+        "https://data.kcg.gov.tw/File/DirectDownload/b88f013a-e0cb-4909-bde6-bcc698be4e48"
+      ]
+    },
+    {
+      "id": "75669",
+      "name": "102年高雄市火災次數按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3d54b07-7424-4024-a76b-bfeefa24d083",
+        "https://data.kcg.gov.tw/File/DirectDownload/a3d54b07-7424-4024-a76b-bfeefa24d083"
+      ]
+    },
+    {
+      "id": "75678",
+      "name": "101年高雄市火災死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8396059e-f7e2-4e6a-ac61-aa63ec0d1103",
+        "https://data.kcg.gov.tw/File/DirectDownload/8396059e-f7e2-4e6a-ac61-aa63ec0d1103"
+      ]
+    },
+    {
+      "id": "86394",
+      "name": "高雄市政府消防局731石化氣爆案消防局接受捐款明細",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bd5196c8-b864-4ab0-af42-9db165baf8b1",
+        "https://data.kcg.gov.tw/File/DirectDownload/bd5196c8-b864-4ab0-af42-9db165baf8b1"
+      ]
+    },
+    {
+      "id": "124519",
+      "name": "103年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/65a51d15-63aa-4e77-8810-bcaee66e7d1a",
+        "https://data.kcg.gov.tw/File/DirectDownload/65a51d15-63aa-4e77-8810-bcaee66e7d1a"
+      ]
+    },
+    {
+      "id": "124520",
+      "name": "102年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6d178760-9b38-4574-ace0-f7caad173022",
+        "https://data.kcg.gov.tw/File/DirectDownload/6d178760-9b38-4574-ace0-f7caad173022"
+      ]
+    },
+    {
+      "id": "124522",
+      "name": "101年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c4db3ab1-3488-4088-802c-9df685ab6266",
+        "https://data.kcg.gov.tw/File/DirectDownload/c4db3ab1-3488-4088-802c-9df685ab6266"
+      ]
+    },
+    {
+      "id": "124523",
+      "name": "101年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/33079ca4-ba0d-4870-9594-4fc606e35a97",
+        "https://data.kcg.gov.tw/File/DirectDownload/33079ca4-ba0d-4870-9594-4fc606e35a97"
+      ]
+    },
+    {
+      "id": "124507",
+      "name": "108年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/990fbf56-035d-495c-9c45-fc96e09d58e2",
+        "https://data.kcg.gov.tw/File/DirectDownload/990fbf56-035d-495c-9c45-fc96e09d58e2"
+      ]
+    },
+    {
+      "id": "124509",
+      "name": "107年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2c7deda6-1f1d-404e-8e27-ca1a80e87db7",
+        "https://data.kcg.gov.tw/File/DirectDownload/2c7deda6-1f1d-404e-8e27-ca1a80e87db7"
+      ]
+    },
+    {
+      "id": "124513",
+      "name": "106年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/410cb75b-3fcc-4b11-8e1a-5ed38df37d4c",
+        "https://data.kcg.gov.tw/File/DirectDownload/410cb75b-3fcc-4b11-8e1a-5ed38df37d4c"
+      ]
+    },
+    {
+      "id": "124516",
+      "name": "103年高雄市政府消防局歲出追加減預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/095d6ab3-a192-406c-b2c2-a451fead4cec",
+        "https://data.kcg.gov.tw/File/DirectDownload/095d6ab3-a192-406c-b2c2-a451fead4cec"
+      ]
+    },
+    {
+      "id": "106132",
+      "name": "104年高雄市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eefa84e9-a288-43f2-9a59-c028a1af2c66",
+        "https://data.kcg.gov.tw/File/DirectDownload/eefa84e9-a288-43f2-9a59-c028a1af2c66"
+      ]
+    },
+    {
+      "id": "106133",
+      "name": "104年高雄市火災死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03e5dd93-b40f-4360-8fa1-f400538078ed",
+        "https://data.kcg.gov.tw/File/DirectDownload/03e5dd93-b40f-4360-8fa1-f400538078ed"
+      ]
+    },
+    {
+      "id": "122211",
+      "name": "108年高雄市應變中心開設天然災害人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/376fca9c-c0e6-48de-bbd1-9b0a7ff48ac0",
+        "https://data.kcg.gov.tw/File/DirectDownload/376fca9c-c0e6-48de-bbd1-9b0a7ff48ac0"
+      ]
+    },
+    {
+      "id": "122146",
+      "name": "108年高雄市應變中心開設0815豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/028d6e1e-d0a6-4553-85b6-5eac3313d2c0",
+        "https://data.kcg.gov.tw/File/DirectDownload/028d6e1e-d0a6-4553-85b6-5eac3313d2c0"
+      ]
+    },
+    {
+      "id": "122485",
+      "name": "108年高雄市緊急救護急救處置統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a1f46196-233e-4d4b-9237-d45334fe6a15",
+        "https://data.kcg.gov.tw/File/DirectDownload/a1f46196-233e-4d4b-9237-d45334fe6a15"
+      ]
+    },
+    {
+      "id": "122486",
+      "name": "107年高雄市緊急救護急救處置統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/469b8dd7-d43a-475d-b9ae-b4c6675723f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/469b8dd7-d43a-475d-b9ae-b4c6675723f3"
+      ]
+    },
+    {
+      "id": "122487",
+      "name": "108年高雄市緊急救護服務統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f3f439fa-ea72-4d68-9d03-6a3ce6e4092c",
+        "https://data.kcg.gov.tw/File/DirectDownload/f3f439fa-ea72-4d68-9d03-6a3ce6e4092c"
+      ]
+    },
+    {
+      "id": "122489",
+      "name": "106年高雄市政府消防局緊急救護服務統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e0463926-e39c-4c20-91a2-7abcb1ec6531",
+        "https://data.kcg.gov.tw/File/DirectDownload/e0463926-e39c-4c20-91a2-7abcb1ec6531"
+      ]
+    },
+    {
+      "id": "122617",
+      "name": "108年消防局公布危險水域地點及曾發生溺水事故地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c9b213e1-dc92-490b-8b07-763ed969edc9",
+        "https://data.kcg.gov.tw/File/DirectDownload/c9b213e1-dc92-490b-8b07-763ed969edc9"
+      ]
+    },
+    {
+      "id": "122618",
+      "name": "107年消防局公布危險水域地點及曾發生溺水事故地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/79c5a9c8-33e8-4c3e-8376-fd1ea2aaba13",
+        "https://data.kcg.gov.tw/File/DirectDownload/79c5a9c8-33e8-4c3e-8376-fd1ea2aaba13"
+      ]
+    },
+    {
+      "id": "122620",
+      "name": "107年高雄市消防車裝備捐贈芳名錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a736cce3-5a04-4278-a7b1-5bad09696900",
+        "https://data.kcg.gov.tw/File/DirectDownload/a736cce3-5a04-4278-a7b1-5bad09696900"
+      ]
+    },
+    {
+      "id": "122621",
+      "name": "108年高雄市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3644c1c4-42b3-43c7-b4d2-2b7329b2a292",
+        "https://data.kcg.gov.tw/File/DirectDownload/3644c1c4-42b3-43c7-b4d2-2b7329b2a292"
+      ]
+    },
+    {
+      "id": "122623",
+      "name": "108年高雄市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9cea15c2-5d1e-4e38-b0ca-d2e1baf5d6bd",
+        "https://data.kcg.gov.tw/File/DirectDownload/9cea15c2-5d1e-4e38-b0ca-d2e1baf5d6bd"
+      ]
+    },
+    {
+      "id": "122624",
+      "name": "108年高雄市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/034d9ca6-265e-405f-a9b0-64861681ea86",
+        "https://data.kcg.gov.tw/File/DirectDownload/034d9ca6-265e-405f-a9b0-64861681ea86"
+      ]
+    },
+    {
+      "id": "122627",
+      "name": "107年高雄市火災案件按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03aa7d42-8ebd-46da-b322-6fa15e2a7aed",
+        "https://data.kcg.gov.tw/File/DirectDownload/03aa7d42-8ebd-46da-b322-6fa15e2a7aed"
+      ]
+    },
+    {
+      "id": "122630",
+      "name": "107年高雄市火災死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/543a0642-cd03-48ec-b625-9d0d80ead5e2",
+        "https://data.kcg.gov.tw/File/DirectDownload/543a0642-cd03-48ec-b625-9d0d80ead5e2"
+      ]
+    },
+    {
+      "id": "122634",
+      "name": "106年高雄市火災案件按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d9fe5b6a-6b6b-4dc6-8333-995cf3d9b94b",
+        "https://data.kcg.gov.tw/File/DirectDownload/d9fe5b6a-6b6b-4dc6-8333-995cf3d9b94b"
+      ]
+    },
+    {
+      "id": "122635",
+      "name": "106年高雄市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ba6d7bd0-cf60-4d2d-a8b6-07de5389a4d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/ba6d7bd0-cf60-4d2d-a8b6-07de5389a4d6"
+      ]
+    },
+    {
+      "id": "123254",
+      "name": "100年高雄市火災死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/afc01ff1-5db5-43e0-890b-265b6f240bb1",
+        "https://data.kcg.gov.tw/File/DirectDownload/afc01ff1-5db5-43e0-890b-265b6f240bb1"
+      ]
+    },
+    {
+      "id": "123256",
+      "name": "108年高雄市緊急救護無生命徵象傷病患急救成功人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7f595152-78ea-46bd-a8ba-3879790e711a",
+        "https://data.kcg.gov.tw/File/DirectDownload/7f595152-78ea-46bd-a8ba-3879790e711a"
+      ]
+    },
+    {
+      "id": "123259",
+      "name": "106年高雄市緊急救護無生命徵象傷病患急救成功人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/22becbd1-2f53-4fb1-bc07-7562f75ef2d7",
+        "https://data.kcg.gov.tw/File/DirectDownload/22becbd1-2f53-4fb1-bc07-7562f75ef2d7"
+      ]
+    },
+    {
+      "id": "123260",
+      "name": "106年高雄市緊急救護到院前心肺功能停止傷病患統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5fabe2bc-f333-4001-bb25-d7e01b53a356",
+        "https://data.kcg.gov.tw/File/DirectDownload/5fabe2bc-f333-4001-bb25-d7e01b53a356"
+      ]
+    },
+    {
+      "id": "119983",
+      "name": "107年高雄市緊急救護日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4552c078-aacd-41f3-95dd-b215d932c7af",
+        "https://data.kcg.gov.tw/File/directDownload/4552c078-aacd-41f3-95dd-b215d932c7af"
+      ]
+    },
+    {
+      "id": "119984",
+      "name": "106年高雄市緊急救護日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a0cc436-fef0-48b8-b849-0dd852af0984",
+        "https://data.kcg.gov.tw/File/directDownload/0a0cc436-fef0-48b8-b849-0dd852af0984"
+      ]
+    },
+    {
+      "id": "119977",
+      "name": "108年高雄市緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/32ac6ddf-57ed-4068-a0b9-4ea3ea69af30",
+        "https://data.kcg.gov.tw/File/directDownload/32ac6ddf-57ed-4068-a0b9-4ea3ea69af30"
+      ]
+    },
+    {
+      "id": "119979",
+      "name": "107年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/74eceafd-27ed-41a9-9014-6976936c1866",
+        "https://data.kcg.gov.tw/File/directDownload/74eceafd-27ed-41a9-9014-6976936c1866"
+      ]
+    },
+    {
+      "id": "127857",
+      "name": "107年高雄市緊急救護到院前心肺功能停止傷病患統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9b0d384e-80fe-4e1c-945e-642952884a86",
+        "https://data.kcg.gov.tw/File/DirectDownload/9b0d384e-80fe-4e1c-945e-642952884a86"
+      ]
+    },
+    {
+      "id": "100878",
+      "name": "106年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eef2ba57-ad33-4679-8caf-12e53d88217a",
+        "https://data.kcg.gov.tw/File/DirectDownload/eef2ba57-ad33-4679-8caf-12e53d88217a"
+      ]
+    },
+    {
+      "id": "102091",
+      "name": "高雄市政府消防局分隊通訊錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4f83f47b-9d59-488f-a2a0-8bf0b7f93ed2",
+        "https://data.kcg.gov.tw/File/DirectDownload/4f83f47b-9d59-488f-a2a0-8bf0b7f93ed2"
+      ]
+    },
+    {
+      "id": "102094",
+      "name": "高雄市政府消防局歷年受理公用電話量統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a67aa99e-a0d6-438c-9243-b3ab65df6e49",
+        "https://data.kcg.gov.tw/File/DirectDownload/a67aa99e-a0d6-438c-9243-b3ab65df6e49"
+      ]
+    },
+    {
+      "id": "87062",
+      "name": "105年高雄市液化石油氣消防安全檢查及違規取締",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a5208b3-0ec7-4c4a-a508-0b6042b66f6d",
+        "https://data.kcg.gov.tw/File/DirectDownload/9a5208b3-0ec7-4c4a-a508-0b6042b66f6d"
+      ]
+    },
+    {
+      "id": "87067",
+      "name": "105年高雄市緊急救護服務統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c5c6e785-5de6-465d-8e97-3fc99e74b8ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/c5c6e785-5de6-465d-8e97-3fc99e74b8ab"
+      ]
+    },
+    {
+      "id": "121014",
+      "name": "108年高雄市爆竹煙火違法取締年報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fa8040ae-3b7c-429e-a5f4-7a790be20aef",
+        "https://data.kcg.gov.tw/File/DirectDownload/fa8040ae-3b7c-429e-a5f4-7a790be20aef"
+      ]
+    },
+    {
+      "id": "121073",
+      "name": "108年高雄市政府消防局一般公文時效統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/31dea06b-e387-4d98-91df-eba7572dee55",
+        "https://data.kcg.gov.tw/File/DirectDownload/31dea06b-e387-4d98-91df-eba7572dee55"
+      ]
+    },
+    {
+      "id": "125943",
+      "name": "108年高雄市液化石油氣消防安全檢查及違規取締",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/93607c67-e78f-46e6-a829-de4693c1d751",
+        "https://data.kcg.gov.tw/File/DirectDownload/93607c67-e78f-46e6-a829-de4693c1d751"
+      ]
+    },
+    {
+      "id": "125944",
+      "name": "107年高雄市液化石油氣消防安全檢查及違規取締",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d712aae3-34c7-4a45-a77c-ac752e009da0",
+        "https://data.kcg.gov.tw/File/DirectDownload/d712aae3-34c7-4a45-a77c-ac752e009da0"
+      ]
+    },
+    {
+      "id": "138301",
+      "name": "106年高雄市應變中心開設0601豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72f20681-7f5c-49fd-88e0-8a8dd7b3b2f8",
+        "https://data.kcg.gov.tw/File/DirectDownload/72f20681-7f5c-49fd-88e0-8a8dd7b3b2f8"
+      ]
+    },
+    {
+      "id": "138303",
+      "name": "107年高雄市應變中心開設0822豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3e1925a-db6d-43a6-ae8e-091ba0fe744a",
+        "https://data.kcg.gov.tw/File/DirectDownload/a3e1925a-db6d-43a6-ae8e-091ba0fe744a"
+      ]
+    },
+    {
+      "id": "138304",
+      "name": "106年高雄市應變中心開設水患人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/26454061-d487-4a6a-b9a6-b86523fcf211",
+        "https://data.kcg.gov.tw/File/DirectDownload/26454061-d487-4a6a-b9a6-b86523fcf211"
+      ]
+    },
+    {
+      "id": "138321",
+      "name": "107年高雄市應變中心開設其他天然災害人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/560a70e8-d5e9-4e97-9e8b-4a337ef12253",
+        "https://data.kcg.gov.tw/File/DirectDownload/560a70e8-d5e9-4e97-9e8b-4a337ef12253"
+      ]
+    },
+    {
+      "id": "138324",
+      "name": "107年高雄市應變中心開設震災人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cedfe4fc-6c2b-494d-b66c-839217b566a0",
+        "https://data.kcg.gov.tw/File/DirectDownload/cedfe4fc-6c2b-494d-b66c-839217b566a0"
+      ]
+    },
+    {
+      "id": "145092",
+      "name": "高雄市風災應變中心開設時間層級",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63da83ad-b9ce-4d95-b1ab-49ef03e73d2c",
+        "https://data.kcg.gov.tw/File/DirectDownload/63da83ad-b9ce-4d95-b1ab-49ef03e73d2c"
+      ]
+    },
+    {
+      "id": "145091",
+      "name": "高雄市消防栓位置(其他)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7bd6fe3-7a4b-4929-9e87-6730e80ff104",
+        "https://data.kcg.gov.tw/File/directDownload/f7bd6fe3-7a4b-4929-9e87-6730e80ff104"
+      ]
+    },
+    {
+      "id": "143371",
+      "name": "109年高雄市消防車裝備捐贈芳名錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/07a7e513-35cc-49f5-9d18-ee2a8860ef55",
+        "https://data.kcg.gov.tw/File/DirectDownload/07a7e513-35cc-49f5-9d18-ee2a8860ef55"
+      ]
+    },
+    {
+      "id": "143375",
+      "name": "109年高雄市緊急救護服務統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1aab1eae-865a-4029-acf8-e824cb7d1fac",
+        "https://data.kcg.gov.tw/File/DirectDownload/1aab1eae-865a-4029-acf8-e824cb7d1fac"
+      ]
+    },
+    {
+      "id": "143402",
+      "name": "109年高雄市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/16e87f37-90f9-48ee-bbbe-3ec4067ada7f",
+        "https://data.kcg.gov.tw/File/DirectDownload/16e87f37-90f9-48ee-bbbe-3ec4067ada7f"
+      ]
+    },
+    {
+      "id": "143403",
+      "name": "109年高雄市火災人員死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a9a685c6-0ff4-4479-9c3e-5eba49437f0e",
+        "https://data.kcg.gov.tw/File/DirectDownload/a9a685c6-0ff4-4479-9c3e-5eba49437f0e"
+      ]
+    },
+    {
+      "id": "143420",
+      "name": "109年高雄市應變中心開設風災人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d0b324c0-e3d8-48ba-b07f-b278dc2e59b3",
+        "https://data.kcg.gov.tw/File/DirectDownload/d0b324c0-e3d8-48ba-b07f-b278dc2e59b3"
+      ]
+    },
+    {
+      "id": "143392",
+      "name": "110年度高雄市列管建築物上下年報",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c94bff14-5412-467c-9703-8943a0badbd5",
+        "https://data.kcg.gov.tw/File/DirectDownload/c94bff14-5412-467c-9703-8943a0badbd5"
+      ]
+    },
+    {
+      "id": "143393",
+      "name": "109年度高雄市列管場所對象上下年報",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9b3b8b2c-25c1-4e8b-b276-92aadfda2b0f",
+        "https://data.kcg.gov.tw/File/DirectDownload/9b3b8b2c-25c1-4e8b-b276-92aadfda2b0f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/688894a3-96b8-474b-8450-a61cdb0b6ead",
+        "https://data.kcg.gov.tw/File/DirectDownload/688894a3-96b8-474b-8450-a61cdb0b6ead"
+      ]
+    },
+    {
+      "id": "143394",
+      "name": "110年度高雄市列管場所對象上下年報",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed3f356b-755a-4d00-adb8-5cc567d06018",
+        "https://data.kcg.gov.tw/File/DirectDownload/ed3f356b-755a-4d00-adb8-5cc567d06018"
+      ]
+    },
+    {
+      "id": "143397",
+      "name": "109年高雄市政府消防局電子簽核及紙本簽核件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b1fe8085-1692-4cf8-8536-11b72d1283a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/b1fe8085-1692-4cf8-8536-11b72d1283a7"
+      ]
+    },
+    {
+      "id": "143399",
+      "name": "109年高雄市政府消防局一般公文時效統計表資訊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3c0485d6-fe02-4ec7-8684-e11269e961f0",
+        "https://data.kcg.gov.tw/File/DirectDownload/3c0485d6-fe02-4ec7-8684-e11269e961f0"
+      ]
+    },
+    {
+      "id": "160453",
+      "name": "110年高雄市緊急救護到院前心肺功能停止傷病患統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cb4655c5-a7d2-4fde-8d4d-dd0853812d62",
+        "https://data.kcg.gov.tw/File/DirectDownload/cb4655c5-a7d2-4fde-8d4d-dd0853812d62"
+      ]
+    },
+    {
+      "id": "160454",
+      "name": "110年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4bbc34aa-59bb-4835-8cdc-45e302814472",
+        "https://data.kcg.gov.tw/File/DirectDownload/4bbc34aa-59bb-4835-8cdc-45e302814472"
+      ]
+    },
+    {
+      "id": "160456",
+      "name": "109年高雄市應變中心開設0730豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c592d2c5-3e1e-47ec-ac12-10fe84a72af1",
+        "https://data.kcg.gov.tw/File/DirectDownload/c592d2c5-3e1e-47ec-ac12-10fe84a72af1"
+      ]
+    },
+    {
+      "id": "160458",
+      "name": "109年高雄市璨樹颱風出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/76f0a6e5-8660-492b-8189-86296cb67f35",
+        "https://data.kcg.gov.tw/File/DirectDownload/76f0a6e5-8660-492b-8189-86296cb67f35"
+      ]
+    },
+    {
+      "id": "160460",
+      "name": "110年高雄市緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1a61e74d-1f14-4dd4-a3fd-942ff956ef77",
+        "https://data.kcg.gov.tw/File/DirectDownload/1a61e74d-1f14-4dd4-a3fd-942ff956ef77"
+      ]
+    },
+    {
+      "id": "160463",
+      "name": "110年高雄市119公務案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c26d1b6e-31a5-4325-ad9d-2fabdf603ea4",
+        "https://data.kcg.gov.tw/File/DirectDownload/c26d1b6e-31a5-4325-ad9d-2fabdf603ea4"
+      ]
+    },
+    {
+      "id": "160482",
+      "name": "高雄市政府消防局地下式消防栓",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/43aa1035-39e7-458f-9e5e-5829a1381196",
+        "https://data.kcg.gov.tw/File/directDownload/43aa1035-39e7-458f-9e5e-5829a1381196"
+      ]
+    },
+    {
+      "id": "160484",
+      "name": "111年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f34fff36-2f4d-4113-8a52-e59c58764b92",
+        "https://data.kcg.gov.tw/File/DirectDownload/f34fff36-2f4d-4113-8a52-e59c58764b92"
+      ]
+    },
+    {
+      "id": "160485",
+      "name": "111年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/75f79344-65db-4de5-a585-0bb88fd18ac1",
+        "https://data.kcg.gov.tw/File/DirectDownload/75f79344-65db-4de5-a585-0bb88fd18ac1"
+      ]
+    },
+    {
+      "id": "160464",
+      "name": "110年高雄市119公務案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/23fe59ae-b125-41f8-8f17-dfc00c6e6926",
+        "https://data.kcg.gov.tw/File/DirectDownload/23fe59ae-b125-41f8-8f17-dfc00c6e6926"
+      ]
+    },
+    {
+      "id": "160465",
+      "name": "110年高雄市其他案件件數日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/80231ed5-b068-4d12-a926-ef22a1933e9a",
+        "https://data.kcg.gov.tw/File/DirectDownload/80231ed5-b068-4d12-a926-ef22a1933e9a"
+      ]
+    },
+    {
+      "id": "160476",
+      "name": "110年高雄市政府消防局捐贈相關報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03605dd7-0f5b-48f9-a358-e192184a66ef",
+        "https://data.kcg.gov.tw/File/DirectDownload/03605dd7-0f5b-48f9-a358-e192184a66ef"
+      ]
+    },
+    {
+      "id": "160477",
+      "name": "110年高雄市緊急救護急救處置統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bcc51aaa-af04-49bc-b6d0-b18004168394",
+        "https://data.kcg.gov.tw/File/DirectDownload/bcc51aaa-af04-49bc-b6d0-b18004168394"
+      ]
+    },
+    {
+      "id": "160479",
+      "name": "110年高雄市政府消防局救護車及器材捐贈芳名錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3607e160-7588-4236-ac0c-a3613889f6ec",
+        "https://data.kcg.gov.tw/File/DirectDownload/3607e160-7588-4236-ac0c-a3613889f6ec"
+      ]
+    },
+    {
+      "id": "163987",
+      "name": "112年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bcd24ceb-0dd3-4127-abce-b49a7cc04130",
+        "https://data.kcg.gov.tw/File/DirectDownload/bcd24ceb-0dd3-4127-abce-b49a7cc04130"
+      ]
+    },
+    {
+      "id": "163991",
+      "name": "111年高雄市緊急救護日報表-以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bcfc3560-a2f7-442e-be8c-8b1d59967d8e",
+        "https://data.kcg.gov.tw/File/DirectDownload/bcfc3560-a2f7-442e-be8c-8b1d59967d8e"
+      ]
+    },
+    {
+      "id": "164019",
+      "name": "111年高雄市政府消防局一般公文時效統計表資訊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/06e81c4d-fe1b-464f-9338-f5cf87fb02fb",
+        "https://data.kcg.gov.tw/File/DirectDownload/06e81c4d-fe1b-464f-9338-f5cf87fb02fb"
+      ]
+    },
+    {
+      "id": "164020",
+      "name": "111年高雄市政府消防局電子簽核及紙本簽核件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1476543d-bfa3-44f8-8d9b-df53a1520489",
+        "https://data.kcg.gov.tw/File/DirectDownload/1476543d-bfa3-44f8-8d9b-df53a1520489"
+      ]
+    },
+    {
+      "id": "164002",
+      "name": "111年高雄市119其他案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7084df6-4784-431d-83f1-4e0b05ec3269",
+        "https://data.kcg.gov.tw/File/DirectDownload/f7084df6-4784-431d-83f1-4e0b05ec3269"
+      ]
+    },
+    {
+      "id": "164005",
+      "name": "111年高雄市119公務案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/28be1135-6ee7-451d-93d1-ddbd7e05adb9",
+        "https://data.kcg.gov.tw/File/DirectDownload/28be1135-6ee7-451d-93d1-ddbd7e05adb9"
+      ]
+    },
+    {
+      "id": "164006",
+      "name": "111年高雄市119公務案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d87e8829-d58f-4852-ae96-377f15114770",
+        "https://data.kcg.gov.tw/File/DirectDownload/d87e8829-d58f-4852-ae96-377f15114770"
+      ]
+    },
+    {
+      "id": "164008",
+      "name": "111年高雄市緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/832fbca5-7558-42e0-9017-459ec98e9e17",
+        "https://data.kcg.gov.tw/File/DirectDownload/832fbca5-7558-42e0-9017-459ec98e9e17"
+      ]
+    },
+    {
+      "id": "132779",
+      "name": "高雄市政府消防局資料盤點表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7af9e94b-dac8-4bfa-9c96-c4cb4925ff38",
+        "https://data.kcg.gov.tw/File/DirectDownload/7af9e94b-dac8-4bfa-9c96-c4cb4925ff38"
+      ]
+    },
+    {
+      "id": "138825",
+      "name": "109年高雄市米克拉颱風出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/217246a5-9b93-453a-bacc-b0286f6c52e7",
+        "https://data.kcg.gov.tw/File/DirectDownload/217246a5-9b93-453a-bacc-b0286f6c52e7"
+      ]
+    },
+    {
+      "id": "138828",
+      "name": "109年高雄市0519水災出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/97ff6763-2e66-4b64-adfa-e48e34fb4c5f",
+        "https://data.kcg.gov.tw/File/DirectDownload/97ff6763-2e66-4b64-adfa-e48e34fb4c5f"
+      ]
+    },
+    {
+      "id": "138831",
+      "name": "108年高雄市0815水災出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d617bdc3-22bb-4976-b1d0-81f13cc535b6",
+        "https://data.kcg.gov.tw/File/DirectDownload/d617bdc3-22bb-4976-b1d0-81f13cc535b6"
+      ]
+    },
+    {
+      "id": "169599",
+      "name": "112年高雄市火災搶救日報表_以月作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/24b10971-40a3-4434-8dff-1bee85b70fbd",
+        "https://data.kcg.gov.tw/File/directDownload/24b10971-40a3-4434-8dff-1bee85b70fbd"
+      ]
+    },
+    {
+      "id": "169600",
+      "name": "112年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1eab008d-5599-4f3c-8094-29960e21197e",
+        "https://data.kcg.gov.tw/File/directDownload/1eab008d-5599-4f3c-8094-29960e21197e"
+      ]
+    },
+    {
+      "id": "169591",
+      "name": "112年高雄市緊急救護日報表_以月作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0e174d8d-a8ea-4c99-a8e5-73d03d37b11d",
+        "https://data.kcg.gov.tw/File/directDownload/0e174d8d-a8ea-4c99-a8e5-73d03d37b11d"
+      ]
+    },
+    {
+      "id": "169592",
+      "name": "112年高雄市緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95caf720-5bef-48b4-ab7e-8a1e6b72c0f0",
+        "https://data.kcg.gov.tw/File/directDownload/95caf720-5bef-48b4-ab7e-8a1e6b72c0f0"
+      ]
+    },
+    {
+      "id": "169594",
+      "name": "112年高雄市119公務案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2353df85-d6d6-479a-84f7-1331681c75c8",
+        "https://data.kcg.gov.tw/File/directDownload/2353df85-d6d6-479a-84f7-1331681c75c8"
+      ]
+    },
+    {
+      "id": "169595",
+      "name": "112年高雄市119其他案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0764b4c6-e3e8-4152-bc8d-a231dfd59b72",
+        "https://data.kcg.gov.tw/File/directDownload/0764b4c6-e3e8-4152-bc8d-a231dfd59b72"
+      ]
+    },
+    {
+      "id": "167221",
+      "name": "103年高雄市政府消防局一般公文時效統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b4b322dc-0260-4c0d-8786-243621d1203b",
+        "https://data.kcg.gov.tw/File/DirectDownload/b4b322dc-0260-4c0d-8786-243621d1203b"
+      ]
+    },
+    {
+      "id": "167223",
+      "name": "101年高雄市政府消防局一般公文時效統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/41bfdd50-e7c4-48a9-98b2-5bda97d33e33",
+        "https://data.kcg.gov.tw/File/DirectDownload/41bfdd50-e7c4-48a9-98b2-5bda97d33e33"
+      ]
+    },
+    {
+      "id": "167151",
+      "name": "105年高雄市爆竹煙火違法取締年報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/47824140-1fd2-41af-bcca-93d605d37ba7",
+        "https://data.kcg.gov.tw/File/DirectDownload/47824140-1fd2-41af-bcca-93d605d37ba7"
+      ]
+    },
+    {
+      "id": "167154",
+      "name": "105年高雄市爆竹煙火安全檢查",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b84d6e60-2993-41b8-af6c-87f7d1a06f0a",
+        "https://data.kcg.gov.tw/File/DirectDownload/b84d6e60-2993-41b8-af6c-87f7d1a06f0a"
+      ]
+    },
+    {
+      "id": "167155",
+      "name": "104年高雄市爆竹煙火安全檢查",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/305ca34a-886e-4afb-961a-435d910d5724",
+        "https://data.kcg.gov.tw/File/DirectDownload/305ca34a-886e-4afb-961a-435d910d5724"
+      ]
+    },
+    {
+      "id": "167156",
+      "name": "103年高雄市爆竹煙火安全檢查",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/897fab88-c33e-4c5a-a597-0d1ededb0285",
+        "https://data.kcg.gov.tw/File/DirectDownload/897fab88-c33e-4c5a-a597-0d1ededb0285"
+      ]
+    },
+    {
+      "id": "167158",
+      "name": "106年高雄市政府消防局電子簽核及紙本簽核件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/69fc55df-c985-49cb-a6ea-3813e0857c92",
+        "https://data.kcg.gov.tw/File/DirectDownload/69fc55df-c985-49cb-a6ea-3813e0857c92"
+      ]
+    },
+    {
+      "id": "167160",
+      "name": "105年高雄市應變中心開設震災搶救災民人數統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a4c52335-0e42-4281-960b-c72d43177d8c",
+        "https://data.kcg.gov.tw/File/DirectDownload/a4c52335-0e42-4281-960b-c72d43177d8c"
+      ]
+    },
+    {
+      "id": "167162",
+      "name": "105年高雄市應變中心開設震災出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f5d38927-4a2a-4162-9346-60c6ef8b527a",
+        "https://data.kcg.gov.tw/File/DirectDownload/f5d38927-4a2a-4162-9346-60c6ef8b527a"
+      ]
+    },
+    {
+      "id": "167164",
+      "name": "105年高雄市應變中心開設震災人員傷亡統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/af6cae47-5402-42ea-a26d-f9f00a6f9f57",
+        "https://data.kcg.gov.tw/File/DirectDownload/af6cae47-5402-42ea-a26d-f9f00a6f9f57"
+      ]
+    },
+    {
+      "id": "167170",
+      "name": "105年高雄市應變中心開設水患災害搶救災民人數統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8601f636-3b4f-4772-8130-672cb5cf4a3e",
+        "https://data.kcg.gov.tw/File/DirectDownload/8601f636-3b4f-4772-8130-672cb5cf4a3e"
+      ]
+    },
+    {
+      "id": "167172",
+      "name": "105年高雄市應變中心開設水患災害出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e93f497a-a1f5-40ba-9785-967a1edc7ea5",
+        "https://data.kcg.gov.tw/File/DirectDownload/e93f497a-a1f5-40ba-9785-967a1edc7ea5"
+      ]
+    },
+    {
+      "id": "167173",
+      "name": "105年高雄市應變中心開設水患災害出動救災人員統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e852dcab-c51d-4fc5-9a0f-fb53f48a3d03",
+        "https://data.kcg.gov.tw/File/DirectDownload/e852dcab-c51d-4fc5-9a0f-fb53f48a3d03"
+      ]
+    },
+    {
+      "id": "167174",
+      "name": "105年高雄市應變中心開設水患災害人員傷亡統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/448eb089-b8f9-47f2-a0dd-3f0c8155f814",
+        "https://data.kcg.gov.tw/File/DirectDownload/448eb089-b8f9-47f2-a0dd-3f0c8155f814"
+      ]
+    },
+    {
+      "id": "167176",
+      "name": "106年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bd027d1c-ef66-456e-994d-8eb9fd366888",
+        "https://data.kcg.gov.tw/File/DirectDownload/bd027d1c-ef66-456e-994d-8eb9fd366888"
+      ]
+    },
+    {
+      "id": "167180",
+      "name": "102年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c3ff2e41-5ae9-407f-85ae-b3990ea387ef",
+        "https://data.kcg.gov.tw/File/DirectDownload/c3ff2e41-5ae9-407f-85ae-b3990ea387ef"
+      ]
+    },
+    {
+      "id": "167181",
+      "name": "101年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cf10c701-d22f-4e7b-b047-ddc0cb1e9abf",
+        "https://data.kcg.gov.tw/File/DirectDownload/cf10c701-d22f-4e7b-b047-ddc0cb1e9abf"
+      ]
+    },
+    {
+      "id": "167182",
+      "name": "100年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5e8a3344-8d22-4a2f-8595-e7c35165326a",
+        "https://data.kcg.gov.tw/File/DirectDownload/5e8a3344-8d22-4a2f-8595-e7c35165326a"
+      ]
+    },
+    {
+      "id": "167192",
+      "name": "103年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/49aa89c0-81af-490c-869e-277e113d358f",
+        "https://data.kcg.gov.tw/File/DirectDownload/49aa89c0-81af-490c-869e-277e113d358f"
+      ]
+    },
+    {
+      "id": "167194",
+      "name": "101年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d8ffdf87-421e-46a9-9ccd-568a7ee9857b",
+        "https://data.kcg.gov.tw/File/DirectDownload/d8ffdf87-421e-46a9-9ccd-568a7ee9857b"
+      ]
+    },
+    {
+      "id": "167199",
+      "name": "102年高雄市政府消防局緊急救護日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b4de6b99-a82b-4a56-b9db-b5b04c9c4e76",
+        "https://data.kcg.gov.tw/File/DirectDownload/b4de6b99-a82b-4a56-b9db-b5b04c9c4e76"
+      ]
+    },
+    {
+      "id": "167207",
+      "name": "106年高雄市政府消防局他案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7abd6a13-008c-4594-b7ea-1db349a24742",
+        "https://data.kcg.gov.tw/File/DirectDownload/7abd6a13-008c-4594-b7ea-1db349a24742"
+      ]
+    },
+    {
+      "id": "167209",
+      "name": "104年高雄市政府消防局其他案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/96b7601f-e734-44b2-9e1d-33f8a5bbe02d",
+        "https://data.kcg.gov.tw/File/DirectDownload/96b7601f-e734-44b2-9e1d-33f8a5bbe02d"
+      ]
+    },
+    {
+      "id": "167211",
+      "name": "106年高雄市政府消防局其他案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/09270ef0-f633-40f8-af98-b08bcb8e8d9b",
+        "https://data.kcg.gov.tw/File/DirectDownload/09270ef0-f633-40f8-af98-b08bcb8e8d9b"
+      ]
+    },
+    {
+      "id": "167213",
+      "name": "104年高雄市其他案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/561295b5-c809-4902-a67e-cc78c0743a4a",
+        "https://data.kcg.gov.tw/File/DirectDownload/561295b5-c809-4902-a67e-cc78c0743a4a"
+      ]
+    },
+    {
+      "id": "167217",
+      "name": "107年高雄市政府消防局一般公文時效統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/78284a3d-df35-4566-9190-a285d04b4ab1",
+        "https://data.kcg.gov.tw/File/DirectDownload/78284a3d-df35-4566-9190-a285d04b4ab1"
+      ]
+    },
+    {
+      "id": "75668",
+      "name": "103年高雄市火災次數按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e87f25bf-f800-4aaf-8f47-66b798e3f07f",
+        "https://data.kcg.gov.tw/File/DirectDownload/e87f25bf-f800-4aaf-8f47-66b798e3f07f"
+      ]
+    },
+    {
+      "id": "75673",
+      "name": "102年高雄市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/888c0255-96c7-4a58-8aa9-e8fc9e5ab335",
+        "https://data.kcg.gov.tw/File/DirectDownload/888c0255-96c7-4a58-8aa9-e8fc9e5ab335"
+      ]
+    },
+    {
+      "id": "75677",
+      "name": "102年高雄市火災死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/633bd3d9-b147-4933-b4a8-aebf7b7b391d",
+        "https://data.kcg.gov.tw/File/DirectDownload/633bd3d9-b147-4933-b4a8-aebf7b7b391d"
+      ]
+    },
+    {
+      "id": "75680",
+      "name": "102年高雄市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ac8797c5-8b5f-4d90-ad35-a199e731d5a8",
+        "https://data.kcg.gov.tw/File/DirectDownload/ac8797c5-8b5f-4d90-ad35-a199e731d5a8"
+      ]
+    },
+    {
+      "id": "75681",
+      "name": "101年高雄市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/642edf22-c0f8-4bd4-8d5f-63e763ac637e",
+        "https://data.kcg.gov.tw/File/DirectDownload/642edf22-c0f8-4bd4-8d5f-63e763ac637e"
+      ]
+    },
+    {
+      "id": "87204",
+      "name": "高雄市滅火器換藥及充填作業許可合格廠商",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/39cddb32-0737-4f7a-8849-988f7852e301",
+        "https://data.kcg.gov.tw/File/DirectDownload/39cddb32-0737-4f7a-8849-988f7852e301"
+      ]
+    },
+    {
+      "id": "87064",
+      "name": "高雄市消防救護車收費統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f935262-888c-4919-aba2-62f2fcfbeec9",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f935262-888c-4919-aba2-62f2fcfbeec9"
+      ]
+    },
+    {
+      "id": "87068",
+      "name": "104年高雄市緊急救護服務統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/57a8e0ab-4506-4482-b5bb-316d2887ec64",
+        "https://data.kcg.gov.tw/File/DirectDownload/57a8e0ab-4506-4482-b5bb-316d2887ec64"
+      ]
+    },
+    {
+      "id": "87073",
+      "name": "105年高雄市應變中心開設其他天然災害出動救災人員統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c6fcb1e8-178a-45b7-ab3a-71bcfd967356",
+        "https://data.kcg.gov.tw/File/DirectDownload/c6fcb1e8-178a-45b7-ab3a-71bcfd967356"
+      ]
+    },
+    {
+      "id": "87074",
+      "name": "105年高雄市應變中心開設其他天然災害出動救災裝備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/397a378e-c3df-4c27-90df-3210040da32f",
+        "https://data.kcg.gov.tw/File/DirectDownload/397a378e-c3df-4c27-90df-3210040da32f"
+      ]
+    },
+    {
+      "id": "87075",
+      "name": "105年高雄市應變中心開設其他天然災害建物損失統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5ef47fe-83fc-4c33-8305-b1c6b8a57154",
+        "https://data.kcg.gov.tw/File/DirectDownload/e5ef47fe-83fc-4c33-8305-b1c6b8a57154"
+      ]
+    },
+    {
+      "id": "43803",
+      "name": "105年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ada9de19-f00b-4738-b179-63fd69d76bdd",
+        "https://data.kcg.gov.tw/File/DirectDownload/ada9de19-f00b-4738-b179-63fd69d76bdd"
+      ]
+    },
+    {
+      "id": "100877",
+      "name": "107年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/129b97ce-cadf-41cb-bc8c-5c6dacde27e5",
+        "https://data.kcg.gov.tw/File/DirectDownload/129b97ce-cadf-41cb-bc8c-5c6dacde27e5"
+      ]
+    },
+    {
+      "id": "102092",
+      "name": "高雄市消防局歷年受理總電話量統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f09f490-a159-4194-8a1e-a2411d061894",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f09f490-a159-4194-8a1e-a2411d061894"
+      ]
+    },
+    {
+      "id": "102093",
+      "name": "高雄市政府消防局歷年受理其他電話量統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/18320938-c0a9-4fe7-8767-7b9e3e73b9e5",
+        "https://data.kcg.gov.tw/File/DirectDownload/18320938-c0a9-4fe7-8767-7b9e3e73b9e5"
+      ]
+    },
+    {
+      "id": "102095",
+      "name": "105年高雄市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/892987e6-709b-4e5a-9aa6-92a93a42f421",
+        "https://data.kcg.gov.tw/File/DirectDownload/892987e6-709b-4e5a-9aa6-92a93a42f421"
+      ]
+    },
+    {
+      "id": "102064",
+      "name": "高雄市政府消防局各類場所辦理檢修申報期限表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9c945a2d-3375-4f28-84df-0d01f5e6183e",
+        "https://data.kcg.gov.tw/File/DirectDownload/9c945a2d-3375-4f28-84df-0d01f5e6183e"
+      ]
+    },
+    {
+      "id": "102072",
+      "name": "104年高雄市火災案件按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/916d819f-436a-4df9-9b89-dcd78009d71b",
+        "https://data.kcg.gov.tw/File/DirectDownload/916d819f-436a-4df9-9b89-dcd78009d71b"
+      ]
+    },
+    {
+      "id": "121075",
+      "name": "106年高雄市爆竹煙火安全檢查",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8043c3d3-b6f3-41f3-9745-4d80fa2d79aa",
+        "https://data.kcg.gov.tw/File/DirectDownload/8043c3d3-b6f3-41f3-9745-4d80fa2d79aa"
+      ]
+    },
+    {
+      "id": "121077",
+      "name": "107年高雄市爆竹煙火安全檢查",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dead72b1-e281-45e0-b87c-6fa36eb098a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/dead72b1-e281-45e0-b87c-6fa36eb098a7"
+      ]
+    },
+    {
+      "id": "122628",
+      "name": "107年高雄市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c979902a-ec7f-43da-8c9a-dee864f526c2",
+        "https://data.kcg.gov.tw/File/DirectDownload/c979902a-ec7f-43da-8c9a-dee864f526c2"
+      ]
+    },
+    {
+      "id": "122629",
+      "name": "107年高雄市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/514eef60-3f3a-4ff0-8882-4c24cb46f764",
+        "https://data.kcg.gov.tw/File/DirectDownload/514eef60-3f3a-4ff0-8882-4c24cb46f764"
+      ]
+    },
+    {
+      "id": "122631",
+      "name": "106年高雄市火災死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/655b1ce4-a621-4eb4-92c9-3c34bc1342fe",
+        "https://data.kcg.gov.tw/File/DirectDownload/655b1ce4-a621-4eb4-92c9-3c34bc1342fe"
+      ]
+    },
+    {
+      "id": "122633",
+      "name": "106年高雄市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9112dd2e-db0b-4655-b4dc-3a032b36ef58",
+        "https://data.kcg.gov.tw/File/DirectDownload/9112dd2e-db0b-4655-b4dc-3a032b36ef58"
+      ]
+    },
+    {
+      "id": "122636",
+      "name": "108年高雄市消防車裝備捐贈芳名錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3aa6b88e-6452-4128-a20c-0b75cbcbbfb5",
+        "https://data.kcg.gov.tw/File/DirectDownload/3aa6b88e-6452-4128-a20c-0b75cbcbbfb5"
+      ]
+    },
+    {
+      "id": "119985",
+      "name": "108年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03c26a34-8ea0-4356-b9e2-2e72afd9f20f",
+        "https://data.kcg.gov.tw/File/DirectDownload/03c26a34-8ea0-4356-b9e2-2e72afd9f20f"
+      ]
+    },
+    {
+      "id": "128328",
+      "name": "105年消防局公布危險水域地點及曾發生溺水事故地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f6cf546-1949-48a4-be63-dea0644da11c",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f6cf546-1949-48a4-be63-dea0644da11c"
+      ]
+    },
+    {
+      "id": "122488",
+      "name": "107年高雄市緊急救護服務統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b9d8ba2f-0111-47ec-9bc7-11af1edfedb6",
+        "https://data.kcg.gov.tw/File/DirectDownload/b9d8ba2f-0111-47ec-9bc7-11af1edfedb6"
+      ]
+    },
+    {
+      "id": "122615",
+      "name": "103年消防局公布危險水域地點及曾發生溺水事故地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c070de24-df8a-4b42-902d-481f21c65e1c",
+        "https://data.kcg.gov.tw/File/DirectDownload/c070de24-df8a-4b42-902d-481f21c65e1c"
+      ]
+    },
+    {
+      "id": "122616",
+      "name": "104年消防局公布危險水域地點及曾發生溺水事故地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/352b5d2a-8d18-4704-9eab-6daa59bfe32b",
+        "https://data.kcg.gov.tw/File/DirectDownload/352b5d2a-8d18-4704-9eab-6daa59bfe32b"
+      ]
+    },
+    {
+      "id": "123251",
+      "name": "100年高雄市火災次數按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2a0fbde7-1ca1-4c24-8ec0-8b67d96f51e8",
+        "https://data.kcg.gov.tw/File/DirectDownload/2a0fbde7-1ca1-4c24-8ec0-8b67d96f51e8"
+      ]
+    },
+    {
+      "id": "123253",
+      "name": "100年高雄市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e1a3d347-208d-4fc5-bcaa-e398c3aea2db",
+        "https://data.kcg.gov.tw/File/DirectDownload/e1a3d347-208d-4fc5-bcaa-e398c3aea2db"
+      ]
+    },
+    {
+      "id": "121016",
+      "name": "106年高雄市爆竹煙火違法取締年報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4317c829-73fd-4738-bf71-7c864d5a8b9c",
+        "https://data.kcg.gov.tw/File/DirectDownload/4317c829-73fd-4738-bf71-7c864d5a8b9c"
+      ]
+    },
+    {
+      "id": "121017",
+      "name": "107年高雄市政府消防局專業爆竹煙火施放案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e24b7e63-39cf-40ec-9677-62222a076590",
+        "https://data.kcg.gov.tw/File/DirectDownload/e24b7e63-39cf-40ec-9677-62222a076590"
+      ]
+    },
+    {
+      "id": "122143",
+      "name": "108年高雄市應變中心開設丹娜絲颱風人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ec18a56-6dfb-4480-8e11-721e925c7b75",
+        "https://data.kcg.gov.tw/File/DirectDownload/7ec18a56-6dfb-4480-8e11-721e925c7b75"
+      ]
+    },
+    {
+      "id": "122145",
+      "name": "108年高雄市應變中心開設0820豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d988896-f8cf-4705-aadc-157f0c731dbb",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d988896-f8cf-4705-aadc-157f0c731dbb"
+      ]
+    },
+    {
+      "id": "122213",
+      "name": "108年高雄市應變中心開設水患人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d569857-7de7-4355-b0ec-749d8189a159",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d569857-7de7-4355-b0ec-749d8189a159"
+      ]
+    },
+    {
+      "id": "122210",
+      "name": "108年高雄市應變中心開設震災人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed9d7373-3eb0-45a0-8146-43e23f9ba0ad",
+        "https://data.kcg.gov.tw/File/DirectDownload/ed9d7373-3eb0-45a0-8146-43e23f9ba0ad"
+      ]
+    },
+    {
+      "id": "122148",
+      "name": "108年高雄市應變中心開設0806豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/12b33820-b655-4ebe-b180-a44818391c75",
+        "https://data.kcg.gov.tw/File/DirectDownload/12b33820-b655-4ebe-b180-a44818391c75"
+      ]
+    },
+    {
+      "id": "122150",
+      "name": "108年高雄市應變中心開設0719豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/868359b8-ea02-4ca4-84e8-7a7fdd1a4fca",
+        "https://data.kcg.gov.tw/File/DirectDownload/868359b8-ea02-4ca4-84e8-7a7fdd1a4fca"
+      ]
+    },
+    {
+      "id": "119975",
+      "name": "106年高雄市緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/da8a2d2d-36da-41e3-9741-a04a5fbdbcf9",
+        "https://data.kcg.gov.tw/File/DirectDownload/da8a2d2d-36da-41e3-9741-a04a5fbdbcf9"
+      ]
+    },
+    {
+      "id": "119976",
+      "name": "107年高雄市緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8039dda1-2b04-409e-95fa-c533b077897a",
+        "https://data.kcg.gov.tw/File/DirectDownload/8039dda1-2b04-409e-95fa-c533b077897a"
+      ]
+    },
+    {
+      "id": "119981",
+      "name": "108年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e91a1a9f-0b6e-4530-a56c-d69f99e0bd11",
+        "https://data.kcg.gov.tw/File/directDownload/e91a1a9f-0b6e-4530-a56c-d69f99e0bd11"
+      ]
+    },
+    {
+      "id": "124518",
+      "name": "103年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63f19f02-ebe9-434c-b1ea-cfcf2299d6c8",
+        "https://data.kcg.gov.tw/File/DirectDownload/63f19f02-ebe9-434c-b1ea-cfcf2299d6c8"
+      ]
+    },
+    {
+      "id": "124521",
+      "name": "102年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8a7bba66-e0d6-4de8-9e0c-03789850e388",
+        "https://data.kcg.gov.tw/File/DirectDownload/8a7bba66-e0d6-4de8-9e0c-03789850e388"
+      ]
+    },
+    {
+      "id": "124525",
+      "name": "100年高雄市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5cdf17b8-5e75-4999-9694-d71c64029af1",
+        "https://data.kcg.gov.tw/File/DirectDownload/5cdf17b8-5e75-4999-9694-d71c64029af1"
+      ]
+    },
+    {
+      "id": "124508",
+      "name": "107年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8fb4b8d8-e30e-4172-a287-24c8165f5efa",
+        "https://data.kcg.gov.tw/File/DirectDownload/8fb4b8d8-e30e-4172-a287-24c8165f5efa"
+      ]
+    },
+    {
+      "id": "124512",
+      "name": "106年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f71c5035-dae2-468e-bc5e-5d0358175238",
+        "https://data.kcg.gov.tw/File/DirectDownload/f71c5035-dae2-468e-bc5e-5d0358175238"
+      ]
+    },
+    {
+      "id": "124514",
+      "name": "104年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3fbbf5c9-674e-48a4-99fa-86f6e991c79a",
+        "https://data.kcg.gov.tw/File/DirectDownload/3fbbf5c9-674e-48a4-99fa-86f6e991c79a"
+      ]
+    },
+    {
+      "id": "124515",
+      "name": "104年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f2756ad6-cff1-40e5-a08e-d69f2e6bd2a2",
+        "https://data.kcg.gov.tw/File/DirectDownload/f2756ad6-cff1-40e5-a08e-d69f2e6bd2a2"
+      ]
+    },
+    {
+      "id": "164001",
+      "name": "111年高雄市119其他案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/43948238-4790-4535-a6e0-528578c9a419",
+        "https://data.kcg.gov.tw/File/DirectDownload/43948238-4790-4535-a6e0-528578c9a419"
+      ]
+    },
+    {
+      "id": "164007",
+      "name": "111年高雄市緊急救護日報表_以月作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/625130d1-6b6e-49da-adc3-a41c7070b3b9",
+        "https://data.kcg.gov.tw/File/DirectDownload/625130d1-6b6e-49da-adc3-a41c7070b3b9"
+      ]
+    },
+    {
+      "id": "164009",
+      "name": "111年高雄市其他案件件數日報表_以月作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/67b46e61-a62e-489e-bacd-71a4a31e87e5",
+        "https://data.kcg.gov.tw/File/DirectDownload/67b46e61-a62e-489e-bacd-71a4a31e87e5"
+      ]
+    },
+    {
+      "id": "164010",
+      "name": "111年高雄市其他案件件數日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a380b1e-b600-470d-84f3-90c95887d279",
+        "https://data.kcg.gov.tw/File/DirectDownload/6a380b1e-b600-470d-84f3-90c95887d279"
+      ]
+    },
+    {
+      "id": "163989",
+      "name": "111年高雄市政府消防局捐贈辦公用品",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9fd8b755-aee2-4635-b019-b54c6c65afa0",
+        "https://data.kcg.gov.tw/File/DirectDownload/9fd8b755-aee2-4635-b019-b54c6c65afa0"
+      ]
+    },
+    {
+      "id": "163990",
+      "name": "111年高雄市火災出動月報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a7ef4f13-e05c-4856-a533-8452a08b14d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/a7ef4f13-e05c-4856-a533-8452a08b14d6"
+      ]
+    },
+    {
+      "id": "164011",
+      "name": "111年高雄市火災搶救日報表_以月作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8de28d16-5a88-4be4-9dea-dfa506fd2fd5",
+        "https://data.kcg.gov.tw/File/DirectDownload/8de28d16-5a88-4be4-9dea-dfa506fd2fd5"
+      ]
+    },
+    {
+      "id": "164013",
+      "name": "111年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/74a61847-b65d-4dcb-a3ed-f9df9afce179",
+        "https://data.kcg.gov.tw/File/DirectDownload/74a61847-b65d-4dcb-a3ed-f9df9afce179"
+      ]
+    },
+    {
+      "id": "167147",
+      "name": "高雄市政府消防局配合社區治安會議辦理防災訓練宣導情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1e5d4c98-2d09-4ffa-acea-ad58aeef5f91",
+        "https://data.kcg.gov.tw/File/DirectDownload/1e5d4c98-2d09-4ffa-acea-ad58aeef5f91"
+      ]
+    },
+    {
+      "id": "167148",
+      "name": "高雄市防範一氧化碳中毒補助申請",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b8369729-061f-44c4-9bd6-0163e7464ee4",
+        "https://data.kcg.gov.tw/File/DirectDownload/b8369729-061f-44c4-9bd6-0163e7464ee4"
+      ]
+    },
+    {
+      "id": "167149",
+      "name": "105年高雄市緊急救護到院前心肺功能停止傷病患統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/01917042-aabf-4a2d-affe-94a0536ba430",
+        "https://data.kcg.gov.tw/File/DirectDownload/01917042-aabf-4a2d-affe-94a0536ba430"
+      ]
+    },
+    {
+      "id": "167150",
+      "name": "105年高雄市急救護無生命徵象成功人數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4d2fefc4-f189-42cd-9d1b-fca049aff6d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/4d2fefc4-f189-42cd-9d1b-fca049aff6d6"
+      ]
+    },
+    {
+      "id": "167152",
+      "name": "104年高雄市爆竹煙火違法取締年報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ef79b3ba-bbd3-497e-ad07-5d2fca05607d",
+        "https://data.kcg.gov.tw/File/DirectDownload/ef79b3ba-bbd3-497e-ad07-5d2fca05607d"
+      ]
+    },
+    {
+      "id": "167153",
+      "name": "103年高雄市爆竹煙火違法取締年報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5959feba-0541-475e-98fc-fdff734918c7",
+        "https://data.kcg.gov.tw/File/DirectDownload/5959feba-0541-475e-98fc-fdff734918c7"
+      ]
+    },
+    {
+      "id": "167159",
+      "name": "105年高雄市政府消防局電子簽核及紙本簽核件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/78eb2291-fa5d-4bcc-b97d-bd50485462a1",
+        "https://data.kcg.gov.tw/File/DirectDownload/78eb2291-fa5d-4bcc-b97d-bd50485462a1"
+      ]
+    },
+    {
+      "id": "167166",
+      "name": "105年高雄市應變中心開設風災建物損失統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/35c2f3dd-7f58-4747-8890-b81d8cae212d",
+        "https://data.kcg.gov.tw/File/DirectDownload/35c2f3dd-7f58-4747-8890-b81d8cae212d"
+      ]
+    },
+    {
+      "id": "167167",
+      "name": "105年高雄市應變中心開設風災出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/957fc98f-ae74-4718-83b2-a28db52d0dd5",
+        "https://data.kcg.gov.tw/File/DirectDownload/957fc98f-ae74-4718-83b2-a28db52d0dd5"
+      ]
+    },
+    {
+      "id": "167189",
+      "name": "100年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/922e649b-9f87-4a93-be4f-e42fc4f23374",
+        "https://data.kcg.gov.tw/File/DirectDownload/922e649b-9f87-4a93-be4f-e42fc4f23374"
+      ]
+    },
+    {
+      "id": "167193",
+      "name": "102年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7eeb6f8e-b830-4f00-a363-f26793361793",
+        "https://data.kcg.gov.tw/File/DirectDownload/7eeb6f8e-b830-4f00-a363-f26793361793"
+      ]
+    },
+    {
+      "id": "167196",
+      "name": "105年高雄市政府消防局緊急救護日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a993743a-f7f4-4169-8f67-3777306568a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/a993743a-f7f4-4169-8f67-3777306568a7"
+      ]
+    },
+    {
+      "id": "167197",
+      "name": "104年高雄市政府消防局緊急救護日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f68b099-940c-46fa-9841-d496ac0de234",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f68b099-940c-46fa-9841-d496ac0de234"
+      ]
+    },
+    {
+      "id": "167202",
+      "name": "107年高雄市火災搶救暨緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/14661afe-7ef8-46e7-8dd3-54aa5abf11ea",
+        "https://data.kcg.gov.tw/File/DirectDownload/14661afe-7ef8-46e7-8dd3-54aa5abf11ea"
+      ]
+    },
+    {
+      "id": "167169",
+      "name": "105年高雄市應變中心開設風災人員傷亡統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a112e04-ffe9-455e-bb26-3ca64db49ffd",
+        "https://data.kcg.gov.tw/File/DirectDownload/5a112e04-ffe9-455e-bb26-3ca64db49ffd"
+      ]
+    },
+    {
+      "id": "167171",
+      "name": "105年高雄市應變中心開設水患災害建物損失統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a397503b-ab7d-4716-a413-bd2e57b2f025",
+        "https://data.kcg.gov.tw/File/DirectDownload/a397503b-ab7d-4716-a413-bd2e57b2f025"
+      ]
+    },
+    {
+      "id": "167220",
+      "name": "104年高雄市政府消防局一般公文時效統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c93f4f90-4dd0-4dec-81e3-ead1da5a9bc4",
+        "https://data.kcg.gov.tw/File/DirectDownload/c93f4f90-4dd0-4dec-81e3-ead1da5a9bc4"
+      ]
+    },
+    {
+      "id": "167206",
+      "name": "107年高雄市政府消防局他案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7fd93c56-2a31-4c31-af27-4dd24d45dcab",
+        "https://data.kcg.gov.tw/File/DirectDownload/7fd93c56-2a31-4c31-af27-4dd24d45dcab"
+      ]
+    },
+    {
+      "id": "167212",
+      "name": "105年高雄市其他案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fa9a94ed-2d40-4346-b78c-232c70119c9e",
+        "https://data.kcg.gov.tw/File/DirectDownload/fa9a94ed-2d40-4346-b78c-232c70119c9e"
+      ]
+    },
+    {
+      "id": "167218",
+      "name": "106年高雄市政府消防局一般公文時效統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cdcbf06c-419b-4f6a-ad18-31960fd8390b",
+        "https://data.kcg.gov.tw/File/DirectDownload/cdcbf06c-419b-4f6a-ad18-31960fd8390b"
+      ]
+    },
+    {
+      "id": "167219",
+      "name": "105年高雄市政府消防局一般公文時效統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/89546bab-80d6-421d-8616-52c3c3a2eaa3",
+        "https://data.kcg.gov.tw/File/DirectDownload/89546bab-80d6-421d-8616-52c3c3a2eaa3"
+      ]
+    },
+    {
+      "id": "163053",
+      "name": "111年高雄市緊急救護急救處置統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/07e2ea78-d242-4725-b84e-37fddead90bc",
+        "https://data.kcg.gov.tw/File/DirectDownload/07e2ea78-d242-4725-b84e-37fddead90bc"
+      ]
+    },
+    {
+      "id": "138215",
+      "name": "高雄市政府消防局辦公設備捐贈芳名錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c63ca2d6-94f2-4a40-a101-f78122a2f8db",
+        "https://data.kcg.gov.tw/File/DirectDownload/c63ca2d6-94f2-4a40-a101-f78122a2f8db"
+      ]
+    },
+    {
+      "id": "138827",
+      "name": "109年高雄市0527水災出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2057adbb-2625-4bd6-abb6-47959bdc8745",
+        "https://data.kcg.gov.tw/File/DirectDownload/2057adbb-2625-4bd6-abb6-47959bdc8745"
+      ]
+    },
+    {
+      "id": "138824",
+      "name": "109年高雄市閃電颱風出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1e8a76b6-b8f0-42a6-a2d8-fcebe62a8d25",
+        "https://data.kcg.gov.tw/File/DirectDownload/1e8a76b6-b8f0-42a6-a2d8-fcebe62a8d25"
+      ]
+    },
+    {
+      "id": "160481",
+      "name": "高雄市政府消防局地上式消防栓",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4ecd1cd9-f435-40b5-9373-93fc079b30e2",
+        "https://data.kcg.gov.tw/File/directDownload/4ecd1cd9-f435-40b5-9373-93fc079b30e2"
+      ]
+    },
+    {
+      "id": "160483",
+      "name": "高雄市政府消防局其他消防水源",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/292a133a-bad9-41da-8189-6f0401a2470d",
+        "https://data.kcg.gov.tw/File/DirectDownload/292a133a-bad9-41da-8189-6f0401a2470d"
+      ]
+    },
+    {
+      "id": "160459",
+      "name": "110年高雄市政府消防局出動車輛與送醫人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ee31fe97-7dc4-40f4-8383-71a3342b9ea7",
+        "https://data.kcg.gov.tw/File/DirectDownload/ee31fe97-7dc4-40f4-8383-71a3342b9ea7"
+      ]
+    },
+    {
+      "id": "160467",
+      "name": "110年高雄市其他案件件數日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ebe882e0-4e03-49a4-9f92-a24cb537a2fc",
+        "https://data.kcg.gov.tw/File/DirectDownload/ebe882e0-4e03-49a4-9f92-a24cb537a2fc"
+      ]
+    },
+    {
+      "id": "160469",
+      "name": "110年高雄市火災搶救日報表_以月作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95d3cdec-e3d4-41d7-89bd-0f4ba989700e",
+        "https://data.kcg.gov.tw/File/DirectDownload/95d3cdec-e3d4-41d7-89bd-0f4ba989700e"
+      ]
+    },
+    {
+      "id": "160470",
+      "name": "110年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/23a925a5-fb45-4465-a131-1bfeb935f7b4",
+        "https://data.kcg.gov.tw/File/DirectDownload/23a925a5-fb45-4465-a131-1bfeb935f7b4"
+      ]
+    },
+    {
+      "id": "160472",
+      "name": "110年高雄市應變中心開設水患人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/46f42308-4d31-403d-a04b-7fc8b8e56b62",
+        "https://data.kcg.gov.tw/File/DirectDownload/46f42308-4d31-403d-a04b-7fc8b8e56b62"
+      ]
+    },
+    {
+      "id": "160478",
+      "name": "110年高雄市緊急救護無生命徵象傷病患急救成功人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/731a9ae9-c99e-4ca2-ac3d-02e3cb56b502",
+        "https://data.kcg.gov.tw/File/DirectDownload/731a9ae9-c99e-4ca2-ac3d-02e3cb56b502"
+      ]
+    },
+    {
+      "id": "138248",
+      "name": "101年高雄市緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6bc3c91e-dc2d-4a26-ab33-859f7b230939",
+        "https://data.kcg.gov.tw/File/DirectDownload/6bc3c91e-dc2d-4a26-ab33-859f7b230939"
+      ]
+    },
+    {
+      "id": "138309",
+      "name": "106年高雄市應變中心開設震災人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/83367909-8ac9-4615-84da-b9274d87d30a",
+        "https://data.kcg.gov.tw/File/DirectDownload/83367909-8ac9-4615-84da-b9274d87d30a"
+      ]
+    },
+    {
+      "id": "138310",
+      "name": "107年高雄市應變中心開設0613豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f9d1a8c6-69b8-4905-a432-0728eeb0c10e",
+        "https://data.kcg.gov.tw/File/DirectDownload/f9d1a8c6-69b8-4905-a432-0728eeb0c10e"
+      ]
+    },
+    {
+      "id": "138312",
+      "name": "107年高雄市應變中心開設水患人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1892a0c0-d0ec-4b5d-9f7e-edcbf4cd6e0e",
+        "https://data.kcg.gov.tw/File/DirectDownload/1892a0c0-d0ec-4b5d-9f7e-edcbf4cd6e0e"
+      ]
+    },
+    {
+      "id": "138318",
+      "name": "107年高雄市應變中心開設0619豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/21d83d10-c809-4377-99b6-d11a2c039f9e",
+        "https://data.kcg.gov.tw/File/DirectDownload/21d83d10-c809-4377-99b6-d11a2c039f9e"
+      ]
+    },
+    {
+      "id": "143364",
+      "name": "109年高雄市119公務案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f3b5d8f-5975-4b76-8846-c746c5b69456",
+        "https://data.kcg.gov.tw/File/DirectDownload/5f3b5d8f-5975-4b76-8846-c746c5b69456"
+      ]
+    },
+    {
+      "id": "143366",
+      "name": "108年高雄市119公務案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/13168cd2-4b39-4a5a-ac30-e3d73a158ca7",
+        "https://data.kcg.gov.tw/File/DirectDownload/13168cd2-4b39-4a5a-ac30-e3d73a158ca7"
+      ]
+    },
+    {
+      "id": "143418",
+      "name": "109高雄市專業爆竹煙火施放案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6f46d8ee-b43f-4275-b42e-8d4711d8806e",
+        "https://data.kcg.gov.tw/File/DirectDownload/6f46d8ee-b43f-4275-b42e-8d4711d8806e"
+      ]
+    },
+    {
+      "id": "143423",
+      "name": "109年高雄市應變中心開設0527豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/01e7d492-4655-4339-a5b7-f6686037cce9",
+        "https://data.kcg.gov.tw/File/DirectDownload/01e7d492-4655-4339-a5b7-f6686037cce9"
+      ]
+    },
+    {
+      "id": "143391",
+      "name": "109年度高雄市列管建築物上下年報",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e95f747e-f62e-4813-8823-9b992e44b2f7",
+        "https://data.kcg.gov.tw/File/DirectDownload/e95f747e-f62e-4813-8823-9b992e44b2f7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b23218fe-6f7a-4d51-b5ad-d5995f63618b",
+        "https://data.kcg.gov.tw/File/DirectDownload/b23218fe-6f7a-4d51-b5ad-d5995f63618b"
+      ]
+    },
+    {
+      "id": "143395",
+      "name": "109年高雄市消防安全設備查察報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/475b71e5-16be-4fc3-8c35-5d37bf22f19d",
+        "https://data.kcg.gov.tw/File/DirectDownload/475b71e5-16be-4fc3-8c35-5d37bf22f19d"
+      ]
+    },
+    {
+      "id": "143396",
+      "name": "109年高雄市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5b4cfa2-d350-4235-94ff-af426fda8d96",
+        "https://data.kcg.gov.tw/File/DirectDownload/e5b4cfa2-d350-4235-94ff-af426fda8d96"
+      ]
+    },
+    {
+      "id": "143398",
+      "name": "109年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ee69d981-6e5a-4991-90df-6781183cdd74",
+        "https://data.kcg.gov.tw/File/DirectDownload/ee69d981-6e5a-4991-90df-6781183cdd74"
+      ]
+    },
+    {
+      "id": "143367",
+      "name": "108年高雄市119公務案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6da423f0-cec8-4233-a732-f98f5af00c4d",
+        "https://data.kcg.gov.tw/File/DirectDownload/6da423f0-cec8-4233-a732-f98f5af00c4d"
+      ]
+    },
+    {
+      "id": "143369",
+      "name": "110年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8b61e1b9-2ef9-4751-b990-f9daf98d9251",
+        "https://data.kcg.gov.tw/File/DirectDownload/8b61e1b9-2ef9-4751-b990-f9daf98d9251"
+      ]
+    },
+    {
+      "id": "143372",
+      "name": "109年高雄市緊急救護無生命徵象傷病患急救成功人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b00437bd-2b09-4690-8699-b9c51c5ef731",
+        "https://data.kcg.gov.tw/File/DirectDownload/b00437bd-2b09-4690-8699-b9c51c5ef731"
+      ]
+    },
+    {
+      "id": "169590",
+      "name": "112年高雄市緊急救護日報表-以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b38fb9e4-0ba9-4f0a-8958-cf97948f01ab",
+        "https://data.kcg.gov.tw/File/directDownload/b38fb9e4-0ba9-4f0a-8958-cf97948f01ab"
+      ]
+    },
+    {
+      "id": "169596",
+      "name": "112年高雄市其他案件件數日報表_以月作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a0e23e7-96e8-48b0-afb2-8277d49dd887",
+        "https://data.kcg.gov.tw/File/directDownload/9a0e23e7-96e8-48b0-afb2-8277d49dd887"
+      ]
+    },
+    {
+      "id": "169575",
+      "name": "112年高雄市緊急救護無生命徵象傷病患急救成功",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ca82a830-af7d-45e9-b802-1dc3198c7bb7",
+        "https://data.kcg.gov.tw/File/directDownload/ca82a830-af7d-45e9-b802-1dc3198c7bb7"
+      ]
+    },
+    {
+      "id": "43817",
+      "name": "102年至105年高雄市消防車裝備捐贈芳名錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8b7ba03f-4e9b-4a39-8db7-c33b1fc9aef6",
+        "https://data.kcg.gov.tw/File/DirectDownload/8b7ba03f-4e9b-4a39-8db7-c33b1fc9aef6"
+      ]
+    },
+    {
+      "id": "43772",
+      "name": "高雄市政府消防局歷年火災統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/423a84b0-a99e-41e7-a2e5-95846b52fac4",
+        "https://data.kcg.gov.tw/File/DirectDownload/423a84b0-a99e-41e7-a2e5-95846b52fac4"
+      ]
+    },
+    {
+      "id": "43791",
+      "name": "105年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0c5e5cd9-9f2d-4d23-84f7-9d884af47efc",
+        "https://data.kcg.gov.tw/File/DirectDownload/0c5e5cd9-9f2d-4d23-84f7-9d884af47efc"
+      ]
+    },
+    {
+      "id": "43796",
+      "name": "高雄市消防安全檢查重大不合格場所一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c84a3c0c-2f26-44db-bfab-5917bb3d7b7d",
+        "https://data.kcg.gov.tw/File/DirectDownload/c84a3c0c-2f26-44db-bfab-5917bb3d7b7d"
+      ]
+    },
+    {
+      "id": "43824",
+      "name": "高雄市急救責任醫院分級與急診、AMI、CVA處置時段清冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b0e3424a-f24e-4e1c-91a9-03868146d0a8",
+        "https://data.kcg.gov.tw/File/DirectDownload/b0e3424a-f24e-4e1c-91a9-03868146d0a8"
+      ]
+    },
+    {
+      "id": "43828",
+      "name": "高雄市消防分隊駐地位置圖",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f8da8ad2-fae4-4d50-bf3b-cbbd83010032",
+        "https://data.kcg.gov.tw/File/DirectDownload/f8da8ad2-fae4-4d50-bf3b-cbbd83010032"
+      ]
+    },
+    {
+      "id": "47101",
+      "name": "105年高雄市火災次數按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3bf5365c-7d32-415f-ac13-fcd3f3e52ce3",
+        "https://data.kcg.gov.tw/File/DirectDownload/3bf5365c-7d32-415f-ac13-fcd3f3e52ce3"
+      ]
+    },
+    {
+      "id": "46946",
+      "name": "高雄市政府消防局歷年受理行動電話量統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0451604d-84f4-4b56-af8c-6a7d9af5e304",
+        "https://data.kcg.gov.tw/File/DirectDownload/0451604d-84f4-4b56-af8c-6a7d9af5e304"
+      ]
+    },
+    {
+      "id": "75670",
+      "name": "101年高雄市火災次數按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3f869cab-4906-40d2-b9af-8ec7f42c6850",
+        "https://data.kcg.gov.tw/File/DirectDownload/3f869cab-4906-40d2-b9af-8ec7f42c6850"
+      ]
+    },
+    {
+      "id": "75672",
+      "name": "103年高雄市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/093d13c1-b867-4e4c-a57d-72557933eeda",
+        "https://data.kcg.gov.tw/File/DirectDownload/093d13c1-b867-4e4c-a57d-72557933eeda"
+      ]
+    },
+    {
+      "id": "75674",
+      "name": "101年高雄市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c50d18c5-0eb0-467e-a382-1ef4482c2ca8",
+        "https://data.kcg.gov.tw/File/DirectDownload/c50d18c5-0eb0-467e-a382-1ef4482c2ca8"
+      ]
+    },
+    {
+      "id": "75676",
+      "name": "103年高雄市火災死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/31f7b2be-44d5-455a-8ecd-6310d3ac06ea",
+        "https://data.kcg.gov.tw/File/DirectDownload/31f7b2be-44d5-455a-8ecd-6310d3ac06ea"
+      ]
+    },
+    {
+      "id": "75679",
+      "name": "103年高雄市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aad7e61f-d199-4e3a-9155-8cbda72ca1e6",
+        "https://data.kcg.gov.tw/File/DirectDownload/aad7e61f-d199-4e3a-9155-8cbda72ca1e6"
+      ]
+    },
+    {
+      "id": "75684",
+      "name": "102年高雄市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2b75ba75-4733-4e09-963c-88a2a5fadbf6",
+        "https://data.kcg.gov.tw/File/DirectDownload/2b75ba75-4733-4e09-963c-88a2a5fadbf6"
+      ]
+    },
+    {
+      "id": "75691",
+      "name": "104年高雄市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5bf2c47b-f5a4-4fc9-83a6-a05d37f21cfe",
+        "https://data.kcg.gov.tw/File/DirectDownload/5bf2c47b-f5a4-4fc9-83a6-a05d37f21cfe"
+      ]
+    },
+    {
+      "id": "87065",
+      "name": "105年高雄市緊急救護急救處置統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a193f02f-36bb-41f5-9d3e-91d977bb2a47",
+        "https://data.kcg.gov.tw/File/DirectDownload/a193f02f-36bb-41f5-9d3e-91d977bb2a47"
+      ]
+    },
+    {
+      "id": "87066",
+      "name": "104年高雄市緊急救護急救處置統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c6f01180-8f63-4a26-aa7f-713c3b6014d0",
+        "https://data.kcg.gov.tw/File/DirectDownload/c6f01180-8f63-4a26-aa7f-713c3b6014d0"
+      ]
+    },
+    {
+      "id": "86390",
+      "name": "高雄市政府消防局液化石油氣販賣場所清冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5818a6bb-8075-4aec-b83e-5cdab50f646d",
+        "https://data.kcg.gov.tw/File/DirectDownload/5818a6bb-8075-4aec-b83e-5cdab50f646d"
+      ]
+    },
+    {
+      "id": "86391",
+      "name": "高雄市消防栓位置(地下)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4629a9e5-ddc4-4d24-8101-64c1e7ad3901",
+        "https://data.kcg.gov.tw/File/DirectDownload/4629a9e5-ddc4-4d24-8101-64c1e7ad3901"
+      ]
+    },
+    {
+      "id": "86395",
+      "name": "高雄市消防栓位置(地上)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ffe55c50-02c6-4068-b501-bf1c7eb086e4",
+        "https://data.kcg.gov.tw/File/DirectDownload/ffe55c50-02c6-4068-b501-bf1c7eb086e4"
+      ]
+    },
+    {
+      "id": "102073",
+      "name": "105年高雄市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a87d87a3-3416-4136-966e-2ba7f3539748",
+        "https://data.kcg.gov.tw/File/DirectDownload/a87d87a3-3416-4136-966e-2ba7f3539748"
+      ]
+    },
+    {
+      "id": "119982",
+      "name": "108年高雄市緊急救護日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7b7c0f24-bce0-4700-b3e0-13f7ca093e79",
+        "https://data.kcg.gov.tw/File/DirectDownload/7b7c0f24-bce0-4700-b3e0-13f7ca093e79"
+      ]
+    },
+    {
+      "id": "119978",
+      "name": "106年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0ded9a27-aa1e-4cb8-a417-5021c1caa623",
+        "https://data.kcg.gov.tw/File/directDownload/0ded9a27-aa1e-4cb8-a417-5021c1caa623"
+      ]
+    },
+    {
+      "id": "119980",
+      "name": "108年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8014337a-5a38-4b9b-848e-820e65026ced",
+        "https://data.kcg.gov.tw/File/DirectDownload/8014337a-5a38-4b9b-848e-820e65026ced"
+      ]
+    },
+    {
+      "id": "121015",
+      "name": "107年高雄市爆竹煙火違法取締年報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c3f18160-ff16-4ae7-988e-01fc568de0ca",
+        "https://data.kcg.gov.tw/File/DirectDownload/c3f18160-ff16-4ae7-988e-01fc568de0ca"
+      ]
+    },
+    {
+      "id": "121018",
+      "name": "108年高雄市政府消防局專業爆竹煙火施放案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2752113c-0e41-4227-a8f9-78072287ae18",
+        "https://data.kcg.gov.tw/File/DirectDownload/2752113c-0e41-4227-a8f9-78072287ae18"
+      ]
+    },
+    {
+      "id": "121074",
+      "name": "108年高雄市政府消防局電子簽核及紙本簽核件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3fb3c805-02a0-43cb-91d0-5fea031820c1",
+        "https://data.kcg.gov.tw/File/DirectDownload/3fb3c805-02a0-43cb-91d0-5fea031820c1"
+      ]
+    },
+    {
+      "id": "121076",
+      "name": "108年高雄市爆竹煙火安全檢查",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/59e3f219-1b42-458f-be7b-d782afcd0d6b",
+        "https://data.kcg.gov.tw/File/DirectDownload/59e3f219-1b42-458f-be7b-d782afcd0d6b"
+      ]
+    },
+    {
+      "id": "122144",
+      "name": "108年高雄市應變中心開設0823白鹿颱風人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4d8ecaac-69f7-4de7-9805-28b98554040e",
+        "https://data.kcg.gov.tw/File/DirectDownload/4d8ecaac-69f7-4de7-9805-28b98554040e"
+      ]
+    },
+    {
+      "id": "122147",
+      "name": "108年高雄市應變中心開設0808豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/44aecc9a-4eeb-44ae-8994-c4effc5e2ed8",
+        "https://data.kcg.gov.tw/File/DirectDownload/44aecc9a-4eeb-44ae-8994-c4effc5e2ed8"
+      ]
+    },
+    {
+      "id": "122149",
+      "name": "108年高雄市應變中心開設0801豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4ca97159-51e7-4621-8881-8d7a9b7073cc",
+        "https://data.kcg.gov.tw/File/DirectDownload/4ca97159-51e7-4621-8881-8d7a9b7073cc"
+      ]
+    },
+    {
+      "id": "122151",
+      "name": "108年高雄市應變中心開設0520豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2633c95f-8302-4a35-9f2b-752fe38aa952",
+        "https://data.kcg.gov.tw/File/DirectDownload/2633c95f-8302-4a35-9f2b-752fe38aa952"
+      ]
+    },
+    {
+      "id": "122212",
+      "name": "108年高雄市應變中心開設風災人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/10ad9d51-7fd4-4580-9599-47231a8e86c8",
+        "https://data.kcg.gov.tw/File/DirectDownload/10ad9d51-7fd4-4580-9599-47231a8e86c8"
+      ]
+    },
+    {
+      "id": "122625",
+      "name": "108年高雄市火災死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b58fb191-fba5-4f5f-9457-b1ffc4354fcf",
+        "https://data.kcg.gov.tw/File/DirectDownload/b58fb191-fba5-4f5f-9457-b1ffc4354fcf"
+      ]
+    },
+    {
+      "id": "122626",
+      "name": "107年高雄市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/024ee57e-d5e4-4fd7-93c9-4449e0d86ac2",
+        "https://data.kcg.gov.tw/File/DirectDownload/024ee57e-d5e4-4fd7-93c9-4449e0d86ac2"
+      ]
+    },
+    {
+      "id": "122632",
+      "name": "106年高雄市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/050ebb14-0f46-49f5-ae83-b845a44d70cb",
+        "https://data.kcg.gov.tw/File/DirectDownload/050ebb14-0f46-49f5-ae83-b845a44d70cb"
+      ]
+    },
+    {
+      "id": "122612",
+      "name": "100年消防局公布危險水域地點及曾發生溺水事故地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/25d63451-001c-4b00-bd05-c897699b2a69",
+        "https://data.kcg.gov.tw/File/DirectDownload/25d63451-001c-4b00-bd05-c897699b2a69"
+      ]
+    },
+    {
+      "id": "122613",
+      "name": "101年消防局公布危險水域地點及曾發生溺水事故地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/67f3d12e-f1e2-4f62-8a03-8d7c573ce673",
+        "https://data.kcg.gov.tw/File/DirectDownload/67f3d12e-f1e2-4f62-8a03-8d7c573ce673"
+      ]
+    },
+    {
+      "id": "122614",
+      "name": "102年消防局公布危險水域地點及曾發生溺水事故地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a2597119-c166-4bf8-8453-de64d8b1c5c3",
+        "https://data.kcg.gov.tw/File/DirectDownload/a2597119-c166-4bf8-8453-de64d8b1c5c3"
+      ]
+    },
+    {
+      "id": "122619",
+      "name": "106年高雄市消防車裝備捐贈芳名錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/14e941c8-be0f-4e1b-acbd-01084df027ce",
+        "https://data.kcg.gov.tw/File/DirectDownload/14e941c8-be0f-4e1b-acbd-01084df027ce"
+      ]
+    },
+    {
+      "id": "122622",
+      "name": "108年高雄市火災案件按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c141e462-bda1-4230-9f04-9371d7604d45",
+        "https://data.kcg.gov.tw/File/DirectDownload/c141e462-bda1-4230-9f04-9371d7604d45"
+      ]
+    },
+    {
+      "id": "123252",
+      "name": "100年高雄市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/25357658-86ce-4ae3-98f3-3d4acd188174",
+        "https://data.kcg.gov.tw/File/DirectDownload/25357658-86ce-4ae3-98f3-3d4acd188174"
+      ]
+    },
+    {
+      "id": "123255",
+      "name": "108年高雄市緊急救護到院前心肺功能停止傷病患統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b9c946b7-0798-499d-aed4-7d3fa2284826",
+        "https://data.kcg.gov.tw/File/DirectDownload/b9c946b7-0798-499d-aed4-7d3fa2284826"
+      ]
+    },
+    {
+      "id": "123258",
+      "name": "107年高雄市緊急救護無生命徵象傷病患急救成功人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3aa165a2-ba78-4414-b4cc-0c37541c15aa",
+        "https://data.kcg.gov.tw/File/DirectDownload/3aa165a2-ba78-4414-b4cc-0c37541c15aa"
+      ]
+    },
+    {
+      "id": "123261",
+      "name": "106年高雄市緊急救護急救處置統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8e8c2d8b-b426-43ab-8f9d-449e64a16937",
+        "https://data.kcg.gov.tw/File/DirectDownload/8e8c2d8b-b426-43ab-8f9d-449e64a16937"
+      ]
+    },
+    {
+      "id": "125945",
+      "name": "106年高雄市液化石油氣消防安全檢查及違規取締",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0c0ba789-d75e-48d5-91c1-e7cc10702859",
+        "https://data.kcg.gov.tw/File/DirectDownload/0c0ba789-d75e-48d5-91c1-e7cc10702859"
+      ]
+    },
+    {
+      "id": "124504",
+      "name": "109年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5c528849-dd0d-40bd-a782-f8e10ba8b505",
+        "https://data.kcg.gov.tw/File/DirectDownload/5c528849-dd0d-40bd-a782-f8e10ba8b505"
+      ]
+    },
+    {
+      "id": "124505",
+      "name": "109年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a1613ac0-87ad-4ee5-b7fa-71c5314cdbb6",
+        "https://data.kcg.gov.tw/File/DirectDownload/a1613ac0-87ad-4ee5-b7fa-71c5314cdbb6"
+      ]
+    },
+    {
+      "id": "124506",
+      "name": "108年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c87c938a-5e6e-4e9e-b8a0-f08ff6dbd862",
+        "https://data.kcg.gov.tw/File/DirectDownload/c87c938a-5e6e-4e9e-b8a0-f08ff6dbd862"
+      ]
+    },
+    {
+      "id": "138322",
+      "name": "106年高雄市應變中心開設其他天然災害人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7cfe9fd5-a5c9-47e6-8bcc-8a21d3e1f11e",
+        "https://data.kcg.gov.tw/File/DirectDownload/7cfe9fd5-a5c9-47e6-8bcc-8a21d3e1f11e"
+      ]
+    },
+    {
+      "id": "138326",
+      "name": "106年高雄市應變中心開設風災人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f2259c52-e58d-4730-ac4b-001876a68024",
+        "https://data.kcg.gov.tw/File/DirectDownload/f2259c52-e58d-4730-ac4b-001876a68024"
+      ]
+    },
+    {
+      "id": "138295",
+      "name": "107年高雄市應變中心開設0702豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/98eb0f0b-8861-4115-b1d9-2d007f0e175b",
+        "https://data.kcg.gov.tw/File/DirectDownload/98eb0f0b-8861-4115-b1d9-2d007f0e175b"
+      ]
+    },
+    {
+      "id": "138212",
+      "name": "103年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9cee5c81-c109-45d6-a570-6fde264c2472",
+        "https://data.kcg.gov.tw/File/directDownload/9cee5c81-c109-45d6-a570-6fde264c2472"
+      ]
+    },
+    {
+      "id": "138308",
+      "name": "106年高雄市應變中心開設尼莎、海棠颱風暨0731水患人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4eecd89e-56fa-4b7b-a199-a89cf1f6f84f",
+        "https://data.kcg.gov.tw/File/DirectDownload/4eecd89e-56fa-4b7b-a199-a89cf1f6f84f"
+      ]
+    },
+    {
+      "id": "138311",
+      "name": "106年高雄市應變中心開設0613豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/29def5af-2283-493c-b810-7316d249dcee",
+        "https://data.kcg.gov.tw/File/DirectDownload/29def5af-2283-493c-b810-7316d249dcee"
+      ]
+    },
+    {
+      "id": "138313",
+      "name": "107年高雄市應變中心開設風災人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/290298cc-791e-4509-9522-4483c5546a9a",
+        "https://data.kcg.gov.tw/File/DirectDownload/290298cc-791e-4509-9522-4483c5546a9a"
+      ]
+    },
+    {
+      "id": "138287",
+      "name": "105年高雄市應變中心開設其他天然災害人員傷亡統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc124bb2-8fbd-4c9d-91f0-31d0405ed9f2",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc124bb2-8fbd-4c9d-91f0-31d0405ed9f2"
+      ]
+    },
+    {
+      "id": "138246",
+      "name": "103年高雄市緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a1c7fa0b-81e9-4ae8-a399-c4e79023242d",
+        "https://data.kcg.gov.tw/File/DirectDownload/a1c7fa0b-81e9-4ae8-a399-c4e79023242d"
+      ]
+    },
+    {
+      "id": "138247",
+      "name": "102年高雄市緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8aaede2b-17c5-4915-b260-19c9a8049442",
+        "https://data.kcg.gov.tw/File/DirectDownload/8aaede2b-17c5-4915-b260-19c9a8049442"
+      ]
+    },
+    {
+      "id": "138249",
+      "name": "100年高雄市政府消防局緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e2f8fb5e-8718-4838-ad8d-e76902929cfd",
+        "https://data.kcg.gov.tw/File/DirectDownload/e2f8fb5e-8718-4838-ad8d-e76902929cfd"
+      ]
+    },
+    {
+      "id": "138258",
+      "name": "102年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f021cfb7-2cb0-4e1c-9b5b-bb802911a670",
+        "https://data.kcg.gov.tw/File/directDownload/f021cfb7-2cb0-4e1c-9b5b-bb802911a670"
+      ]
+    },
+    {
+      "id": "138826",
+      "name": "109年高雄市0825水災出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1e670e01-e1b2-4bca-9bf3-3771f7da3296",
+        "https://data.kcg.gov.tw/File/DirectDownload/1e670e01-e1b2-4bca-9bf3-3771f7da3296"
+      ]
+    },
+    {
+      "id": "138829",
+      "name": "108年高雄市丹娜絲颱風出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1bd6e9b3-a29c-4d88-9910-916144c5f07c",
+        "https://data.kcg.gov.tw/File/DirectDownload/1bd6e9b3-a29c-4d88-9910-916144c5f07c"
+      ]
+    },
+    {
+      "id": "138830",
+      "name": "108年高雄市白鹿颱風出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0e863c09-a46f-4db7-b207-c174f4b0a3a1",
+        "https://data.kcg.gov.tw/File/DirectDownload/0e863c09-a46f-4db7-b207-c174f4b0a3a1"
+      ]
+    },
+    {
+      "id": "138832",
+      "name": "108年高雄市0808水災出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6c543efe-b261-41a2-9847-2c61c296fa7f",
+        "https://data.kcg.gov.tw/File/DirectDownload/6c543efe-b261-41a2-9847-2c61c296fa7f"
+      ]
+    },
+    {
+      "id": "138833",
+      "name": "108年高雄市0520水災出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/054a3c10-c66d-49dd-9e1c-d86edbfd59d7",
+        "https://data.kcg.gov.tw/File/DirectDownload/054a3c10-c66d-49dd-9e1c-d86edbfd59d7"
+      ]
+    },
+    {
+      "id": "167185",
+      "name": "104年高雄市政府消防局專業爆竹煙火施放案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b52a7f92-397b-42ee-ac0a-f0d3c28cd7dc",
+        "https://data.kcg.gov.tw/File/DirectDownload/b52a7f92-397b-42ee-ac0a-f0d3c28cd7dc"
+      ]
+    },
+    {
+      "id": "167186",
+      "name": "105年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/abf6a20e-b70c-44db-975f-4c0b10d8d2ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/abf6a20e-b70c-44db-975f-4c0b10d8d2ab"
+      ]
+    },
+    {
+      "id": "167187",
+      "name": "104年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/30652676-23c6-4398-82fb-57a5ba0a2470",
+        "https://data.kcg.gov.tw/File/DirectDownload/30652676-23c6-4398-82fb-57a5ba0a2470"
+      ]
+    },
+    {
+      "id": "167188",
+      "name": "101年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7b0f863-efe3-4945-a860-f86178ea6273",
+        "https://data.kcg.gov.tw/File/DirectDownload/f7b0f863-efe3-4945-a860-f86178ea6273"
+      ]
+    },
+    {
+      "id": "167190",
+      "name": "105年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bbdbcb63-41a1-453e-9646-5480f38c3cb7",
+        "https://data.kcg.gov.tw/File/DirectDownload/bbdbcb63-41a1-453e-9646-5480f38c3cb7"
+      ]
+    },
+    {
+      "id": "167191",
+      "name": "104年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/62041759-59dc-47ce-8f95-2af5c7e8c29b",
+        "https://data.kcg.gov.tw/File/DirectDownload/62041759-59dc-47ce-8f95-2af5c7e8c29b"
+      ]
+    },
+    {
+      "id": "167195",
+      "name": "100年高雄市火災搶救日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/404d22ba-9a92-426c-a963-32b22508f759",
+        "https://data.kcg.gov.tw/File/DirectDownload/404d22ba-9a92-426c-a963-32b22508f759"
+      ]
+    },
+    {
+      "id": "167198",
+      "name": "103年高雄市政府消防局緊急救護日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/da79da05-f8ca-43a1-8827-0b099b03958e",
+        "https://data.kcg.gov.tw/File/DirectDownload/da79da05-f8ca-43a1-8827-0b099b03958e"
+      ]
+    },
+    {
+      "id": "167200",
+      "name": "101年高雄市政府消防局緊急救護日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f183a5f3-95a8-4448-ac39-05a495fb5777",
+        "https://data.kcg.gov.tw/File/DirectDownload/f183a5f3-95a8-4448-ac39-05a495fb5777"
+      ]
+    },
+    {
+      "id": "167201",
+      "name": "100年高雄市政府消防局緊急救護日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ef6b7af-e0cf-4e25-8785-5b8e61a2b8a1",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ef6b7af-e0cf-4e25-8785-5b8e61a2b8a1"
+      ]
+    },
+    {
+      "id": "167203",
+      "name": "106年高雄市火災搶救暨緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/881b933d-b95b-422d-a6d1-f51e00f9c2ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/881b933d-b95b-422d-a6d1-f51e00f9c2ac"
+      ]
+    },
+    {
+      "id": "167204",
+      "name": "105年高雄市緊急救護日報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2244a2f6-0b1b-48e6-94f9-85ddeb71f04e",
+        "https://data.kcg.gov.tw/File/DirectDownload/2244a2f6-0b1b-48e6-94f9-85ddeb71f04e"
+      ]
+    },
+    {
+      "id": "167208",
+      "name": "105年高雄市其他案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3fca4a41-514b-4771-8b0b-21d7e2398e8d",
+        "https://data.kcg.gov.tw/File/DirectDownload/3fca4a41-514b-4771-8b0b-21d7e2398e8d"
+      ]
+    },
+    {
+      "id": "167210",
+      "name": "107年高雄市政府消防局其他案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c270320d-f507-4802-9d78-a865bf06fc8e",
+        "https://data.kcg.gov.tw/File/DirectDownload/c270320d-f507-4802-9d78-a865bf06fc8e"
+      ]
+    },
+    {
+      "id": "167214",
+      "name": "107年高雄市火災出動人員、車輛、船艇、直升機報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ba5d64a5-5bfc-49fd-aa74-b9317932ed38",
+        "https://data.kcg.gov.tw/File/DirectDownload/ba5d64a5-5bfc-49fd-aa74-b9317932ed38"
+      ]
+    },
+    {
+      "id": "167215",
+      "name": "106年高雄市火災出動人員、車輛、船艇、直升機報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2351247b-649c-49d6-9a6c-cd5545fc584d",
+        "https://data.kcg.gov.tw/File/DirectDownload/2351247b-649c-49d6-9a6c-cd5545fc584d"
+      ]
+    },
+    {
+      "id": "167216",
+      "name": "105年高雄市火災出動人員、車輛、船艇、直升機報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a12cc00a-000e-4aa9-83bd-41eb73705ae4",
+        "https://data.kcg.gov.tw/File/DirectDownload/a12cc00a-000e-4aa9-83bd-41eb73705ae4"
+      ]
+    },
+    {
+      "id": "167168",
+      "name": "105年高雄市應變中心開設風災出動救災人員統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/67508673-a6c6-4c41-8caa-f0c727ae51a9",
+        "https://data.kcg.gov.tw/File/DirectDownload/67508673-a6c6-4c41-8caa-f0c727ae51a9"
+      ]
+    },
+    {
+      "id": "167175",
+      "name": "107年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/46cac055-3f62-41cb-b8d9-b84743edc4dd",
+        "https://data.kcg.gov.tw/File/DirectDownload/46cac055-3f62-41cb-b8d9-b84743edc4dd"
+      ]
+    },
+    {
+      "id": "167177",
+      "name": "105年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/820ea1ea-0b57-423a-a636-80dd9fa64663",
+        "https://data.kcg.gov.tw/File/DirectDownload/820ea1ea-0b57-423a-a636-80dd9fa64663"
+      ]
+    },
+    {
+      "id": "167178",
+      "name": "104年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6b66255d-90fa-4ff9-96f5-ba6ea4b0f008",
+        "https://data.kcg.gov.tw/File/DirectDownload/6b66255d-90fa-4ff9-96f5-ba6ea4b0f008"
+      ]
+    },
+    {
+      "id": "167179",
+      "name": "103年高雄市政府消防局報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/146b3682-fce4-40c0-9e4e-060359f419c7",
+        "https://data.kcg.gov.tw/File/DirectDownload/146b3682-fce4-40c0-9e4e-060359f419c7"
+      ]
+    },
+    {
+      "id": "167183",
+      "name": "106年高雄市政府消防局專業爆竹煙火施放案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d46ed06d-cee0-4964-a2a0-f9ac9b381304",
+        "https://data.kcg.gov.tw/File/DirectDownload/d46ed06d-cee0-4964-a2a0-f9ac9b381304"
+      ]
+    },
+    {
+      "id": "167184",
+      "name": "105年高雄市政府消防局專業施放爆竹煙火案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/748aaca2-d9f3-4393-879f-54b72d3057ea",
+        "https://data.kcg.gov.tw/File/DirectDownload/748aaca2-d9f3-4393-879f-54b72d3057ea"
+      ]
+    },
+    {
+      "id": "167146",
+      "name": "高雄市液化石油氣分裝場、儲存場、驗瓶場清冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5b07470c-d767-4d77-98c4-5b6af3fd445c",
+        "https://data.kcg.gov.tw/File/DirectDownload/5b07470c-d767-4d77-98c4-5b6af3fd445c"
+      ]
+    },
+    {
+      "id": "167222",
+      "name": "102年高雄市政府消防局一般公文時效統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d045d599-4a5c-4734-a0fa-5822ecf12ba9",
+        "https://data.kcg.gov.tw/File/DirectDownload/d045d599-4a5c-4734-a0fa-5822ecf12ba9"
+      ]
+    },
+    {
+      "id": "167157",
+      "name": "107年高雄市政府消防局電子簽核及紙本簽核件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/40b884eb-0a19-4991-8a06-a7986c12304f",
+        "https://data.kcg.gov.tw/File/DirectDownload/40b884eb-0a19-4991-8a06-a7986c12304f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/656b9552-9ef8-44c9-b2c3-a970b7a78220",
+        "https://data.kcg.gov.tw/File/DirectDownload/656b9552-9ef8-44c9-b2c3-a970b7a78220"
+      ]
+    },
+    {
+      "id": "167161",
+      "name": "105年高雄市應變中心開設震災建物損失統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a1705df8-a0aa-49e5-9055-888f7d08df2e",
+        "https://data.kcg.gov.tw/File/DirectDownload/a1705df8-a0aa-49e5-9055-888f7d08df2e"
+      ]
+    },
+    {
+      "id": "167163",
+      "name": "105年高雄市應變中心開設震災出動救災人員統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c2969abd-9b5e-4edc-818e-adb7125b5f17",
+        "https://data.kcg.gov.tw/File/DirectDownload/c2969abd-9b5e-4edc-818e-adb7125b5f17"
+      ]
+    },
+    {
+      "id": "167165",
+      "name": "105年高雄市應變中心開設風災搶救災民人數統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a54ab41-8b3c-440e-87e3-56a5a1a11b26",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a54ab41-8b3c-440e-87e3-56a5a1a11b26"
+      ]
+    },
+    {
+      "id": "169572",
+      "name": "113年高雄市政府消防局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9e303cd3-cd51-452a-9dd9-55531c1710cd",
+        "https://data.kcg.gov.tw/File/directDownload/9e303cd3-cd51-452a-9dd9-55531c1710cd"
+      ]
+    },
+    {
+      "id": "169573",
+      "name": "113年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/477d5446-f55e-4229-8a5c-9ea861967f48",
+        "https://data.kcg.gov.tw/File/directDownload/477d5446-f55e-4229-8a5c-9ea861967f48"
+      ]
+    },
+    {
+      "id": "169574",
+      "name": "112年高雄市政府消防局捐贈搶救用品",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/799f721c-2773-4413-8ec8-593ba29779e5",
+        "https://data.kcg.gov.tw/File/directDownload/799f721c-2773-4413-8ec8-593ba29779e5"
+      ]
+    },
+    {
+      "id": "169593",
+      "name": "112年高雄市119公務案件統計表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ce3c4a0-6d53-4cd9-9d19-7bb2ddacb2e1",
+        "https://data.kcg.gov.tw/File/directDownload/7ce3c4a0-6d53-4cd9-9d19-7bb2ddacb2e1"
+      ]
+    },
+    {
+      "id": "169597",
+      "name": "112年高雄市119其他案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5edd24b5-bd6d-4add-918f-bff5896659bd",
+        "https://data.kcg.gov.tw/File/directDownload/5edd24b5-bd6d-4add-918f-bff5896659bd"
+      ]
+    },
+    {
+      "id": "169598",
+      "name": "112年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e8659f15-753b-4075-875e-64e3034906af",
+        "https://data.kcg.gov.tw/File/directDownload/e8659f15-753b-4075-875e-64e3034906af"
+      ]
+    },
+    {
+      "id": "169601",
+      "name": "112年高雄市火災出動月報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c1071663-b3ea-4c0d-bdba-da9ad9e67a30",
+        "https://data.kcg.gov.tw/File/directDownload/c1071663-b3ea-4c0d-bdba-da9ad9e67a30"
+      ]
+    },
+    {
+      "id": "160486",
+      "name": "110年高雄市緊急救護服務統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a976396-b793-4ce3-bf79-ed483b43cdbf",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a976396-b793-4ce3-bf79-ed483b43cdbf"
+      ]
+    },
+    {
+      "id": "160466",
+      "name": "110年高雄市其他案件件數日報表_以月作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a8ef7f3d-d295-42bd-b7fc-808e435b6650",
+        "https://data.kcg.gov.tw/File/DirectDownload/a8ef7f3d-d295-42bd-b7fc-808e435b6650"
+      ]
+    },
+    {
+      "id": "160468",
+      "name": "110年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/02fe52fe-2191-4e99-a956-1070351cf224",
+        "https://data.kcg.gov.tw/File/DirectDownload/02fe52fe-2191-4e99-a956-1070351cf224"
+      ]
+    },
+    {
+      "id": "160471",
+      "name": "110年高雄市應變中心開設風災人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/99f9c186-973e-47ce-b185-0d07ed9e8761",
+        "https://data.kcg.gov.tw/File/DirectDownload/99f9c186-973e-47ce-b185-0d07ed9e8761"
+      ]
+    },
+    {
+      "id": "160473",
+      "name": "110年高雄市政府消防局一般公文時效統計表資訊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cb18644d-66c5-46d2-b9e4-315ddb070061",
+        "https://data.kcg.gov.tw/File/DirectDownload/cb18644d-66c5-46d2-b9e4-315ddb070061"
+      ]
+    },
+    {
+      "id": "160474",
+      "name": "110年高雄市政府消防局捐贈辦公用品",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bfa22df3-6705-4666-b9a3-de7b14665f26",
+        "https://data.kcg.gov.tw/File/DirectDownload/bfa22df3-6705-4666-b9a3-de7b14665f26"
+      ]
+    },
+    {
+      "id": "160475",
+      "name": "110年高雄市政府消防局電子簽核及紙本簽核件數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7f1110fb-232d-4c4a-9aa4-ecad377d4c17",
+        "https://data.kcg.gov.tw/File/DirectDownload/7f1110fb-232d-4c4a-9aa4-ecad377d4c17"
+      ]
+    },
+    {
+      "id": "160480",
+      "name": "110年高雄市政府消防局捐贈搶救用品",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/64561eb2-f20d-45c0-99aa-2570bce233d4",
+        "https://data.kcg.gov.tw/File/DirectDownload/64561eb2-f20d-45c0-99aa-2570bce233d4"
+      ]
+    },
+    {
+      "id": "160455",
+      "name": "110年高雄市政府消防局火災出動月報表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/486e49d9-ada7-4335-8e35-888cee0966b9",
+        "https://data.kcg.gov.tw/File/DirectDownload/486e49d9-ada7-4335-8e35-888cee0966b9"
+      ]
+    },
+    {
+      "id": "160457",
+      "name": "110年高雄市0805水災出動人車統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/14717ec2-d217-46ad-9b50-960d721738c2",
+        "https://data.kcg.gov.tw/File/DirectDownload/14717ec2-d217-46ad-9b50-960d721738c2"
+      ]
+    },
+    {
+      "id": "160461",
+      "name": "110年高雄市緊急救護日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/911a0666-b438-4c62-8f1d-44e0352e0aaf",
+        "https://data.kcg.gov.tw/File/DirectDownload/911a0666-b438-4c62-8f1d-44e0352e0aaf"
+      ]
+    },
+    {
+      "id": "160462",
+      "name": "110年高雄市119其他案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1cc0bc09-f794-4487-874d-73aab56242d8",
+        "https://data.kcg.gov.tw/File/DirectDownload/1cc0bc09-f794-4487-874d-73aab56242d8"
+      ]
+    },
+    {
+      "id": "143419",
+      "name": "109年高雄市爆竹煙火違法取締年報表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1973e601-85e4-4a11-9ff9-88f161b25363",
+        "https://data.kcg.gov.tw/File/DirectDownload/1973e601-85e4-4a11-9ff9-88f161b25363"
+      ]
+    },
+    {
+      "id": "143421",
+      "name": "109年高雄市應變中心開設水患人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/14c69db2-7b97-4214-be95-ee8c1923ce52",
+        "https://data.kcg.gov.tw/File/DirectDownload/14c69db2-7b97-4214-be95-ee8c1923ce52"
+      ]
+    },
+    {
+      "id": "143422",
+      "name": "109年高雄市應變中心開設0828豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a4ab9952-59a9-4b23-be5b-3be5a0d460d2",
+        "https://data.kcg.gov.tw/File/DirectDownload/a4ab9952-59a9-4b23-be5b-3be5a0d460d2"
+      ]
+    },
+    {
+      "id": "143424",
+      "name": "109年高雄市應變中心開設0519豪雨人員傷亡、建物損失、搶救災民人數、出動救災人次、出動救災裝備統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5de00454-29a8-4a40-928a-b0a7c104bee5",
+        "https://data.kcg.gov.tw/File/DirectDownload/5de00454-29a8-4a40-928a-b0a7c104bee5"
+      ]
+    },
+    {
+      "id": "143425",
+      "name": "109年高雄市液化石油氣消防安全檢查及違規取締",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3328c6e0-e331-4c17-b590-dc77dc04c2ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/3328c6e0-e331-4c17-b590-dc77dc04c2ab"
+      ]
+    },
+    {
+      "id": "143368",
+      "name": "110年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e902cf46-1d4b-462e-920c-c5bad303ce23",
+        "https://data.kcg.gov.tw/File/DirectDownload/e902cf46-1d4b-462e-920c-c5bad303ce23"
+      ]
+    },
+    {
+      "id": "143370",
+      "name": "109年高雄市公布危險水域地點及曾發生溺水事故地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/75415b84-ad7c-4857-8870-ea13bff534cf",
+        "https://data.kcg.gov.tw/File/DirectDownload/75415b84-ad7c-4857-8870-ea13bff534cf"
+      ]
+    },
+    {
+      "id": "143373",
+      "name": "109年高雄市緊急救護到院前心肺功能停止傷病患統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/114b8a5d-7dff-4838-9929-314c447027e3",
+        "https://data.kcg.gov.tw/File/DirectDownload/114b8a5d-7dff-4838-9929-314c447027e3"
+      ]
+    },
+    {
+      "id": "143374",
+      "name": "109年高雄市緊急救護急救處置統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b7aa04ae-aa0b-49b7-85f9-0dbf04eba208",
+        "https://data.kcg.gov.tw/File/DirectDownload/b7aa04ae-aa0b-49b7-85f9-0dbf04eba208"
+      ]
+    },
+    {
+      "id": "143400",
+      "name": "109年高雄市火災案件按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f79fe83a-b7c6-459a-a3c5-13b5467d5afb",
+        "https://data.kcg.gov.tw/File/DirectDownload/f79fe83a-b7c6-459a-a3c5-13b5467d5afb"
+      ]
+    },
+    {
+      "id": "143401",
+      "name": "109年高雄市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2af6d3e2-449e-4566-b96c-e09955ea5eef",
+        "https://data.kcg.gov.tw/File/DirectDownload/2af6d3e2-449e-4566-b96c-e09955ea5eef"
+      ]
+    },
+    {
+      "id": "143414",
+      "name": "109年高雄市爆竹煙火安全檢查",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c09f7a4d-c723-4f52-bfb1-f89c99bf4e5d",
+        "https://data.kcg.gov.tw/File/DirectDownload/c09f7a4d-c723-4f52-bfb1-f89c99bf4e5d"
+      ]
+    },
+    {
+      "id": "143365",
+      "name": "109年高雄市119公務案件統計表_以分隊作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4cd0c3f3-5387-4815-af5c-e42bf8c4e587",
+        "https://data.kcg.gov.tw/File/DirectDownload/4cd0c3f3-5387-4815-af5c-e42bf8c4e587"
+      ]
+    },
+    {
+      "id": "164012",
+      "name": "111年高雄市火災搶救日報表_以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3f207213-9490-446d-802a-3e15d0ca7b11",
+        "https://data.kcg.gov.tw/File/DirectDownload/3f207213-9490-446d-802a-3e15d0ca7b11"
+      ]
+    },
+    {
+      "id": "163988",
+      "name": "112年高雄市政府消防局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f1baf5cc-7b79-4125-b1e6-a7306632a316",
+        "https://data.kcg.gov.tw/File/DirectDownload/f1baf5cc-7b79-4125-b1e6-a7306632a316"
+      ]
+    },
+    {
+      "id": "163992",
+      "name": "111年高雄市其他案件件數日報表-以行政區作統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f8c5642-bc77-4377-bc23-7bf611f24337",
+        "https://data.kcg.gov.tw/File/DirectDownload/5f8c5642-bc77-4377-bc23-7bf611f24337"
+      ]
+    },
+    {
+      "id": "164003",
+      "name": "111年高雄市報案情形統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/656cc59e-b872-4dde-b550-7a85a56e9ff1",
+        "https://data.kcg.gov.tw/File/DirectDownload/656cc59e-b872-4dde-b550-7a85a56e9ff1"
+      ]
+    }
+  ]
+}

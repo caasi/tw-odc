@@ -1,0 +1,200 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府觀光局",
+  "slug": "openapi_kcg_gov_tw_244c0026",
+  "datasets": [
+    {
+      "id": "47018",
+      "name": "高雄市一般旅館資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/59e24315-4e78-4455-af5e-8c457600f286",
+        "https://data.kcg.gov.tw/File/DirectDownload/59e24315-4e78-4455-af5e-8c457600f286"
+      ]
+    },
+    {
+      "id": "138185",
+      "name": "高雄旅遊網-活動資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/80bbbbd3-9ee4-4244-98e9-b4c08deda91b",
+        "https://data.kcg.gov.tw/File/DirectDownload/80bbbbd3-9ee4-4244-98e9-b4c08deda91b"
+      ]
+    },
+    {
+      "id": "155492",
+      "name": "高雄市民宿資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2911f851-59dd-4d7b-b6c7-b750ebb88728",
+        "https://data.kcg.gov.tw/File/DirectDownload/2911f851-59dd-4d7b-b6c7-b750ebb88728"
+      ]
+    },
+    {
+      "id": "104269",
+      "name": "107-111高雄市一般旅館業督導管理",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3fc02ec9-ccf2-48c9-8641-09052e49a383",
+        "https://data.kcg.gov.tw/File/DirectDownload/3fc02ec9-ccf2-48c9-8641-09052e49a383",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a4abbab-7755-44ce-ac2e-304ef1420bf1",
+        "https://data.kcg.gov.tw/File/DirectDownload/9a4abbab-7755-44ce-ac2e-304ef1420bf1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c4cad9a5-b63d-41de-8483-a96891165b91",
+        "https://data.kcg.gov.tw/File/DirectDownload/c4cad9a5-b63d-41de-8483-a96891165b91",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5793e544-ffbf-4e1f-8b61-d4168da86af4",
+        "https://data.kcg.gov.tw/File/DirectDownload/5793e544-ffbf-4e1f-8b61-d4168da86af4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3f306915-2c91-4bd6-aa86-f0b6e3deb5cb",
+        "https://data.kcg.gov.tw/File/DirectDownload/3f306915-2c91-4bd6-aa86-f0b6e3deb5cb"
+      ]
+    },
+    {
+      "id": "127747",
+      "name": "107-111年旅館及旅行社家數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b100a056-c895-4b32-9d7f-2b3e1e3e08ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/b100a056-c895-4b32-9d7f-2b3e1e3e08ab",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/de6b48a7-86e8-45a6-8afc-650ddbf5c9ee",
+        "https://data.kcg.gov.tw/File/DirectDownload/de6b48a7-86e8-45a6-8afc-650ddbf5c9ee",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4ce2dc4c-cc74-4a62-80b5-9dcbe0fc0816",
+        "https://data.kcg.gov.tw/File/DirectDownload/4ce2dc4c-cc74-4a62-80b5-9dcbe0fc0816",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a991dc07-3e89-4376-b569-dee690dd25ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/a991dc07-3e89-4376-b569-dee690dd25ff",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/37128195-7245-4bb3-8621-fd1ab4f1da6a",
+        "https://data.kcg.gov.tw/File/DirectDownload/37128195-7245-4bb3-8621-fd1ab4f1da6a"
+      ]
+    },
+    {
+      "id": "128473",
+      "name": "107-111高雄市旅行業從業人員性別統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d454607e-302d-4f3c-b972-3286bf6dd089",
+        "https://data.kcg.gov.tw/File/DirectDownload/d454607e-302d-4f3c-b972-3286bf6dd089",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/97864ada-f0f7-4991-b786-469d37274540",
+        "https://data.kcg.gov.tw/File/DirectDownload/97864ada-f0f7-4991-b786-469d37274540",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c10884c5-691f-4ea9-923f-7a6ccebce038",
+        "https://data.kcg.gov.tw/File/DirectDownload/c10884c5-691f-4ea9-923f-7a6ccebce038",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0f25f3c-2f33-4da3-b109-c5d1ea57e2a8",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0f25f3c-2f33-4da3-b109-c5d1ea57e2a8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7fd74f1-1b80-4774-b288-e58eba7a4c23",
+        "https://data.kcg.gov.tw/File/DirectDownload/f7fd74f1-1b80-4774-b288-e58eba7a4c23"
+      ]
+    },
+    {
+      "id": "104270",
+      "name": "106高雄市一般旅館業督導管理",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/320d7be1-3220-4d0a-a679-7aee56318053",
+        "https://data.kcg.gov.tw/File/DirectDownload/320d7be1-3220-4d0a-a679-7aee56318053"
+      ]
+    },
+    {
+      "id": "127744",
+      "name": "106壽山動物園參觀人次及門票收入",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a244600-a52d-4afe-9272-00d7578087f1",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a244600-a52d-4afe-9272-00d7578087f1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/67e5f076-8b68-4688-8786-4803a440a9ed",
+        "https://data.kcg.gov.tw/File/DirectDownload/67e5f076-8b68-4688-8786-4803a440a9ed",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d0a7a07-06f1-47b9-b064-6c774ed08525",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d0a7a07-06f1-47b9-b064-6c774ed08525",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a8a9f431-0e75-4774-9b34-6f5c58bfb388",
+        "https://data.kcg.gov.tw/File/DirectDownload/a8a9f431-0e75-4774-9b34-6f5c58bfb388",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0fcd57b2-1511-4473-8cc7-78ab949e647a",
+        "https://data.kcg.gov.tw/File/DirectDownload/0fcd57b2-1511-4473-8cc7-78ab949e647a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/29691532-0174-4a5e-a798-a64c85501e0e",
+        "https://data.kcg.gov.tw/File/DirectDownload/29691532-0174-4a5e-a798-a64c85501e0e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fb20ac5f-68b7-4acf-ba3b-b9c39772034b",
+        "https://data.kcg.gov.tw/File/DirectDownload/fb20ac5f-68b7-4acf-ba3b-b9c39772034b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/064ad56f-7414-4096-9f13-c8162c3014f7",
+        "https://data.kcg.gov.tw/File/DirectDownload/064ad56f-7414-4096-9f13-c8162c3014f7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/24fd559f-ea6b-49a2-a3ec-d2b381994407",
+        "https://data.kcg.gov.tw/File/DirectDownload/24fd559f-ea6b-49a2-a3ec-d2b381994407",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5fe784c9-68e9-4030-a946-d53416cb28ec",
+        "https://data.kcg.gov.tw/File/DirectDownload/5fe784c9-68e9-4030-a946-d53416cb28ec",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ccec96cc-cad5-4f31-8cf9-d99238e8102c",
+        "https://data.kcg.gov.tw/File/DirectDownload/ccec96cc-cad5-4f31-8cf9-d99238e8102c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/db2f11fb-cdde-4090-be6e-fb42f00ec58e",
+        "https://data.kcg.gov.tw/File/DirectDownload/db2f11fb-cdde-4090-be6e-fb42f00ec58e"
+      ]
+    },
+    {
+      "id": "127745",
+      "name": "106年旅館及旅行社家數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/17798dbc-62e1-4e8b-b14e-2722ede24819",
+        "https://data.kcg.gov.tw/File/DirectDownload/17798dbc-62e1-4e8b-b14e-2722ede24819"
+      ]
+    },
+    {
+      "id": "127746",
+      "name": "106高雄市一般旅館業查報及取締情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0c0dca2f-418e-4f03-9f6b-082fd71c967d",
+        "https://data.kcg.gov.tw/File/DirectDownload/0c0dca2f-418e-4f03-9f6b-082fd71c967d"
+      ]
+    },
+    {
+      "id": "127748",
+      "name": "107-111高雄市一般旅館業查報及取締情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0d80dc3c-748b-447d-808c-22ab925028d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/0d80dc3c-748b-447d-808c-22ab925028d6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/db7aa2e0-c726-4da1-be6c-5b10e4705461",
+        "https://data.kcg.gov.tw/File/DirectDownload/db7aa2e0-c726-4da1-be6c-5b10e4705461",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7b54c7bd-22ce-468b-aadb-787e5c9f1124",
+        "https://data.kcg.gov.tw/File/DirectDownload/7b54c7bd-22ce-468b-aadb-787e5c9f1124",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/57ea5cb2-8f5e-4ce5-acd2-af89c76a32b5",
+        "https://data.kcg.gov.tw/File/DirectDownload/57ea5cb2-8f5e-4ce5-acd2-af89c76a32b5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/57e3d44f-2557-4d70-85a5-cc2cc48d311f",
+        "https://data.kcg.gov.tw/File/DirectDownload/57e3d44f-2557-4d70-85a5-cc2cc48d311f"
+      ]
+    },
+    {
+      "id": "127755",
+      "name": "107壽山動物園參觀人次及門票收入",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d293e8da-6437-40c6-99c5-115321eb8618",
+        "https://data.kcg.gov.tw/File/DirectDownload/d293e8da-6437-40c6-99c5-115321eb8618",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7e0abfc0-fb8f-4d91-9356-21f50920ef45",
+        "https://data.kcg.gov.tw/File/DirectDownload/7e0abfc0-fb8f-4d91-9356-21f50920ef45",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5d8ffb0-816f-4d52-8e3a-27898394fce0",
+        "https://data.kcg.gov.tw/File/DirectDownload/e5d8ffb0-816f-4d52-8e3a-27898394fce0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6ba05203-c328-40ed-8b71-2be037dfa7f1",
+        "https://data.kcg.gov.tw/File/DirectDownload/6ba05203-c328-40ed-8b71-2be037dfa7f1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c8a990f3-8180-4825-b56a-3426a2209e17",
+        "https://data.kcg.gov.tw/File/DirectDownload/c8a990f3-8180-4825-b56a-3426a2209e17",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d8ebe8ba-c34e-42d9-83c9-569fb3a09792",
+        "https://data.kcg.gov.tw/File/DirectDownload/d8ebe8ba-c34e-42d9-83c9-569fb3a09792",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1fe4da3d-40b6-4ff3-a180-705f8639224b",
+        "https://data.kcg.gov.tw/File/DirectDownload/1fe4da3d-40b6-4ff3-a180-705f8639224b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7b947385-446a-48f2-a447-77dc3097b5e3",
+        "https://data.kcg.gov.tw/File/DirectDownload/7b947385-446a-48f2-a447-77dc3097b5e3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2979dddd-c8dd-4ccd-9224-7a57496eb8f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/2979dddd-c8dd-4ccd-9224-7a57496eb8f3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7c919c53-98d8-43ae-b8e4-b1524d2d56f4",
+        "https://data.kcg.gov.tw/File/DirectDownload/7c919c53-98d8-43ae-b8e4-b1524d2d56f4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/94fdf6ce-0d67-4d55-823e-c0a81ccdb818",
+        "https://data.kcg.gov.tw/File/DirectDownload/94fdf6ce-0d67-4d55-823e-c0a81ccdb818",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e3b23bf6-a283-4b40-ab4d-c51f9a652f32",
+        "https://data.kcg.gov.tw/File/DirectDownload/e3b23bf6-a283-4b40-ab4d-c51f9a652f32"
+      ]
+    },
+    {
+      "id": "128474",
+      "name": "106高雄市旅行業從業人員性別統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f568ed48-8d15-4e33-8b1a-04e22f17dc9b",
+        "https://data.kcg.gov.tw/File/DirectDownload/f568ed48-8d15-4e33-8b1a-04e22f17dc9b"
+      ]
+    }
+  ]
+}

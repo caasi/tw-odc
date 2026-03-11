@@ -1,0 +1,32 @@
+{
+  "type": "dataset",
+  "provider": "桃園市政府捷運工程局",
+  "slug": "opendata_tycg_gov_tw_f12ceed2",
+  "datasets": [
+    {
+      "id": "171384",
+      "name": "桃園捷運路網說明",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/b6420349-dd19-4e9d-a218-9b8dba927432/resource/6375ef6b-1e3b-48cf-b614-2e8e5782e2ae/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b6420349-dd19-4e9d-a218-9b8dba927432/resource/6f81e6ce-7e01-4c4a-800e-f173a7f18f8c/download"
+      ]
+    },
+    {
+      "id": "171385",
+      "name": "桃園市捷運工程局興建中捷運路線進度及說明",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/befc5c17-5746-44be-8383-0b32d6bb2578/resource/12667a9d-8842-437c-9dc3-8af5cef0a895/download"
+      ]
+    },
+    {
+      "id": "171383",
+      "name": "桃園市捷運工程局規劃中捷運計畫內容及進度說明",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/6b6033d8-e4ad-4b6c-a061-be33d4264f3b/resource/be1b659b-78b6-4a59-9fce-ba5e7e4651e3/download"
+      ]
+    }
+  ]
+}

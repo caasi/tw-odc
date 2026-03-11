@@ -1,0 +1,929 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府農業局",
+  "slug": "openapi_kcg_gov_tw_bd1064b4",
+  "datasets": [
+    {
+      "id": "47003",
+      "name": "高雄市動物保護處「為毛小孩找一個家」公益櫥窗計畫合作店家目錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3b63178e-365e-4dc3-8ebf-c0b81feaa73b",
+        "https://data.kcg.gov.tw/File/DirectDownload/3b63178e-365e-4dc3-8ebf-c0b81feaa73b"
+      ]
+    },
+    {
+      "id": "117958",
+      "name": "109年2月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/71b8949c-0bd4-4872-a505-11cd2603d133",
+        "https://data.kcg.gov.tw/File/DirectDownload/71b8949c-0bd4-4872-a505-11cd2603d133"
+      ]
+    },
+    {
+      "id": "117959",
+      "name": "109年2月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0ea93436-f2e8-471a-9619-a58eedb83aeb",
+        "https://data.kcg.gov.tw/File/DirectDownload/0ea93436-f2e8-471a-9619-a58eedb83aeb"
+      ]
+    },
+    {
+      "id": "117960",
+      "name": "109年2月份高雄市疫病蟲害主動調查監測-東方實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/692ff217-9df0-4383-9cec-9efb39d69ad7",
+        "https://data.kcg.gov.tw/File/DirectDownload/692ff217-9df0-4383-9cec-9efb39d69ad7"
+      ]
+    },
+    {
+      "id": "105065",
+      "name": "108年7月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ab5beb5-14a5-4d5b-ab66-90794c566fac",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ab5beb5-14a5-4d5b-ab66-90794c566fac"
+      ]
+    },
+    {
+      "id": "106181",
+      "name": "108年6月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9ec77a9e-1ba2-4e28-8cf3-487815f97867",
+        "https://data.kcg.gov.tw/File/DirectDownload/9ec77a9e-1ba2-4e28-8cf3-487815f97867"
+      ]
+    },
+    {
+      "id": "128326",
+      "name": "109年6月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8566c98b-c410-4f3a-9068-978a9f5b164c",
+        "https://data.kcg.gov.tw/File/DirectDownload/8566c98b-c410-4f3a-9068-978a9f5b164c"
+      ]
+    },
+    {
+      "id": "128327",
+      "name": "109年6月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6360ebb2-8f31-4527-8067-1b81f69f20d8",
+        "https://data.kcg.gov.tw/File/DirectDownload/6360ebb2-8f31-4527-8067-1b81f69f20d8"
+      ]
+    },
+    {
+      "id": "100681",
+      "name": "108年1月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3084ec05-775f-4fb2-b5d7-6b65ab4d80ba",
+        "https://data.kcg.gov.tw/File/DirectDownload/3084ec05-775f-4fb2-b5d7-6b65ab4d80ba"
+      ]
+    },
+    {
+      "id": "100687",
+      "name": "108年1月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b0d5f0b5-8cb8-47f6-8250-7003ceb68464",
+        "https://data.kcg.gov.tw/File/DirectDownload/b0d5f0b5-8cb8-47f6-8250-7003ceb68464"
+      ]
+    },
+    {
+      "id": "101173",
+      "name": "108年4月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/64ae9400-072a-4b06-b214-94ce61470b4b",
+        "https://data.kcg.gov.tw/File/DirectDownload/64ae9400-072a-4b06-b214-94ce61470b4b"
+      ]
+    },
+    {
+      "id": "87195",
+      "name": "高雄市家畜禽屠宰場名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/963762e9-fd0a-401e-908e-c03a3f6e0df6",
+        "https://data.kcg.gov.tw/File/directDownload/963762e9-fd0a-401e-908e-c03a3f6e0df6"
+      ]
+    },
+    {
+      "id": "87263",
+      "name": "休閒農場場址及聯絡電話",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f04ef21c-be26-4722-9249-c15a7710b53b",
+        "https://data.kcg.gov.tw/File/DirectDownload/f04ef21c-be26-4722-9249-c15a7710b53b"
+      ]
+    },
+    {
+      "id": "104243",
+      "name": "108年6月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a0a862c5-f38e-4124-bd1a-638012c30bc4",
+        "https://data.kcg.gov.tw/File/DirectDownload/a0a862c5-f38e-4124-bd1a-638012c30bc4"
+      ]
+    },
+    {
+      "id": "104477",
+      "name": "108年5月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7a291caa-1d5f-40b1-9105-0a3e83d5ab90",
+        "https://data.kcg.gov.tw/File/DirectDownload/7a291caa-1d5f-40b1-9105-0a3e83d5ab90"
+      ]
+    },
+    {
+      "id": "104478",
+      "name": "108年5月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85dbb9a1-4d0e-421c-97ab-d26849ebee12",
+        "https://data.kcg.gov.tw/File/DirectDownload/85dbb9a1-4d0e-421c-97ab-d26849ebee12"
+      ]
+    },
+    {
+      "id": "119325",
+      "name": "109年3月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c87b42c4-611b-4055-8038-31326315575d",
+        "https://data.kcg.gov.tw/File/directDownload/c87b42c4-611b-4055-8038-31326315575d"
+      ]
+    },
+    {
+      "id": "121094",
+      "name": "109年4月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/54e04e3a-c7bb-4efa-a89e-7d316a9fb120",
+        "https://data.kcg.gov.tw/File/DirectDownload/54e04e3a-c7bb-4efa-a89e-7d316a9fb120"
+      ]
+    },
+    {
+      "id": "126701",
+      "name": "109年5月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d83e4ad9-3223-4336-ac11-65c2cbf61d64",
+        "https://data.kcg.gov.tw/File/DirectDownload/d83e4ad9-3223-4336-ac11-65c2cbf61d64"
+      ]
+    },
+    {
+      "id": "114127",
+      "name": "108年10月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/954ab138-d955-4e6d-9635-34ec6a915db6",
+        "https://data.kcg.gov.tw/File/DirectDownload/954ab138-d955-4e6d-9635-34ec6a915db6"
+      ]
+    },
+    {
+      "id": "114128",
+      "name": "108年10月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f3010aa0-72ac-406b-889c-e8f625e0ce80",
+        "https://data.kcg.gov.tw/File/DirectDownload/f3010aa0-72ac-406b-889c-e8f625e0ce80"
+      ]
+    },
+    {
+      "id": "114055",
+      "name": "108年12月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6168e335-f0be-4df2-8e17-78c2281479cd",
+        "https://data.kcg.gov.tw/File/DirectDownload/6168e335-f0be-4df2-8e17-78c2281479cd"
+      ]
+    },
+    {
+      "id": "131152",
+      "name": "109年9月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/baa2fd2d-183a-4e9b-ada3-19b53d32934a",
+        "https://data.kcg.gov.tw/File/DirectDownload/baa2fd2d-183a-4e9b-ada3-19b53d32934a"
+      ]
+    },
+    {
+      "id": "131153",
+      "name": "109年9月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8140efac-9ce7-4e7e-a888-b09857bcaeae",
+        "https://data.kcg.gov.tw/File/DirectDownload/8140efac-9ce7-4e7e-a888-b09857bcaeae"
+      ]
+    },
+    {
+      "id": "130262",
+      "name": "109年8月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/26f742dc-5bc7-423b-94b3-a6466feec8a9",
+        "https://data.kcg.gov.tw/File/DirectDownload/26f742dc-5bc7-423b-94b3-a6466feec8a9"
+      ]
+    },
+    {
+      "id": "137914",
+      "name": "109年12月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/28a21e08-2348-4fec-9514-25fcffb6c610",
+        "https://data.kcg.gov.tw/File/DirectDownload/28a21e08-2348-4fec-9514-25fcffb6c610"
+      ]
+    },
+    {
+      "id": "137915",
+      "name": "110年1月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/18a41f99-feb6-4478-85ef-b544c619700d",
+        "https://data.kcg.gov.tw/File/DirectDownload/18a41f99-feb6-4478-85ef-b544c619700d"
+      ]
+    },
+    {
+      "id": "142963",
+      "name": "110年5月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/76fabe7c-38d4-43d9-8be3-260f816043ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/76fabe7c-38d4-43d9-8be3-260f816043ac"
+      ]
+    },
+    {
+      "id": "142967",
+      "name": "110年4月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e093c442-68e3-41a3-a7b0-3a4229d4bc28",
+        "https://data.kcg.gov.tw/File/DirectDownload/e093c442-68e3-41a3-a7b0-3a4229d4bc28"
+      ]
+    },
+    {
+      "id": "143171",
+      "name": "高雄市寵物登記站",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/762fbb38-59d7-4084-84f4-7158f1ade850",
+        "https://data.kcg.gov.tw/File/DirectDownload/762fbb38-59d7-4084-84f4-7158f1ade850"
+      ]
+    },
+    {
+      "id": "143278",
+      "name": "110年7月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/17332382-7e89-469f-aa81-87ea2865d1e7",
+        "https://data.kcg.gov.tw/File/DirectDownload/17332382-7e89-469f-aa81-87ea2865d1e7"
+      ]
+    },
+    {
+      "id": "143279",
+      "name": "110年6月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e970c23f-7eb0-45dd-9f18-f7021a687a1c",
+        "https://data.kcg.gov.tw/File/DirectDownload/e970c23f-7eb0-45dd-9f18-f7021a687a1c"
+      ]
+    },
+    {
+      "id": "143415",
+      "name": "高雄市特定寵物業名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a87d56ff-a520-4e2c-b14f-e9d50bdecd6e",
+        "https://data.kcg.gov.tw/File/DirectDownload/a87d56ff-a520-4e2c-b14f-e9d50bdecd6e"
+      ]
+    },
+    {
+      "id": "143281",
+      "name": "110年7月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/185d6f53-aa48-45a0-bc99-6958128da6f2",
+        "https://data.kcg.gov.tw/File/DirectDownload/185d6f53-aa48-45a0-bc99-6958128da6f2"
+      ]
+    },
+    {
+      "id": "143283",
+      "name": "110年6月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ca5727d-e896-4556-b142-8a725810b0a4",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ca5727d-e896-4556-b142-8a725810b0a4"
+      ]
+    },
+    {
+      "id": "137494",
+      "name": "109年12月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/211a2549-5170-4a03-8346-bc5fd398770a",
+        "https://data.kcg.gov.tw/File/DirectDownload/211a2549-5170-4a03-8346-bc5fd398770a"
+      ]
+    },
+    {
+      "id": "139958",
+      "name": "110年2月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/44b65603-7a9d-43bb-a196-93c76deb10f9",
+        "https://data.kcg.gov.tw/File/DirectDownload/44b65603-7a9d-43bb-a196-93c76deb10f9"
+      ]
+    },
+    {
+      "id": "171673",
+      "name": "113年度高雄市養鹿場結核病檢驗合格名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/57cded5c-19fb-4ade-8c1f-20cb46f5c469",
+        "https://data.kcg.gov.tw/File/DirectDownload/57cded5c-19fb-4ade-8c1f-20cb46f5c469"
+      ]
+    },
+    {
+      "id": "79272",
+      "name": "高雄市農業性合作社場",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e1615026-86b0-4706-be73-0ce8d1e6fb12",
+        "https://data.kcg.gov.tw/File/DirectDownload/e1615026-86b0-4706-be73-0ce8d1e6fb12"
+      ]
+    },
+    {
+      "id": "100818",
+      "name": "高雄市GMP動物用藥廠名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a37121b6-5fdb-466b-87dc-181976cba555",
+        "https://data.kcg.gov.tw/File/DirectDownload/a37121b6-5fdb-466b-87dc-181976cba555"
+      ]
+    },
+    {
+      "id": "100913",
+      "name": "108年4月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e4bd7288-3759-4574-8564-033881ce9714",
+        "https://data.kcg.gov.tw/File/DirectDownload/e4bd7288-3759-4574-8564-033881ce9714"
+      ]
+    },
+    {
+      "id": "114054",
+      "name": "108年12月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f1238841-bb32-4612-9a2f-e1c6a496547d",
+        "https://data.kcg.gov.tw/File/DirectDownload/f1238841-bb32-4612-9a2f-e1c6a496547d"
+      ]
+    },
+    {
+      "id": "114139",
+      "name": "108年9月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a760974d-ffd4-4e3e-9c05-ce79dc30967a",
+        "https://data.kcg.gov.tw/File/DirectDownload/a760974d-ffd4-4e3e-9c05-ce79dc30967a"
+      ]
+    },
+    {
+      "id": "114142",
+      "name": "108年9月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/73669745-ece9-4f81-ace4-f3b8f86e1bbc",
+        "https://data.kcg.gov.tw/File/DirectDownload/73669745-ece9-4f81-ace4-f3b8f86e1bbc"
+      ]
+    },
+    {
+      "id": "114703",
+      "name": "109年1月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8ce33b0e-3755-493f-bb48-efcd2163cfb4",
+        "https://data.kcg.gov.tw/File/DirectDownload/8ce33b0e-3755-493f-bb48-efcd2163cfb4"
+      ]
+    },
+    {
+      "id": "101941",
+      "name": "108年3月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0b1c8b52-2350-4ea2-9dbe-5735585d3d00",
+        "https://data.kcg.gov.tw/File/DirectDownload/0b1c8b52-2350-4ea2-9dbe-5735585d3d00"
+      ]
+    },
+    {
+      "id": "105064",
+      "name": "108年7月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aebb35a4-3f1b-48c3-aa93-214d71d3568f",
+        "https://data.kcg.gov.tw/File/DirectDownload/aebb35a4-3f1b-48c3-aa93-214d71d3568f"
+      ]
+    },
+    {
+      "id": "106883",
+      "name": "108年8月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5c742cab-2c66-40ae-b997-938b74667a83",
+        "https://data.kcg.gov.tw/File/DirectDownload/5c742cab-2c66-40ae-b997-938b74667a83"
+      ]
+    },
+    {
+      "id": "106884",
+      "name": "108年8月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a99c1b0f-e3d1-4b7f-9b83-1b16b4b886ad",
+        "https://data.kcg.gov.tw/File/DirectDownload/a99c1b0f-e3d1-4b7f-9b83-1b16b4b886ad"
+      ]
+    },
+    {
+      "id": "126702",
+      "name": "109年5月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/82831344-441f-449a-b73f-af3050adfbaf",
+        "https://data.kcg.gov.tw/File/DirectDownload/82831344-441f-449a-b73f-af3050adfbaf"
+      ]
+    },
+    {
+      "id": "121093",
+      "name": "109年4月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d1f38971-6e7c-4e9f-a145-41d4b69eff0e",
+        "https://data.kcg.gov.tw/File/DirectDownload/d1f38971-6e7c-4e9f-a145-41d4b69eff0e"
+      ]
+    },
+    {
+      "id": "119323",
+      "name": "109年3月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0b88f117-52c8-4041-be50-33faadb145fb",
+        "https://data.kcg.gov.tw/File/DirectDownload/0b88f117-52c8-4041-be50-33faadb145fb"
+      ]
+    },
+    {
+      "id": "119324",
+      "name": "109年3月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4e4cd142-c061-410c-afa3-73feded6f135",
+        "https://data.kcg.gov.tw/File/DirectDownload/4e4cd142-c061-410c-afa3-73feded6f135"
+      ]
+    },
+    {
+      "id": "100683",
+      "name": "108年2月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a82b901-1684-4530-80e7-541bf5596a53",
+        "https://data.kcg.gov.tw/File/DirectDownload/5a82b901-1684-4530-80e7-541bf5596a53"
+      ]
+    },
+    {
+      "id": "100688",
+      "name": "108年2月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f27c185-2334-4c44-b7f8-471f2ca2bcc0",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f27c185-2334-4c44-b7f8-471f2ca2bcc0"
+      ]
+    },
+    {
+      "id": "138090",
+      "name": "109年10月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/435e8134-9be5-4aa2-b498-ec47f2b13575",
+        "https://data.kcg.gov.tw/File/DirectDownload/435e8134-9be5-4aa2-b498-ec47f2b13575"
+      ]
+    },
+    {
+      "id": "142964",
+      "name": "110年5月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/79abb6df-8040-4841-a064-78960baa5ce3",
+        "https://data.kcg.gov.tw/File/DirectDownload/79abb6df-8040-4841-a064-78960baa5ce3"
+      ]
+    },
+    {
+      "id": "142968",
+      "name": "110年3月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f1dc15b-64c1-41ec-87e2-86439c389462",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f1dc15b-64c1-41ec-87e2-86439c389462"
+      ]
+    },
+    {
+      "id": "142969",
+      "name": "110年3月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7d020ee-333f-4c74-b563-4aa6df7d950d",
+        "https://data.kcg.gov.tw/File/DirectDownload/f7d020ee-333f-4c74-b563-4aa6df7d950d"
+      ]
+    },
+    {
+      "id": "142971",
+      "name": "110年2月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f6036b5e-4679-4a91-9a51-dfdacf34eadb",
+        "https://data.kcg.gov.tw/File/DirectDownload/f6036b5e-4679-4a91-9a51-dfdacf34eadb"
+      ]
+    },
+    {
+      "id": "137917",
+      "name": "109年10月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/332b65a4-d405-4e07-a7a7-e29ca33a2f91",
+        "https://data.kcg.gov.tw/File/DirectDownload/332b65a4-d405-4e07-a7a7-e29ca33a2f91",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/236145a3-7308-43d5-bec2-f28bfd9553bc",
+        "https://data.kcg.gov.tw/File/DirectDownload/236145a3-7308-43d5-bec2-f28bfd9553bc"
+      ]
+    },
+    {
+      "id": "138251",
+      "name": "高雄市動物狂犬病預防注射站名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b5d645b6-b7a5-46a3-98b1-993f14dbd1a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/b5d645b6-b7a5-46a3-98b1-993f14dbd1a3"
+      ]
+    },
+    {
+      "id": "79273",
+      "name": "農會名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fe8cce4f-fde2-470e-8ec7-acf12bc6502f",
+        "https://data.kcg.gov.tw/File/DirectDownload/fe8cce4f-fde2-470e-8ec7-acf12bc6502f"
+      ]
+    },
+    {
+      "id": "104244",
+      "name": "108年6月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f00e82b1-1813-40fa-93f9-30a876072277",
+        "https://data.kcg.gov.tw/File/DirectDownload/f00e82b1-1813-40fa-93f9-30a876072277"
+      ]
+    },
+    {
+      "id": "100682",
+      "name": "108年3月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95dc1762-7fe7-4115-9418-8491728699c4",
+        "https://data.kcg.gov.tw/File/DirectDownload/95dc1762-7fe7-4115-9418-8491728699c4"
+      ]
+    },
+    {
+      "id": "100684",
+      "name": "108年1月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/76bae03d-2471-4e6a-8794-7471d8ee8b87",
+        "https://data.kcg.gov.tw/File/DirectDownload/76bae03d-2471-4e6a-8794-7471d8ee8b87"
+      ]
+    },
+    {
+      "id": "100685",
+      "name": "108年3月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a749f183-e084-43fa-9481-4f967a6788d9",
+        "https://data.kcg.gov.tw/File/DirectDownload/a749f183-e084-43fa-9481-4f967a6788d9"
+      ]
+    },
+    {
+      "id": "100906",
+      "name": "108年4月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ddb6ca4c-83bc-4416-bfc7-6e981797c327",
+        "https://data.kcg.gov.tw/File/DirectDownload/ddb6ca4c-83bc-4416-bfc7-6e981797c327"
+      ]
+    },
+    {
+      "id": "100892",
+      "name": "108年2月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d36c71de-bfd9-4653-a7f2-c6d45b2ae24b",
+        "https://data.kcg.gov.tw/File/DirectDownload/d36c71de-bfd9-4653-a7f2-c6d45b2ae24b"
+      ]
+    },
+    {
+      "id": "101936",
+      "name": "高雄市獸醫診療機構開業執照清單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/35009f6a-baa8-4aaa-bf05-bbf633598003",
+        "https://data.kcg.gov.tw/File/DirectDownload/35009f6a-baa8-4aaa-bf05-bbf633598003"
+      ]
+    },
+    {
+      "id": "80807",
+      "name": "高雄市優良鹿場名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/903add53-73fc-4516-980f-9ae5c3ddbe46",
+        "https://data.kcg.gov.tw/File/DirectDownload/903add53-73fc-4516-980f-9ae5c3ddbe46"
+      ]
+    },
+    {
+      "id": "87231",
+      "name": "大高雄果菜、花卉批發市場基本資料一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8516228b-21b3-4c24-a143-915740f35af0",
+        "https://data.kcg.gov.tw/File/DirectDownload/8516228b-21b3-4c24-a143-915740f35af0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a7a2a34-5a92-444b-81a3-cd6965395b79",
+        "https://data.kcg.gov.tw/File/DirectDownload/9a7a2a34-5a92-444b-81a3-cd6965395b79"
+      ]
+    },
+    {
+      "id": "87232",
+      "name": "大高雄家禽批發市場基本資料一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f306284f-6b87-4780-af78-91f3730d7a12",
+        "https://data.kcg.gov.tw/File/DirectDownload/f306284f-6b87-4780-af78-91f3730d7a12"
+      ]
+    },
+    {
+      "id": "87233",
+      "name": "大高雄肉品批發市場基本資料一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/51f9bd3c-e6ac-4770-b89b-b27bd40adc25",
+        "https://data.kcg.gov.tw/File/DirectDownload/51f9bd3c-e6ac-4770-b89b-b27bd40adc25"
+      ]
+    },
+    {
+      "id": "104511",
+      "name": "108年5月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/61c54332-23b2-4799-b3c6-3c1c2af266b2",
+        "https://data.kcg.gov.tw/File/DirectDownload/61c54332-23b2-4799-b3c6-3c1c2af266b2"
+      ]
+    },
+    {
+      "id": "105056",
+      "name": "108年7月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/996a08e2-f79a-4a4a-bbbe-8418aa0d1592",
+        "https://data.kcg.gov.tw/File/DirectDownload/996a08e2-f79a-4a4a-bbbe-8418aa0d1592"
+      ]
+    },
+    {
+      "id": "107864",
+      "name": "108年8月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a36be29-ae5d-4cee-ae8b-83f452d25fad",
+        "https://data.kcg.gov.tw/File/DirectDownload/6a36be29-ae5d-4cee-ae8b-83f452d25fad"
+      ]
+    },
+    {
+      "id": "121092",
+      "name": "109年4月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5cf78b94-90b2-4c84-900f-16b9c535bc8d",
+        "https://data.kcg.gov.tw/File/DirectDownload/5cf78b94-90b2-4c84-900f-16b9c535bc8d"
+      ]
+    },
+    {
+      "id": "126703",
+      "name": "109年5月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/45437397-69bc-486f-b573-20febe1148ad",
+        "https://data.kcg.gov.tw/File/DirectDownload/45437397-69bc-486f-b573-20febe1148ad"
+      ]
+    },
+    {
+      "id": "128323",
+      "name": "109年6月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7c8a923e-bd54-4780-8949-acbbbc0af378",
+        "https://data.kcg.gov.tw/File/DirectDownload/7c8a923e-bd54-4780-8949-acbbbc0af378"
+      ]
+    },
+    {
+      "id": "138091",
+      "name": "109年11月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ab8438a1-f2e4-4274-9038-7d04d0513ea4",
+        "https://data.kcg.gov.tw/File/DirectDownload/ab8438a1-f2e4-4274-9038-7d04d0513ea4"
+      ]
+    },
+    {
+      "id": "138092",
+      "name": "110年1月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9ec42a78-68dd-4491-be97-f9e141a72fbf",
+        "https://data.kcg.gov.tw/File/DirectDownload/9ec42a78-68dd-4491-be97-f9e141a72fbf"
+      ]
+    },
+    {
+      "id": "138093",
+      "name": "110年1月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/daa47a01-c15b-4860-b7e3-2f0247dd4e3c",
+        "https://data.kcg.gov.tw/File/DirectDownload/daa47a01-c15b-4860-b7e3-2f0247dd4e3c"
+      ]
+    },
+    {
+      "id": "137916",
+      "name": "109年11月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4dffba55-9a84-407a-8d1d-a2b706c6bf61",
+        "https://data.kcg.gov.tw/File/DirectDownload/4dffba55-9a84-407a-8d1d-a2b706c6bf61"
+      ]
+    },
+    {
+      "id": "114060",
+      "name": "108年11月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/be913a3f-6568-4f21-9fc2-126961ae394d",
+        "https://data.kcg.gov.tw/File/DirectDownload/be913a3f-6568-4f21-9fc2-126961ae394d"
+      ]
+    },
+    {
+      "id": "114061",
+      "name": "108年11月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/44974c25-cb80-4cdc-a124-26ed9f64c224",
+        "https://data.kcg.gov.tw/File/DirectDownload/44974c25-cb80-4cdc-a124-26ed9f64c224"
+      ]
+    },
+    {
+      "id": "130260",
+      "name": "109年8月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/23953217-f40d-44af-bbac-3c46acc980d3",
+        "https://data.kcg.gov.tw/File/DirectDownload/23953217-f40d-44af-bbac-3c46acc980d3"
+      ]
+    },
+    {
+      "id": "130295",
+      "name": "109年8月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/39c095c6-07f0-427c-9caf-6b04576dc906",
+        "https://data.kcg.gov.tw/File/DirectDownload/39c095c6-07f0-427c-9caf-6b04576dc906"
+      ]
+    },
+    {
+      "id": "114704",
+      "name": "109年1月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/99bdc418-3a8d-4523-922a-88da6103d4f5",
+        "https://data.kcg.gov.tw/File/DirectDownload/99bdc418-3a8d-4523-922a-88da6103d4f5"
+      ]
+    },
+    {
+      "id": "114705",
+      "name": "109年1月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b43550d3-2574-44b1-9142-8959f2f5433d",
+        "https://data.kcg.gov.tw/File/DirectDownload/b43550d3-2574-44b1-9142-8959f2f5433d"
+      ]
+    },
+    {
+      "id": "114141",
+      "name": "108年9月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc050b6f-590f-4d42-9a0c-fd5277ec05f6",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc050b6f-590f-4d42-9a0c-fd5277ec05f6"
+      ]
+    },
+    {
+      "id": "129171",
+      "name": "109年7月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f16892b5-74d9-46cf-b112-d0ac9e322a19",
+        "https://data.kcg.gov.tw/File/DirectDownload/f16892b5-74d9-46cf-b112-d0ac9e322a19"
+      ]
+    },
+    {
+      "id": "129172",
+      "name": "109年7月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/817e9dd4-5f35-4ef5-b2db-14cd7c5cd458",
+        "https://data.kcg.gov.tw/File/DirectDownload/817e9dd4-5f35-4ef5-b2db-14cd7c5cd458"
+      ]
+    },
+    {
+      "id": "129170",
+      "name": "109年7月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/86d473da-1355-426d-8bdb-7737d5295ddd",
+        "https://data.kcg.gov.tw/File/DirectDownload/86d473da-1355-426d-8bdb-7737d5295ddd"
+      ]
+    },
+    {
+      "id": "142962",
+      "name": "110年5月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5cd87947-025e-4958-9106-ca6e1b86843a",
+        "https://data.kcg.gov.tw/File/DirectDownload/5cd87947-025e-4958-9106-ca6e1b86843a"
+      ]
+    },
+    {
+      "id": "142965",
+      "name": "110年4月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f5aeecc2-1b4c-4906-9537-88fca40471c9",
+        "https://data.kcg.gov.tw/File/DirectDownload/f5aeecc2-1b4c-4906-9537-88fca40471c9"
+      ]
+    },
+    {
+      "id": "142966",
+      "name": "110年4月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/34bbfe06-4fb5-4e5a-a066-bd8b571c129b",
+        "https://data.kcg.gov.tw/File/DirectDownload/34bbfe06-4fb5-4e5a-a066-bd8b571c129b"
+      ]
+    },
+    {
+      "id": "142970",
+      "name": "110年2月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/936da558-7c11-4315-b49f-392c7359491d",
+        "https://data.kcg.gov.tw/File/DirectDownload/936da558-7c11-4315-b49f-392c7359491d"
+      ]
+    },
+    {
+      "id": "143282",
+      "name": "110年6月份高雄市疫病蟲害主動調查監測-瓜實蠅蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dca777b1-ef53-42b7-9e8e-6893118ea4e7",
+        "https://data.kcg.gov.tw/File/DirectDownload/dca777b1-ef53-42b7-9e8e-6893118ea4e7"
+      ]
+    },
+    {
+      "id": "143280",
+      "name": "110年7月份高雄市疫病蟲害主動調查監測-小黃薊馬蟲數資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a6d28ba-017f-4867-8801-275cfaad3f57",
+        "https://data.kcg.gov.tw/File/DirectDownload/5a6d28ba-017f-4867-8801-275cfaad3f57"
+      ]
+    },
+    {
+      "id": "143008",
+      "name": "110年3月份高雄市疫病蟲害主動調查監測-東方果實蠅蟲數資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/df40e9d6-c888-49f9-a6de-9d622f0b3e1f",
+        "https://data.kcg.gov.tw/File/DirectDownload/df40e9d6-c888-49f9-a6de-9d622f0b3e1f"
+      ]
+    },
+    {
+      "id": "163742",
+      "name": "高雄市列管特定紀念樹木清冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/914625f5-7800-4502-9573-1e2331d16bc5",
+        "https://data.kcg.gov.tw/File/DirectDownload/914625f5-7800-4502-9573-1e2331d16bc5"
+      ]
+    }
+  ]
+}

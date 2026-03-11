@@ -1,0 +1,749 @@
+{
+  "type": "dataset",
+  "provider": "合作及人民團體司",
+  "slug": "opdadm_moi_gov_tw_3695ea6d",
+  "datasets": [
+    {
+      "id": "13603",
+      "name": "全國性人民團體名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DA99D92C-531A-40B2-AFF6-D5C1C7AEE022/resource/6CD84A67-522B-4811-96B8-3E7942AE3C1B/download"
+      ]
+    },
+    {
+      "id": "45436",
+      "name": "全國各級優等合作社",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3798AF48-0C7F-4819-8DE7-F1CF6699B670/resource/07267C68-7684-4CA2-8019-88E323B3C981/download"
+      ]
+    },
+    {
+      "id": "45437",
+      "name": "內政部合作及人民團體司籌備處補助團體之獎補助經費表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4CFC5275-F772-45F4-AA32-848337C30C37/resource/79E5C5F1-71FC-4F88-9DE8-02821EBF27D3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4CFC5275-F772-45F4-AA32-848337C30C37/resource/686C354E-43E1-4AD7-A78A-0C0CCDF711D7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4CFC5275-F772-45F4-AA32-848337C30C37/resource/1ED42900-C4CA-4B89-A48C-6208B7864E7D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4CFC5275-F772-45F4-AA32-848337C30C37/resource/BBA976EC-E199-46CC-A6AA-7CBF40391D5E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4CFC5275-F772-45F4-AA32-848337C30C37/resource/C9F64083-3F3D-428F-AEE0-7F8D1ACEA3D4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4CFC5275-F772-45F4-AA32-848337C30C37/resource/B95844EA-C65C-4F6D-B793-EA3A0A9F773C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4CFC5275-F772-45F4-AA32-848337C30C37/resource/76AC0EB1-0652-4185-A950-F122F9DD6EA2/download"
+      ]
+    },
+    {
+      "id": "152435",
+      "name": "110年度合作事業概況-按股金總額",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/60E922D5-71BD-4B4E-B70A-48CDB18483E4/resource/CE96730B-5C09-4784-872B-64D470950D0E/download"
+      ]
+    },
+    {
+      "id": "152436",
+      "name": "110年度協助合作社場充實營運設備清冊(地方級)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AA243F99-2DC3-4D48-AD76-4D14A530F124/resource/23133E84-D861-4716-ACEA-26DDDCA2475C/download"
+      ]
+    },
+    {
+      "id": "152437",
+      "name": "110年度協助合作社場充實營運設備清冊(省級)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C9F1A44C-1EE8-4153-B52E-FD552748DE7A/resource/0B418640-4BE9-4BEC-805E-494DA7A2AE61/download"
+      ]
+    },
+    {
+      "id": "152410",
+      "name": "110年度補助合作社名冊-按全國級、省級及地方級",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/154FFE4E-7D07-4CEF-8348-A97C8F250EA6/resource/44D8DF1D-F62C-4770-BB8E-0DEC91C9BDA7/download"
+      ]
+    },
+    {
+      "id": "152413",
+      "name": "全國性、省級合作社名冊(公用類)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/764E16E2-0F4C-4F00-8662-128C88DE3C4D/resource/E9E4B648-89BE-4665-8E78-8C524D2DD134/download"
+      ]
+    },
+    {
+      "id": "152415",
+      "name": "全國性、省級合作社名冊(消費類)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/45D2B432-E48D-40CF-9D4F-DD1DB5E31080/resource/23E6BFC0-FBD7-476D-B2B4-0FEF4612007E/download"
+      ]
+    },
+    {
+      "id": "152606",
+      "name": "內政部辦理商業及臺灣區輸出業團體績效評鑑結果-優等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A324D2D8-3645-4D7A-A4CA-721C0729E216/resource/97906A5E-35BC-4936-ABC3-EB6F2BAC4824/download"
+      ]
+    },
+    {
+      "id": "152588",
+      "name": "省級自由職業團體清冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/46488A2D-3DAC-4D23-B8CD-24EE69B67B79/resource/42E6030F-190F-40CA-9714-3913E99FA200/download"
+      ]
+    },
+    {
+      "id": "152600",
+      "name": "內政部辦理工業及礦業團體績效評鑑結果-特優名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A42204A7-73E7-4E35-814F-6227ACA69659/resource/BFD18A66-6573-4124-A53E-BF8F352F00DD/download"
+      ]
+    },
+    {
+      "id": "152602",
+      "name": "內政部辦理自由職業團體績效評鑑結果-甲等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9A34AB38-1EA1-4A9C-94B1-6B65F1E61168/resource/B774ECB6-7CFC-4E99-9CB7-49CD8E215E64/download"
+      ]
+    },
+    {
+      "id": "152604",
+      "name": "內政部辦理自由職業團體績效評鑑結果-優等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E23C58DA-3B10-4EF0-A34B-B401CB51B75C/resource/DC59CA52-8241-42FE-A124-B1A64D7CD31B/download"
+      ]
+    },
+    {
+      "id": "162943",
+      "name": "111年度內政部辦理商業及臺灣區輸出業團體績效評鑑結果-特優名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/623B1790-84C0-4579-A4C2-C9B3DC73AF77/resource/45375FB8-6C68-4FC7-BCB9-F9C0D4227674/download"
+      ]
+    },
+    {
+      "id": "162949",
+      "name": "111年度合作事業概況-按社(場)數查詢",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A7FB5F80-CAAC-4F59-8ED1-B981CB183700/resource/EAF768D8-8495-4D08-8EBB-6C1E06236ED5/download"
+      ]
+    },
+    {
+      "id": "162913",
+      "name": "111年度內政部補助民間團體活動經費達10萬元(含)以上報表-受補助清冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D83BA5DC-92EE-4466-AEAC-7ECD3669ECE1/resource/3A16A5EF-A6D2-4C4B-BB00-ADAEA88E216F/download"
+      ]
+    },
+    {
+      "id": "162914",
+      "name": "111年度全國性社會團體公益貢獻獎-銀質獎名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EC72DC59-683A-4123-AE75-ADC69C31F493/resource/1E1FE76C-284F-424C-8617-01DBF7978149/download"
+      ]
+    },
+    {
+      "id": "162918",
+      "name": "111年度內政部辦理自由職業團體績效評鑑結果-特優名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CFBD094D-4554-4EEE-9415-3E30AE91444A/resource/682DEAD3-943D-4E3F-8AD2-C47CCB1A4451/download"
+      ]
+    },
+    {
+      "id": "162922",
+      "name": "111年內政部辦理工業及礦業團體績效評鑑結果-優等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5CE48E5E-CBB8-4949-8382-16BFA024D65D/resource/F98CB623-FD6C-4190-951D-09C060F17B0B/download"
+      ]
+    },
+    {
+      "id": "162950",
+      "name": "111年度合作事業概況-按法人社員",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F90A90FA-D242-4DFC-9E78-9DDD32F9CB45/resource/3C58128A-292F-4665-A893-E104A5C0BD5F/download"
+      ]
+    },
+    {
+      "id": "147314",
+      "name": "內政部補助各級社會團體之獎補助名冊-按地區性社會團體",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/77B1FB0F-83FB-4378-9BE8-9A147BEB303E/resource/C827CD6B-7952-4DF1-8F8C-1C7432AA9F14/download"
+      ]
+    },
+    {
+      "id": "147319",
+      "name": "近5年內成立之全國性社會團體",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/039E7A76-BDC1-411F-A5E0-85D2D27FF2F7/resource/EFDFCB9C-BBDC-4ECC-96F8-18A57C79C4EE/download"
+      ]
+    },
+    {
+      "id": "147322",
+      "name": "內政部補助各級社會團體之獎補助名冊-按全國性社會團體",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/645EEBF3-96D9-47A5-B0A0-7ABD584AC069/resource/8153F60E-5BF6-4A6D-80EB-F7AB6E4D6D07/download"
+      ]
+    },
+    {
+      "id": "147594",
+      "name": "全國性社會團體名冊-按理事長年齡",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8390D264-C38E-41DC-A70C-6055FF4635E1/resource/A7EABFC4-A383-4CF0-A1BE-9802459A2E77/download"
+      ]
+    },
+    {
+      "id": "147597",
+      "name": "全國性社會團體公益貢獻獎-銀質獎名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DB2A23ED-0CB9-4876-8FEF-3FE19634A0E7/resource/17657855-70A7-4AA1-BC83-F38650396011/download"
+      ]
+    },
+    {
+      "id": "170196",
+      "name": "112年內政部辦理商業及臺灣區輸出業團體績效評鑑結果名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/79782DF9-467C-4260-AA49-F01F3D1DA029/resource/ACC6F7D0-67AC-46CA-B3D8-4A587465C168/download"
+      ]
+    },
+    {
+      "id": "170198",
+      "name": "112年度全國性社會團體公益貢獻獎-金質獎名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/62222977-A809-4D05-B060-54FC25210F5B/resource/F0D48A06-41CE-449E-813D-0C9E67DCAAF5/download"
+      ]
+    },
+    {
+      "id": "170199",
+      "name": "112年度全國性社會團體公益貢獻獎-銀質獎名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BBFE337F-A041-4275-A582-F1044B348083/resource/F7CBBB53-15A6-4CE3-88AB-32E85F04B27A/download"
+      ]
+    },
+    {
+      "id": "170201",
+      "name": "112年度補助合作社名冊-按全國級、省級及地方級",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CAD57013-1EF1-498B-A79E-EFD9960E8238/resource/D70FECFA-3D4A-4337-AC4C-FD5466612A74/download"
+      ]
+    },
+    {
+      "id": "170203",
+      "name": "112年度全國性、省級合作社名冊(公用類) -按理事主席性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AFA55911-0DFA-45AF-AB33-B23AE8878C67/resource/F1C0E876-7D32-43DC-966E-24BDAB24270D/download"
+      ]
+    },
+    {
+      "id": "170192",
+      "name": "112年度合作事業概況-按社(場)數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/011B8D6B-1EE6-403A-B40A-0419434E5300/resource/B123A353-F2A6-4EFD-A436-D8143B8B3BC1/download"
+      ]
+    },
+    {
+      "id": "170194",
+      "name": "112年內政部辦理工業及礦業團體績效評鑑結果名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/67D7B2C3-CEA8-4374-9417-68D852B242EF/resource/A30798B4-2728-416F-8DD3-6ABF8865F814/download"
+      ]
+    },
+    {
+      "id": "173823",
+      "name": "113內政部辦理商業及臺灣區輸出業團體績效評鑑結果名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/538F1082-8324-4CAC-8BA8-1725B3B7A90E/resource/8CEA0F31-95CF-43FF-B444-269FFFB4A91F/download"
+      ]
+    },
+    {
+      "id": "173824",
+      "name": "113年度內政部補助民間團體活動經費達10萬元(含)以上報表-受補助清冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0C0DFB99-A36D-4C12-9C64-6FEC8F453582/resource/C6370E95-D481-4758-9065-9C0C86A5989A/download"
+      ]
+    },
+    {
+      "id": "173828",
+      "name": "113年度補助合作社名冊-按全國級、省級及地方級",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B1FC40A6-5589-4780-A846-EA9B3A1AD66B/resource/EFCCDBE4-1DA0-4F7D-B000-53875634E833/download"
+      ]
+    },
+    {
+      "id": "173832",
+      "name": "113年全國性、省級合作社名冊(勞動類) -按理事主席性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D9EBAF5C-591C-4D5B-A623-54685F3B7536/resource/26C5EB1C-3627-4C41-B294-8A261039F2FC/download"
+      ]
+    },
+    {
+      "id": "25109",
+      "name": "全國性及臺灣區工商暨自由職業團體工作評鑑結果",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A8EEDC40-8A40-4F36-892D-F6891C3F8A75/resource/426326D0-4656-45D0-9B70-8103CCBF5D05/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A8EEDC40-8A40-4F36-892D-F6891C3F8A75/resource/7C1E7D35-8F18-450F-85D5-CDC6530DDE20/download"
+      ]
+    },
+    {
+      "id": "45440",
+      "name": "全國級、省級甲等合作社",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/62C099B1-A494-4E17-ABB6-2A0E498590D3/resource/C6947763-1A6E-4038-BDD0-BB831C3D33E9/download"
+      ]
+    },
+    {
+      "id": "24809",
+      "name": "全國級合作社清冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83C4AB2C-EFE3-4DA5-A91A-6B5BE6DFD630/resource/CA999E62-6525-497C-AD6E-3F7C70E063AF/download"
+      ]
+    },
+    {
+      "id": "162952",
+      "name": "全國性、省級合作社名冊(公用類) -按理事主席性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E6C0C052-5EBA-476E-ABD1-A9DA5E35A12D/resource/4A678B12-0A45-419A-BF7E-E252DF403DB7/download"
+      ]
+    },
+    {
+      "id": "162954",
+      "name": "全國性、省級合作社名冊(工業類) -按理事主席性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/660EE954-9506-474C-9B0A-1D5A05697F8E/resource/2892B55D-A2CF-4A59-8769-804FAD27609F/download"
+      ]
+    },
+    {
+      "id": "162915",
+      "name": "111年度全國性社會團體公益貢獻獎-金質獎名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41AB0B39-8ECA-443B-A136-DCC7F7D1F2E3/resource/1460C33B-20C7-4E62-AD2A-12AD4FB19C1C/download"
+      ]
+    },
+    {
+      "id": "162916",
+      "name": "111年度內政部辦理商業及臺灣區輸出業團體績效評鑑結果-優等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DF84B295-A05B-44EB-BA35-9712B6860974/resource/C1F159E1-7525-4FDC-A9E7-11813F4D95EB/download"
+      ]
+    },
+    {
+      "id": "162919",
+      "name": "111年度內政部辦理自由職業團體績效評鑑結果-優等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7525B17C-0391-4D21-A834-251632B5EF8E/resource/5D713094-D29A-4EE3-9FEC-CC1B17AD8996/download"
+      ]
+    },
+    {
+      "id": "162920",
+      "name": "111年度內政部辦理自由職業團體績效評鑑結果-甲等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FB80937A-69A7-4FED-88EA-A1A03B5767DE/resource/CA056C8D-E838-4334-916B-298E90E056BB/download"
+      ]
+    },
+    {
+      "id": "162921",
+      "name": "111年內政部辦理工業及礦業團體績效評鑑結果-特優名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3C0024B9-5135-48F1-B838-894CFA0858E7/resource/2AA00E06-14D6-4621-922E-C186582753E2/download"
+      ]
+    },
+    {
+      "id": "147315",
+      "name": "內政部補助民間團體之獎補助經費表-按地區",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1610D469-9C36-48A5-884D-6E682FEE97D5/resource/04B903B7-E1D1-4EFD-A12A-F316A0BC4841/download"
+      ]
+    },
+    {
+      "id": "147317",
+      "name": "成立達5年未滿10年之全國性社會團體",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47FC255F-8ED4-4E23-B285-98A64732A9FA/resource/55FEFD40-C8E2-455E-8BF5-E0EE6BD15C5F/download"
+      ]
+    },
+    {
+      "id": "147318",
+      "name": "成立達10年以上20年以下之全國性社會團體",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A455880E-C43D-4655-8050-2F53169C7581/resource/8F1B8F33-2052-4F3D-9641-2F15CC2B114E/download"
+      ]
+    },
+    {
+      "id": "147595",
+      "name": "全國性社會團體名冊-按地區",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EE4847CD-674E-4C52-B889-64D242083DDC/resource/6E09E30C-D88C-471B-8846-F82168B08D80/download"
+      ]
+    },
+    {
+      "id": "147598",
+      "name": "全國性社會團體公益貢獻獎-金質獎名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A9207003-4221-4169-A878-EA90FB170CE4/resource/7641AAF0-2350-4DBF-9993-14341F785A5D/download"
+      ]
+    },
+    {
+      "id": "152418",
+      "name": "全國性、省級合作社名冊(綜合類)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3CE9D6B1-234A-4C2B-83A7-69AF4EC7749A/resource/EB19CFBC-FEC9-4F95-B275-EE3363F38B22/download"
+      ]
+    },
+    {
+      "id": "152420",
+      "name": "全國級、省級合作社名冊-理監事性別人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D09F78D6-9159-459C-8FB5-9BB1EC17BB6D/resource/0AE39DC0-4890-4E59-8D2C-4ED10F13B61E/download"
+      ]
+    },
+    {
+      "id": "152433",
+      "name": "110年度合作事業概況-按社(場)數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1F1BD800-088C-458C-B72E-CECA542DB2FC/resource/70639356-D1CE-46C9-BFF0-D00AE2FFF89D/download"
+      ]
+    },
+    {
+      "id": "152438",
+      "name": "110年度合作事業概況-按社(場)員數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EC03D99F-9439-4078-9F1C-A807083EACE0/resource/7EF8EF2F-EDF8-4455-B168-9120A90F1DC7/download"
+      ]
+    },
+    {
+      "id": "152439",
+      "name": "110年度合作事業概況-按法人社員",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F99978A6-6D94-4718-9165-A3807A497E4C/resource/C9B8E771-AE71-4E98-8D3E-0761D2670479/download"
+      ]
+    },
+    {
+      "id": "152411",
+      "name": "110年度補助儲蓄互助社名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3A746DDD-7BD3-41E4-9682-46E98A8F90EB/resource/752A3E7F-8D3B-47EA-B843-452F1D56AFDC/download"
+      ]
+    },
+    {
+      "id": "152412",
+      "name": "全國性、省級合作社名冊(工業類)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/17253D44-2608-4D95-ADA8-5EFCB90643C1/resource/C2348567-7B76-4A91-9C08-D26457F4BEF6/download"
+      ]
+    },
+    {
+      "id": "152414",
+      "name": "全國性、省級合作社名冊(保險類)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1714F98C-CCD5-46CF-9B3F-8D44490DF1D9/resource/0DE268E1-783B-4547-A92C-39380B7035BF/download"
+      ]
+    },
+    {
+      "id": "152416",
+      "name": "全國性、省級合作社名冊(農業類)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/830194CC-96E3-4CF8-8A81-BCF76BEC7D89/resource/73C7AF59-DA3A-4059-997C-BDA67CEA2302/download"
+      ]
+    },
+    {
+      "id": "152417",
+      "name": "全國性、省級合作社名冊(運輸類)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C39C038E-6A05-4C56-9BFF-5965174A7C86/resource/AA157896-BE79-46B5-9CF7-ACF5AE6A01DE/download"
+      ]
+    },
+    {
+      "id": "147168",
+      "name": "內政部近3年補助財團法人基金會之獎補助經費名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AC42AAC2-E109-46BE-839A-0D967083CCE9/resource/CE312CA0-BC05-460B-83F5-24ACCAAA60F3/download"
+      ]
+    },
+    {
+      "id": "170204",
+      "name": "112年度全國性、省級合作社名冊(消費類) -按理事主席性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3F9E2100-DDE4-420D-90DB-A38D7F9F74A8/resource/003039D7-6A31-43D7-9829-841360D645C5/download"
+      ]
+    },
+    {
+      "id": "170205",
+      "name": "112年度全國性、省級合作社名冊(工業類) -按理事主席性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BBE4BED6-ECBD-49BF-AFA0-0F478580E3E4/resource/9D0DB327-55AC-47C4-8206-D50BB9741CDC/download"
+      ]
+    },
+    {
+      "id": "173822",
+      "name": "113內政部辦理自由職業團體績效評鑑結果名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/013C8D6F-C1BD-40D0-A7E9-298BDEBF6651/resource/42E58F4C-D52B-4DAB-A883-FE19E662AE3E/download"
+      ]
+    },
+    {
+      "id": "173826",
+      "name": "113年度全國性社會團體公益貢獻獎-金質獎名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/62E63684-3FC4-44D0-BA0F-01B72884323E/resource/EAE27B67-EF4A-4889-8D31-F6B4B0D9BBA8/download"
+      ]
+    },
+    {
+      "id": "173830",
+      "name": "113年全國性、省級合作社名冊(公用類) -按理事主席性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E65B4082-4560-45EA-A493-21620052C171/resource/2288ED74-F239-40C0-941C-3B4B2E8EF026/download"
+      ]
+    },
+    {
+      "id": "173831",
+      "name": "113年全國性、省級合作社名冊(消費類) -按理事主席性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/40A62EEF-6E15-48E5-AC81-053C64DB85EB/resource/8EA7EA0D-BF5E-4177-A904-85CB48C465F6/download"
+      ]
+    },
+    {
+      "id": "45434",
+      "name": "全國性社會團體公益貢獻獎名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/010E2C1B-3F76-435E-A393-059DFB8FCB00/resource/6F036EAF-13A7-4049-B7A0-171BC11ED3FB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/010E2C1B-3F76-435E-A393-059DFB8FCB00/resource/C868C7A7-26B8-4688-B4E4-5E4A13426B47/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/010E2C1B-3F76-435E-A393-059DFB8FCB00/resource/76BACD8C-72DB-4F37-A4BB-6FDB0D5DF8D5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/010E2C1B-3F76-435E-A393-059DFB8FCB00/resource/53C24664-5D04-4284-8524-75927EEC21AE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/010E2C1B-3F76-435E-A393-059DFB8FCB00/resource/64F97D28-09FD-4533-A0DC-926981B61599/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/010E2C1B-3F76-435E-A393-059DFB8FCB00/resource/AAB4A0A6-3F19-4782-9D88-AC7C990BC3D4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/010E2C1B-3F76-435E-A393-059DFB8FCB00/resource/C320E2FD-1FD9-4AA4-A650-AF8926E6F40A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/010E2C1B-3F76-435E-A393-059DFB8FCB00/resource/4B5D919F-8416-4D94-BE79-CBD1384805D9/download"
+      ]
+    },
+    {
+      "id": "152421",
+      "name": "全國級、省級合作社名冊-按理事主席性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/89B8E724-1A2B-4B4C-A2B3-A004E952BE12/resource/3AA92136-CFF5-4BA0-AE70-C245E4E0C1D6/download"
+      ]
+    },
+    {
+      "id": "152434",
+      "name": "全國性合作及人民團體業務財團法人名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/470F5551-E9B0-48A8-929C-F5395BFA4978/resource/F70DDD2B-4B3B-4AEA-8A91-7203808147EF/download"
+      ]
+    },
+    {
+      "id": "147316",
+      "name": "成立達20年以上之全國性社會團體",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5B3D4EE0-1F22-48F5-BAD3-2EDDFAEC105B/resource/B40A881D-B368-40AD-8A83-85C58F751C61/download"
+      ]
+    },
+    {
+      "id": "162923",
+      "name": "111年內政部辦理工業及礦業團體績效評鑑結果-甲等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/675DD9E7-173B-48F5-A340-91B364467E66/resource/2C6C7222-2E2C-4277-AEA8-5FD36993CE2D/download"
+      ]
+    },
+    {
+      "id": "162951",
+      "name": "111年度合作事業概況-按股金總額",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/477AF396-97B5-4955-9B13-3B31FC29A793/resource/7BD58089-0CF5-4A9B-8675-6E9389E22B44/download"
+      ]
+    },
+    {
+      "id": "162953",
+      "name": "全國性、省級合作社名冊(消費類) -按理事主席性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/56F70356-7D16-486C-A71D-CAEF082E5EE7/resource/B481D8A7-22FC-44C6-89B7-28F3DDA1C393/download"
+      ]
+    },
+    {
+      "id": "162917",
+      "name": "111年度內政部辦理商業及臺灣區輸出業團體績效評鑑結果-甲等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5C4FB4EE-C15A-4F35-9CBD-C702F4F1A7A6/resource/C52163AC-47D5-4964-A2AB-5AC5576FD5BD/download"
+      ]
+    },
+    {
+      "id": "152590",
+      "name": "省級商業及臺灣區輸出業團體清冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8DEEC2A6-6420-47D0-BA4E-34F42A6C4428/resource/ACACCF5C-F47A-41F8-A066-664AC633CA57/download"
+      ]
+    },
+    {
+      "id": "152599",
+      "name": "內政部辦理工業及礦業團體績效評鑑結果-甲等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ED5C0851-29DF-4A8F-ADD7-91389883C661/resource/09F019E2-670B-44BC-8DF3-540D78D33C97/download"
+      ]
+    },
+    {
+      "id": "152601",
+      "name": "內政部辦理工業及礦業團體績效評鑑結果-優等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AAFEA56C-BC5E-4624-B0DA-C77974677075/resource/A2962F1E-4042-48D8-A346-3CCD03DFE582/download"
+      ]
+    },
+    {
+      "id": "152603",
+      "name": "內政部辦理自由職業團體績效評鑑結果-特優名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/26A6C9AF-FACF-4227-9AC5-3568EE75B6BE/resource/84846465-8D64-4498-B0A7-710F1649675D/download"
+      ]
+    },
+    {
+      "id": "152605",
+      "name": "內政部辦理商業及臺灣區輸出業團體績效評鑑結果-甲等名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3A51A6BF-F008-45B0-9CEF-1D51F9B589A6/resource/9BD7B924-A9EE-4866-AC99-B0338798D44E/download"
+      ]
+    },
+    {
+      "id": "152589",
+      "name": "臺灣區工業及礦業團體清冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6DDF04F8-923F-4D70-9048-1DA8936AD1EA/resource/34A98C08-F4D6-4A61-862E-4854C1EBAA7B/download"
+      ]
+    },
+    {
+      "id": "147167",
+      "name": "內政部各級社會團體之獎補助名冊-彙整",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3169DA1D-8655-4599-812F-8786EBDAB9EE/resource/84BD9E21-B5DD-42E1-B58F-E1FF24479052/download"
+      ]
+    },
+    {
+      "id": "147596",
+      "name": "全國性社會團體名冊-按理事長性別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/712C0CF4-D4D8-40E0-995E-6A85AA303FD1/resource/67A523CC-1B30-44DA-B851-5B8DFA78E5C7/download"
+      ]
+    },
+    {
+      "id": "170197",
+      "name": "112年度內政部補助民間團體活動經費達10萬元(含)以上報表-受補助清冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/04BAA3FC-86D9-4FCD-972E-65986306B28D/resource/6D33871F-FC2A-4984-9629-0D8151225BBC/download"
+      ]
+    },
+    {
+      "id": "170200",
+      "name": "112年度合作事業概況-按法人社員",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/495234E0-A628-4173-B8DD-B9BBF985B446/resource/5BB1C42C-2D56-4411-91DF-3879B79D2595/download"
+      ]
+    },
+    {
+      "id": "170193",
+      "name": "112年度合作事業概況-按股金總額",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/17986F5D-6997-4FE8-B88F-D0F67C833D5D/resource/F98DEEDA-5FB4-45CE-98CD-07E34373761C/download"
+      ]
+    },
+    {
+      "id": "170195",
+      "name": "112年內政部辦理自由職業團體績效評鑑結果名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83B13FB3-7573-4EC3-8BF9-144D2EF34592/resource/E69DA411-B709-4A1D-8797-C0D846CF01B2/download"
+      ]
+    },
+    {
+      "id": "173821",
+      "name": "113內政部辦理工業及礦業團體績效評鑑結果名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FDFB7861-BFAB-4F59-9966-420FEBE5C7AD/resource/F0198979-2165-48EF-88DB-CE1B05C134EA/download"
+      ]
+    },
+    {
+      "id": "173827",
+      "name": "113年度全國性社會團體公益貢獻獎-銀質獎名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/95E4B2D6-0332-44B8-B52C-7D50A5B827A4/resource/5E416679-B0F1-4C25-969B-07E379BB8A81/download"
+      ]
+    }
+  ]
+}

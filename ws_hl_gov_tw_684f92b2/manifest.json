@@ -1,0 +1,631 @@
+{
+  "type": "dataset",
+  "provider": "花蓮縣衛生局",
+  "slug": "ws_hl_gov_tw_684f92b2",
+  "datasets": [
+    {
+      "id": "146129",
+      "name": "花蓮縣失智共照據點",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/88537/7b89ab47-359c-4ee7-8800-6d0a66c79a24.csv"
+      ]
+    },
+    {
+      "id": "146130",
+      "name": "花蓮縣長期照顧2.0服務特約單位名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/88538/e86dea6c-9a15-49c8-b5c0-4b3e23c67f60.csv"
+      ]
+    },
+    {
+      "id": "146131",
+      "name": "花蓮縣居家護理機構評鑑成績總覽",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/88540/f0f021e9-321f-4b31-886f-a288f4d5e9ce.csv"
+      ]
+    },
+    {
+      "id": "146135",
+      "name": "花蓮縣可供申請醫療輔具補助表",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/88544/10241651-2132-42ea-bdd6-209df66bf1cf.csv"
+      ]
+    },
+    {
+      "id": "148114",
+      "name": "花蓮縣衛生局健康管理中心-社區心理衛生免費專業心理諮詢服務",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/e726eaa2-df3b-496d-b122-5647574a840a.csv"
+      ]
+    },
+    {
+      "id": "148115",
+      "name": "花蓮縣新住民未納保產前檢查醫療機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/8a219aed-76aa-4956-873b-1f3467bc6ee6.csv"
+      ]
+    },
+    {
+      "id": "148118",
+      "name": "花蓮縣無菸公告場域",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/cc1b8bf6-a8fc-45f6-964d-b1f1e1ceea44.csv"
+      ]
+    },
+    {
+      "id": "148123",
+      "name": "花蓮縣列冊中藥商",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/77bf8494-a138-4dfd-a935-1e19bcd17024.csv"
+      ]
+    },
+    {
+      "id": "148127",
+      "name": "花蓮縣牙科醫事機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/1ef04c5d-fdb1-40c4-8f3c-7e72b402e8bd.csv"
+      ]
+    },
+    {
+      "id": "148128",
+      "name": "花蓮縣醫事人員各鄉鎮分布人數",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/cca4da88-c184-48b2-b715-72b93bd2be76.csv"
+      ]
+    },
+    {
+      "id": "148130",
+      "name": "花蓮藥癮替代治療醫院",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/8c3f4be2-3092-4f06-8946-1d13335e8314.csv"
+      ]
+    },
+    {
+      "id": "148131",
+      "name": "花蓮縣醫院緊急醫療能力分級評定結果及合格效期",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/bda11b67-597e-44b9-b2d8-332a5b5856b4.csv"
+      ]
+    },
+    {
+      "id": "148133",
+      "name": "花蓮縣衛生局檢驗科受理食品檢驗費用",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/6f8ff5dc-f0c1-4534-abb5-86921485fb5b.csv"
+      ]
+    },
+    {
+      "id": "148134",
+      "name": "花蓮縣潛伏結核感染與檢查指定醫院暨合作醫師門診時間",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/5453e94f-64a8-455e-8101-76b445fad363.csv"
+      ]
+    },
+    {
+      "id": "148135",
+      "name": "花蓮縣潛伏結核感染與治療指定醫院暨合作醫師門診時間",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/a0c1dc51-e543-4e01-aa5f-b73c8b852247.csv"
+      ]
+    },
+    {
+      "id": "148136",
+      "name": "花蓮縣精神護理機構評鑑成績總覽",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/36670cac-5362-416c-a88b-a8c5b67683c2.csv"
+      ]
+    },
+    {
+      "id": "148137",
+      "name": "花蓮縣精神護理機構名冊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/cbce2eb2-cd2a-4866-86ef-30622feef99d.csv"
+      ]
+    },
+    {
+      "id": "148138",
+      "name": "花蓮縣精神復健機構清冊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/8e181126-cf4e-4df9-801e-2b0ec5f9fc6d.csv"
+      ]
+    },
+    {
+      "id": "148146",
+      "name": "花蓮縣產後護理機構評鑑成績總覽",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/537bc27b-618f-4a98-b192-302b6225b295.csv"
+      ]
+    },
+    {
+      "id": "148148",
+      "name": "花蓮縣救護車設置分布圖",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/c4c40a48-fd1e-42de-b6cf-2be8d41d89df.csv"
+      ]
+    },
+    {
+      "id": "148151",
+      "name": "花蓮縣心理健康相關網站",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/cc436330-4d79-4c25-ae65-cbd133f24da0.csv"
+      ]
+    },
+    {
+      "id": "148152",
+      "name": "花蓮縣公費流感抗病毒藥劑合約院所",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/58216d34-558d-47d8-82f6-ea0d6d5e2a62.csv"
+      ]
+    },
+    {
+      "id": "148156",
+      "name": "花蓮縣抗病毒藥劑醫療院所名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/86e3463c-79ca-4005-8f27-ff3373d9a4c6.csv"
+      ]
+    },
+    {
+      "id": "148159",
+      "name": "花蓮縣通過食品衛生優良評鑑名單(GHP)",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/20dd16ab-ccb2-4be3-8cb9-ad5da59156f8.csv"
+      ]
+    },
+    {
+      "id": "148160",
+      "name": "花蓮縣公費流感合約院所名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/5b7b8bae-4c84-444e-ad39-2d3131b1d274.csv"
+      ]
+    },
+    {
+      "id": "148163",
+      "name": "花蓮縣糖尿病共同照護網之醫療院所名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/ab024715-9d6e-42a0-9766-6b6a2991cec9.csv"
+      ]
+    },
+    {
+      "id": "148164",
+      "name": "花蓮縣血壓站資訊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/4c71cdd6-1859-4318-ac64-8b70cfe5b008.csv"
+      ]
+    },
+    {
+      "id": "148165",
+      "name": "花蓮縣戒菸服務合約醫事機構名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/7da3d00c-d59e-481b-ac18-a6b89393890e.csv"
+      ]
+    },
+    {
+      "id": "146788",
+      "name": "花蓮縣心理健康小站",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90072/7bb5c4e7-086c-4761-b312-e60a871244ff.csv"
+      ]
+    },
+    {
+      "id": "146791",
+      "name": "花蓮縣成人預防保健與整合式健康篩檢醫事機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90075/3dad182e-bcd6-4db1-a784-2e9f465d88fe.csv"
+      ]
+    },
+    {
+      "id": "146792",
+      "name": "花蓮縣戒菸服務機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90076/813496ff-6a9a-42e2-a11d-65895189d944.csv"
+      ]
+    },
+    {
+      "id": "146793",
+      "name": "花蓮縣兒童預防保健醫事機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90077/eb6f34a4-4db4-41ef-9b25-0f15949febf6.csv"
+      ]
+    },
+    {
+      "id": "146797",
+      "name": "花蓮縣婦女子宮頸抹片檢查醫事機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90081/6dd308fe-7fe1-4f46-a69b-25ba56e04586.csv"
+      ]
+    },
+    {
+      "id": "146798",
+      "name": "花蓮縣糖尿病友支持團體",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90082/d5fb0163-acb4-43cf-9a2c-4a5cbf171f29.csv"
+      ]
+    },
+    {
+      "id": "146136",
+      "name": "花蓮縣免費長者健康檢查醫療院所表",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/88545/8b59b951-56d2-41e1-921d-66937bf9e670.csv"
+      ]
+    },
+    {
+      "id": "146787",
+      "name": "花蓮縣山地鄉結核病新案發生情形統計",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90071/d1388ed4-f96f-4580-ab52-8268ac608da4.csv"
+      ]
+    },
+    {
+      "id": "146789",
+      "name": "花蓮縣卡介苗接種服務單位",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90073/ca59daba-78e5-4290-a035-9009965945cd.csv"
+      ]
+    },
+    {
+      "id": "146796",
+      "name": "花蓮縣社區藥局諮詢小站名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90080/f5fb97e6-f39d-428c-b708-c303610d8322.csv"
+      ]
+    },
+    {
+      "id": "146799",
+      "name": "花蓮縣糖尿病共照網醫事機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90083/5ab6b95e-3bc1-42c0-8ed5-4d679753b905.csv"
+      ]
+    },
+    {
+      "id": "148162",
+      "name": "花蓮縣流感疫苗合約院所",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/20307eb2-4f93-4d78-b65e-88aa1224a9d7.csv"
+      ]
+    },
+    {
+      "id": "148166",
+      "name": "花蓮縣哺集乳室名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/0b8a6fe7-8774-482a-b684-86e2ba4b06f2.csv"
+      ]
+    },
+    {
+      "id": "148167",
+      "name": "花蓮縣流感疫苗合約院所名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/a3e7882c-ac8a-4374-9e90-df5e078be60a.csv"
+      ]
+    },
+    {
+      "id": "148139",
+      "name": "花蓮縣溫泉浴室水質檢驗資料",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/d4cbfb50-5cf7-4511-890a-05eb8b4d43f9.csv"
+      ]
+    },
+    {
+      "id": "148140",
+      "name": "花蓮縣愛滋病匿名篩檢諮詢服務機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/7b545136-f831-4dbb-9fa3-9eb1ad9d7cfe.csv"
+      ]
+    },
+    {
+      "id": "148142",
+      "name": "花蓮縣診所分佈",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/04ecc151-3df1-4b39-a584-5c2589818d0a.csv"
+      ]
+    },
+    {
+      "id": "148145",
+      "name": "花蓮縣提供符合接觸者條件結核菌素測驗與免費服務單位",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/dc79d3bd-ddbf-4b6a-a8df-e82ac3083484.csv"
+      ]
+    },
+    {
+      "id": "148149",
+      "name": "花蓮縣結核病治療成功率統計",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/30281bda-12f6-4eb7-8c3a-a0e43dddd002.csv"
+      ]
+    },
+    {
+      "id": "148150",
+      "name": "花蓮縣結核病死亡統計",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/96313118-bba8-4fcb-8e56-00ca682c82e7.csv"
+      ]
+    },
+    {
+      "id": "148153",
+      "name": "花蓮縣公共場所AED心臟電擊器設置資訊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/27d95d4b-51c2-4d0b-914b-b95cf6b0ed7c.csv"
+      ]
+    },
+    {
+      "id": "148154",
+      "name": "花蓮縣中藥販賣商名冊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/cb32378d-8eed-47d0-b10d-df71469e3501.csv"
+      ]
+    },
+    {
+      "id": "148155",
+      "name": "花蓮縣口腔癌篩檢醫事機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/180543/d61edcb8-5706-4946-a9dc-d79225e85b79.csv"
+      ]
+    },
+    {
+      "id": "148119",
+      "name": "花蓮縣眼科醫事機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/a27bc14a-b760-481e-a05f-b5b72946f7b0.csv"
+      ]
+    },
+    {
+      "id": "148120",
+      "name": "花蓮縣拒毒標章商家名冊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/618e5337-d7a6-4bb8-977c-248d2018fe27.csv"
+      ]
+    },
+    {
+      "id": "148121",
+      "name": "花蓮縣依法應設置哺集乳室清冊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/691b936e-eb89-4b4a-9444-d177d21dcce1.csv"
+      ]
+    },
+    {
+      "id": "148125",
+      "name": "花蓮縣母乳哺育支持團體",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/de5ac4fd-63b9-4848-aa31-5706da4cca54.csv"
+      ]
+    },
+    {
+      "id": "148126",
+      "name": "花蓮縣孕婦乙型鏈球菌篩檢補助服務特約院所表",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/fa223703-0897-4804-a914-d6e1958f954c.csv"
+      ]
+    },
+    {
+      "id": "148132",
+      "name": "花蓮縣醫院評鑑等級及效期一覽表",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/37eb804a-0601-4c90-9bb4-4761fe9d5686.csv"
+      ]
+    },
+    {
+      "id": "148113",
+      "name": "花蓮縣醫療器材販賣商名冊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/60647ecc-2925-46e9-8bed-de2aa331eb64.csv"
+      ]
+    },
+    {
+      "id": "148116",
+      "name": "花蓮縣新生兒聽力篩檢補助方案之特約醫療院所",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/f0c73245-ceaf-450f-9d07-12f4e490caf3.csv"
+      ]
+    },
+    {
+      "id": "146132",
+      "name": "花蓮縣居家護理機構名冊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/88541/631f98b2-62c8-443c-975f-ec9461103928.csv"
+      ]
+    },
+    {
+      "id": "146133",
+      "name": "花蓮縣預防及延緩失能據點",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/88542/1fcb7b42-ad5b-4010-ac5c-07bb1c69ef65.csv"
+      ]
+    },
+    {
+      "id": "146134",
+      "name": "花蓮縣長者肺炎鏈球菌疫苗接種合約院所",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/88543/54bf6dec-a8fc-4a3e-834f-bf82dc409e7d.csv"
+      ]
+    },
+    {
+      "id": "146785",
+      "name": "花蓮縣一般護理機構名冊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90069/72642c3f-d182-4cc8-82f7-bbd2126dec43.csv"
+      ]
+    },
+    {
+      "id": "146786",
+      "name": "花蓮縣一般護理機構評鑑成績總覽",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90070/396008c2-5513-461f-afc5-7f20f5e34fd5.csv"
+      ]
+    },
+    {
+      "id": "146790",
+      "name": "花蓮縣幼兒常規疫苗接種合約院所",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90074/a65829b0-5e04-4af0-8763-0be0af50654f.csv"
+      ]
+    },
+    {
+      "id": "146794",
+      "name": "花蓮縣兒童預防接種時程",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90078/b10b8e79-96e1-4e32-af7e-684049dbfcf2.csv"
+      ]
+    },
+    {
+      "id": "146795",
+      "name": "花蓮縣定量免疫法糞便潛血檢查醫事機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/22643/90079/390f7a95-b43e-4e5c-b333-819367c4b7ff.csv"
+      ]
+    },
+    {
+      "id": "148157",
+      "name": "花蓮縣流感疫苗醫療院所名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/4db2648a-db13-43b5-8048-d3d544292b95.csv"
+      ]
+    },
+    {
+      "id": "148158",
+      "name": "花蓮縣東大門國際觀光夜市通過食品衛生優良評鑑名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/a29063b2-b2d5-491a-93cd-3f8e94ff7d23.csv"
+      ]
+    },
+    {
+      "id": "148161",
+      "name": "花蓮縣卡介苗接種時間",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/4eb3c5d0-316d-49e1-877a-00fb93420efc.csv"
+      ]
+    },
+    {
+      "id": "148141",
+      "name": "花蓮縣鄉鎮別結核病新案發生率",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/b172e7fc-ec16-4f69-9819-6c6278819b06.csv"
+      ]
+    },
+    {
+      "id": "148143",
+      "name": "花蓮縣結核病個案發生監測統計",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/434aed1e-c3e1-4e9b-958a-423ffaa34c41.csv"
+      ]
+    },
+    {
+      "id": "148144",
+      "name": "花蓮縣游泳池水質檢驗資料",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/351ebd7f-149f-4a5c-8b49-63014fbfa37e.csv"
+      ]
+    },
+    {
+      "id": "148147",
+      "name": "花蓮縣產後護理機構名冊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/cd169ad6-3553-48e0-a456-4de0251dd7aa.csv"
+      ]
+    },
+    {
+      "id": "148117",
+      "name": "花蓮縣發展遲緩兒童評估鑑定醫院",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/c4f2167e-a220-485c-9845-e6b748cbbc5c.csv"
+      ]
+    },
+    {
+      "id": "148122",
+      "name": "花蓮縣乳房攝影檢查認證機構",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/cfaef1fe-e436-44e7-bf52-e7fcbfea5621.csv"
+      ]
+    },
+    {
+      "id": "148124",
+      "name": "花蓮縣母嬰親善醫療院所認證名單",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/f7cd6f5c-1fca-46b4-afec-deafd393e0a8.csv"
+      ]
+    },
+    {
+      "id": "148129",
+      "name": "酒癮治療服務醫院連絡窗口一覽",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/92608/0474c0b7-12a7-47fa-8515-1c20276f5e33.csv"
+      ]
+    }
+  ]
+}

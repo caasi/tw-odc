@@ -1,0 +1,1903 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府教育局",
+  "slug": "newdatacenter_taichung_gov_tw_cafdae41",
+  "datasets": [
+    {
+      "id": "83557",
+      "name": "臺中市特殊教育資源中心",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/39ad028b-a0f4-4ab0-af02-4051f99753eb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/83beae1f-663b-41af-900a-bdb3741e213b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ea508614-b2c6-4a8c-8b51-f9432a47df8c"
+      ]
+    },
+    {
+      "id": "84522",
+      "name": "臺中市104學年度國民中學學區劃分表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4d4a0a1b-9457-4db0-9a52-ddc89627c673",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bba82102-4d5d-4676-b414-9eb2db8aa14d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e042d4f9-9e11-4609-bc40-ffd88c5b48aa"
+      ]
+    },
+    {
+      "id": "83901",
+      "name": "臺中市社區學習資訊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/58e51e8a-a2c8-448e-b1f3-ca2da172e531",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d113aa2b-f6a6-418b-90a9-3a407fce1c70"
+      ]
+    },
+    {
+      "id": "83902",
+      "name": "臺中市樂齡學習中心資訊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1af3bac8-b6e5-4990-bad3-7a352164fd8e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1df69190-fde4-4ba5-9b2d-0dcbb8ff7408",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9b9f0e17-04af-4da1-bf99-ea57b3658965"
+      ]
+    },
+    {
+      "id": "83903",
+      "name": "臺中市立案補習班資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/10951d59-cd97-4b2c-942d-c8e01cf6e023",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2c3e17b-99e4-464e-8899-f40946d5da9c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d557a664-02b3-4b29-8986-ff85277b0ac0"
+      ]
+    },
+    {
+      "id": "87674",
+      "name": "臺中市107學年度國民中學學區劃分表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/346e2bc0-e70d-4220-994d-1e6ed0fcb1dc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/714592f6-91aa-4198-bb19-12cedadf8a77",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/922b4ffb-68cd-46eb-9827-8e9eca867cf2"
+      ]
+    },
+    {
+      "id": "83656",
+      "name": "臺中市各國小校園開放時間(105學年度)",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0f32adda-c524-470a-8edc-69a9d2f833f6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/79fac523-e10c-4bcf-8bf3-534241a62889",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cd356dd9-3f0a-47a3-a272-3b0ff70b270a"
+      ]
+    },
+    {
+      "id": "83665",
+      "name": "臺中市社區大學聯絡資訊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f05a5621-f868-49f5-9aee-28e3bb042e9d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fe477cf4-f2b4-4585-82ed-e23087474acb"
+      ]
+    },
+    {
+      "id": "83668",
+      "name": "臺中市私立幼兒園名冊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/001cd475-6cd5-44b1-b484-192b3f5b943f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3aaa3c79-5e4b-4af4-b0aa-03b96af31333",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9e20fc7e-985a-44ac-a224-b0cc320b4550"
+      ]
+    },
+    {
+      "id": "84165",
+      "name": "臺中市立特殊教育學校通訊資料",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8df2eb0f-9d05-4bdc-a4ab-b6ad0d145318",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/928ac070-68aa-4f42-beeb-031562920fe7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c39884c3-dedd-4340-8ee4-7e98c96b34bf"
+      ]
+    },
+    {
+      "id": "84058",
+      "name": "臺中市公私立幼兒園基礎評鑑通過名單",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0edb7cef-3079-4c8f-830d-8088aaa4dfd3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/325cfec4-9be2-43ca-b241-a22e6e19a234",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bad31538-ea3a-45f3-92d3-8eeff1895ba9"
+      ]
+    },
+    {
+      "id": "105070",
+      "name": "臺中市市立國中各校男女生人數統計(107學年度)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0bb04557-d05c-4fa8-b40b-dfe5e2b419e5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7f4f395b-fcf9-45e0-9402-218ed6e42456",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fc54e727-ba92-4fe7-9237-3bed4dfe33e1"
+      ]
+    },
+    {
+      "id": "84520",
+      "name": "臺中市立國民中學班級數核定表(104年度)",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/560f5126-c8e1-4a2e-928e-bc8c43e416d4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7e4dfe4b-e9b0-4ed0-92ee-52d329e113e4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b8769ebd-ae64-4a7e-b52c-4c2302c45cf6"
+      ]
+    },
+    {
+      "id": "90127",
+      "name": "10420-01-12-2 臺中市立各級學校教職員退休人數按年齡分",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/89a97c8e-9953-4764-a128-33789ee82070",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/afade4ee-f479-4949-bb45-39bcbfacb94b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d96d8eef-0128-4681-b2b2-ab81d12552b4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2f6de6ef-dec8-4483-adb2-e5b5fbc23453",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2f810963-c849-4f89-ab1d-80bba8c90c89",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8cac4893-1565-44bd-9c8a-35872cca27ca",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6319be5d-c5c3-4d1f-bae4-429cd01b8a08",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cb3558ae-977b-4d3a-8614-3a4259314e83",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fc355bed-ec91-41a8-a918-8f87c2f87ec8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c9359d2-0bd7-4806-9dfc-db830dde6557",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bf6590ef-7a15-41fe-8d2c-8924bb38c639",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/143b36ae-c61e-4ae4-857e-03fd2dbea06e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9f5c7d4d-22b4-447e-8661-1dec1268193c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0d2d6525-7c03-43aa-9031-d6d2d7315603",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3456e6a7-2b00-4776-b9ed-31c1c39bd4b8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6686ea09-933a-4d46-974c-a488f1cf4607",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/55ed7aae-a6ee-41d8-b4bb-dcd28b05af3d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/61e2b505-6424-4604-9b83-6a0c9a1d55e4"
+      ]
+    },
+    {
+      "id": "90133",
+      "name": "10420-05-01-2 臺中市高級中等學校職員及工友數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=79cd14b6-c4c2-451f-8503-598dbafd2a88",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d528a326-68cc-433a-8596-fc040f797d9c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=40e3c612-5d35-4be5-a7b4-0b5de0868884",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=725129fb-7de6-437e-8b68-0adf81bdfabd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d6f520b6-688c-4021-9084-0c05975fccd5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=10f1bc7e-f472-4706-9b84-138c8cf55bcf"
+      ]
+    },
+    {
+      "id": "90136",
+      "name": "10420-05-02-2 臺中市國民中學職員及工友數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1c8cafc7-896d-4d3f-86f6-0cdc464e9522",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=804a8fe8-3f99-434b-8434-63ee3a9269db",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1c56038f-18e6-49ee-8b24-ac8acb93fd98",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=59c873ce-1a38-4e5d-8735-b45c3a18681d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c34e6026-1bdc-403d-97fe-bfea26301f2d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5938d1a5-9413-4150-9ca0-797f0b9e7230",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2e3b3504-cf05-457c-9e07-e55cacc1e447",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9449f461-2ffb-4c02-bd1f-5b591d2a7b67"
+      ]
+    },
+    {
+      "id": "90032",
+      "name": "10420-01-03-2 臺中市國民小學教師人數按學歷、資格、年齡、年資別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e50a4ac-6041-45da-a59f-5abd510d0644",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fb812b49-2af2-4274-b1f8-cb39a694fc2e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d325f456-ff7b-466c-ac23-e99dcd27764b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=efb126ef-3b31-4296-84cf-559b072bbf22",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f51c0598-a114-4358-a474-b09f088500cb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff1b97ea-8354-4e45-8016-46d828ff045b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8e6b74e8-bad5-42d0-b33a-4e124eae9404",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ed7f4449-0e77-42c0-ae46-29a00bdc4b6d"
+      ]
+    },
+    {
+      "id": "90161",
+      "name": "10430-03-01-2 臺中市高級中等學校班級數概況-按行政區別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2cf1e27c-71c3-4972-ab50-d27d2849abd1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=46f5275d-bffe-4eab-b4b1-73eb824afd9f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=10bfe4dc-4256-4037-80fc-c1ec795fb372",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2639186d-f018-4fd4-a3dc-c5f18f63fbb7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec3fc1f5-02a8-48f8-9588-a2a0c722fd55",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e87c92eb-630f-476a-9eb1-3f08e8e5f18d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14539fc6-9e4c-489c-87f8-a624f035e968",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7af6ffc5-31c2-4fa4-8283-cacda9800389",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f9d3d513-6e13-47e3-9b97-37d677f92d68"
+      ]
+    },
+    {
+      "id": "90171",
+      "name": "10440-01-04-2 臺中市國民小學教育經費支出(預、決算數)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d6a7da6f-1085-4932-9443-f06abfac1667",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e0692216-ab6d-4f6b-9621-b03121f31535",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bd8b2085-9170-4954-850d-56f26a3e8884",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2bf83ad3-6d2b-4a3d-afea-28109dfe6bbb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2bcabea8-e1ac-48fa-b4a3-52016c3981ec",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3773e7fb-dd5e-4615-a175-4867f61d16a0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1a28a1e-5f0e-4340-8dde-48126de6be2a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dc3e0c2f-670b-45f3-8b63-56ca685d9238"
+      ]
+    },
+    {
+      "id": "90173",
+      "name": "10450-03-05-2 臺中市高級中等學校學生裸眼視力檢查-進修部(學校)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3645caed-5f07-4eb4-82f7-21d418cacf8a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5afeade1-a48a-439b-99e1-b5a1400f0a70",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1aba0e64-7c37-48ac-a62f-f852fb2e4a14",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7ba1b115-a138-46e4-b2c9-5320a555cf2a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=17684427-f2fc-4fef-bb34-91e5474aae3c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5cb04cc7-4047-4449-a8fd-fd6aa3e00ab6"
+      ]
+    },
+    {
+      "id": "89993",
+      "name": "10411-01-38-2 臺中市高級中等學校原住民學生數-普通科",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a03e03e5-4d54-46a5-adf6-40683650583f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fe2cd530-7e94-4fbb-975d-ab9e1ba485a7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c19f1b86-99bb-4c3a-87dd-37774aa102fe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=96e31746-7f32-4ef0-ae71-c70f648d1914",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7ebd8006-4df6-4b61-a5fa-347c6193b908",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=78185bbc-1e11-4994-9106-53aeedbf48f5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dbe7d6e3-5c4a-4ed2-bba6-12191fa8802f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=524b4c37-3900-494e-afce-46c8959363cf"
+      ]
+    },
+    {
+      "id": "90020",
+      "name": "10411-01-51-2 臺中市國民小學補習學校新住民學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b10df67-a2d9-4c86-81dc-8eca0a790e39",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=138a5ae6-6c9e-4447-b003-2e48d13fafb3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=820a83df-2232-4a63-b872-8733db2780a9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d2851499-b130-4e50-aeac-9ee9a187e29e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5e5777e5-22cf-4d56-bdd5-e6c287d0cdb8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=029ec4ed-f3f6-46ed-9c1a-9054a5f5a398",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ccdb7c2f-e372-4ff5-8b99-113d93439223",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2d22765e-5e04-47fc-92ff-8c1d4b960277"
+      ]
+    },
+    {
+      "id": "90021",
+      "name": "10411-03-01-2 臺中市高級中等學校外國學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5fd6f52e-828b-4f38-bd4e-800b75e651b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f18599d5-21a9-4b79-b333-4447d57bac7a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=66c60a7b-647d-4680-b632-29cdbfaf95ff",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7441e2d9-0555-4306-b248-2eb329142e75",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=46c65bff-9c76-4de0-a2ae-bb2545aede2f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5ca1bc9c-9b25-4103-b1ca-f13aedc4ab97",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cf1f454e-712e-47cd-a80c-d43df79e9da9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=40a12e0a-c8a0-4083-b6b5-18c716ab62c4"
+      ]
+    },
+    {
+      "id": "90026",
+      "name": "10412-04-05-2 臺中市高級中等學校學生異動表-進修部(學校)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4e11a50-d57d-4b6f-9168-3c1e32dc4833",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f13a3b1-c97e-4fc2-8238-9cf7266d5e94",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0dbbb2cd-f2e8-4ac1-a2b6-4e83ede04b3b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b4628a49-b738-4a55-ae38-eff97b7b93cf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=26fd66b4-8875-4940-9c12-8b1b8c2d10e3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c3afda1c-99da-4a3f-a314-25e209941477",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a74f4273-6b1d-4abe-93a5-a10b3960212e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c74b1b41-7f87-4e63-b56d-a46a0a55ff91",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8ee81739-a66c-4d30-8332-5c63126c4391",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a7f650c5-a8ab-465e-b23d-acfce6c3c3d9"
+      ]
+    },
+    {
+      "id": "90029",
+      "name": "10414-00-02-2 臺中市高級中等學校原住民應屆畢業生升學就業概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=da8b66e6-4a03-4647-ad43-31791cd14acc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9f0b0dda-abcf-45d9-82a0-d3f63a059524",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=afe7d4b4-d183-4b1c-8cf1-094a80e7d3ca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2e9f90a5-0825-4a7a-a1ac-d3da7d21bb6c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=066290ca-009a-4288-9e46-51862ea0bbf1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4548a0e-ca8c-4668-89cf-c88e7e2c0f5d"
+      ]
+    },
+    {
+      "id": "89975",
+      "name": "10411-01-01-2 臺中市高級中等學校學生年齡別統計-普通科",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d3d9775e-38a2-41b1-a99b-698e80b48011",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=57f54a0a-8537-423a-a8fc-9caa6e8d3548",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac1bdac1-cf14-40de-bcf9-9e0f20025d86",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d855148f-76be-442a-afa8-0eb33c80d68d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=abac4866-ee5a-4b7d-a060-a2ee87de0522",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=edd14989-83ad-44ed-834b-b5abcd98de50",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2774083d-1137-4650-9683-ea3d569d2bff"
+      ]
+    },
+    {
+      "id": "89976",
+      "name": "10411-01-03-2 臺中市高級中等學校學生年齡別統計-綜合高中",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a4f31ab-d8de-4c0d-99ee-27e4ee1d396f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3568e811-b461-46a6-a550-d597147a4b9c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=92db63e7-cafc-47f7-a12f-fdccfeafc085",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=82a7f5f3-73f8-4d0d-a1ec-8974dd48a362",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03c79528-7463-4d97-82db-972cbac2b27c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b522cc5-a929-4081-80ec-4b59cb1face1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ce53d618-4782-49f4-80c2-364130b333d4"
+      ]
+    },
+    {
+      "id": "89979",
+      "name": "10411-01-06-2 臺中市國中學生年齡別統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d545d5b5-a987-4250-afa8-329bd683b50a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=71ab5f1f-ce9b-437a-8fbf-35c81c93abc0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5654dfb3-6e8b-4775-bf09-86259a823daa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6cc53764-2edd-4705-aa7d-e73948d2300c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e3c20de-e1d6-41c6-90cb-024ec8cf567c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8ac14259-25dd-4edf-9e8b-dd129a8a307f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4d3cf8f5-2ac1-44d1-8552-fa90ec32c902",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=be0847d9-fd8c-4493-952b-5f0163c75257",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=438e63f6-6fb0-4ef6-a69a-dda5531b4a33",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=397f19a3-cd23-4b87-aaef-84ae31544bda"
+      ]
+    },
+    {
+      "id": "89986",
+      "name": "10411-01-14-2 臺中市高級中等學校畢業生數-按行政區別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a613d441-8c68-4a6f-892d-7c890b3e1f92",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6976dd87-9c6a-4f63-bd35-fb1c248a03f9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=083d060c-969c-419f-83e9-3e190b90c757",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a6259f5-707a-4aeb-94d5-b0f8bc570386"
+      ]
+    },
+    {
+      "id": "83655",
+      "name": "臺中市立國中(含高中國中部)普通班級數及人數",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f47453a5-ca5b-4d7a-8c2b-dc675602d2df"
+      ]
+    },
+    {
+      "id": "103077",
+      "name": "10411-01-40-2 臺中市高級中等學校原住民學生數-綜合高中",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=500eaf2c-febc-4c1a-a33f-46684b402aec",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=92c78148-d521-444e-b6fd-f3e7e6103905",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0745b04e-e4c1-4c04-88bb-88f519ef073e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bbf98b39-4d4c-4404-a0cc-c5b834662923",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ca51e92e-f8fa-412f-874d-db4b94b94248",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c1ca96f6-b31a-48e7-bb4f-83be0f5cdd90",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=35c818b2-c250-4f24-a2ac-1d14e3caf375",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0185f254-3ce5-41e3-9b08-785a54560055"
+      ]
+    },
+    {
+      "id": "103080",
+      "name": "10411-01-46-2 臺中市國民中學補習學校原住民學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=75400280-7a1b-49f3-b1b6-c2ccd17f493e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e1872977-c8d3-4cdf-a5a9-f3bc9fcd80a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c7436ae9-ba29-497a-8d57-8f38ad950f4c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11cfe93a-db46-4028-a1a2-ea28a77bf5d6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=832831ea-1581-46c3-a34d-e40ccf02522c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c4752b85-a6ab-468e-99a3-b4be109b2a06",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=905480ca-0de8-4df1-90b5-961f9076c433",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ed8cdf7e-f6ca-436a-9e9f-b31d5e920d5b"
+      ]
+    },
+    {
+      "id": "103082",
+      "name": "10411-01-48-2 臺中市國民中學新住民子女學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3059aa2f-004a-43fc-b6dc-74aa4b631e02",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=beafa125-3688-4db3-b4e6-00b6b62ee823",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d56bc77c-ed36-47c3-bb8c-cbc8893e99ba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=573254d2-7b89-4de7-b2c9-53b4c9ca98d1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f20c5129-d8a9-4996-951b-3c62324f4eee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b240b38d-3c3c-4270-ab51-cc1109eb21b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c6889996-e320-4ba8-bcd1-4d79cd7ddd05",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d8c3cd5d-c400-4bcd-b6ec-bb7dfb3ddf96",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ed6605f0-afa2-48a8-9804-9935d12994e4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=223219e6-5351-4bae-84a8-be7361ca5f75"
+      ]
+    },
+    {
+      "id": "103084",
+      "name": "10430-01-04-2 臺中市國民小學校數按班級數、學生數別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6aba7c2a-c728-4925-b842-78cdd30d86e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ad951ca7-921b-4543-9bdc-82a3110eb328",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=83968230-b931-40c5-842f-ef3086e11ac0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=22d71fd7-7989-416b-aa6e-6b8ac1da828c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ee36896-3c80-4e76-9add-0d54d030186d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ffcb4b0d-38c0-4777-b53d-23908e87ef1c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ea9f8de0-e5fc-446d-bd81-c1345df85b23",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d6a077d-b6fe-40eb-a748-889eeacdcf83"
+      ]
+    },
+    {
+      "id": "103707",
+      "name": "10460-01-01-2 臺中市國民中學受輔學生及認輔教師統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=34f9d2b6-5e8f-41cd-b789-c8dc69ccfa8a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e4400e7d-0ce2-4bb3-a3a3-08bb8b437c6a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2cc7d234-f686-48a5-9e89-5c347d40b0f2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=61b2fc43-226d-437b-80e9-477af6854f12",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=39d721b8-a314-4097-a0b1-2b79d50cbf3e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=38381523-1a2c-496d-a9b1-075cafff0b12",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f2dd66cc-66a6-4fbf-ac09-011660462839"
+      ]
+    },
+    {
+      "id": "103714",
+      "name": "10430-01-01-2 臺中市高級中等學校辦理學制概況─按行政區別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c11f5bb7-e9f3-4d73-a8ad-a84dc183c652",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1e0e2136-8f09-49c4-a2f7-77a58de28686",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4758a8e7-6b0f-4868-8332-461b87c30935",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=04f483f1-3704-4c15-aacd-f028d28a2781",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=46c4616d-833a-450b-b2c7-16a6a7c48268",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b06afcf0-7b19-4c5f-bf73-2b0c0cef57f0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=73426a0e-aada-4b9c-acf8-2024304ed213",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec2b5afb-7755-4c0a-8952-44a4b399b756",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=61eeea5c-5156-4eef-a656-e8d9900660d4"
+      ]
+    },
+    {
+      "id": "115908",
+      "name": "10490-06-02-2 臺中市社區大學概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fa72ee9a-3fa9-4092-82f7-4ef2e5e2b187",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a92e1790-cdb8-43a7-b7ff-f063c42b6da5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=adbe48c5-4ae3-4de1-a195-c50981e28255",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=996e491d-f24f-4479-b0de-3cf0b3d50ed2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=50211dc2-1a33-498d-a06f-ce2702f001af",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=69614aaa-fd76-4cc9-9471-cd7054c20fbc"
+      ]
+    },
+    {
+      "id": "115915",
+      "name": "10411-05-01-2 臺中市高級中等學校僑生、中國大陸及港澳學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2bb46ca9-953b-4ca5-bf8b-3e8f66c80eb0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7442f93a-ba6a-4783-91f3-8c44046afc89",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=91d29d0f-7d0e-449c-9e92-d488297d436a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2f0b1312-ec16-4c1a-b31f-dba71ce9ff18",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ed62e600-754f-46cd-83db-051c6e1b4ab6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2c45f36e-f668-4c5b-845a-c5410ccf6a38",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=217ed477-f4de-4ff6-b120-a6b454e1ae5d"
+      ]
+    },
+    {
+      "id": "115972",
+      "name": "10450-03-06-2 臺中市國民中學學生裸眼視力檢查",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9b5713e4-6916-4f23-97aa-c712f0d4048d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5ece393b-aba4-4c34-a355-99a697a8cf97",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=42f207fc-c076-4617-9450-cf25901b4ec1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6451e358-f447-4568-a32b-64c142316b6a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d0e24d22-5786-47f6-b17a-c12f06c1ac6d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a86e1e74-21ab-4e0a-83c8-c0f5f5f2042a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e4b71b99-9ca0-48a1-9bbb-1805d1d4f5ef",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3112a079-04f3-4d5a-b9c4-65cd4a98fe8a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ae460e86-6d97-4a41-b13b-6e3ac532510e"
+      ]
+    },
+    {
+      "id": "115920",
+      "name": "10411-01-32-2 臺中市幼兒園概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e8e3e1d2-8013-4e04-b6e3-1110e4de3c86",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=80faec2f-11f5-4ee6-8783-a877aaf052ec",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f69d4cdd-554f-47d8-aa51-34a0d499687c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ba1f225e-aac3-4045-b169-5df13ae0a74b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4e7a169e-5a8b-4fb1-b511-1a0398f39c23",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c2afff9f-4eac-4e8a-96a9-22586094fb4f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=28f91e63-d021-45fd-8064-98683dae0605",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8641e778-b6e4-438f-b14f-e0345229a051"
+      ]
+    },
+    {
+      "id": "115927",
+      "name": "10411-01-29-2 臺中市高級中等學校夜間部班級數學生暨畢業生人數─學科類別（年級別）",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=89f3d1a0-d727-435d-8da3-3c99155673ae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4f9476e0-5c61-406e-b3d4-de27daf79aae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=65ebfe75-b92f-4e18-987b-500581f1a70e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d4ce79d7-f6d7-4d99-bc45-7d3693fae83a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fe959af6-e4c6-4904-93fa-dee491e76641",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a64e5f07-5e54-4835-8fa5-7f77c94885d7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e3f32dc2-3740-4a17-92f1-72d1a1093b4f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06926435-d792-4fbd-8c69-d63eecd3566f"
+      ]
+    },
+    {
+      "id": "115932",
+      "name": "10411-01-16-2 臺中市高級中等學校概況-普通科",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e1f00418-0bc2-4291-8f81-0ececefd70fb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=572f6a47-4c42-4c74-b225-bbd76744a685",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ca6abac-a693-4b2b-9fbc-dd867c7e0323",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d066728-7724-48c9-bb39-a72cbab4309e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f9db89b5-ae50-4fb7-acab-c851205222fd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8db371d8-5db4-4cbf-9715-9157304864fe"
+      ]
+    },
+    {
+      "id": "115934",
+      "name": "10430-03-04-2 臺中市國小班級規模別",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=36cf9c90-bcb7-48e6-b295-80bfcdf3dafd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=07c9bf7b-d7ca-4884-bd9e-5b0652aead75",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06d4156b-4f84-4540-8715-c70a0f8cc2a3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3c2a3f89-cf09-4fce-afe7-cdd767509b65",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=832d1ab6-49e5-4df5-a0f5-4516f71944e1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3f29e8e7-3175-4fb5-bf1a-30890c1256c8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f911a670-34ff-4156-9325-bb7bf0387215"
+      ]
+    },
+    {
+      "id": "116140",
+      "name": "10412-04-07-2 臺中市國民小學中途輟學學生概況-行政區別",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=729422ba-dd70-457a-b7fb-994aeaa19e0b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dd2a0c8d-63d8-48c3-b28f-e2157b1508dd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=53c1b8b6-aebe-42f6-b19e-a0eb54be345c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2ae7f179-d2ad-4e6e-8548-23ca63902057"
+      ]
+    },
+    {
+      "id": "127256",
+      "name": "10411-01-36-2 臺中市特殊學校一覽表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5da709b7-f8f1-48a8-b3c6-9a5ca31f26dd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a5a9636-17c4-4248-bf3e-e3a4aa33be14",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d427a44-5be6-4c1d-a312-f071a735a777",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=feb9542a-011c-4b43-9c37-c5c24e113a05",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aa40109c-4dcf-48b8-ae6b-543a0310fc19",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ffcfbec0-9989-44d2-8557-a10b93c7899a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d2d03954-dad4-4aa1-bbef-29752d7213fc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b236cf16-b906-42f9-b6b9-fb8645435896"
+      ]
+    },
+    {
+      "id": "130179",
+      "name": "臺中市國民中學學區劃分表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/01d07ebf-9581-498b-84d4-b3dc7e8d3eda",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0bedf168-127d-4359-b739-875b60bc0c34",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/866b7028-a7e3-47c6-8ee7-93aa0fd68483"
+      ]
+    },
+    {
+      "id": "146539",
+      "name": "臺中市非營利幼兒園名錄",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=37fc05e1-628f-49f4-bef8-884821bca87e"
+      ]
+    },
+    {
+      "id": "83659",
+      "name": "臺中市國小學區劃分表(103學年度)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c0d3ad4b-7a43-48c3-9149-92d63b6e5791"
+      ]
+    },
+    {
+      "id": "83660",
+      "name": "臺中市國小學區劃分表(104學年度)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c68af796-1b46-4164-b66b-c174d6f2fc24"
+      ]
+    },
+    {
+      "id": "83664",
+      "name": "臺中市106學年度國民中學學區劃分表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1fcf3dbf-cceb-4b57-97d1-e2399a770627",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/32a513dc-bb43-453d-90b5-608e0555bb55",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6b2e98d0-f57e-4715-8b89-f44feecf7d01"
+      ]
+    },
+    {
+      "id": "83667",
+      "name": "臺中市公立幼兒園名冊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/23623b46-bf51-4f3b-8ea2-8fb8837e9daa",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/39cb1c4c-2026-469c-91b6-b346b451df99",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f409538d-e681-4147-a9e3-c4a95a26f815"
+      ]
+    },
+    {
+      "id": "83907",
+      "name": "臺中市各國小校園開放時間",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/25fcee16-d485-487f-8cd7-5d73c3a6c4b9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/46281706-056f-420a-ba96-bd8e0b888403",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f8eaf63b-7776-4c5d-9bef-dc284c8b936d"
+      ]
+    },
+    {
+      "id": "84060",
+      "name": "臺中市私立兒童課後照顧服務中心",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/017ed4d5-50b2-460e-b191-b74ae123e6b7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7d30cf6a-a608-4b1c-b4c4-94992c741780",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8e4d811e-5e06-4d06-84e4-1bc22a263bd3"
+      ]
+    },
+    {
+      "id": "84061",
+      "name": "臺中市教育基金會",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/135f6bdd-7265-41a4-a407-4cd38d3275b9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3caa3b27-af44-4fc3-92d6-27bf47340238",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f60ae789-9b7d-49bf-867f-c2e0bca6f7f0"
+      ]
+    },
+    {
+      "id": "84169",
+      "name": "臺中市國民小學學區表(112年度)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7dea3695-ade0-46c7-bb81-b883ce6027f5"
+      ]
+    },
+    {
+      "id": "84170",
+      "name": "臺中市市立國小班級數一覽表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3cccfaa2-e247-4611-9e93-7c139c8d0d58",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4953f9e6-cdf5-4300-b425-021f25fbfb2b"
+      ]
+    },
+    {
+      "id": "90033",
+      "name": "10420-01-04-2 臺中市國中教師主要任教領域統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2aab4be0-f759-4231-869a-71d6d0849356",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0248f0c7-9105-494e-9042-d784e37800f4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a864429a-e702-4c06-adb3-58a2deff7d99",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=95b3a466-7baa-4985-bc8f-95c36a2bde37",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7c88a423-586c-4a93-bd82-7054aa01ef2f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5aa62659-9a54-43ce-a3ad-2383f6f79e63",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=57772092-e27b-4dc1-9cca-82c31149f5f3"
+      ]
+    },
+    {
+      "id": "90034",
+      "name": "10420-01-05-2 臺中市國小教師主要任教領域統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=faca3aa2-b42d-43c6-b8b2-63bf32873166",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=602096f3-2085-414b-abbd-86c284e36205",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e463625-d06a-45e0-9ab8-1c5bbe731e28",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f7737e6b-4bfb-4f3a-84bc-ebb066090311",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8f5879a0-47eb-4239-ad09-f1494ae9ee95",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=774a26f8-f6fa-4a9d-ba75-a853e6195737",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6d4c2cf2-490d-4469-879c-9bc03636c7f1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=202fbe3a-0122-4df3-842f-abe218ec4421"
+      ]
+    },
+    {
+      "id": "90124",
+      "name": "10420-01-08-2 臺中市國民中學原住民教師數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a1157b28-93fe-4e7d-ac65-7f2101bf957c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6f0c98da-9266-4624-bff3-4af1146ffbb8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=efa7d222-3de8-42f2-8bec-f0cc64ea31d4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a714558-00d7-460e-9d5b-55c632c8ff0e"
+      ]
+    },
+    {
+      "id": "90125",
+      "name": "10420-01-09-2 臺中市國民小學原住民教師數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0ca64b02-555a-4b63-b149-75b9da89a548",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=171963ed-34dc-4cbd-a954-44c3cdcf4c82",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7d24cd85-8d3b-46cb-a0c5-07060458d4f6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1a9667ea-aeb1-4152-b7ff-2ef07ca7a794"
+      ]
+    },
+    {
+      "id": "89977",
+      "name": "10411-01-04-2 臺中市高級中等學校學生年齡別統計-實用技能學程",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fdfd29e5-62d2-474a-92e2-a74e87e5c212",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8f30f3d2-57d7-429d-b35f-a5b841f889a1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5716aab4-804e-413d-9133-c90c9c47d8f5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c9a8a36d-ce8f-4843-bce8-af388498a4d8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1a120dae-9d3e-45bc-948f-86075e4e8254",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ed719779-48f4-4359-8a81-f9c278a3c0b1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ae24f6ea-281b-4bf5-8eb8-8d6e795fd1b5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7d98f818-aa48-4895-ae5d-614ed7d30f18"
+      ]
+    },
+    {
+      "id": "89983",
+      "name": "10411-01-10-2 臺中市特殊學校學生年齡別統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0cdb7caa-aca3-4993-bea2-b64dc9d237af",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0dcf4f44-5d55-4af1-b23f-ac6b1b9c3b3a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a41ad916-639d-481a-9b6a-a57a67a948f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c75b7857-6883-481d-af54-c89c38dc545b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a1beb3b5-635a-49ba-a90e-a0d7308770a7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6854d95d-1ac6-4455-861f-9364e1ccbe62",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6fedba20-29ce-4ff7-861d-2fed1254f58f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=21ea91fd-9cbf-4f9a-b404-eeaf73aa94ab"
+      ]
+    },
+    {
+      "id": "89984",
+      "name": "10411-01-11-2 臺中市各級學校學生人數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a2a5216-9d3d-4556-b4a4-e34534c5cced",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7b64461d-3510-4c5e-9c6f-fd1d3fed9d5b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=38deaa5e-5392-4990-acbe-55acf6d50516",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b0802588-3e21-45d3-b016-be5dd31e77c7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3db45f52-3371-4d63-a8ac-ecc591eb16d0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=80a002e4-5f60-4693-88e0-24d3a7a2b9f5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd239c76-78ce-487b-bdb6-e280543ab5f6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a8609f35-949c-4c33-96a7-593ae7c59479"
+      ]
+    },
+    {
+      "id": "89989",
+      "name": "10411-01-25-2 臺中市高級中等學校進修部(學校)科別概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b0e2bbde-cbd6-480f-9e3f-6674d26bf84c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=685156e7-32af-4b88-8707-9ab1521f1f60",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c6d429c0-8b0e-4ace-ac17-1a2f2fd44b04",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0ef177d6-4d88-459f-8300-c476ba012403",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a6cecac-d9e9-424e-bf3b-b18ad785a5ef",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e939f976-6ac7-4fbd-aa6a-d6f6624ed8b8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3a6f2efa-1a88-436a-aae4-641c5ec64e72",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1d822a70-6d2f-4b75-85e2-72ee1193c2d0"
+      ]
+    },
+    {
+      "id": "89990",
+      "name": "10411-01-26-2 臺中市高級中等學校一年級新生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bfcdd35c-413d-4ed0-9b16-add9056f556c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8884d3a8-8dba-44da-9418-dce85a47a122",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8f0f2f9f-4a36-4a74-8462-337483cef141",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11d2d8b1-8d4c-43c3-b3df-eb0c8bbc2466",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7bb67c1d-cc0e-4717-8f1d-50d11e0137ce",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=88104fad-f64f-41d0-a105-eca8f23ab5c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e92550a7-df50-44d4-bad7-4030e641de15"
+      ]
+    },
+    {
+      "id": "89991",
+      "name": "10411-01-27-2 臺中市高級中等學校新生入學方式",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ec888dc-360f-4e7a-a993-7803e76b7a30",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=43465159-b65a-4fc5-bd21-2988d1892e81",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d53ab45-30be-4c12-ab6b-8aae6f3626c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=734cb87a-5c5c-4d72-87bc-f5aa8c2e0b97",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=68a23452-2d89-427b-a429-502006191d80",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e355111f-253f-4739-ae50-76abd2b600e9"
+      ]
+    },
+    {
+      "id": "90002",
+      "name": "10411-01-42-2 臺中市高級中等學校原住民學生數-進修部(學校)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=45676d24-a851-4e72-851e-0c2f67a5ac9f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3f2ae55e-b578-4203-9354-e3106705de62",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f7be036b-ee73-43ac-888e-8e700da2e4a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b4ce321f-8a6c-465e-9a3e-a494f0e5e0d1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=445b7e4b-9563-474a-a793-b81e976d6048",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bb58b41b-f60e-4849-91f9-e98e5e8e69c3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=220609d0-2b54-4b52-947d-21bbf2931c48",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a99b2f30-35c9-4f9a-ab35-16a09dec4b26"
+      ]
+    },
+    {
+      "id": "90025",
+      "name": "10411-90-02-2 大陸地區未成年人民在臺期間申請就讀臺中市國民小學統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7e497d42-8aa6-4e1e-af34-4a1d705fbd5e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d735928-6432-499f-8a93-e2d376988235",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bc02e518-6d03-4022-abf7-fa64f46335b3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=35980b13-6be3-40d1-92a6-3a1010411315",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4c782b26-0c8e-442c-ad81-ef7e4aaccd01",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=02dabbb4-8a37-41bf-88f1-1fcf4b4115ee"
+      ]
+    },
+    {
+      "id": "90027",
+      "name": "10414-00-01-2 臺中市高級中等學校應屆畢業生升學就業概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f13b5ba5-68a3-44a8-963a-a6243a7a3e0e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9567b47f-87f9-4e72-b34c-8c0eb42a7666",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c47cac48-1a72-4e3b-993b-69178344f550",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e44ad4ac-7700-4cd0-8c70-21d49fa2c6e2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=72bb78e3-bb4a-439d-90e8-c38214bb25e2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7e89080e-ca12-4da9-8592-09e20f795ec5"
+      ]
+    },
+    {
+      "id": "90030",
+      "name": "10420-01-01-2 臺中市高級中等學校教師概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d3178ea1-1157-42e2-aad9-13e3ea5ad100",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7e453464-b029-401b-a787-5e4274efec73",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=39bc933c-ffc5-45ba-b01c-e062b7e7063d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a3cab7bc-8e9b-4057-9765-d5bf89c202ef",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=66e89f36-56df-426c-87ed-e31573533969",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c9ce1b27-ad9d-404e-9982-eea4f38eb5b1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4d451949-b948-4d63-b8da-6eca9e397711"
+      ]
+    },
+    {
+      "id": "90167",
+      "name": "10440-01-02-2 臺中市特殊教育學校教育經費概況(預、決算數)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6dcf55c-df8d-43ed-8f00-2ff61a3b182d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14211046-51cd-432b-ba24-f741ff0dec8d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dd78dc04-d12a-4a0e-84e4-ed4ac500a41b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f96cb1b3-f342-4d20-9949-41461efdf6e3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0010c217-4c18-4c9b-8840-326fa0949b56",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a97a39f-1e4d-46b2-bde8-afe347e53933",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5f198aaf-cca1-475e-83c5-a3898bf1351d"
+      ]
+    },
+    {
+      "id": "90175",
+      "name": "10460-01-02-2 臺中市國民小學受輔學生及認輔教師統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8bdafb71-5619-4e9f-b5a1-affdc68b593e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d3133953-19af-49a7-b710-e7a6df730ac3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e55c4d8d-c4ef-443e-9815-d34f362e724b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8922396f-414e-4e83-b1cd-06be10b3a27b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6fc8a051-8db9-4508-bcaa-81926752a71e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8417b327-cdc8-4e45-a2ee-8c55fbf0e18a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fa168f20-782a-41fe-bfa8-931714055fed"
+      ]
+    },
+    {
+      "id": "90176",
+      "name": "10460-03-05-2 臺中市高級中等學校學生獎懲人數-進修部(學校)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bf8fd4f8-f0bc-435c-8fcc-b506aa835975",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f77e0032-5d64-4dd1-86bc-6930712272af",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f866ab75-2aac-47f0-b290-f866713323ba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0ba06e4a-fc3f-4861-974a-b8961752d0c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9ef627c0-62fd-4d27-84bc-9457ae4b4a3c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e53f8cc6-6aa4-4fc9-b5f8-4785cadcbf8e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=98502871-82e2-4872-a31f-6107d122ee25",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=403206d2-a2dd-4099-a842-6d6931444ef6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc438000-e514-416e-b747-3310ea50eddf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e72ff5fe-dcc5-459a-a97f-30345a62ec43"
+      ]
+    },
+    {
+      "id": "90177",
+      "name": "10460-03-06-2 臺中市國民中學學生獎懲人數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e5aba1ac-ab8d-4ea4-8953-206482f9b2f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=94ef9bb6-4074-401f-9886-d2f6ef1859fb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=328b2cc9-cda0-4b5a-9c54-6ccd9ff29263",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8b626f65-1857-4f4d-9c3c-5541f75d8755",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4d80e7a4-2ee0-4098-be40-4366ee02de77",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=43e5c416-7559-44e0-8560-ba3676178a88",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac955528-5171-4663-9232-33c594953e2f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=73f5304e-e618-4060-8b54-94f40ee5d0df"
+      ]
+    },
+    {
+      "id": "90181",
+      "name": "11014-02-01-2 臺中市高級中等學校圖書館概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e65a6ccc-8bfb-458d-8cb7-59b4fcb5a852",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc00c050-dcac-4b8f-be07-d51022c50cd2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3cb36a2f-2638-46df-bf09-27e2bd8e401c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9e8f03be-6982-4e6b-8773-9ade5001304a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e498a3b4-b709-45bf-8fc3-d5cb1ae92d59"
+      ]
+    },
+    {
+      "id": "90182",
+      "name": "11014-02-02-2 臺中市國中圖書館統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ad86d087-7ec9-4490-9e0c-1feb9672362f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1687190d-683b-43de-bc56-23780d233ae4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=291ed651-7a6d-48aa-8ea1-d1d6c95f1343",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=638024f1-e4db-4be2-8e77-c82e1a0dc0aa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a2e0b19a-dc25-4dd4-9cd5-09d7e5a187a4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cdee882b-7582-47fd-85c5-2179a8f216c6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fa9f9dad-06f1-41df-9e33-0773b5cc788f"
+      ]
+    },
+    {
+      "id": "90146",
+      "name": "10430-01-02-2 臺中市高級中等學校校數及教職員數─按行政區別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=84682f63-f442-448a-a0ac-154ea3adfa66",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cdbfd411-a709-4246-ba2b-7dfc6a2ebe35",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc548cae-f58d-43ea-907a-c4daa3c4382c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=181dc9a2-6270-4b62-bfe2-21defd48a892",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8914c504-c85b-46ae-bf86-d024536c97b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=90662ebe-ad66-4e84-a31a-90a6c043aafd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=467d835a-7e6d-4020-a5c0-a7cefdf033c8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7cb90aae-feb9-45a4-bdc4-c24c46018093",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b707f4bd-5af0-48e3-bcb2-df3d4bd8cfe6"
+      ]
+    },
+    {
+      "id": "90148",
+      "name": "10430-01-03-2 臺中市國民中學校數按班級數、學生數別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4d674706-b397-4171-b2f8-5b1de57046f9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=31afd3b6-a5b8-416e-84fa-dd318cffba6d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ccda6c6f-839f-4124-9833-0e83da65017f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=475157c9-0ae2-4fb1-a43d-8599f991c001",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1e2efa5b-6b56-4d45-a6b3-78c5f7a624ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d5aa87e1-6b4e-461d-a4d1-b6e9c211f6fe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a317b05a-0de9-4c99-b091-41442be5ce95",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=26fdabe7-74c7-43e1-89ff-8d14886eeef2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d527c666-df46-4ddf-bb7a-91fea7c67e36"
+      ]
+    },
+    {
+      "id": "103652",
+      "name": "10450-03-07-2 臺中市國民小學學生裸眼視力檢查",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ceb70db3-48da-4f51-aa20-42f7612b9c2d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0d53022f-f562-46c8-98f9-362dd5b73e10",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bfcb6530-85ab-4455-a406-a7b5794238f1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3f1172ce-92db-443b-b7a5-033418f34225",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cc3444ec-2941-45cd-9aaf-1679752dfb4f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5249a60f-6827-48a6-9f82-1896242f9502",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=858df8d6-6f5b-44dc-b838-bccb7a97ad13",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c1f41db2-9175-4451-a338-a8c46730a485"
+      ]
+    },
+    {
+      "id": "103078",
+      "name": "10411-01-41-2 臺中市高級中等學校原住民學生數-實用技能學程",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2473733e-2ad1-4481-b6a3-24600bfa46cf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1c51438c-f8cd-4122-8e65-608fc9a7f367",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6a4e050-71e9-4e2e-8551-4c77fec25c13",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=be815efd-dce6-4c2b-9fb9-92d527e2cb9e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4d44f50-9a70-4d86-8019-13da1784c45f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=751b6627-563e-4e75-a7be-35490c590727",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fb40ec24-ca2d-460d-935b-9fdd9e0f23b2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=64c7eee2-a0dd-477d-9334-2f427ced72c6"
+      ]
+    },
+    {
+      "id": "103079",
+      "name": "10411-01-44-2 臺中市國中原住民學生統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1898a75-4b88-4aa3-b7ae-90a6150ebf55",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1224b7c5-6d4d-4293-b69c-97120c262c81",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=206efdaa-c259-46f9-8ec8-eaeeb013883c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=65917980-01d5-4f61-adb2-5e3638176453",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0c29c5e1-6b98-4dfa-ad34-6e4f15bc03a5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cc585086-8e6f-4077-af7a-a977fd452bd8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=42f4c6e7-9c74-444f-9e91-1e6ee8c77808",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=16205b8a-29f0-452c-8822-b8802953ff1f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f49aafd6-837e-4dd3-a097-e1ead133d618"
+      ]
+    },
+    {
+      "id": "103083",
+      "name": "10411-01-49-2 臺中市國民小學新住民子女學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ecb2b0f8-6a08-4a6d-8ab7-9607608e19d2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=da767268-faee-46d9-806a-2b6275d9cca5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=75ded4d7-439f-4cfa-b5fb-1a7a7fbfe49b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d3889c4-c5ab-485d-b971-2a9b9b261e0b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8f048ebd-c4c9-4832-a4f2-60c020be592a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=874d7039-5cce-4f4a-a8ca-a4404083f1a5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a5461ec-ef2a-4281-ae94-7b9f9c20da4e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f282f2a9-f172-4319-8f04-140edca9ca87",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=97d658be-99cc-47bc-8470-0cca45e2fa5d"
+      ]
+    },
+    {
+      "id": "103087",
+      "name": "10430-02-03-2 臺中市國民中學校地校舍概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=36c98032-4107-4e5f-be87-30d5bf23667b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=22bb8936-eedc-46c3-8e1e-67ece7acd20c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cfbba559-931b-4cb1-b159-b2436db7e290",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f90d7d09-85e2-4e9e-82a4-a4af190ea1bc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c077988c-c01a-4637-9547-ab651779007e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14c3f899-1919-43d5-b611-aa03375d2ceb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=075013aa-45e0-486c-9170-1f93a1b3eaff",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e811418d-dbd1-4474-937e-07e7e9b21547"
+      ]
+    },
+    {
+      "id": "103088",
+      "name": "10430-03-02-2 臺中市高級中等學校班級規模別",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=90119aef-3d73-48c2-991f-e9569f363793",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b04bfebd-cdf3-4c75-8d11-82632c3f73b1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ece1670e-11a5-4053-bb8a-94d0c08e7c95",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=241a1213-bee5-4397-862e-ba115b9669ef",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=97e1d346-fc86-4c00-bfa0-b346d507437e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d778c45-6288-4149-ad40-56d88ade702c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=673cd48b-2c7e-4930-8dc0-6e012ee821fa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14173f06-331c-438d-aacf-adeaeb8794e7"
+      ]
+    },
+    {
+      "id": "127258",
+      "name": "10490-05-01-2 臺中市各類短期補習班家數統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c9f61be1-4224-4fdf-98f7-f90410e562b1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2408f83a-5d1d-4ae2-bff5-7aa84c7255c6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5e0a4235-d183-444b-bf36-451be5459f09",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f3f855bd-26f3-4f2c-ba0c-48cc627216af",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=abc98f66-23db-4420-8651-a0fe1252b9c0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a2e1ea8b-e475-426e-aed0-a8ba29cdeb52"
+      ]
+    },
+    {
+      "id": "115907",
+      "name": "10440-01-03-2 臺中市國民中學教育經費支出(預、決算數)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=67224f8e-2c08-4774-827f-2a614366e3bb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4b073b1d-6ed7-4d5e-8979-ea7a049c20a4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=666b0a84-6cf9-4b54-b437-f575461aa9f0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=25f38886-54d6-46fd-a50c-39ccf88b2451",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a780af5-a856-4070-b2d8-c8c2b7b93e1c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=efbc590c-c528-4a53-af2e-d7b93daf6337",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2332bfa7-85b6-4e8c-a5a5-699788579e27"
+      ]
+    },
+    {
+      "id": "115976",
+      "name": "10430-03-03-2 臺中市國中班級規模別",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6e44b7b-1806-4aa0-bd10-563427447128",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5c7bc542-df66-4242-bc5e-ec85892806d3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a79ff8dd-4983-4e06-846a-8d3eb4fc979b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2d54244f-85f8-4f93-8d44-99190908af67",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a3deeed-0f0a-4d42-ab02-a4260b6ca854",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3df12b69-be0c-405f-ba0c-baef31a6bcc2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=de5fffa6-724f-46f0-a7ff-55e16a5473c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=493665e4-f07f-41bc-ada0-a6402cf25fe3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2ef085e4-1bc0-4acf-ba78-bdaae2819a00"
+      ]
+    },
+    {
+      "id": "115974",
+      "name": "10430-02-04-2 臺中市國民小學校地校舍概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=124c057e-14cb-41b3-8acb-33cb0a0eec4f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e30a961a-2eac-495e-9f6b-78592a71bcd5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14d5b3a7-c41c-4ffa-aca8-c0d758e3e90b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ead893e4-8adf-4a67-8b18-4371d67c03cd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec0d1e65-813e-4927-b1a6-82b5e09a690e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=500fad5b-6d22-4a29-b07b-f5ced29ba170",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9ab3d58f-fa6d-40f5-8101-97b6faa77c61",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aaa165c2-508e-49c6-b14b-7973b39c0bf3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3af91090-0c57-4e33-97e5-436349d6dd92"
+      ]
+    },
+    {
+      "id": "115918",
+      "name": "10411-01-34-2 臺中市國中補校彙總表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fa3c37fa-a8c4-4543-801a-54bdc288c68c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a7161dde-f18c-41b4-ad65-d8217f527451",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2a62e758-9537-467d-8102-010fd8a082d0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=46d12880-9f0f-42e1-9123-52cef45167d5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f82fa9f-82be-4c7d-8406-bcc26a67df87",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc1c8751-7393-45d8-8b9e-2b492f1c1332",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2c7d82cf-a7a4-4897-972e-fbe9bb9f596e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=351cfce0-8166-4da8-a785-5a2df644c855"
+      ]
+    },
+    {
+      "id": "115921",
+      "name": "10411-01-31-2 臺中市國民小學概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03a1f036-0c89-4793-b820-bbfe2a615abb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b42924d-3a6b-4a26-aba8-39d869d7e571",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=50294c16-231b-4e44-aafa-db26eeac5d43",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=29cdb96d-8854-4e07-a865-441fc1a301ca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03f7a21d-7d84-4d35-821d-b9ba9936d80c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fbd67cf2-0be5-4c4f-ad1f-7a2c8970b0bd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cf197840-946c-417e-bfff-fafc0a59170b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06f74eaa-32bf-48c5-819b-4572eb330b15"
+      ]
+    },
+    {
+      "id": "115928",
+      "name": "10411-01-28-2 臺中市高級中等學校日間部班級數學生暨畢業生人數─學科類別（年級別）",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d41c4ee-d45b-4076-913b-7dc15a814646",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=348f9d9c-ae59-4582-ad03-6a7b963b18d7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cdf13f2d-7e81-47fc-9a5d-135ad9bba55f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a9373de4-e9ef-4a05-afdd-d9b4661c25c8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5c3d7ce8-8702-4dbc-800f-1e5c070bd961",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=59d490fc-9640-49c9-8b20-1d6d4081d232",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=70f2ae3c-d608-4a13-9358-14de1fe8a221",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e9fb54bc-9e9e-440e-814f-7bce02d82179",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a2ab73e-ee33-41f4-852a-e2ef13a00184"
+      ]
+    },
+    {
+      "id": "115933",
+      "name": "10411-01-15-2 臺中市高級中等學校概況總表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=23fd319c-36ad-41af-8f45-83529aa49712",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b80995b-bb4b-4b07-b7d9-59a19005ddb8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11abbba1-7bfa-4ed5-8d67-80dbd6509569",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ce379204-2534-43ad-81bc-1bf0c15dc19d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=44cc2e33-f5a6-44e4-95a2-0b65a697912b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=522bdec7-f33b-4b24-bdfa-f28f20053db8"
+      ]
+    },
+    {
+      "id": "103086",
+      "name": "10430-02-02-2 臺中市特殊教育學校校地校舍概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=64068cb9-5ee5-41ae-92bf-6f3dc0c52472",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=38170f72-278e-41d1-9b0e-6f0eca33f479",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6d3db33-f738-4344-950a-b1dc7072494c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=334e0983-c3e6-4a3d-b368-d9e1cd36469a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=87c8a8de-c240-4cd1-a7da-0390e7f18cc2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=53ed782d-44d0-4863-9417-22744de3fc00",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=08ed0ac3-1ba2-477b-bf75-acf3607835f5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6d401535-7231-4c1e-ad3d-162a4e160fa0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=af2f73dc-6f68-4c3b-8511-127230c8dcc9"
+      ]
+    },
+    {
+      "id": "96203",
+      "name": "10430-02-01-2 臺中市高級中等學校校地校舍概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=42306f22-3584-4504-9014-f9f640de2037",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e0be1828-6716-434d-9fa5-ec76cd4f76e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ce6570c-ca50-4c6f-bbc6-6bba32e5f221",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b6423c5b-1b03-44e2-8117-a805be6a80f0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=92eb2c50-5bc3-4584-ab95-48c5027e3d0a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8bf9bab0-0efb-4746-8a1f-11fe672fa1fc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c11aef3e-1736-43ba-abf9-694c9ef994dd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=590943cb-0910-4682-9d14-e3e31bd718f0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a6daa05-644d-4e33-9a7d-14eee4ce8b4b"
+      ]
+    },
+    {
+      "id": "127257",
+      "name": "10420-01-10-2 臺中市立各級學校教職員人事異動狀況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0cc6e58d-157c-400b-bdfa-73eb29e6c1ca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b2788d11-8bf7-475e-914b-75a69a3f63b0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06d7d19e-3a33-44d4-bcf8-34f2c788e4c8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d2699255-a498-48a6-a12c-14c5a7399448",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0348c8af-02fb-46b9-a4db-9e51a8239889",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03e9ed95-598e-492a-998e-0bbaa6736ff2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd8dd03b-e461-406e-9bfa-77ac8a91e86a"
+      ]
+    },
+    {
+      "id": "90129",
+      "name": "10420-01-15-2 臺中市立各級學校教職員人數按年資分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bcccaec1-623f-499e-9169-8709d67b680c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=94429542-edaa-4a55-ac3e-7c2393dae2e3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e02db1b6-6afa-42f8-8eed-1e88404918b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2bd5b490-6e81-427e-bc55-d344f9bb0001",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc388e56-c47c-4cef-83dc-96c60628d6a9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=21d0a5b1-87ed-493f-b726-a07ecbcb4d46",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c67be11d-6f69-4c2e-ba23-d183bbe584b8"
+      ]
+    },
+    {
+      "id": "83666",
+      "name": "臺中市立國民中學班級數核定表(105學年度)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2c5c8c04-9bde-4fed-8bd4-54e79ce10654",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/31cc4226-6932-4418-9c78-749beedc7a5a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/35afd8a5-a901-4531-857a-db98d3d40a17"
+      ]
+    },
+    {
+      "id": "84521",
+      "name": "103學年度臺中市立國民中學班級數核定表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a2e92c85-6980-41b8-830b-ff1d4d47267d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/baaa037c-e3d9-4a16-943e-969051ab9a00",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e64e4b39-0be0-4aab-92bc-8d32aa6a6126"
+      ]
+    },
+    {
+      "id": "90184",
+      "name": "11014-02-03-2 臺中市國小圖書館統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=38e06adf-ae2b-4052-bf29-dcc1b07a8df6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9324a83b-719c-44f8-8931-61754c353355",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d262084-dc77-431b-b5f3-72a2a96ebe96",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=966f51e4-78bd-4d8a-9c93-9785da64bad8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac566a14-3d43-4b67-bc38-f6fc83ef7bcf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fcbe0dad-ef94-40e8-be1c-6cdbf0e6a13b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0408243b-e7e2-4409-8518-76d32a4094fe"
+      ]
+    },
+    {
+      "id": "90195",
+      "name": "30434-03-02-2 臺中市立各級學校教職員獎懲人次按獎懲狀況分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=16fa3e43-5eb2-42a5-a824-1ae0bb773bf9"
+      ]
+    },
+    {
+      "id": "90128",
+      "name": "10420-01-13-2 臺中市立各級學校教職員退休人數按官等分",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/37510ca6-dd6b-4e65-9bac-bfe86bf83712",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5d9883f9-dd45-42e7-9db4-219004f3845e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7ed924e5-0c4e-4773-bde1-8724ca632e5a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2a4959b0-ad65-4fd5-bdd2-a7ef5fcbf1ad",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/96e012ec-6241-4bd0-a458-b20325fe3a91",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e25f042f-63be-4a11-b230-2e60869810d2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7da8fa3b-d64b-4c37-baf7-eeb26be0146a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a65593f4-5248-4742-aa57-105a120657a9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b807eae1-1dfd-4097-b444-704b50c57c6e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0a0409a0-60ba-47c1-8065-b5edb5b03da4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b78365dc-1939-41c1-8a35-de986c4bca97",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b2e8491c-cccb-42ec-bc24-378348c2f748",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d86fe6ac-50d7-446d-ac35-fe32128d4600",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1e72d94e-f2ce-48eb-a47b-e40ac4fe37f4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6631c478-586f-4d57-ac4b-448bbda233b4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7ffd870b-8fba-4f36-87cf-baffd1914d83",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cdc125c9-f90d-42d7-9a4e-bb5ac45317f1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1dc57e61-1d3b-48e7-b218-3356dc052ce0"
+      ]
+    },
+    {
+      "id": "90137",
+      "name": "10420-05-03-2 臺中市國民小學職員及工友數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8dfc68a6-9ce9-4351-b1b0-b792d7a63733",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec4fd633-f984-4ffc-8777-cff203b785bc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5c6dd667-3e3d-4321-9c68-8411a3180b35",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b306df4-3c0c-4cd8-9ebe-0a9d66b56e88",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=925e454d-d439-43c2-bc7b-722bafc592b8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c781caa5-23da-4648-adc0-9c2dcff8d34c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6354ab0c-9056-4ee9-a9b7-eb7c8219e30f"
+      ]
+    },
+    {
+      "id": "89978",
+      "name": "10411-01-05-2 臺中市高級中等學校學生年齡別統計-進修部(學校)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cc8d3ee1-1cb4-4295-971f-73e8315800a0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ecb6caa-4180-493f-b42e-49b0d3686d97",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6dd76846-ff8c-4318-8107-4bfe0011fc91",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=da6935e1-4047-4dac-a67b-246542689b1c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2d27c771-5f6f-414c-8dbf-3c799013e562",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b825b215-9bc3-4236-a6f6-db46fcb6d185",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fd7259b1-fad6-47f0-8bac-b04f78c53071",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b0f55ea3-ac7f-4897-a89b-fcda79d350cb"
+      ]
+    },
+    {
+      "id": "89980",
+      "name": "10411-01-07-2 臺中市國小學生年齡別統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bf752dd7-8f12-4e33-a8d0-eb2e91081535",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=27d47860-b467-4654-9908-2aeefb0be951",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ae49bb4-a901-497b-b622-2b7b8249c508",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06e9e5da-a9ff-4dda-af9e-6d205bedcef4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0ddedc68-87a3-4fc5-b52e-0f10d269a0a3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a3ca2fb-a151-471e-8dd7-23cec1376a91",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=32e90b6f-80d3-456f-9daa-9fa30ba3a41a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=28bf6c64-0ad7-46ff-ba13-b2ccede565e3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc7c0d73-e79d-44c9-a194-1c6098c343ff",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a5a6ea66-2b2b-48e6-b443-cb76ec8ad8f9"
+      ]
+    },
+    {
+      "id": "89981",
+      "name": "10411-01-08-2 臺中市國中補校學生年齡別統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=15255185-a50a-41cf-8d03-2b331821a03a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4b0d566c-5ec9-4f0e-bc18-4607a1f806e6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=76430d5e-7242-46a5-a827-2d4c1bbb71a3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=87e38434-c647-4122-8da1-2ecb1a1d2c54",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2b84b539-9228-4052-8452-0269686a7ea7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=73ccd66d-38a4-4cdb-9fb9-6740b2d92dff",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=53938516-8b00-4ec4-973c-2c9223bcef6f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f518de5d-8355-48a3-9e01-0c6fe780acbc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cb6c72b1-d999-4097-adfc-7f84038223a6"
+      ]
+    },
+    {
+      "id": "89982",
+      "name": "10411-01-09-2 臺中市國小補校學生年齡別統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c556e888-5126-4245-a762-815d2feca99e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c11156b5-1579-412d-9929-93efb002eed5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2cd20e4e-221f-4055-9019-6ecf93186067",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4886f069-7363-4b22-a90b-636f7b695340",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a20c0294-5c00-4ed2-a601-c816bce92d93",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a1b063b-a2e7-4372-80ff-f5f8baabb836",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f612feb4-e655-4110-bf40-25098461a0fb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=374c8f47-eed0-4ed3-9865-e2c772c33663",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=02ee6e4d-ddaa-465e-b56e-8f06e49b2d75"
+      ]
+    },
+    {
+      "id": "89985",
+      "name": "10411-01-12-2 臺中市各級學校畢業生人數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=428f6349-59d3-4c9c-81db-89d2d8af171f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a3e2f497-a7c4-4174-b129-d5a580c56fbb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc4f78f4-eed8-45d3-bda6-740a008a5d69",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2a9ffd21-50a9-4dda-a773-394eb415230b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2177012b-c5b7-4197-bcde-0b2a787b8fdc"
+      ]
+    },
+    {
+      "id": "89988",
+      "name": "10411-01-22-2 臺中市高級中等學校專業群科(職業科)科別概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5061fa2c-65cc-42f3-9394-83ee99185c92",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2d5b519e-7354-413f-bb5a-f0b5296d6d19",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=667a9fce-da16-42a7-9dbd-09127f6f595e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=49750de4-ebed-4eaa-85e6-7e875cf10709",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=46a820a8-d80c-421a-99af-e66f57c6d378",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=073e9544-75c8-4973-9702-12ae0f8c4b05",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14520151-1759-41d5-b68b-076c67a5b07f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8c17a781-bf05-4858-83dc-a0602f05a978",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=38553dea-58e2-4265-94ef-6ca925c88309",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d5692546-d830-41e3-bf9f-7830bc0fe809"
+      ]
+    },
+    {
+      "id": "89992",
+      "name": "10411-01-35-2 臺中市國小補校彙總表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11b8c3bb-c095-4d9e-819e-4068fd423998",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=292b4489-8e84-4b55-9100-4cb97581b1b3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a5155e4a-20e7-4909-a8b4-a7ebacd958a0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f5b88956-764a-4ca7-ac87-86d7fc62e8d7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3fdccf83-68d4-4f47-af90-be08a4cb78bb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=23322002-985f-449f-ab87-2b2aa8f3bdfa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6be9d920-382d-45c4-b06b-c80f6be2adaf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c4b23d6a-0c41-4a69-9f93-1c48156d7703",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3a3b4aab-af48-4e4d-83ec-7e49daf69cc2"
+      ]
+    },
+    {
+      "id": "90003",
+      "name": "10411-01-43-2 臺中市特殊教育學校原住民學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=53b0c3e3-597d-4b22-b3fe-3dcc4d55f35b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=919049b9-1f03-49ad-8a6e-8761c5088a64",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a8583cd2-98dc-420a-9ba9-f923ec41a8ee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=07704682-47fb-43be-a11f-c8b8d3294196",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b8366e6e-645e-4713-acde-83167cb31414",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cafde593-e5f5-4ed2-b4be-6d6b5f8c6216",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6c30a316-6fae-4858-9f57-f9a667910fb2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2574ff1f-fca8-4b76-b993-1e55f4e349b3"
+      ]
+    },
+    {
+      "id": "90006",
+      "name": "10411-01-45-2 臺中市國小原住民學生統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8f55b0f9-261d-4885-9be6-bad60533fe47",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bfdf250d-0e1d-46d5-a17c-b19e00f1d9f9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=862e6e5e-847d-4b79-9f90-9c8b96cb4dcb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c50f9d0d-b0a0-47c5-a1a9-bf6e997b8c29",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bd62f099-6dd1-43ee-9406-16fba8d63696",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8d82bf74-bf6c-499a-aafa-3490758bfa29",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f1ea323d-10bf-4c51-8186-bc735847a190",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=706b3b9a-5101-4f52-b254-1dd8d165580a"
+      ]
+    },
+    {
+      "id": "90019",
+      "name": "10411-01-50-2 臺中市國民中學補習學校新住民學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=32a174d9-881a-4607-bba8-de6d58b61c72",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aaf0b2a1-56b9-44a7-b0ab-9262a92838cf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d882a952-bd74-45ed-b55f-97610fcf3247",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=67fcf355-2bfe-460c-80f4-c6e6c5bba125",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dea78556-9f5e-44f3-b1cf-7dec7aa97771",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b9cfd626-ee80-4426-ad21-5e0409369d91",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b05ec1f-4104-4432-bd51-7afde1caf143",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7774e0f1-8de4-4f26-9971-f90c94d37887"
+      ]
+    },
+    {
+      "id": "90022",
+      "name": "10411-05-03-2 臺中市國民小學僑生及港澳學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ff99cc9-fb56-4b7f-bf03-0cb61a3812df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d5ea38e-1b78-4bdc-b1f6-564e422a68f3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=77b6db90-dcba-48c5-9160-578f85ded381",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e7ec6182-1150-40a3-8819-5c9f5c5d5411",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5267ec31-4e86-44a2-9410-6a98c27c5451",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec885b16-5811-40c2-83a1-8c2e28c5a5b4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9374cc83-515c-4e83-ba7b-4231f04e7332",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=10aea258-63b3-4260-a8be-dd3f85d56d98"
+      ]
+    },
+    {
+      "id": "90023",
+      "name": "10411-90-01-2 大陸地區未成年人民在臺期間申請就讀臺中市國民中學統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=29f16acf-2439-49a1-99b3-ac08cba24eca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=75215df7-e00d-4912-a266-afe37e6742b2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=74eca3b4-b3e6-468a-9b9a-b98946890a1c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1319b813-b688-48b5-80cc-5e0e6fd9edf1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0be3b911-b008-46bb-b522-6eadf68ba6db",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=59a06e2a-4125-4d23-9a9a-c997877aacaf"
+      ]
+    },
+    {
+      "id": "90031",
+      "name": "10420-01-02-2 臺中市國民中學教師人數按學歷、資格、年齡、年資別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=be5c3f0d-3b60-4e72-a58c-14483c66ea21",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4fdc9ce1-5e76-460b-bbdd-d7bde819e39c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9a3c065d-9139-4ee3-816d-922157d56a4b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=272714f0-9f58-478b-9f37-1cc0a6cf1cde",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ebaba437-4ac3-49a6-bf3c-7fe02cb476f1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cf55f3bd-d06a-41e5-a6c1-6d64b9c8c777",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=87f69699-cb79-424f-85d2-1aeda509cd79"
+      ]
+    },
+    {
+      "id": "90035",
+      "name": "10420-01-06-2 臺中市高級中等學校原住民教師數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=34257ad1-b5d9-4ca2-a181-aa3ddcd63fb2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f47927e9-171b-41f9-a75d-407674bd8231",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8c64d80e-4e4d-4efc-9270-3a0fa60c18ca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=17b043b2-f269-4608-89a6-0e7718e79f40",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=320c8114-d49f-4a53-8e39-b5922d5d9db9"
+      ]
+    },
+    {
+      "id": "90123",
+      "name": "10420-01-07-2 臺中市特殊教育學校原住民教師數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=92e2e0c1-f2bb-434f-ae66-2b60a65f3b64",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f0296aac-faca-4776-8f2f-3d245f9a3da7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dc85c751-daaf-4e13-9791-2f4b25196b6a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6f4a8dd-6ecf-475b-8cd7-d27389080c23",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=71b4e699-7837-468b-b6eb-4d2315011149"
+      ]
+    },
+    {
+      "id": "90178",
+      "name": "10490-06-01-2 臺中市公立國民小學附設成人基本教育研習班學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2efce619-ca09-4f72-9ac4-3a00139f6592",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5cfeaac4-5583-48bc-8c12-f83e9d2e3ce9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c70178a8-3825-48b6-8da1-0198ef4c2a66",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=656e1e02-647a-4ea9-bb2d-784f56425678",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1c78e61b-6881-4537-ab66-b8491805777d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11d3e313-429a-4b5c-b725-178da94dc0e4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7129360d-ea07-4c40-914a-5389145e25c8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=635fa5db-fb0c-4b32-a144-1bc1a8902750",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=54078726-c13f-4db8-9643-fb9030e879bd"
+      ]
+    },
+    {
+      "id": "90179",
+      "name": "10490-90-01-2 臺中市立國民小學開辦兒童課後照顧情形",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d5f7119-11a4-49aa-9033-f5a819f99a37",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ad035ff-f650-49f4-a041-56f2e05cc4a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=685352f8-91e4-4adb-b69c-a5eeb3f25b05",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=383d4dd1-abf3-4cdd-813b-5f21f3fbc170",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f1828aef-f331-43a3-99d4-efe00802fe64",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=57a8d5c7-e5a2-4314-940c-4b51c1105bac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d63bfe7-95a2-491c-945a-8a3e2303854c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0d3d3c6d-b246-4975-a1dd-020502cc5446",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7cc5b87c-9e68-4a3c-b4ef-60f39372846d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4d6cd1ed-2bdd-4cde-aa91-40bda3c3b65a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6264188-2806-4462-a7f3-f530c2057e8e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f3d3a5dd-b90e-4c65-a1fb-3e9f70aba4b5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=880cafa6-2ae4-47a1-92a3-1b7c2c80f87d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6839d1a-b1ef-4597-abb7-43a80fb4db50"
+      ]
+    },
+    {
+      "id": "90180",
+      "name": "10490-90-01-2 臺中市推展家庭教育計畫參與人次統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d20ed3e4-99f0-4fd5-b848-2b005a19a337",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=835ad802-f0c0-4c4e-89db-ff8f856c8392",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e91c49eb-8f21-4ad8-9314-38d1cc09eb45",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=548bd218-077d-455a-b54b-52eea6860c3c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=609d0fd4-8ea2-4cec-a198-452a3e386297"
+      ]
+    },
+    {
+      "id": "103076",
+      "name": "10411-01-39-2 臺中市高級中等學校原住民學生數-專業群科(職業科)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=51a5b2ed-8d11-4310-af4f-186d00096910",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cb7926de-e714-4891-8a1c-11c3c45760ba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fca541bf-5beb-477f-bd98-94215c0d1eb8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7cf49cc4-2715-4596-808d-8971f9e7bef9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b9c0f8ea-0734-4b68-a742-210c6f3ea76b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=54ba0113-ca6d-410e-abae-f0a5ea87967a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=22e19da3-fdf9-4f0e-a24e-e55536d583fc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d9c6e4a3-e8d6-4470-a273-8774b156c7a1"
+      ]
+    },
+    {
+      "id": "103081",
+      "name": "10411-01-47-2 臺中市國民小學補習學校原住民學生數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ddf8cde6-9492-45dd-84b0-e9b8959c377f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=305637a1-7bd6-41be-ab9c-bede08d05f3b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0fdd8f11-64e3-4f2f-80fe-be0131cba6f7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e5206375-508d-46fe-9db0-de501773abd5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=12d762c2-e5a0-46af-9906-e5bdce8dc9e9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac946d92-70b3-49ad-8231-36b144e9cc88",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eb865145-03b4-4c3c-bec3-747a50961f8e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7f13fda0-84cd-4f9f-ac40-4b3366cbd64d"
+      ]
+    },
+    {
+      "id": "103089",
+      "name": "10430-03-05-2 臺中市一般學校附設特教班概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8782f9db-7825-4877-8098-d1ccaa17eec8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a8bab38-2a8e-4979-9247-ad7cb30744fb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=edbf7eea-eca9-4b8a-a0d9-4ad14d6f8e87",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5084410b-4bfc-4d5b-97ab-4aa48e3be240",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=234fd167-69eb-4321-91f4-e79d14b73abc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=39fa8d1f-1cfc-4aec-b662-809a3a7cb623"
+      ]
+    },
+    {
+      "id": "82241",
+      "name": "臺中市國小學區劃分表(105學年度)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/13260136-7d02-4d4c-88e3-f22d2105e5ca"
+      ]
+    },
+    {
+      "id": "84059",
+      "name": "臺中市撤銷及廢止立案幼兒園名冊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/49cfe3d9-0d84-4f7c-9e9f-03eb0fd5db5f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c0351727-1d38-4222-a16d-4da199d23eda",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eaff96e1-08c1-456e-94ec-c79f43cf8963"
+      ]
+    },
+    {
+      "id": "84062",
+      "name": "臺中市各級學校補校資訊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/66f27eab-4991-4f6c-a0b7-74840653bc9b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6cd9f523-b61d-4453-88d3-0405d3a88831",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/afe26597-1b8a-403c-b204-a4f474f9cde2"
+      ]
+    },
+    {
+      "id": "127255",
+      "name": "10411-01-17-2 臺中市高級中等學校概況-專業群科(職業科)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c3d85e49-412b-4d04-b1f5-f399fb69c667",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a6b1199d-8e86-4d42-846e-08cee37b1105",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bc87699e-42ba-4117-8785-049f864c23a6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f75b40e1-61ce-4471-9685-c4de8371deb9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cc37d18e-9758-458b-adc7-d1f76c2d7371",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c8d05aef-1f6d-47b3-b661-41e84343a8e3"
+      ]
+    },
+    {
+      "id": "115919",
+      "name": "10411-01-33-2 臺中市進修學校概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11b1f5f2-a1f1-4e22-be29-28d623579207",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c49be63d-373a-4564-876b-775d8f81ad38",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7b2bf27e-034b-4d6c-aa11-5ba4a6e2a96a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a3734ac7-75ce-462f-892a-fa5b99cf8f07",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d0f8cb68-dc9e-41ab-bddf-d9d06ac11273",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=279866e1-04a2-4914-b3e5-88330c62b277"
+      ]
+    },
+    {
+      "id": "115923",
+      "name": "10411-01-30-2 臺中市國民中學概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=da4798a9-abca-4619-b2eb-ae8eccf2f51a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1cc4b39c-bf65-4421-9965-4ef904293666",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c9c80ea8-8f44-4068-a3d5-150d680c6a4c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=84d9e851-03b6-4c29-8d4b-fbfd40f5c42b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=65c8d62d-d2ed-4943-81ee-3c40ad25ff3c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=29a75cae-328e-444d-9732-1f52e1a663a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c415b35a-4fd7-4c53-9c64-56815e2edce0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7bb84316-9d61-4288-904c-3c3b3aa6f994",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=abb61381-940b-48d2-b035-463d022d66a4"
+      ]
+    },
+    {
+      "id": "115929",
+      "name": "10411-01-21-2 臺中市高級中等學校普通科科別概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3be94f9e-e93d-408f-b407-2a8809151adc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff3f8480-1163-492e-a1ef-b0b95a8fd4eb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a44a01d-4c49-4e98-932b-0c6ad48583e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4cc83c4b-172c-41ea-8d07-f1c2e0fea7fe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f333c82a-0709-405c-9104-76abb8d47fca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f5ad58c9-31c8-45da-880f-7e769bdf9cdf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ad8c188-311e-4a27-affb-9111556efbde",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=55110ae5-6ad0-4f9b-a937-942513de858f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3a80f764-21ee-4bbb-824b-275c0d89a7fb"
+      ]
+    },
+    {
+      "id": "115930",
+      "name": "10411-01-20-2 臺中市高級中等學校概況-進修部(學校)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=64104651-cb7d-473d-885f-9f179e8cdd8a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0716af8e-c593-42b9-81fc-ed85f74b8979",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a673ba7-13ec-4704-9051-abe5c6a9a48a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=287544ea-89a6-42d0-afe6-2eff682d99ff",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=57cb1938-1587-41d9-b979-71a542fd1abd"
+      ]
+    },
+    {
+      "id": "115914",
+      "name": "10412-04-06-2 臺中市國民中學中途輟學學生概況-行政區別",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=179f0db6-59b9-4b47-844d-4b86c5fec347",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a04a4521-9bbb-4e5b-af3a-c7bb2bbed953",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=54852cdc-e854-41e3-916a-95fcaef0d7c8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e7afe6e8-997e-4768-b691-55d975e9c747",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=30082c6c-8905-4add-893f-5343a6d00c20"
+      ]
+    },
+    {
+      "id": "115916",
+      "name": "10411-01-37-2 臺中市特殊教育學校學生數-年級別",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8e52f787-b0a9-4c64-9f5e-953b7c6535fe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d40af1c9-f7b2-4c31-a35f-2493bb7b7332",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4598ad92-06f0-48de-be22-1dde5a50f338",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ea63c99-890d-4a48-bfa7-55115d2ec0d7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e0032ad7-fcf9-48be-b6e7-2e59fea94c74",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=62cab1b8-19e6-4f2a-b31f-1e259a3f8a4b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=85237e44-2906-477a-b6b5-ee3773819b22",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6e0d1b6a-f13c-4c24-9fdc-bb653a682750",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=99d3ef31-0d9c-4729-9b2a-bb091c39e445"
+      ]
+    },
+    {
+      "id": "115975",
+      "name": "10440-01-01-2 臺中市高級中等學校教育經費概況(預、決算數)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8c2a0096-b070-4ee6-8bdc-1169382689f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c2c53f40-24ff-4449-9092-300c0d6424a9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=781a8cb1-a596-4077-9798-717bb4d7e10a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=19a25038-e193-4133-afce-7fcddf47e3b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a090d684-c8aa-44ba-b6ad-cc26c2a2e84e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3cafce2d-0c0b-4454-adaa-31a51bcbf6fa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4745d2a1-48ac-4e01-9865-b007a8591b31",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2df19fd4-31a6-4387-9d89-e116b0fda6d8"
+      ]
+    },
+    {
+      "id": "90126",
+      "name": "10420-01-11-2 臺中市立各級學校教職員獎懲人次按獎懲狀況分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=826a6d97-87ef-4722-82f8-fb347f5fba89",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0196af4a-39ae-48df-be9f-512dbdb4cff4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11a32b69-8075-4cbb-9d4e-dd3aacb7dc38",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e55024c-cdf8-4fba-bf1a-0c13ea91c2ba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5751efdf-7e60-4a77-8a2c-9ba10bddea17",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ac797b7-cd22-4e01-98b0-047d971ed819",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7621d6cb-13a4-47fe-8510-49cdff534c87",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3c15bd30-4a9b-49c4-9600-3c8fd54dfe60"
+      ]
+    },
+    {
+      "id": "90132",
+      "name": "10420-01-18-2 臺中市立各級學校教職員人數按官等及性別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c113cd75-c3e8-4fee-85d1-df6d83e2908d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=653da023-86e4-4043-993e-ccc00f9d6a93",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a44fbd9-ff6a-42b9-9c9d-d45131bd6941",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=53f62701-a9e8-4460-81a1-1d374fdb79f2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a48c1531-41bb-4014-bdf7-e7e5a7ecbbcd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=640ced5d-1549-4c6c-91a9-08cf4db5bd52",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=46e96933-035e-48bb-950e-905669307f46",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd5936b7-4940-47f5-89b3-697f5b28e310"
+      ]
+    },
+    {
+      "id": "90131",
+      "name": "10420-01-17-2 臺中市立各級學校教職員人數按考試種類分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a24fe022-2701-4ddb-abe2-30451ead617a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cdb5b05e-6a8b-4d24-9518-acd1b957ad1d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e1e96bce-d833-40df-b5c8-709da085867c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=402f9baa-af20-43ee-bbcd-9994797326a4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=94194170-2525-4eed-af38-855f83968622",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=17809a96-84b0-43b0-8150-7378925209a3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f0c0355f-0978-457b-b85d-2840efa9843f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4b888dd4-6a49-4c94-820a-5b45a7be1c4e"
+      ]
+    },
+    {
+      "id": "115912",
+      "name": "10420-01-14-2 臺中市立各級學校教職員人數按年齡分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=786a5c5a-51d6-43ee-b04f-2184dbb498cb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d3eec5ef-cc87-4666-ae9f-49c4049f90d2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=adda470a-efe8-4c2e-9302-c0825e8431e4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f014159d-6d6e-4743-8f66-9733d79327e9"
+      ]
+    },
+    {
+      "id": "90130",
+      "name": "10420-01-16-2 臺中市立各級學校教職員人數按教育程度分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6a3a722d-e14b-48bf-875d-2bb01da40070",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c9ee251e-776e-4677-98a6-842f7fb225ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=844f9314-e14b-49d8-b1df-d045fd4a4e02",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5cd578ac-7135-417b-b57e-0d8fa0cdf7ca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c8b240f5-b208-4d2a-adb7-9b725f8855e2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8efbb72b-e2e7-43e8-bb84-579ba24a0fd8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8ab2eaac-3cdc-4fce-96d5-32d66de23a4d"
+      ]
+    },
+    {
+      "id": "90194",
+      "name": "30910-01-02-2 臺中市政府教育局員工概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9372e7aa-9f16-4752-9335-0b4d5a8a4052",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a974fda-7ad5-451d-b3a6-8673887a3d0a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=522d6cae-5d67-46fa-ad49-46804cfcb49c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3642d31b-fd65-4c0f-822e-b50a24a70351",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1aee6801-2054-4565-8699-0047d8cb06af",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6fddaaf3-75b3-4b5b-9536-bc7a15f67776"
+      ]
+    }
+  ]
+}

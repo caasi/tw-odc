@@ -1,0 +1,209 @@
+{
+  "type": "dataset",
+  "provider": "臺北自來水事業處",
+  "slug": "data_taipei_0a45b084",
+  "datasets": [
+    {
+      "id": "128633",
+      "name": "臺北市水質監測資訊",
+      "format": "xml",
+      "urls": [
+        "https://twd.water.gov.taipei/opendata/wqb/wqb.asmx/GetQualityData"
+      ]
+    },
+    {
+      "id": "128636",
+      "name": "臺北自來水事業處用戶水表統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/50d2d693-9fab-4160-9a3c-50c4e0b00dc5/resource/552a96e3-6b3e-4e16-9ad4-29facfe2a032/download"
+      ]
+    },
+    {
+      "id": "128638",
+      "name": "臺北地區災時學校供水站狀態資訊",
+      "format": "kml",
+      "urls": [
+        "https://tpwater.blob.core.windows.net/blobfs/SchoolSupply.kml"
+      ]
+    },
+    {
+      "id": "128640",
+      "name": "臺北市所屬直飲臺",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/155999f2-3c5d-486b-af58-d7f4c0b0a4c9/resource/181097e0-c171-4bcd-ad41-c7b55dbc616e/download"
+      ]
+    },
+    {
+      "id": "128658",
+      "name": "臺北自來水事業處支援台水月統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/da7f7ff2-da18-4205-8bfb-41c0e0cfb71a/download",
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/49ca12b6-f8ff-41a1-ac59-9e542f8eaee3/download",
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/832715ab-7f00-4059-a5a0-60229b9ff98a/download",
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/f6c8006d-5966-4f95-882a-121911999ee8/download",
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/8e01601d-0d1c-4cf1-b1c2-0862b4ce58d2/download",
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/0422f841-26b6-47bd-b7b6-8ee0de4dd75a/download",
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/fdd70c0e-2e72-43a0-baa9-4d15b759151a/download",
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/7e35ea39-5862-4a24-b5af-74d8fcb78d56/download",
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/070c74bf-9a60-403d-bb15-b5145230dbae/download",
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/e3d85d14-91e8-4546-8516-117920022250/download",
+        "https://data.taipei/api/dataset/ab446f19-0f95-4e55-b593-0eea8e447c7d/resource/777f8628-b8ce-4dd6-b503-b52923a6e75a/download"
+      ]
+    },
+    {
+      "id": "139258",
+      "name": "臺北自來水事業處各淨水場清水水質",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ee8842ea-25a2-4cd2-a6c0-d50b37ab18d0/resource/e4ca5019-b923-4423-a3af-af166e976f35/download"
+      ]
+    },
+    {
+      "id": "138524",
+      "name": "臺北地區災時緊急供水站狀態資訊",
+      "format": "kml",
+      "urls": [
+        "https://tpwater.blob.core.windows.net/blobfs/EngSupply.kml"
+      ]
+    },
+    {
+      "id": "138579",
+      "name": "臺北地區災時旱災買水站狀態資訊",
+      "format": "kml",
+      "urls": [
+        "https://tpwater.blob.core.windows.net/blobfs/Trading.kml"
+      ]
+    },
+    {
+      "id": "156471",
+      "name": "The Key Business Data of Taipei Water Department(Taipei Water Department)",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3f937710-c4c7-4325-b36f-816eea7d9ff9/resource/09873454-f56c-4d60-bd25-454c0740d3ed/download"
+      ]
+    },
+    {
+      "id": "155477",
+      "name": "臺北自來水事業處近年重要財務比率",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/bc2d98ba-f03b-4d0e-a5f1-c46afdf862d9/resource/f77682f9-173d-4d27-8ef1-f9aa0aa8dbf8/download"
+      ]
+    },
+    {
+      "id": "155478",
+      "name": "臺北市近年水價資料表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/31af73ae-42a5-4182-ad69-c1d730450a29/resource/59526659-dc44-41e2-a30e-e1990b566324/download"
+      ]
+    },
+    {
+      "id": "155479",
+      "name": "臺北自來水事業處業務關鍵數據",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/4487aa01-acc6-4c54-8bef-8d4d2dd6f1b2/resource/4a6ad66a-0b0a-4e1f-aa5f-cbbbe487db79/download"
+      ]
+    },
+    {
+      "id": "128635",
+      "name": "臺北自來水事業處無障礙設施資料表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/567976f0-6bbe-4b21-9452-6877d073f2b2/resource/944d9d3c-886c-42ee-baba-671e71be0bf8/download"
+      ]
+    },
+    {
+      "id": "122051",
+      "name": "臺北自來水事業處漏水率資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3712cb95-492a-480f-83b6-02e30f318868/resource/4cc825c3-1a56-419a-89e2-cac3d25593c2/download"
+      ]
+    },
+    {
+      "id": "139241",
+      "name": "臺北自來水事業處各淨水場原水水質",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/8fdd22d5-9aa2-46a7-91d4-6c2f53a2ec06/resource/f8062c04-ae59-4b24-bfda-14d8b9d1749a/download"
+      ]
+    },
+    {
+      "id": "155475",
+      "name": "臺北市每度水排放二氧化碳(CO2)約當量",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a7ef99ef-21a3-4806-a264-512ff9ffcd6c/resource/52de4b17-234c-44f5-9312-245381f9d9f3/download"
+      ]
+    },
+    {
+      "id": "138523",
+      "name": "臺北地區災時防災地下水井狀態資訊",
+      "format": "kml",
+      "urls": [
+        "https://tpwater.blob.core.windows.net/blobfs/Well.kml"
+      ]
+    },
+    {
+      "id": "128236",
+      "name": "臺北市停水資訊(大臺北地區)",
+      "format": "json",
+      "urls": [
+        "https://webs.water.gov.taipei/apps/outage.asmx/outageOpenData"
+      ]
+    },
+    {
+      "id": "139240",
+      "name": "臺北自來水事業處供水系統內水質",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/c9909a36-47ce-4c19-b859-5e9e4ec7f2a6/resource/ef99fb7e-3624-42c7-ab3b-55d912e5cb72/download"
+      ]
+    },
+    {
+      "id": "138526",
+      "name": "臺北地區災時供水狀態資訊",
+      "format": "kml",
+      "urls": [
+        "https://tpwater.blob.core.windows.net/blobfs/tpwater.kml"
+      ]
+    },
+    {
+      "id": "138525",
+      "name": "臺北地區災時臨時供水站狀態資訊",
+      "format": "kml",
+      "urls": [
+        "https://tpwater.blob.core.windows.net/blobfs/TempSupply.kml"
+      ]
+    },
+    {
+      "id": "128639",
+      "name": "大臺北地區消防栓分布點位圖",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/c106a00b-5a21-4393-b213-475a0ece9f2b/resource/b9f8154d-c627-48a8-b3ef-512ed9cde9e7/download"
+      ]
+    },
+    {
+      "id": "155474",
+      "name": "臺北市每人每日家庭(生活)用水量",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/d3e935d5-ee8a-4d39-895d-56e44518186d/resource/b750f54f-2805-468a-bd90-e09804445f6b/download"
+      ]
+    },
+    {
+      "id": "155476",
+      "name": "臺北市基本水費表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/b3621cc9-80cd-4477-ac79-df3bcc0dc06c/resource/4e521b26-4d1c-450d-adbd-b580ade51c50/download"
+      ]
+    }
+  ]
+}

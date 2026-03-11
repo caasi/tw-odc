@@ -1,0 +1,604 @@
+{
+  "type": "dataset",
+  "provider": "臺北市政府民政局",
+  "slug": "data_taipei_f56b3652",
+  "datasets": [
+    {
+      "id": "121174",
+      "name": "臺北市固定里民活動場所資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/5ca45420-4a23-41c0-a324-128680f28f92/resource/bf098ea3-c42e-4a41-b058-bc17b3d3ed46/download"
+      ]
+    },
+    {
+      "id": "121201",
+      "name": "臺北市各區災害應變中心領取沙包專線電話一覽表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/f11877f9-8748-43fd-8a2b-eb875d6bb5a3/resource/57673a4a-e7f9-4e3a-ae57-d85562f1f641/download"
+      ]
+    },
+    {
+      "id": "121141",
+      "name": "臺北市已立案宗教團體點位資料",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/86672d20-9c69-4c24-859b-078862c4e699/resource/2aac2df3-e768-448c-8f06-181d7b424690/download"
+      ]
+    },
+    {
+      "id": "121424",
+      "name": "臺北市鄰界圖",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/6d864ede-c482-4f33-bb89-5be19dc772e1/resource/84e357c9-6157-45e7-aaa2-4fb1e3318644/download"
+      ]
+    },
+    {
+      "id": "132935",
+      "name": "臺北市109年9月後戶籍登記案件及核發證明文件統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1442b5c9-b5b6-4964-8cc3-29c4d4ff8741/resource/8e2093c1-7337-4081-8e74-ade05e6aed6b/download",
+        "https://data.taipei/api/dataset/1442b5c9-b5b6-4964-8cc3-29c4d4ff8741/resource/4191fc22-833e-4973-9dd4-b23a25592b01/download",
+        "https://data.taipei/api/dataset/1442b5c9-b5b6-4964-8cc3-29c4d4ff8741/resource/c72c339f-2d59-44a6-b6d0-a2990bbb065f/download",
+        "https://data.taipei/api/dataset/1442b5c9-b5b6-4964-8cc3-29c4d4ff8741/resource/ffd6e890-2776-4de4-9a70-517339eb1b99/download",
+        "https://data.taipei/api/dataset/1442b5c9-b5b6-4964-8cc3-29c4d4ff8741/resource/91e57437-47ad-45ac-b887-8276ca50ee0d/download",
+        "https://data.taipei/api/dataset/1442b5c9-b5b6-4964-8cc3-29c4d4ff8741/resource/fde43529-7e60-4489-982d-5cf4a895cb5e/download",
+        "https://data.taipei/api/dataset/1442b5c9-b5b6-4964-8cc3-29c4d4ff8741/resource/185df796-2284-4ac8-b841-d8f02959a6bb/download",
+        "https://data.taipei/api/dataset/1442b5c9-b5b6-4964-8cc3-29c4d4ff8741/resource/2b7d59c8-c947-4a92-a7f0-fb0431f62e8e/download",
+        "https://data.taipei/api/dataset/1442b5c9-b5b6-4964-8cc3-29c4d4ff8741/resource/ae1e5416-ccc1-4c01-a731-a62d5f7fc000/download",
+        "https://data.taipei/api/dataset/1442b5c9-b5b6-4964-8cc3-29c4d4ff8741/resource/7afc3365-95f3-4772-a545-18f1fc334f66/download"
+      ]
+    },
+    {
+      "id": "132900",
+      "name": "臺北市各區戶數、人口數按戶別分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a45cdba6-9181-443c-9c88-b57bb55541bc/resource/3b48955b-9b5e-4342-ad9d-d871131ba8e8/download"
+      ]
+    },
+    {
+      "id": "132901",
+      "name": "臺北市各區人口數按年齡及教育程度分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/47109669-1d57-4560-afc4-3b74b31cfb48/resource/150e7903-0f74-45f3-b5c2-52415079c9ca/download",
+        "https://data.taipei/api/dataset/47109669-1d57-4560-afc4-3b74b31cfb48/resource/3f3f482b-b047-45ee-b95d-06a79bd8152c/download",
+        "https://data.taipei/api/dataset/47109669-1d57-4560-afc4-3b74b31cfb48/resource/84d58ea3-93d5-4cda-8319-4bad5c93670c/download"
+      ]
+    },
+    {
+      "id": "132892",
+      "name": "臺北市結婚人數按性別、年齡及婚前婚姻狀況分暨其結婚年齡之第一四分位數、中位數、第三四數與平均數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/2b0c7619-dfa7-4099-a0c5-031126576300/resource/3859b1da-4e31-4e88-85a3-a18f80fd36fd/download"
+      ]
+    },
+    {
+      "id": "132893",
+      "name": "臺北市嬰兒出生數按生母年齡、教育程度及生育胎次分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/2917a751-7282-47c9-94ab-58a758a96192/resource/46b035be-e688-4174-84ed-d5457fe1fe61/download"
+      ]
+    },
+    {
+      "id": "145742",
+      "name": "臺北市政府民政局暨所屬機關電話及地址",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/7b427c97-50ed-4f09-ae6d-1b717bfa16f3/resource/23e0b49e-3907-4758-a0ad-72dbc617d0af/download"
+      ]
+    },
+    {
+      "id": "145601",
+      "name": "臺北市所轄面積暨行政區里鄰數量月報表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/aa7fe644-e23c-4d29-be31-697377b86a55/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/c4665a93-d88a-4ad1-800c-53e76addd9ae/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/50a220bd-7716-4390-80b7-366d6a0e6381/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/d1a4ebe0-3d1e-48cc-b867-7ce31d012abb/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/bbcf86ac-5925-495b-ab56-75901d338d5a/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/c32844bd-0e0c-461d-92c8-94b2594622d6/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/1f5fde74-a034-4e49-bbaa-0106e1056b34/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/be75d59c-85a4-44c5-8dd4-02dff131bd97/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/814b14a2-3203-455f-8f83-9f787a6b22d9/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/09c5ab7e-ae0f-44e6-a17e-28c534f7981a/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/b2333aa2-f82d-4132-a9c8-3102dbe7cb7f/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/d78296e7-655c-480e-9463-c2bcf1553161/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/19ec543f-b162-4f83-8595-234da1f17efb/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/223e5280-2264-4c60-a646-bec41e91f687/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/551ded57-c436-44f3-a8f6-1a7c6a15c494/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/879ac1c3-37f5-4731-88d8-77083de21821/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/83c35242-8498-47c6-b59b-c29c681f63a5/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/18b80aac-6899-4b8c-84e5-d76cf3f23488/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/15701eeb-8a62-4566-9a3e-f1958222e2f9/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/137e3708-b65b-4327-aeab-184fd0a0ee74/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/1e5cef3b-4a79-4f49-81f1-c1f103819d76/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/81a5c733-bd80-4b52-a13e-543d3d7919df/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/72666961-695e-4c03-9fc0-96474dff8431/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/3b662284-4e98-453a-9056-9dc58ca4493f/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/f84f9d1f-d2d8-4532-ba01-b4cb7b9a2322/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/46883745-68bc-4d56-b9f8-8368a2639855/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/51c0e63b-4335-44f1-bf1b-f67fe99cff46/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/0702bcc0-0295-4173-9bd9-b94ca96ce8ea/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/6e65a3fa-e580-4e7a-bb12-fd66fef9db44/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/de9a2356-9d45-4a9c-b14a-82459178983c/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/11480fba-a556-4333-8613-ce5ccd1e763e/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/07f917e1-13ca-4438-988c-2fe5b4386b71/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/44373730-9191-4b53-8f1d-1c90f525b6e6/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/dd00d466-ee62-43ef-b987-6c31ac385511/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/740ee8ed-81f5-4ac8-b94d-62f7ac7a3f36/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/d52856a1-5a60-4994-8c88-25a038376fba/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/a71ca546-b0a9-4c23-a5b9-47902d1c4605/download",
+        "https://data.taipei/api/dataset/d1bb140b-733b-43cc-91ca-685a984d022a/resource/67f76565-0c12-455f-a36f-5aa58f013de7/download"
+      ]
+    },
+    {
+      "id": "132579",
+      "name": "臺北市各區戶政事務所等候人數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3b9856c9-d26b-4089-95ad-bc4c5908461e/resource/b69e905a-0436-4151-aad8-dfc94054defc/download"
+      ]
+    },
+    {
+      "id": "135223",
+      "name": "臺北市宗教（祠）財團法人一覽",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/ddb9e7b3-9aa5-4df3-a2db-9267d69436b9/resource/858c1229-66c7-42ab-9e96-bf5d2a07d0c2/download",
+        "https://data.taipei/api/dataset/ddb9e7b3-9aa5-4df3-a2db-9267d69436b9/resource/85178bd2-ae11-40d0-bbdd-6a52a6113187/download",
+        "https://data.taipei/api/dataset/ddb9e7b3-9aa5-4df3-a2db-9267d69436b9/resource/dea8d38a-0836-4cf0-be59-9c30b7c792b7/download",
+        "https://data.taipei/api/dataset/ddb9e7b3-9aa5-4df3-a2db-9267d69436b9/resource/f7a28527-336b-48fb-a38c-64d8c3b1cbf2/download"
+      ]
+    },
+    {
+      "id": "133321",
+      "name": "臺北市離婚\\終止結婚雙方教育程度分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/b1bac278-cbbd-4da9-a5f2-2c4d07c7f419/resource/a14b6d32-4058-4dc3-b77b-8cda601fc711/download"
+      ]
+    },
+    {
+      "id": "132910",
+      "name": "臺北市各區遷徙、出生及死亡人口數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/65d72874-4dd1-409c-8cfa-82011f001d77/resource/23b57598-2301-498a-848b-1e79aa4be3b7/download",
+        "https://data.taipei/api/dataset/65d72874-4dd1-409c-8cfa-82011f001d77/resource/789a5fb4-34d0-4812-b59f-4e70a1771a08/download",
+        "https://data.taipei/api/dataset/65d72874-4dd1-409c-8cfa-82011f001d77/resource/120906e8-cebe-475d-bf84-a0b815eec3a2/download"
+      ]
+    },
+    {
+      "id": "121136",
+      "name": "臺北市宗教建築3D模型庫",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/d8718826-54cf-4cba-ba92-088b1658c7c6/resource/bf338b29-e36b-4131-aab5-25c7342b2139/download"
+      ]
+    },
+    {
+      "id": "121163",
+      "name": "臺北市里界圖",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/6b17b31d-4e16-495e-95b1-9fd1f47c80d8/resource/145e30da-58f3-45db-a125-8adc3fde2620/download"
+      ]
+    },
+    {
+      "id": "121187",
+      "name": "臺北各市區民活動中心資料",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/afd3899d-2c12-44a6-9dd0-54333644459f/resource/34300677-808f-45af-a7a4-bf64c68fd2c7/download"
+      ]
+    },
+    {
+      "id": "121199",
+      "name": "臺北市區界圖",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/1601ef3a-c253-4988-b047-943d9e786143/resource/d8b7eb29-136f-49fc-b14b-3489d3656122/download"
+      ]
+    },
+    {
+      "id": "132996",
+      "name": "臺北市政府民政局暨所屬機關志工性別統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/d1d89b32-9bd0-4277-bdc0-27a775d95e78/resource/2f06c696-04cb-4a10-8867-e883938bf01a/download"
+      ]
+    },
+    {
+      "id": "121667",
+      "name": "臺北市次分區界圖",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/d8978c42-1343-4a86-82bc-27d949606e47/resource/561eb587-96dc-45e9-9afc-2e9c78744763/download"
+      ]
+    },
+    {
+      "id": "132488",
+      "name": "臺北市戶政管理及便民服務案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/02e84820-bd47-4614-896d-a763f2b0e102/resource/8ec78cb7-dbc9-4d2b-9181-0208b26ad437/download",
+        "https://data.taipei/api/dataset/02e84820-bd47-4614-896d-a763f2b0e102/resource/af24ec34-f3a0-49e0-9846-c1ab09e12fc3/download",
+        "https://data.taipei/api/dataset/02e84820-bd47-4614-896d-a763f2b0e102/resource/c946cb03-ef08-4ae5-a22f-43b17a531862/download",
+        "https://data.taipei/api/dataset/02e84820-bd47-4614-896d-a763f2b0e102/resource/eb68796e-a7dd-437c-bc5a-5480d583feed/download",
+        "https://data.taipei/api/dataset/02e84820-bd47-4614-896d-a763f2b0e102/resource/a05f08f1-7530-4888-a603-41e40074f7e6/download",
+        "https://data.taipei/api/dataset/02e84820-bd47-4614-896d-a763f2b0e102/resource/4597ec90-2777-44c0-a4f4-f56651101f93/download",
+        "https://data.taipei/api/dataset/02e84820-bd47-4614-896d-a763f2b0e102/resource/6c489282-0b9e-4f5c-8b17-6a90b7e88012/download",
+        "https://data.taipei/api/dataset/02e84820-bd47-4614-896d-a763f2b0e102/resource/4ea70aac-b142-405c-a514-7d09c8aadfe0/download",
+        "https://data.taipei/api/dataset/02e84820-bd47-4614-896d-a763f2b0e102/resource/7d69d8de-7ecc-4a3b-ae53-5f6927978aa4/download",
+        "https://data.taipei/api/dataset/02e84820-bd47-4614-896d-a763f2b0e102/resource/26eb368c-cfbe-4b97-8314-e6ef9c5486f5/download"
+      ]
+    },
+    {
+      "id": "132898",
+      "name": "臺北市戶長按年齡及教育程度分人口數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/e23346ae-da02-461d-b42b-18a60a1870d5/resource/49f8923d-5a64-48b6-915f-c601cb74db9b/download"
+      ]
+    },
+    {
+      "id": "132899",
+      "name": "臺北市現住人口數按婚姻狀況分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/8bc1ecbf-1030-453f-8d72-38d882b5a5ce/resource/c1bfdc72-141b-459d-bee1-bbf6db11601f/download"
+      ]
+    },
+    {
+      "id": "132937",
+      "name": "臺北市戶政受理案件年報",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/99690f1a-ba04-42d5-ad7e-35be64be3db9/resource/243abcac-8159-46a4-844b-03c1f546c591/download",
+        "https://data.taipei/api/dataset/99690f1a-ba04-42d5-ad7e-35be64be3db9/resource/098a97a9-7a8c-4cb8-8061-a032faf2910d/download",
+        "https://data.taipei/api/dataset/99690f1a-ba04-42d5-ad7e-35be64be3db9/resource/3a61a252-94f9-47d4-9610-7f26e419d15a/download",
+        "https://data.taipei/api/dataset/99690f1a-ba04-42d5-ad7e-35be64be3db9/resource/8535ecb3-30fb-46fe-a8c4-9f395ad1721e/download",
+        "https://data.taipei/api/dataset/99690f1a-ba04-42d5-ad7e-35be64be3db9/resource/69aa1115-cf75-418c-9b44-b766c99006e0/download",
+        "https://data.taipei/api/dataset/99690f1a-ba04-42d5-ad7e-35be64be3db9/resource/ef0639e9-d63b-4381-95cb-14aa8920af93/download",
+        "https://data.taipei/api/dataset/99690f1a-ba04-42d5-ad7e-35be64be3db9/resource/565fc0a4-1071-454d-9dd2-516cf8ed85d2/download",
+        "https://data.taipei/api/dataset/99690f1a-ba04-42d5-ad7e-35be64be3db9/resource/0e19fde6-122b-4238-8f50-16ee2a7dbea0/download",
+        "https://data.taipei/api/dataset/99690f1a-ba04-42d5-ad7e-35be64be3db9/resource/994398e7-420f-4fbf-b529-2d36ef28f08b/download"
+      ]
+    },
+    {
+      "id": "132941",
+      "name": "臺北市戶籍罰鍰處罰金額基準表",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/8724262e-5f09-40f3-bd81-dc67710237d1/resource/4750cf9c-bf57-4189-94e1-3579b05d6cab/download"
+      ]
+    },
+    {
+      "id": "135222",
+      "name": "臺北市績優宗教團體",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/aae4bd55-b86a-4b78-817f-8ddf5f4ba94c/resource/32d0d2ea-a079-4c0e-9a5c-29f7efccfe5d/download"
+      ]
+    },
+    {
+      "id": "135224",
+      "name": "臺北市寺廟一覽",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/b5f043ce-00be-4404-b975-02e29fe10f51/resource/34d77ca7-b446-4c48-b3ce-a694eded45b6/download"
+      ]
+    },
+    {
+      "id": "135095",
+      "name": "臺北市政府民政局開放資料盤點表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/e222c45d-09f2-455c-acfc-523761fabc7c/resource/f9b2d1fc-b9e1-4263-b4a4-49114ba5a66b/download"
+      ]
+    },
+    {
+      "id": "158120",
+      "name": "臺北市政府民政局115年度提升服務品質執行計畫",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/af495b42-dcbf-48c8-9a07-d29e84a999f1/resource/66df2ee2-91fc-41f9-ae59-5e37d09b2f11/download"
+      ]
+    },
+    {
+      "id": "135755",
+      "name": "臺北市重大災害財物損失統計報表災害撤離情形",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/40fc2ac5-f5ac-4d35-940c-bfcc6e2d645d/resource/dff95549-d8b1-4646-982d-71e2e2be8724/download"
+      ]
+    },
+    {
+      "id": "148327",
+      "name": "臺北市社區輿情通報數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1dd0a790-14bb-4c6a-ad44-c355b49f2fc0/resource/376b6177-1a23-4710-991d-86a89d3919d0/download"
+      ]
+    },
+    {
+      "id": "136896",
+      "name": "臺北市各里人口數按年齡分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a6394e3f-3514-4542-87bd-de4310a40db3/resource/09c661ed-368c-44cb-8d1e-cbe7ececf2ec/download",
+        "https://data.taipei/api/dataset/a6394e3f-3514-4542-87bd-de4310a40db3/resource/a92f4f08-9c3c-4122-98ce-00a3c38ece06/download",
+        "https://data.taipei/api/dataset/a6394e3f-3514-4542-87bd-de4310a40db3/resource/c8f5b53d-ef3d-4321-ae8e-58cd2a5ee73c/download"
+      ]
+    },
+    {
+      "id": "132902",
+      "name": "臺北市離婚\\終止結婚人數按原屬國籍（地區）分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/37860970-fe33-4e73-8e23-91ed7262b2b4/resource/7c8044dc-1ad1-4bfb-a29f-4ceb3d99ed5e/download",
+        "https://data.taipei/api/dataset/37860970-fe33-4e73-8e23-91ed7262b2b4/resource/e64d68b5-227f-4a76-8f98-2674d7480cec/download",
+        "https://data.taipei/api/dataset/37860970-fe33-4e73-8e23-91ed7262b2b4/resource/0ab516bf-e1fa-4d66-a599-36cd1d95b9ce/download"
+      ]
+    },
+    {
+      "id": "132911",
+      "name": "臺北市各區結婚、離婚及終止結婚人口數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/cdef233e-9d54-4505-be79-bcc4c56eeb4c/resource/212758cd-6c7c-4744-9674-dc1249e342b2/download",
+        "https://data.taipei/api/dataset/cdef233e-9d54-4505-be79-bcc4c56eeb4c/resource/d95793f8-f82b-4cfc-9b86-d32819fc976b/download",
+        "https://data.taipei/api/dataset/cdef233e-9d54-4505-be79-bcc4c56eeb4c/resource/cc51ae5a-7cb3-4731-80ca-d4906741a648/download"
+      ]
+    },
+    {
+      "id": "132946",
+      "name": "臺北市各區原住民人口數按年齡分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/91d3835b-97ec-4f7b-9e44-a3e0d4ef8b9d/resource/f2937208-b551-44bc-84d3-eeb486dfbafa/download",
+        "https://data.taipei/api/dataset/91d3835b-97ec-4f7b-9e44-a3e0d4ef8b9d/resource/b789b6d9-241b-456b-8ccb-3e74d57cde0b/download",
+        "https://data.taipei/api/dataset/91d3835b-97ec-4f7b-9e44-a3e0d4ef8b9d/resource/75061346-0883-4c28-a736-a1cd8ffdba72/download"
+      ]
+    },
+    {
+      "id": "132574",
+      "name": "臺北市各區人口數按年齡分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/64c8a3a0-3b9a-4f49-a13a-fb1eb2ffa4b1/resource/140c2fac-a403-4395-a0b6-39fc953c623f/download",
+        "https://data.taipei/api/dataset/64c8a3a0-3b9a-4f49-a13a-fb1eb2ffa4b1/resource/f5a72bf0-4ef5-4a9a-95cf-538d8af26508/download",
+        "https://data.taipei/api/dataset/64c8a3a0-3b9a-4f49-a13a-fb1eb2ffa4b1/resource/edf9a589-7095-4f18-995f-f8657c0d8c1a/download"
+      ]
+    },
+    {
+      "id": "132577",
+      "name": "臺北市各區原住民人口數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/9c6946fb-0c1a-44d5-b128-0d8c1fbddba4/resource/18b30f77-6fde-4fd9-8084-bc91fec3721f/download",
+        "https://data.taipei/api/dataset/9c6946fb-0c1a-44d5-b128-0d8c1fbddba4/resource/8afbee16-cfb9-403e-ae25-cb01c8e1eea4/download",
+        "https://data.taipei/api/dataset/9c6946fb-0c1a-44d5-b128-0d8c1fbddba4/resource/e5038200-c7c0-49ce-b8d8-44ef6cec7ba9/download"
+      ]
+    },
+    {
+      "id": "121172",
+      "name": "臺北市各區公所免費市民法律諮詢服務資料",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/95e1fc57-7605-4c89-8361-dfeac479f45f/resource/58af883a-6e50-44f9-bfa3-e4001014e088/download"
+      ]
+    },
+    {
+      "id": "121508",
+      "name": "臺北市各區百歲人瑞人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ef26e731-22c5-41a4-9429-6f9b010894bd/resource/e205921c-d503-4ba5-9e9b-9eb4fb63e4d1/download"
+      ]
+    },
+    {
+      "id": "133195",
+      "name": "臺北市新住民人口數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/91217f0f-ae7b-4257-adaa-e749ff3df19f/resource/476e90ef-f8fa-4e52-8659-c6110d06f241/download",
+        "https://data.taipei/api/dataset/91217f0f-ae7b-4257-adaa-e749ff3df19f/resource/b1f2fbdd-5b00-4c4e-8c0e-4f649a3e8778/download",
+        "https://data.taipei/api/dataset/91217f0f-ae7b-4257-adaa-e749ff3df19f/resource/0987754f-f138-4500-8aed-ae4649e08085/download",
+        "https://data.taipei/api/dataset/91217f0f-ae7b-4257-adaa-e749ff3df19f/resource/1b7a6867-271b-49af-abb6-b1289ad6d836/download",
+        "https://data.taipei/api/dataset/91217f0f-ae7b-4257-adaa-e749ff3df19f/resource/372c8103-6cfd-4987-bbca-518e7d4ab0de/download",
+        "https://data.taipei/api/dataset/91217f0f-ae7b-4257-adaa-e749ff3df19f/resource/1406d444-f97d-4313-aa3d-9872f28ea999/download"
+      ]
+    },
+    {
+      "id": "133322",
+      "name": "臺北市十五歲以上現住原住民人口數按年齡及教育程度分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/417716d9-8227-4ca3-9781-2f5303638241/resource/1e9751bf-621a-4fe5-a450-68e55ba986fa/download"
+      ]
+    },
+    {
+      "id": "135773",
+      "name": "臺北市全市圖暨12區行政區域圖",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/f18a325f-e942-43d5-9706-862f669e2c23/resource/5a719c53-881f-4dd8-8fa2-fc024e2248fa/download"
+      ]
+    },
+    {
+      "id": "135715",
+      "name": "臺北市第18屆調解委員名冊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/4631f308-7e86-42a6-b2dc-a97982a0288e/resource/89b34e3c-e270-4a1e-b2d9-144b29c77360/download"
+      ]
+    },
+    {
+      "id": "135716",
+      "name": "臺北市未立案宗教場所資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ec47293e-ef02-451e-89d9-640f29efe572/resource/0bb32012-24bc-4f16-88cd-c7546fa4897f/download"
+      ]
+    },
+    {
+      "id": "135772",
+      "name": "臺北市電力開發協助金運用情形",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/ac1e8d01-8bb4-429f-96ad-ba10a0cc9668/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/6759eb6d-d908-4317-9e7e-8f2ea1ed619e/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/eb581db6-ceb5-4c59-83dd-0ef303c00353/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/a99a45f9-8f73-4c36-8a9e-ba16528a52fd/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/f885d9f4-9e99-499e-abcb-2eef87761c1a/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/94202948-7e63-48a2-a29a-0d9e373aac85/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/c0f90cc1-4c93-4458-bf11-9a4fffb3127d/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/5fc22ee6-602d-4503-88e8-a968049810c7/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/cc79eac3-fb81-471f-9d3f-9340b33c1ea3/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/34a01482-07bf-48af-86dc-99e52b0565a7/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/dc8053ce-5b3e-42af-8b38-1cee46b0026c/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/79320f71-4fa4-4fb1-92f0-f330c7b89bf1/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/e89b1cd3-ba76-491a-a2fc-2c70cd11736d/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/94578e12-aa69-425b-96cf-5b2d40fef144/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/45a385ba-eae3-4dba-89c7-b254a0212b2b/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/d0ddeb28-855a-47a1-995e-b0ea2f97c97f/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/fa7ded9e-3fc1-47ee-a011-e2d0549acd4e/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/a13f4c07-1c50-4ddd-bf16-440e320a4fd3/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/fa1ef081-f923-4071-8fb5-5fc7e51445cb/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/4b22d634-771e-4061-b012-5a586651255b/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/7f197f64-9e6a-42c7-b93b-0f564639088b/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/d929531a-8336-4c40-8a31-ae19c1d56d68/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/954342b1-4426-4d47-ae95-80c8ee736758/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/d41217eb-afe8-487a-b994-da48c61e3a13/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/58f297c1-535b-45a0-b3ad-0a7bb2c3406e/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/d5b2101d-1359-4110-9fee-73531efae206/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/4342e96d-e27b-4720-9dc3-081d234c6d5b/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/20fbbdb4-eece-4540-8da2-be96dff69eb8/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/03c52811-22f2-425d-b881-c47d5394daff/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/eec76456-a2cc-4f3e-b128-f13279b841b3/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/4dfbd7b3-e803-458d-8130-8d654fcf35aa/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/b4bf6c0d-1a6d-4aac-9b5f-9511014200d0/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/d61de88c-9fb1-4a14-8fe2-67a238b808fd/download",
+        "https://data.taipei/api/dataset/12d9cdc7-89c1-4b61-b2fd-49519dae775d/resource/8eef6a38-3ee8-4b83-a4cc-8f34f9235076/download"
+      ]
+    },
+    {
+      "id": "157493",
+      "name": "臺北市各區調解親屬、繼承案件調查表(111年1至6月)",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/48bf3203-8825-4518-9ff0-613ad8af78d5/resource/57a7478b-a091-4dc1-af02-498607517a6b/download"
+      ]
+    },
+    {
+      "id": "157494",
+      "name": "臺北市調解債權債務案件調查表(109年至110年)",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/9d488ccb-4085-4dc1-9885-22ecbdd63287/resource/c832a835-e5c7-46c0-8e3f-6a7dec44d052/download"
+      ]
+    },
+    {
+      "id": "132914",
+      "name": "臺北市死亡人口數按年齡分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/8b50e741-70e1-4665-8b3b-25ff408a43a2/resource/ec279083-1066-410b-bce4-47c3eb7bfda5/download"
+      ]
+    },
+    {
+      "id": "132931",
+      "name": "臺北市表揚孝行獎名單",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/e64d59c5-71ac-40dc-8a9c-7cb701ac4a2e/resource/09c9bcdc-ef97-44c3-a5a8-48f58a2581a8/download"
+      ]
+    },
+    {
+      "id": "132932",
+      "name": "臺北市忠烈祠管理概況",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/5461f8dd-9c72-4f3f-bcfe-bddc8ebec55b/resource/91c64800-dd5c-4768-9dbd-1829e760e05d/download"
+      ]
+    },
+    {
+      "id": "132936",
+      "name": "臺北市戶籍登記案件及核發證明文件統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/48ec066b-c2c7-4734-8e72-29549adcaf83/resource/97dc956d-02eb-468e-9189-1a704923e832/download",
+        "https://data.taipei/api/dataset/48ec066b-c2c7-4734-8e72-29549adcaf83/resource/ddad140d-1d47-4ece-a6c9-5973d621f1ef/download",
+        "https://data.taipei/api/dataset/48ec066b-c2c7-4734-8e72-29549adcaf83/resource/def0bf97-17a8-49f6-ba1c-b3a119ef5302/download",
+        "https://data.taipei/api/dataset/48ec066b-c2c7-4734-8e72-29549adcaf83/resource/520d73e9-653a-4fbf-b157-7683c8e0352e/download"
+      ]
+    },
+    {
+      "id": "132942",
+      "name": "臺北市各區戶政事務所規費收費一覽表",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/fbc367bd-8591-4bd4-942e-5a1758af02dc/resource/5cd9f0ba-cdfc-4a25-b79e-b4d58604a317/download"
+      ]
+    },
+    {
+      "id": "155472",
+      "name": "臺北市門牌位置數值資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/b7c8e724-1e98-45ee-a0bd-f3840623ed97/resource/ce76ca0c-7f94-4935-ab47-1d2a41ca2abb/download"
+      ]
+    },
+    {
+      "id": "151682",
+      "name": "臺北市集會堂、活動中心資料",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/5ed70753-73a4-4fc1-b78c-df09f7499594/resource/5ae02e14-50fc-4906-86a7-96e0231780e1/download"
+      ]
+    },
+    {
+      "id": "128370",
+      "name": "臺北市各行政區最新月份人口數及戶數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/6a1dbb4e-e99c-4e67-ab09-f6d83852dc99/resource/7074cbd6-24b7-4f12-a198-a063d3449eda/download",
+        "https://data.taipei/api/dataset/6a1dbb4e-e99c-4e67-ab09-f6d83852dc99/resource/42badc95-c6c6-4aae-aa5c-12b6723bd394/download",
+        "https://data.taipei/api/dataset/6a1dbb4e-e99c-4e67-ab09-f6d83852dc99/resource/b243106d-8980-42a4-b803-feb715295946/download",
+        "https://data.taipei/api/dataset/6a1dbb4e-e99c-4e67-ab09-f6d83852dc99/resource/c7c313ee-50e9-4a8f-9cf6-e7955e40c603/download",
+        "https://data.taipei/api/dataset/6a1dbb4e-e99c-4e67-ab09-f6d83852dc99/resource/cdd433fc-2352-4203-b9e1-3df6fb9ea4fe/download",
+        "https://data.taipei/api/dataset/6a1dbb4e-e99c-4e67-ab09-f6d83852dc99/resource/9f2ae48a-a38f-4499-b067-9d05ab1f5049/download",
+        "https://data.taipei/api/dataset/6a1dbb4e-e99c-4e67-ab09-f6d83852dc99/resource/9681db4c-fb1b-4a23-9013-e74483b6b046/download"
+      ]
+    },
+    {
+      "id": "132912",
+      "name": "臺北市原住民人口數按民族別分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/4be3e59f-ad27-4088-93a4-43fba7fbfb22/resource/6b472d8e-05d3-4515-94b1-1f2fe0e07c5d/download",
+        "https://data.taipei/api/dataset/4be3e59f-ad27-4088-93a4-43fba7fbfb22/resource/d5790851-0b92-4638-836b-5fe6cce90160/download",
+        "https://data.taipei/api/dataset/4be3e59f-ad27-4088-93a4-43fba7fbfb22/resource/9892bba3-0555-4822-ae03-c9e98b217b47/download"
+      ]
+    },
+    {
+      "id": "132903",
+      "name": "臺北市結婚人數按原屬國籍（地區）分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1d10ef4a-5026-4938-805c-e8050bf657a0/resource/55dc5a7e-13ce-4055-849d-c0b605534e7a/download",
+        "https://data.taipei/api/dataset/1d10ef4a-5026-4938-805c-e8050bf657a0/resource/e16f8355-2bbb-4902-add1-82cf11d301ad/download",
+        "https://data.taipei/api/dataset/1d10ef4a-5026-4938-805c-e8050bf657a0/resource/cd0195bb-9c13-4820-880c-22383183b553/download"
+      ]
+    }
+  ]
+}

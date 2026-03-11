@@ -1,0 +1,122 @@
+{
+  "type": "dataset",
+  "provider": "臺北市政府工務局公園路燈工程管理處",
+  "slug": "data_taipei_beff25dc",
+  "datasets": [
+    {
+      "id": "128270",
+      "name": "臺北市路燈位置分布圖",
+      "format": "json",
+      "urls": [
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiLight.json",
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiLight.csv"
+      ]
+    },
+    {
+      "id": "128366",
+      "name": "臺北市公園基本資料",
+      "format": "json",
+      "urls": [
+        "https://parks.gov.taipei/parks/api/"
+      ]
+    },
+    {
+      "id": "128272",
+      "name": "臺北市田園城市點位圖資",
+      "format": "json",
+      "urls": [
+        "https://farmcity.taipei/city/api/"
+      ]
+    },
+    {
+      "id": "121683",
+      "name": "臺北市各公園水域安全告示牌及救生設備位置資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/769a0e59-1643-4a84-a647-1bbcb219bd63/download",
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/a45a84b3-7431-40c2-a107-576eb5a25d05/download",
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/ae6fe268-4eed-476e-bd4a-a4f88dce154c/download",
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/8a6f63d1-7096-4703-934d-ee01cff79759/download",
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/91e022e7-0835-47bf-9aee-d8a0bc270e92/download",
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/8eb4562e-2ffa-422b-968d-fc9d0d8f53f7/download",
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/74277b5c-7683-4c7b-b348-136bb1ba5d2e/download",
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/d78791c9-7a8b-4cc9-b64f-acbe70afa012/download",
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/d28b98dc-d708-4bd0-92dd-434df9de1462/download",
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/ddcdb5ce-27fc-45d4-a772-3c817e2f99f7/download",
+        "https://data.taipei/api/dataset/cf0da6f2-4fd2-4fa0-b624-d703833ef2bc/resource/83dfe5b6-5aa5-4d48-9fdc-7927ad9e1e56/download"
+      ]
+    },
+    {
+      "id": "145727",
+      "name": "臺北市路燈迴路開關箱資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/8ba96291-4473-47b0-9d9f-c32652b3dc9b/resource/e2b828d0-0c9b-4cb1-8d08-b398a257c954/download"
+      ]
+    },
+    {
+      "id": "145823",
+      "name": "臺北市防災公園",
+      "format": "json",
+      "urls": [
+        "https://parks.gov.taipei/parks/json/"
+      ]
+    },
+    {
+      "id": "136476",
+      "name": "臺北市公園設施資料",
+      "format": "json",
+      "urls": [
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiParkFacility_Arcade.json",
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiParkFacility_Fitness_Fixed.json",
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiParkFacility_Fitness_Mech.json"
+      ]
+    },
+    {
+      "id": "128274",
+      "name": "臺北市行道樹分布圖",
+      "format": "xml",
+      "urls": [
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiTree.xml",
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiTree.json",
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiTreeHole.csv",
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiTreeHole.xml",
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiTreeHole.json",
+        "https://tppkl.blob.core.windows.net/blobfs/TaipeiTree.csv"
+      ]
+    },
+    {
+      "id": "152266",
+      "name": "臺北市公園無障礙出入口點位",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/5a7258c2-5ded-4149-8664-ae10903fe372/resource/70defec1-fd51-471b-89fa-5c7636150e6a/download"
+      ]
+    },
+    {
+      "id": "145726",
+      "name": "臺北市行道樹公園綠地廣場認養人資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/945309ad-7932-4de3-8a21-9e75f0cb3d51/resource/8ad84be4-9328-4f65-8923-77517afa9e53/download"
+      ]
+    },
+    {
+      "id": "145582",
+      "name": "臺北市貓纜站藝術裝置",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/7d0a799f-8666-4853-86a5-f4ad16bfdde0/resource/016ef0a3-b0b1-4011-b48f-d2525cc1c703/download"
+      ]
+    },
+    {
+      "id": "145728",
+      "name": "臺北市路燈維修資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/0219b559-c9e4-4efe-93f0-9961360bd7bf/resource/83c94967-5c53-4f71-8663-c18f55729168/download",
+        "https://data.taipei/api/dataset/0219b559-c9e4-4efe-93f0-9961360bd7bf/resource/744baade-200a-4cc3-a90d-f2a7edd6695d/download"
+      ]
+    }
+  ]
+}

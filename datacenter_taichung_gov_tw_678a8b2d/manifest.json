@@ -1,0 +1,2497 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府民政局",
+  "slug": "datacenter_taichung_gov_tw_678a8b2d",
+  "datasets": [
+    {
+      "id": "83556",
+      "name": "臺中市各區出生死亡統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2685768e-b0da-4d15-b84c-43f251d852ac",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/879ab3ba-b67d-426e-9a62-5883e5307903",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9338434e-fc3a-4cb2-989f-5d3805d7c0d0"
+      ]
+    },
+    {
+      "id": "88934",
+      "name": "10140-03-21-2 臺中市各區 離婚人數按離婚者男女雙方原屬國籍(地區)分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b3c5d2df-0c37-410e-9108-577e7671a0ab",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac474b5d-be13-499c-9bdb-1c0928fdcbd3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=716597d3-3be5-46f4-b37d-adc938cfa219",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ad2823c9-2109-449b-b908-25783dc7242a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d778f3f6-57eb-416e-8736-b0b8a2cb46fc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=28da7db1-2521-4e77-97ad-bb26589a560d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2e02fb34-2bd2-4a7f-bda9-6fb16337bb97",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=737af98d-912e-4d67-94b3-11f5162312cd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f236f7ea-8213-455a-aa9f-529a025dc709",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=220a4a8f-bc05-4393-9f0c-6efd611c809f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c8f931fe-d236-4f8f-bd4a-19d120b860c3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8c504e41-be9e-4266-a491-701046f840e2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac4eb564-d7e4-4e30-9280-05b21f601658",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=722d89bc-6496-4d60-a7a7-286a3f4f17c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6d47683a-4576-4744-88c8-f1accdf1fb78",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c5c7ab14-fd54-430f-877c-f83698858a85",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cdd38d18-c87b-4334-b564-36b8843c6226",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=549f9276-8f5d-4d20-abcd-9dd1e590cd67"
+      ]
+    },
+    {
+      "id": "88891",
+      "name": "10140-01-04-2 臺中市 結婚對數按男女雙方年齡分(按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=83bddfbe-17c0-4c9e-b7ac-ee50f4a6427a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d3a64543-9f30-4800-bf0e-ca34698ee7ae"
+      ]
+    },
+    {
+      "id": "88894",
+      "name": "10140-01-23-2 臺中市各區 結婚人數按新郎新娘雙方原屬國籍(地區)分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4e10add1-fa99-4206-b91d-c8a484684b6c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f4264bfc-b913-45f1-b14b-ca7fcdc59176",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1f1c4805-839c-4cb8-bedf-033e744c87bb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=13ab2724-d20a-4982-8492-0053af8fdd94",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3e8feaaa-e75c-4be1-9b7b-4f331d3b6493",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6b4fe76-5c95-4bc6-a681-29a573a57965",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=71412d54-9b6f-4d83-8061-87bb08b308b8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4f325761-1333-41fb-9237-97b10203f5b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ae9f395e-f674-4ec2-8fe9-0f7c48e2b9d9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=34558521-a4ee-430e-bfa3-90a89470f721",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cbed3d7c-f534-40d3-b814-9f1017bedbb4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2d84a4b0-9d97-4251-80ff-40baafea699b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5f2a1608-f7a8-4283-8908-fdc2bcc93771",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3de966cf-7d56-4216-82e9-6b712a43a6a2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2f6bb9ca-0323-46a8-8b25-c87bc5c1b45f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d850f47e-c84d-40f6-815e-c1bcc237572d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d2519a49-eb93-4892-9125-dc8da4b0d37e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=915105c2-e08f-4462-b80a-5c20d1898be6"
+      ]
+    },
+    {
+      "id": "93989",
+      "name": "臺中市政府常備兵役役男家屬107年第3季各項扶(慰)助經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b0f0ad6e-f7bf-4652-ae00-44807f5194fe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c582180c-a500-41a5-95cc-816c23f1ca3f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ea1da8e3-16a9-4cc3-83a7-892b74ea9896"
+      ]
+    },
+    {
+      "id": "84437",
+      "name": "臺中市兵役體位區分查詢系統操作行為資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2dc6f48e-372b-478c-bf53-dcbac32af84b"
+      ]
+    },
+    {
+      "id": "84403",
+      "name": "臺中市收費公用廣告欄設置地點一覽表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4cfe8d88-eb4e-43bd-9ab2-f700f34d2163",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/aa5262d8-41ca-477c-9bbd-b088c63e883b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/de546a0c-bc93-4423-9ece-f06c8a113729"
+      ]
+    },
+    {
+      "id": "83674",
+      "name": "臺中市107年替代役申請人數統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2e4234b3-edd4-42e9-98bd-9929e264aa34",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7d9c469c-932f-4d1b-8272-2f79dc182fde",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f1c83b51-16d0-41c9-abc4-289ddc709200"
+      ]
+    },
+    {
+      "id": "84183",
+      "name": "臺中市政府替代役役男家屬106年第2季各項扶(慰)助經費統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/35ebca8c-4278-4780-a7b6-9e020d927a6e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/56271f15-3839-4177-89ad-287d51e398dc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/70f43d63-519b-4dd7-80ae-52f146dee5bb"
+      ]
+    },
+    {
+      "id": "84034",
+      "name": "臺中市各區100年-105年結離婚對數",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6868cc08-297a-4ec2-aa93-590205a91e0f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/be780de8-7d69-4e3b-83d5-87c25d298d63",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fae7a948-6050-4959-b7dd-11598f0ad476"
+      ]
+    },
+    {
+      "id": "104876",
+      "name": "臺中市108年第二季GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5b6bf9db-4d65-4859-b9aa-fac9fe3dae4a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/abc9f53b-d9bd-4f72-9e21-d329745d7346",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f86b9812-e8fe-490d-81b8-3b8fec1575f0"
+      ]
+    },
+    {
+      "id": "105066",
+      "name": "臺中市108年第2季替代役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1a31e5ad-3c3e-4b34-8bd4-4f43deca032d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/76e2c3bf-8067-40c2-9cd5-6ac24931b8c6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d3287563-2383-4da6-ae8d-77fbef93b7e3"
+      ]
+    },
+    {
+      "id": "111461",
+      "name": "臺中市108年第三季GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/96573539-7652-4fbf-876e-bc0999da606c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a4834f64-153e-4f6a-bf23-7b8907ea5735",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f9e39c52-ae93-41f3-870c-8d91da383013"
+      ]
+    },
+    {
+      "id": "122525",
+      "name": "臺中市第四屆直轄市里長名冊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1892ad4a-404f-494f-bb38-36453efbc676",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4e1dfab7-27a5-48c7-afe5-98ed642a494c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a854220c-5281-4c51-9f43-dbd51a4724e3"
+      ]
+    },
+    {
+      "id": "122463",
+      "name": "臺中市109年4月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5f9ebe63-f929-4c5b-b3ce-6765237fbc4f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7e06945a-df15-4680-afa6-03dedd2c06fc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8b461305-c36e-484b-b44a-53495a166314"
+      ]
+    },
+    {
+      "id": "120279",
+      "name": "臺中市109年3月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/490bb2c4-8d59-4878-bb40-64d2823192e0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b6687911-c447-4496-b31b-e8cd7d3523b2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/defedf90-5ced-40e3-a152-26476280c791"
+      ]
+    },
+    {
+      "id": "120967",
+      "name": "臺中市101年GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/441ae3b8-50cf-4a0e-8b3e-99ed2f565692",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/be64b2dd-4692-4d83-951d-5e5f68f0ee54",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c9f96a94-7315-467a-825f-236cd6c9e144"
+      ]
+    },
+    {
+      "id": "120968",
+      "name": "臺中市102年GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5ec18080-fa80-4e6c-890d-199124e3bd83",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7a1352c0-746e-4208-8fba-91aa8aaf29f0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d1e08284-ce49-4add-8256-4939b6b73254"
+      ]
+    },
+    {
+      "id": "127310",
+      "name": "臺中市109年5月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5a72f108-309c-4f51-9696-7b5472dfdb8c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9805abcc-9261-404d-bacd-1109857d4fe7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f752ae5b-9126-45fb-8a65-9001469dec1c"
+      ]
+    },
+    {
+      "id": "127734",
+      "name": "臺中市109年第2季常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3e9f9520-8094-4277-afcd-14ea26024dea",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/848893aa-0f93-4d00-87a9-90db14e2cf5c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/90570afc-2a03-490e-9a85-ddedffa9b0c2"
+      ]
+    },
+    {
+      "id": "127814",
+      "name": "10140-03-02-2 臺中市各區 離婚對數按男方年齡及女方原屬國籍(地區)與年齡分(按發生日期）",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18cd3b39-34ec-4a09-9f6b-e346e61698ba"
+      ]
+    },
+    {
+      "id": "84902",
+      "name": "臺中市政府替代役役男家屬107年第1季各項扶(慰)助經費統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/800f4240-3229-4489-9bfd-f018271b8e55",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b415733b-7981-42e9-b183-8a5679f2132a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2c76ae8-d3fa-4383-b454-cfaed543d848"
+      ]
+    },
+    {
+      "id": "84957",
+      "name": "臺中市各區戶籍登記統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/53ca346b-f1e3-48f8-b9e2-334f9347aa36"
+      ]
+    },
+    {
+      "id": "107824",
+      "name": "臺中市107年第一季GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6b743c27-c1a0-4d12-b80d-9aff2218bc69",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a2fccec0-7b5e-4597-af24-8aac17caec12",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ffdbda52-58c7-4b6f-b1a4-c4a4589531cc"
+      ]
+    },
+    {
+      "id": "109752",
+      "name": "臺中市108年第3季替代役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4354486e-2a9c-4168-a395-c34ef0e80b15",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/607013af-d187-4589-964c-a2d1c99ab787",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d63664c4-6f0f-4e33-abd4-409be88c429a"
+      ]
+    },
+    {
+      "id": "101039",
+      "name": "臺中市政府替代役役男家屬108年第1季各項扶(慰)助經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1f18c4b7-7c20-45a5-8c14-017e40892db7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7e132091-de25-4dec-99c9-5f0e74a67c54",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a8802763-4569-4f38-92e4-be2c26dff1ef"
+      ]
+    },
+    {
+      "id": "84875",
+      "name": "臺中各行政區人口數及戶數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9b7816c3-d2d0-48f7-89d7-88d2667ab8bf"
+      ]
+    },
+    {
+      "id": "83676",
+      "name": "臺中市常備兵役役男家屬105年安家費暨三節生活扶助金統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/50a2cca5-320e-41f9-b624-a8f52be0aa13",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7a40452a-d255-450c-bd92-dc3b10307313",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c05dc8bf-cceb-4aa4-9e46-e880e9b705b3"
+      ]
+    },
+    {
+      "id": "83677",
+      "name": "臺中市各役政單位地址及連絡電話一覽表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/07301ad9-5632-4d7b-bf50-4172821b1592",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/43b4ce0b-0837-4885-9661-28b40558c7f8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a2ed7fc8-4191-4b93-8074-df42cea2224e"
+      ]
+    },
+    {
+      "id": "84199",
+      "name": "臺中市常備兵役男家屬105年安家費暨三節生活扶助金統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/038d513d-06b8-481c-b87a-8ebe8a2682fa",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/37cd5985-8ab3-4db2-a5bd-a9129c9375ca",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6df569e3-ec3d-43fd-bca8-3ea3888c2dc5"
+      ]
+    },
+    {
+      "id": "84202",
+      "name": "臺中市政府替代役役男家屬105年各項扶(慰)助經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c4eca40-e518-4833-acf1-2cdf4876e066",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/600f6306-5a13-4c31-bf4a-e3a193aeb97e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6353e6e9-03ca-46e1-b9ab-7dd5bf0133cc"
+      ]
+    },
+    {
+      "id": "83785",
+      "name": "臺中市未禁葬公墓一覽表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=871dc4b1-4b0e-4aa3-ada4-862e597f5e09"
+      ]
+    },
+    {
+      "id": "83982",
+      "name": "臺中市百年人瑞人口數",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/01be2c30-26b2-4d68-85ec-ae76c54b9e7e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/04ae5c0a-4e9a-4dcc-9223-ac8cfa936b32"
+      ]
+    },
+    {
+      "id": "83915",
+      "name": "臺中市104年10-12月役男抽籤人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a1de5ff7-c466-4629-a880-b45997596aba",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a533d39d-56f0-40e6-8327-44b3cd0ec16a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e733b7b9-5394-4739-a23a-3a37f161e74e"
+      ]
+    },
+    {
+      "id": "87045",
+      "name": "臺中市政府常備兵役男家屬104年各項扶(慰)助經費統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4511889c-0946-43cb-acf0-5eb7d90e0e68",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b62f13cd-948e-491c-80fd-996742e05bcf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f0acf16f-277d-4bf2-a3b5-0739adabc8ba"
+      ]
+    },
+    {
+      "id": "103045",
+      "name": "臺中市各區單一年齡人口數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e4fed8da-d0a8-4fcb-95f5-6b6f86e5f8dc"
+      ]
+    },
+    {
+      "id": "103653",
+      "name": "10720-06-02-2 臺中市常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=05830a44-1e10-430c-988f-fbd07d942231",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5f027464-0917-49a4-adee-d5ab383bc59d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f0f28dd0-eafc-4a54-9288-cd6af63922f4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a84639b9-ed20-4e25-a56a-0c57d334d3f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ccda457-d3f0-4726-b94d-f1defda0b142",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4bdaf765-6baa-405a-98e8-24e1c573bf30",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=33f3c6ef-a9b9-4f03-8e78-fe12b25da8b5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6cc25948-1984-4c83-bcfe-271670dc49e1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=467bf7a7-e5cc-4377-8583-94c2138a7671",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9f61cd55-889e-4207-9887-669566f69878",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=47dc6c8f-f511-4dea-8257-7c09cfa164b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3c686ebb-44e2-404c-a097-1abf78778c78",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4f5645e-3744-45f5-b1f9-7108bf7b42c5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b3742cce-e4e0-468b-b222-10d65bff2b22",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c8d2ec34-a83a-45e0-b961-a15c98598187",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8a2945f0-8507-4edd-a917-76ae941b9818",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1e176b37-a8fb-410b-9155-30ca192d3586",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b7696e9-3691-42ee-8ae4-3bac13662db9"
+      ]
+    },
+    {
+      "id": "103705",
+      "name": "臺中市107年第三季GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3b4c92e4-2e04-46fd-a906-056eb74279c6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b4cca63f-2dfc-4f02-bf27-ed6b19696493",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d918d353-12e6-4e6e-ae30-56597acf6f4b"
+      ]
+    },
+    {
+      "id": "103708",
+      "name": "臺中市107年第二季GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1264f02f-0fec-4048-a4e1-1110430df3b6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/45f2ab76-a718-48de-9739-6e1bda4f698f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6b3efae4-65d2-416d-ae42-f7e9eb5f378f"
+      ]
+    },
+    {
+      "id": "103768",
+      "name": "臺中市106年第二季GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/908ab84b-32ad-4a0d-864e-7afec98bed27",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cfe2939c-c1ee-4e2f-bdad-082cf24e5cc6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fdddef89-e581-4658-a6c6-08a09ffae2b8"
+      ]
+    },
+    {
+      "id": "115995",
+      "name": "30294-04-05-2 臺中市火化場設施概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6de8c9f2-84c0-43f3-a433-264db671ed0c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=982e3604-735b-41d4-948f-7c8c28908665",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f4daf92e-dcbe-4a70-bdf9-217eef1a4f46",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ea4390c8-8ecc-4233-bdf9-10312d827abb"
+      ]
+    },
+    {
+      "id": "116080",
+      "name": "10131-01-01-2 臺中市各區 嬰兒出生數按生母年齡分(按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bbd2f3cf-ddc6-44a1-b5a1-75082733cf18",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c80af249-4dcc-4781-bfa9-06caa2cff72f"
+      ]
+    },
+    {
+      "id": "116086",
+      "name": "10140-03-01-2 臺中市各區 離婚人數按離婚者性別及年齡分 (按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c46cc29b-d7b1-4f53-8319-fc68dc0bcf27"
+      ]
+    },
+    {
+      "id": "116087",
+      "name": "10140-03-03-2 臺中市各區 離婚對數按男方教育程度及女方原屬國籍(地區)與教育程度分(按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=22f4c41b-1988-4345-bfb5-37c344521a19"
+      ]
+    },
+    {
+      "id": "116089",
+      "name": "10140-03-08-2 臺中市各區 離婚人數按離婚者性別及年齡分 (按登記日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f5b2db9e-69f6-4cb8-aa1b-5d87fd8fdc4a"
+      ]
+    },
+    {
+      "id": "116091",
+      "name": "10490-90-02-2 臺中市各區 戶長按性別、年齡及教育程度分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=689fa6a2-d19c-435b-8982-4427fd728259",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c41be2d1-9028-41b6-83bb-6f455f19a183",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e60316bb-c842-4ba0-bee4-841e485416bf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8870025c-8df4-4deb-be9b-0a0eb017a2b8"
+      ]
+    },
+    {
+      "id": "121046",
+      "name": "臺中市93年GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/438fd40a-8257-45c6-bf3a-90e79388438c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/469b402b-fede-4561-9415-88bbda0f5e27",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/be40e64e-f287-46cd-befc-c25e46962556"
+      ]
+    },
+    {
+      "id": "126993",
+      "name": "臺中市99年GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5ecf393d-95cf-48e1-9a8f-d7ff1eee95b7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7f2a2ad2-90ec-4bbf-8eb7-447e21172965",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bd7546c3-92c6-4874-b253-59231370fd5e"
+      ]
+    },
+    {
+      "id": "127262",
+      "name": "11260-90-02-2 臺中市重大災害財物損失統計報表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd3b01b4-b085-46dd-870c-0cc194f9821a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=214a28f8-bfaf-492b-a116-f91500ccbaad",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fcb13e94-1129-4652-b604-d9214005d9c2"
+      ]
+    },
+    {
+      "id": "128986",
+      "name": "臺中市109年6月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9c3c624a-724a-41d0-9220-857becd1ff76",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eab0a5eb-2afc-423b-ac75-491cae16e14e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ead35245-9f9c-4b07-899f-f9b4b58232c3"
+      ]
+    },
+    {
+      "id": "130482",
+      "name": "臺中市109年第3季替代役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3710d998-d8a4-4cfc-a41b-34c71a073e38",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6c8d0172-d8d0-4f15-8db9-239e42e4503f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fe721146-faae-4c84-88b8-6f83ad9e8099"
+      ]
+    },
+    {
+      "id": "138938",
+      "name": "臺中市110年第1季替代役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5ed82f6c-37c8-4e45-83ae-3d8859910bdb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/afdac88e-95cf-4f54-8130-84d70225232a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b4645676-5143-4180-b5c8-d09a160ab7d5"
+      ]
+    },
+    {
+      "id": "138939",
+      "name": "臺中市110年第1季常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5314c5e7-ad8b-4857-9fed-e84268de9c28",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/80dc6fe0-3a1b-4614-8d29-0dc996b3a9c8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8ee6fe6f-a451-4c78-aba0-9be075ef0015"
+      ]
+    },
+    {
+      "id": "142863",
+      "name": "110年第2季臺中市常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/997d7dfb-3d93-437c-bb57-8e5dd027cb79",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a71bed83-2c35-46fb-afa6-0982f452a6f8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d181aede-10f0-43b6-bda9-dcac25895276"
+      ]
+    },
+    {
+      "id": "143302",
+      "name": "臺中市行政區域圖(改制前臺中市行政區域圖)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5b1f269b-be80-4da0-be36-c2736c1310e6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c576b47f-d3ac-419e-9653-2f95b076b6c2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ec9ab26c-f348-4599-9dc9-e2a1a1987e02"
+      ]
+    },
+    {
+      "id": "143265",
+      "name": "臺中市110年6月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/41eeff93-6c76-4f7a-85a7-05fd362810e3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/73f09891-9d3d-4c19-87eb-79cadb6c7e9e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d0437e3e-29bd-49ad-a715-90ea0060ebee"
+      ]
+    },
+    {
+      "id": "157733",
+      "name": "臺中市111年6月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/74fe42b8-2990-45b2-abca-4b7a617cf61a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/77f656ee-658f-4f9c-8f55-4f448ce16cc5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c6810a3e-8bd0-4229-88db-f7c92e66685c"
+      ]
+    },
+    {
+      "id": "157734",
+      "name": "臺中市111年7月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1750fed9-d0d6-4e80-9816-238327178191",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/69d7272e-7322-424d-abd4-85f213d072ba",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ca4a2ab6-2e33-4032-9fe5-e15e4a2024c2"
+      ]
+    },
+    {
+      "id": "146599",
+      "name": "110年第3季臺中市常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5969f546-f54c-4c9e-af7c-58900fc0a4fc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/954e956a-36c2-4b19-b3e1-cad100231d13",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eddab683-b459-4d87-a898-8211acb54f2a"
+      ]
+    },
+    {
+      "id": "147067",
+      "name": "臺中市歷年樹葬申請數量",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8fa742e2-b09f-4806-a776-7ee4f67b8c6a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b5ad63d2-7b6f-4467-8862-28a3f9b9e8fc"
+      ]
+    },
+    {
+      "id": "144712",
+      "name": "臺中市91年GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/30297661-142d-47cf-9561-4507d592ad27",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/73164ab2-4f44-4e1a-a817-9e77279fc356",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7514f907-e05b-4cb8-b382-ec5b0619baf9"
+      ]
+    },
+    {
+      "id": "144713",
+      "name": "臺中市92年GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/81e7caa3-2846-4bf6-84da-f7f6af71c364",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a7ae2035-1262-4e22-86f2-95345b920d07",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c829efe0-4c6c-47e6-9e68-faa825dc8012"
+      ]
+    },
+    {
+      "id": "144719",
+      "name": "臺中市110年8月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/084d8631-11e9-4ec0-a8a5-42ad756d8a4b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8f00d2ff-e949-443b-bd75-4c3beb170a12",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bfc7ba67-66c9-4af8-a1f0-8a5b7c8f0907"
+      ]
+    },
+    {
+      "id": "152685",
+      "name": "臺中市111年4月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/64fa2c13-8b20-4bf8-9c5e-dbe6ae43a373",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ebec2991-7d4b-4be9-bbf4-b878b87aa20d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ec4a08f3-674c-4f76-8f8b-f857499f07ab"
+      ]
+    },
+    {
+      "id": "157990",
+      "name": "臺中市111年8月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3291ef4b-b293-4ed1-b345-53e2e834b3d4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/67c9e7e7-8c8c-437b-afc1-9e87fa44764a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cbd6912c-36fe-433d-97d2-d24274faeb80"
+      ]
+    },
+    {
+      "id": "162045",
+      "name": "112年第1季臺中市常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/701f4ca7-5fd0-4f51-8d94-9f3531dd21cb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/72e976e3-7ec5-42bc-9943-e5450c4d61ba",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c81ed5e2-9cf2-4754-be4a-9fdec9b3a47b"
+      ]
+    },
+    {
+      "id": "162046",
+      "name": "臺中市112年2月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2f63e58c-d8f1-4d1b-87da-4807c7709a14",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8ecdbb86-994e-4209-bf0c-efe944e70ee8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8fa5a822-ded1-43b8-b138-ca514e415e51"
+      ]
+    },
+    {
+      "id": "160492",
+      "name": "111年第4季臺中市常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/30a65071-1066-40be-9ff8-906057fb7658",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/de4639e2-9a78-4510-a497-38c09eaa8f25",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e929a68c-cf90-41a4-9afb-c96305ae1f07"
+      ]
+    },
+    {
+      "id": "160946",
+      "name": "臺中市112年1月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2bc2f805-0295-45f5-b1f2-d3e3c0d6ae94",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e267543a-9589-4e2e-bdf8-b4172f234c66",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f953da99-396d-406b-b599-e8b933b7a779"
+      ]
+    },
+    {
+      "id": "161313",
+      "name": "臺中市祭祀公業法人一覽表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0ac95fe4-3d54-48fb-a909-4c0ec2d1fd5a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9da1bb46-20dc-48a3-895c-b1d60c99d785",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c0784622-8012-4032-b54a-a9607918213e"
+      ]
+    },
+    {
+      "id": "146376",
+      "name": "臺中市112年GIS門牌號碼(各月份版本)",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f8811b57-27bb-4def-9f04-2814d93721e2"
+      ]
+    },
+    {
+      "id": "152105",
+      "name": "臺中市111年3月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5d580a34-64fd-4add-970e-7d129a4b009f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9ae03473-234c-4e3b-a237-68e50a8b3c73",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c8edf937-0a01-4e5c-ba33-270bad07d0fd"
+      ]
+    },
+    {
+      "id": "136316",
+      "name": "臺中市109年12月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1bfa1080-a713-480d-8c3d-c24ecabe78ab",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d7c1defc-8793-4d7b-af28-b2546e0cc3d7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eeca2538-1d6e-4c5c-93de-f5e3b89f6681"
+      ]
+    },
+    {
+      "id": "135266",
+      "name": "臺中市109年第4季臺中市常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/10a87f7d-0983-4671-a9ca-52b71e1c0a40",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2c3de6a1-3df1-41c9-9393-3f924a62d901",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/daba754e-5a20-4e44-843a-9887741952dc"
+      ]
+    },
+    {
+      "id": "149134",
+      "name": "110年第4季臺中市常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/97a37009-6ae7-4518-8b52-4f61fd89c4b0"
+      ]
+    },
+    {
+      "id": "139302",
+      "name": "臺中市110年3月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1bd8b1ca-8405-4b61-acf0-ff04ed03ad24",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/381482c2-b283-4116-ac40-4935b9217257",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ffdd605c-a5b3-4262-8e6d-d50d6ca428e0"
+      ]
+    },
+    {
+      "id": "139936",
+      "name": "臺中市110年5月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1b2cfe8c-b21a-4a36-9d62-86da5776f244",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/26a1a741-082a-479c-aa3b-6b2f231b7c33",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/946a3253-c75c-4c7c-a75c-4dd944c0c757"
+      ]
+    },
+    {
+      "id": "156187",
+      "name": "臺中市111年第2季常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b5c1fc94-df0b-414d-9d78-9533a70d9c67",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c01f5c92-f3bb-482c-8655-1e2b23416328",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e10357b3-0578-478b-aaa0-a6b22873e6df"
+      ]
+    },
+    {
+      "id": "156188",
+      "name": "臺中市111年第2季替代役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7ec017f9-1d70-46fe-8651-21a1d1904dc2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bcaaae79-daba-4857-9525-4d027729f738",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dcaac813-79d0-4865-908d-bfbd8510d8de"
+      ]
+    },
+    {
+      "id": "156189",
+      "name": "臺中市111年第1季替代役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8841e89b-f4ba-4ada-8d25-2e68a9e99e07",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b55ee389-2e0d-47a9-ab90-fdc06c99eb5d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ce454b58-f158-43a3-82d6-a7033e4bd810"
+      ]
+    },
+    {
+      "id": "156190",
+      "name": "臺中市111年第1季常備役役男家屬各項扶(慰)助經費統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/42032c34-964f-4aed-bf09-061bf4acd0a3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/50311059-c336-4072-8aa8-920f22552799",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eb05c9cb-2915-495a-813d-f89c6b02a7e6"
+      ]
+    },
+    {
+      "id": "165255",
+      "name": "臺中市各區各里簡易疏散避難地圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8f6a4140-ba48-47c2-b8b5-d773f8161c53"
+      ]
+    },
+    {
+      "id": "165973",
+      "name": "臺中市112年5月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3ebd7f23-a47e-42cc-bbde-7a089a8b29a1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/69916be2-85db-4727-822f-bf413f9b2500",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7e2d3e65-2c17-44eb-aff1-d73ce4e01cce"
+      ]
+    },
+    {
+      "id": "165974",
+      "name": "臺中市111年10月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/20000633-90b2-49ac-ab9d-2124fb64624e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/da8bf182-c057-4130-8bf4-af927cc570f3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ed6e5497-2e20-4da6-a814-f1ab59cfdb82"
+      ]
+    },
+    {
+      "id": "165975",
+      "name": "臺中市112年4月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/16e1d7b4-8e74-4c5f-8d82-cdbe4ceba42f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7be19e5d-1c39-4b73-89a1-803c66e94575",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ea3d0a9a-a927-47a3-83b1-1c3b413e7183"
+      ]
+    },
+    {
+      "id": "168958",
+      "name": "臺中市112年9月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/028cac0e-b432-41ef-bb54-a818bd96e0b0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5bc59a3a-1b2d-4bdf-aac6-84a9659d339f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f770a716-5fcd-4009-819d-e9d54289ccc5"
+      ]
+    },
+    {
+      "id": "168959",
+      "name": "臺中市112年8月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/72947467-1023-4892-bee7-b12a398eb0c7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/820cc7fb-360b-489c-8457-7650ee70ec27",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e0846d97-4579-40b7-98ae-fd2ba5f641a5"
+      ]
+    },
+    {
+      "id": "168960",
+      "name": "臺中市112年12月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/44735f04-50af-49dc-bc29-d2b140e84b2c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6e1ba1e5-6a8a-4a91-b108-7cdacb1dfc06",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b99545bd-9593-4f6d-a95c-9d766dc52fef"
+      ]
+    },
+    {
+      "id": "168961",
+      "name": "臺中市112年11月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/571d8a15-ecb0-4592-b3df-8e7657e1d9e3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c29df8b8-299f-4887-868d-e1ac4578513a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dc8c0bbc-02bd-4a78-b588-9af6bf8b4107"
+      ]
+    },
+    {
+      "id": "168962",
+      "name": "臺中市112年10月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/96144db2-d118-4774-bb31-085d3c00fe47",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b971c572-80a6-4be0-81de-2f3680932898",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e7b389f5-5375-484d-9421-8ed1f8c5b41b"
+      ]
+    },
+    {
+      "id": "172808",
+      "name": "臺中市114年GIS門牌號碼各月份版本",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4c5e7358-2eac-48a5-8018-0be3c03d08dd"
+      ]
+    },
+    {
+      "id": "173413",
+      "name": "臺中市111年1月至12月各月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0fb76c29-0d44-4930-ab42-29f7ba4aed5f"
+      ]
+    },
+    {
+      "id": "84438",
+      "name": "臺中市兵役體位區分查詢系統使用軌跡資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7d8c20a7-e678-4ef8-b165-5d9808758a7a"
+      ]
+    },
+    {
+      "id": "84439",
+      "name": "臺中市政府常備兵役男家屬106年第4季各項扶(慰)助經費統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6312aa91-8d6d-43b9-9c27-c83cc431de5b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9b50517d-5594-48d1-a23a-9f3f69fb93fc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e15708d1-37a2-43e8-9804-7ac586eec169"
+      ]
+    },
+    {
+      "id": "84440",
+      "name": "臺中市政府替代役役男家屬106年第4季各項扶(慰)助經費統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3fbf1591-7089-4a88-8e03-737bf3f09dff",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5873a5cd-3705-4ae8-b989-b5c5535da678",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8a36040c-e2bb-46b3-9f98-89eb9af8680f"
+      ]
+    },
+    {
+      "id": "85020",
+      "name": "臺中市殯葬禮儀服務業合法業者名冊",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=612c99ef-355a-4902-b1f7-06586b257597",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=372c921f-a0c8-4239-bc5b-a9d01bb21073",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=506347c6-17c2-4469-bf7b-7b354ae73170"
+      ]
+    },
+    {
+      "id": "84986",
+      "name": "臺中市替代役役男家屬106年1-12月安家費暨三節生活扶助金統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/82997070-d358-40a4-84a7-d14eff0994fb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c348c8eb-e62b-492d-a7ee-8d96d881dc28",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cc943e75-3853-49a9-b544-0b6d3dfe4a97"
+      ]
+    },
+    {
+      "id": "84999",
+      "name": "臺中市各區里活動中心基本資料一覽表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/66cc5a66-48c9-4173-84f8-64e7c8fc2ad6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6ad6fe1c-2163-4228-bb00-e329789cba3c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7d0c4c4e-d639-494e-88f6-3ef1c36dfc75"
+      ]
+    },
+    {
+      "id": "87043",
+      "name": "臺中市政府替代役役男家屬107年第2季各項扶(慰)助經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/066d86b4-6ea0-4b2d-b954-3fa67f353aeb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3fc80e83-28ea-4ffb-928e-4e371d798859",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ff0aaf87-ef3e-4be2-bdab-0de209213803"
+      ]
+    },
+    {
+      "id": "83784",
+      "name": "臺中市宗教名冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/60fe0c08-22c6-44ec-b62d-402439a9a58d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ab0097e8-ae2c-4df2-b724-59a20cfd784a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f2aea661-4ce1-478c-ae5a-e80a290d4427"
+      ]
+    },
+    {
+      "id": "84039",
+      "name": "臺中市里界圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/414235ed-0f46-424c-800a-f75513ceeac5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4852bf7a-04bc-4221-9e31-ee56e3ee888a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/52865fef-c2ea-42d8-8c99-5d34bf167e09"
+      ]
+    },
+    {
+      "id": "84051",
+      "name": "臺中市各區原住民身分別族別統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3a6deb3a-cb9e-4247-960e-ccce80fca0a7"
+      ]
+    },
+    {
+      "id": "84052",
+      "name": "臺中市各區遷入遷出統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/71bf0500-6fec-401a-84b9-08f97b08bbdd"
+      ]
+    },
+    {
+      "id": "84055",
+      "name": "臺中市各區15歲以上人口教育程度",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d92e7b80-2106-4aa6-ae6e-d73857f9a3a6"
+      ]
+    },
+    {
+      "id": "83916",
+      "name": "臺中市104年10-12月役男驗退停訓處理人數統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4bfa08bd-557b-4434-ada6-984122219195",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5a4051d3-3cfa-4f83-939b-4829ce81ea6a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/86aa7292-7690-471a-9ac0-3da2d69458d5"
+      ]
+    },
+    {
+      "id": "84181",
+      "name": "臺中市106年1-9月役男抽籤人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5ab6a679-ed2d-4aa6-a896-87e4f63b7748"
+      ]
+    },
+    {
+      "id": "88368",
+      "name": "臺中市政府常備兵役役男家屬107年第2季各項扶(慰)助經費統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/12939790-7aa1-4520-802d-7a15f6c2466f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/424b6793-fe5a-4b51-8e3c-69ce920a2412",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5de2e943-ccf5-4fff-88ff-9c24cfbd60a1"
+      ]
+    },
+    {
+      "id": "88977",
+      "name": "10122-00-08-2 臺中市各區 十五歲以上現住原住民人口數按性別、年齡、原住民身分及教育程度分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6d01ba6f-79f9-4315-a65c-2fd91dc02ec9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dc02b836-c5d7-4d0f-a94b-81a929efcbd6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=596d1115-85b0-4743-b140-6c53ff79d079",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fa0f638c-7cf0-4be8-8cf4-c4ee97c631de",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e7e6fff4-a271-4d4e-a0eb-f9ad7439e6df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9da54e48-678e-4621-8955-649ae0e925cd"
+      ]
+    },
+    {
+      "id": "88963",
+      "name": "10720-06-04-2 臺中市替代役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e54d32e-45e8-409d-9d3c-db800da61856",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c80ac6e5-2709-417a-bd1d-1653c8a4c51a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=716225b9-4b93-438b-be06-1a0c32e9687a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2fa84f93-23cb-48fd-b9ef-495551d9dbf7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=78a119dd-5259-4230-a85e-0c87f3c5c34d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=59d1f28d-98c0-49c5-98ce-be482c950d86",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5ca408c3-d30f-4551-a8ac-aae7cfd60a3e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b19dc7bc-49fe-4a12-96d4-61317ecd52a7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab94f1e0-b982-4aef-a7b9-cf8b25b3c072",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1d52a5bd-1e6a-4898-a227-69658892781c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c8ff5d10-ce83-4534-b577-6d6365d41491",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=412c4a5b-5910-42d1-a44e-aa5c60352c13",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab725795-bf2c-43a6-999a-44fb34742920",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=555fa6fe-991c-433a-bdda-54c720fbc28e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=299d986f-fd8c-40e0-88cc-3222f2602789",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8285c5ca-5315-4945-b2f9-25ef74bd716e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c0c4025a-b0bf-4703-80c1-aaf8b57c1b7b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8ff0aae0-5e09-4fb5-847f-e2dfdfcf6f31"
+      ]
+    },
+    {
+      "id": "88808",
+      "name": "10122-00-07-2 臺中市各區 現住原住民人口數按性別、原住民身分及族別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=165b4428-6315-408c-8d58-a32e41910bdd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c20fcda5-a8c7-4163-a3af-81661826c263",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f2f4e747-5ada-4fd3-b7bf-fabd101b4115",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bfa189ea-6c79-4db1-a9e9-0066c0b9d89a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f31300e1-a7e6-4e93-b9f9-1574ad08a9c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=70426275-6380-44e5-abed-d58920d4b29e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8db3b6a1-a39a-43ea-afdb-b076a3cc018c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bfc632b8-787a-4e8f-8e62-7133ceab781e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=43efd259-50f9-4263-ace2-d4a938b6ea53",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=81785644-ce77-4b58-ad09-dae4c3898d3e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cfaed6ce-5bc4-48fa-99a7-1401e7c57eee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e54ac3fa-5cdd-44e0-b2be-4060d0db4da5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=36cd64e0-e68c-4b31-a2eb-433a6cbdfeff",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=decb530c-cbda-4a0d-ac58-e9ca6bed4365",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e24115ac-9c3d-4cce-87c0-7c93b5300c7f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=285fadb7-6852-4029-b3ee-89767be86a63",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fcdc61dc-4cb2-457d-90d6-ca5e393bdb8c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6413530-308e-4a34-8e6a-5d5878461dc2"
+      ]
+    },
+    {
+      "id": "88809",
+      "name": "10720-06-01-2 臺中市在營軍人家屬安家費及三節生活扶助金統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=90d1a8f4-fa9b-42e7-9eb0-4a38d8ac787b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dd36b1bf-c3cb-4482-adb4-169dd2f386fa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6d370ff6-127b-4d07-9de3-9ce2817967f0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4d1100cf-817e-40a8-8b2c-c8b0bd11df9a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=71747a6b-f589-4216-8d92-c797918f3217"
+      ]
+    },
+    {
+      "id": "114526",
+      "name": "30294-03-01-2 臺中市殯葬服務業概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6da0929b-4f50-4742-b65c-ba35b92fcaf7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1391d487-7342-4c9b-90e3-b950b1086e95",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=76531e94-3d67-4bd4-ab5d-d11dcf834dad",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0d43232c-f13a-4342-8bd7-81c5301d2918",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9af7e4b2-50e6-4ebf-a29e-665112e1fe04",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=28c9efc4-51ee-4df0-89f1-59c010ab77c2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c4e55894-75d6-44f1-b96d-d1f7e5b0a3b0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cfbdacf9-7639-4dbe-8e36-1d27a8759e10"
+      ]
+    },
+    {
+      "id": "103726",
+      "name": "臺中市行政區域圖(改制前臺中縣行政區域圖)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3584027a-6388-44ca-819f-af40c1df801e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8c625d91-122c-4400-864c-a0a510584ccd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e5b668d3-8a84-4371-b6b1-1629ec404f25"
+      ]
+    },
+    {
+      "id": "103767",
+      "name": "臺中市106年第一季GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6187b1d1-d0f7-49bf-8a1c-809a2ff459ab",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a89f4075-7510-4975-be91-edca2f7a38c4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/de766f8c-a84d-40e7-9908-c6970ce12b93"
+      ]
+    },
+    {
+      "id": "103703",
+      "name": "10122-00-01-2 臺中市各區 戶數、人口數按戶別及性別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e2ec75c8-2866-4332-b5d5-a048bbb231d3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c64d12df-abe6-4eb0-98a9-fce0e3708f3a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5326ea90-907f-493d-bcb7-7016bbc30075",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b6fe911-d484-4991-b583-369d0b934da7"
+      ]
+    },
+    {
+      "id": "95633",
+      "name": "臺中市107年1-10月役男申請複檢案件統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8826af4e-c7f7-4b7c-9e34-b7d215e383bc"
+      ]
+    },
+    {
+      "id": "97896",
+      "name": "市政府常備兵役役男家屬107年第4季各項扶(慰)助經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/683f2144-8415-4d68-9d2f-e78aaf1b84c1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ae5a3bbe-b814-4723-8ef9-86adc2367cf4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b74c75ba-ee3f-4adf-b18d-457af2380788"
+      ]
+    },
+    {
+      "id": "104208",
+      "name": "臺中市107年第四季GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/04b0005c-260f-4735-b267-652ce1cd4f83",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/795e8988-4317-47e4-a7c4-b0b569303048",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/85ec631b-bc3d-40f0-82a2-d33709041dcb"
+      ]
+    },
+    {
+      "id": "104209",
+      "name": "臺中市108年第一季GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0c621a4a-42bf-4f3d-ab71-f97ddcfcccdc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/39ea6b41-7ed6-45df-ac29-2107f4dae689",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f54c8f42-c8d4-442e-8bbd-10d5108ab636"
+      ]
+    },
+    {
+      "id": "106746",
+      "name": "臺中市108年替代役申請人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d3531cdc-ec2a-4d02-ac3c-805c7ad5a907"
+      ]
+    },
+    {
+      "id": "108287",
+      "name": "臺中市區公所",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5e170db2-7b17-4e02-bad1-17d893b8c0c5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7d5f13aa-9a66-4948-9890-1ca45e2f7051",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d11b03f3-24d6-4e79-8fcf-0beff196d19a"
+      ]
+    },
+    {
+      "id": "127299",
+      "name": "30294-04-03-2 臺中市殯葬管理業務概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f06a6cf7-52df-4391-a18d-8c36d1943804",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aa4e1ab4-1ed7-481c-ba03-bd6d350b39c6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bce8b44e-2d70-4415-887b-856023cc0139",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fd8c8a9d-be52-4805-8aff-93e5527c5e1f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c08df9b9-2a93-407a-9e28-db4997210c8e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b925c9af-4d40-496e-9a00-23398e307326"
+      ]
+    },
+    {
+      "id": "127300",
+      "name": "30294-04-01-2 臺中市公墓設施概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=04644d43-2556-44f5-a803-b74d24489c9e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=75daba6e-8a3e-4c35-a8ef-9968fc866e7a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a5f7eee1-7b43-4e6f-b2b4-ce86589e1e31",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14aa9795-ec99-4d0f-8b99-21cae71cf171",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=39b32038-0e07-4077-b6af-809e32a921d5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=da5ff145-849c-421e-840d-25bde44f4a85",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f4d5cf9a-ad14-4e20-a0cc-42a1e8843e79",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6382df6c-31ff-4c9b-ba7d-a28f111faa82"
+      ]
+    },
+    {
+      "id": "121047",
+      "name": "臺中市95年GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/02bdaac7-1bb4-4127-84b3-d8bad566f45c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2f1ec56f-d5fa-4a27-be21-a2c36399b2e3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/754ed993-0971-4b4c-96ee-7f8344d89840"
+      ]
+    },
+    {
+      "id": "121048",
+      "name": "臺中市96年GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/05a06b99-a080-41c1-afb1-5e2e8401f7d5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/22e44d74-9c8b-480f-9401-526410416a6a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9b74bf0c-a354-4858-b409-cb47e09a4256"
+      ]
+    },
+    {
+      "id": "121049",
+      "name": "臺中市97年GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/18b67b2b-2a22-40b6-b56c-1d4e91f61a95",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4509dfdf-1075-4611-977d-e73edd06ba29",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4d455f9b-7942-49b3-8158-62edc19aef52"
+      ]
+    },
+    {
+      "id": "121050",
+      "name": "臺中市94年GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/86473b2f-b86e-406e-b333-2d6c81a4c752",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9977476d-9306-4bb6-97a7-01b33523e30e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c7728cda-cd32-42fa-a34a-01f01f6fd63f"
+      ]
+    },
+    {
+      "id": "120278",
+      "name": "臺中市109年2月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/42d0a28e-545a-4c44-bf42-a54df90468d4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/60948ee1-8857-436a-85e2-9282e498fb43",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/76fddf93-f9df-4684-8d1d-30018db5da5e"
+      ]
+    },
+    {
+      "id": "122466",
+      "name": "臺中市108年第4季替代役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/15473af6-9621-4d14-bc75-2372b3282398",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9f1c83a9-a74a-4f97-ac67-e3230a2a7dd9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/df1ab8d0-95e1-42b3-9ead-b67617038289"
+      ]
+    },
+    {
+      "id": "120969",
+      "name": "臺中市103年GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/390fbfe0-c3b4-4f94-b3b3-a50b299dbd05",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8ddbb28c-8bee-4d09-8826-0f7093c3ea4b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/917e93c6-d7a3-4507-b69e-012bf9e96555"
+      ]
+    },
+    {
+      "id": "129962",
+      "name": "臺中市109年8月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7a642770-2c75-45fd-a110-a0130594782d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c5a3b640-6e75-45f3-b4e9-61bf95038011",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/faf8969d-1141-4fe5-b552-d9fb292b09bd"
+      ]
+    },
+    {
+      "id": "130481",
+      "name": "臺中市109年第3季常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/19a235f5-c171-41e7-bae6-42ede37a078f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d53ceee1-84b9-46bb-964f-7982e30305ec",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e94f5614-dd02-4ca7-a8c1-5b4496c5b5d6"
+      ]
+    },
+    {
+      "id": "131190",
+      "name": "臺中市109年9月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5aa45cdd-beb4-4480-af4b-58278d14c90a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5e288c57-d15b-4e97-b58d-14658fc4c847",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/87aa064e-6bc9-485d-a0fe-c8a0778c9bce"
+      ]
+    },
+    {
+      "id": "109440",
+      "name": "臺中市108年第3季常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/16415106-d699-453e-b4fd-94e23b361a4a"
+      ]
+    },
+    {
+      "id": "115863",
+      "name": "10140-01-03-2 臺中市 結婚人數按性別、單一年齡、五歲年齡及初婚、再婚分 (按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5707ec45-12bd-4587-ba04-20eddf3e46c0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2aee2cdc-cc1c-4403-8e06-25f4f9b2ee42"
+      ]
+    },
+    {
+      "id": "115864",
+      "name": "10140-01-05-2 臺中市 初婚人數按性別、年齡及教育程度分暨其結婚年齡中位數(按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d6fc32fe-5cde-4247-93ff-145cf2441e05"
+      ]
+    },
+    {
+      "id": "115993",
+      "name": "30294-04-11-2 臺中市軍人公墓(忠靈祠)葬厝表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3968cba4-5c00-4ce7-bbe5-cfc898d7e1b1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=acfdbaed-4fad-4d2c-9ca8-d8fa314590df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=250de7b3-f7a0-46ee-9a00-4f3de57d2eb9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a08cd720-d098-43d3-80c2-81f273c0e84e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3fa56278-0254-4a81-9ae5-2af58b438e17",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ef7ed63-eae5-4c11-bc4e-94417e6d0869",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f8b62f30-247c-4090-8fba-310d329c6859",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cf9924f9-52f0-419b-8290-c4a66e845aa2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b2e26b12-e6e8-46a8-a2b9-a465616f3bff",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=185458d0-3d95-403d-92dd-ef9fcb9c9726",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d89c05c1-5197-441e-85bc-b9fe1b5194eb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d9535a6b-df39-49fd-bc02-057981d2016a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=90b22130-2341-4ffb-81a0-8f49a8c11029",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=764d08f6-ed72-43e9-868d-05eddd30e2ee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d254e5c-ecb8-4527-98ac-493d7577316c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=915f73c6-adfd-4d01-a19b-658741800b8d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=49bb2dbf-190c-4702-a32a-9853730e3b8d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ebf5b97e-fbf3-4f05-a438-e2b525233628"
+      ]
+    },
+    {
+      "id": "115998",
+      "name": "30294-04-04-2 臺中市殯儀館設施概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a27474af-a504-400b-a3bd-73042e9bfcf7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a9e55a2-d3ae-4dc8-90ed-70cd16d9fbdd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=be2444c7-bd43-4e0b-b545-7c73c8ac0a07",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bcebe6fe-d4e3-41c3-83c6-734dc86989ee"
+      ]
+    },
+    {
+      "id": "116075",
+      "name": "30294-04-02-2 臺中市骨灰(骸)存放設施概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2eb2ffd1-f90d-4977-9c63-8ea51bef46e4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c860bf89-a05b-4968-aa0f-dd851696e159",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d327f71a-4042-44ba-853c-7b2db255dd03",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6566fc67-f022-4a4e-8ff1-943330ff4a1d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6b4d865c-da6f-42c0-a437-4b5c72f908fb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=21ba6052-d1eb-4377-863b-2999a7391a8e"
+      ]
+    },
+    {
+      "id": "116081",
+      "name": "10131-01-02-2 臺中市各區 嬰兒出生數按生母原屬國籍(地區)、年齡及教育程度分(按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3acfe09a-ad1d-462a-9062-766d59f52d30",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=636c5e4d-5dc2-4857-b430-1ef726aeec36"
+      ]
+    },
+    {
+      "id": "116082",
+      "name": "10131-01-03-2 臺中市各區 嬰兒出生數按生母年齡、教育程度及生育胎次分(按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5669ab66-3b60-45cb-93a3-c97a7af770b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8d2abbba-94c5-4696-a3b8-6a4a310975d9"
+      ]
+    },
+    {
+      "id": "116083",
+      "name": "10131-01-04-2 臺中市各區 嬰兒出生數按生母年齡及生育胎次分(按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7974a1a7-5622-41ed-955b-23528a327241",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=90c6c3ca-da2b-4ec1-886d-70ac86da5434"
+      ]
+    },
+    {
+      "id": "116084",
+      "name": "10131-01-05-2 臺中市各區 嬰兒出生數按生母單一年齡及生育胎次分（按發生日期）",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a1b2f99d-4538-43ed-83a8-f7e196e0bbba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ad6e92d-faf2-4fc3-99a7-acdfb34d2ddb"
+      ]
+    },
+    {
+      "id": "119903",
+      "name": "臺中市104年GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ab662b5d-5d8f-4818-b8f2-c5e6334513b5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d5f0b326-05de-4ac8-b167-c2ef776836f3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e79065c7-08b5-4700-b436-55475a9f3859"
+      ]
+    },
+    {
+      "id": "119932",
+      "name": "臺中市常備兵役男家屬109年第1季各項扶(慰)助經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/17171c84-f31e-464f-b0d5-762759e6f144",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4b371d6a-00c5-4a3b-9f9d-3af666b6c4ea",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5330e65a-adb1-4481-a04c-d82f2063484b"
+      ]
+    },
+    {
+      "id": "135267",
+      "name": "臺中市109年第4季替代役役役男家屬各項扶(慰)助經費統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3465904d-a047-459a-beea-69a63a6fdfbb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4e8303b1-2bfd-4535-8ce4-78861e5eea42",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/55f076cc-10a8-4dec-a136-7ed0635864f0"
+      ]
+    },
+    {
+      "id": "162047",
+      "name": "112年第1季臺中市替代役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/16981d22-7250-4033-82be-9c9592d5f3af"
+      ]
+    },
+    {
+      "id": "162063",
+      "name": "臺中市112年3月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/00dacb69-95bf-4df4-81eb-04044e6d6055",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6e54aac0-bea2-46c3-8a6a-4c9722d1a182",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7cdd225a-b26a-40dc-8792-ee54d5214aa3"
+      ]
+    },
+    {
+      "id": "160983",
+      "name": "臺中市111年11月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/782de00c-a2b2-4aa6-b339-caccdbc9079c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9a3e32dc-5bbf-40ba-aad0-08b58dd22522",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f4616e44-f787-4e07-a6ef-8cf9e50364b0"
+      ]
+    },
+    {
+      "id": "165972",
+      "name": "臺中市112年6月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/701d400d-569a-418b-8672-583c59a5805c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a8672979-34c2-49c5-8862-b0ec39226ce5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/daece1ca-3dd8-42a6-82d1-32031d913233"
+      ]
+    },
+    {
+      "id": "165976",
+      "name": "臺中市111年9月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5a645ba8-d0d2-4e02-9952-72196756b361",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9742091c-dabd-4190-91e2-272ab3046ecf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ad0aa689-5eea-4ac0-bd85-34ec879647fa"
+      ]
+    },
+    {
+      "id": "145876",
+      "name": "臺中市110年9月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2fca5c9-b47e-435f-8a91-47a4711955fb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ec4b7bd2-a8c0-436e-b340-79df81d08f09",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f210ad3d-3f0f-463d-9680-432ef85313d7"
+      ]
+    },
+    {
+      "id": "155672",
+      "name": "臺中市111年5月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3b3c73c2-138b-457f-a861-85271d47985d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c3f0d4cf-a052-47c2-b74b-8812327f086a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ca85852b-f5b5-41b0-987a-19cafc5d0824"
+      ]
+    },
+    {
+      "id": "144171",
+      "name": "臺中市110年7月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/066a0ff5-6270-46de-9866-c6b3ef714a1c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/180ca8b9-ce9a-49f3-8cd2-6b4d25b9071e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bdb729c9-5aba-4014-bb7a-17d4551daa7e"
+      ]
+    },
+    {
+      "id": "150867",
+      "name": "臺中市111年2月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/199326f5-e3bc-4f89-be70-f3abb94c8168",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3b09d344-e849-4b57-a9ca-8cb16c2fda6d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4942cea0-99f1-4fe2-af73-216124340ee0"
+      ]
+    },
+    {
+      "id": "150864",
+      "name": "臺中市110年11月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1a887179-bfde-4e05-b79a-2f5d7b6d0d8c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e2fe65c8-ae59-443d-8098-416380ea6c33",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f80a550f-557c-4bba-b8a7-c67609193122"
+      ]
+    },
+    {
+      "id": "147069",
+      "name": "臺中市歷年海葬申請數量",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cb13672c-448a-4524-97ef-bffca6ba5742",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ca3aba5f-a736-460a-a3e4-e5c7ecb3b297"
+      ]
+    },
+    {
+      "id": "158914",
+      "name": "111年第3季臺中市替代役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/942a0c71-2915-4b01-bc21-b98eebf37f40",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a390b755-616e-4e6f-9df7-9c8a0fb23034",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bb98f6f5-75ea-40c7-8ac5-b531fc74bc88"
+      ]
+    },
+    {
+      "id": "176210",
+      "name": "臺中市清明紙錢集中處GPS座標一覽表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3933b777-33bb-44ea-88b5-135b53cc9096",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=25eb72c3-9ca6-4efb-8a10-27e6194a5f87"
+      ]
+    },
+    {
+      "id": "176936",
+      "name": "臺中市110年各月份GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a7a42d92-a72f-4560-a521-5dcb7340e13e"
+      ]
+    },
+    {
+      "id": "116147",
+      "name": "10720-06-01-2 臺中市常備兵役役男家屬安家費及三節生活扶助金統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7ea5b165-98c2-40b6-8d0e-2fa3a6e94276",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c3e24b4d-0e20-4027-93e0-3851194de56c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1367b3b2-0960-4611-b117-9e542277eebd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f112f1a-541c-4204-995c-eaaa50906d7a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f920fa78-f590-44c1-ba38-f1aa798cee08",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eb4ba59c-8f22-4ff7-bc1e-487e61a8786a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=71939d78-0a9c-4e86-be2a-c48782e91a9d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=068b426a-45eb-40e2-a4c9-62f4da8e5be9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2f92b58b-5ba8-4062-b0c9-e089aadaef52",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a2b3c8c3-3f3e-4138-8f17-948ce41a88c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d3e345e-4a9e-4fa5-9018-58167380d352",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b12214e3-dc37-462c-ad42-dcdf32724d03",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f5250462-16f7-487f-8c82-ebb3daa78e51",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ef71109b-3175-4ca6-ae59-8a2a9e122dd2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1bbfdd44-ae3d-4033-bdc2-211fcb652f6f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ba5d6063-057f-412d-bdf3-0e4ca0ef2eb7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=012e023c-5558-4ecf-9fe0-d80fe1e6acfe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4215c13e-4ea5-4544-85f4-867fc1f97679"
+      ]
+    },
+    {
+      "id": "88807",
+      "name": "10122-00-06-2 臺中市各區 現住原住民人口數按性別、年齡及原住民身分分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab5d5c42-6f30-493c-a738-980608e74d72",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d248c702-1404-4feb-9a9d-91d6592e2f7b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c52fbda4-5029-4894-8c94-cb7a15ea5912",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e51cd0b8-dbed-4ba3-b37e-7d6264128a82",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a9929071-b6d8-4815-9a69-3509d8beb765",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5281ec89-9202-450f-8d78-b50b4f5205d1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c4932876-0940-4f40-ba98-5a66624450b0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7afe6908-28d4-4c02-a320-ade7d41480e5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=42ab46a2-afa6-4bcb-a1af-a5442884e096",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d6a079d-d07d-46b9-92ad-5aefcd18966e"
+      ]
+    },
+    {
+      "id": "82685",
+      "name": "臺中市常備兵役男家屬104年安家費暨三節生活扶助金統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7a0960cc-e9fa-4b53-9eae-535474bf8af8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b2f06819-2dd3-43a6-8a95-8d40a9eb0d19",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/de23746c-ed9e-4b46-84d6-6198d232a1fe"
+      ]
+    },
+    {
+      "id": "84038",
+      "name": "臺中市區界圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/19b5fd8e-524b-4aff-bb21-6f8f16844b55",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/428eabd4-6a22-41a1-9e8d-725deb8460b4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/943fdd5e-00b9-4ee8-92f2-23d161e98273"
+      ]
+    },
+    {
+      "id": "84049",
+      "name": "臺中市各區人口結構",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/48c40f97-f15d-48c9-8c05-676fd93c8d05"
+      ]
+    },
+    {
+      "id": "83917",
+      "name": "臺中市常備兵役男家屬106年1-12月安家費暨三節生活扶助金統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2fbd938b-c4b0-4853-bb5a-e5ca7b070cde",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7ba49d8c-977f-42c1-a649-b62d23291f70",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e564f5a9-3844-45d4-bdaa-b8abd5a0175b"
+      ]
+    },
+    {
+      "id": "84901",
+      "name": "臺中市常備兵役男家屬107年第1季各項扶(慰)助經費統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/00079281-d160-42f6-804d-e39d97c45b19",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/18a60c3a-8ff5-4309-b3af-b8b6c9a36e7d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a0285683-80d1-4069-9777-c554af9837d8"
+      ]
+    },
+    {
+      "id": "84903",
+      "name": "臺中市替代役役男家屬106年第3季各項扶(慰)助經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/60ce0361-a4bb-4f68-af9d-78dc9cb2978e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/899f036a-0e5c-451e-bd7c-f6d6261411fb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ddda79ea-79e9-4588-8c75-a8a9c7235813"
+      ]
+    },
+    {
+      "id": "84917",
+      "name": "臺中市鄰長名冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ac27e07d-8a2c-4cb9-a1f0-fd9d1d149b0a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d2943e8a-eb42-4d0a-8a5a-a6f199ac5311",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ee70805a-234d-475d-8cbe-568039369972"
+      ]
+    },
+    {
+      "id": "83678",
+      "name": "臺中市各新兵訓練中心郵政信箱及連絡電話",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3c0d3781-dc81-4d29-a856-b91c34c27632",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4f32d886-24cf-4ed8-9e51-fb69938cae56",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b2af3573-a8c5-4bd8-9469-20b4c2549f70"
+      ]
+    },
+    {
+      "id": "83786",
+      "name": "臺中市公立骨灰(骸)存放設施一覽表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=100b12b9-65e9-4f7c-ad4a-584fdb5c4ed5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b0011e1e-a7e0-4b74-a004-1ecf3d3e7f1e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a29ed862-76c6-49ce-88de-0ecadebaa00b"
+      ]
+    },
+    {
+      "id": "103764",
+      "name": "臺中市106年第四季GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7f5bb6d2-cba9-4849-97f0-4fd8b818b262",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dc00544d-2708-49f5-af27-cbda9e24ddc0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e5e36a0c-6a48-4314-8ce8-a940679ae8c0"
+      ]
+    },
+    {
+      "id": "103765",
+      "name": "臺中市105年第三季GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/03310b7b-c6a6-4ba4-9a69-e2d4bae9068b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1f306081-d17d-443a-b5ac-8b4d913b85da",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f9e4aee9-4f17-4bca-911a-3852492aa61c"
+      ]
+    },
+    {
+      "id": "103766",
+      "name": "臺中市105年第四季GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b9c6ac58-37e4-47be-86c7-f309c28bac6c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e2543a2e-a453-424e-a127-e92dabff06c1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e271a8f9-7454-4c46-870d-4b9dcdeea463"
+      ]
+    },
+    {
+      "id": "103769",
+      "name": "臺中市106年第三季GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/888b9801-c831-4c1e-bb45-9f6e7767ee9a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c43abe77-57f2-40aa-963b-619e61adfe87",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f617a25e-3e50-4bcc-acb6-fd30690ad56b"
+      ]
+    },
+    {
+      "id": "103675",
+      "name": "臺中市行政區域圖(改制後臺中市行政區域全圖)",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2ff06fad-60fb-466d-adde-5121d4a594fe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7795956e-55dd-4538-842f-6ffb2bb9d1f0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b92860cd-15ea-40ae-9263-87b0653cf0cf"
+      ]
+    },
+    {
+      "id": "94821",
+      "name": "臺中市政府替代役役男家屬107年第3季各項扶(慰)助經費統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6fa78dd5-3e16-4412-91d8-3d47ce535cfe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/88fdbd54-d737-44c2-84d0-ce200583d378",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bbad8fbf-011d-46d0-97e3-5b91b7a8feef"
+      ]
+    },
+    {
+      "id": "101038",
+      "name": "臺中市政府常備兵役役男家屬108年第1季各項扶(慰)助經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/915dacc9-4bbe-4c12-a32f-c9a231f327b7"
+      ]
+    },
+    {
+      "id": "88888",
+      "name": "10132-01-01-2 臺中市各區 人口死亡數按死亡者性別、單一年齡及五歲年齡組分(按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=859af9d2-a207-41f2-964c-0c9681ca2187",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8c2402dd-d22c-4bd6-839d-92369e037e4e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=10620286-787c-4bc3-832b-a6f217909f75",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a102a7c1-42fc-4c3f-8321-8ebac6a236a4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=79e7bdaa-0175-46a6-a819-32eb6dc3f8fe"
+      ]
+    },
+    {
+      "id": "88889",
+      "name": "10132-01-02-2 臺中市各區 十五歲以上人口死亡數按死亡者性別、年齡及婚姻狀況分(按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=778156a2-6d89-42fc-ad73-c36172ead9e4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=461524fc-eb66-4f97-ab1e-8b0e3a5ac00b"
+      ]
+    },
+    {
+      "id": "89077",
+      "name": "30293-02-02-2 臺中市所轄面積暨區里鄰數",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/37419bd6-338d-4bc9-bd3f-055811394d46",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fcade973-733e-4e55-967f-196705946dde",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/010ee457-730a-469b-bb32-d8de911f25fc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/66bd2592-066d-404b-a257-338ce0000500",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/406d7525-d703-4834-b8ec-642c1c2aca0b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6166a20d-08dc-4847-8812-dc20124ef4ae",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/af6a862e-cf9d-4e29-89c4-94765e68d2f3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b60118d0-9a61-424c-905b-04bf05fc5caa",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/01ff9e3d-5c05-4f78-a225-c731e55d5880",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2cd7653-58c0-4cc6-b0cc-c10c4d83d62f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/272a171c-034f-4134-81ab-6015a940d32a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b0eda68b-3f90-4252-86d9-4f5c8c85104d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/03afa102-8510-43ed-ae60-1b13bbbaa7b3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e61d8d56-0b49-4e39-bf67-12afeecf572b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5d901e6b-9a96-43aa-adbd-cd69777a633b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bfd76fe0-c81e-4bae-a8c8-c0e1073e695c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8fc9b09a-7f6e-4b7e-a978-127e43ea3795",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fcd93d09-aa60-4abe-bcef-d159c59bcd2b"
+      ]
+    },
+    {
+      "id": "89081",
+      "name": "30294-01-02-2 臺中市忠烈祠管理概況",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5817b4ca-5639-482b-ac0c-4f10605bbab7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/762ed2cd-c972-4295-b601-b29682822dfc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/af3c5d5f-a26a-4b18-b2a5-a867ef0d213f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3d685821-bb8c-442b-ba87-99e1f6a2a32a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f1a4d9bb-d1df-4dff-a71e-7f6d48aca00c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f5b8b754-68a0-4c7a-b623-502b7004194d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0d19f860-5b1c-45e3-bb56-8c651926f281",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/864014a0-7850-4fd4-b856-10e9facccc7b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ebe34a3b-bc99-4a9d-ba9b-2a5d83a392d6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a60b21c7-d742-4719-8507-ff3ee72c4f22",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/de83015a-a81e-40ce-8ee2-88b4ad96bddd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1d161455-0e67-40df-bb0a-87a01b803373",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/30c92a51-6c24-4485-aeb5-61bc8418aeaf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7cf3cb22-e086-45f3-ac71-172ec871a1c0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c3f4f00f-8726-4bde-a817-41bbc2c1471b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0f6e7dcf-6969-4f79-8601-d13a911e8994",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/553def4b-5fab-49e2-8821-f89fa66fc24c"
+      ]
+    },
+    {
+      "id": "89083",
+      "name": "30294-02-01-2 臺中市孔廟管理概況",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1ce500fa-5053-4cab-bf1a-f5c008b732c1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6d3ca0cf-dc30-4fc8-a727-3246232f2e7f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ccace269-a195-4077-bbbc-f2c30462c4fc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6dfe48d8-8546-4a1e-bffe-6ce71f2b0cad",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e026be38-7c5c-4f60-b782-32829e67467a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ecaf4237-77fe-408d-adf4-3eb1a7efb510",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4544c74b-9211-4948-a9cd-08e16697031e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/56b6c382-c4bf-4f44-992b-fd6df8111f1b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9152cb85-43db-4bd4-a7ff-666758c2fcdf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4d76f914-f1b1-4698-8e05-ff1d689fe6e2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/978918fc-18eb-46bb-8f21-81065eafe073",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4155c928-5341-474d-8c06-7c234f9ed047",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c6cc5141-e755-4b2a-9b09-ad176dcaaa2e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/056c06f4-51cf-4cf2-ad85-ca3e1f37cf37",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fa52960f-7fdc-486f-a27d-14c90f88d2bd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/58dc4413-e802-4d23-aa7c-133382d04db8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/65fcb9e2-4eb2-4415-82cf-4f6e369518b1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0e39be85-646d-4a0b-8d92-c0d1b40de2ed"
+      ]
+    },
+    {
+      "id": "88942",
+      "name": "10490-90-01-2 臺中市各區 十五歲以上現住人口數按性別、年齡及教育程度分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=19ca02dd-ee31-4a06-ab50-83ce072bd5e9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8612be2b-4eef-4338-9ed0-faf04c3d1b97",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1e091f1c-6cd4-4386-b277-a6e14871859d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=384d0d88-9277-4686-a9df-833b89981145"
+      ]
+    },
+    {
+      "id": "82512",
+      "name": "臺中市106年度1-12月役男徵兵檢查體位判等因素分析統計表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5e461dda-6066-4cf9-b926-942c915c01a4"
+      ]
+    },
+    {
+      "id": "84200",
+      "name": "臺中市替代役役男家屬104年安家費暨三節生活扶助金統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1ffa17c7-2506-4b5a-8fa5-33856f784732",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c78e3d9-8a0e-4bef-876a-b83cc34e05a5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a4b53569-bc21-412c-bf95-74858a2a0ede"
+      ]
+    },
+    {
+      "id": "84201",
+      "name": "臺中市替代役役男家屬105年安家費暨三節生活扶助金統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0a287d71-e6cd-4529-865a-e02697a3dbe9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2e5e20cb-1b0a-4e41-bc7a-95c7741cac0d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c49f358f-283c-4c07-b223-197cc6fed257"
+      ]
+    },
+    {
+      "id": "84173",
+      "name": "臺中市105年替代役申請人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5abdec31-c5f0-45f4-802d-8372eab8d459",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6af20531-ec62-48a2-88d4-8d6fdd4f1425",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/aeaebd39-b597-402c-a23c-a3f416081cb3"
+      ]
+    },
+    {
+      "id": "84182",
+      "name": "臺中市106年替代役申請人數統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3bcc4451-f860-47d7-8f09-eec08ec42c98",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a0821e38-8be0-42a6-8865-742bffe6a48b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e45ad843-d540-4c2f-b563-7544858894f7"
+      ]
+    },
+    {
+      "id": "88806",
+      "name": "10122-00-05-2 臺中市各區 現住原住民戶數、人口數按戶別及性別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1ded1c95-391d-4a06-b063-36d5e60d2809",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=76ef2f78-0ef2-4b29-81fd-491a72360948",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b26ace18-9fc0-4b72-be51-dce082459bd7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=50177735-7ea9-499d-b5d8-4678477232fd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=99549211-65f9-4d7c-8072-7de469860990",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8757acde-e126-4c6e-868d-120cfa0fd496"
+      ]
+    },
+    {
+      "id": "88811",
+      "name": "11130-00-01-2 臺中市宗教財團法人概況",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aad87207-c047-4098-9d66-16bd408ea0b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=72d22851-b662-4c6b-b337-0c356cc4d8a5"
+      ]
+    },
+    {
+      "id": "88813",
+      "name": "11130-00-03-2 臺中市教會(堂)概況",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=09925d42-5fb3-4278-8e52-8283ed3aac79",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18ffe55e-c712-4ca6-a645-bdbe772cbf78",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=162fe076-22d7-46a7-9bd3-0cd47a1fb1a1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=511064ea-ceac-4782-a13f-386f19bcdce1"
+      ]
+    },
+    {
+      "id": "99380",
+      "name": "臺中市政府替代役役男家屬107年第4季各項扶(慰)助經費統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2ac0de68-6e56-4e07-9a09-f6f27e98f019",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/abd78ecb-cb94-4702-8d5f-ac9b577c0c05",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e5cfb665-1622-485a-95a8-5fe547f8bc0e"
+      ]
+    },
+    {
+      "id": "105067",
+      "name": "臺中市108年第2季常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/341f034b-2141-4ec8-a05f-58587695e7b8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5e2e9555-1af7-423e-9ab9-e95654e73c05",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f6ba53b9-abb1-4bb6-ae13-b9da5dfee67f"
+      ]
+    },
+    {
+      "id": "119933",
+      "name": "臺中市替代役役男家屬109年第1季各項扶(慰)助經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/36ff8aa7-b4a5-478b-aa7e-090c6e5f9c28",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f0bbce53-0202-44fc-829d-a3ffe624c9d7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f4c5ddf8-3c1e-422a-aa8e-fdc91369a557"
+      ]
+    },
+    {
+      "id": "120970",
+      "name": "臺中市98年GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0671cb79-cfb0-490c-8b5b-798739e79f80",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/27e95c14-7da2-4ea4-a946-33d78ac40048",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b6b122c4-aa3d-408d-a26f-143c68f297b0"
+      ]
+    },
+    {
+      "id": "122467",
+      "name": "臺中市108年第4季常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/07cd48f3-ce93-43d6-8ae5-16f170635695",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0dbd2b06-40e1-418c-b14a-cbef38e01cd8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7fd9851f-f8b9-4630-9cf5-52a6cb3006d5"
+      ]
+    },
+    {
+      "id": "134557",
+      "name": "臺中市109年11月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3ff733d5-4aa6-4c40-bf76-ca984ef5395c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/64f4c431-cbdd-4cdb-a139-bac1c84bd600",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a1a727e7-454b-4f86-b580-df04d0c7b284"
+      ]
+    },
+    {
+      "id": "127155",
+      "name": "臺中市109年1月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/30deba5c-d3bc-4bba-bd0b-56cbaa086227",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3703b148-626d-4579-8b05-2e17886a2c1c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/75a0088f-ae33-4085-b8f8-d771d714c8c0"
+      ]
+    },
+    {
+      "id": "127375",
+      "name": "臺中市108年第四季GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a28bf878-1a91-476f-850a-5579f63e93ad",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e31bcc00-9f0f-48a7-bba7-82c2bf4177a3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e769d9a8-a8de-420e-b2e8-0fef90894c0a"
+      ]
+    },
+    {
+      "id": "127735",
+      "name": "臺中市109年第2季臺中市替代役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8188028c-2113-4b27-80d9-09e29eecd497",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/db39bc7c-d7cc-4ff1-b4e6-1089f1e8e785",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eff03548-c1cc-400d-8e50-3ea9b5f21a17"
+      ]
+    },
+    {
+      "id": "139456",
+      "name": "臺中市110年4月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/40a88fb5-2338-4457-aa28-3d9f62b6067b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5c68eb2d-8b5d-464f-ab57-aec7c600362a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/835d0008-d60e-40ff-9b51-e7c47346e750"
+      ]
+    },
+    {
+      "id": "136791",
+      "name": "臺中市110年1月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/63991fba-41c0-4d5d-853d-3628a4adf0cd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/79806ef8-8ace-4bc0-8383-3b8f4ff3ac5f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a6e67e93-71a5-4daf-84dd-19d3353d2fd6"
+      ]
+    },
+    {
+      "id": "137998",
+      "name": "臺中市110年2月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/02080672-e1c4-4f85-80cf-d1f38e6696b2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/900224ec-7559-49ab-9530-5348f108f555",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/da92ded7-42b4-4c5d-9e5a-fa7093aa28ed"
+      ]
+    },
+    {
+      "id": "158913",
+      "name": "111年第3季臺中市常備兵役役男家屬各項扶(慰)助經費統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9f5e7276-a3cd-466d-9d18-7679e7b8070d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a25786f8-7955-4854-b712-87bdf052afa5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ee0ec032-f6c9-4453-94c7-2c6497811585"
+      ]
+    },
+    {
+      "id": "149133",
+      "name": "臺中市110年第4季替代役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/33c25683-594d-49a6-81ba-f4e3d836f636",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3752394d-40ea-433f-9a08-372d20420eba",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3feb95f2-71c9-4cdc-87f8-ccb8c8b394b6"
+      ]
+    },
+    {
+      "id": "169063",
+      "name": "臺中市112年7月GIS門牌號碼",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/78098b94-c62a-4296-a482-c6095fda88ab",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b14959a4-c049-40dc-83d1-e9665bba2f68",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b6bfa287-326e-4876-a768-a2938fc83ca9"
+      ]
+    },
+    {
+      "id": "160948",
+      "name": "臺中市111年12月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/08537e73-263d-47dc-9ffd-45a8014dd2f3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4ab9379e-2759-4cdd-8e92-8f0c18285094",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8da97e19-6472-450f-a726-d9697031b1b3"
+      ]
+    },
+    {
+      "id": "160491",
+      "name": "111年第4季臺中市替代役役男家屬各項扶(慰)助經費統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/39ba1c87-5cae-4fba-a064-4ecdddb23e8f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/565a931a-e51a-433b-a368-dfd2ab2b4aff",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5a385f8f-fe20-4500-a517-b2704ef7934a"
+      ]
+    },
+    {
+      "id": "173641",
+      "name": "臺中市114年3月GIS門牌資料",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2efd61da-49b8-42b7-9469-93fad472a0c1"
+      ]
+    },
+    {
+      "id": "133110",
+      "name": "臺中市109年10月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1f38943c-11d9-4d48-a855-0498e0668d9f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/68d57332-c473-4d86-9b2f-422fa9c19729",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e9fdf9f5-d94d-4814-a2fe-19b808ab3f08"
+      ]
+    },
+    {
+      "id": "115861",
+      "name": "10140-01-02-2 臺中市 結婚人數按性別、年齡、原屬國籍(地區)及婚前婚姻狀況分暨其結婚年齡之第一四分位數、中位數、第三四分位數與平均數(按發生日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=28e43506-087a-4912-8d9b-aba999757f1c"
+      ]
+    },
+    {
+      "id": "116079",
+      "name": "10122-00-03-2 臺中市各區 現住人口數按性別、年齡及婚姻狀況分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=777631ac-fd5a-42a3-b7f4-2dfe0524b0f2"
+      ]
+    },
+    {
+      "id": "116085",
+      "name": "10131-01-11-2 臺中市各區 嬰兒出生數按生母單一年齡分（按登記日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1383bc78-4c4f-4c6d-ac65-4eb8363a6a37",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=52eefe0e-5c09-4830-baf0-4b515c7e4303",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=42baf134-b223-45d9-8cd0-fd4ad0c50917"
+      ]
+    },
+    {
+      "id": "116088",
+      "name": "10140-01-01-2 臺中市各區 結婚人數按性別、年齡、原屬國籍(地區)及婚前婚姻狀況分暨其結婚年齡之第一四分位數、中位數、第三四分位數與平均數(按登記日期)",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b55329c7-9c3f-47c3-a4e7-8704ebfcad7d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c0c11f9c-d304-4975-9423-4347c74a26a7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f099b9f-37f0-4703-8c47-0d2ef1b93d06"
+      ]
+    },
+    {
+      "id": "116090",
+      "name": "10190-90-01-2 臺中市各區 戶政受理案件",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d99394e0-8c97-4d6a-a994-4d74157d7477",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=86e64898-76da-4f3d-90fa-865da6ea99d1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eb142638-e231-4260-8596-383d653c4658",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c010383d-a997-4aa3-bbab-d5e53f84c2a5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=afa216b6-4c00-49ae-a670-ee4f45fcd414",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=596a2cd9-dd8f-4e04-b224-6ebac6e7ce45",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac2ff628-50f4-4cc2-8532-8c71e73ea9a7"
+      ]
+    },
+    {
+      "id": "128999",
+      "name": "臺中市109年7月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3de379ce-60d4-4ee7-80a5-c0d302ae3b36",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/68f39ad1-dac7-48e6-8259-9a923d462fd0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9167a44f-8cd2-42aa-99ea-698dafe8b836"
+      ]
+    },
+    {
+      "id": "146375",
+      "name": "臺中市110年10月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b5c50486-dc1e-4921-aff7-b0e602d951ba",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c5a188c3-6f6c-4751-a379-85d455b80799",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cec68da0-786b-49af-80f6-02746e221394"
+      ]
+    },
+    {
+      "id": "146601",
+      "name": "110年第3季臺中市替代役役男家屬各項扶(慰)助經費統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a7b0c6d9-570a-4b73-90bb-d95eeb6b738f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/aa3e61f9-37ff-401d-b509-3b14d81ccf89",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bb40f481-0492-4ac4-b922-0c90f9d6fdd4"
+      ]
+    },
+    {
+      "id": "142757",
+      "name": "110年第2季臺中市替代役役男家屬各項扶(慰)助經費統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a3d9b900-d595-4d22-a6cb-c04447cbee3a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cd001c7e-ac6e-48b7-8407-7885fd599c0e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eb6787e8-2919-4522-bcc5-4413520f08a2"
+      ]
+    },
+    {
+      "id": "147068",
+      "name": "臺中市納骨塔使用情形",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2f2e2b87-228b-4c8b-8d36-ebe0190fa9cf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5ffaaf07-a70a-445f-955f-dfdcd3a1426c"
+      ]
+    },
+    {
+      "id": "165015",
+      "name": "臺中市112年GIS門牌號碼1至12月各月份版本",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/06051e8e-eeb9-4286-bdae-6250f47c9f11",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/17fc837c-88af-4128-9069-322fd63c59b5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/273aba95-5bd2-4c6f-b798-8ee47f553988"
+      ]
+    },
+    {
+      "id": "150865",
+      "name": "臺中市110年12月GIS門牌號碼",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/40a5bc18-118d-40ff-a525-13d365a34b77",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/513daad1-029a-490d-98b1-f2d5851c7871",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6cc8a16d-d232-48b1-be9b-a664d251561a"
+      ]
+    },
+    {
+      "id": "150866",
+      "name": "臺中市111年1月GIS門牌號碼",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1343aa22-7e0e-4dbe-823c-3fb3dd76d213",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/797e90f2-0363-442b-b18d-53262ca6a7bb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9bf72ef1-65a8-4145-820c-95569d27db02"
+      ]
+    },
+    {
+      "id": "176209",
+      "name": "臺中市清明取水點GPS座標一覽表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=99526d43-db43-4d88-a4b4-567bbc7dc7b4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=08a653e3-a450-448b-a2c4-43f83c134508"
+      ]
+    },
+    {
+      "id": "116076",
+      "name": "10121-00-01-2 臺中市各區 村里鄰戶數、人口數與戶籍動態登記數按性別、登記項目及區域分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1dcaaf18-f87f-402e-8e0d-d180780b1ce7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=76cb16e2-fcbd-4c2f-a79e-be19a425ab30",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=12f552a4-6966-4a37-a89e-0040a7771b63",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=60a093d0-3666-4929-8acc-51612a97eeea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=58aa73c6-1e5d-47c1-891c-bc21acc5f203",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dc1c9648-0479-4efb-8fe1-4547b85da52c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9733fb75-3098-40a5-b1ca-c2e250888f16",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f3ba4a03-c470-41bd-84d4-2e53216fae59",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b438536-9c46-4da2-b7bd-11c91a447e30",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=806d6412-c959-467a-be9b-3dedd6cf143a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c68e68f1-b6fa-4a22-aa7d-888a24287094",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f2a851e9-65d0-4668-a2a4-ab136af4acfb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8ddc59bd-1da6-40e4-9162-7e4b6c1414c4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=157366f5-18db-4e14-b8dd-afc0ae208cc2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=587d5e23-1448-4942-9f99-f258203bd386",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=20347787-1def-4f14-9b1a-603458259d8b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=35cb88e6-cab3-475a-b10f-a04432dd6a1c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e621db4f-4a44-4fc4-a0f0-cd41adf61d09"
+      ]
+    },
+    {
+      "id": "88690",
+      "name": "10122-00-02-2 臺中市各區 現住人口數按性別及年齡分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=747bd4ad-30c7-4853-be9d-afc42519dcab",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d57b9c74-0605-4434-afbf-b62d2695b2f3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3e11110c-23a5-4bfb-b2ad-a8d7c1767b8e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8254e7cb-aef0-4b2a-8c7e-6b9e0c7e0376",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6123baa-8285-4e9b-899e-438215ee84eb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cbf3c16a-971d-4501-8cde-713ebf3389bf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8b7fdba0-c066-42cc-b44b-dd6afaf07723",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b651bc4-4585-4766-a409-977da2978621",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e1b9d57a-c531-4768-bfc9-80b07fdab2a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c1715fbd-c90d-4abc-bf21-d6f2f46e2e57",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=46bc2d85-e82c-4f90-8c17-2fda6e68ee11",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9ed28b02-0c09-48f3-bb3e-c799e11bf271",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2eb754b0-3065-414d-99e1-449d4023a298",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd86c017-9152-4ed2-bbe3-6e58ac8d97cd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9bd96b3a-c1bd-4475-bb2e-7d4b6f1a8965",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a42dc715-1a5a-4b6e-804b-1af21ce29fb2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0ab320c2-e52d-4fd3-9c44-764fda26826d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e0ff3260-2879-4b9d-ad9e-536a84f18b5a"
+      ]
+    },
+    {
+      "id": "88805",
+      "name": "10122-00-04-2 臺中市各區 現住人口數按性別及原住民身分分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d85ba30a-6aa7-44c7-945d-ee663919202a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06188be7-3b4a-47ec-9b42-1e380d51445d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4b2e6a09-c35d-4b9c-8aae-cc8f54f8d540",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a1bf618-a962-4cad-903f-21b3526aeb91",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=64037226-c5be-4d7b-a557-03eec6302af1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4066ff63-2389-415e-922b-45dcfbe54b37",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=828a757a-44cb-431b-a1e7-36ab2d2744e0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=70fb81b3-7bb9-4911-aec2-ef8eb8c3d774",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=55c1c960-dbea-43ed-91a3-be5a8113347c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d0aa81e5-3235-49ca-8085-8194b6072970",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7fd96154-554f-46e9-a7ac-3fd6f9ddbbe4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7434c439-ce90-436b-b895-5dec4fb5f327",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=211bd0a9-e930-4d8a-9ecd-066dfdfab9fa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7e9b54ce-8d3c-4595-9f90-12b432b68c3f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=641e16c2-77c1-42bb-8ac3-28125ba612e7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0c25f794-bcc1-4f14-808e-a70e4b855173",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b43330b1-250b-45d0-a323-a4ac34f475de",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b8760c6-07ba-40b8-903c-30a3e2efd530"
+      ]
+    },
+    {
+      "id": "88962",
+      "name": "10720-06-03-2 臺中市替代役役男家屬安家費及三節生活扶助金統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e255c89e-c91d-4477-b29b-a381dbb1a2dd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a0ce4936-9f92-4034-9045-66a58344562a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a66c1ce0-6610-4606-bf13-74a0ba8161db",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f2c24180-0de1-4fb4-a0a1-42502d5e630f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ac22026-f31d-4c14-9556-2dc0f0a65f52",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=13bfcff5-7469-445f-90cf-a96f0aec22c8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=119c714f-f19e-435d-8722-43cfda7d1058",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d12e9ebb-9786-47c3-a03d-58561aa66ab3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cc6af84b-48a7-40f5-b34c-fc0d065c8e82",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6eff90b4-e545-47c0-a101-8e70a0796935",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ecd6655a-43b2-4da0-a8c6-3d5f24757e6c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a35f7b9b-985b-42bb-a6b4-bdd084c60a30",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d4222303-0571-408d-b180-8a81c5d2d4a3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9749de17-ffff-433f-a92d-977fb33ca111",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=44ab00f6-9712-4287-9086-428f89f632f1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2bd4027f-54e3-4cd3-b43a-fca06faca4ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=88df5048-3588-4ffa-8196-e267725f2520",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ae4e900-1228-4331-9f52-3143adfb8361"
+      ]
+    },
+    {
+      "id": "88939",
+      "name": "10190-90-02-2 臺中市各區戶政管理及便民服務案件",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=515cdd4f-9a1e-4738-8ca2-111d93444431",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd6f0c6d-58c0-401c-a9d6-dec6fb5bff2f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5baaef50-8375-4fa2-82cb-90d5d28fe3ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0c9c6581-12be-4850-b48f-f3cf797f483d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ffc52f8f-1ba7-4ff8-9d06-0b30ad1ba858",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=decd5f48-27c1-4040-95ad-9095e8967fde",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2cb5bb0a-3ce6-497d-86a7-d71914dc1631",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c58e1317-c2cf-4bd2-80a0-9764d8890d93",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cea02d2a-19b3-46aa-a9a4-4059114f2d25",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=78d31a37-9a02-4542-ad79-871638e20f85",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f1afe018-cc88-4abe-95cb-aa239e490b2d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c06bcb22-3ce4-4853-8713-317758860400",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d9e89f45-3b48-4f88-a68f-1e8d0919dafb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=593fd356-9ec8-41fd-9319-24c95955440b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=566630a5-212c-4f55-abf4-c6289bee0f8b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=24834ddc-6f2d-4e94-be9c-9a2a3d928c3c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1c6bb9a7-1cdc-4290-8e0e-4e6aa6cb3f49",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e63e53d0-97eb-4b46-b6b6-7ba3d9f0ee25"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "dataset",
+  "provider": "花蓮縣環境保護局",
+  "slug": "ws_hl_gov_tw_c9137228",
+  "datasets": [
+    {
+      "id": "159251",
+      "name": "花蓮縣航空噪音防制區",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/104507/03980558-a04a-465a-b165-b83b51d1e61e.csv"
+      ]
+    },
+    {
+      "id": "159237",
+      "name": "花蓮縣應回收廢棄物回收處理業者名冊",
+      "format": "csv",
+      "urls": [
+        "https://ws.hl.gov.tw/001/Upload/518/relfile/23071/104507/742a72e2-0496-4fda-8f5e-9591901af63d.csv"
+      ]
+    }
+  ]
+}

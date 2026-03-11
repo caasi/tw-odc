@@ -1,0 +1,754 @@
+{
+  "type": "dataset",
+  "provider": "新竹市衛生局",
+  "slug": "odws_hccg_gov_tw_c12ac77b",
+  "datasets": [
+    {
+      "id": "67649",
+      "name": "新竹市針具及保險套販賣點名單",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/137/8b3dd77f-2c64-433f-8673-db0fbf9610e6.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/137/8b3dd77f-2c64-433f-8673-db0fbf9610e6.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/137/8b3dd77f-2c64-433f-8673-db0fbf9610e6.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/137/8b3dd77f-2c64-433f-8673-db0fbf9610e6.json"
+      ]
+    },
+    {
+      "id": "67652",
+      "name": "新竹市預防愛滋諮詢服務點名單",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/130/a7f6b6e4-3b8b-474a-a8b7-310bb1c3d606.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/130/a7f6b6e4-3b8b-474a-a8b7-310bb1c3d606.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/130/a7f6b6e4-3b8b-474a-a8b7-310bb1c3d606.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/130/a7f6b6e4-3b8b-474a-a8b7-310bb1c3d606.json"
+      ]
+    },
+    {
+      "id": "67656",
+      "name": "新竹市牙醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/106/94b0e54b-ad45-4222-b26c-648773794ded.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/106/94b0e54b-ad45-4222-b26c-648773794ded.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/106/94b0e54b-ad45-4222-b26c-648773794ded.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/106/94b0e54b-ad45-4222-b26c-648773794ded.json"
+      ]
+    },
+    {
+      "id": "67661",
+      "name": "新竹市水療池水質檢驗情形",
+      "format": "csv",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/143/7eb35524-83be-4547-b5d8-9650bbdc14a3.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/143/7eb35524-83be-4547-b5d8-9650bbdc14a3.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/143/7eb35524-83be-4547-b5d8-9650bbdc14a3.json"
+      ]
+    },
+    {
+      "id": "67664",
+      "name": "新竹市乳房攝影合約醫院",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/145/6da05815-598a-4201-967c-8bb0d01cf062.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/145/6da05815-598a-4201-967c-8bb0d01cf062.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/145/6da05815-598a-4201-967c-8bb0d01cf062.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/145/6da05815-598a-4201-967c-8bb0d01cf062.json"
+      ]
+    },
+    {
+      "id": "67666",
+      "name": "24小時母乳諮詢專線",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/108/10741fe6-c581-4ada-bf1a-2ef44bb9d75d.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/108/10741fe6-c581-4ada-bf1a-2ef44bb9d75d.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/108/10741fe6-c581-4ada-bf1a-2ef44bb9d75d.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/108/10741fe6-c581-4ada-bf1a-2ef44bb9d75d.json"
+      ]
+    },
+    {
+      "id": "67668",
+      "name": "新生兒聽力篩檢補助服務方案醫事機構名單(114年10月21日更新)",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/110/81d2d199-a2bc-41bd-9b6f-39ef4930cf4f.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/110/81d2d199-a2bc-41bd-9b6f-39ef4930cf4f.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/110/81d2d199-a2bc-41bd-9b6f-39ef4930cf4f.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/110/81d2d199-a2bc-41bd-9b6f-39ef4930cf4f.json"
+      ]
+    },
+    {
+      "id": "67617",
+      "name": "新竹市西醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/219/e0464d90-b2fe-416d-9191-38a19b71e30a.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/219/e0464d90-b2fe-416d-9191-38a19b71e30a.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/219/e0464d90-b2fe-416d-9191-38a19b71e30a.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/219/e0464d90-b2fe-416d-9191-38a19b71e30a.json"
+      ]
+    },
+    {
+      "id": "67618",
+      "name": "新竹市一般護理之家公告資訊",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/237/469a8eee-5213-4209-98be-15005121072a.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/237/469a8eee-5213-4209-98be-15005121072a.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/237/469a8eee-5213-4209-98be-15005121072a.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/237/469a8eee-5213-4209-98be-15005121072a.json"
+      ]
+    },
+    {
+      "id": "67620",
+      "name": "新竹市產後護理之家",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/227/b57a7972-f41f-49dc-8bd2-0c372f3cb192.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/227/b57a7972-f41f-49dc-8bd2-0c372f3cb192.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/227/b57a7972-f41f-49dc-8bd2-0c372f3cb192.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/227/b57a7972-f41f-49dc-8bd2-0c372f3cb192.json"
+      ]
+    },
+    {
+      "id": "67622",
+      "name": "新竹市AED心臟電擊器設置地點",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/231/116a7869-d57c-4329-90c0-45138fb055a8.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/231/116a7869-d57c-4329-90c0-45138fb055a8.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/231/116a7869-d57c-4329-90c0-45138fb055a8.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/231/116a7869-d57c-4329-90c0-45138fb055a8.json"
+      ]
+    },
+    {
+      "id": "67641",
+      "name": "新竹市國中小、高中職校園周邊人行道、校門口及家長等候區全面禁菸-學校名冊",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/218/c02c3b8b-01a8-4636-9640-6d8c385c0a48.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/218/c02c3b8b-01a8-4636-9640-6d8c385c0a48.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/218/c02c3b8b-01a8-4636-9640-6d8c385c0a48.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/218/c02c3b8b-01a8-4636-9640-6d8c385c0a48.json"
+      ]
+    },
+    {
+      "id": "89281",
+      "name": "老人免費健康檢查",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/349/66128d09-b1a9-4bbb-824b-e4c5361d6d2b.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/349/66128d09-b1a9-4bbb-824b-e4c5361d6d2b.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/349/66128d09-b1a9-4bbb-824b-e4c5361d6d2b.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/349/66128d09-b1a9-4bbb-824b-e4c5361d6d2b.json"
+      ]
+    },
+    {
+      "id": "87945",
+      "name": "新竹市居家式服務類長期照顧服務機構",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/318/24bb321a-bd4a-4b01-bcba-99c2b0708a70.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/318/24bb321a-bd4a-4b01-bcba-99c2b0708a70.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/318/24bb321a-bd4a-4b01-bcba-99c2b0708a70.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/318/24bb321a-bd4a-4b01-bcba-99c2b0708a70.json"
+      ]
+    },
+    {
+      "id": "87946",
+      "name": "新竹市社區式服務類長期照顧服務機構",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/317/3af9f0f2-3c2a-4b53-84a7-1febb0e7e17c.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/317/3af9f0f2-3c2a-4b53-84a7-1febb0e7e17c.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/317/3af9f0f2-3c2a-4b53-84a7-1febb0e7e17c.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/317/3af9f0f2-3c2a-4b53-84a7-1febb0e7e17c.json"
+      ]
+    },
+    {
+      "id": "109907",
+      "name": "無痛大腸鏡補助計畫合約醫院",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/422/b138e83e-d614-4614-9b6e-5c664d691015.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/422/b138e83e-d614-4614-9b6e-5c664d691015.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/422/b138e83e-d614-4614-9b6e-5c664d691015.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/422/b138e83e-d614-4614-9b6e-5c664d691015.json"
+      ]
+    },
+    {
+      "id": "164619",
+      "name": "新竹市COVID-19疫苗合約院所名冊",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1489/773244c9-129a-4206-a962-39ca3622b7b0.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1489/773244c9-129a-4206-a962-39ca3622b7b0.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1489/773244c9-129a-4206-a962-39ca3622b7b0.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1489/773244c9-129a-4206-a962-39ca3622b7b0.json"
+      ]
+    },
+    {
+      "id": "164483",
+      "name": "新竹市東區AED心臟電擊器設置地點",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1391/5e3fab97-dd50-4bfd-9c9a-f3dc860c804e.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1391/5e3fab97-dd50-4bfd-9c9a-f3dc860c804e.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1391/5e3fab97-dd50-4bfd-9c9a-f3dc860c804e.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1391/5e3fab97-dd50-4bfd-9c9a-f3dc860c804e.json"
+      ]
+    },
+    {
+      "id": "164484",
+      "name": "新竹市北區AED心臟電擊器設置地點",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1393/256dca6f-5864-4478-a8bf-652bff595253.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1393/256dca6f-5864-4478-a8bf-652bff595253.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1393/256dca6f-5864-4478-a8bf-652bff595253.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1393/256dca6f-5864-4478-a8bf-652bff595253.json"
+      ]
+    },
+    {
+      "id": "164492",
+      "name": "新竹市香山中醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1387/9a77982d-8af4-4e10-ae5d-28b48519ff53.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1387/9a77982d-8af4-4e10-ae5d-28b48519ff53.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1387/9a77982d-8af4-4e10-ae5d-28b48519ff53.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1387/9a77982d-8af4-4e10-ae5d-28b48519ff53.json"
+      ]
+    },
+    {
+      "id": "164494",
+      "name": "新竹市北區西醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1379/d219d253-c6ca-43fa-bbb4-b8d30a4c4ac5.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1379/d219d253-c6ca-43fa-bbb4-b8d30a4c4ac5.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1379/d219d253-c6ca-43fa-bbb4-b8d30a4c4ac5.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1379/d219d253-c6ca-43fa-bbb4-b8d30a4c4ac5.json"
+      ]
+    },
+    {
+      "id": "164495",
+      "name": "新竹市香山西醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1380/96c690a7-10ec-4a3b-9aa4-0c0c17af329e.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1380/96c690a7-10ec-4a3b-9aa4-0c0c17af329e.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1380/96c690a7-10ec-4a3b-9aa4-0c0c17af329e.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1380/96c690a7-10ec-4a3b-9aa4-0c0c17af329e.json"
+      ]
+    },
+    {
+      "id": "164496",
+      "name": "新竹市東區牙醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1381/016b3d07-4c20-4c54-8800-3238a7acf58e.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1381/016b3d07-4c20-4c54-8800-3238a7acf58e.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1381/016b3d07-4c20-4c54-8800-3238a7acf58e.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1381/016b3d07-4c20-4c54-8800-3238a7acf58e.json"
+      ]
+    },
+    {
+      "id": "164497",
+      "name": "新竹市北區牙醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1382/059476bb-a10e-464a-9561-6496184c04ca.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1382/059476bb-a10e-464a-9561-6496184c04ca.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1382/059476bb-a10e-464a-9561-6496184c04ca.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1382/059476bb-a10e-464a-9561-6496184c04ca.json"
+      ]
+    },
+    {
+      "id": "164501",
+      "name": "新竹市流感抗病毒藥劑院所名冊東區",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1476/3c69033b-21f1-449b-a0a0-3f94796bec7f.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1476/3c69033b-21f1-449b-a0a0-3f94796bec7f.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1476/3c69033b-21f1-449b-a0a0-3f94796bec7f.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1476/3c69033b-21f1-449b-a0a0-3f94796bec7f.json"
+      ]
+    },
+    {
+      "id": "67637",
+      "name": "新竹市流感抗病毒藥劑院所名冊",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/211/2b666f60-382d-4e5c-b637-b88a5db9741f.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/211/2b666f60-382d-4e5c-b637-b88a5db9741f.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/211/2b666f60-382d-4e5c-b637-b88a5db9741f.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/211/2b666f60-382d-4e5c-b637-b88a5db9741f.json"
+      ]
+    },
+    {
+      "id": "67639",
+      "name": "新竹市幼童公費常規疫苗",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/215/f56bdd25-2405-491b-8b75-f15d546b24c3.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/215/f56bdd25-2405-491b-8b75-f15d546b24c3.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/215/f56bdd25-2405-491b-8b75-f15d546b24c3.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/215/f56bdd25-2405-491b-8b75-f15d546b24c3.json"
+      ]
+    },
+    {
+      "id": "67647",
+      "name": "新竹市愛滋匿名篩檢機構名單",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/119/f8c5b62a-792f-43cc-8e08-e8fb736d1af7.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/119/f8c5b62a-792f-43cc-8e08-e8fb736d1af7.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/119/f8c5b62a-792f-43cc-8e08-e8fb736d1af7.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/119/f8c5b62a-792f-43cc-8e08-e8fb736d1af7.json"
+      ]
+    },
+    {
+      "id": "67651",
+      "name": "新竹市預防愛滋廢棄針具回收點名單",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/129/af1cc1d6-3282-4bfd-a30a-e5810a586512.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/129/af1cc1d6-3282-4bfd-a30a-e5810a586512.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/129/af1cc1d6-3282-4bfd-a30a-e5810a586512.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/129/af1cc1d6-3282-4bfd-a30a-e5810a586512.json"
+      ]
+    },
+    {
+      "id": "67655",
+      "name": "新竹市中醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/102/e8a6bd85-30b3-4b0e-b9bc-85753a11f7d4.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/102/e8a6bd85-30b3-4b0e-b9bc-85753a11f7d4.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/102/e8a6bd85-30b3-4b0e-b9bc-85753a11f7d4.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/102/e8a6bd85-30b3-4b0e-b9bc-85753a11f7d4.json"
+      ]
+    },
+    {
+      "id": "67665",
+      "name": "新竹市急救責任醫院",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/151/a9a06121-56ec-4701-954a-8ba42c7dbcf7.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/151/a9a06121-56ec-4701-954a-8ba42c7dbcf7.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/151/a9a06121-56ec-4701-954a-8ba42c7dbcf7.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/151/a9a06121-56ec-4701-954a-8ba42c7dbcf7.json"
+      ]
+    },
+    {
+      "id": "67670",
+      "name": "嬰幼兒各項疫苗接種適合年齡及禁忌",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/115/23f8cf97-fb49-4cc2-9313-c429946c8231.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/115/23f8cf97-fb49-4cc2-9313-c429946c8231.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/115/23f8cf97-fb49-4cc2-9313-c429946c8231.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/115/23f8cf97-fb49-4cc2-9313-c429946c8231.json"
+      ]
+    },
+    {
+      "id": "67671",
+      "name": "新竹市東區衛生所辦理各項疫苗接種時間表",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/123/36836855-88bf-4441-a694-6395be94a714.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/123/36836855-88bf-4441-a694-6395be94a714.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/123/36836855-88bf-4441-a694-6395be94a714.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/123/36836855-88bf-4441-a694-6395be94a714.json"
+      ]
+    },
+    {
+      "id": "67674",
+      "name": "資格審查通過之執行新生兒聽力「篩檢」醫療機構名單(114年10月21日更新)",
+      "format": "csv",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/208/5184c4f5-b14d-4f33-a315-914da8c31655.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/208/5184c4f5-b14d-4f33-a315-914da8c31655.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/208/5184c4f5-b14d-4f33-a315-914da8c31655.json"
+      ]
+    },
+    {
+      "id": "89568",
+      "name": "新竹市衛生所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/359/80a4e1b5-d691-43a4-803d-2357c413f392.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/359/80a4e1b5-d691-43a4-803d-2357c413f392.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/359/80a4e1b5-d691-43a4-803d-2357c413f392.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/359/80a4e1b5-d691-43a4-803d-2357c413f392.json"
+      ]
+    },
+    {
+      "id": "92424",
+      "name": "新竹市轄內醫院病床數",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/387/08f31960-bb3c-4e6c-a0ae-f9b30ba0c5c9.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/387/08f31960-bb3c-4e6c-a0ae-f9b30ba0c5c9.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/387/08f31960-bb3c-4e6c-a0ae-f9b30ba0c5c9.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/387/08f31960-bb3c-4e6c-a0ae-f9b30ba0c5c9.json"
+      ]
+    },
+    {
+      "id": "163962",
+      "name": "新竹市十大主要死亡原因(民國113年) ",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/999/a32f16e1-4030-42ec-876e-4eea0b408a52.xls",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/999/a32f16e1-4030-42ec-876e-4eea0b408a52.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/999/a32f16e1-4030-42ec-876e-4eea0b408a52.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/999/a32f16e1-4030-42ec-876e-4eea0b408a52.json"
+      ]
+    },
+    {
+      "id": "164482",
+      "name": "新竹市香山AED心臟電擊器設置地點",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1395/9aee9415-2e54-4634-83c5-93cd06968492.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1395/9aee9415-2e54-4634-83c5-93cd06968492.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1395/9aee9415-2e54-4634-83c5-93cd06968492.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1395/9aee9415-2e54-4634-83c5-93cd06968492.json"
+      ]
+    },
+    {
+      "id": "164520",
+      "name": "新竹市北區衛生所辦理各項疫苗接種時間表",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1487/aab9a18e-d203-4b3c-b252-50562a2cec57.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1487/aab9a18e-d203-4b3c-b252-50562a2cec57.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1487/aab9a18e-d203-4b3c-b252-50562a2cec57.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1487/aab9a18e-d203-4b3c-b252-50562a2cec57.json"
+      ]
+    },
+    {
+      "id": "164493",
+      "name": "新竹市東區西醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1378/afcecf7c-86f2-4a46-9253-55492e162649.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1378/afcecf7c-86f2-4a46-9253-55492e162649.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1378/afcecf7c-86f2-4a46-9253-55492e162649.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1378/afcecf7c-86f2-4a46-9253-55492e162649.json"
+      ]
+    },
+    {
+      "id": "164502",
+      "name": "新竹市流感抗病毒藥劑院所名冊北區",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1478/75f5c038-cf54-4e19-a632-4422d84f0850.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1478/75f5c038-cf54-4e19-a632-4422d84f0850.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1478/75f5c038-cf54-4e19-a632-4422d84f0850.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1478/75f5c038-cf54-4e19-a632-4422d84f0850.json"
+      ]
+    },
+    {
+      "id": "164446",
+      "name": "115年新竹市香山區藥局列冊名單",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1424/9dfb2a55-f25d-4328-b84b-13d86737a280.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1424/9dfb2a55-f25d-4328-b84b-13d86737a280.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1424/9dfb2a55-f25d-4328-b84b-13d86737a280.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1424/9dfb2a55-f25d-4328-b84b-13d86737a280.json"
+      ]
+    },
+    {
+      "id": "164448",
+      "name": "115年新竹市東區藥局列冊名單",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1421/e9cdd078-b101-418e-8b9e-b34cbe49f2d1.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1421/e9cdd078-b101-418e-8b9e-b34cbe49f2d1.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1421/e9cdd078-b101-418e-8b9e-b34cbe49f2d1.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1421/e9cdd078-b101-418e-8b9e-b34cbe49f2d1.json"
+      ]
+    },
+    {
+      "id": "156011",
+      "name": "新竹市公共場所依法設置哺集乳室名單",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/9f794113-23ef-48ae-8df8-71972c842cc4.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/d4d6ed02-2a31-4e8c-b7c0-58773ea23a06.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/a82f3522-97d1-4fdd-a095-b0214b32b5e9.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/a82f3522-97d1-4fdd-a095-b0214b32b5e9.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/d4d6ed02-2a31-4e8c-b7c0-58773ea23a06.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/9f794113-23ef-48ae-8df8-71972c842cc4.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/9f794113-23ef-48ae-8df8-71972c842cc4.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/d4d6ed02-2a31-4e8c-b7c0-58773ea23a06.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/a82f3522-97d1-4fdd-a095-b0214b32b5e9.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/a82f3522-97d1-4fdd-a095-b0214b32b5e9.json",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/d4d6ed02-2a31-4e8c-b7c0-58773ea23a06.json",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/775/9f794113-23ef-48ae-8df8-71972c842cc4.json"
+      ]
+    },
+    {
+      "id": "152235",
+      "name": "新竹市健走步道",
+      "format": "xls",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/710/b4018f24-ccd4-4b8d-a839-e38cb672e23a.xls",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/710/b4018f24-ccd4-4b8d-a839-e38cb672e23a.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/710/b4018f24-ccd4-4b8d-a839-e38cb672e23a.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/710/b4018f24-ccd4-4b8d-a839-e38cb672e23a.json"
+      ]
+    },
+    {
+      "id": "160603",
+      "name": "新竹市公告室外無菸環境",
+      "format": "csv",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/854/80ed07fb-666c-4c2e-802c-0e5e2c3f2083.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/854/80ed07fb-666c-4c2e-802c-0e5e2c3f2083.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/854/80ed07fb-666c-4c2e-802c-0e5e2c3f2083.json"
+      ]
+    },
+    {
+      "id": "157617",
+      "name": "向度鑑定醫院名冊",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/314/202c1115-5df7-457f-940c-db72cd55e252.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/314/202c1115-5df7-457f-940c-db72cd55e252.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/314/202c1115-5df7-457f-940c-db72cd55e252.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/314/202c1115-5df7-457f-940c-db72cd55e252.json"
+      ]
+    },
+    {
+      "id": "67488",
+      "name": "新竹市反毒資訊區",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/109/0a89ae49-21c0-4ace-9042-7210a26ef1b2.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/109/0a89ae49-21c0-4ace-9042-7210a26ef1b2.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/109/0a89ae49-21c0-4ace-9042-7210a26ef1b2.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/109/0a89ae49-21c0-4ace-9042-7210a26ef1b2.json"
+      ]
+    },
+    {
+      "id": "67629",
+      "name": "新竹市戒菸合約醫療院所名冊",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/3540ad1e-cf44-4b40-b386-d67eb475c261.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/99fdd1bd-2ce3-4c5d-9a77-801a52a6a862.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/c3eb7a0d-02a3-4e4d-9504-b86f2680856c.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/c3eb7a0d-02a3-4e4d-9504-b86f2680856c.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/99fdd1bd-2ce3-4c5d-9a77-801a52a6a862.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/3540ad1e-cf44-4b40-b386-d67eb475c261.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/3540ad1e-cf44-4b40-b386-d67eb475c261.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/99fdd1bd-2ce3-4c5d-9a77-801a52a6a862.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/c3eb7a0d-02a3-4e4d-9504-b86f2680856c.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/c3eb7a0d-02a3-4e4d-9504-b86f2680856c.json",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/99fdd1bd-2ce3-4c5d-9a77-801a52a6a862.json",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/232/3540ad1e-cf44-4b40-b386-d67eb475c261.json"
+      ]
+    },
+    {
+      "id": "67636",
+      "name": "新竹市流感疫苗合約院所名冊",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/216/5fa61f8d-aa09-49eb-bf71-d37585091d13.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/216/5fa61f8d-aa09-49eb-bf71-d37585091d13.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/216/5fa61f8d-aa09-49eb-bf71-d37585091d13.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/216/5fa61f8d-aa09-49eb-bf71-d37585091d13.json"
+      ]
+    },
+    {
+      "id": "67643",
+      "name": "新竹市預防接種合約院所名冊",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/213/564bbfbe-8f9e-40ec-9187-90826100b709.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/213/564bbfbe-8f9e-40ec-9187-90826100b709.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/213/564bbfbe-8f9e-40ec-9187-90826100b709.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/213/564bbfbe-8f9e-40ec-9187-90826100b709.json"
+      ]
+    },
+    {
+      "id": "67657",
+      "name": "新竹市游泳池水質檢驗情形",
+      "format": "csv",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/131/993cdfd7-c8d5-4bbf-b436-207da4db603d.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/131/993cdfd7-c8d5-4bbf-b436-207da4db603d.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/131/993cdfd7-c8d5-4bbf-b436-207da4db603d.json"
+      ]
+    },
+    {
+      "id": "92423",
+      "name": "新竹市醫事人員執業人數",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/388/5f3330f5-8b08-4575-aee3-11baebc1b770.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/388/5f3330f5-8b08-4575-aee3-11baebc1b770.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/388/5f3330f5-8b08-4575-aee3-11baebc1b770.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/388/5f3330f5-8b08-4575-aee3-11baebc1b770.json"
+      ]
+    },
+    {
+      "id": "92425",
+      "name": "新竹市精神復健機構",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/386/b9cac796-b0eb-43e2-ab0f-ffd49b04c355.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/386/b9cac796-b0eb-43e2-ab0f-ffd49b04c355.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/386/b9cac796-b0eb-43e2-ab0f-ffd49b04c355.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/386/b9cac796-b0eb-43e2-ab0f-ffd49b04c355.json"
+      ]
+    },
+    {
+      "id": "92427",
+      "name": "新竹市(心理機構)諮商中心",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/384/a8ad455d-b94e-4cbc-95ac-d5cbdb33e64c.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/384/a8ad455d-b94e-4cbc-95ac-d5cbdb33e64c.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/384/a8ad455d-b94e-4cbc-95ac-d5cbdb33e64c.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/384/a8ad455d-b94e-4cbc-95ac-d5cbdb33e64c.json"
+      ]
+    },
+    {
+      "id": "136457",
+      "name": "身心障礙類別",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/313/c0d41129-d904-4ee9-8c4f-9001d3c08f5a.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/313/c0d41129-d904-4ee9-8c4f-9001d3c08f5a.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/313/c0d41129-d904-4ee9-8c4f-9001d3c08f5a.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/313/c0d41129-d904-4ee9-8c4f-9001d3c08f5a.json"
+      ]
+    },
+    {
+      "id": "136459",
+      "name": "身心障礙鑑定評估機構",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/315/e1cdf934-b234-48cf-a4fa-cf4014166b16.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/315/e1cdf934-b234-48cf-a4fa-cf4014166b16.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/315/e1cdf934-b234-48cf-a4fa-cf4014166b16.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/315/e1cdf934-b234-48cf-a4fa-cf4014166b16.json"
+      ]
+    },
+    {
+      "id": "139452",
+      "name": "114年新竹市加水站名冊",
+      "format": "csv",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/125/14975378-592e-41a4-8b99-6622b6ffbf65.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/125/14975378-592e-41a4-8b99-6622b6ffbf65.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/125/14975378-592e-41a4-8b99-6622b6ffbf65.json"
+      ]
+    },
+    {
+      "id": "139453",
+      "name": "115年新竹市藥局列冊名單",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/207/9966b6a5-5f76-4d45-8905-488ad720159e.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/207/9966b6a5-5f76-4d45-8905-488ad720159e.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/207/9966b6a5-5f76-4d45-8905-488ad720159e.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/207/9966b6a5-5f76-4d45-8905-488ad720159e.json"
+      ]
+    },
+    {
+      "id": "138778",
+      "name": "114年度餐飲衛生管理分級評核結果",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/458/f36446a7-6125-4e6d-b3e7-1612b3902266.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/458/f36446a7-6125-4e6d-b3e7-1612b3902266.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/458/f36446a7-6125-4e6d-b3e7-1612b3902266.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/458/f36446a7-6125-4e6d-b3e7-1612b3902266.json"
+      ]
+    },
+    {
+      "id": "167626",
+      "name": "新竹市三高成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1555/c4eae5c1-01b8-454a-8fba-4e92ac9a2c9b.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1555/c4eae5c1-01b8-454a-8fba-4e92ac9a2c9b.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1555/c4eae5c1-01b8-454a-8fba-4e92ac9a2c9b.json"
+      ]
+    },
+    {
+      "id": "164519",
+      "name": "新竹市香山衛生所辦理各項疫苗接種時間表",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1488/5630533e-9b7e-4174-a8bb-dbaf450e5745.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1488/5630533e-9b7e-4174-a8bb-dbaf450e5745.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1488/5630533e-9b7e-4174-a8bb-dbaf450e5745.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1488/5630533e-9b7e-4174-a8bb-dbaf450e5745.json"
+      ]
+    },
+    {
+      "id": "164447",
+      "name": "115年新竹市北區藥局列冊名單",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1422/fe84c5c4-b554-4b81-a78c-00979f3224d8.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1422/fe84c5c4-b554-4b81-a78c-00979f3224d8.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1422/fe84c5c4-b554-4b81-a78c-00979f3224d8.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1422/fe84c5c4-b554-4b81-a78c-00979f3224d8.json"
+      ]
+    },
+    {
+      "id": "164498",
+      "name": "新竹市香山牙醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1383/e67f9258-f0ba-4070-acbf-40a4dc487bf7.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1383/e67f9258-f0ba-4070-acbf-40a4dc487bf7.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1383/e67f9258-f0ba-4070-acbf-40a4dc487bf7.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1383/e67f9258-f0ba-4070-acbf-40a4dc487bf7.json"
+      ]
+    },
+    {
+      "id": "164499",
+      "name": "新竹市東區中醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1384/af041b26-6663-4aae-938e-d250a71b39fe.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1384/af041b26-6663-4aae-938e-d250a71b39fe.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1384/af041b26-6663-4aae-938e-d250a71b39fe.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1384/af041b26-6663-4aae-938e-d250a71b39fe.json"
+      ]
+    },
+    {
+      "id": "164500",
+      "name": "新竹市北區中醫診所",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1386/6d53c715-b15c-407b-b4aa-614be8a98350.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1386/6d53c715-b15c-407b-b4aa-614be8a98350.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1386/6d53c715-b15c-407b-b4aa-614be8a98350.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1386/6d53c715-b15c-407b-b4aa-614be8a98350.json"
+      ]
+    },
+    {
+      "id": "164503",
+      "name": "新竹市流感抗病毒藥劑院所名冊香山區",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1479/7ffa6f42-69f9-4a15-9b57-5c9f054fe202.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1479/7ffa6f42-69f9-4a15-9b57-5c9f054fe202.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1479/7ffa6f42-69f9-4a15-9b57-5c9f054fe202.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1479/7ffa6f42-69f9-4a15-9b57-5c9f054fe202.json"
+      ]
+    }
+  ]
+}

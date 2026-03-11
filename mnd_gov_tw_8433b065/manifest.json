@@ -1,0 +1,31 @@
+{
+  "type": "dataset",
+  "provider": "作戰及計畫參謀次長室",
+  "slug": "mnd_gov_tw_8433b065",
+  "datasets": [
+    {
+      "id": "139691",
+      "name": "國軍救災及防疫清消資料統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mnd.gov.tw/NewUpload/202412/救災_500425.csv"
+      ]
+    },
+    {
+      "id": "139692",
+      "name": "國軍搜救資料統計",
+      "format": "csv",
+      "urls": [
+        "https://www.mnd.gov.tw/NewUpload/202412/搜救統計_021427.csv"
+      ]
+    },
+    {
+      "id": "139762",
+      "name": "國軍疏濬成效",
+      "format": "csv",
+      "urls": [
+        "https://www.mnd.gov.tw/NewUpload/202412/國軍疏濬成效_522585.csv"
+      ]
+    }
+  ]
+}

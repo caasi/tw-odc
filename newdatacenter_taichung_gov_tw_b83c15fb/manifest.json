@@ -1,0 +1,1094 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府消防局",
+  "slug": "newdatacenter_taichung_gov_tw_b83c15fb",
+  "datasets": [
+    {
+      "id": "99643",
+      "name": "107年臺中市各消防分隊分布點位",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/06f42ac4-9621-40b2-b0e4-811c6d9da186",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0da4eca7-bfea-4812-bc41-f5b8c85e212a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/94c9a8b2-ad68-4062-8524-43686fdcadaa"
+      ]
+    },
+    {
+      "id": "83616",
+      "name": "臺中市風災及震災傷亡年度統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/585aa0fb-ab7b-47dd-816e-90d764c0538e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/724b83f9-1176-4d8c-baeb-0e7d67393a1f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/817c2633-d90d-4517-a33f-e0375b90e609",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6aaedaeb-28d7-4d71-b8d7-92e7bc0e899a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b6448da8-6d8e-447d-bca4-a20ae33c1da4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d4434874-6b08-4423-a24c-502a4ef3580a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0254a647-beb7-4342-9380-c4832a787c3d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2e49b226-2a7f-483b-a9b0-150ee57fba63",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6727e531-c2a8-47f8-af05-8b7d8ed030a8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/696e027e-79de-4dd3-8423-773f824ea7c5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/88ab92c5-dfb9-44cb-bd88-84af38f8470c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c05efbed-8d46-4e2b-bbbd-a4de9668c38b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1175e396-2477-445f-8c49-843497265db5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3cffe26e-1ae8-4c6c-a394-22402cb352d2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/95ac1ee5-1218-46ce-b6f3-c0b69dd7ad9c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/53d47c47-6621-4da6-910c-53df5703210e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ac4e3347-ce9d-4ecf-a192-63e3c4feb1cf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b77e68ad-062a-4bbc-b659-2ad91ada56ec",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6aa3adc6-84ce-4dbf-b42a-ba5ba7bb1f13",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/86567aec-8fe1-4ad9-92b0-19de184f960a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fc24f460-5692-4f44-88f2-9c34575693e8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1081af14-ec70-41eb-acb7-00c5e6dd2bdd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/24b31330-1c9d-4e5a-9d96-198ef461ff28",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/38969630-7f6f-4374-ba42-be37259e8bd7"
+      ]
+    },
+    {
+      "id": "84837",
+      "name": "臺中市地震斷層帶圖資",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2321cefb-20fc-4f49-abd1-6a4436182490",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4608b0f4-4850-4a97-a236-c0350b40fc3e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/94808643-27f7-4b18-85dd-def9beea82c2"
+      ]
+    },
+    {
+      "id": "84850",
+      "name": "臺中市政府消防局106年度上半年物資捐贈及現金捐款芳名冊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1cf3b12b-dc92-426a-b611-24d162ca001f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b4f11906-e63a-48cf-bc57-3e2d9499c9d5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cf57a769-47a7-4e84-b2d0-75afaec1d18a"
+      ]
+    },
+    {
+      "id": "87852",
+      "name": "10981-03-02-2 臺中市爆竹煙火安全檢查",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=067d15bc-9cbd-493e-acc3-cb988e5d11a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bcb49578-e93b-469c-be07-2d0bcc52b839",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=09f39bf1-4117-4c87-b023-1cdfc7490324",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=21b9f347-9521-4319-86dd-ea66b4ebb7bd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=60873fdb-251a-4eca-be2f-26b46b978fec",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f9383c18-53ea-46e7-a2aa-f1b55fe03b36",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5234a2f2-b3e2-4188-a52e-c51099f19d8a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2607b1f5-b6c3-4fc8-a78b-006e40a074d6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a4c286f-7dfa-4080-8bc4-7e93ff055586",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e9d0030e-422f-4c06-af3a-d0d084b947c4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f427eef2-0039-49b1-b906-a57aa17afadd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b74fb7b1-0354-4896-bf85-52536949c62b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e783c607-3453-40c3-9372-ce2a584151b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=645182d9-1aba-4a47-b992-8f7b837a2ad5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b2c63538-04a2-450d-966b-e7de7aae67a1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c404c82c-3b5c-47a4-86cc-9ce27f826d18",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=345994a2-70d3-4b74-9989-82240e5a10f3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1c791ea6-da5e-4169-9664-7d3534a53510"
+      ]
+    },
+    {
+      "id": "88013",
+      "name": "10989-02-01-2 臺中市消防車輛裝備",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=72ff9759-0aba-472d-bafb-876184340dfd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e78af0b1-78b2-48c7-9911-d2b5ef61d3c0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a66653be-7e79-4ae2-af1b-039098334fda",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=32640001-5872-4d07-bee5-767b88971b29",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=40dea579-1087-4d47-b7da-ebcceb2ea70a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=662a6989-bfcd-4357-8c22-abcc94a3bf0c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=749ee14a-ba58-4ee2-993e-fb1414537233",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7e5aa16a-7fc8-47c5-8b12-10013adf8168",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b5819597-e326-4984-a960-2850f0225228",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=80650698-88cf-4965-b081-238e28b5f1cc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1ce5bc9e-ec85-4b79-b616-cf02b56f35df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4514d2ef-bd9a-4119-b04d-1a5a21d4ea50",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=152f79c9-7bce-4fec-be79-1123a752a437",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aa90735c-3c46-40b2-8db4-5989851fa5cb"
+      ]
+    },
+    {
+      "id": "88018",
+      "name": "11260-01-04-2 臺中市風災災害人員傷亡、建物損失",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5530a81e-0a14-4b39-b7e5-26f0a40336a3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=71b30900-4f32-4a0c-bc34-34f647392ef0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a62b0ac-9859-4052-86e3-1597e7b5c11e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6a138f9-806c-4bfc-9ee9-a3173b285b64",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fafa887b-7217-4132-9f02-ce9e1796a9ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ffde4c8a-5ca7-4c5a-a448-ba934ede7756",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=73220e63-29d3-4d19-b822-6668e59cbce3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4abb0352-5744-42a5-85e5-04088476a428",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0597be3f-a120-4f2a-884b-ac48ac3907d0"
+      ]
+    },
+    {
+      "id": "88005",
+      "name": "10981-07-01-2 臺中市消防水源",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9fac9399-8507-43e0-bfbb-06996a52f255",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ced9b05c-dbfc-4686-b955-f1422d92e2bf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1067bb21-c74f-46b3-a5f8-b1dda924b51a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=15841fe8-a046-42a6-99f8-c8731c431a42",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=23bc88e6-2520-492b-874b-6d2b490fc5ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eb3b6d29-b81c-4273-8bfb-9271d8d02688",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4f5f8621-b02c-487d-929a-f5e5ee7f6825",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=67a7a5ba-9527-4fea-9925-b5f457c5be6a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2fea7c58-62a8-47b5-97e4-f3f4ab1a8a32",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0605d4bc-95a2-4473-94b6-a4b49545d03e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4e9f6530-aff8-441d-b7df-b34d2256cbfd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d57f9f90-ffc7-4d58-a960-4cb5148f73d2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=04c49c97-c4d8-4c92-9985-641452c0294b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8b1a6bba-0581-48fe-958d-ee332bd04136",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eab9a09a-47df-458c-a68e-9c11a83ae0c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=69ebb710-2143-4d73-ac24-5f02c91dce00",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c274506d-a8e6-4e40-afd1-e49d8e8d4044",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=444369c0-0c76-4d44-b43e-6980b3ce484e"
+      ]
+    },
+    {
+      "id": "87999",
+      "name": "10981-03-03-2 臺中市爆竹煙火違法取締",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bf987aef-9e1a-4b71-bb1b-489608d3caa9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b037367-1f59-4a40-8e23-e2dcd70bfb80",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e3312c7d-aeb7-4756-9bff-6bc1850118d5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9a302557-a740-4548-9d53-b2ca560a6207",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac30db83-1f60-4829-bd70-569b18d19e7c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=48052001-efff-46d0-9161-d28561068f8d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8143fa7c-df9f-4222-9aea-89ed1619d34e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7904838f-7012-4671-b55e-02a57b571b59",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bcedb3ed-2c31-4a3c-9a44-221b0d28311c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=96707285-9e2a-42fa-a458-e81c633910b9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c064517c-5d48-4562-a86c-8af7b913a881",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3e5fac15-5e20-47c8-b475-5ea6eed315b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=58d7064c-adf9-4ba2-9fbe-94930277c00f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a9249913-e90c-4329-b9f4-a918ec3c7d9f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d44aa403-4b0e-43cb-944d-86c2b0340da7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9a4c7c98-4fa1-4a22-81e8-fd3f27a0d1d7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1da4c295-cf44-4c7f-8293-49d42dfa9915",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0d383288-3e75-4407-940a-6a095a6cf330"
+      ]
+    },
+    {
+      "id": "83946",
+      "name": "臺中市消防緊急救護服務統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1d4ff13d-672b-4d1b-b053-a87ceb5709f8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9e134bfb-302d-427e-91c2-0f95c3196764",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b95b4aab-1f41-4259-90a0-555d543745d7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8fb49916-26cb-4121-b4cd-9da8a2dbf017",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b6d1a3c0-3e91-4260-8ec6-8ee36019c79d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/baf98537-c1e2-41a8-afed-4b7af96ae789",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1b89f1d3-5faa-451d-8a86-41cd1eb9f095",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9630a3c6-a082-43f4-ba60-b2fa13533229",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c666fba3-45f0-48fa-8a4e-0a1e59f336e8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/57324891-0c9d-49e5-bd9d-83b4826ec0b1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5b36ab2f-3875-4cbd-b1af-47074e89ffe7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a510fd86-b4a7-4e9c-afee-ceb43ddc54b1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/279d5e35-36b4-4112-b82b-ed1e0e46be50",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/88946c52-5e8e-4d80-a2cf-832d356fcb5a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e77035eb-35ca-4f3f-bf26-cc2588a5a64a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2c2fa349-b932-4380-9faa-a40baf6b5e0d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b1d18e93-71a1-4aa6-bcd4-3a8f30b72f38",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d8df41fd-f0c6-46ee-9627-7eef429eab72",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/07f4bdf2-1900-4a62-8d0c-d4f8a4209d04",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5bb935a3-6c25-4df8-8600-9cad2b49efe7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9796b266-706b-4858-8a41-786ebac4c34c"
+      ]
+    },
+    {
+      "id": "160659",
+      "name": "112年臺中市燃氣熱水器承裝業及其技術士清冊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/422c900e-f25c-4141-ad18-d782a9cfe755",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/893d1f7a-dc34-40bb-ba20-d59dbf779fe2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f47097ac-dc2e-4c91-aa9b-a2e130465439"
+      ]
+    },
+    {
+      "id": "138836",
+      "name": "110年臺中市燃氣熱水器承裝業及其技術士清冊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8cd9d739-a25d-4cc4-8569-815c08c1d87f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ced0098c-cf15-42bf-a429-5dda59576350",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f8a724e4-93a3-4653-9f5e-7e3cac8ad707"
+      ]
+    },
+    {
+      "id": "176958",
+      "name": "105年下半年度臺中市消防安全檢查列管對象",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4c0b1f7a-defc-4784-a4fe-db42b0213196"
+      ]
+    },
+    {
+      "id": "167726",
+      "name": "113年臺中市燃氣熱水器承裝業及其技術士清冊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d983a212-44c4-463c-bf4c-603f2e447c75",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e0982f35-5a2e-4b5a-8588-ec9004f3fdc6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fd791348-cb2d-4843-a614-58443194f013"
+      ]
+    },
+    {
+      "id": "172684",
+      "name": "114年臺中市燃氣熱水器承裝業及其技術士清冊",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e9005848-0218-4489-8821-22cefca86a5d"
+      ]
+    },
+    {
+      "id": "96195",
+      "name": "10983-01-02-2 臺中市消防緊急救護急救處置",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec8ccf96-5075-43d8-82e5-4e1dad1ba12c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3be68a0c-33e3-4748-a29e-2f8f38101bb2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d5e8f68b-5ee2-45aa-b1c1-e7bc95d1363d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7f5e505d-ee5d-458a-a8bb-ac1d570adac5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6afad2de-a7aa-4acb-94a1-bca169de326b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a7f4d256-5b51-4f2f-9911-5d4cc6fa0d5d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a887d5d6-e900-4b9a-986b-25d14802da16",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6a9e4797-9b6e-4174-83b7-7933baab5c52",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2b703ab0-f244-4e98-a163-eb14b42a841c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fae7613d-47ed-4891-8c8f-2a8759c4869b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=765e6921-74f1-459e-b665-9586eea6a205",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=437f5be8-b040-487f-a204-1bbb77421848",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7878271e-2f1f-4339-ba5e-460de9616365",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d5c5ece7-3f7d-4fcf-9e24-79d6e5c5c223",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ebc8d233-11b9-4188-8fe0-4ee34a1e192f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c8fee296-8d8e-4cf7-8433-fa7f0fce0f4c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=045172cd-f3ff-4920-95a6-bc757acefeea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2618cce5-edb6-4c7f-bb98-6a499bce36ed"
+      ]
+    },
+    {
+      "id": "113698",
+      "name": "10981-05-02-2 臺中市防火宣導成果彙整",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3fa03e9b-b160-47d0-8eb6-24116e6d80bf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=78a8e31f-316f-4fff-b7e6-3f951d967e1d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f8169c05-3536-47a2-a527-96a827d66397",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=02f53fdd-fcd2-4bfb-ad4e-5554d34aa109",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=597594cc-3417-454f-b640-90a6f954c588",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18dedb06-8d2b-4521-aa90-0b17084269e6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=248ce7af-d8bf-4766-b888-0736667faadb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=402a3896-08f8-441b-a5a1-e81b2ca800e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=71677eb5-0bec-4301-b0ed-a81bf901c2d5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1be1721f-3224-4070-9612-7c8b070b0895",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f3b2b4b5-d0ef-4c9a-827a-6e4e1e0334a7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b576bf63-2b20-4dd8-a157-ef05180e819a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=502e7bdb-3318-463f-b4b4-af1eeadacf87",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4d511b86-80b9-43d3-9c60-d0acd6d6fe3c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d33baedd-8d55-4b06-9ac4-fe0d80cce5cd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=42ac387a-ad96-4eb4-be95-31e20f5a5eb5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=310e819c-1acb-481d-98e9-b1748bd38f12",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f4d59c92-3fb9-444f-a686-b998613dfd96"
+      ]
+    },
+    {
+      "id": "88008",
+      "name": "10984-00-04-2 臺中市火災次數按起火處所分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aaf9b42a-a43f-4188-a1d1-0bf65e114c24",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ca092d5a-1d81-4d0e-9bb0-0b4518785ddc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e3fba364-c8a7-4974-a201-8d8e0078e484",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d066d0fb-9977-4092-8689-ab85ecd0dff8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=304a7bf4-85e6-4bb2-8a74-119527986642",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dfbad855-c795-4325-a61c-7c536e788798",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b61967d0-4203-41f7-aa18-d5afb8971c2e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7681d37f-c043-4fe0-956d-e5daf8ff7135",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b5134b7-950f-4de5-ba21-eeb7e42b4f58",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e2957bea-6748-407a-b45f-5dc062c2ca77",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ca1b9f6d-83f0-4d78-83fc-b4c5d6b8bfa9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=40d8490b-28c8-4bc6-87c7-32ebba728e22",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ce544827-55f8-4851-b8ff-188f3c7dc470",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f3d08bd8-e23d-4056-bdb8-3c91b2ad977f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b5af5870-59c8-4ac6-bdf1-9b08ed6ca75d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec3ee535-7d53-4000-99c8-300d96555f9b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2cf378e5-1676-4edc-9463-dd873a9657f3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5ca2b617-0727-4631-8371-ce1a2182deb6"
+      ]
+    },
+    {
+      "id": "84430",
+      "name": "臺中市消防人力年齡統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/43ce6948-aeea-4c2d-a5db-116c0c3fcb76",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/85ab6ca0-3425-45be-b4c5-2d4d1b006405",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f65b70f4-2a1d-4bb2-8fd4-8a5813a97efe"
+      ]
+    },
+    {
+      "id": "84431",
+      "name": "臺中市消防人力性別官等統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7d048545-d9c0-462d-afe8-97b3a1516e09",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cf2301df-61b5-44e6-b258-b9b6929a7d61"
+      ]
+    },
+    {
+      "id": "84377",
+      "name": "臺中市政府消防局105年度上半年物資捐贈及現金捐款芳名冊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/189c935e-cfc0-4d42-80e1-279db4fbd4b4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/32583e99-3b94-4b6d-bc74-2731c5230bfe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d34bdc3c-5786-4e2a-9297-76954aa56967"
+      ]
+    },
+    {
+      "id": "84489",
+      "name": "臺中市政府消防局104年度上半年物資捐贈及現金捐款芳名冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/112fed2b-e203-442b-a996-9899ab801f3a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/89b82206-892a-464d-9a8c-a3f4881a72ba",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fb274aa0-d998-47c5-add8-0c4cb6748d9a"
+      ]
+    },
+    {
+      "id": "84542",
+      "name": "106年下半年度臺中市消防安全檢查列管對象",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b03fe97e-8207-4bd7-9409-9565211128db",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f339feae-e23a-4347-a986-73fcdb09088d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f82cef56-a775-4772-b6cf-2a3d90c0f94c"
+      ]
+    },
+    {
+      "id": "84565",
+      "name": "107年臺中市燃氣熱水器承裝業及其技術士名冊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/46f5acef-77d4-4f7c-97ba-b56a2e7bc0fa",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/66bc8cd9-cc48-42a3-80b4-7469e6f707cc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ef7a9f43-8f73-4d2d-abd8-56f6ec2cceb5"
+      ]
+    },
+    {
+      "id": "84925",
+      "name": "臺中市消防局列管狹小巷道建議禁止臨停車清冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1ae2e63f-99a4-40bf-ba43-62183f3b7e0e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2327adb8-ac1e-4aa6-bc7f-29209f705060",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a89bf837-6119-42bf-87fa-76f5ec0f91a4"
+      ]
+    },
+    {
+      "id": "83772",
+      "name": "臺中市107年火災資料統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0ad35ad0-15aa-48fd-8000-9307f05e5bcb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/60b1fc50-911c-4179-b515-6c6ffe2c51f6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f8ab57d1-b70f-496a-936e-fabc3feae9af"
+      ]
+    },
+    {
+      "id": "84145",
+      "name": "臺中市液化石油氣儲存場所",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b5035c4b-4542-46db-8474-f5516189c12e"
+      ]
+    },
+    {
+      "id": "88001",
+      "name": "10981-04-02-2 臺中市消防安全設備檢修申報",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5878d26d-8433-48d4-a18b-e6773b0cbec1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0aff1bc7-5e0d-4b9c-b4a3-762d115d5ead",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1de27bee-8503-4dbe-8ac9-75f28191faa8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ad1357f4-de92-43f8-9d98-52899191f946",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=90698a81-5e69-404c-9737-f182760977d3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d8d39f3-f8ab-43fc-86fc-9003ad8c7136",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d0dfe4c0-be09-484b-8588-037e270a6084",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=de7db37e-5774-492e-8a48-b6189aaca32d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b9ec4cf-a89d-4d4e-b007-1fb89bcb91b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5e7b11df-9f3b-4e3e-a0b3-17b1e8399f44",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c2412d8c-2c99-4e85-9665-447374235aad",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4b1c45b7-7275-49d3-a5ad-6bc6c92ee6aa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2fd7b192-4ab6-45e7-8718-347a13c199ef",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e8efe0d1-e3a3-4797-a84b-a81c9fd9f89e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=73499b62-e995-462f-99d3-2424142706ae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=72be6825-a5d2-4061-9c0e-7ea93b2ef53a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=737431e6-ca3b-460e-83d8-280fee14c2c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d5b9f67-cde2-44b1-91bf-c0a24d2fba60"
+      ]
+    },
+    {
+      "id": "88003",
+      "name": "10981-04-04-2 臺中市防焰規制執行情形－設置防焰物品場所",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6b1bd235-3d93-435d-b261-f405db805aab",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1b8823f-2a2e-4fc8-8b54-ebe4b24d57ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8970a301-5853-4c2e-af56-a0e49eed7420",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5fdd1b2e-43d5-4667-901f-116646a12bb6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3f6edc28-b043-4d02-9823-9f434d3ab0ee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c1b72903-963c-47b3-bbba-791d17fab663",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b29a15ad-23be-4eb7-b5bc-ae7a4fbf6a3e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d9d14f6c-097c-4013-ad10-a5a157a3bdaf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9e7a388b-e3a2-4468-ac0b-475f2d0e4dc7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8c34ac7f-59a4-4dd8-b8f9-5333f5e6337d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8b249b11-a9ab-4d2b-a695-e44471d4c9c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8ddeaed4-42d8-4600-9ff9-7a07f656bfec",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0902958d-bd89-4b25-99e2-95e5bfdcbf0e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f1db2e88-2bb6-47e4-90aa-bd74573ecb84",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b32e9f9-d2f3-49b7-a7d6-403a51be3ae8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1ad1e26b-8bd7-42b3-af72-13819286e17a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=01fb48b8-3285-4c52-8f3e-9a01a831fe1c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8d813284-61d5-4662-9d68-c4741c58d58d"
+      ]
+    },
+    {
+      "id": "88012",
+      "name": "10989-01-02-2 臺中市義勇消防人員人數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9896d04e-6ac4-478e-9933-974239abfb4f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fe50972e-8f1b-4368-93cf-9e4e433eaceb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=41c80911-a762-4cd5-a3f3-c3977f3d7fd0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6b40e176-8945-48c0-a612-931df6d3822b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=411795b6-0afd-4b26-9466-d7232a9ed5b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4bc2f92c-5a92-4ed4-976b-d1dec7211518",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a63deb56-1b6f-4dd5-a464-530c3918af21",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=843df4fa-9173-46f0-ae8e-5b32140b7391",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a5a1157e-852c-4482-9c26-ab9d2f457468",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=902b0307-6d39-4063-b7e4-2fe714a407f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a79f9d13-6380-44b7-bba4-2bc4efc48488",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c34a6305-4b5e-45e3-9c59-6dabf5700e7c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2e8d0956-fdb3-4283-90be-b7f5417a749b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6cb662d8-390b-4c0e-96b9-43aaf44dede3"
+      ]
+    },
+    {
+      "id": "88015",
+      "name": "10989-03-02-2 臺中市義勇消防人員傷亡",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f89d02ec-11e6-46d1-bbe4-104b5dccc438",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=486b10ed-0bc2-4e96-a34c-4623b1bf9753",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=59aa74c6-e500-4428-807e-bb217b0c6598",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=66566740-7bf5-4dff-9160-c2606bf99b90",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ea5be704-8df7-4d77-bac7-bdfae145f45d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=177bf5e1-75ff-4742-b7bf-410a6213fa84",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dcb3d58c-dde7-426d-900d-8807b4810b6c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc793abe-ea95-475a-8dcd-c6e13153d5d3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=35620d34-0c9d-4cdb-80f9-1fd95cd5fca9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ec63571-43da-4cbd-8335-d38e316fcdc4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=20b432d0-1fb6-45f5-92ef-4bc182996091",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b03c7d4a-6d03-47e3-8f79-3111cd71c444",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=48903238-3e0d-42ec-9e64-0853dd621bdf"
+      ]
+    },
+    {
+      "id": "88017",
+      "name": "11260-01-02-2 臺中市震災災害人員傷亡、建物損失",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9fcd0768-7dbe-4177-8618-5145dee9cf66",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=79cfe923-40bd-4475-ad02-d3419fe68bdd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d8c6279-1f4c-4fd9-a724-cd007eb3d450",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=890651ee-2dac-45f7-a7dd-4a9a9b912e0e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6ab2b70-e43e-49c4-937a-6122355cf99c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7f02c2c1-9219-474a-a757-9d655a171bfa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=89a802df-7337-43cf-8c63-521b63068750",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=21fcb456-7657-483f-8bf1-67267594be37"
+      ]
+    },
+    {
+      "id": "88019",
+      "name": "11260-01-05-2 臺中市重大災害財物損失統計─__風災災害人員傷亡、建物及財物損失",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1bf04a56-326e-49cb-9652-3fe8c0cd810f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b2fcd52b-9203-49a9-91ae-0b72d321108f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=119eb029-8870-4e70-8831-27ee00566af4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9372eb63-5f5c-4d76-8f78-35afd473b934",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a3cbe0e9-7c39-4a46-a0fb-4570a023b3e7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fcecb42e-2c7b-41e7-9a59-b8df018df916",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e49fff0b-ae21-47ca-8bef-7956d4a8344e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dd9c70a6-a7ea-419d-b920-77f9319687a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d0e61a59-6c0a-4857-830a-d116915d04a1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=47a98a0a-b9eb-4306-adbd-afe2574217d2"
+      ]
+    },
+    {
+      "id": "88698",
+      "name": "臺中市政府消防局住警器推廣執行成果",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9d02407d-2167-451e-93c8-bf4106e19ab5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/be09ba12-bfe9-4325-b23f-023f07565179",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d780399c-eba9-4ac6-9fb3-41e20777eb15"
+      ]
+    },
+    {
+      "id": "94817",
+      "name": "臺中市滅火器藥劑更換及充填合格廠商",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a1c06562-fbd7-41aa-9891-a1136ff15c64"
+      ]
+    },
+    {
+      "id": "106180",
+      "name": "臺中市106年火災資料統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/17e67990-791d-4848-8b04-9f596cca1da5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/91a5aa88-5612-4185-b9a7-54615840238f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ee5058a0-3f4b-445e-a5b3-7582b346bf41"
+      ]
+    },
+    {
+      "id": "148504",
+      "name": "111年臺中市燃氣熱水器承裝業及其技術士清冊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/99102bd1-4417-4575-807b-d52d3cd717a5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/daa78039-d95d-4899-9f37-8b183014d76a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ef431635-75fb-4e66-a016-cbe280c60448"
+      ]
+    },
+    {
+      "id": "176729",
+      "name": "115年臺中市燃氣熱水器承裝業及其技術士清冊",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=434ecd21-9337-43ae-acad-70a6aa797bd3"
+      ]
+    },
+    {
+      "id": "110071",
+      "name": "10983-01-03-2 臺中市消防緊急救護到院前心肺功能停止傷病患統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6421e4f5-434d-4f9b-9581-03a21fc86508",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a469b048-ed5a-4c63-b640-dba5822f7e00",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2116990f-74d4-42e7-9292-a252fa1503e3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ccf832d8-ea73-4ec2-8790-73f3e245fa34",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=903ffb6f-c2df-4aab-93ae-751280331960",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4e1b30cb-ad39-4ec2-ac38-c90eddc44f18",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f35ceb4d-8052-4251-b140-65ec41a9d609",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=98114ca0-8f5d-457c-89a0-654256d8b453",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aaa7f965-cf4c-4739-97be-71d2c144e792",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=75531da1-d700-491a-b0a0-243ddb93aaae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9bad7e4c-082a-40be-abe3-dc10335cb4ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1a3ea651-a031-4364-a0c3-f1a6156d50fb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a872b6c-e766-49b0-b374-02df5b253996",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2a149df1-e647-4bd0-9a55-96b78a4ff008",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cf5919d4-55fa-4403-8d1c-f6971b6538af",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5beb65eb-8782-449f-9f1e-9227e473f9a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=37bad3f4-2fc6-4021-95c0-d622ac628eee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dd211c52-1676-4373-950d-321928e9cddf"
+      ]
+    },
+    {
+      "id": "103702",
+      "name": "10984-00-02-2 臺中市火災人員死傷、財物損失",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=318baa6f-de3e-4c15-a710-13ffed6c0618",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=70f54284-2c71-40ac-b555-a46ac1d85041",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=00d7848a-c62d-475e-a560-49ddc127b9dd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d12164e1-53b8-4fd4-b4a7-9e7afacc9525",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=05991552-d761-40e3-ad6c-b50c78116a15",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8756670f-d220-4079-a54e-39db9f7b22d2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a3c3a995-2340-4a28-b674-2af1e29aedc7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ecb883d-8163-4ad6-ab47-58dbd010dc0f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e38084d5-b2a6-4b0d-b566-17b347d78d15",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c638f3e7-1211-4ca6-9b44-8c4b376d0983",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9ae2e719-5854-4239-98f6-c074e69bb656",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4e2fb427-b33d-49ec-933f-c0b51239e89d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=411d7543-c4dd-4b79-b8d6-e7b5ab0587eb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ab3b572-c2be-45a7-97a7-0375cec5f429",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=87466f5d-57c6-405b-8ef1-d08086f6183c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0934285d-801d-4e95-a72e-6a2357e4c2d1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e4486f9b-00bd-4223-8849-14f961556536",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8acfcd5b-b34c-4f97-87fd-39c81d499dcb"
+      ]
+    },
+    {
+      "id": "128742",
+      "name": "10981-04-01-2 臺中市消防安全設備查察處理",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=21cc8526-8ef3-4b28-8cd8-4d99727f87c8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=082bba6a-911d-454a-84db-9ba59b6cca63",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a8a799db-83b5-4f5b-9258-c7058584593e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ef413de4-a94a-43ab-b72a-4af800eefb5d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8dac6e7d-387e-4747-b8cd-775a1a1f97cc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c16135d1-aca2-4043-816b-1eeec5659962",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=65833498-0ea4-409b-8d06-f46584aad8de",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=24ab1031-3973-4d68-8171-c4d82e65ab7a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=317a2c8b-e472-408f-aacc-09f44affe445",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6a2a9c06-0c39-416d-849b-4a09bd111f76",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=35bc5c54-7867-4ed8-b05d-bd8d1c3b266d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6a5c9cc0-8726-4556-921f-8f47cecf8909",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3c6b8d79-6414-46ab-b1f2-848bfc25bce5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4904f960-2cb3-4cb2-ac22-07de0d6519b5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b8aae400-3f39-41a2-bef0-def63e0f856f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f9991f71-5a1a-4c8a-8df1-bb6a5b205fd7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6b04aa4e-250d-4b1d-8630-bccb4671562b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6e989e5b-befe-4319-b525-bd99b2976771"
+      ]
+    },
+    {
+      "id": "117937",
+      "name": "10984-00-01-2 臺中市火災次數分類及時間",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b98b5625-09d7-43f1-a601-b2844ac2f939",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f9ac27bc-8465-4065-b3c2-9217c8bcad6c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=80a0be22-3b99-4ae2-9208-436c2a705d8e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=128b3e86-2215-42a1-9c1b-b394599338ae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b80c8be-552e-4833-a609-562ae0ad0e27",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9c34bf39-b7d3-460a-8cc2-8290eea999e5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d4ff210c-84dc-4afb-b1cf-609af7a3b8b9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9b382c5c-515f-499a-b475-556f0f1a3f5b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=df63623e-eb83-4d98-b696-64d6ae15b9fb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dde55bae-2b0b-4342-a7da-10a16f5570c8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=128079cc-d8a6-432a-824a-aa0d3598809d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1cc04739-5357-45fd-909c-3b818825145b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=40ebc313-3de8-49d2-b769-a22c5f319347",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0dbbf086-fb6d-4b6a-bce4-afe00408fed3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1de54a0a-3bac-4970-8705-c1dbcc9fff5c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b915d9b-c034-4853-8eb6-90c20d151481",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=52f2ee5c-9b93-4455-b96c-7f05b131facd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d5d219fd-74fd-4cfb-9d76-723ee4177d66"
+      ]
+    },
+    {
+      "id": "88004",
+      "name": "10981-05-01-2 臺中市防火管理執行情形",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=26ce81a1-a2ba-4a74-b18d-5209f47dd78f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b377f617-e7aa-4dbf-8ed5-839a177c2703",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4bb8a74e-e67e-4204-886f-bdb62e55c8de",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f1d99d9b-147e-47de-874c-5be37b036bac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=80b20297-a889-4968-b3f4-9d2759ddf24d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0ed3d09e-a1ee-42d7-9850-e6320e405b87",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dc30531a-a5bc-41a6-93e5-c1a82f66d176",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f82f8d83-446b-4de6-9f14-1ea600d7337b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=815e0da1-9e26-4ac6-9478-1110bf7d5521",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b12147f-d4e3-4434-8ca8-b126a72a1dca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aa091502-2c60-492b-8aae-44653509ef42",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=95ce9ee8-0646-4510-9417-944c7dc5c90b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=34a07cc5-3cc6-4f23-a731-89167e3fb5f3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=57d4df8b-b6f3-4d25-a5f2-28ec1c219b1c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d83b09ca-ea75-469d-91c7-371b8bf07c3a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cadc491c-42ea-4886-b6d2-ba949a884ac1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=baa76323-c4c9-4eb9-b5de-a66aa3f2e1b8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=43669b4e-f05b-4bc7-8a7a-d2ade72e9e3f"
+      ]
+    },
+    {
+      "id": "88011",
+      "name": "10989-01-01-2 臺中市消防人力",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff474966-8ddf-4675-b372-771761927ddc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cafb2318-849f-4dc2-962d-a52a9aa24943",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eb2f8017-afeb-455c-bdb8-e088c6b277a5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b25c571f-cf35-4999-b6ec-8e3538f672da",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2198bb2a-a1d2-4f4c-b4a6-90cf638f263f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ef0dd54e-f99a-4294-8d20-0014f62fb445",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=582454a3-c740-4a80-a706-cffde6086c8a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=61031816-13e2-42e3-8be9-41b7e7990fbc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fdcd5c76-33cd-40cc-9405-bcbc294dc8ba"
+      ]
+    },
+    {
+      "id": "88010",
+      "name": "10984-00-07-2 臺中市縱火案件分析",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fe0532a0-2488-4286-9f99-2f0620338030",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b8a8e8f-7608-4494-9dd8-93d6f7d65d0d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=efd83091-0869-4c9e-98ab-59fd79c5f186",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=db23a025-6315-4da0-83d7-d6bafcdb5f66",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e2e2b887-4072-44f3-a7f0-f3712f9af22a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=58a0ed77-6d18-4460-aa87-2f60b39e1a49",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f1f354bb-2694-420f-9f10-a322db3991ca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b3918fca-ba36-4b5d-9275-6af45596f68d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ea5bc9c6-3308-45d3-a470-fb692bdc78a6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6dfedb65-740f-4c31-8d6a-4102a6386e42",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4498f337-22da-4047-a84d-54968425dc66",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d49f4701-6eca-4be1-accd-6e6a047f2c7f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0927e432-afeb-4285-831b-7c9b784bfbf7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a5bdf4ca-7527-45ab-a8cb-d8aeeb22de3b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f64e5798-05c2-40d1-9011-f8be3021256a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd1e748a-0f3e-41c8-8646-952b2a8866fa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bd1417b5-af6c-40b3-a82b-79e365dbb712",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eb567d7a-e7a4-44ba-a7ab-595ff4aa6d22"
+      ]
+    },
+    {
+      "id": "81993",
+      "name": "臺中市政府消防局隊各單位通訊錄資訊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/40651d8d-38ba-45f5-b7ae-cb87e10c5da5"
+      ]
+    },
+    {
+      "id": "87042",
+      "name": "臺中市消防栓水源位置資料",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5956bfc1-f99e-4558-b84b-c0f1b943164c"
+      ]
+    },
+    {
+      "id": "84488",
+      "name": "臺中市政府消防局104年度下半年物資捐贈及現金捐款芳名冊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/171a25ae-5bb6-4fea-a7de-02f8c89d2648",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/89fbf11f-77aa-456f-bac7-3c9360e92e79",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/96df84aa-fde9-49c7-bb8a-a541efd8100b"
+      ]
+    },
+    {
+      "id": "103871",
+      "name": "10981-03-01-2 臺中市液化石油氣消防安全檢查及違規取締",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c8cbc360-db3b-4b69-9888-54b613518e19",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6b75f8b1-9d18-45b8-9172-4ee0ad0c65f6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6636cf55-d40d-4067-a44f-1efa58ceef3b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=87211822-0b33-4700-9078-7ccff840a457",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bec0a26a-e2a2-459a-8afc-9670301e0def",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4c0dccfc-16b4-4398-ba4c-0afe096688c0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5abb36c5-50f8-441f-950b-497daac6c9f6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=94aeed9d-77ef-4e24-83dd-1817f747a51b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6a957709-5b40-4109-b577-5d2cee48ed9d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=76a184c7-04ac-4fea-b926-55c445a0489a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a48416dd-0bc9-419d-b035-8206df68d32a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b9d94cf-ec15-4001-bf4c-b3a76f8af2ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f0e4fc87-3d13-49ad-8126-e172800fdd19",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=51c6c559-1191-482e-99da-32b16f93bae4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9dfd2ad5-1327-4da2-8893-31961a7d6ef9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=38c68850-8861-4db2-ae43-b670dfa40950",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9fa7281a-fc76-4e06-abab-c8c666494377",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1cbf84e7-f2bd-49fe-8654-778253cd2bab"
+      ]
+    },
+    {
+      "id": "83589",
+      "name": "臺中市106年各區各里簡易疏散避難圖",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3aaffbdc-44b2-4035-9623-7979992f9ecd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9347e251-8b58-4ec1-83ca-89dbcef38b92",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a85f156a-e25b-42e5-a87e-3bfa82dc9435"
+      ]
+    },
+    {
+      "id": "84352",
+      "name": "臺中市105年上半年度消防安全檢查列管對象",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/362d605f-795e-4a6f-aa65-6eeca1c0ba97",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e246d8fe-2853-42cc-bb8a-2b1a359e6663",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ff5b693a-e682-4e13-941c-0e310de27aee"
+      ]
+    },
+    {
+      "id": "84353",
+      "name": "106年上半年度臺中市消防安全檢查列管對象",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1aab0b98-10fa-45a2-91e0-8d0c9f6601f6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/649f8dda-4365-453d-8870-a1b975631a82",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/805555a6-a029-448a-af16-8980ce403f5f"
+      ]
+    },
+    {
+      "id": "84386",
+      "name": "臺中市消防安全檢查重大不合格場所",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=432c1ed3-e7e2-4270-bf67-a589872229ce"
+      ]
+    },
+    {
+      "id": "84432",
+      "name": "臺中市消防人力學歷統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0474b40a-186e-4a2a-9117-9ba523ad1ca2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6d7506c7-ea80-466b-9efc-3f51767564e0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b70576ad-9f45-4ba8-ad33-3668af592785"
+      ]
+    },
+    {
+      "id": "82884",
+      "name": "臺中市政府消防局105年度下半年物資捐贈及現金捐款芳名冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1a231551-1dab-4ca8-81b6-fdb741a572bd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2a090ec1-8693-4fad-9aa6-27ad265c8d38",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/922abe95-a521-4268-aaa8-95ebf963a01d"
+      ]
+    },
+    {
+      "id": "87997",
+      "name": "10981-02-01-2 臺中市列管建築物",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=943c3497-2bd1-4657-8d5a-a3e2c7da0f54",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=386b36bc-7bf5-4470-872b-00e77a75838d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d08cc231-7dba-47bb-ae97-398dff6f86ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f99cfbf3-b9c8-4fc2-8854-fa6ed586ea00",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=53ab5c81-bff2-48dd-8af9-fac513330865",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e28b39d2-eb3b-4a7f-a32b-e96aad98c3ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c924d0e4-9471-4a76-80fd-d32c24355d2d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f59f64e2-022a-466f-904f-f31e2a0a1a04",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1c915c64-dfd4-4291-8710-22bb31a1c514",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6dbea711-ed1e-46df-a7ba-8074f4f34ff2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=caddac2e-fd4a-4ed5-9010-3f2ecc8d5ae7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14ee9193-c697-4423-b3b6-6d0fe54a1887",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6a957af7-7152-4ce9-a9ec-f853cff6d71e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e7d42caa-ff7f-4e3e-bd54-57f360dbe86c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=47f0ef34-768f-4c6b-b7ed-0d1d3cac29fd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e5065cc7-15fc-481e-b2de-d6295a050aee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f83a4865-3e4a-485f-a887-e49a29ac4698"
+      ]
+    },
+    {
+      "id": "88002",
+      "name": "10981-04-03-2 臺中市防焰規制執行情形－防焰性能認證合格廠商",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b8d589e4-620a-40e4-8b16-660391ec121a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1becdee3-e8ea-4069-a2d7-f38cd5beb41a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d47c01aa-cb6d-473f-baf2-99df1a17b65f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5fcaf38a-e837-4649-babb-f2b630ed8f40",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2f2855b9-5921-4cd7-af11-6219c463facc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=36ef0762-3fb2-4b81-b041-4b4ace5be487",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ada432d-9a53-4cda-b06f-79e9e4a3eb6b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0311a539-249a-41b7-8c34-ed0d33455e19",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=55c2f55b-1a0c-49fb-bf4b-a5f3f379884c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bd18f3ad-7f2a-4117-8bfe-95b91e5e42d5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a40ac93d-5293-40e6-8654-88773a3c743e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e0559a21-9440-4190-8a19-997df7bd7e2a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=554f306e-ddc3-4047-ba37-dcc02f6ce6cf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=079d7c48-3e06-4c18-a6c7-fbf89b73576a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a633e4f7-49dc-4e20-b16f-58222f9791e0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=26522e04-c995-4780-af36-2c382242e7b0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=af27be92-cc96-4474-a18a-becd0987ef31",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=582169c6-6612-4839-a855-22aa69475626"
+      ]
+    },
+    {
+      "id": "88016",
+      "name": "11260-01-01-2 臺中市天然災害人員傷亡、建物損失",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=81148214-eebb-4a1d-a83f-fc6f9a4a8c19",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=389b1ef5-d55a-412d-a273-627832562bde",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=269dfb4d-11ad-4ad5-9c9d-04264a0b6cdd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9065bd59-175c-42e1-8d8b-7a960219ac3e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8b710669-849d-4c39-be3d-5b1b3d9f053e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c7dbb5ec-ea69-490f-9572-ec5b805d0a5c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a833f567-bb99-480b-9302-54835061c130",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=08efb516-f3f1-4b16-99d9-faed6d51af38",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1f2e047-371a-4059-906a-cbf5134f8b0e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a2b599c-ed07-414e-83cc-b688d337f1b3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fabba957-d2b6-4c5f-9526-eccf2f1fad04",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1e2e1190-8132-4ae4-8a54-8a102a1120df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac8fde6d-6b14-4b0b-a14c-6507c19d2fd8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=57368e9c-f317-45c2-bb9e-8bbb13f14995",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6e9bd09d-23c5-4e6b-9319-4ac1d03e2dab",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d84c203-9d75-4107-a793-f9590cdc9095",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=59fbc96a-207b-46f5-bf70-9fbb5a303024",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fbadf846-a7e2-493e-b0e2-6044dded12cf"
+      ]
+    },
+    {
+      "id": "88020",
+      "name": "11260-01-06-2 臺中市水患災害人員傷亡、建物損失",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=75c230f4-88c4-4852-8412-c566c1c175cd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1bd97677-3ad8-4448-a5a4-8452188ee3a9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=20590e42-e7f2-4e31-846f-6c578db8fd34",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d361a7b-647b-492e-a33c-33a23e25cb0d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=814478a8-be13-48b8-aa99-ee928569ed3f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e428e23e-1a74-473c-8e8d-ff57926aa446",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c601da56-e284-47ba-b1a4-c65fb9cff0db",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=57d6ab69-6e0d-4bf9-b543-1fab4eefcc82",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=824056cd-f027-49ab-b02f-b2ebd1dca296"
+      ]
+    },
+    {
+      "id": "88021",
+      "name": "11260-01-07-2 臺中市其他天然災害人員傷亡、建物損失",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3dd2318c-8148-442b-87ed-8a3343fa7b6a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4fd5ba70-2bbb-4761-bbf7-b2b2c4468924",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=12b95447-92e1-4c05-ba54-c8131e6a16ae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a2bc950-e067-4ffa-8afd-0155d1a86f6b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8eebc896-18c8-40f1-9b50-58dad8759d11",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=724e4888-3d92-42c9-8773-9d5be6da9503",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=151ceaa8-f087-433f-943f-2c2372c69371",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=95b0fecc-93cf-4bfb-901d-4c868bca04ac"
+      ]
+    },
+    {
+      "id": "98924",
+      "name": "臺中市108年火災資料統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/12b703ba-ddce-469a-a6b0-3df9d6b15267",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1d165470-cba3-4a7f-b93b-5ad00d1c438d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/74285f1c-47cc-4c6d-bb67-d4b3463f8b53"
+      ]
+    },
+    {
+      "id": "99644",
+      "name": "臺中市直升機起降點點位資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1f9d6b27-5451-44f6-b8f9-87ddf5e42c3b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3d87385c-2cae-4b1f-a5ce-c9f029bf4998",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/de93d983-9898-407e-8525-64be7c4cf7d3"
+      ]
+    },
+    {
+      "id": "107443",
+      "name": "108年臺中市燃氣熱水器承裝業及其技術士清冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/004b40dd-f5d0-42ef-b4e6-8c6902d2a5ec",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/46617c66-ef93-4888-bd03-5aef80989234",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c24602d-bffe-4d88-955f-a55667f4e4f5"
+      ]
+    },
+    {
+      "id": "116128",
+      "name": "109年臺中市燃氣熱水器承裝業及其技術士清冊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/40bad173-9d83-428c-8ec7-97198ed82414",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4bb50250-ae3c-47ba-8373-738890287ff3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c3c43c86-d142-4a77-b76f-d1111110e010"
+      ]
+    },
+    {
+      "id": "110073",
+      "name": "10983-01-01-2 臺中市消防緊急救護服務",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3579286a-7072-4260-bc48-5d3a713e87e9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=406052de-8be8-484a-ae23-2f633be680c4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4304bf17-7e84-47cc-bb9c-37875c214389",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e9dc11c-21c3-436e-b203-4dfe5473ae11",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ef5784a6-03f4-4aa1-afd0-7135ab9b225e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=35bdc643-dcba-4937-b57a-af922f7ceec2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0971bc61-d0a1-45ef-ad87-77895f33bf59",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff0de5e9-e7ee-4d8f-a639-ca29631a3d27",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3e8b613d-dc57-4e3e-b7ff-6fa8d5e00324",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=601379fe-8727-4c20-b7dd-45c9f73090a1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f35b6124-e3c0-40d3-bcbf-62467412e0bb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ce77b513-badd-4f02-b086-17193486583a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4eac82ca-2298-4c56-86fe-8e077276dae2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e810f8dd-489f-41e4-90a7-410fb50cbebb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e588e0d5-9026-403b-8379-d5ad522cb078",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1e1c9f55-19ab-4c82-88e0-6a00e15f1c51",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=224e33f1-2bff-4cec-9b57-92b9a125cd5e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2d08b81f-36c7-4de3-842e-03526fe52d62"
+      ]
+    },
+    {
+      "id": "88014",
+      "name": "10989-03-01-2 臺中市消防員工傷亡慰問情形",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5aef4600-e217-46c0-8865-3cf037d084f4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=209b8600-687d-4827-829b-23b27230c375",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5333707e-f6fe-481c-96cc-9dca539bb7a6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bc890b2e-2185-4050-91ee-aac1ade92bb0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b48adfea-38cb-462b-9ffc-9848856ae199",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a7ed2c29-c9b5-4ba4-9fb6-ca9a65c346f3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ffaaa614-d42b-44f5-9c48-8339c585f6dd"
+      ]
+    },
+    {
+      "id": "88009",
+      "name": "10984-00-05-2 臺中市火災次數按起火原因分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=83258eba-e2e5-44dc-88aa-b5c045f15e6d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4fc7190b-360e-42b5-bf8b-9ce7e3eb3952",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=07d2e9c6-36a0-4c15-a136-fe131199f433",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9151f278-a787-40e3-b5e7-58fbd04cbf2d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=abe7779f-af20-40e0-b745-5d8e40264391",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=61890566-558b-40a5-8e48-b3648284f023",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c0ea1da3-656c-40cf-a7b7-d6db0aa62688",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03636ade-11c5-4848-9e16-bc3a00cd51f7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6ec4901-c373-4961-a551-f7e8eeb9d132",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=55aa781d-9ab8-4dd4-981b-e420ccfbf72e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b985c53-58af-4d23-a15d-a05ee1bf6c7c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=802dcc2a-2aa1-4a7f-b9ae-09e8f91ac525",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=08aa922f-0944-45c2-8a9f-928be4c5c761",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e4381cff-fa97-4eae-b1e0-0e82298c18cc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5502f237-ae96-4f17-84f3-d8cc4fadf9af",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=abfd365d-7294-435f-be33-261cd7f8f468",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bc392abd-c5f7-4076-a3cc-db004f9efda5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=578e2c92-9eca-4a3a-88df-901e06ba1959"
+      ]
+    },
+    {
+      "id": "88007",
+      "name": "10984-00-03-2 臺中市起火建築物",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=40b33fb9-5f1e-44c3-8742-2bf71ce3a6ae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=98e671ee-2087-4f37-8801-5b20459fc867",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9690c121-1f48-43e8-a0d6-ec2e6e1ac7e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8f8d1cc7-4697-4b97-8707-e1ca869245ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=93466338-8327-4c72-bd79-1c330f734629",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c7ae29c7-b358-4940-975a-8972d032d295",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7d02bbc1-126c-4788-a757-38d753fd9e4a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=336a806f-d841-4570-b2dd-2e26d452a0c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c27a3fbc-8827-4440-af3f-548c24b7c2ae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5bf1765d-38ed-43c0-81dd-9915ab61eeef",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fb95ceb8-8530-409a-ab12-100b12a2906b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=92e66697-53f0-4395-b7e6-057f943db3ce",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3bf0f484-8c62-46d0-b0a0-49b7a31b9c3b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ed91ab3-ef6f-40d8-86e9-f9c678453c0d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=82b6045e-47d8-4014-83eb-e57f03dafaea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=27da2528-7277-4134-ae9d-ccf62f566531",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b5dd5733-79b1-4de3-b961-ce5ba53f2a47",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ce69f8e4-eb62-4010-b353-12911ebb4969"
+      ]
+    }
+  ]
+}

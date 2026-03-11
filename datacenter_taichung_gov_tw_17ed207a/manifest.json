@@ -1,0 +1,456 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府水利局",
+  "slug": "datacenter_taichung_gov_tw_17ed207a",
+  "datasets": [
+    {
+      "id": "84426",
+      "name": "臺中市各抽水站資訊",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=87e89521-27f4-4beb-8aea-fa07be55e609"
+      ]
+    },
+    {
+      "id": "84159",
+      "name": "臺中市政府水利局水位站水情資訊",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=79021f94-116e-47bc-adf4-23de9d5aa764"
+      ]
+    },
+    {
+      "id": "108180",
+      "name": "臺中市污水竣工人孔",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/67828751-1cbe-4bd1-8f37-f2766e5a1f0a"
+      ]
+    },
+    {
+      "id": "123131",
+      "name": "11221-04-06-2 臺中市臨時用水登記件數-地下水",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/49fadf14-dd84-45ca-ac80-3deb2a6e3c27",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9c4a7ca3-b04b-452d-9fae-f991aa084aed",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d0084f04-5035-4cea-bf80-7779ab459b81",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2508dbd0-37f2-4cce-8832-d20e1d235e38",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/923125b9-89b1-44f9-b7aa-65bcf750cb97",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d7316235-9ca3-49d7-8add-67a38eb8254f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/800fb3d6-1a25-4ad3-8028-221a59a842bb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9e86e5cb-7d5e-47b3-a002-753ff99d52c6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ea786daa-0bee-4d94-aecd-d4e9db468c5b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/efcfe7f0-b782-407e-9b55-4b12a0787b96",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fc23bd28-5e0e-429e-8cb7-05d5f449cb17",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/16e0b7e9-928f-4bec-9784-8ecb60ecfe18",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b36e5eeb-595a-464d-b63d-c268d2d4dde8"
+      ]
+    },
+    {
+      "id": "120801",
+      "name": "臺中市雨水下水道人孔圖",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=741e190d-cbb5-4061-aa56-c29c33984614"
+      ]
+    },
+    {
+      "id": "115896",
+      "name": "20535-08-02-2 臺中市污水下水道系統執行概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1523cdd4-0a95-4a14-8507-0f0ebb7213f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c628f4d6-5222-4a07-b6be-f7afb187653a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b53ab1e3-0665-4a51-aa71-958359cbb223",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2ab0bc80-eca5-4235-9ee6-d2f672f0e988"
+      ]
+    },
+    {
+      "id": "117595",
+      "name": "11221-04-02-2 臺中市一般水權登記件數-地下水",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cfd5120b-9899-4461-984a-49024d7f127f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ea44b948-cd66-4280-b49f-2188541167ee",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ec67488e-9055-41f6-89df-c0dbde3f3383",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/89160a21-e492-49e7-b2c0-ab172e2589e8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a4341cf6-6ffa-4919-9679-47c83d3ac1dc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d3ff429a-fa29-44df-aeac-b5fa5a010636",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3b4e13c5-7a56-4841-8f3f-d6d284a3ccbe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7d803d6d-4e90-4444-bccb-f0e923d881ec",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/db8164b8-3833-40f8-bcf7-a924d76bc736",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/43cb46f6-cecf-4c62-b5c6-6b5f3b9bb4ef",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6a8f9fed-bcce-47e7-9834-e09348bfe63e"
+      ]
+    },
+    {
+      "id": "117598",
+      "name": "11221-04-10-2 臺中市溫泉水權登記件數-地下水",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/73fa300e-33b3-48b2-bec2-dff6664e039c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8234c1eb-d5d6-44d9-832f-363375df81fc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cb348a32-b615-4959-a650-e390db77d556",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5ccd779f-4ffd-4160-b272-4b7dbecd6405",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8fea838e-881b-4fbb-a1a2-1d214622239d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f6c7ef10-9284-4852-9604-c04f9aae3fef",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3de2c9ad-a879-4226-a4b1-92a17c444281",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/65afd478-01dc-44f5-84af-2964c03630da",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cd18ef20-dcf7-4dc0-8716-bec333b7905e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2185a637-c5ac-4253-b38b-4cbe4f151bba",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/65d7271b-7766-4f0f-aa54-6bc1e677361b"
+      ]
+    },
+    {
+      "id": "117605",
+      "name": "20535-11-01-2 臺中市都市計畫區域內公共工程實施數量",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b19d24a1-72a5-4111-a426-8668d755092b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ebedb04b-ea64-466f-a8e6-0c2963ed9b63",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9e07d184-3cf2-492b-9da1-2727bfd569b8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a0e211e0-b016-42a3-af47-8db042639a4d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a79620a-8670-4181-8631-3e56bfbbd933",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6221d981-b0b2-4ded-95fd-869ac4028a28",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a013aa73-6157-4b8e-8f8a-143fcc6ce089",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d8cf18f7-846b-4268-820e-9774df058ef0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c13bc839-626e-46c2-8e8e-724fe0392a22",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e894ff8e-9158-45d4-9897-b47dfc3682fa"
+      ]
+    },
+    {
+      "id": "127261",
+      "name": "11221-04-08-2 臺中市臨時用水登記引用水量-地下水",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/617c07bd-1336-4d1a-bd56-08a445b142b8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2654d2a7-913a-4a17-983b-a6600866240e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ad0b3150-2f3f-43e3-814f-65e1111d043c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/33f1cb52-f77b-47d8-b990-dcb502d9bd42",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9bf49ae6-f8e5-4033-bd40-74d6c5de176f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dd6cd931-499e-4798-a42a-f78b4bd128f2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9ca8ac45-0ff7-4ad0-bfed-268866060047",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d62029e3-87d8-49d1-b0ca-6c6cb7e1a24b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f7dda6e0-d231-4e48-abf2-c24d80a1e860",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b9ddb20a-6a82-433d-8775-cc85500d5e88",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4a1c7e55-5259-4d96-bac8-267909f09489",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6f0bb375-80d8-4c19-9f05-1e01ecd75237",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/21c8dc61-c748-4ef4-a48c-124f15a30efd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/36534c46-f269-4305-a861-38877afa483c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/89cc2b66-65fa-423b-b227-9958d5e99476",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/78ce2d54-562e-4a37-81a0-2e8c52254f8a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7c393106-cea7-4c06-929a-4b13789d11fa",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a0f76f8d-e540-4344-80e2-5221ce6d2413"
+      ]
+    },
+    {
+      "id": "90913",
+      "name": "20535-08-06-2 臺中市污水處理廠統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=07bb3abb-f525-47bd-9825-7b4665076487",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=80ab0a37-d71a-4c0a-873d-afa1123dc5ee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d2a2cd04-6a0b-443d-a68d-4a0e59f40469",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3e0f0cec-b0f7-4318-b79a-3316ea81396e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=96c28975-4b46-498b-8b15-26cddf796af4"
+      ]
+    },
+    {
+      "id": "90753",
+      "name": "11260-90-04-2 臺中市天然災害水土保持設施損失情形",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=02567fbd-7693-40ec-9b3d-495e44990d1b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=afadc8d1-c6ff-4f43-9d3c-58776d3d5647",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5fabb9e4-06e6-4f69-a21f-f43fcc0fa802",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=423bc8d4-b732-4663-81ad-9d4b1aeb4e4e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a94c2758-ca66-44bb-84e6-adde5d782e2d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4cfc2ffd-7a9d-42a1-9788-d733f6407264",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=99a6b0f0-a144-47bb-9d6c-8a706933f782"
+      ]
+    },
+    {
+      "id": "138793",
+      "name": "臺中市農路圖",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6d4a1d65-2dbc-4ee8-b03c-9bfd3befdef0"
+      ]
+    },
+    {
+      "id": "83841",
+      "name": "臺中市公告區域排水資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0891d2f0-b915-43e5-ba76-ab5b775c9dd0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/17ae91df-766d-4287-ad86-52dbbf4a6755",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/87164cd3-0398-41d0-93a6-b23141bfd802"
+      ]
+    },
+    {
+      "id": "90912",
+      "name": "20535-08-03-2 臺中市污水下水道已建設管線長度及設施",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=210e661d-db73-4ae4-b870-98c9048be9c2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c200e674-b483-42ca-80a0-ace756a80ea0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6e0da5b3-357e-4b5f-a769-df26119135ba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d79c8e6c-9621-4d1c-999a-12b9e3f2535f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9ef4e540-13e4-49cf-ba98-3c1e8d9ec221",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3489da0f-7d39-4726-9809-821c538c1727",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a42a9d0-a213-48f6-bec9-be5340d0438a"
+      ]
+    },
+    {
+      "id": "105967",
+      "name": "臺中市市管水門",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7c597e67-ae3d-419f-bf93-d27fd5238d82",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c29de2c2-cc30-4804-b120-4eeff2f33cef",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e2770fab-2343-43d0-9972-98d50c8ea5a1"
+      ]
+    },
+    {
+      "id": "108177",
+      "name": "臺中市污水竣工管線",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/45031e82-d677-443c-814c-393d6107b4f5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7908834d-5961-4b9d-880e-4416ac8d6a99",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7a945cbf-1a11-46b8-ab61-4aa7d7f80d8f"
+      ]
+    },
+    {
+      "id": "108281",
+      "name": "臺中市主要河流",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8e020639-06c8-4c6d-9a12-63e0d158750a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d798da54-6326-4177-97f3-e32744a71aac",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f59f0b3a-e08c-4722-b991-53bed3cd1cfa"
+      ]
+    },
+    {
+      "id": "90758",
+      "name": "30910-01-01-2 臺中市政府水利局編制員額及現有員工人數",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5f2185e4-8440-4944-8a93-d2302c0e76f0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/88da396f-2372-46d9-bb1c-eaa310bf632b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c45a6c64-f6a7-4c97-99ad-616b269f7fc3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ab2f3ccf-e6c6-4ced-ac0f-8c0d067b4aac",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ac179aba-e1f8-4ade-be6d-4c89fb8d0150",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fc956664-0195-42af-a1f4-3a3988280102",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0ccf9c49-89fb-469e-a911-04cbca25cc57",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b22352ed-9584-450f-93be-51757125f5cb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2761abee-d984-46ac-9fd0-d50205e9010d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2b89aad-1f66-4168-9281-087de975a04f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1ec54301-2d27-443a-9776-d631302ff63c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ad1812f8-0ab0-4168-b22c-4a8485c4d8af",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/36e645c5-cbeb-422d-995d-c168c899aecf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/815e8daf-32c1-4c2b-a94b-b5c74f26d49e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/855d0c71-19c5-4b4f-ab80-dfc234cd1b20",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2371ea2-1829-4bd3-a64b-f98779e13282",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2464e0a6-254f-49cd-b6fa-6442a38929c5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/285cf3c0-584c-4ee2-a70a-61b799770251"
+      ]
+    },
+    {
+      "id": "168036",
+      "name": "臺中市政府水利局水資中心回收水資源免費供市民取用量一覽表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3cb56ffc-e294-4934-acec-cf243f1f021e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d22e442a-0ed3-4cfb-a3f5-c85e7fcf3de6"
+      ]
+    },
+    {
+      "id": "139086",
+      "name": "臺中市降雨淹水潛勢圖、模擬圖",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2514988d-9166-4653-83b5-baadde321558"
+      ]
+    },
+    {
+      "id": "127810",
+      "name": "20535-09-06-2 臺中市現有河川防洪設施",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=db8e0bcf-8d62-442f-bb10-1a9fef0d42f2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f58bde63-200a-4551-bc9d-c91f20db1056",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a030d2bf-872f-4dc0-ad66-b514031c9ee8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=16631aed-063d-40c5-8f2d-bc4803dcf6d9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=08af31b1-c501-41e9-bbb8-0c1ada77208e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=acb9f198-f356-4c6b-8fb7-13c42257b2f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6b3bf60-55b2-4e86-9826-72bfc14c46a5"
+      ]
+    },
+    {
+      "id": "114828",
+      "name": "20535-08-90-2 臺中市污水下水道用戶接管普及率及污水處理率",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fe4611dc-903e-4e9a-a0f4-dc9c97eb7cf6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d11e575-8bf3-400b-84ed-2be342965b1f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=09073fc1-885b-40d2-94aa-0f25a2efb055",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2f804e9d-2c20-40fd-a9d9-783001028e07",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f1e6a306-8e2c-4879-9567-889f542c1e7f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=47892f30-2e1c-466a-93e9-ee02eac6f855",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1ea2220-4223-4540-902f-92a3a61bec06",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8c695016-e47b-4276-bee9-eed3a160e39a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e8733974-3131-4798-9181-5c907b209b42",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8daadaaf-401e-42d8-8201-5f58f41a1205",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9fd84813-bcf9-413e-a981-fd14274f377b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d612456c-d3a7-4ae7-b70c-fb073039e94a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a74c1fd4-6db0-4c86-bf03-d55ae484036c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03b0d93f-731c-4724-b4a3-d87b386ddee3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18b15d7e-ade7-4248-9b52-5e9a60e09a8d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f7b1c74-f531-4ea0-9910-ffd20c116597",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec745878-2f2c-45fd-a970-3e97bbc4e731",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f05dc02-79dc-49c0-a78b-82c79856bca3"
+      ]
+    },
+    {
+      "id": "84530",
+      "name": "臺中市106年污水下水道用戶接管普及率及污水處理率統計一覽表(依各月人口資料)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5cab461f-9ad5-426d-9021-7750e6d9d871",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b0b8592c-8348-4d0e-9904-c1ca3e9dd206",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bcab8a68-c9b4-41ee-9888-a6eb3ef41e92"
+      ]
+    },
+    {
+      "id": "84392",
+      "name": "臺中市水利局轄管滯洪池",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/126d4a07-65f3-42c4-b750-e4ff87d0a051",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/25baac01-9b18-4ffb-9b77-4b4fda98ff48",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/36c7d767-d1f8-41ff-b0d2-1010e1b53f9b"
+      ]
+    },
+    {
+      "id": "84399",
+      "name": "臺中市區公所水門",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6adab4a9-49a9-4bcc-8c06-921ab6aed61e"
+      ]
+    },
+    {
+      "id": "120833",
+      "name": "臺中市雨水下水道管線",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/05537593-784b-4ffe-b820-1990648b5007"
+      ]
+    },
+    {
+      "id": "117594",
+      "name": "11221-04-04-2 臺中市一般水權登記引用水量-地下水",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ff46da2e-0e16-4576-a7d2-bf2b1d04ae4e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cb2f4a0b-dc95-4cb9-809c-579f7f613a33",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/34cab27e-9327-44dc-9ee7-25e70358c035",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fb2708f9-1ab1-460c-8b4e-91a1854bb607",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b2d261a0-66f8-4344-9deb-4a7bf27cbbae",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/69941932-9406-4362-bf31-dab54e5d272d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c7b7ac7c-b6ad-4b0f-850a-28b2d8fc6059",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3bfe34a3-81c8-4b70-8b9f-9d5d641eb62b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5d1a5f78-85d0-40ca-b9ba-94eb8b696277",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/97ddced7-6946-49a5-ae32-50827daa0663",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/233701e0-3204-4aef-ac5f-c173e728e937",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a46a9f8f-aaf9-425d-af56-2af72c1c4b13",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0bf1288c-8ec2-4c7d-9e08-094a4b8e45c4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7eb47c73-9362-4020-bf8d-0a6810387ed3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/80e32fff-d464-42d1-a571-2a07ea72dd5a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4e77fdd5-da77-4c23-9a49-ff349637afb2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9102e9a1-3add-44a6-9f52-6a14477e912a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f8f7b2fe-a153-4354-904f-3d285a21ab61"
+      ]
+    },
+    {
+      "id": "117599",
+      "name": "11221-04-12-2 臺中市溫泉水權登記引用水量-地下水",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3b8d5aec-e0fc-4644-9f89-ecaced8a3635",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/449bca1d-017e-436f-98e0-88717ab68dd3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ecb09b35-e6e5-4b16-b8ec-591e924135c9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6a61e4b0-6043-4a48-b665-11c378e0e544",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b498f941-6105-48cc-9d99-033f32853955",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a66be846-f091-4bda-9863-d41769b071ab",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9563da76-eed6-47d5-99b8-50822d003f6a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e20d3404-ca4b-4fbe-abfb-0bd6efee9238",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/09cae791-4d1d-46b2-979f-f452cfeba3b0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/77a87204-08cd-46ef-8991-0cf83d1480e9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/db42f755-c946-4f32-b858-cf1978d173f3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e8794261-0ae6-4c0e-99b2-9b0da4aa3d27",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7cc3cc88-4661-4998-95cf-0f9cd40daaa5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/837df576-c27b-43b6-bc9b-46166a1dd3c7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a99d5ae9-7568-4522-b83e-aa778aa1901f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6956473b-7ca3-4f4a-a281-c042dce0ca84",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f32015b6-89e8-499b-b8d7-40f2ba420273",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/17af0748-d41b-4037-a9ce-5c9f5168cff5"
+      ]
+    },
+    {
+      "id": "117603",
+      "name": "20535-08-05-2 臺中市污水下水道建設投入經費",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8de354c8-d80f-4bbf-9190-a6eb7da892c3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b56aa115-95be-437c-a1ff-ce7421d3f83c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ad08c98-a299-44f4-8e82-cbce5a0ff03c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2a4dbcd3-ead8-4eba-80dd-0a6fcf15e84f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=902743fe-c9c3-4ac0-87ff-7ff34317de00"
+      ]
+    },
+    {
+      "id": "115890",
+      "name": "20535-08-04-2 臺中市污水下水道系統營運管理費用及收入",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ee842380-287d-489c-97a1-5d5810521fa6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4e7c2b1-d112-428e-bbd2-c019574d00da",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c811ef79-028b-4cb6-a175-fbf38d50f5d5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=79cb3b64-a3d8-4fb5-b3c1-56831cbaa228"
+      ]
+    },
+    {
+      "id": "130157",
+      "name": "臺中水資源回收中心",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1a1ca2a1-1098-4198-95d9-33cf08567c8d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/52362fd2-a8c7-4160-a5d5-2c96d880ed55"
+      ]
+    },
+    {
+      "id": "130158",
+      "name": "臺中市水土保持法罰鍰案件",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4faef96d-9078-4d41-9cca-ffd2d4f78a56",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fb3b6dc6-5292-4049-84a4-487c1b579740",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2d8c05d3-9ae7-4917-b928-9c743eae56b3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dc66eef1-6e2d-4e8e-b14a-6896b113aa80",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2f9139b8-7d57-4f27-9abf-493756ea2bf4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ed2a9977-1f5e-4ddb-b0b2-9f54afdc9397"
+      ]
+    },
+    {
+      "id": "146555",
+      "name": "臺中市市管區域排水路圖資",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e7146ab4-bae5-4d01-a024-3da88dad4402"
+      ]
+    }
+  ]
+}

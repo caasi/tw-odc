@@ -1,0 +1,424 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府觀光旅遊局",
+  "slug": "newdatacenter_taichung_gov_tw_d68af267",
+  "datasets": [
+    {
+      "id": "81426",
+      "name": "臺中市合法旅館",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/28975461-413f-48e9-8bb7-8b6d95f70af0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4801148d-6d06-469c-abab-8c2578b89c56",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e738700e-b148-4ab2-8313-f302c3fe904c"
+      ]
+    },
+    {
+      "id": "88695",
+      "name": "20703-01-01-2 臺中市旅行社及旅館家數統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9ac8f6f2-387e-4a16-8021-2b79a3d046c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3013cad6-e8d0-4af1-9dc6-bc9edbd02266",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b3f879e9-cac3-41b5-aec6-48c5e654a4bc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9174a238-8782-48d0-8efa-171b052577fa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=74c4ce91-e75f-4d8f-85fd-7cc24ef45977"
+      ]
+    },
+    {
+      "id": "88697",
+      "name": "20703-03-01-2 臺中市旅館業及民宿業營運報告表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=72d1af80-6751-4eed-b37a-b51264510e77",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3326bfa9-c95e-4f72-ba1d-7316d37f4a41",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0aca6ca3-72ff-4e68-a676-391bb2c95bea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7cd143fb-ab94-490f-826b-c33b1b3b84e6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=07914e0a-91bc-4ab7-a44c-6b412f5a7b1e"
+      ]
+    },
+    {
+      "id": "84070",
+      "name": "臺中市政府觀光旅遊局105年度補助民間團體經費一覽表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8df90f0d-4ebc-46e3-8bd4-13e973090862",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/90cbaa46-582c-40c3-8c6b-31f63a0a166b"
+      ]
+    },
+    {
+      "id": "83640",
+      "name": "臺中市旅遊服務中心聯絡資料",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=43871bd9-67e1-4be5-8d81-1cade98789dd"
+      ]
+    },
+    {
+      "id": "83646",
+      "name": "臺中市星級旅館資料",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=99431d6d-6ee9-45db-bcf3-d5a044b864a0"
+      ]
+    },
+    {
+      "id": "83826",
+      "name": "臺中市活動",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=183a6940-9376-4524-b7aa-63674f762ea5"
+      ]
+    },
+    {
+      "id": "113538",
+      "name": "臺中市風景區範圍圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/34192d7c-fc05-4b77-be41-588bbb8fdfe6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3af55490-bdec-4f67-96e8-7d2f7ce9a635",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9f28cd46-f2c4-4df8-8345-f93ef8685a08"
+      ]
+    },
+    {
+      "id": "130146",
+      "name": "臺中市非法旅宿裁罰名單",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0770b1de-413c-43a0-b42c-b982e10963a6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0d6707f8-855f-417d-a4a6-324c3313c9e1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/586b90eb-a4c2-4a73-9aee-9fe08eedc97b"
+      ]
+    },
+    {
+      "id": "130147",
+      "name": "臺中市合法露營場名單",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a75766f0-c1fc-44ca-b41e-52a09c3d1d03",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cbe0185d-f012-45f1-92c1-06ea1875a710",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e82b273d-166b-4e66-a397-958b3c6e156c"
+      ]
+    },
+    {
+      "id": "85008",
+      "name": "臺中市觀光景點",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/93136ad2-716d-4b04-90e7-41d3db872b2d"
+      ]
+    },
+    {
+      "id": "85009",
+      "name": "臺中市消費店家與經緯度位置資訊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/02cb440c-d471-4127-bf7e-a3df9afd630a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0da1adc5-ebb7-4f0f-9740-5d80104ab709",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2980962e-18e0-486c-909c-0618c0b18aa3"
+      ]
+    },
+    {
+      "id": "82692",
+      "name": "臺中市政府觀光旅遊局103年度補助民間團體經費一覽表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7db005f2-399d-4538-be23-38ff712d30b4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a5ace85b-0989-460a-bb99-dbd75c599e4f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d3063b48-aa0d-45c8-9486-ae0f9b125e3e"
+      ]
+    },
+    {
+      "id": "83608",
+      "name": "臺中市自行車專用道",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3b0b2e5c-3dd0-4e45-80fe-e8091943f2e2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b03e5ad1-10d1-4a8b-9417-7ca3effc6fae",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ba70e3f7-e21d-4f5e-a2ba-3c4d34b0ed32"
+      ]
+    },
+    {
+      "id": "83636",
+      "name": "臺中市健行步道",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/05155124-248c-45f8-ac6d-e1dede93b829",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/25b98f95-8e92-40d3-b064-8235bee9b0f2"
+      ]
+    },
+    {
+      "id": "83639",
+      "name": "臺中市觀光旅館",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6b342f22-4355-427a-b421-a276e49d2d1b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c8b17342-bc17-4ccd-bffc-da028581b221",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e5786faf-9d48-4e99-ab54-850dbb0345e9"
+      ]
+    },
+    {
+      "id": "83641",
+      "name": "臺中市危險水域",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=68f3d72d-de86-48f1-8f15-fd976c968697"
+      ]
+    },
+    {
+      "id": "83643",
+      "name": "臺中市領有溫泉標章之溫泉使用事業",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/678b53a2-6de4-4052-90b4-0847eb1d7a5b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/841e58c4-8dd2-4641-a423-84c1e7040d3e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/96e53cea-526b-4e95-a41b-17189ff2bdef"
+      ]
+    },
+    {
+      "id": "83645",
+      "name": "臺中市好客民宿資料",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/68acf986-009e-469d-a40d-f45d0965381e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/740d8d6f-cb2c-4614-9234-bf91e5a3d20e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c512d820-a384-46e7-b2a5-442719caa1e3"
+      ]
+    },
+    {
+      "id": "88700",
+      "name": "20703-03-03-2 臺中市一般旅館業營運報告表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=90739b6d-605f-4e24-908a-772bda99d423",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e5b0a9bc-5544-46fa-9ac7-6d3d318b49f4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ddbda12-8945-4f9c-acdc-7c8dff5f118e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6dcfbc9c-1662-487c-938c-621bfd3e1687",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f1ef8ea6-12c6-4f1f-82c8-7035ef2c2b73",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=810e63db-bbd9-4ad7-a170-48d4068fae99",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=04ea7c56-8f11-4268-b17d-80b51b7c58d0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1fefdbc0-e6ea-439d-a783-cca5bab3de5d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b5e0d01a-4cd9-4b37-909e-210adc36720b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03c438c2-969b-409b-9b74-ca60f83e25f9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cbcc4b26-a091-4f5a-b46e-7c51df8b7bd3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18753e74-68bf-428f-ac57-be94706bf5bc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bb75d6c2-7aca-4aee-a0c7-c92855c1a880",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1c614fb6-7273-49f5-98bb-faff54d29cb4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=55ebc317-3dab-47e2-bb7a-c7cb65c1498c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b410bc69-db16-4157-8e5f-2aab3cfd01f7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e3af46b7-5a02-4020-ab5c-0d21f0e140ee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=72747293-3545-4cc6-803d-b22cf542473f"
+      ]
+    },
+    {
+      "id": "88702",
+      "name": "20703-90-01-2  臺中市一般旅館業查報及取締情形",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9c573d5d-61dd-4483-b371-6e4778256abe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=15271302-cf98-4cfa-9eab-aead2160757c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2c2eecd5-5d5f-4c20-b680-ef716d6f0f9e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b31a6de-8898-4054-9279-a6691d62e407",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fd55c219-1c39-470b-92ac-24cb93cfc231"
+      ]
+    },
+    {
+      "id": "103696",
+      "name": "20703-03-02-2 臺中市觀光旅館住用率及住客數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e55c2dae-9c6c-4252-935f-82904883bb9c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c0a8d888-24bf-4616-bbf1-3e4fdd7e1148",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=747c5269-e818-467b-935c-a83b1a300de3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b12295c-cfb3-4ece-a6e2-5f1035d9b56e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e3a915ab-3d69-4f36-abee-b2990c16f2ce",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=83e7404d-e44f-477e-b5f8-05ae2f35836a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=62296c33-ffd9-4437-8078-4aed915dba3e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1c56c7c8-81f8-40ed-81c5-a1d3546906c5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=34b4df83-b791-421b-8b6c-c34349ca6e15",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d8cc3170-8beb-4d4a-bf5e-461ff08c7d9d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=63edab61-3797-40a0-b03b-0f2470f3d969",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a474ebb-dad1-4532-8846-7c677de2bcd1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c4e3e761-f79d-48ad-b905-f0788c9da63e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2e5443b6-0353-4733-91d4-feebdf48dbcd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3f2c1986-cb88-4163-857b-71ef1856d67e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ace6175f-7a2c-4739-a95a-4c3bc042e3e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e63b6d41-1c6c-4533-b056-d0073cdac92d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a984cf7-6ae9-4867-a9b8-edd23fa35404"
+      ]
+    },
+    {
+      "id": "104725",
+      "name": "臺中市政府觀光旅遊局106年度補助民間團體經費一覽表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b1a751ce-2c19-4e4b-87f4-4a61e2f7beb9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c1e67b77-5a3c-440b-a21a-200559c0813a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e63a3ba2-c186-4905-9993-2f0c9dcd5663"
+      ]
+    },
+    {
+      "id": "127576",
+      "name": "臺中市政府觀光旅遊局108年度補助民間團體經費一覽表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5bac4d43-f17d-4bce-99bd-8018a9bc0b81",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/841582fd-1392-4bc8-b02e-66dfa9b1efcc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f4d9747d-f21d-4290-9b27-cc53cf66639c"
+      ]
+    },
+    {
+      "id": "130148",
+      "name": "臺中市賞花景點",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1a1d636-c9be-4254-9143-e670e8823e4f"
+      ]
+    },
+    {
+      "id": "152427",
+      "name": "臺中市政府觀光旅遊局辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6ef9a309-4f26-48f3-a244-7e26a163e9a7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e9f9e287-f7ee-4cf6-a26e-80d00ff19d35",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/385f151d-f8db-4a0b-80da-0d354021a9de",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/84c7ed5c-af22-4fd9-9c98-43e2dceffd90"
+      ]
+    },
+    {
+      "id": "147090",
+      "name": "臺中市海域遊憩活動一站式服務資訊平台景點資訊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/38476e5e-9288-4b83-bb33-384b1b36c570",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9ea7c727-4a43-4dec-a5b6-f10e974503a9"
+      ]
+    },
+    {
+      "id": "88694",
+      "name": "20702-90-01-2 臺中市旅遊服務中心旅客諮詢人數統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=180979b1-0379-4040-9175-c60d69bc2b87",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=800fafda-e98c-4d94-b7fa-7aa387fc8d9b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=76f48951-4982-408d-8e43-8f009b556a9e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a2ca85a6-9ad1-426d-b0fa-66ccebdb7c10",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8bc2dae8-ca06-4c48-a271-0326c74619b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8024b9b8-2efd-4ccc-8dea-31d76e448169",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=adfba988-a553-49cf-96bd-6cde0d94919a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bc1ea2d0-f7a6-4834-90d8-8e16772f50d8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b4cfb8d3-ae4a-454b-b72d-dbba5c60e96a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f9051675-5bec-4504-98ff-417bba1a40c4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fd8a0953-b68c-4139-a58f-da20dbf1f9f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e92f92f7-dd9e-48e1-8f26-5c4a2d6fd356",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=025bb3db-714f-46a4-a99b-079621b6f6f9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=13db31fe-16a4-4482-88ba-f69b3e202078",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9e22e0eb-77dd-4241-bc21-285d2ecb7adb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d5fb33e8-8bca-416f-bdb2-7a303d720738",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=403f0021-f554-410c-99cd-2f29d82d1ac4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dc2bdc51-0480-41f2-8c89-0213e6e50488"
+      ]
+    },
+    {
+      "id": "83638",
+      "name": "臺中市合法民宿",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab9f743b-1d9e-4b81-8bd8-8a093135d587"
+      ]
+    },
+    {
+      "id": "83642",
+      "name": "臺中市低碳旅館",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/58ecc57b-573a-4a6c-9f42-e9be3cc3fa16",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6b84947b-ae8c-4fad-b50c-ba43ab808f3d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9d936045-7adb-4551-b682-b95816421716"
+      ]
+    },
+    {
+      "id": "84194",
+      "name": "臺中市政府觀光旅遊局104年度補助民間團體經費一覽表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0f456b46-29d1-4fc8-9583-e79e5f2ca947",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9f7da988-96bc-4b48-935b-07524dda5db7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2cbdb1d-d5e4-47f4-8c08-9e312b475067"
+      ]
+    },
+    {
+      "id": "88692",
+      "name": "20702-01-01-2  臺中市主要觀光遊憩區遊客人次年報表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4aa81631-3ca6-40fd-acd7-f597d07cafe9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=65fac8ad-8dea-46ec-bcef-34352410d693",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ad37f95a-b7a2-4f62-a333-21d54db8a8e6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=268b7735-a92c-458b-8975-0867f2666993",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3db5103d-1b8e-45ee-a678-d83ce3fb3312",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=99532b24-fd3c-4144-9648-3022b3056eb4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a34d157-ba5f-41df-b5f5-e4d8f9d383fd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c609103b-eb81-4cf6-9573-331a44d13707",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5dc0be72-21b4-42cb-950c-e1302b02114d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4f2c6d0c-ae5e-47e1-b05a-2fe7b9737ac4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d7676b7e-96c4-46d7-92d3-79d94efc2372",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f0ffe9b8-95b9-4486-8fa7-56cd67c88109",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ba80807-ddb4-4d30-9b2d-a6514a8825fc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c3e61a4a-a95e-402a-ba4a-d9bddaa080b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=091cc448-867c-4183-80d6-8d5e086a5fee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6d5150a-57e2-4096-9396-2a42144becb7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bbaf8803-3a01-473b-a33d-d1c8f846ec9f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=29abbb41-efad-4384-899a-92738f23c3c7"
+      ]
+    },
+    {
+      "id": "88693",
+      "name": "20702-01-03-2 臺中市大坑風景區各登山步道遊客數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9caa3d80-5108-4d92-a0f2-fffa7fa57b94",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ef23e87c-f8be-4717-809b-76d973883784",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e03b0a7b-3ebe-41b6-8bf9-91c5268505c5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6db85f60-06d9-4e2e-9397-5b3ca8d51f40",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e0d5ff89-4989-42fc-a820-688f21a77b28",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b1f016b0-5069-4427-a81f-a92adadf9851",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=68242c43-adb7-4b87-bf4b-b3b3f2b417f2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b6bffa19-e393-46d8-99a0-a850366f31c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=23e3af7d-0bea-49a9-b29d-0e527dd930a2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b551c3e6-bb30-48c7-b788-f439d64a36d4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=69972442-9427-42f3-b43f-97ca0636d049",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8b73b810-d560-4a9e-abdd-46f82ea3ca41",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8da2b202-d1e1-4af4-ad4b-56fc04286cd8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff5b953f-cb9c-4372-87ad-2fd79b1f2f76",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18ee3116-6ff3-42f3-a9c2-8ac716f72ffd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=81779b37-9675-4c25-9d18-e3baf43035a1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a4d0bcf-b277-4088-9f80-ddb9ae612438",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8a5b6aac-8f4a-4bb7-91f6-16aed3314f9e"
+      ]
+    },
+    {
+      "id": "88703",
+      "name": "20703-90-02-2  臺中市民宿業查報及取締情形",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=61f6ba17-9eb9-40ce-b1ee-1f8f02ac816d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ccff6a55-4d52-4f8f-9438-ae9f6b5b7615",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1684384a-25eb-4494-9dc1-624b29a438f6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cff34117-4c65-438f-8c42-8717d4f92008",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=89aee0a5-1e15-4a36-a69c-8788ce82ae64"
+      ]
+    },
+    {
+      "id": "104727",
+      "name": "臺中市政府觀光旅遊局107年度補助民間團體經費一覽表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4f666761-61ff-49d3-9d51-e8bcd3a42689",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6d3585b6-77f0-48aa-8445-5b8f8af2cfe7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dd9c84e6-ca30-405d-be23-5b1771cda83b"
+      ]
+    }
+  ]
+}

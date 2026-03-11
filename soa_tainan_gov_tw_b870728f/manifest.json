@@ -1,0 +1,99 @@
+{
+  "type": "dataset",
+  "provider": "臺南市政府",
+  "slug": "soa_tainan_gov_tw_b870728f",
+  "datasets": [
+    {
+      "id": "140150",
+      "name": "臺南市旅遊別冊",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ac32564c-7b6f-45cd-8e59-d4ba63ce59d9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ac32564c-7b6f-45cd-8e59-d4ba63ce59d9"
+      ]
+    },
+    {
+      "id": "140151",
+      "name": "臺南市刊-悠活臺南",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fce1f835-b030-4026-b8f2-e2b501f98c7d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fce1f835-b030-4026-b8f2-e2b501f98c7d"
+      ]
+    },
+    {
+      "id": "53561",
+      "name": "臺南市避難收容處所開設情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/9c2e21c4-a942-46dc-a08c-6099289cc024"
+      ]
+    },
+    {
+      "id": "128015",
+      "name": "臺南市空氣品質微型感測器監測資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ef6a86ad-f659-4bef-bf60-29d9d22c6a7f"
+      ]
+    },
+    {
+      "id": "129321",
+      "name": "水利署與台南市合建淹水感測器感測資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/537b469d-e8c5-42ca-835e-bdde93bc61be"
+      ]
+    },
+    {
+      "id": "140065",
+      "name": "臺南市市界",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7c0cc2fd-4c83-4c1b-ba9c-557267b87f0a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7c0cc2fd-4c83-4c1b-ba9c-557267b87f0a"
+      ]
+    },
+    {
+      "id": "140066",
+      "name": "臺南市地名舊稱對照",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2bbdacfe-8b64-426f-862e-0d474e811dd5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2bbdacfe-8b64-426f-862e-0d474e811dd5"
+      ]
+    },
+    {
+      "id": "137782",
+      "name": "臺南市淨灘執行成果明細表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/23c178b7-ece5-4abd-ae2d-82429ec28d09",
+        "https://soa.tainan.gov.tw/Api/Service/Get/23c178b7-ece5-4abd-ae2d-82429ec28d09"
+      ]
+    },
+    {
+      "id": "122807",
+      "name": "臺南市政府採購公告資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c26b7b81-6aaf-4f38-895f-cc61f807fa4d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5146cb03-3886-4db9-8c4d-8acefd659cca",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ec6e28c3-e079-4141-b81d-53d87a714109",
+        "https://soa.tainan.gov.tw/Api/Service/Get/39b5f06f-f8c2-405c-9b19-0edafdf4b987",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b04c27ac-f8ca-4c6a-b102-dabc34f6e9d2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/84c8d48c-ebe9-45aa-bc17-a47b41cdaa93",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5ca4d40d-f26e-463b-be91-f8245cd8ada2"
+      ]
+    },
+    {
+      "id": "140060",
+      "name": "臺南市境內河流",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/18b13325-487f-4a90-9759-07236e01229d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/18b13325-487f-4a90-9759-07236e01229d"
+      ]
+    }
+  ]
+}

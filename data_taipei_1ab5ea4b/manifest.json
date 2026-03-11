@@ -1,0 +1,760 @@
+{
+  "type": "dataset",
+  "provider": "臺北大眾捷運股份有限公司",
+  "slug": "data_taipei_1ab5ea4b",
+  "datasets": [
+    {
+      "id": "128506",
+      "name": "臺北捷運各站分時進出量統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/63f31c7e-7fc3-418b-bd82-b95158755b4d/resource/eb481f58-1238-4cff-8caa-fa7bb20cb4f4/download"
+      ]
+    },
+    {
+      "id": "128412",
+      "name": "臺北捷運轉乘停車場座標",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ca697240-59ce-4a58-9ab1-3c229bff0a31/resource/0fc66647-d862-4830-992c-1903a37ccf1a/download"
+      ]
+    },
+    {
+      "id": "128415",
+      "name": "臺北捷運自行車停車場GPS座標",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/cdf68d43-9bd0-4b75-8377-dd3e28b06ff0/resource/cf586b99-25ad-4dd2-9fbe-08c831f85373/download"
+      ]
+    },
+    {
+      "id": "128416",
+      "name": "臺北捷運車站無障礙設施資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3c799405-4e44-40dd-b747-daed09e88cdb/resource/5d45ef49-d60d-4354-b634-8dcf7d28da07/download"
+      ]
+    },
+    {
+      "id": "128417",
+      "name": "臺北捷運轉乘車站轉乘步行時間",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/782c2b71-8f5a-4575-9bf2-e86999be2863/resource/14fd1af0-dc2b-4174-87d4-fcb9de783496/download"
+      ]
+    },
+    {
+      "id": "128420",
+      "name": "臺北捷運系統相鄰兩站間之行駛時間、停靠站時間",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/513e97fe-6a98-4a0d-b7dc-11122c8638d4/resource/c32998fa-c9b2-4324-9016-e19fbe0815f1/download"
+      ]
+    },
+    {
+      "id": "128421",
+      "name": "臺北捷運車站免費接駁車路線",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/f278aa11-f97f-4a6e-a3de-51cb8313524a/resource/04a9e3ca-9d96-4f2a-aaef-ead33af206e5/download"
+      ]
+    },
+    {
+      "id": "128422",
+      "name": "臺北捷運地下人行廣場出租基本資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/b1abf6be-41ba-47b9-b0d6-7177e9670cca/resource/52446bcd-8b98-43e1-bcc4-ef0348b8b4ee/download"
+      ]
+    },
+    {
+      "id": "128423",
+      "name": "臺北捷運地下街店舖出租基本資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/9df621d0-4323-4f2c-b82a-2b7037515e90/resource/94c9a370-3a17-4eba-abc0-3ef38d30e31a/download",
+        "https://data.taipei/api/dataset/9df621d0-4323-4f2c-b82a-2b7037515e90/resource/075cd340-7336-4ddd-aec0-b87701229f83/download",
+        "https://data.taipei/api/dataset/9df621d0-4323-4f2c-b82a-2b7037515e90/resource/15628d47-44f1-4f91-8b43-b32256e146d3/download"
+      ]
+    },
+    {
+      "id": "130909",
+      "name": "臺北捷運路網資料服務",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/734f79be-8247-4aff-8fe9-e9de72506de5/resource/b5d52ec9-546c-447c-a1be-9035b0c32987/download"
+      ]
+    },
+    {
+      "id": "131731",
+      "name": "臺北捷運車站出入口資料服務",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/19a3a425-1b95-4e72-a1c4-9eadaef52fc9/resource/c6582350-0d86-437f-b912-29486f4c00a6/download"
+      ]
+    },
+    {
+      "id": "131736",
+      "name": "臺北捷運路線發車班距頻率資料服務",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/6d15899a-ff77-4a39-8203-a3addfe1fa28/resource/650a2f12-dc02-4733-89d3-46de2fba6a8e/download"
+      ]
+    },
+    {
+      "id": "169602",
+      "name": "臺北市置物櫃資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/frontstage/tpeod/dataset/resource.download?rid=d780d492-d6dc-414d-968d-24092a8c9432",
+        "https://data.taipei/api/frontstage/tpeod/dataset/resource.download?rid=87935515-e8af-423b-8772-67c5b50ed2dd",
+        "https://data.taipei/api/frontstage/tpeod/dataset/resource.download?rid=f117e65c-8a7a-4696-82ad-a67a0f1fb5a4",
+        "https://data.taipei/api/frontstage/tpeod/dataset/resource.download?rid=aced7eaa-d657-418c-9d11-b46e58e04f11"
+      ]
+    },
+    {
+      "id": "127817",
+      "name": "臺北捷運車站無障礙設施異常公告",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/d884a9c6-f86c-4854-8da7-e6516ddbe612/resource/649c44eb-60b5-4746-a353-cbdc6651fc09/download"
+      ]
+    },
+    {
+      "id": "128428",
+      "name": "臺北捷運車站出入口座標",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/cfa4778c-62c1-497b-b704-756231de348b/resource/307a7f61-e302-4108-a817-877ccbfca7c1/download"
+      ]
+    },
+    {
+      "id": "128519",
+      "name": "臺北捷運藝文廊各場地展覽資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/1f30d3ca-576b-4274-a1de-0f5ec0e32eaa/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/275a2a2e-667f-4807-a3ef-3a0819a66135/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/49c14663-609a-430e-95fa-282a0825ea7d/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/a413cbac-a584-4e61-a730-e935e9c24019/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/800f3483-74c4-49c2-b8c5-be0c1114eff7/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/0d82415f-4099-404f-80f4-d6b67d295995/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/e1428301-3eb6-4990-ae53-879d771f8940/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/54adafe6-5825-4e84-ba30-00f8c05f74c2/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/dc5dbf52-eae5-46b6-a3ac-85d33d815881/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/65c3ddaf-bdbf-4ac5-a438-db16fe9edce0/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/fb41eb68-ca83-44dd-9c3b-a1ebbd6e4906/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/3f85fc28-f381-4108-829e-a21dd3784a3e/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/bea88bd3-f23a-4762-8c6c-cc974df0621f/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/62745830-e4a5-4854-9217-602ec732c0e7/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/372c7ee6-6cb7-49e8-8bc3-d0443c251a39/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/3aaaf25e-2a45-4d90-9202-76cd34bab480/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/ace0b86f-d96a-4f27-9383-a4637ea4d5e5/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/03e71425-5e79-4f6e-b840-c857966bd983/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/fa8dd2d6-be60-4da4-9854-4b3bd63260e6/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/d0b76b6b-2df2-4e87-b445-42903959d583/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/26d25db1-8b33-44ac-8834-05401b977b4e/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/ea4509c3-6996-4c0e-9d27-fd516512ecca/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/03049266-cf6b-4969-9f3b-97881b14352e/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/51373f55-d6bd-4c8a-9358-2e399d3c87b4/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/21ade39c-0ad6-4a05-bde0-87f752fe9b53/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/eafd6ab5-c086-496a-8898-6783f6259bc4/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/f43676f4-13b2-473f-ad25-978b42567f4d/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/f2e2575a-5ee2-4e4f-a219-f0d0bcb7c4d0/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/6ac8a284-c805-45c9-a387-413921c79215/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/678a0213-4fc4-47cd-b7cd-34c17b60ff74/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/3c663744-9d3a-4dcd-bb1b-c49f69192c72/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/962a7cdb-035e-4069-a091-5094e3c90454/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/b6c22ed3-49ea-44bb-b06e-5a310e9a3ceb/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/1addacdd-e9ef-4ae9-8314-344f1b953b66/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/f5d2f89e-630b-4dea-92b0-41d0915e442b/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/98431b33-e6b5-4d3e-b82b-4ab09e731308/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/251bbfd8-ab21-4816-ac6e-7410f2f06ff6/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/be8b79d8-9e5a-4792-8c78-7088b2d27895/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/60fc2e4c-23d8-4430-9962-a9066157641c/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/c6436ad0-ff4b-43d4-a727-7f5550b645f2/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/12c8e8f6-5e42-45f0-9752-22e26eb0d4dd/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/d42ef2be-27fa-4530-8694-9495bcedd36a/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/5b6cb793-5234-4b5f-ae0d-ee40e58b7796/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/b747ab22-3edd-40ba-b647-84275f7d2cfa/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/9b434dba-5f3a-4332-b5c3-c0620ffb8b65/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/6611fc13-e2a2-430f-9033-bd2d4dc29557/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/15f1a60a-f7cf-4e96-ba03-3afcfe870542/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/4f51b80f-db39-40b7-b4b4-d5cc090bf580/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/1c5eb7e1-4fb8-4b54-a22c-c9b77771e566/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/5b7a3900-d966-47f2-a82b-e7f14ef4652d/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/2c2c2750-7f4d-4192-aa96-71331cee8030/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/dd72bf05-841a-4fb2-9c58-791d5dafe540/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/484fd8ff-0787-4ab4-b459-f245c2feb6ad/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/4189598f-1820-4795-a850-f75fa344a652/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/17ebb999-9f29-4cf8-a1b5-bcf2060e24dd/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/140a14d0-5f18-47ad-9719-731188591dee/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/c33c686a-b6d1-4788-9d65-9110a781ff50/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/5d6b3ee9-e60f-4048-a10d-877546162bd6/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/c2869b9b-52d8-4e2f-869a-e1e8fd133fe9/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/e6a0b1c9-b560-4fb7-81f9-029f0d175b39/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/9f33ebc5-b66d-4ea6-be14-f4951080b28f/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/90363f50-394e-4aab-8fd6-407ad2c67b31/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/9eafe0ad-e295-427d-985f-caac08674ff0/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/d433658d-1f52-4bb1-8ba4-a675a698d25a/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/ab360f21-3f33-4ab3-862f-d6105740cd05/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/c9dbacca-fc7a-4ad2-bdfe-a576d8853745/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/2adf60be-9850-4af0-ae70-d957e85f7b0e/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/ca4bc9c3-cd02-4602-a44c-7595eaee4f0d/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/b672d6be-14f9-4616-8e8c-c47c68719d1d/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/337f9b4c-b2ca-4c6a-8e09-f6d1e6cb2861/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/c64b22c3-e933-437a-ad63-99b7de6735cb/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/4ec7c58f-0378-496c-8a8e-45b0c2d321ff/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/631c110a-ae2a-4b5a-ab9c-38e2d2df7678/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/980a8933-6ad1-45ed-b5aa-dba9ea264957/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/b948db7b-41e8-48cc-a2c7-eacd9a960622/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/c7001e03-5904-4358-bc8b-d7224ae124a2/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/d7a62bcf-8979-493b-801f-fc03ae81bfa6/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/11b27b62-a725-4efa-a849-07ffcf4e4497/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/249f0632-9a15-456b-bb75-4d98adcc6594/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/cc8de1a8-16ac-4de8-b0c5-b9bb932bea22/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/a6a81715-64a8-46c6-bf76-18b37f2b75c3/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/a0bd4f8e-0b28-42ce-85dc-460a51c17123/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/f704af18-3072-4cb8-a1fb-54e2759af99f/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/c822ceda-f18e-4d82-b8cb-0989a96ca82d/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/bc705c30-5aea-4389-86d1-5c3bc929676f/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/206a12bb-1097-42a8-bc79-a8b2f9d0ce28/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/a00d5cd2-7941-44b7-8d29-b91603ebbdf2/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/d6843ce9-b15d-4da6-8088-95955030c8fd/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/810606ec-2b93-4d8d-b03c-b7802d215d0a/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/9518481f-a826-448a-b8d7-b65218c4895d/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/f0655e9b-e549-4b32-9ef4-83f5bb736387/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/29cdde4d-ad9e-4ea6-b3b3-9f61964aad01/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/cd9fd96b-d595-4bd7-a4be-f9533f91f6a2/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/a116ae5d-4630-4240-af6d-66cfa73e9e8e/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/ec642a96-9a5d-4fb7-b87e-259a8f12ecf8/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/fe1229c8-6014-4f69-8cd0-06b2814b60c6/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/aa49a5a6-26bf-45f3-b9b1-d84657bbcf6b/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/502a6599-6a1a-497d-a404-0096563ad9f6/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/fcaafec3-2191-40f4-a1fc-3564c9ff96b5/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/479f2950-dac3-4862-9eea-e15c43330464/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/0542934c-2089-49fe-83ee-2a53ef40abf4/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/59d60364-899b-4837-946c-669b28773bcb/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/c1ede93c-f6c7-4018-95df-afe8dc3704eb/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/a3419cdf-d2ae-465d-bebd-54c1879dda31/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/a4847534-e8cd-4f6d-bf65-f6a6fc06bdfd/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/e265df3c-a8fc-479a-95c9-5c47ea6429ec/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/f84c5549-4aab-4ae9-b8e2-b345a0bd1ef1/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/646815aa-fbc9-40fa-8dc0-f7cea1c1a5b8/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/88c230c2-dcbd-43a1-9c84-ebbb2698740a/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/12200aa4-33a8-46fa-9c7a-52a786a7f42f/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/841423cf-637b-4f56-b4c6-9dc8e76e5c2b/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/9b0fc5fa-79fe-44e6-82c6-4cef428488d0/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/2da05ffc-65ba-4743-bc83-a00da4a28ee5/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/ad175825-e2bf-44b2-87b9-c02e28062663/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/2035531a-ec69-4970-bffd-2566bb9eaced/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/da132651-c043-4256-a5c2-a4fc87bfa8b7/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/d7d474cc-9552-4439-a527-7a676c736eac/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/5e0c796f-5ee1-4b1c-8114-ccec72fd8a42/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/f76c41c4-23a8-430a-bcbe-351de4336923/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/0e34a7b3-c442-413e-bd42-135806214790/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/8b06d554-44b7-4342-926a-f2df95890e9c/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/317d89ef-83b0-45bc-901c-ed47c191ba59/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/da88bd91-6f12-4eb3-b482-aa3c029f9b87/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/bfcec4d3-081e-4ee3-a0a0-f41e6dce7a7d/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/c24fac9d-f81e-474b-beb8-0d01be3b4046/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/c5022d50-ea2c-44eb-841f-c5fe5e6dedb9/download",
+        "https://data.taipei/api/dataset/3c03d7cf-e312-4828-9c1a-7df34c66595f/resource/6a575ad0-6e4e-45e3-a342-6aef6a476ef8/download"
+      ]
+    },
+    {
+      "id": "128414",
+      "name": "臺北捷運車站出入口無障礙電梯、無障礙坡道GPS座標",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/0a3bb422-9eb5-459b-a9d4-138456516183/resource/61792c82-6609-41b2-9775-3a346934826d/download"
+      ]
+    },
+    {
+      "id": "128419",
+      "name": "臺北捷運移設連通基本資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1db4b00a-05a5-46dc-ad0a-eb31fb25b8ab/resource/ce068c0f-099c-4f73-9498-3d60b1e4947f/download"
+      ]
+    },
+    {
+      "id": "128424",
+      "name": "臺北捷運車站廣告契約出租資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1af7c10f-2386-4ba3-ac3d-85b83035dcc7/resource/91290609-2b8b-4130-8ce9-e6085529bc46/download"
+      ]
+    },
+    {
+      "id": "128496",
+      "name": "臺北捷運車站周邊轉乘停車場資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/49222b97-aeac-4113-9831-6341535caa36/resource/74cfc01d-242f-428d-bc2f-caf5edd6e404/download"
+      ]
+    },
+    {
+      "id": "128521",
+      "name": "臺北捷運廣場各場地活動日期及名稱",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/71324550-a92f-4de2-b325-38a0b36dafa6/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/f70abd40-7838-4ee7-bdfc-f6d48ae7226d/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/2b519d90-51a2-4347-8ac6-763ec44c08d6/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/dbb0d007-fbf8-4693-9cf1-e6e2a0206f73/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/b2233307-3552-49ef-9c67-50ee152c4395/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/1a707d5a-0825-443a-8ba0-3c0784986e89/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/39032057-1a85-424a-9d2b-203dfd63a0f9/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/2838d7cc-8367-4b08-8776-358f87014a26/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/57ffb28f-1c62-4179-b76e-5ef22c2fb524/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/21c528c3-f6f1-42a3-8dd9-7fb7bcb1fea6/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/76eb46c3-d8d1-4059-add2-5674361da70a/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/188f0e95-b93c-4f55-b8cb-f25c70fb0929/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/f9c6acff-044c-4434-b968-2745ccdd8705/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/0728ad7a-ac81-4d5c-998e-888313dc50fd/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/92feadcd-ecea-42f9-8f1a-f88e4ad541e1/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/61aa906b-cc24-40a4-ade2-068e63b527f7/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/e6b54ce2-08de-4759-8431-16d64fd3f5f9/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/c6bbdad7-cf4d-40bb-b350-844c6d800df9/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/d922b762-b957-4194-9117-3201138f4d8b/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/94f29d9a-1352-4417-9bfc-cdbbfa61c541/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/333e7fe5-c2f9-46da-9b28-b23b07da5845/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/34eaae79-8dd8-48d4-8a75-497c479fe059/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/1a48d98a-b9ce-46cd-98ce-490c2f038033/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/fbcd0f2a-703b-4217-a8d5-3fff03ff332d/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/9ef3b5ce-8c63-4b17-9bae-94b3f73471cb/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/fcb8d705-e28a-417a-942e-d38b5191ef13/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/26967568-81a6-423a-984a-e72708599a8a/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/6522d664-3dab-401a-9c52-777ac87a568b/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/2530b926-5f3a-4ce6-be3b-0e0f7bd00971/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/d8313e43-4b77-4e99-a474-b78a4ad4de7f/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/5e3cd358-6c6f-4a5a-8b3b-eef1bb57f360/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/d49ea5da-4ff0-4257-b038-45ffe645ebee/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/fc0bc0c6-048c-4d02-88c9-c4765e76d5f8/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/778d33fa-5e85-4710-8b25-4dc234af8a28/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/012bf933-721e-4b19-999f-90293c9368e0/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/0d686555-8467-49f0-b9b2-a855772ea2d5/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/1c1eaa32-e106-4fb4-a975-e9c210203703/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/40f3aa86-3f5d-442a-993a-1d49ba01ab8c/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/8144472c-8759-4406-89ee-a1e561d4cb1f/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/ab41ded0-1bfb-49e6-9d38-8a3379228554/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/88da6645-805b-4a8d-b29f-35745fa5b284/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/f2049ca6-0390-4642-a9ca-bc25bfa34a68/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/916a1787-1629-4978-8051-8551017d2110/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/ccdbe579-8cf6-4183-94f2-d5d565e15ecf/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/a41aeeea-b24a-4d32-972a-c0c58382fbbd/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/dc8300cb-a2a1-4ad0-9a09-6d432fc9d907/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/0fbfb3e4-c4a1-4f29-ab9d-593d29a044f2/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/045f051a-b082-482a-a3e3-b25917eac534/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/5b7df5ca-7a40-487c-8655-d46e133e49a3/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/05d83c14-c023-4d43-9528-00851c3da6de/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/a6275ef8-9883-41e3-ac7b-65b46589dbd0/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/2e56f538-f121-42b4-ac7f-1fd4b8ad3caf/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/d3b7ec1d-d576-4a6a-a094-d50ddf2071a9/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/372d6be9-d427-4cd5-8d7b-79ef5d2b2ea7/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/2eb21868-1ac2-47d6-af32-b642deed1548/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/78b3e85b-dbb0-44a3-92c2-9fe33229e6e0/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/e83f9ef6-9bf6-4956-a793-9ab1adcf78a7/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/615dd702-2cb7-4034-8804-ff0167a81cef/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/72b97144-e680-4057-b6ab-e236e78c2eff/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/175bbb88-7e84-463e-b9ae-fa6b73cbfbaa/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/da81f43a-c9c3-4f9d-90c5-45352a938ae4/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/7c8df9db-955b-4a27-8b90-283d7992108f/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/bc36053f-e659-4de8-8443-d6d62e2995b1/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/77e5b8b5-2c97-4d09-a67b-9015f2c36582/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/68a11fa9-e4d9-4667-a423-ed6170f75e4b/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/e7e4daa9-fc10-40ee-bd94-8084bda792f2/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/39e2213c-7408-43c0-8af5-d09216153404/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/efa9035f-97ea-4dca-80b1-08f0a362e545/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/a74f5ac8-e9aa-49f0-86a7-210f2166488e/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/871b47fd-4eb5-4df6-b3ab-90bd5c186f4b/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/bd1a690a-ab75-42f0-9ad1-7c576fcc85a4/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/475845fb-7434-4b2c-baa2-fca1830ce234/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/71c5d224-2252-4e28-9297-74f11639fc1e/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/020a76b5-b045-41ec-b81b-ed1bef666daf/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/610aea13-b736-418a-9f02-fd9550a6a4cd/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/308937e0-c1d4-4069-9d63-2a3581ed1b4d/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/aaf2fb1b-4214-4a05-a0df-7db0e3a1f6d2/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/407fbd46-ee23-4911-86be-ec96bb078151/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/b6e41687-572f-4b19-911b-02af1bda374a/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/be0c504f-0672-4b69-b983-934c34532aa6/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/1fc770ed-288d-44bf-89a4-d2c5c616fca4/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/95346807-eb16-48c0-b8ef-d6c39cd13f36/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/d9d83374-74ac-42fb-9975-568d55448e8f/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/c8f2ad64-235a-4a30-a3c4-b84a08799ace/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/df276d4b-3411-4d8a-a924-9e0dca1c5d54/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/1420cfea-8d43-4e4e-b6c8-07261e55e67c/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/e7eb5225-e40a-4090-8a27-a2ff3c2beb42/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/60767130-a987-48aa-bd3b-308559cde452/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/9ac2f60d-8fb4-4cdd-8da5-c572dd1dabb6/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/d167627b-ccff-49b0-b3c7-2789d6690264/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/03f24942-fe52-4e8f-bf01-59c90d540498/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/839b3933-b603-48f6-85bd-ce22b10e9d0f/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/8f072b07-d9b1-497e-8fa1-112585265141/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/f98432e2-774b-416e-b5da-4ca4f33167a6/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/e4d90d5c-daf0-40f0-a6de-48da5338ada3/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/c8c80490-78a4-439a-b713-bf54ef79607b/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/4c7d0bff-8b9e-4353-b748-d0c3b338db8f/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/78ea04fb-31a8-4039-8bec-ed8912373518/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/44bb0b55-04fe-4a67-bd65-f2055b7c13a4/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/0918c007-5baa-449c-a60d-2870196e46f4/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/b4f074f0-ffb5-438a-856e-4653d90fe437/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/2f658171-d090-4ce2-90b0-270990667785/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/36f47d16-3b50-47ac-9685-c359c68bcabe/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/a9b80242-6382-4ca9-878f-f0599d72f43c/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/3d9e09d0-7089-4645-82e7-268a562f2bdb/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/cf3a58d4-46c1-49d8-956d-2a30ee3ed1a0/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/a361f384-c31c-44ec-a42a-38edf619fab7/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/7a8a1595-6d09-4c33-b17a-47947f611274/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/c8c6af27-0138-445a-86de-46c4cf294387/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/6a8f0e76-2d4e-48e5-b26a-2b0b0966be7a/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/a4b064e3-3c87-4c0e-b1c3-a443c1468c8c/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/5a99759a-b400-4037-8068-6227d0fa568b/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/3e751a79-a82d-4b1c-9254-c439dadb945b/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/28d5f2cc-f5a7-46af-b84e-83adc13c05e1/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/d4bbed69-4e40-444d-b7f0-b7dae0c97cee/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/0ebb9d53-a20f-4856-940f-1b6fd1828386/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/9881e8a1-a7a9-4961-aabb-ade244fa171b/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/38aa2f95-239f-4e17-ae6d-fb5498cd7790/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/b3be839f-9a49-4d1d-ab30-652508a40c9f/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/615f085d-1022-4bb8-8971-71b875475c86/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/ef1803ea-8801-4cf6-9f53-81270293a5cf/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/6b26167a-d3ba-4cf7-9b81-50337a5f1cfd/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/aa245a1a-c29a-4a62-9844-d7322705edcc/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/ec84cb95-7564-4ffa-bdea-a18ce8c72433/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/384c449c-ba6f-4952-867d-9e98f5223da5/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/90999958-eac6-40b7-bc13-030b28a354f0/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/ba92154f-369c-4105-aa11-9b6bdd43f3f2/download",
+        "https://data.taipei/api/dataset/1d45dbac-3833-4a7c-8a05-ac3272d52f72/resource/5b8fd28b-e5f1-4d6d-b937-a7c1614df555/download"
+      ]
+    },
+    {
+      "id": "128941",
+      "name": "臺北捷運列車到站站名",
+      "format": "json",
+      "urls": [
+        "https://tcgmetro.blob.core.windows.net/stationnames/stations.json"
+      ]
+    },
+    {
+      "id": "131326",
+      "name": "臺北捷運路線車站資料服務",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/8bf00fa8-86a5-437e-b5c7-9bc0fe0e2971/resource/e3c0e67f-5916-405f-ad9a-41f52a65c2d2/download"
+      ]
+    },
+    {
+      "id": "131735",
+      "name": "臺北捷運首末班車時刻表資料服務",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/58e8be7e-3c77-4222-9d8c-26003c2a2cab/resource/c3e1e320-0e29-4521-9ca7-4163190edee1/download"
+      ]
+    },
+    {
+      "id": "155723",
+      "name": "臺北捷運公司採購案件預定招標時程資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/1108644d-d4a3-4df7-81ee-8e16c0e990ea/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/9b28b724-4681-46b0-8938-aeb5bdf6b8cd/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/08373000-18d1-4687-9755-65fb1250dd34/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/1cc2df95-7826-49e5-876f-24b2c9775424/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/7d664a52-0d26-4c39-bbf9-5c1587f76e7f/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/10f55138-1421-4f23-a744-d46fccbc6a85/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/8fcebb70-2b27-458c-8c0d-57fadcc8782b/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/043ec661-50ec-4c81-8772-fb08ec993ee9/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/5cae6b15-8fb2-40b7-b894-5a39970d4c0c/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/9e486f49-d1de-40f0-9481-45e04b11c189/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/c5dbbf0f-1c39-4190-af83-ae180421f7d3/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/a910494e-15d8-49c3-ad3c-64e876f5c883/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/533a94e3-2565-43aa-adf5-81fd12e79bf5/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/ca939d72-4189-4c12-ba5a-aed9f63bd752/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/d1e347a6-9c04-4b75-bc01-23066593610a/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/de900cc5-8ec8-4c55-8ee7-49a3e9612e56/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/5b1c399b-412a-499b-81a9-10d0cb6a570a/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/bea41d5d-590e-409e-be92-8c8b6311f3bf/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/c15368fd-2aea-44fd-ac52-39ce33552561/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/c38f43e0-4253-470e-9546-c557b4cd0917/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/1ad914d0-04dd-408e-9f14-3eacfe7cd71c/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/7481fdbe-55db-4434-87d1-abe8eea7b981/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/ce7b2b4a-de1b-4ec6-a8ee-543de93d6e80/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/fa8c7f74-e622-454e-b1d3-288ba96985ee/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/28573ed4-3353-471f-af29-6d6addadd0e4/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/8b49df6a-3445-4eb7-8695-8a20b674a77b/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/89b84485-17d2-4886-8a41-05ab2d1a11e7/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/2f2c49f9-7a29-4a05-a211-8d47daec5f39/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/101e4da8-3ded-4e21-83f4-a84c4d5e6bd8/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/7d1c8d76-29f1-41b4-8678-30e7b5883473/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/bd9e9886-a011-407f-abb1-8c4440118f39/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/c9187f99-3464-48fe-ba65-ec7c24339883/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/d718e027-c379-419b-9efe-2f57f506d489/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/d2420446-04c9-41ac-99c3-3348409b9533/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/cf6bf697-62d5-4879-a6c1-ec4053d07f53/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/d493bb3a-cf91-40a0-b94c-32b52e4256f5/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/a03f791b-301b-4107-94c9-3fba8ed98733/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/e43d0af2-3fe9-4153-bc76-bf0cba4d80dd/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/c4deefe9-b327-43e6-b68e-ce97566b9744/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/8b39eb8e-0649-4d5e-9354-bc25f100720c/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/b7be21f2-37e6-4dc4-9c82-0eee45a7ca75/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/a0461d54-98bf-406b-b61d-0a34bb0eab44/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/a7ea9587-4087-4921-8314-5e6ce392badd/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/22fa0159-0440-4255-b9c1-42febab8d914/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/faaecc5d-8592-4141-a900-a490064d7168/download",
+        "https://data.taipei/api/dataset/f4fd7f03-9bf6-41de-a003-02c437596570/resource/4ea41a96-945f-4fd2-87f2-877e4137fa37/download"
+      ]
+    },
+    {
+      "id": "131732",
+      "name": "臺北捷運營運路線車站資料服務",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/733ff034-5a2b-442f-832a-c7d89add0ccb/resource/cca16a48-2753-4d3d-9142-ce14f7f9fdd0/download"
+      ]
+    },
+    {
+      "id": "131733",
+      "name": "臺北捷運路線資料服務",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/cb9b4bd5-a648-41be-9287-11bc5b3e2343/resource/8a0982a1-0caf-4997-8fc5-e143181bb4af/download"
+      ]
+    },
+    {
+      "id": "131734",
+      "name": "臺北捷運車站資料服務",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1eefa68d-7c8d-491b-8e75-66a161947426/resource/c77e91bf-067c-475e-917b-545ff62b7d76/download"
+      ]
+    },
+    {
+      "id": "131737",
+      "name": "臺北捷運站別時刻表資料服務",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/91cc11bb-40d6-4837-9303-84e6a666c568/resource/c526a43a-fc82-4ba3-beda-0497a303fc4a/download",
+        "https://data.taipei/api/dataset/91cc11bb-40d6-4837-9303-84e6a666c568/resource/6d2a2636-825d-4ec2-b4f5-9f853add9472/download",
+        "https://data.taipei/api/dataset/91cc11bb-40d6-4837-9303-84e6a666c568/resource/3924acc7-6b11-411e-acd5-aacbe1186a7a/download",
+        "https://data.taipei/api/dataset/91cc11bb-40d6-4837-9303-84e6a666c568/resource/46bd70db-62a7-4607-b0f2-221eb2002753/download",
+        "https://data.taipei/api/dataset/91cc11bb-40d6-4837-9303-84e6a666c568/resource/9befd704-fda6-46b4-ad33-98bbc81f7bac/download",
+        "https://data.taipei/api/dataset/91cc11bb-40d6-4837-9303-84e6a666c568/resource/0ad40b75-d9cd-4eef-8ca2-38688be61205/download",
+        "https://data.taipei/api/dataset/91cc11bb-40d6-4837-9303-84e6a666c568/resource/968f7322-36ca-43c4-816c-9f8448a9b4fb/download",
+        "https://data.taipei/api/dataset/91cc11bb-40d6-4837-9303-84e6a666c568/resource/6fd19e60-2164-4b97-bd41-7059c4c943c8/download",
+        "https://data.taipei/api/dataset/91cc11bb-40d6-4837-9303-84e6a666c568/resource/a5f81758-a5a0-44f2-b24c-7f87ffec6283/download"
+      ]
+    },
+    {
+      "id": "128499",
+      "name": "臺北捷運車站電梯維修預排時程表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/4f8b6fcd-5508-48fd-9b2f-98308ad1b0c4/resource/5d76707a-4952-4405-8dbb-aa373bdd2146/download",
+        "https://data.taipei/api/dataset/4f8b6fcd-5508-48fd-9b2f-98308ad1b0c4/resource/d93aadfb-9f78-4000-a73e-48870481bafc/download"
+      ]
+    },
+    {
+      "id": "128453",
+      "name": "臺北捷運車站設施資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/659b9f55-a687-4e55-a17b-ceca5743c514/resource/f69dfd66-3d8e-408a-9645-c02384bda5b8/download"
+      ]
+    },
+    {
+      "id": "128475",
+      "name": "臺北捷運車站出口公車資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/b1398491-07fe-40da-bb5a-ae73f4e45984/resource/21a42190-91be-4921-96a7-f564c50a270d/download"
+      ]
+    },
+    {
+      "id": "128408",
+      "name": "臺北捷運車站無障礙電梯位置",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ba6b64b1-a387-4b34-93c6-7c3bf2dad3db/resource/87708f6a-a1a0-49ce-9b68-35ae4b135292/download"
+      ]
+    },
+    {
+      "id": "128413",
+      "name": "臺北捷運車站i郵箱基本資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/d7952333-a06e-4735-b753-80fa314702ff/resource/95410d49-4364-40f1-944e-ced234c6d135/download"
+      ]
+    },
+    {
+      "id": "128418",
+      "name": "臺北捷運系統票價",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/4acb4911-0360-4063-808d-fcee629508b3/resource/893c2f2a-dcfd-407b-b871-394a14105532/download"
+      ]
+    },
+    {
+      "id": "128425",
+      "name": "臺北捷運販賣店出租基本資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1dc47e9c-e734-44c5-a1d2-51f3abef69ba/resource/decf7179-a06b-467a-aa93-55b3c73f8402/download",
+        "https://data.taipei/api/dataset/1dc47e9c-e734-44c5-a1d2-51f3abef69ba/resource/3199bf2f-f8e1-4249-b14c-2ece242400b4/download",
+        "https://data.taipei/api/dataset/1dc47e9c-e734-44c5-a1d2-51f3abef69ba/resource/50112d00-8333-4c20-8f94-e1d2a8d1b003/download",
+        "https://data.taipei/api/dataset/1dc47e9c-e734-44c5-a1d2-51f3abef69ba/resource/0f386216-2c72-42ec-a56c-e79e46f5157c/download",
+        "https://data.taipei/api/dataset/1dc47e9c-e734-44c5-a1d2-51f3abef69ba/resource/80fa09dc-b715-4fae-98da-a571ef0a3391/download",
+        "https://data.taipei/api/dataset/1dc47e9c-e734-44c5-a1d2-51f3abef69ba/resource/f8fd239b-c3ed-4382-867b-bc548ead0a0d/download"
+      ]
+    },
+    {
+      "id": "128641",
+      "name": "臺北捷運全系統旅運量統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/cf6540e6-4df2-4afa-a71c-c6efdf62318d/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/b07c5b9d-8959-4dff-8391-0e503f8978e5/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/056bc520-8e1a-46ac-95aa-c82f3299ea9c/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/e3c593e6-f87f-4377-a6b9-86ebe7e4944c/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/0b39a707-3bfe-497e-a154-bcf6b9a6d442/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/cd48dd54-7dc4-4bcd-bee1-f63a4aec7dc9/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/b23c8026-75f9-4b5b-adcf-20d36fc9c050/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/04c28209-91c2-4aa2-90fa-c30d8a2aaa85/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/59a2ad8b-8067-4ad8-9684-78e138d74dfc/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/4ef155b1-4196-44a1-b2b5-3c5f015b15cf/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/ea8f80e5-f2f9-41e3-9527-d753dacc1ec3/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/5738d91d-f28f-494a-bf76-e137a0b72b43/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/2c42d900-8fd5-44ae-97f1-e25a3afc167f/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/c60a8368-d608-4701-9528-929aeb5daf23/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/c1eea0f3-afaf-4270-b38d-4a6ecd47652f/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/f5f77403-4bc6-4cac-80bd-0f85fb75302a/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/1b944873-9edd-41ab-9d30-ef6d359c708a/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/b78c83f9-4051-4dc6-a82a-9cc5457b96b0/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/cf91a919-f689-4cf4-9eeb-43438429bef6/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/a782a189-e6e8-47a7-be8c-50f797feec15/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/5e73ebd5-0d16-4c8d-8bb3-c96bb69312bb/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/826ed002-f4c7-430a-b102-5c5c2e39dca0/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/853bb591-19da-46fa-9abe-064d41c444ed/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/fe2f0318-6596-47a9-93ce-a7d5a98f8f39/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/faf34a81-271d-4256-863d-24fe0262a368/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/6439ff88-e914-4a08-924d-a5bcdcc38be7/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/1b8e2027-c9db-41eb-b942-c2327942e5a0/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/bf8b4389-767c-4e62-a806-30590d58cf04/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/4ce1d789-8886-42f9-b92a-452adc093590/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/95c46da6-e384-4f58-942b-ae933d4b984a/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/9a4959ba-0650-4852-b4ff-d789caa5d4e2/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/ab2b5129-9062-46de-a31d-48f48d05c7ce/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/a3658a3d-bd07-4ed3-a0d6-57e94bb49103/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/2ba6d87e-d27a-458b-85a0-44eac0110df4/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/fe6d5567-ea35-4e27-8670-edaf3d7f2326/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/89ff2372-9f65-4ef9-8a7d-6ac3ec790035/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/a969bcd8-e885-4b17-81ee-f48d005d3290/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/b3fd9ace-6411-4865-9c75-5f958a700f1e/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/d2494f31-bcb8-45ec-ab5b-1e5a16c327dd/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/e8e7e00e-6c5f-49f4-96c7-fe85ac4f8b75/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/67833d3c-d599-4eff-bae4-1ecf525c76bb/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/16bdb16a-9e62-4df4-ac43-eebc66c25765/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/3298bcd5-769a-4f4c-a75b-2e6122b5f62d/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/443f2e0a-0496-423f-b3d4-bf3491a1463c/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/be56cf12-48ba-48cf-a7b3-6ffe3f3e94d7/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/a03b957a-4bc3-44e8-9a02-fe1f152e8c03/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/f5bcc61f-175e-4515-a341-c52559ed63f9/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/7225a7d5-a6ff-46a1-a69b-53c7ce004fd3/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/8b2f901c-b6e4-4f9c-9727-b54ce2a04a7c/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/0fadb0a5-576f-41ee-be45-2683b1712a77/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/c5e1c74b-8dbf-40ac-af07-577638b94497/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/e74d7e74-7d43-46ae-9a99-12f47eab5b96/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/04862983-0f9e-4754-81cc-50c1dfebfec8/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/27b72e83-0699-4c50-9898-03fdf7d7caa2/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/ac2a1623-cb76-4c46-a9ad-5a9194a11e61/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/d49dcaee-c650-4dff-b84e-a763806f53a8/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/b43418c3-a317-4d0b-885a-46dcfddff132/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/9322685b-d4ca-4bbb-a09f-1aeee197e999/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/d7655a60-e02d-4c0b-95c0-c3e0993c4681/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/f02185ed-aef2-4f3a-81ae-21983894fa27/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/0745899a-1af7-485a-aa1f-41398c2060da/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/824fa791-98c9-4dea-86a6-899dbc258f01/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/3f63b49f-b2ec-4f79-9cb3-f88fb3632f1d/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/8ac72bea-d674-4c7f-8793-9e332607e7f7/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/ca339d8a-a9a5-4182-a7fb-9c9b6fd8aa7f/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/8e63f35d-eca1-47ca-ac62-bd586842a428/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/f14009f1-82ad-4165-b009-bf6f293f19f5/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/bd4bcc6e-d885-4407-8986-df265eae2365/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/33a50129-559a-4db9-bdb1-4aa8eab26c5e/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/4943b731-3dbe-4e90-aeae-3198dd4d9807/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/2eab677c-406a-4e33-acc1-b15314696e48/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/19230b25-6321-4b82-aacc-b2fd9257b7a4/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/729b6e55-f647-4e4b-a2f1-f1a220ce6cec/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/3c801bd1-2c8a-4159-8134-310acf94554a/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/2faa1032-557d-4521-bbc7-f99c91231f24/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/048aa40b-248a-4521-a46f-10003a1c4213/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/fb8d3e1c-59e2-4e71-a553-56ce33efdbf7/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/6aeb3fc0-471c-4e9f-b7fa-61297cc5b4bc/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/c4a004cf-cc3e-46fe-9850-dbc9b3f392f1/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/2345f92a-55e0-4cfc-a95a-1370424bfbd3/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/5338f0d9-16f5-40cd-8c77-7f49872d1963/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/0a970193-fa09-486e-a9a6-a687e4adbf20/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/b82e76c4-a0e4-42a0-a0ba-ab0c8213971f/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/ddf86a66-668f-4396-923a-af2d6201930d/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/14ce379e-966d-4d0b-a9a5-b2e9f196440d/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/3eb076c3-69d0-4ad8-90ab-0f29ca58adce/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/7ce052b4-b64d-433e-8ef2-f788448d9fc3/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/8ab56891-b734-43cd-b2e7-1070d4bbef35/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/fd4b01b3-482e-47a1-b14d-759e8a2c1efb/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/8db58d6e-ffb5-4c82-89bc-1f2c93d3fee5/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/913bc318-7d6f-47fd-91b2-79923dad9bc2/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/b2d99b2c-d9eb-43c2-927f-658fe019ff9c/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/0a744ad6-9269-49a1-a409-2d341d4816c8/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/89ef9a9e-c219-4c7a-bda2-2b0ce43afb7a/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/39c6fd13-dd01-420c-8337-eec812b9efdf/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/063f55dc-d78e-4a1a-9052-3656e45fe03d/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/32ad65fb-eefa-417d-afe1-0f8d4c2b03e0/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/23366384-c4be-46b2-93f3-5a1cc4074476/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/1f746287-40bf-4bb6-b32d-a6b40c035f99/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/e344e758-524a-40c8-b18c-0f230dacbe71/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/3a904bbe-97f0-4c6f-a693-6c4f50fc551b/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/baf560d2-c83e-4c45-ae99-b29dfacac826/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/13be189d-0bda-4d5f-9092-e607321d5c89/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/c16ccda4-145a-4f96-961a-469e216a82a8/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/20d73617-2f74-4537-80cd-3fbed251dd8a/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/d79a44b8-fd1f-4e4c-a88b-c84e0d4e159c/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/88a8c680-95c8-47db-8f68-57ce58ea7fcc/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/0d0650c2-145e-47f7-a903-72126faf7629/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/fbd31684-a044-4a9f-8ed0-6e1ba63f9334/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/d9621706-cbaf-48cb-8d85-ac062c1dc2d9/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/074f79c9-ba48-4173-892a-569065e7c1dd/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/330c1347-56f2-4d39-9b1c-cb0c3271ebaa/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/f2795a32-3222-4e47-b1dd-6a1a6f602b37/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/c8177a20-f218-474f-ab43-1e287510e478/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/e759f74c-c2d6-460e-947b-cfdfe8e14dc8/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/58b2515b-37de-4298-a436-1996bd093e70/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/54dc8312-5980-4935-9689-06b7182b0211/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/4d06b680-f527-4f23-a1fd-45af752b4862/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/57c5633e-aeff-493f-b15f-3941c19d08d3/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/e14e9924-493d-407b-8d56-f7ad5652a650/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/6b1a5833-b63f-4eaf-b814-71cbda5ddb1e/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/6f5e3e1e-abae-4fa1-b30f-829f17097378/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/a210372b-4f74-4b1e-bb90-a7741612500b/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/153264fe-3301-43b4-a82b-5c64b113bf8b/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/cfe5bd6f-5cdb-426e-9168-3513fdf9a8f0/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/91523743-6b7f-4dd2-8357-77c4be59547b/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/b5ebed1e-9cbc-4517-b33b-ee170a9d9df5/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/84a29696-d12c-44b5-b1b9-cc91724fbe28/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/7cc00cb6-a097-434f-86b2-9d056b0ebb06/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/80b1503b-4b2a-4361-9817-f64ead784b9d/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/03e69a85-35f8-47ba-98c1-6646030fbfea/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/b366b8dc-e84d-4239-8368-d512078e3ea6/download",
+        "https://data.taipei/api/dataset/660e3969-c011-481c-aa24-8a949ac2d62d/resource/9c4c26ed-4a5e-47a2-8cb2-e0e4bed8b88a/download"
+      ]
+    },
+    {
+      "id": "128683",
+      "name": "臺北捷運各站進出量統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1d71c478-205f-42c5-8386-35f86d74fdd1/resource/df2da2b6-a3d5-47e7-8c97-8b047d9a2bd1/download"
+      ]
+    }
+  ]
+}

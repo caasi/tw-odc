@@ -1,0 +1,790 @@
+{
+  "type": "dataset",
+  "provider": "臺南市政府教育局",
+  "slug": "soa_tainan_gov_tw_85c4b43b",
+  "datasets": [
+    {
+      "id": "98803",
+      "name": "臺南市國中各校折抵超編查詢",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3b495033-79c8-4307-a44f-d9c95170b372",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3b495033-79c8-4307-a44f-d9c95170b372"
+      ]
+    },
+    {
+      "id": "101536",
+      "name": "臺南市國中各校男女生人數統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/6290aaf7-5f3d-4539-bcf0-2cb287b35369",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6290aaf7-5f3d-4539-bcf0-2cb287b35369"
+      ]
+    },
+    {
+      "id": "129832",
+      "name": "臺南市特教班一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/888c9d1b-f868-4041-8959-26ea92f27c7a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/888c9d1b-f868-4041-8959-26ea92f27c7a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4a05f1b4-2021-404b-b0b4-27092d736524",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4a05f1b4-2021-404b-b0b4-27092d736524",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bb9e7779-3602-418f-9684-6d49d12f0284",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bb9e7779-3602-418f-9684-6d49d12f0284"
+      ]
+    },
+    {
+      "id": "129833",
+      "name": "臺南市特教學校特教班一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/bc57e729-24d5-4df8-ad45-7fdbc5d774bd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bc57e729-24d5-4df8-ad45-7fdbc5d774bd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0b508e85-189e-4e1f-9e07-f95f6ffbb1b5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0b508e85-189e-4e1f-9e07-f95f6ffbb1b5"
+      ]
+    },
+    {
+      "id": "142899",
+      "name": "臺南市國中小進修部概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e8665100-1ad3-441f-82e7-04bd4f5beb3a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e8665100-1ad3-441f-82e7-04bd4f5beb3a"
+      ]
+    },
+    {
+      "id": "142933",
+      "name": "臺南市各類短期補習班家數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/fff6df20-793f-4f55-bacf-036dc9290e7c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fff6df20-793f-4f55-bacf-036dc9290e7c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/409691cf-6dcb-4963-9247-37f7950efcfd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/409691cf-6dcb-4963-9247-37f7950efcfd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bb344db3-c6fe-4648-b917-82d850f3b1ae",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bb344db3-c6fe-4648-b917-82d850f3b1ae",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a92b7313-205f-4137-9def-afb9bcb09271",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a92b7313-205f-4137-9def-afb9bcb09271",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f5c21d34-bfab-494b-8d68-fc2e7ea2ef2b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f5c21d34-bfab-494b-8d68-fc2e7ea2ef2b"
+      ]
+    },
+    {
+      "id": "142903",
+      "name": "臺南市國民中學概況",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5699ee30-1a72-4f81-ad28-e6903db2df01",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5699ee30-1a72-4f81-ad28-e6903db2df01"
+      ]
+    },
+    {
+      "id": "142936",
+      "name": "臺南市國民小學僑生數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e00171be-9c2a-4d4b-99fc-55eba09c3ed4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e00171be-9c2a-4d4b-99fc-55eba09c3ed4"
+      ]
+    },
+    {
+      "id": "142938",
+      "name": "臺南市國民小學進修部新住民學生數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/795d9f02-ffde-4701-a044-11e7f2e13047",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/795d9f02-ffde-4701-a044-11e7f2e13047"
+      ]
+    },
+    {
+      "id": "142939",
+      "name": "臺南市國民中學進修部新住民學生數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a3a9a395-04e9-4af6-adb2-6e6bcd1ac145",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a3a9a395-04e9-4af6-adb2-6e6bcd1ac145",
+        "https://soa.tainan.gov.tw/Api/Service/Get/68f7aee5-35b0-4e81-8982-a695fc2e795e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/68f7aee5-35b0-4e81-8982-a695fc2e795e"
+      ]
+    },
+    {
+      "id": "142944",
+      "name": "臺南市國民小學圖書室(館)統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a4568d70-12fc-43d4-b7c4-b94b5aa3d27d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a4568d70-12fc-43d4-b7c4-b94b5aa3d27d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/80c5b308-df2f-4a69-affe-ced7462de27a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/80c5b308-df2f-4a69-affe-ced7462de27a"
+      ]
+    },
+    {
+      "id": "142956",
+      "name": "臺南市特殊學校學生年級別統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/436ef08b-9472-4ef6-80c5-06e05685870a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/436ef08b-9472-4ef6-80c5-06e05685870a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ce62bc0f-3e82-4119-82c2-e1c3b5f53682",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ce62bc0f-3e82-4119-82c2-e1c3b5f53682"
+      ]
+    },
+    {
+      "id": "173001",
+      "name": "臺南市2~5歲幼兒入園率",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4bd68e14-e66e-4f98-a3be-2151f347d566",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4bd68e14-e66e-4f98-a3be-2151f347d566",
+        "https://soa.tainan.gov.tw/Api/Service/Get/08d50a83-acac-443b-b047-aebe5e401cbc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/08d50a83-acac-443b-b047-aebe5e401cbc"
+      ]
+    },
+    {
+      "id": "176373",
+      "name": "臺南市準公共幼兒園概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f95410cf-bda8-4055-a68a-54ac7a0bf6fd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f95410cf-bda8-4055-a68a-54ac7a0bf6fd"
+      ]
+    },
+    {
+      "id": "171240",
+      "name": "臺南市特殊教育資源中心位置",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/cf78d81a-190a-40da-800c-2cff56ece9cc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cf78d81a-190a-40da-800c-2cff56ece9cc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f7b58798-eb1b-4645-ab91-a3b4f2feeb53",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f7b58798-eb1b-4645-ab91-a3b4f2feeb53"
+      ]
+    },
+    {
+      "id": "172227",
+      "name": "臺南市各級學校經費支出",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/44253218-9c88-445e-a257-241ffcb7b305",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/44253218-9c88-445e-a257-241ffcb7b305"
+      ]
+    },
+    {
+      "id": "172231",
+      "name": "臺南市各級學校平均每生分攤經費",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5fd327e5-f478-4fa9-a42a-a218a1a7b23f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5fd327e5-f478-4fa9-a42a-a218a1a7b23f"
+      ]
+    },
+    {
+      "id": "85845",
+      "name": "臺南市國小兒童課後照顧服務班開辦學校名單",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a4a74f1d-54fe-41b5-bdf1-cc89d199b743",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a4a74f1d-54fe-41b5-bdf1-cc89d199b743"
+      ]
+    },
+    {
+      "id": "53281",
+      "name": "臺南市各級學校基本資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b32ffde3-b030-4445-80a3-e83f06477c78"
+      ]
+    },
+    {
+      "id": "101542",
+      "name": "臺南市教育公告",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/421d96af-91e1-4af1-aede-16dce946e265",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/421d96af-91e1-4af1-aede-16dce946e265"
+      ]
+    },
+    {
+      "id": "101535",
+      "name": "臺南市教育局學習護照",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/aca04364-bd95-45d0-8320-215aafd4052f"
+      ]
+    },
+    {
+      "id": "101537",
+      "name": "臺南市教育局網站",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7986f794-d70a-4435-a9b2-b17800dd419b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7986f794-d70a-4435-a9b2-b17800dd419b"
+      ]
+    },
+    {
+      "id": "103755",
+      "name": "臺南市樂齡學習中心",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/aef4b523-e73e-4105-b388-04d5702dc748",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aef4b523-e73e-4105-b388-04d5702dc748",
+        "https://soa.tainan.gov.tw/Api/Service/Get/af08150c-983d-4c48-b104-ffc36fc39173",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/af08150c-983d-4c48-b104-ffc36fc39173"
+      ]
+    },
+    {
+      "id": "103756",
+      "name": "臺南市數位機會中心(DOC)",
+      "format": "json",
+      "urls": [
+        "https://odata.tn.edu.tw/OpenDataWeb/ToJson/DisplayOpenData?csvfilename=15臺南市數位機會中心"
+      ]
+    },
+    {
+      "id": "103757",
+      "name": "臺南市社區大學資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e91167cb-9955-4341-b6e5-2bb57f3b90c7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e91167cb-9955-4341-b6e5-2bb57f3b90c7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8d134afc-55c5-4c70-9a58-945342621133",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8d134afc-55c5-4c70-9a58-945342621133"
+      ]
+    },
+    {
+      "id": "103758",
+      "name": "臺南市教育基金會資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2abcfca2-b9a2-4047-ba6b-32498eba2042",
+        "https://soa.tainan.gov.tw/Api/Service/Get/da66ea62-b7fb-4b2c-9920-96a88b8191fa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2abcfca2-b9a2-4047-ba6b-32498eba2042"
+      ]
+    },
+    {
+      "id": "103759",
+      "name": "臺南市國中小校園開放時間",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2a49cdb8-95cd-4678-91bc-26f35e133307",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2a49cdb8-95cd-4678-91bc-26f35e133307",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c7b3b8a4-64b8-4afa-b944-70406ea0af22",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c7b3b8a4-64b8-4afa-b944-70406ea0af22",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9f109965-4333-464f-80d6-861346d37514",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9f109965-4333-464f-80d6-861346d37514",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d1d3935b-2123-4ae6-9016-bf289aaa278c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d1d3935b-2123-4ae6-9016-bf289aaa278c"
+      ]
+    },
+    {
+      "id": "103760",
+      "name": "臺南市防災校園建置學校一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/495844a8-08e0-4a35-9df3-64c7b8fa9339",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/495844a8-08e0-4a35-9df3-64c7b8fa9339",
+        "https://soa.tainan.gov.tw/Api/Service/Get/56f63543-2b8f-458a-b0e4-94c6880879fd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/56f63543-2b8f-458a-b0e4-94c6880879fd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0a0ec20e-b9bc-4719-b9f8-a7cfe3419d2b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0a0ec20e-b9bc-4719-b9f8-a7cfe3419d2b"
+      ]
+    },
+    {
+      "id": "130013",
+      "name": "臺南市私立幼兒園",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4c872455-255d-4c08-b14e-a9b336da4281",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4c872455-255d-4c08-b14e-a9b336da4281",
+        "https://soa.tainan.gov.tw/Api/Service/Get/17d7dd6a-ce68-48dc-95bb-fb9a3c1cca5a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/17d7dd6a-ce68-48dc-95bb-fb9a3c1cca5a"
+      ]
+    },
+    {
+      "id": "130055",
+      "name": "臺南市政府教育局公布違反幼兒教育及照顧法暨教保服務人員條例之名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c8035661-064e-4e17-9ec3-ec11d1961899",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c8035661-064e-4e17-9ec3-ec11d1961899"
+      ]
+    },
+    {
+      "id": "142901",
+      "name": "臺南市特殊教育學校概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5b411ff9-8d8f-424d-b449-4ccedf87d03f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5b411ff9-8d8f-424d-b449-4ccedf87d03f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3cee7eb0-ab87-43a3-b4eb-8519ccda0805",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3cee7eb0-ab87-43a3-b4eb-8519ccda0805"
+      ]
+    },
+    {
+      "id": "142902",
+      "name": "臺南市國民小學概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dea63dd5-0ecf-4297-859d-d67b3f368c50",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dea63dd5-0ecf-4297-859d-d67b3f368c50"
+      ]
+    },
+    {
+      "id": "142954",
+      "name": "臺南市國民小學教師主要任教領域統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/535479cb-be92-4363-8285-6962c1d361e3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/535479cb-be92-4363-8285-6962c1d361e3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d90fec14-e4ae-4dc4-8f75-f0532e003fd2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d90fec14-e4ae-4dc4-8f75-f0532e003fd2"
+      ]
+    },
+    {
+      "id": "142955",
+      "name": "臺南市國民中學教師主要任教領域統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/00a0e9ba-a3ce-416c-889a-0409978b4516",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/00a0e9ba-a3ce-416c-889a-0409978b4516",
+        "https://soa.tainan.gov.tw/Api/Service/Get/914059b5-8b73-4977-b262-f73ac31c2241",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/914059b5-8b73-4977-b262-f73ac31c2241"
+      ]
+    },
+    {
+      "id": "142940",
+      "name": "臺南市各級學校畢業生人數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b4533779-6f3c-42ab-b74f-1423d920b605",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b4533779-6f3c-42ab-b74f-1423d920b605",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4e32f7a3-4214-476f-a9de-179cff654e7d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4e32f7a3-4214-476f-a9de-179cff654e7d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/eb95518a-5732-463f-b4af-7f6b4f93657b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eb95518a-5732-463f-b4af-7f6b4f93657b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8fafaeb1-63a2-46a8-bd13-8aad70970aad",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8fafaeb1-63a2-46a8-bd13-8aad70970aad"
+      ]
+    },
+    {
+      "id": "142945",
+      "name": "臺南市國民中學圖書室(館)統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e6beeca3-c0ed-4cb2-a4d3-6a359f4a0502",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e6beeca3-c0ed-4cb2-a4d3-6a359f4a0502",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8f31f841-23dc-4394-8662-ba17dd83af96",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8f31f841-23dc-4394-8662-ba17dd83af96"
+      ]
+    },
+    {
+      "id": "142946",
+      "name": "臺南市國民小學學生裸眼視力檢查",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5319336c-2ec9-442c-897c-5636c06300c7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5319336c-2ec9-442c-897c-5636c06300c7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/319f3ede-a60e-44e0-b01f-94b67ba6e930",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/319f3ede-a60e-44e0-b01f-94b67ba6e930",
+        "https://soa.tainan.gov.tw/Api/Service/Get/747ecab5-4970-4df5-8f2a-b1b39238d326",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/747ecab5-4970-4df5-8f2a-b1b39238d326"
+      ]
+    },
+    {
+      "id": "142947",
+      "name": "臺南市國民中學學生裸眼視力檢查",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c14d6a4b-43d7-40be-b5df-49e19a5dda54",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c14d6a4b-43d7-40be-b5df-49e19a5dda54",
+        "https://soa.tainan.gov.tw/Api/Service/Get/671b9c34-6c26-4136-b8fb-5f03847438ba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/671b9c34-6c26-4136-b8fb-5f03847438ba",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a3a07c93-c5eb-4021-ab08-f1ccec0c046e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a3a07c93-c5eb-4021-ab08-f1ccec0c046e"
+      ]
+    },
+    {
+      "id": "142950",
+      "name": "臺南市國民中學校數按班級數學生數別統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b042e808-8545-47c6-bc14-1ae200cf81fc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b042e808-8545-47c6-bc14-1ae200cf81fc"
+      ]
+    },
+    {
+      "id": "142951",
+      "name": "臺南市國民小學校數按班級數學生數別統計",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a861a684-6f5c-4bd3-a7e9-d44be74a9527",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a861a684-6f5c-4bd3-a7e9-d44be74a9527"
+      ]
+    },
+    {
+      "id": "142953",
+      "name": "臺南市國民中學職員年資統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/86c53ffc-0179-4e54-b027-09f08fa87518",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/86c53ffc-0179-4e54-b027-09f08fa87518",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b1e28807-cff2-4a78-81da-0e0a8517d251",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b1e28807-cff2-4a78-81da-0e0a8517d251",
+        "https://soa.tainan.gov.tw/Api/Service/Get/56738686-b981-4860-ad0a-4b9652bfff11",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/56738686-b981-4860-ad0a-4b9652bfff11",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7c2f02ce-40d9-45cf-833d-c3dd29f9a0be",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7c2f02ce-40d9-45cf-833d-c3dd29f9a0be"
+      ]
+    },
+    {
+      "id": "144927",
+      "name": "臺南市民營運動場館分佈資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/845e23eb-8099-45cf-9e14-e4e7955b1416",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/845e23eb-8099-45cf-9e14-e4e7955b1416"
+      ]
+    },
+    {
+      "id": "176374",
+      "name": "臺南市非營利幼兒園概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/28116bba-f20d-4de7-afe5-6e94a365e30a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/28116bba-f20d-4de7-afe5-6e94a365e30a"
+      ]
+    },
+    {
+      "id": "171462",
+      "name": "學習資源網",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/cb63306c-a1d1-44ea-aeb7-d0ea7adf13dd"
+      ]
+    },
+    {
+      "id": "171241",
+      "name": "臺南市社區教保資源中心名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/32b10afb-5875-41d9-856d-2818c09ded89",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/32b10afb-5875-41d9-856d-2818c09ded89"
+      ]
+    },
+    {
+      "id": "53542",
+      "name": "臺南市公立幼兒園",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/51079231-5b33-45b1-b69f-b7c12f76f6c6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/51079231-5b33-45b1-b69f-b7c12f76f6c6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/555dddca-bf5a-4a54-9aac-c8e3a0711ad7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/555dddca-bf5a-4a54-9aac-c8e3a0711ad7"
+      ]
+    },
+    {
+      "id": "103754",
+      "name": "臺南市災害避難收容處所(學校)一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/754b7882-4481-455c-94ec-539f58718cbf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/da94da14-564c-4374-a412-59ad2c09e983",
+        "https://soa.tainan.gov.tw/Api/Service/Get/da94da14-564c-4374-a412-59ad2c09e983",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/754b7882-4481-455c-94ec-539f58718cbf"
+      ]
+    },
+    {
+      "id": "101545",
+      "name": "臺南市國中各校人數統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/cd69fd78-aaa9-48ea-9b81-946662e29543",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cd69fd78-aaa9-48ea-9b81-946662e29543"
+      ]
+    },
+    {
+      "id": "101539",
+      "name": "臺南市學校代碼列表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3aec7cae-86f7-417b-ac05-3a780cd18b86",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3aec7cae-86f7-417b-ac05-3a780cd18b86",
+        "https://soa.tainan.gov.tw/Api/Service/Get/09e2715f-982d-4ddd-9949-c6b9bf1921de",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/09e2715f-982d-4ddd-9949-c6b9bf1921de",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7bea8bbd-e0a5-428b-9759-d0ca5f7b63fa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7bea8bbd-e0a5-428b-9759-d0ca5f7b63fa"
+      ]
+    },
+    {
+      "id": "170854",
+      "name": "臺南市國民中學職員年齡統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/46016d3f-be94-44f4-86b2-07c820ec73b3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/46016d3f-be94-44f4-86b2-07c820ec73b3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e9d7c99a-ed7d-4ba4-afb8-2a7e031ec469",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e9d7c99a-ed7d-4ba4-afb8-2a7e031ec469",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d3de67b0-6874-4bf0-bbb0-ba231be1180a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d3de67b0-6874-4bf0-bbb0-ba231be1180a"
+      ]
+    },
+    {
+      "id": "171242",
+      "name": "臺南市學生輔導諮商中心及區中心詳細資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/69f2dbf9-98c8-4086-86cb-296528c48364",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/69f2dbf9-98c8-4086-86cb-296528c48364",
+        "https://soa.tainan.gov.tw/Api/Service/Get/96255350-81ca-4511-9947-42ce01eb2eb5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/96255350-81ca-4511-9947-42ce01eb2eb5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3057608a-c918-4d2d-8f21-93e399d603dd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3057608a-c918-4d2d-8f21-93e399d603dd"
+      ]
+    },
+    {
+      "id": "171262",
+      "name": "臺南市教師研習課程資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5d8002ba-3ec5-4000-8383-7e0f232c79dd"
+      ]
+    },
+    {
+      "id": "129831",
+      "name": "臺南市公私立幼兒園使用中之車輛清冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/14c86e96-46f9-4ca0-bbe7-7de9947d8b6b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/14c86e96-46f9-4ca0-bbe7-7de9947d8b6b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/891504c7-edfa-4107-956e-adc0634ea58e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/891504c7-edfa-4107-956e-adc0634ea58e"
+      ]
+    },
+    {
+      "id": "142932",
+      "name": "特教資源中心詳細資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1004c2f0-b7d5-4a98-8d3c-0f6b77407e87",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1004c2f0-b7d5-4a98-8d3c-0f6b77407e87",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2657ffa8-b97f-4cbf-909a-3327db32b48a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2657ffa8-b97f-4cbf-909a-3327db32b48a"
+      ]
+    },
+    {
+      "id": "142934",
+      "name": "109學年度臺南市國民小學教師概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d0b599df-6170-429c-8dd4-b580f75e72bb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d0b599df-6170-429c-8dd4-b580f75e72bb"
+      ]
+    },
+    {
+      "id": "142935",
+      "name": "109學年度臺南市國民中學教師概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/95764c77-4d41-4707-b615-f87e90953111",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/95764c77-4d41-4707-b615-f87e90953111"
+      ]
+    },
+    {
+      "id": "142937",
+      "name": "臺南市國民中學僑生數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3f810849-ae69-4848-850f-14e657c6fc46",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3f810849-ae69-4848-850f-14e657c6fc46",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2e24a96a-09a8-493a-abac-fee0dc59cebe",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2e24a96a-09a8-493a-abac-fee0dc59cebe"
+      ]
+    },
+    {
+      "id": "142948",
+      "name": "臺南市國民小學班級規模別統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1a4a689a-300f-4420-96cd-bc909b25a2e1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1a4a689a-300f-4420-96cd-bc909b25a2e1"
+      ]
+    },
+    {
+      "id": "142949",
+      "name": "臺南市國民中學班級規模別統計",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/35c9f4f9-982b-4063-bc56-c799ccd730ab",
+        "https://soa.tainan.gov.tw/Api/Service/Get/35c9f4f9-982b-4063-bc56-c799ccd730ab"
+      ]
+    },
+    {
+      "id": "142952",
+      "name": "臺南市國民小學職員年資統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3c9f8591-5b2c-493c-9c11-080ebf49fb9e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3c9f8591-5b2c-493c-9c11-080ebf49fb9e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/52be953a-f39d-4f91-88c6-716209d24817",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/52be953a-f39d-4f91-88c6-716209d24817",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e96d77ea-89e8-428e-bfab-a080d5006dc6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e96d77ea-89e8-428e-bfab-a080d5006dc6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cec49b78-e3ee-45c1-9c2a-ecb479410f12",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cec49b78-e3ee-45c1-9c2a-ecb479410f12"
+      ]
+    },
+    {
+      "id": "142900",
+      "name": "公立幼兒園概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/6aa04b07-5934-4d88-9a61-b28b64543598",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6aa04b07-5934-4d88-9a61-b28b64543598",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a76f5f1d-882d-4d0a-bbae-f747eec9ab8f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a76f5f1d-882d-4d0a-bbae-f747eec9ab8f"
+      ]
+    },
+    {
+      "id": "142957",
+      "name": "臺南市特殊教育學校原住民學生數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f6a01049-0e98-4a13-a9fd-2ac4122bbce3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f6a01049-0e98-4a13-a9fd-2ac4122bbce3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4c4b4a6c-39b4-4357-92bc-bae413b07fcc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4c4b4a6c-39b4-4357-92bc-bae413b07fcc"
+      ]
+    },
+    {
+      "id": "144928",
+      "name": "臺南市高級中等以下學校締結姊妹校資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/33683fda-617a-46c1-bb64-f643f91199fe",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/33683fda-617a-46c1-bb64-f643f91199fe"
+      ]
+    },
+    {
+      "id": "152670",
+      "name": "臺南市年度獲選績優特教志工表揚名單",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/744a8a37-9cde-44b5-af88-48b81cdb291f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/744a8a37-9cde-44b5-af88-48b81cdb291f"
+      ]
+    },
+    {
+      "id": "152466",
+      "name": "臺南市國民中學原住民學生數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f66d4f90-8e04-49a3-b72a-176bee3a71b0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f66d4f90-8e04-49a3-b72a-176bee3a71b0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6a071979-eae5-41ee-8f6a-1b87da9f00ae",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6a071979-eae5-41ee-8f6a-1b87da9f00ae",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e3ffdfc1-5cd3-4ef5-8beb-24d263d3332f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e3ffdfc1-5cd3-4ef5-8beb-24d263d3332f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0f176394-3a66-436e-844f-2db3036395de",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0f176394-3a66-436e-844f-2db3036395de",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d6e1b95a-e096-4cd3-bff7-3918695b8137",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d6e1b95a-e096-4cd3-bff7-3918695b8137",
+        "https://soa.tainan.gov.tw/Api/Service/Get/24b33668-1e9c-4ec3-8032-3c7b947aa131",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/24b33668-1e9c-4ec3-8032-3c7b947aa131",
+        "https://soa.tainan.gov.tw/Api/Service/Get/45bb4a80-8f03-46b5-ba52-4cda41df32ed",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/45bb4a80-8f03-46b5-ba52-4cda41df32ed",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3ecb20b0-8573-4596-831e-576b1ee90486",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3ecb20b0-8573-4596-831e-576b1ee90486",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4dfa61f3-a580-4a4c-9ca7-75228eff5c15",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4dfa61f3-a580-4a4c-9ca7-75228eff5c15",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bf8785bd-7f83-4505-a167-75fd20228fed",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bf8785bd-7f83-4505-a167-75fd20228fed",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ad90a7b1-a986-44ec-8ec7-9b8501593cc1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ad90a7b1-a986-44ec-8ec7-9b8501593cc1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bc0c7a6c-2f4c-4a05-84cf-a09942425ab9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bc0c7a6c-2f4c-4a05-84cf-a09942425ab9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4b5b25f0-76d8-4cb5-af5f-b1db18c3e875",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4b5b25f0-76d8-4cb5-af5f-b1db18c3e875",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d217e6c5-e3cf-4914-883f-b1fcb41ff41d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d217e6c5-e3cf-4914-883f-b1fcb41ff41d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a7e98de0-b12f-451e-9682-c9ddc86def11",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a7e98de0-b12f-451e-9682-c9ddc86def11",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c980bb4d-7db3-4668-b296-cf028ac76670",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c980bb4d-7db3-4668-b296-cf028ac76670"
+      ]
+    },
+    {
+      "id": "152467",
+      "name": "臺南市高級中學原住民學生數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/37b12940-668a-4000-8799-5c9742525836",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/37b12940-668a-4000-8799-5c9742525836",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9952706c-a40c-47df-8f72-7644eb7315ad",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9952706c-a40c-47df-8f72-7644eb7315ad",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b9ad8bac-5118-4523-adcd-885b6c4a92c9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b9ad8bac-5118-4523-adcd-885b6c4a92c9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a7750362-b5af-4911-b9aa-e9b3ee9ad1df",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a7750362-b5af-4911-b9aa-e9b3ee9ad1df"
+      ]
+    },
+    {
+      "id": "152468",
+      "name": "臺南市國民小學原住民學生數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/9fa25828-6f66-4da6-b13d-12a77aa8dfd2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9fa25828-6f66-4da6-b13d-12a77aa8dfd2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/77d5dfc7-5fe2-4186-8a36-4285b4595b62",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/77d5dfc7-5fe2-4186-8a36-4285b4595b62",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ee5ed5b5-3078-440d-ba76-4d1348e16ae2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ee5ed5b5-3078-440d-ba76-4d1348e16ae2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d6026755-36a3-4795-8435-51beca3a7129",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d6026755-36a3-4795-8435-51beca3a7129",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ac767965-870c-4b50-a59e-665640bd1be2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ac767965-870c-4b50-a59e-665640bd1be2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/58965692-afd2-48da-869c-73d58d752a0c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/58965692-afd2-48da-869c-73d58d752a0c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/daedd718-1c6a-4034-a88f-7cc7512d7c88",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/daedd718-1c6a-4034-a88f-7cc7512d7c88",
+        "https://soa.tainan.gov.tw/Api/Service/Get/50a9c8ca-2204-41a2-91f8-954c97bd3206",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/50a9c8ca-2204-41a2-91f8-954c97bd3206",
+        "https://soa.tainan.gov.tw/Api/Service/Get/650b3460-fb37-4ec4-8815-9b0e572d8b4c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/650b3460-fb37-4ec4-8815-9b0e572d8b4c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8f31ce7c-67f0-45c6-ad75-a794b15ed78b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8f31ce7c-67f0-45c6-ad75-a794b15ed78b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/496192bf-e422-4ba8-a975-a9a0f9b5bd74",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/496192bf-e422-4ba8-a975-a9a0f9b5bd74",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2cd3ab69-56fc-4ea5-85e8-b0a020f78e42",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2cd3ab69-56fc-4ea5-85e8-b0a020f78e42",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d10d1e00-8834-4a25-844a-b1b2062e60cc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d10d1e00-8834-4a25-844a-b1b2062e60cc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1e76e50d-33fa-427a-a8de-c067b98f4e27",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1e76e50d-33fa-427a-a8de-c067b98f4e27",
+        "https://soa.tainan.gov.tw/Api/Service/Get/23b8d1ad-9567-4241-96dc-c0e4adc2bfb8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/23b8d1ad-9567-4241-96dc-c0e4adc2bfb8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/840165e8-a7f1-4f55-88c4-ebfe9e4fe8e4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/840165e8-a7f1-4f55-88c4-ebfe9e4fe8e4"
+      ]
+    },
+    {
+      "id": "176375",
+      "name": "臺南市私立幼兒園概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8aaff6c1-6e5d-40c3-97b5-91f4749cfe60",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8aaff6c1-6e5d-40c3-97b5-91f4749cfe60"
+      ]
+    },
+    {
+      "id": "176376",
+      "name": "臺南市職場互助幼兒園概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7106d577-588a-4b69-a3fd-f21d7582c9e5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7106d577-588a-4b69-a3fd-f21d7582c9e5"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "type": "dataset",
+  "provider": "替代役訓練及管理中心",
+  "slug": "opdadm_moi_gov_tw_40ba01c2",
+  "datasets": [
+    {
+      "id": "20440",
+      "name": "研發及產業訓儲替代役制度推動辦理情形",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E323A-D6E0-4CB9-9E16-5518AEC23FF5/resource/90307E03-C38A-4BAC-A25F-DEAF771354EC/download"
+      ]
+    },
+    {
+      "id": "20443",
+      "name": "核發志願服務結業證明書統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E26617B3-A279-4939-A2C9-4EA57209BAAC/resource/A3791685-9673-44BC-85B9-261D7C57BE20/download"
+      ]
+    },
+    {
+      "id": "20448",
+      "name": "替代役役男現役人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/700EF108-7C4F-4D87-BEDF-FBA6A15BCB2D/resource/0D35617A-092D-47D8-BBD9-CACA86859A51/download"
+      ]
+    },
+    {
+      "id": "20449",
+      "name": "替代役役男退役人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/87AB9A31-B284-48D2-A750-93203C4C5E59/resource/A21F98C9-9563-4156-A3F8-928B0AE73DBD/download"
+      ]
+    },
+    {
+      "id": "38333",
+      "name": "役政署年度收發文統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D3D2E06E-2805-46B6-96C8-4BFCD772ED08/resource/2111C0AA-B305-4568-ACA2-0B65713FF9B4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D3D2E06E-2805-46B6-96C8-4BFCD772ED08/resource/C9DA0E35-3AD2-409F-9737-BE1E8CFB8134/download"
+      ]
+    },
+    {
+      "id": "39185",
+      "name": "替代役役男門診、轉診及住院人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/51030481-4A8D-4227-A9D6-44A37B41C3BF/resource/AEE4778C-F481-493E-A022-BB7F3B5A1994/download"
+      ]
+    },
+    {
+      "id": "68662",
+      "name": "替代役役男救災演訓辦理場次統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F5806EFF-7389-4382-82CD-24843C55EA36/resource/42AE0700-B469-42FD-A93B-1D1B6C177A0B/download"
+      ]
+    },
+    {
+      "id": "68623",
+      "name": "研發替代役役男第3階段月薪統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0D6B803B-39FE-4813-A2C3-CC8C3B9EB53A/resource/4D900718-3F51-4FF1-9982-1F322B632F52/download"
+      ]
+    },
+    {
+      "id": "73248",
+      "name": "各需用機關替代役役男申請出境統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1938493E-B48E-430E-A0F1-25FBF7584A39/resource/50E65142-A482-47E5-95B9-8D8A48FF4D6C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1938493E-B48E-430E-A0F1-25FBF7584A39/resource/EB18ECCB-7B79-4A8E-A0C1-D86DD9534DDB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1938493E-B48E-430E-A0F1-25FBF7584A39/resource/53FEABBB-C237-44BA-940A-F9F1515E523D/download"
+      ]
+    },
+    {
+      "id": "23796",
+      "name": "替代役備役列管人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8188FB2A-91B5-438B-A72B-1B763028DCEF/resource/88897ACD-B940-47FB-9AE9-D6DF0F9C861C/download"
+      ]
+    },
+    {
+      "id": "23838",
+      "name": "本署政府採購決標案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/79F74B1C-C1D0-4204-B0B7-D415F2F9A550/resource/F3C78E84-836B-4385-BC81-C74FBA05D4DF/download"
+      ]
+    },
+    {
+      "id": "23885",
+      "name": "各縣市政府辦理替代役役男法紀教育及在職訓練一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DC915DD1-5B76-4A3D-B7F9-2C8B36E4D4D6/resource/D526A045-AF92-4C7D-A73C-57820673D920/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DC915DD1-5B76-4A3D-B7F9-2C8B36E4D4D6/resource/6867218B-6F17-4D4C-81E7-A545FA83210C/download"
+      ]
+    },
+    {
+      "id": "23791",
+      "name": "一般替代役分發人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D044FEA9-DE78-4281-BF7E-16FF45D85515/resource/7EEF7E77-FE0A-46A9-B994-41C302028318/download"
+      ]
+    },
+    {
+      "id": "94943",
+      "name": "替代役役男獎懲人次統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/69FBF24F-143A-4D22-A4B9-35E8B0CCBCED/resource/704E129F-7B94-4BB5-9A95-A6D3574E9202/download"
+      ]
+    },
+    {
+      "id": "94978",
+      "name": "全國各直轄市及縣(市)政府設置替代役備役役男勤務編組管理中心數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F268DEEF-EA84-4C52-B6B9-5592A0AF2AA2/resource/843635C5-947E-4E30-B2DB-0ADB8BDD7E27/download"
+      ]
+    },
+    {
+      "id": "129965",
+      "name": "內政部役政署職員年齡統計報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6577A94C-EBE2-4584-8F2A-6B7431BC8B68/resource/3262A23F-9812-444D-AA65-C534F140CCE4/download"
+      ]
+    },
+    {
+      "id": "130317",
+      "name": "採購案件稽核統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6F1AC084-A5C1-46D2-BCFB-39599B35F3F1/resource/F29A32FC-116F-490F-B5EF-10DB92A1885B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6F1AC084-A5C1-46D2-BCFB-39599B35F3F1/resource/A1E7E2D9-4E67-40C4-BF13-4C59C5D1F17D/download"
+      ]
+    },
+    {
+      "id": "130358",
+      "name": "替代役役男毒品濫用列管類型統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DE507525-AF85-4FE9-BD33-AD464C8C1892/resource/EE74CDDE-0EB8-4DF2-AFBC-B147D9B4BDCF/download"
+      ]
+    },
+    {
+      "id": "130360",
+      "name": "研發替代役役男新訓期間折抵役期人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD46B69E-A0AF-46A2-B9EC-63D41D7E3595/resource/67D20336-40C0-48ED-B414-348F9991631E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD46B69E-A0AF-46A2-B9EC-63D41D7E3595/resource/12F86B5B-5A02-4B6E-9927-6ABE3FD921EE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD46B69E-A0AF-46A2-B9EC-63D41D7E3595/resource/C4029AF1-5926-46FE-A9A7-705E87460BFC/download"
+      ]
+    },
+    {
+      "id": "159940",
+      "name": "替代役反毒種子及自殺防治守門員培訓人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3906C986-04BD-4436-B222-E0CEC9864EE9/resource/C927632D-CD46-4558-A2CC-F61E6C2CF93F/download"
+      ]
+    },
+    {
+      "id": "159949",
+      "name": "研發替代役第三階段平均薪資統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CBB528E6-76E8-4A1C-9F21-749A6C71B6D4/resource/74851AD3-E7D1-45A9-9F8A-BE1893C6C1C7/download"
+      ]
+    },
+    {
+      "id": "136415",
+      "name": "替代役基礎訓練受訓役男取得初級救護技術員人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/442C4F5B-3A14-465B-9AC6-92F00BF240C0/resource/FC8415BB-48AA-4BA3-A04D-992F6A7900D0/download"
+      ]
+    },
+    {
+      "id": "175897",
+      "name": "替代役備役役男勤務編組管理中心設置要點",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2AFADA55-84A8-4416-9459-935DBF327589/resource/8F12B64B-165E-466D-B454-E2DBC77AF5D8/download"
+      ]
+    },
+    {
+      "id": "170585",
+      "name": "內政部替代役公益大使團年度專長甄選報名人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2F41D2AB-0208-40DD-A9A0-02449838B0E5/resource/AD927BD2-CC6F-4FB7-B104-32B1A239E085/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2F41D2AB-0208-40DD-A9A0-02449838B0E5/resource/60854160-98F7-4595-923F-800A5AC27769/download"
+      ]
+    },
+    {
+      "id": "170587",
+      "name": "年度國防部支援替代役訓練班新進軍職人員在職講習",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4042ECB8-FDB0-48DF-9553-2CD34BE8DE18/resource/6FEC46CF-F9C0-49A5-8A59-9199A6BC13D6/download"
+      ]
+    },
+    {
+      "id": "170691",
+      "name": "研發替代役各梯次基礎訓練概定行程表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EEF0D39B-92E5-49BD-95E3-4D9ACD92ED35/resource/4DE757F2-F381-4AD4-B08D-3F8185363B2E/download"
+      ]
+    },
+    {
+      "id": "170699",
+      "name": "113年全民防衛動員暨災害防救(民安)演習訓練統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD421217-EB00-4456-9772-F7F0114098AA/resource/F59471A1-B730-477E-8320-93B18ACA991E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD421217-EB00-4456-9772-F7F0114098AA/resource/09D0CA7D-B444-4026-872F-F4E5059B9911/download"
+      ]
+    },
+    {
+      "id": "170714",
+      "name": "年度替代役役男申請身心障礙等級檢定",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09907988-BC85-4F57-85F7-F98B748C3EB0/resource/3E4E3246-D95B-4D8B-83AA-5FDD2B00206C/download"
+      ]
+    },
+    {
+      "id": "174600",
+      "name": "城鎮韌性(全民防衛動員)演習替代役備役召集成果統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9B3951C0-7EB3-4679-9466-001F04449DEA/resource/047740BA-96B9-47C4-9414-9BE17264CACC/download"
+      ]
+    },
+    {
+      "id": "174525",
+      "name": "替代役役男小型鍋爐操作訓練成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/79045B9C-8625-4DA2-912C-A4C871DA87F0/resource/D02DE019-4F00-4287-8252-2EE9D3048B7C/download"
+      ]
+    },
+    {
+      "id": "174553",
+      "name": "研發替代役役男申請出境經核准案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4673E607-0052-4430-A768-8300435A7661/resource/E598B0D1-19B3-473E-8EBE-283D3473BB32/download"
+      ]
+    },
+    {
+      "id": "174550",
+      "name": "一般替代役薪俸(含專業及地域加給)、主副食費、年終工作獎金發放及勞工退休金提繳統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/74340F63-5090-4582-BEF7-C1CD4581ED6A/resource/38753547-4986-44E7-ABD1-8AE445448218/download"
+      ]
+    },
+    {
+      "id": "23792",
+      "name": "申請家庭因素服替代役核定人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/76F11368-9048-497A-B4EF-BFC822D8A35D/resource/6BBDF23F-FF77-4398-8771-DA35961AD834/download"
+      ]
+    },
+    {
+      "id": "23798",
+      "name": "研發替代役薪俸、主副食費、津貼及年終獎金發放統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5E8E85A0-3515-452D-88A9-1AB017D5A6E2/resource/CBCBD79C-DA3A-4147-91D5-4E56B5C73569/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5E8E85A0-3515-452D-88A9-1AB017D5A6E2/resource/D255A27A-36CF-4BB5-9365-EBC003EB6B2D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5E8E85A0-3515-452D-88A9-1AB017D5A6E2/resource/ADC5BE67-CF8B-4E43-A48A-F5FC56E7E909/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5E8E85A0-3515-452D-88A9-1AB017D5A6E2/resource/0963B65C-4853-43B9-9732-F6D4CBE077FC/download"
+      ]
+    },
+    {
+      "id": "39183",
+      "name": "研發及產業訓儲替代役役男報名暨用人單位甄選作業實施計畫",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3EE6EBE7-5CFE-4940-9292-F6ED8B14F447/resource/209FF40D-0CFE-48E1-82B8-843A709D4D5B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3EE6EBE7-5CFE-4940-9292-F6ED8B14F447/resource/C0DED707-EEB3-4607-8B2E-FAD39206A669/download"
+      ]
+    },
+    {
+      "id": "39184",
+      "name": "替代役役男流感疫苗接種統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4840EB6F-DFD3-4CE2-BC9B-28E7DBCF07A6/resource/5FA028BB-02A7-4007-BE60-0FED8AEF1E4C/download"
+      ]
+    },
+    {
+      "id": "39187",
+      "name": "替代役備役召集成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/78F91B26-23AD-4DE8-BDE7-00FC7660A24A/resource/445687E6-1038-44F6-92BA-330DD1C65395/download"
+      ]
+    },
+    {
+      "id": "38330",
+      "name": "替代役公益大使團各年度公益及反毒演出活動統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/07B41C14-A3F4-4FB4-8BBD-5C06ED7ABAC0/resource/3C116ABD-0D5F-4D8C-83CD-7D2F0FBE4C74/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/07B41C14-A3F4-4FB4-8BBD-5C06ED7ABAC0/resource/C89235A3-18E4-4159-BF24-82B3AA45657C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/07B41C14-A3F4-4FB4-8BBD-5C06ED7ABAC0/resource/5AEBE8CC-0E38-48AE-8A09-C23297BB7CE2/download"
+      ]
+    },
+    {
+      "id": "23843",
+      "name": "一般替代役各梯次徵集分發統計表",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E92D5EC5-1700-4C92-A5D8-C0F165D1B69D/resource/58944EF3-6253-47FC-97F2-BA96C9D3197E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E92D5EC5-1700-4C92-A5D8-C0F165D1B69D/resource/C9A4906F-660B-46ED-905C-F6399E2AD755/download"
+      ]
+    },
+    {
+      "id": "23879",
+      "name": "各期管理幹部訓練結訓人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7A9D96F6-F06E-451A-B5DF-FBD8FFFA3DB7/resource/8650CF0A-5912-4CD4-9742-3D2A407D5402/download"
+      ]
+    },
+    {
+      "id": "23881",
+      "name": "替代役基礎訓練流路概定表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2D0B60E6-3C02-41A7-8AFE-7CD78B3B4DF7/resource/4C09C203-E2EA-45AB-92FF-7B72BEFABF24/download"
+      ]
+    },
+    {
+      "id": "20441",
+      "name": "研發及產業訓儲替代役入營報到情形統計表",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B8133AF1-0E51-436E-BFB1-642E171D9AE1/resource/599978AF-B503-42E5-8D83-F279E21EFCC1/download"
+      ]
+    },
+    {
+      "id": "20442",
+      "name": "替代役役男基礎訓練期間捐血統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F568ABFF-57AF-4CC1-B20F-52F0E8944CED/resource/57EF5447-DC02-49C2-A1EE-BC6C40049981/download"
+      ]
+    },
+    {
+      "id": "20445",
+      "name": "替代役役男訓練人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6540345E-E95B-4186-B310-90CC2125B1F6/resource/67F8A80D-462D-41EB-92F8-0FFC2C6E29A6/download"
+      ]
+    },
+    {
+      "id": "20447",
+      "name": "替代役各梯次基礎訓練概定行程表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F2BD059-C6DA-4BAD-900D-6AB196C2C904/resource/81AF05C5-0F94-4FE2-BAE2-A5187E052527/download"
+      ]
+    },
+    {
+      "id": "68640",
+      "name": "各縣市替代役役男基礎訓練人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/93981744-4968-4037-8BD0-8097F0FE9284/resource/B37D03FC-B76E-4C2C-A0C9-93E0E46CCC61/download"
+      ]
+    },
+    {
+      "id": "73249",
+      "name": "各梯次替代役役男學歷統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B7F91903-C63A-424A-B63C-ABCDF64BC994/resource/97C15038-3B9A-4CE9-8E20-C09A9DE19338/download"
+      ]
+    },
+    {
+      "id": "95930",
+      "name": "替代役訓練班服勤役男人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0F764C5E-F0D8-440A-9AC0-CBD509CF3818/resource/D927FA23-988C-4985-B54A-80A14792F644/download"
+      ]
+    },
+    {
+      "id": "95931",
+      "name": "替代役各梯次受訓役男服裝發放型號統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B1EBB994-8AE4-43D3-978A-47F305E433DF/resource/64B5554A-EDE7-417F-8B5E-F5C7BDCF2963/download"
+      ]
+    },
+    {
+      "id": "94968",
+      "name": "替代役役男輔導教育受訓人數分析統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AAAD3AD2-8BB1-4C23-B6F5-EF2D8232DFE0/resource/90767581-A1A9-4654-8399-DC6ABAACB6B6/download"
+      ]
+    },
+    {
+      "id": "130321",
+      "name": "役政署重大計畫預算執行績效表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B3FA23A1-25B6-4710-89E6-98E03E828BEB/resource/9EADE32B-BD4B-470A-AD07-247F74CAE74A/download"
+      ]
+    },
+    {
+      "id": "130357",
+      "name": "研發替代役留任率",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/657E2D35-6D61-4975-B781-B80CC73F34FC/resource/408E97B6-7A7B-40B7-81F2-FA7981AF959E/download"
+      ]
+    },
+    {
+      "id": "130361",
+      "name": "一般替代役役男服役期間服裝配賦數量表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FE382C9A-4FD1-4A41-9FC8-5551FBDBAFAF/resource/86862E6C-643C-455C-9539-6EAC39140425/download"
+      ]
+    },
+    {
+      "id": "146751",
+      "name": "替代役役男薪俸基準表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/66AD742D-138E-4A66-8F65-38F0CD78A2E2/resource/AC956DF5-0800-4B36-80AE-578E98F12393/download"
+      ]
+    },
+    {
+      "id": "152750",
+      "name": "替代役訓練班各梯次基礎訓練役男違紀案件統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BC4C82CF-25E5-4EA2-9803-B60C59E5D39B/resource/70B3440F-F945-406D-ABF7-DB0C758D6697/download"
+      ]
+    },
+    {
+      "id": "160048",
+      "name": "替代役訓練班歷年工程發包經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5021152F-3E8D-4190-B043-9C4AE84770F3/resource/5B14756B-F6E3-469C-8E82-3E404E309AAB/download"
+      ]
+    },
+    {
+      "id": "137288",
+      "name": "役政署辦公區域資料",
+      "format": "kml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4E665C4F-C82F-4FC7-8774-138F3AC8CF1B/resource/1FFA83CB-2E16-4B54-8674-9CC0436CAB25/download"
+      ]
+    },
+    {
+      "id": "145948",
+      "name": "錄取專長資格替代役人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0B6E12B8-3FB6-4715-B1F9-22D63742D800/resource/75EF170E-ECE0-4BD3-9361-870A85F61C91/download"
+      ]
+    },
+    {
+      "id": "145949",
+      "name": "歷年研發替代核配用人單位家數及員額數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/277BE7BD-E20C-4BEC-9569-E77DE5CA75B5/resource/0FC9072E-A58C-43D6-9EBE-01B4058E1AF2/download"
+      ]
+    },
+    {
+      "id": "145956",
+      "name": "替代役管理人員陪同役男轉介諮商教育訓練人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6C7CBC11-AF52-45F1-8B0D-F09C403F2AC7/resource/5820518C-2B92-42C5-816E-6FBF7DED99EC/download"
+      ]
+    },
+    {
+      "id": "136416",
+      "name": "替代役訓練班向國防部借用成功嶺營舍統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C1674B17-2144-4B54-8815-640D5F458CAE/resource/F9E3989C-BF9A-47BA-909E-7121654E8DC6/download"
+      ]
+    },
+    {
+      "id": "136431",
+      "name": "社會役長期照顧役男專長訓練人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/431ED3FC-9A42-4F82-9C5D-B56AB714BF31/resource/2B39FB16-CAAF-408B-A1A1-D30B2206E440/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/431ED3FC-9A42-4F82-9C5D-B56AB714BF31/resource/AA683E56-26AF-4F60-A123-FC3D8C9A9CE1/download"
+      ]
+    },
+    {
+      "id": "136432",
+      "name": "替代役公益大使團「傳愛役演」公益演出活動統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/56FF9D78-EEB0-4BBC-A8ED-6D3A341AFDB2/resource/3ED4F33D-2EB6-4A19-9684-4567C83D240E/download"
+      ]
+    },
+    {
+      "id": "159952",
+      "name": "替代役役男身心障礙死亡人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/84F5D488-8846-42A9-B7D3-6AC3253C27CC/resource/A5BDC731-3855-45E3-9AEA-B14F84A28A38/download"
+      ]
+    },
+    {
+      "id": "159941",
+      "name": "替代役役男管理幹部取得SGS領導專業認證制度人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B638353E-5B6E-4E98-91FB-06AA0CC9C719/resource/A3FC9AAF-CBEB-4BF1-B3FB-EEE2E8161171/download"
+      ]
+    },
+    {
+      "id": "159944",
+      "name": "內政部役政署性別平等專區CEDAW教材簡報資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/68D352AB-8A66-4CEF-AFBF-97C79AACC485/resource/B44BED71-B674-4128-A5BB-22D4C81497CD/download"
+      ]
+    },
+    {
+      "id": "159950",
+      "name": "111年配合政策調薪替代役役男薪俸基準表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/494B13E1-A75A-4122-9ECD-AA4484E9C0AC/resource/C61B8A4D-B3F3-4051-875A-FF65CAF2566C/download"
+      ]
+    },
+    {
+      "id": "170588",
+      "name": "替代役基礎訓練實彈射擊役男完訓統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/94D872DA-8CAC-4BAE-B311-8CA5BA52BAF7/resource/13CA47E2-75FA-4664-8484-696EDAA15DCB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/94D872DA-8CAC-4BAE-B311-8CA5BA52BAF7/resource/C353E5E1-2578-471D-B529-A5A19367799E/download"
+      ]
+    },
+    {
+      "id": "174485",
+      "name": "防災士培訓",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B53BB2DB-DF75-430F-BBB7-5F2488017F8A/resource/D7453BE7-B0AB-47EB-8D18-915525B9F232/download"
+      ]
+    },
+    {
+      "id": "174558",
+      "name": "替代役役男支援協助救災工作人次統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9F8EE2EC-B962-46A6-B94F-8683DF06D454/resource/96EBB489-BFAE-452E-96BF-2B3CFB95E5B1/download"
+      ]
+    },
+    {
+      "id": "170108",
+      "name": "役男申請服替代役人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/01A56BF1-A59B-4BC5-A952-7B569B839B90/resource/A3052F51-5B3C-4949-A413-5C1D4F702995/download"
+      ]
+    },
+    {
+      "id": "170695",
+      "name": "替代役提前退役核定人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5C76D074-E581-453D-A2AE-556AE10313CC/resource/22A10C70-336E-47D3-B571-F048451E7A29/download"
+      ]
+    },
+    {
+      "id": "175896",
+      "name": "替代役備役役男勤務編組及召集作業須知",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65EE8350-2387-4273-8C66-460BB742CB65/resource/D5ADC1B2-78C7-4618-9898-A07DF0CFB200/download"
+      ]
+    },
+    {
+      "id": "23892",
+      "name": "替代役公益服務執行情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4065129D-84D7-4BB3-8830-69C98B890393/resource/FE620B93-E647-444E-B0F1-4C60F9F0FD22/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4065129D-84D7-4BB3-8830-69C98B890393/resource/24281450-A071-436C-8D09-87DADE818BAE/download"
+      ]
+    },
+    {
+      "id": "23883",
+      "name": "替代役役男核准出境統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/42F5274F-B938-422B-ABF9-D1E6DB2F757E/resource/07567D1C-CA85-49D8-B3E1-4E0373F7E9D7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/42F5274F-B938-422B-ABF9-D1E6DB2F757E/resource/93F928CF-2885-466A-BB1D-92313F1E2EEF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/42F5274F-B938-422B-ABF9-D1E6DB2F757E/resource/46BEDF79-B912-439D-BE7C-E32512087D33/download"
+      ]
+    },
+    {
+      "id": "23887",
+      "name": "內政部役政署督訪替代役役男服勤單位所屬需用機關統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/05334209-3E75-4647-AEF1-C5C0B7E5FAFF/resource/8E8162AE-4035-4DF9-BF4D-95A241EF9436/download"
+      ]
+    },
+    {
+      "id": "23889",
+      "name": "替代役公益服務受益人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5C1D8D59-55F9-4F93-AEE0-7ACA0340ADF5/resource/4D19617E-D105-4FED-90C0-77009DBAF096/download"
+      ]
+    },
+    {
+      "id": "8660",
+      "name": "替代役役男退役日期查詢",
+      "format": "其他",
+      "urls": [
+        "https://dca.moi.gov.tw/adm/veteran/index"
+      ]
+    },
+    {
+      "id": "38334",
+      "name": "替代役役男訓練期間辦理折抵役期統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA0DC4EF-4C1B-4659-A261-16845CD2A019/resource/9D4117BD-8CEA-4023-800C-C32CDF7E9606/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA0DC4EF-4C1B-4659-A261-16845CD2A019/resource/8733D177-9505-474F-9B14-DFE4945FC54C/download"
+      ]
+    },
+    {
+      "id": "38335",
+      "name": "績優替代役役男表揚人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F438A2C0-6B6C-49BB-B19F-6CFF75C50285/resource/910FA3B1-8680-4DB5-AECF-B29A32D29672/download"
+      ]
+    },
+    {
+      "id": "39193",
+      "name": "產業訓儲替代役薪俸、主副食費及津貼發放統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F2E5AFD5-427C-4BC9-B630-C0913857EE06/resource/03DF7DB0-A751-41A3-B2C8-042733EA5487/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F2E5AFD5-427C-4BC9-B630-C0913857EE06/resource/5B9A1817-B59F-47F5-BE9B-51547BCFA21E/download"
+      ]
+    },
+    {
+      "id": "39189",
+      "name": "發放替代役役男死亡傷病慰勞金人數及補助總金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A87140F8-848D-418C-A5D2-B2A0678AED2D/resource/C4CE7CD5-E2E1-40A4-BE36-B15D75EEABDE/download"
+      ]
+    },
+    {
+      "id": "39190",
+      "name": "研發及產業訓儲替代役員額申請暨審查作業實施計畫",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B0328DB5-2D24-4605-AB60-B0AB0CDF9996/resource/261C7301-D500-48C7-B3C8-38CAFA805B6A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B0328DB5-2D24-4605-AB60-B0AB0CDF9996/resource/67107BA2-9E83-42F5-AC3C-716BFADD8944/download"
+      ]
+    },
+    {
+      "id": "73247",
+      "name": "替代役役男心理困擾類型統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F49159B9-97C4-4353-BC98-94FD6FC7F568/resource/609770F4-8C7F-4B06-9056-7808FCCFC523/download"
+      ]
+    },
+    {
+      "id": "94994",
+      "name": "研發替代役役男研究成果統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E01B84A1-2881-49BC-84D6-861B877B9E20/resource/0D593EFC-49C6-405C-A2DC-331F47E60E9B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E01B84A1-2881-49BC-84D6-861B877B9E20/resource/8FBB1A12-E36E-4621-B083-64FE153204B6/download"
+      ]
+    },
+    {
+      "id": "94995",
+      "name": "替代役役男地域加給支給標準表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/81CEE586-C4ED-4142-AA03-3213094EBB4A/resource/6F017A86-B48F-4691-8895-9AA2E65D49DD/download"
+      ]
+    },
+    {
+      "id": "95204",
+      "name": "替代役各梯次受訓役男電腦適性測驗分析統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/07D9C510-08A4-4922-9BFF-14116BDEB093/resource/A3E9643B-0E46-458A-9E00-8039A5AF1095/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/07D9C510-08A4-4922-9BFF-14116BDEB093/resource/7057CA5A-0647-4023-A880-C15EBA3B827C/download"
+      ]
+    },
+    {
+      "id": "94942",
+      "name": "替代役役男訪視成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DCA55452-583D-45D8-A63C-D37913E92C5B/resource/6A90D9B9-D1E7-466D-9345-05660C577AAD/download"
+      ]
+    },
+    {
+      "id": "136414",
+      "name": "替代役訓練班役男伙食問卷調查滿意度統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A8AAC415-9953-4420-B8A1-D4781DCE7814/resource/A44DE460-86AB-45CE-95AB-12C60FDD8E1B/download"
+      ]
+    },
+    {
+      "id": "136425",
+      "name": "歷年累積研發替代役役男投入產業人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C4023C5A-8F67-48BA-841E-D6E8A971DEB5/resource/3DF7B985-E8C3-49EC-BC72-43A11D312C2E/download"
+      ]
+    },
+    {
+      "id": "136428",
+      "name": "歷年補助各縣市入營輸送經費預算統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D8FC499E-0E46-43F5-9AEC-31AE5994646B/resource/7B2734E5-6FE3-40B5-B6A0-D8A2E946CCB3/download"
+      ]
+    },
+    {
+      "id": "136429",
+      "name": "年度研發替代役員額核配總表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0AF60B0F-EC9D-4D9B-9FD8-AF82D6441B1B/resource/108D3001-683D-4C0A-94A2-823F16A0AA6E/download"
+      ]
+    },
+    {
+      "id": "136437",
+      "name": "替代役役男心理困擾列管個案來源統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8256E809-C922-4AB6-85CD-2301542C0C99/resource/A119172A-7029-4B08-A43A-82779296132F/download"
+      ]
+    },
+    {
+      "id": "137285",
+      "name": "替代役役男身分證製補發統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/321FA4A6-F94C-478D-A63E-20ED7301A38A/resource/0681F8A3-A71A-4E3A-ABE6-912047DB1DAE/download"
+      ]
+    },
+    {
+      "id": "170692",
+      "name": "替代役近五年分發至海外服勤役男人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5227941C-D6CB-466D-BCB3-40A98F250514/resource/90FA6F88-B00D-4ECF-9C83-1A1E600C2EB2/download"
+      ]
+    },
+    {
+      "id": "170711",
+      "name": "備役役男編管中心秘書資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83082B73-3DE2-4FAC-A39A-2425758D3C14/resource/5A70D891-1852-481F-A610-7AC43658E988/download"
+      ]
+    },
+    {
+      "id": "170713",
+      "name": "民防訓練參訓人員統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C4DB8D24-0A74-4C21-9728-05C6E5D49D85/resource/DE289430-2F14-48AA-8CC4-2EFD4C6E46D6/download"
+      ]
+    },
+    {
+      "id": "159942",
+      "name": "替代役役男COVID-19疫苗施打人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C41796C3-BDF9-4CA5-817F-06BA4954B588/resource/5ED47EAD-3264-470F-AA36-D82CCE012C87/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C41796C3-BDF9-4CA5-817F-06BA4954B588/resource/4E924290-48A6-42C8-ABE1-DEC8FEDB2F08/download"
+      ]
+    },
+    {
+      "id": "159948",
+      "name": "完成警察人員養成教育接受一般替代役基礎訓練人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/53D1EBDF-AABC-4891-8E9A-B49C9C6A660C/resource/68D9AB12-A88D-490A-B564-375890F88EA5/download"
+      ]
+    },
+    {
+      "id": "160049",
+      "name": "替代役各梯次受訓役男諮商來源分析統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0E897117-74CF-4987-A05B-769B1502FCC6/resource/5A465035-4445-441B-B2F2-CF8CB2FCEFCC/download"
+      ]
+    },
+    {
+      "id": "160050",
+      "name": "替代役基礎訓練役男活動花絮照片(家族雲)張數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4CDBA9B0-B2C5-40D0-9635-E60DB0A01997/resource/22C11D50-0751-4420-B93D-4D174A276475/download"
+      ]
+    },
+    {
+      "id": "130059",
+      "name": "替代役訓練班區隊長訓練結訓人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A213D879-5D93-4AEC-B0D4-023481E931B5/resource/2394B6E2-9F42-49C7-A1C1-550394856499/download"
+      ]
+    },
+    {
+      "id": "130060",
+      "name": "替代役基礎訓練役男家屬手機簡訊報平安統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FB3D43EB-B2EC-46E1-94DE-3DA239F18B54/resource/0C17ED15-11F7-4113-9F2C-7A061F2B6B12/download"
+      ]
+    },
+    {
+      "id": "130359",
+      "name": "替代役役男意外事件通報人次統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/960AFE6E-6DD8-4289-B9CE-62A7C3CFB202/resource/D30C1DE4-35EB-4AF0-B629-7F09C22977DE/download"
+      ]
+    },
+    {
+      "id": "130318",
+      "name": "內政部役政署108年度廉政倫理事件登錄案件相關統計一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/88CD6AFA-0DDF-4768-AB52-E82BC8041539/resource/1A2937BE-C1CE-4E8F-9BCD-B600CC66E60D/download"
+      ]
+    },
+    {
+      "id": "130550",
+      "name": "替代役役男傷殘死亡人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F44987C6-3EF6-470B-9DBF-66ED4475DD22/resource/0C021936-4F44-4B95-8CB6-5BF3EE9F7EF0/download"
+      ]
+    },
+    {
+      "id": "145957",
+      "name": "社會役社區營造專長役男專長訓練人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/55F5A5EB-2917-4D68-B0E3-99A2FC73B3E1/resource/84D4F713-3CA3-4A4A-A448-842FD9C179AD/download"
+      ]
+    },
+    {
+      "id": "145958",
+      "name": "替代役兩造(照)雙役「長照公益」服務人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/864F9069-86E1-4436-8CB2-A5B0483E7644/resource/9B874CE2-9856-4853-AE05-009E728B36A6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/864F9069-86E1-4436-8CB2-A5B0483E7644/resource/FDB2EAC7-A795-4E15-8333-DAB404A8F1F6/download"
+      ]
+    },
+    {
+      "id": "146750",
+      "name": "歷年替代役役男贍養金發放統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AFB458A4-C225-4CD7-AC2D-FBEF943850BF/resource/2489EB45-8737-4686-83F7-3C15C8A209AF/download"
+      ]
+    },
+    {
+      "id": "152751",
+      "name": "替代役各梯次基礎訓練受訓役男洗衣公費及自費金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AFA26A70-E924-494E-A6EA-103DEAE83858/resource/A427360B-1DF5-47FD-B25C-857E32807448/download"
+      ]
+    },
+    {
+      "id": "174720",
+      "name": "替代役役男(家庭因素)專業訓練人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9159C2B5-04FB-49CD-906D-694B8B79F94D/resource/7084F5E6-79F6-4B03-B0AF-0C39E377CA58/download"
+      ]
+    },
+    {
+      "id": "174486",
+      "name": "行政院核定一般替代役員額統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/64A07599-9C95-4909-81DF-61D28CF84287/resource/9E3BB2C9-CA73-4810-9D0E-700DBC274D89/download"
+      ]
+    },
+    {
+      "id": "174490",
+      "name": "替代役備役役男勤務編組管理中心人員設置統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/982A85C4-0B78-4E6E-AE5D-DA992C2C64D7/resource/1EFBBA4A-9498-40C0-83B4-643D18D6251D/download"
+      ]
+    },
+    {
+      "id": "174475",
+      "name": "專長資格申請服管理幹部人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EE1B22FE-F1C2-49D9-939C-0C3C4371828A/resource/12EAE39B-803F-4CEF-B046-DC08DE0EE836/download"
+      ]
+    }
+  ]
+}

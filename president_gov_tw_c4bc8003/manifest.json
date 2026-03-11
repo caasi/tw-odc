@@ -1,0 +1,735 @@
+{
+  "type": "dataset",
+  "provider": "總統府",
+  "slug": "president_gov_tw_c4bc8003",
+  "datasets": [
+    {
+      "id": "18704",
+      "name": "總統府104年會計月報",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/Default.aspx?tabid=1192&itemid=35311&rmid=3023"
+      ]
+    },
+    {
+      "id": "9504",
+      "name": "總統府執行節能減碳成效",
+      "format": "csv",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/38e45b1b-78ac-4c2d-be23-57e09c86b2c1"
+      ]
+    },
+    {
+      "id": "35388",
+      "name": "總統府106年度單位預算案",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/portals/0/president/html/service/106_OOPXML.zip"
+      ]
+    },
+    {
+      "id": "46153",
+      "name": "總統令",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetPresidentOrder.ashx"
+      ]
+    },
+    {
+      "id": "46114",
+      "name": "總統府影音頻道",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetFileViedo.ashx"
+      ]
+    },
+    {
+      "id": "52938",
+      "name": "總統府107年度單位預算案(XML)",
+      "format": "rar",
+      "urls": [
+        "http://www.president.gov.tw/File/Doc/169175cb-66f2-4727-95be-43826e276af8"
+      ]
+    },
+    {
+      "id": "46581",
+      "name": "蕭美琴副總統",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=52702f75-5511-4495-9c3e-9fbee0b0ee9a"
+      ]
+    },
+    {
+      "id": "46583",
+      "name": "行憲後歷任總統",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=054635DD-9442-45D6-BC85-718B6181812A"
+      ]
+    },
+    {
+      "id": "46584",
+      "name": "行憲後歷任副總統",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=47816160-2F7D-4D3F-BB12-B6DAB687CE2E"
+      ]
+    },
+    {
+      "id": "46587",
+      "name": "國父",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=355D0980-E827-4D4A-88D1-7FE30F7443CE"
+      ]
+    },
+    {
+      "id": "46593",
+      "name": "國歌",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=CC4099FC-6EC5-4269-AC1C-EC6E88EE0B99"
+      ]
+    },
+    {
+      "id": "46596",
+      "name": "政府組織（中央）",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=B139DDE0-A867-4926-B690-F69FAACFDFF5"
+      ]
+    },
+    {
+      "id": "46603",
+      "name": "組織與職掌",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=953C5438-398A-4AE2-99A7-53AEF2A24719"
+      ]
+    },
+    {
+      "id": "46610",
+      "name": "機關首長（秘書長）",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetSeniorOfficials.ashx?GUID=572AA631-74BE-42C0-B69E-F2517880B8A4"
+      ]
+    },
+    {
+      "id": "46612",
+      "name": "總統府人權諮詢委員會",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetHumanRights.ashx"
+      ]
+    },
+    {
+      "id": "46614",
+      "name": "儀節活動",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetCeremonial.ashx"
+      ]
+    },
+    {
+      "id": "46615",
+      "name": "常見問答",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBFAQ.ashx"
+      ]
+    },
+    {
+      "id": "46617",
+      "name": "隱私權及資訊安全政策",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=9A3E751C-50D4-4D87-B62C-9E0DA4AE74CE"
+      ]
+    },
+    {
+      "id": "46618",
+      "name": "無障礙聲明",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=325A559D-27EB-4979-8462-8B08C01B61B1"
+      ]
+    },
+    {
+      "id": "26814",
+      "name": "總統府105年度單位預算",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/portals/0/president/html/service/105_OOPXML01.zip"
+      ]
+    },
+    {
+      "id": "77364",
+      "name": "總統府107年度單位預算(XML)",
+      "format": "rar",
+      "urls": [
+        "http://www.president.gov.tw/File/Doc/d34de08d-f4ac-4fb0-b6de-593f8ddcc15f"
+      ]
+    },
+    {
+      "id": "107553",
+      "name": "總統府109年度單位預算案(XML)",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/31dca29d-5bcc-4f9d-b2f1-52e59c75bce8"
+      ]
+    },
+    {
+      "id": "129844",
+      "name": "總統府110年度單位預算案(XML)",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/03aa5ba4-d297-4d6b-9d41-6ef173991f05"
+      ]
+    },
+    {
+      "id": "158455",
+      "name": "總統府會計報告(104-114年度)",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/portals/0/president/html/service/104-01-0201-20150728105644.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-02-0201-20150728105757.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-03-0201-20150728105831.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-04-0201-20150728105845.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-05-0201-20150728105911.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-06-0201-20150728105928.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-07-0201-20150812143006.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-08-0201-20150911153141.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-09-0201-20151013161127.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-10-0201-20151110201308.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-11-0201-20151208163225.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104-12-0201-20160125144904.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105-01-0201-20160218.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105-02-0201-20160310.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105-03-0201.zip",
+        "https://www.president.gov.tw/File/Doc/8fb2bdf6-818f-4603-a7d8-c11edd5e3b7b",
+        "https://www.president.gov.tw/portals/0/president/html/service/105-05-0201.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105-06-0201.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105-07-0201.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105-08-0201.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105-09-0201.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105-10-0201.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105-11-0201.zip",
+        "https://www.president.gov.tw/File/Doc/d208075d-da99-4607-9f65-b0b4878524c9",
+        "https://www.president.gov.tw/File/Doc/8e28b63c-768c-425b-8b71-5b0c5aa30ef7",
+        "https://www.president.gov.tw/File/Doc/98a0f750-b4c8-41f7-b9a6-c6bdc24e19a6",
+        "https://www.president.gov.tw/File/Doc/94aa8ff7-9f77-46d7-9a34-ca77cdcab3d6",
+        "https://www.president.gov.tw/File/Doc/4e25cd99-9f7e-4d4b-94fa-60441374d3a0",
+        "https://www.president.gov.tw/File/Doc/4631adef-8157-4bc6-91fe-9125361ab316",
+        "https://www.president.gov.tw/File/Doc/4c4b339e-8b41-4f07-b58d-2e2a963bfd51",
+        "https://www.president.gov.tw/File/Doc/3121a58e-9cf9-49dc-99ce-15349db9bf28",
+        "https://www.president.gov.tw/File/Doc/19e2c6f2-30d5-456e-b4e1-fb53c8be530d",
+        "https://www.president.gov.tw/File/Doc/0d9d7d8b-db9a-4e3e-b5fe-997545e13977",
+        "https://www.president.gov.tw/File/Doc/a50af35e-dbfb-4ceb-94c2-0e752d886a18",
+        "https://www.president.gov.tw/File/Doc/1ad12dd7-22e5-4796-a49e-3e6baf3eabcc",
+        "https://www.president.gov.tw/File/Doc/faf6c4fd-e858-40bb-ac5c-4b04c4684cf1",
+        "https://www.president.gov.tw/File/Doc/dbce2205-9863-453a-9248-73e8a6679951",
+        "https://www.president.gov.tw/File/Doc/2342388c-b3d4-429c-9755-397d52db3cd1",
+        "https://www.president.gov.tw/File/Doc/d5d4a3ac-69c1-4381-98d3-41c1164a7d7e",
+        "https://www.president.gov.tw/File/Doc/fc711299-df8e-45d2-80b9-800ea1a708dc",
+        "https://www.president.gov.tw/File/Doc/0c700c46-87f9-481b-ac6a-f45de2d765e4",
+        "https://www.president.gov.tw/File/Doc/56931481-15ab-48ee-97af-b7e0e30bba7e",
+        "https://www.president.gov.tw/File/Doc/0508db21-5f8e-4720-b3c5-40bc1a2d97e5",
+        "https://www.president.gov.tw/File/Doc/74deebf3-6962-48e3-9958-4c545ee3e8f8",
+        "https://www.president.gov.tw/File/Doc/707edc2a-47e8-4091-aa98-61caf594587f",
+        "https://www.president.gov.tw/File/Doc/ef62bbcd-1482-4c7e-bca6-658a811c5f44",
+        "https://www.president.gov.tw/File/Doc/ae71e0a8-1cdb-4133-a382-58aa6cf7feed",
+        "https://www.president.gov.tw/File/Doc/88235977-d420-4d41-bdcd-19f4c9776b42",
+        "https://www.president.gov.tw/File/Doc/b8a7e52f-8d33-443d-adc4-271f762014f7",
+        "https://www.president.gov.tw/File/Doc/9037b0ba-fa84-4b64-839d-54f024dd1b41",
+        "https://www.president.gov.tw/File/Doc/4e65b107-2808-4933-9f62-ccdc95b2042b",
+        "https://www.president.gov.tw/File/Doc/262be6f3-c756-4b7c-8585-385e71f4dfb8",
+        "https://www.president.gov.tw/File/Doc/6a926390-0ff8-49c9-afb0-371104ff22fa",
+        "https://www.president.gov.tw/File/Doc/320c2b55-c63d-43a3-a5e1-771c9146c260",
+        "https://www.president.gov.tw/File/Doc/189f0977-6c62-49ba-9df4-1329b4384e51",
+        "https://www.president.gov.tw/File/Doc/33a2941e-cde8-4163-b687-4bedd31d76a4",
+        "https://www.president.gov.tw/File/Doc/1a90cb5f-f9a6-4782-9e2c-adc4832ddf93",
+        "https://www.president.gov.tw/File/Doc/299552cd-96fa-479b-8d10-b7560c723b98",
+        "https://www.president.gov.tw/File/Doc/65cbac5a-60f7-43ba-bc4e-cc47686c2e27",
+        "https://www.president.gov.tw/File/Doc/b03ea98c-8bb5-4c20-bf99-d23fe455db6d",
+        "https://www.president.gov.tw/File/Doc/fcfdef0f-23bc-457c-b101-aed23191c7c6",
+        "https://www.president.gov.tw/File/Doc/3ec02570-780c-48c0-a38f-e16832dce04f",
+        "https://www.president.gov.tw/File/Doc/594dd79f-ad77-4c1d-a80f-3fe34a3d8619",
+        "https://www.president.gov.tw/File/Doc/b64d7f8b-ad5b-46c6-8f8b-5a526cccf50c",
+        "https://www.president.gov.tw/File/Doc/9627c0c3-c34f-4ceb-a93a-004e28e5b0e9",
+        "https://www.president.gov.tw/File/Doc/a843dd65-f219-4ce1-b7aa-1f70b017903c",
+        "https://www.president.gov.tw/File/Doc/74e6972a-8fa1-4c02-9eaa-651bf300c1e2",
+        "https://www.president.gov.tw/File/Doc/651c7ba5-65a7-4617-9f7f-656f80bb8b79",
+        "https://www.president.gov.tw/File/Doc/d6c7b76f-39b7-449e-9a90-b7380b3aa808",
+        "https://www.president.gov.tw/File/Doc/c48c3726-85fc-493d-8281-2a4e28b1a982",
+        "https://www.president.gov.tw/File/Doc/1e746ce6-cd6e-4d66-bb0c-a8e88cb24f58",
+        "https://www.president.gov.tw/File/Doc/1617ecf6-5f05-48e3-8383-c67e5bf6c99c",
+        "https://www.president.gov.tw/File/Doc/392095ad-ed1f-4aae-bc94-52b70424433c",
+        "https://www.president.gov.tw/File/Doc/e1e68516-020a-4286-8e76-fe733d441b23",
+        "https://www.president.gov.tw/File/Doc/bc8e79e2-eb69-4ea1-b2b1-fab2fc3361d8",
+        "https://www.president.gov.tw/File/Doc/44b2a57b-441f-47d4-beb1-2f3a98d91c57",
+        "https://www.president.gov.tw/File/Doc/14301c75-2acc-4804-a896-602a3c57d36d",
+        "https://www.president.gov.tw/File/Doc/79fa768e-52cd-4225-81ae-a0b23fa0d4a2",
+        "https://www.president.gov.tw/File/Doc/804c8d25-51b9-4fa1-a555-55614dde927d",
+        "https://www.president.gov.tw/File/Doc/4e4ac36f-2a9e-41ae-9d91-ec2eddb5a7c0",
+        "https://www.president.gov.tw/File/Doc/d929b00b-7206-41ba-92fd-f66809d3e278",
+        "https://www.president.gov.tw/File/Doc/638a15d9-0e49-46c0-b85a-05b10d1c8a9b",
+        "https://www.president.gov.tw/File/Doc/183ca0a0-05db-4647-a8f1-81de31ade84c",
+        "https://www.president.gov.tw/File/Doc/02b67ce4-0926-494e-9861-f166eefce4cc",
+        "https://www.president.gov.tw/File/Doc/838677f9-28c2-4e52-b20e-d505488c31d0",
+        "https://www.president.gov.tw/File/Doc/54a5872b-2896-41fc-9bd7-7846e3f239a6",
+        "https://www.president.gov.tw/File/Doc/8197d230-8e8f-40c2-8409-47fcca0663b2",
+        "https://www.president.gov.tw/File/Doc/26f84a14-dde2-4dc9-aa19-e5cc3af73f04",
+        "https://www.president.gov.tw/File/Doc/5b284494-9a4e-4cdb-9d7c-a767895a4db8",
+        "https://www.president.gov.tw/File/Doc/928b140b-77ac-44d3-a3ee-4b8a741cbbd2",
+        "https://www.president.gov.tw/File/Doc/37288b77-ab28-4496-9b83-1a48bedbbc7b",
+        "https://www.president.gov.tw/File/Doc/35d89a07-4fbb-4053-9643-78d5b6ffc814",
+        "https://www.president.gov.tw/File/Doc/c463c491-bdee-4f30-b42b-164ff4a90c0e",
+        "https://www.president.gov.tw/File/Doc/49e1ef6d-080b-43b9-9f46-4195762a8336",
+        "https://www.president.gov.tw/File/Doc/5a97d461-6c45-4490-84df-531e93f1e207",
+        "https://www.president.gov.tw/File/Doc/e1089802-12d3-435d-8243-d0057f934256",
+        "https://www.president.gov.tw/File/Doc/7c194de5-2110-40f2-acb1-8fc610f75da7",
+        "https://www.president.gov.tw/File/Doc/1b36ae3e-0420-4225-b933-34991c876376",
+        "https://www.president.gov.tw/File/Doc/abe2990f-88da-4206-8348-5516ecebb814",
+        "https://www.president.gov.tw/File/Doc/5d1fef7d-8b1c-45cf-86e7-7bd078d7b611",
+        "https://www.president.gov.tw/File/Doc/674ed4f0-1ab4-4d35-90e9-173bcf71f2e4",
+        "https://www.president.gov.tw/File/Doc/2dcc3811-a809-46a4-bdb1-6165c97ac958",
+        "https://www.president.gov.tw/File/Doc/e4db0049-60e4-4399-9316-2aacef497893",
+        "https://www.president.gov.tw/File/Doc/cb0b1648-fd6b-4f70-af7b-45b2a39b486e",
+        "https://www.president.gov.tw/File/Doc/7c036ee9-6364-44cd-964e-902aa2fbb515",
+        "https://www.president.gov.tw/File/Doc/556f8f7e-b46d-4f22-9fd5-0a1cfe07f698",
+        "https://www.president.gov.tw/File/Doc/02cc8b6d-a5fa-4559-8fc0-debfde296a46",
+        "https://www.president.gov.tw/File/Doc/9ea3f1c9-6803-4578-b81a-17d2830bc2a7",
+        "https://www.president.gov.tw/File/Doc/451f7e9d-10a2-4d21-a7eb-1a228aabdf0f",
+        "https://www.president.gov.tw/File/Doc/067d8b22-8b38-42a9-89da-81146d1f72f8",
+        "https://www.president.gov.tw/File/Doc/04b71fde-1cd8-4fb2-9e54-85304c8a2f3e",
+        "https://www.president.gov.tw/File/Doc/525ece89-9319-40d9-98c8-6f7e68a02e10",
+        "https://www.president.gov.tw/File/Doc/4071cb02-dd91-44d9-8583-c96ab0211453",
+        "https://www.president.gov.tw/File/Doc/7937f65a-248d-4b0d-b57e-d45177923c40",
+        "https://www.president.gov.tw/File/Doc/528b6141-566b-4e25-b908-3a73f35c6534",
+        "https://www.president.gov.tw/File/Doc/16fcdc95-af49-4bb6-aa9c-d458d8e2b407",
+        "https://www.president.gov.tw/File/Doc/b93901be-3f5e-49df-a896-ff25814c52ed",
+        "https://www.president.gov.tw/File/Doc/aafee5a5-e096-4220-9cca-8d52f636fddb",
+        "https://www.president.gov.tw/File/Doc/e20dc4b3-4873-4677-98c4-8b01dc71f11a",
+        "https://www.president.gov.tw/File/Doc/e1f0548d-0508-46ef-bbf3-9d1a317abb3e",
+        "https://www.president.gov.tw/File/Doc/fbe407ab-e198-4fbc-b332-ab417ca7cf32",
+        "https://www.president.gov.tw/File/Doc/f9c6b6c5-39ee-4ff4-9637-7ccb7d4fed64",
+        "https://www.president.gov.tw/File/Doc/5b824264-cf61-4f1f-b3d8-41ac9005584c",
+        "https://www.president.gov.tw/File/Doc/8b395f4c-b5da-4f41-abcb-4f80c74eb24a",
+        "https://www.president.gov.tw/File/Doc/214b0d71-6e53-468b-9c54-5f356c9a67bd",
+        "https://www.president.gov.tw/File/Doc/14a94fcc-74c3-4f6f-bca4-d814396e91ec",
+        "https://www.president.gov.tw/File/Doc/133a92b3-1050-4462-8d9b-0a48890e0746",
+        "https://www.president.gov.tw/File/Doc/9d08a8ad-34c8-41f4-9256-07fd956dddaa",
+        "https://www.president.gov.tw/File/Doc/11c37bb9-cfd6-41e1-aee1-378255448a38",
+        "https://www.president.gov.tw/File/Doc/a477d567-91cb-4d67-8722-b763c7065e59",
+        "https://www.president.gov.tw/File/Doc/b05d598a-3e41-41a5-bc02-a7faa13bf1c3",
+        "https://www.president.gov.tw/File/Doc/33fc0004-f927-48a3-ae3f-b127fb4b62a3"
+      ]
+    },
+    {
+      "id": "150627",
+      "name": "總統府110年度單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/ae9c20f5-4dda-4b47-8ce1-c2cf6829ab0d"
+      ]
+    },
+    {
+      "id": "150788",
+      "name": "總統府111年度單位預算(XML)",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw//File/Doc/170f9bde-1fa4-4d2e-a443-bb37b7b535ba"
+      ]
+    },
+    {
+      "id": "176801",
+      "name": "總統府會計報告(115年度以後)",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/a077474c-4acc-4201-a625-a693bdd9b864",
+        "https://www.president.gov.tw/File/Doc/e94c16f4-9db1-40fa-aba4-dc9b824660aa"
+      ]
+    },
+    {
+      "id": "168490",
+      "name": "總統府113年對總統府公務人員協會補助經費案",
+      "format": "csv",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/bba36ad4-3f7a-4c94-931e-3425701f6de9",
+        "https://www.president.gov.tw/File/Doc/3f7e0aef-87f4-422e-8bbe-6619acf20d94"
+      ]
+    },
+    {
+      "id": "12450",
+      "name": "總統府104年度單位預算案書(XML檔)",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/portals/0/president/html/service/104_OOPXML01.zip"
+      ]
+    },
+    {
+      "id": "12451",
+      "name": "總統府104年度單位預算書(XML檔)",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/portals/0/president/html/service/104_OOPXML.zip"
+      ]
+    },
+    {
+      "id": "19665",
+      "name": "總統府103年度單位決算書表",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/Default.aspx?tabid=1192&itemid=21878&rmid=3023"
+      ]
+    },
+    {
+      "id": "43165",
+      "name": "總統府106年會計月報",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/default.aspx?tabid=1192&itemid",
+        "http://www.president.gov.tw/Default.aspx?tabid=1192&itemid=38799&rmid=3023"
+      ]
+    },
+    {
+      "id": "43661",
+      "name": "總統府106年度單位預算",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/portals/0/president/html/service/106_OOPXML01.rar"
+      ]
+    },
+    {
+      "id": "44955",
+      "name": "總統府105年度單位決算書表",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/Default.aspx?tabid=1192&itemid=21878&rmid=3023"
+      ]
+    },
+    {
+      "id": "21796",
+      "name": "總統府105年度單位預算案",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/portals/0/president/html/service/105_OOPXML.zip"
+      ]
+    },
+    {
+      "id": "27760",
+      "name": "總統府105年會計月報",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/Default.aspx?tabid=1192&itemid=36779&rmid=3023"
+      ]
+    },
+    {
+      "id": "46112",
+      "name": "總統府新聞",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetNews.ashx"
+      ]
+    },
+    {
+      "id": "46127",
+      "name": "總統府網路相簿",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetChannelImage.ashx"
+      ]
+    },
+    {
+      "id": "46147",
+      "name": "總統府公報",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetGazette.ashx"
+      ]
+    },
+    {
+      "id": "46578",
+      "name": "賴清德總統",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=f1c3296b-0412-49d0-b784-d27b6818f935"
+      ]
+    },
+    {
+      "id": "46588",
+      "name": "國花",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=6DF2A2BC-6EAB-450E-B238-D1563C0D4302"
+      ]
+    },
+    {
+      "id": "46595",
+      "name": "中華民國勳章",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetMedal.ashx"
+      ]
+    },
+    {
+      "id": "46602",
+      "name": "政府組織（地方）",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=EB743DA6-685A-459B-B292-544ED15E5979"
+      ]
+    },
+    {
+      "id": "46611",
+      "name": "機關首長（副祕書長）",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetSeniorOfficials.ashx?GUID=A917402E-A922-4F4E-83F6-2E8E18C7E733"
+      ]
+    },
+    {
+      "id": "46620",
+      "name": "政府網站資料開放宣告",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=3098be11-b6cf-4178-9b91-7658b948072e"
+      ]
+    },
+    {
+      "id": "46621",
+      "name": "我有話要說",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetForum.ashx"
+      ]
+    },
+    {
+      "id": "51803",
+      "name": "每日活動行程",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetSchedules.ashx"
+      ]
+    },
+    {
+      "id": "77942",
+      "name": "總統府106年度單位決算",
+      "format": "rar",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/44b1bc51-32c3-41c9-aa3e-1578122a3d45"
+      ]
+    },
+    {
+      "id": "157668",
+      "name": "總統府112年度單位預算案(XML)",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/232a154f-abaf-4561-90e0-c98f239fa3fd"
+      ]
+    },
+    {
+      "id": "158487",
+      "name": "總統府單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/portals/0/president/html/service/103_OOPXML.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104_OOPXML02.zip",
+        "https://www.president.gov.tw/File/Doc/b3b6edd1-fd27-4245-b3c8-62eb758e1755",
+        "https://www.president.gov.tw/File/Doc/44b1bc51-32c3-41c9-aa3e-1578122a3d45",
+        "https://www.president.gov.tw/File/Doc/22e1ab86-19f2-4ea1-90b3-b0515ec2b53c",
+        "https://www.president.gov.tw/File/Doc/c6780486-526c-4ef1-ac3f-00f6f289eb63",
+        "https://www.president.gov.tw/File/Doc/a676c408-09ac-4fa0-b497-4a46913a37af",
+        "https://www.president.gov.tw/File/Doc/ae9c20f5-4dda-4b47-8ce1-c2cf6829ab0d",
+        "https://www.president.gov.tw/File/Doc/699b8b67-e9e9-4dc3-a0d4-47a6ac63a0de",
+        "https://www.president.gov.tw/File/Doc/46b7695e-def7-4fdd-a54e-5915698506be",
+        "https://www.president.gov.tw/File/Doc/bc1b5f34-e2eb-4452-8dc3-11bb5aa6dbc0",
+        "https://www.president.gov.tw/File/Doc/d9164fe4-dfcf-4cac-8048-1c19abfbbd8e"
+      ]
+    },
+    {
+      "id": "158444",
+      "name": "總統府單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/portals/0/president/html/service/104_OOPXML01.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/104_OOPXML.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105_OOPXML.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/105_OOPXML01.zip",
+        "https://www.president.gov.tw/portals/0/president/html/service/106_OOPXML.zip",
+        "https://www.president.gov.tw/File/Doc/b05fd287-4599-4195-a2f1-9b00b02ac7f2",
+        "https://www.president.gov.tw/File/Doc/169175cb-66f2-4727-95be-43826e276af8",
+        "https://www.president.gov.tw/File/Doc/d34de08d-f4ac-4fb0-b6de-593f8ddcc15f",
+        "https://www.president.gov.tw/File/Doc/71945c83-0f0b-4a80-a27a-e1ad7bca02b2",
+        "https://www.president.gov.tw/File/Doc/9004e4d7-a61e-490a-9348-594b7da93cb4",
+        "https://www.president.gov.tw/File/Doc/31dca29d-5bcc-4f9d-b2f1-52e59c75bce8",
+        "https://www.president.gov.tw/File/Doc/a4b25ffb-8fac-418c-9d60-6ace5762baed",
+        "https://www.president.gov.tw/File/Doc/03aa5ba4-d297-4d6b-9d41-6ef173991f05",
+        "https://www.president.gov.tw/File/Doc/907c9ac8-881b-4a23-bba9-fcc7750c5f05",
+        "https://www.president.gov.tw/File/Doc/d74b3588-9734-4cf3-8b80-c4864b075f2b",
+        "https://www.president.gov.tw//File/Doc/170f9bde-1fa4-4d2e-a443-bb37b7b535ba",
+        "https://www.president.gov.tw/File/Doc/232a154f-abaf-4561-90e0-c98f239fa3fd",
+        "https://www.president.gov.tw/File/Doc/4c3a38e3-6564-46e7-b76c-7a09bd7d0d0e",
+        "https://www.president.gov.tw/File/Doc/cc8280ed-9a80-4072-b297-7f0860b86161",
+        "https://www.president.gov.tw/File/Doc/7a22a6d0-29a7-45e3-b4bc-118260e3663d",
+        "https://www.president.gov.tw/File/Doc/d6d03b29-a7f6-435c-8913-d6e392d764e8",
+        "https://www.president.gov.tw/File/Doc/0defc4e7-67e4-471b-9b04-01e90de6dcac",
+        "https://www.president.gov.tw/File/Doc/f78ceb39-3201-4168-bdd2-84c3d9b1ea25"
+      ]
+    },
+    {
+      "id": "28829",
+      "name": "總統府104年度單位決算書表",
+      "format": "xml",
+      "urls": [
+        "http://www.president.gov.tw/Default.aspx?tabid=1192&itemid=21878&rmid=3023"
+      ]
+    },
+    {
+      "id": "8691",
+      "name": "總統府內部保有及管理個人資料之項目彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/db380cf7-8188-4a5f-814b-a3a9342dc9a1"
+      ]
+    },
+    {
+      "id": "46592",
+      "name": "國旗",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=6A8D28B1-C341-4BF9-9FFD-4DB063AA1B22"
+      ]
+    },
+    {
+      "id": "46594",
+      "name": "國璽",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent.ashx?GUID=302A630F-DD77-46EF-AAB9-4CDAC3383E27"
+      ]
+    },
+    {
+      "id": "46616",
+      "name": "雙語詞彙",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetLangTrans.ashx"
+      ]
+    },
+    {
+      "id": "46585",
+      "name": "中華民國憲法",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetWEBContent2.ashx"
+      ]
+    },
+    {
+      "id": "46469",
+      "name": "總統府法令",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetStatute.ashx"
+      ]
+    },
+    {
+      "id": "46117",
+      "name": "總統府焦點議題",
+      "format": "json",
+      "urls": [
+        "https://www.president.gov.tw/Handler/GetIssue.ashx"
+      ]
+    },
+    {
+      "id": "100775",
+      "name": "總統府107年度單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/22e1ab86-19f2-4ea1-90b3-b0515ec2b53c"
+      ]
+    },
+    {
+      "id": "90593",
+      "name": "總統府108年度單位預算案",
+      "format": "rar",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/71945c83-0f0b-4a80-a27a-e1ad7bca02b2"
+      ]
+    },
+    {
+      "id": "99132",
+      "name": "總統府108年度單位預算(XML)",
+      "format": "rar",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/9004e4d7-a61e-490a-9348-594b7da93cb4"
+      ]
+    },
+    {
+      "id": "110951",
+      "name": "總統府108年度對總統府公務人員協會補助經費案",
+      "format": "csv",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/863e82b9-796f-489b-9a60-a4ff00bf0b0a",
+        "https://www.president.gov.tw/File/Doc/38e709c0-3e92-476e-a16b-287f52fd8013",
+        "https://www.president.gov.tw/File/Doc/9fb87cdd-f544-4171-9e1b-f67fda1cd04e",
+        "https://www.president.gov.tw/File/Doc/52861c11-ace8-4df4-b057-a39e6c9cce00"
+      ]
+    },
+    {
+      "id": "137924",
+      "name": "總統府110年度單位預算(XML)",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/907c9ac8-881b-4a23-bba9-fcc7750c5f05"
+      ]
+    },
+    {
+      "id": "137931",
+      "name": "總統府109年度單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/a676c408-09ac-4fa0-b497-4a46913a37af"
+      ]
+    },
+    {
+      "id": "118336",
+      "name": "總統府108年度單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/c6780486-526c-4ef1-ac3f-00f6f289eb63"
+      ]
+    },
+    {
+      "id": "118092",
+      "name": "總統府109年度單位預算(XML)",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/a4b25ffb-8fac-418c-9d60-6ace5762baed"
+      ]
+    },
+    {
+      "id": "144567",
+      "name": "總統府111年度單位預算案(XML)",
+      "format": "zip",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/d74b3588-9734-4cf3-8b80-c4864b075f2b"
+      ]
+    },
+    {
+      "id": "165876",
+      "name": "總統府112年對總統府公務人員協會補助經費案。",
+      "format": "csv",
+      "urls": [
+        "https://www.president.gov.tw/File/Doc/1737bf62-42c8-43bd-bb2d-a83cb3e8c211",
+        "https://www.president.gov.tw/File/Doc/eca36a31-36f0-4130-91a7-a04273866c63",
+        "https://www.president.gov.tw/File/Doc/620c88ed-fdcc-4907-8696-8a81e0d73b6f",
+        "https://www.president.gov.tw/File/Doc/05a1e299-0c8d-4bd1-a788-fcf83caa5027",
+        "https://www.president.gov.tw/File/Doc/eb719633-4633-4eb9-9db0-5e79827c0243",
+        "https://www.president.gov.tw/File/Doc/8de5a3d5-097d-4aba-aabf-a0b92b67f349",
+        "https://www.president.gov.tw/File/Doc/f5097ca6-ec20-4651-8445-fb6e9ad32fda"
+      ]
+    }
+  ]
+}

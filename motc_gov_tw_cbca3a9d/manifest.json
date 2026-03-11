@@ -1,0 +1,3085 @@
+{
+  "type": "dataset",
+  "provider": "交通部運輸研究所",
+  "slug": "motc_gov_tw_cbca3a9d",
+  "datasets": [
+    {
+      "id": "8331",
+      "name": "運輸部門歷年二氧化碳排放量推估",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1227894820517711872.csv&filedisplay=運輸部門歷年二氧化碳排放量推估.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "32143",
+      "name": "小客車動態能耗與碳排放係數",
+      "format": "zip",
+      "urls": [
+        "https://www.iot.gov.tw/dl-19989-e9aa2afc628a48359070d3b29c703276.html"
+      ]
+    },
+    {
+      "id": "27919",
+      "name": "交通部運輸研究所105年度會計月報",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d08577750c4216233/105_04%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d0857771c121ee1de/105_05%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d0857771c121ee1e0/105_06%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d08577750c4216235/105_07%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d08577783a0d10f4f/105_08%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d0857771c121ee1e2/105_09%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d08577783a0d10f51/105_10%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d0857771c121ee1e6/105_11%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d08577750c4216238/105_12%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d0857771c121ee1da/105_01%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d08577750c4216231/105_02%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671f8d0857771c121ee1dc/105_03%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip"
+      ]
+    },
+    {
+      "id": "42626",
+      "name": "公路車輛行駛時間調查(101-102)",
+      "format": "wms",
+      "urls": [
+        "https://www.iot.gov.tw/dl-15430-8a90f2af7e0e473f91571506ce29c3a2.html"
+      ]
+    },
+    {
+      "id": "42698",
+      "name": "環島1號線數值路網圖",
+      "format": "csv",
+      "urls": [
+        "https://www.iot.gov.tw/dl-17597-ac2e9253c8514d9e89bd72f6ec09a491.html"
+      ]
+    },
+    {
+      "id": "120299",
+      "name": "交通部運輸研究所109年度會計月報",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/asset/data/666713ac08577783a0d10ece/109%E5%B9%B410%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666713ac08577750c4216110/109%E5%B9%B43%E6%9C%88%E4%BB%BD%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/69733707085777259ac53f0f/109-07%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666713ac08577750c421610e/109%E5%B9%B4_04%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/680887e60857776c976bb7fd/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE__3_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666713ac08577783a0d10ed2/109%E5%B9%B42%E6%9C%88%E4%BB%BD%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666713ac08577783a0d10ecc/109%E5%B9%B4_05%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666713ac08577783a0d10ed6/109-06%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666713ac08577783a0d10ed0/109%E5%B9%B412%E6%9C%88_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666713ac08577750c4216114/109_08%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666713ac08577750c4216116/109-11%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666713ac08577783a0d10ed4/109_09%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip"
+      ]
+    },
+    {
+      "id": "127831",
+      "name": "臺中商港海氣象資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/station/OpenData/XML/GetTCStationXML.aspx"
+      ]
+    },
+    {
+      "id": "127836",
+      "name": "臺北商港海氣象資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/station/OpenData/XML/GetTPstationXML.aspx"
+      ]
+    },
+    {
+      "id": "98177",
+      "name": "臺灣銅金屬年腐蝕速率資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/act/2025/corrosion_cu.csv",
+        "https://isohe.ihmt.gov.tw/opendata/Corrosion?metal=Cu&year=2024&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Corrosion?metal=Cu&year=2024&format=XML"
+      ]
+    },
+    {
+      "id": "98914",
+      "name": "交通部運輸研究所108年度會計月報",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/asset/data/6667184508577783a0d10f00/108%E5%B9%B411%E6%9C%88%E4%BB%BD%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6808a5b20857776c976bc0b7/10810%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666718450857771c121edff6/108_05%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6808852f0857779155ee8762/10808%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666718450857771c121edfee/108_01%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666718450857771c121edff8/108_06%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/680885730857776c976bb74e/10807%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666718450857771c121edff4/108_4%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6667184508577750c4216172/108%E5%B9%B412%E6%9C%88%E4%BB%BD%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666718450857771c121edff2/108_03%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666718450857771c121edff0/108_2%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/680884cb0857776c976bb712/10809%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip"
+      ]
+    },
+    {
+      "id": "97392",
+      "name": "臺灣鋁金屬年腐蝕速率資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/act/2025/corrosion_Al.csv",
+        "https://isohe.ihmt.gov.tw/opendata/Corrosion?metal=Al&year=2024&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Corrosion?metal=Al&year=2024&format=XML"
+      ]
+    },
+    {
+      "id": "137701",
+      "name": "交通部運輸研究所單位預算(法定預算)",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/asset/data/6661691d0857771c121e0557/105%E5%B9%B4%E5%BA%A6%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691d0857771c121e0559/106%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/697337cc0857771d033107b6/107%E5%B9%B4%E5%BA%A6%E6%9C%AC%E6%89%80%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c11b3a4d6/108_%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c1370ac33/109_%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c121e0564/110%E5%B9%B4%E5%BA%A6%E6%9C%AC%E6%89%80%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97_%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97__XML_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c121e0566/111-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97-20220303141117.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c1370ac37/112-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97-20230302153750.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c11b3a4da/113-%E6%B3%95%E5%AE%9A%E9%A0%90%E7%AE%97_20240415103006.zip"
+      ]
+    },
+    {
+      "id": "137646",
+      "name": "澎湖（馬公）商港歷年海氣象觀測月統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/Obs/MK.csv"
+      ]
+    },
+    {
+      "id": "137647",
+      "name": "臺北商港歷年海氣象觀測月統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/Obs/TP.csv"
+      ]
+    },
+    {
+      "id": "137648",
+      "name": "臺中商港歷年海氣象觀測月統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/Obs/TC.csv"
+      ]
+    },
+    {
+      "id": "137652",
+      "name": "基隆商港歷年海氣象觀測月統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/Obs/KL.csv"
+      ]
+    },
+    {
+      "id": "149156",
+      "name": "商港海氣象海流資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=TP&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=BD&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=SA&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=SA&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=HL&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=HL&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=KH&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=KH&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=TC&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=TC&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=TP&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=AP&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=BD&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=AP&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=NG&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=NG&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=KL&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Current?port=KL&format=XML"
+      ]
+    },
+    {
+      "id": "149147",
+      "name": "商港海氣象波浪資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=KH&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=NG&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=TP&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=TP&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=AP&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=AP&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=BD&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=BD&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=KL&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=KL&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=SA&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=SA&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=HL&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=HL&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=KH&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=TC&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=NG&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wave?port=TC&format=JSON"
+      ]
+    },
+    {
+      "id": "166664",
+      "name": "全國橋梁統計資訊網",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1260149285912055808.csv&filedisplay=111年全國橋梁統計資訊.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1369208108701716480.csv&filedisplay=112年全國橋梁分類統計.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1369208621899976704.csv&filedisplay=113年全國橋梁分類統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "176279",
+      "name": "國際機場運作模擬分析軟體系統規劃與建置(2/2)-整合軟體建置與實例測試",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453324502036385792.pdf&filedisplay=7.114年_運輸工程及海空運組_國際機場運作模擬分析軟體系統規劃與建置(2_2)-整合軟體建置與實例測試.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176283",
+      "name": "應用人工智慧分析技術探勘高風險路段(4/4)—空間特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453325707978477568.pdf&filedisplay=3.114年_運輸安全組_應用人工智慧分析技術探勘高風險路段(4_4)—空間特性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176264",
+      "name": "應用影像智慧化技術判釋海岸公路及防波堤越波研究(1/4)-日間越波影像判釋",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453294758720966656.pdf&filedisplay=48.112年_運輸技術研究中心_應用影像智慧化技術判釋海岸公路及防波堤越波研究 (1_4)-日間越波影像判釋.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176266",
+      "name": "「臺灣地區易肇事路段改善計畫」回顧及檢討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453295355633340416.pdf&filedisplay=20.114年_運輸安全組_「臺灣地區易肇事路段改善計畫」回顧及檢討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176268",
+      "name": "汽車貨運業因應淨零轉型策略規劃(1/2)-策略架構建立",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453296197753114624.pdf&filedisplay=18.114年_運輸經營及管理組_汽車貨運業因應淨零轉型策略規劃(1_2) -策略架構建立.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176269",
+      "name": "共享運具連結公共運輸計畫(1/2)－營運管理因應策略規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453296460798889984.pdf&filedisplay=17.114年_運輸經營及管理組_共享運具連結公共運輸計畫(1_2)－營運管理因應策略規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176270",
+      "name": "商港碼頭作業勞動力進用改善策略之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453296893915303936.pdf&filedisplay=16.114年_運輸工程及海空運組_商港碼頭作業勞動力進用改善策略之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176247",
+      "name": "南部區域陸路運輸系統發展策略研析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453286602653569024.pdf&filedisplay=31.112年_運輸計畫及陸運組_南部區域陸路運輸系統發展策略研析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176252",
+      "name": "商港海氣象風力資料預警機制探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453290085830103040.pdf&filedisplay=36.112年_運輸技術研究中心_商港海氣象風力預警機制探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176253",
+      "name": "智慧航安與海氣象資訊應用探討(1/4)-整合船舶海事案件與海氣象即時模組",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453290401233375232.pdf&filedisplay=37.112年_運輸技術研究中心_智慧航安與海氣象資訊應用探討(1_4)- 整合船舶海事案件與海氣象即時模組.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176254",
+      "name": "感潮河段橋梁梁底檢測工具研發(1/4)-功能精進與新興科技導入評估",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453290652019200000.pdf&filedisplay=38.112年_運輸技術研究中心_感潮河段橋梁梁底檢測工具研發(1_4)- 功能精進與新興科技導入評估.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176257",
+      "name": "港灣環境資訊系統維護與精進(1/4)-海氣象資訊擴充整合建置",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453292292013035520.pdf&filedisplay=41.112年_運輸技術研究中心_港灣環境資訊系統維護與精進(1-4)-海氣象資訊擴充整合建置.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176233",
+      "name": "106-110年公路公共運輸載客量變化狀況分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453281551042220032.pdf&filedisplay=18.112年_運輸經營及管理組_106-110年公路公共運輸載客量變化狀況分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176234",
+      "name": "以無人機探勘人車流動資訊之應用情境規劃與先導測試(2/3)- 非號誌化路口",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453281765547315200.pdf&filedisplay=19.112年_運輸安全組_以無人機探勘人車流動資訊之應用情境規劃與先導測試_2-3_-非號誌化路口.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176236",
+      "name": "先進公車智慧化營運管理先導運行計畫(1/2)-整合車載設備之駕駛工時管理系統研發",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453282344671645696.pdf&filedisplay=21.112年_運輸經營及管理組_先進公車智慧化營運管理先導運行計畫(1_2)-整合車載設備之駕駛工時管理系統研發.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176241",
+      "name": "規劃建置全國車行橋梁統計系統",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453284668576108544.pdf&filedisplay=26.112年_運輸工程及海空運組_規劃建置全國車行橋梁統計系統.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176219",
+      "name": "中臺區域整體運輸規劃系列研究(3/3)－供需預測及發展策略分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453276045653315584.pdf&filedisplay=4.112年_運輸計畫及陸運組_中臺區域整體運輸規劃系列研究(3_3)-供需預測及發展策略分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176221",
+      "name": "應用模擬模式建立國際機場空側容量評析方法之研究(2/2)-桃園機場空側容量評估與分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453277996721901568.pdf&filedisplay=6.112年_運輸工程及海空運組_應用模擬模式建立國際機場空側容量評析方法之研究(2_2)-桃園機場空側容量評估與分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176228",
+      "name": "我國人工智慧車聯網之號誌控制模式探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453280281451565056.pdf&filedisplay=13.112年_運輸科技及資訊組_我國人工智慧車聯網之號誌控制模式探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176201",
+      "name": "公路系統規劃階段強化調適能力之探討(1/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452933733656039424.pdf&filedisplay=57.111年_運輸能源及環境組_公路系統規劃階段強化調適能力之探討(1_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "167694",
+      "name": "運輸需求規劃模式屏柵線交通量調查資料",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1220550604959518720.csv&filedisplay=座標點位.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1220553379701329920.csv&filedisplay=假日交通量.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1220552950556921856.csv&filedisplay=平日交通量.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "176029",
+      "name": "電動公車示範計畫執行績效分析與推動策略支援應用(2/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450776164783099904.pdf&filedisplay=1.110年_運輸科技及資訊組_電動公車示範計畫執行績效分析與推動策略支援應用(2_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176034",
+      "name": "商港整體發展規劃(111-115年)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450778664198213632.pdf&filedisplay=5.110年_運輸工程及海空運組_商港整體發展規劃(111～115 年).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176035",
+      "name": "事故型態導向之路口交通工程設計範例參考手冊",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450778966989213696.pdf&filedisplay=6.110年_運輸安全組_事故型態導向之路口交通工程設計範例參考手冊.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176069",
+      "name": "2019年港灣海氣象觀測資料統計年報(基隆港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450792074847719424.pdf&filedisplay=40.110年_運技中心_2019年港灣海氣象觀測資料統計年報(基隆港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176070",
+      "name": "2019年港灣海氣象觀測資料統計年報(蘇澳港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450792344956702720.pdf&filedisplay=41.110年_運輸技術研究中心_2019年港灣海氣象觀測資料統計年報(蘇澳港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176074",
+      "name": "2019年港灣海氣象觀測資料統計年報(高雄港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450793981012086784.pdf&filedisplay=45.110年_運輸技術研究中心_2019年港灣海氣象觀測資料統計年報(高雄港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176075",
+      "name": "2019年港灣海氣象觀測資料統計年報(安平港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450794272453300224.pdf&filedisplay=46.110年_運輸技術研究中心_2019年港灣海氣象觀測資料統計年報(安平港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176047",
+      "name": "交通事件資訊整合服務擴充與事件偵測技術精進計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450784499834032128.pdf&filedisplay=18.110年_運輸科技及資訊組_交通事件資訊整合服務擴充與事件偵測技術精進計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176051",
+      "name": "探討道路交通標線之防滑特性",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450785965659394048.pdf&filedisplay=22.110年_運輸安全組_探討道路交通標線之防滑特性.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176060",
+      "name": "多元公共運輸數據分析與行銷策略",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450789426195075072.pdf&filedisplay=31.110年_運輸科技及資訊組_多元公共運輸數據分析與行銷策略.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176064",
+      "name": "2019年港灣海氣象觀測資料統計年報(12港域觀測風力資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450790577888038912.pdf&filedisplay=35.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(12海域風力觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176141",
+      "name": "2021年港灣海氣象觀測資料統計年報(8港域觀測海流資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452831832440573952.pdf&filedisplay=2.111年_運輸技術研究中心_2021年港灣海氣象觀測資料統計年報(8港域觀測海流資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176144",
+      "name": "2020年港灣海氣象觀測資料統計年報(8港域風力觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452832595451580416.pdf&filedisplay=5.111年_運輸技術研究中心_2020年港灣海氣象觀測資料統計年報(8港域觀測風力資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176147",
+      "name": "2020年港灣海氣象觀測資料統計年報(8港域觀測海流資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452833388405723136.pdf&filedisplay=8.111年_運輸技術研究中心_2020年港灣海氣象觀測資料統計年報(8港域觀測海流資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176153",
+      "name": "我國電動大客車推動策略規劃與自動輔助駕駛技術導入初探",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452904578130382848.pdf&filedisplay=10.111年_運輸科技及資訊組_我國電動大客車推動策略規劃與自動輔助駕駛技術導入初探.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176154",
+      "name": "應用鐵道容量分析方法進行營運改善規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452904928132468736.pdf&filedisplay=11.111年_運輸計畫及陸運組_應用鐵道容量分析方法進行營運改善規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176157",
+      "name": "高快速公路匝道分匯流區容量及服務水準分析之研究(3/3)-快速公路分析及容量手冊研訂",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452905816947429376.pdf&filedisplay=13.111年_運輸計畫及陸運組_高快速公路匝道分匯流區容量及服務水準分析之研究(3_3)-快速公路分析及容量手冊研訂.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176162",
+      "name": "推動臺灣發展高端航運服務業之關鍵因素與可行性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452913529467179008.pdf&filedisplay=18.111年_運輸工程及海空運組_推動臺灣發展高端航運服務業之關鍵因素與可行性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176163",
+      "name": "2022年臺灣公路容量手冊",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452914038504689664.pdf&filedisplay=19.111年_運輸計畫及陸運組_2022年臺灣公路容量手冊.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176164",
+      "name": "應用人工智慧分析技術探勘高風險路段(1/4)—駕駛行為模式研析及車外異常事件影像辨識技術發展",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452914273767395328.pdf&filedisplay=20.111年_運輸安全組_應用人工智慧分析技術探勘高風險路段(1_4)-駕駛行為模式研析及車外異常事件影像辨識技術發展.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176165",
+      "name": "2021年臺灣大氣腐蝕劣化因子調查研究資料年報",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452914549412859904.pdf&filedisplay=21.111年_運輸技術研究中心_2021年臺灣大氣腐蝕劣化因子調查研究資料年報.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176167",
+      "name": "現行國際疲勞駕駛監測科技資料蒐集彙整",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452916531678679040.pdf&filedisplay=23.111年_運輸安全組_現行國際疲勞駕駛監測科技資料蒐集彙整.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176127",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(北苗海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452547882581233664.pdf&filedisplay=80.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(北苗海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176130",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(花蓮海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452548655033618432.pdf&filedisplay=83.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(花蓮海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176132",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(屏東海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452549192030359552.pdf&filedisplay=85.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(屏東海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176134",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(嘉南海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452550673693413376.pdf&filedisplay=87.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(嘉南海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176137",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(金門海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452552625256927232.pdf&filedisplay=90.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(金門海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176098",
+      "name": "水波時尺或時頻分析法之比較與應用（3/4）",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1451522287969767424.pdf&filedisplay=52.110年_運輸技術研究中心_水波時尺或時頻分析法之比較與應用(3_4).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176100",
+      "name": "整合風浪模式建立船舶航行監控預警系統",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1451522844386136064.pdf&filedisplay=54.110年_運技中心_整合風浪模式建立船舶航行監控預警系統.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176101",
+      "name": "109年海氣象自動化預報模擬系統作業化校修與維運",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1451523241209237504.pdf&filedisplay=55.110年_運技中心_109年海氣象自動化預報模擬系統作業化校修與維運.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176102",
+      "name": "港灣構造物設計基準條文-設計案例編彙",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1451523559301058560.pdf&filedisplay=56.110年_運技中心_港灣構造物設計基準條文-設計案例編彙.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176110",
+      "name": "臺中港海氣象觀測及特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452539459726741504.pdf&filedisplay=63.110年_運輸技術研究中心_臺中港海氣象觀測及特性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176112",
+      "name": "109年港區震災速報系統維護及地層下陷調查分析研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452540068991340544.pdf&filedisplay=65.110年_運技中心_109年港區震災速報系統維護及地層下陷調查分析研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176116",
+      "name": "臺中港海洋雷達波流觀測及特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452543486732537856.pdf&filedisplay=69.110年_運輸技術研究中心_臺中港海洋雷達波流觀測及特性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176117",
+      "name": "109年港灣環境資訊系統維護-功能提升",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452543863846604800.pdf&filedisplay=70.110年_運技中心_109年港灣環境資訊系統維護 -功能提升.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176122",
+      "name": "港灣構造物維護策略研析與管理資訊系統應用推廣",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452546233942937600.pdf&filedisplay=75.110年_運輸技術研究中心_港灣構造物維護策略研析與管理資訊系統應用推廣.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176123",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(12海域風力觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452546519541485568.pdf&filedisplay=76.110年_運技中心_2019年港灣環境資訊網海氣象觀測資料年報(12海域風力觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176124",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(12海域波浪觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452546787272298496.pdf&filedisplay=77.110年_運技中心_2019年港灣環境資訊網海氣象觀測資料年報(12海域波浪觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176185",
+      "name": "應用雷達技術於海象觀測作業化之校修與維運",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452928481666011136.pdf&filedisplay=41.111年_運輸技術研究中心_應用雷達技術於海象觀測作業化之校修與維運.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176186",
+      "name": "110年港灣環境資訊系統維護與功能提升",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452928735215882240.pdf&filedisplay=42.111年_運輸技術研究中心_110年港灣環境資訊系統維護與功能提升.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176188",
+      "name": "無人機影像監測技術應用於臺中港區管理之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452929306316509184.pdf&filedisplay=44.111年_運輸技術研究中心_無人機影像監測技術應用於臺中港區管理之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176190",
+      "name": "國道三號大甲溪橋地工織布保護工法現地沖刷試驗及驗證",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452929755723599872.pdf&filedisplay=46.111年_運輸技術研究中心_國道三號大甲溪橋地工織布保護工法現地沖刷試驗及驗證.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176194",
+      "name": "110年主要商港波流觀測與特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452930809479565312.pdf&filedisplay=50.111年_運輸技術研究中心_110 年主要商港波流觀測與特性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176176",
+      "name": "港灣風波潮流模擬及長浪預警之研究(4/4)-模擬評估及靜穩預警研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452924733401075712.pdf&filedisplay=32.111年_運輸技術研究中心_港灣風波潮流模擬及長浪預警之研究(4_4)-模擬評估及靜穩預警研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176179",
+      "name": "軌道扣件缺失人工智慧辨識現地測試及精進研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452926849557467136.pdf&filedisplay=35.111年_運輸技術研究中心_軌道扣件缺失人工智慧辨識現地測試及精進研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176180",
+      "name": "馬祖港域能見度探討之研究(1/2)-環境因子特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452927217100132352.pdf&filedisplay=36.111年_運輸技術研究中心_馬祖港域能見度探討之研究(1_2)-環境因子特性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176184",
+      "name": "港區船舶能源使用及空氣污染排放偵測技術評估之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452928268264017920.pdf&filedisplay=40.111年_運輸技術研究中心_港區船舶能源使用及空氣污染排放偵測技術評估之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "172788",
+      "name": "交通部運輸研究所113年度會計報告",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/asset/data/664b09103673760504eaaa52/113-01%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/664b0ac23673760504eaaa98/113-02%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/664b0f5c3673760504eaab4b/113-03%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/664b121c3673760504eaabbe/113-04%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6670e33a0857776c7644c28a/11305-%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6699c71b085777c1e4b8cddf/11306-%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66c5b7a0085777b8ed1a5591/11307-%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66ebebec085777d596973201/11308-%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/670f36ff085777473dc7ee8f/11309-%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6736bcba0857775ddc938a62/113-10-%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/archive_file_multiple/file/67f878a808577706732126d1/11311-%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/archive_file_multiple/file/67f878a808577706732126d3/11312%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/664b098c3673760504eaaa6c/113%E5%B9%B41%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/664b0b213673760504eaaab2/113%E5%B9%B42%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/664b0fac3673760504eaab65/113%E5%B9%B43%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661667a0857771c121e04d9/113%E5%B9%B44%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666021200857771c121dd556/113%E5%B9%B45%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6687a0720857776c76482909/113%E5%B9%B46%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66c5b85f085777b8ed1a560f/113%E5%B9%B47%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66f4f49608577788ebc4fb28/113%E5%B9%B48%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/670f58f0085777473dc7f967/113%E5%B9%B49%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/672c1c2708577769bdf5c70c/113%E5%B9%B410%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/archive_file_multiple/file/67f878a808577706732126cb/113%E5%B9%B411%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/archive_file_multiple/file/67f878a808577706732126cd/113%E5%B9%B412%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip"
+      ]
+    },
+    {
+      "id": "174150",
+      "name": "交通部運輸研究所107年新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394562318662111232.pdf&filedisplay=交通部運研所107年新聞稿.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174155",
+      "name": "交通部運輸研究所111年新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394574783294738432.pdf&filedisplay=交通部運研所112年新聞稿.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174159",
+      "name": "交通部運輸研究所112年新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394586943886462976.pdf&filedisplay=交通部運研所112年新聞稿.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174611",
+      "name": "公路系統因應氣候變遷強化調適能力案例研析(附冊)-公路系統規劃階段氣候變遷調適指引",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408352632963076096.pdf&filedisplay=113-3.113年_運輸能源及環境組_公路系統因應氣候變遷強化調適能力案例研析(附冊)-公路系統規劃階段氣候變遷調適指引.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174614",
+      "name": "以無人機探勘人車流動資訊之應用情境規劃與先導測試(3/3)-斜交及多岔路口",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408354050507804672.pdf&filedisplay=113-6.113年_運輸安全組_以無人機探勘人車流動資訊之應用情境規劃與先導測試(3_3)-斜交及多岔路口.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174530",
+      "name": "低碳交通區推動機制之研究(1/2)-設置之評估與配套措施",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407206044593033216.pdf&filedisplay=1.114年_運輸能源及環境組_低碳交通區推動機制之研究(1_2)-設置之評估與配套措施.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174531",
+      "name": "需求反應式公共運輸服務(DRTS)營運成本、補貼制度及收費制度之研究(1/2)-合理成本與營運績效探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407210775327543296.pdf&filedisplay=3.114-002-4346需求反應式公共運輸服務(DRTS)營運成本、補貼制度及收費制度之研究(1-2)─合理成本與營運績效探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174566",
+      "name": "UAV結合深度學習輔助公路局邊坡災防應用探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407655355197952000.pdf&filedisplay=16.114年_運輸技術研究中心_UAV結合深度學習輔助公路局邊坡災防應用探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174567",
+      "name": "113年臺灣地區金屬材料腐蝕環境調查與鋅金屬關聯性研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407655731095670784.pdf&filedisplay=17.114年_運輸技術研究中心_113年臺灣地區金屬材料腐蝕環境調查與鋅金屬關聯性研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174547",
+      "name": "事故碰撞型態導向之路口設計範例推廣示範計畫(3/3)-非直轄市推廣應用(II)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407288882944282624.pdf&filedisplay=10.114年_運輸安全組_事故碰撞型態導向之路口設計範例推廣示範計畫(3_3)—非直轄市推廣應用(II).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174569",
+      "name": "港區地震液化風險評估模式精進(3/5)-高雄港模式精進",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407656728190783488.pdf&filedisplay=19.114年_運輸技術研究中心_港區地震液化風險評估模式精進(3_5)-高雄港模式精進.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174572",
+      "name": "港區影像智慧辨識技術之研究(2/3)-空間資料環境分析及優化影像檢監測應用技術",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407658007663218688.pdf&filedisplay=22.114年_運輸技術研究中心_港區影像智慧辨識技術之研究(2_3)-空間資料環境分析及優化影像檢監測應用技術.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174576",
+      "name": "馬祖海氣象特性分析及應用研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407660450392313856.pdf&filedisplay=26.114年_運輸技術研究中心_馬祖海氣象特性分析及應用研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174631",
+      "name": "電動大客車數據分析與應用計畫(1/2)-數據研析與關鍵指標建立",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408402011262554112.pdf&filedisplay=113-23.113_電動大客車數據分析與應用計畫(1_2)-數據研析與關鍵指標建立.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174617",
+      "name": "應用人工智慧分析技術探勘高風險路段(3/4)-行車異常事件及高風險駕駛行為分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408369412645326848.pdf&filedisplay=113-9.113年_運輸安全組_應用人工智慧分析技術探勘高風險路段(3_4)—行車異常事件及高風險駕駛行為分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174625",
+      "name": "應用交通管理策略減少都會區交通空氣污染之研析(3/3)-交通管理策略分析與效益評估",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408398748962263040.pdf&filedisplay=113-17.113_應用交通管理策略減少都會區交通空氣污染之研析(3_3)－交通管理策略分析與效益評估.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174626",
+      "name": "無人機搭配AI影像辨識應用於橋梁檢測之研究(2/2)-無人機自動化檢測架構探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408399171710357504.pdf&filedisplay=113-18.113年_運輸工程及海空運組_無人機搭配AI影像辨識應用於橋梁檢測之研究(2_2)-無人機自動化檢測架構探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174627",
+      "name": "應用大數據技術建構國際機場潛在市場評析方法之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408399537348808704.pdf&filedisplay=113-19.113_應用大數據技術建構國際機場潛在市場評析方法之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174629",
+      "name": "推動通用計程車特約制度(2/2)-成效檢討及服務優化",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408401066734653440.pdf&filedisplay=113-21.113年_運輸經營及管理組_推動通用計程車特約制度(2_2)-成效檢討及服務優化.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174811",
+      "name": "應用微波雷達技術於臺北港域環境監測之研究(2/4)-微波雷達海象監測技術優化",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414535046886330368.pdf&filedisplay=113-29.113年_運輸技術研究中心_應用微波雷達技術於臺北港域環境監測之研究(2_4)-微波雷達海象監測技術優化.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174812",
+      "name": "商港風力觀測及統計分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414535638811676672.pdf&filedisplay=113-30.113年_運輸技術研究中心_商港風力觀測及統計分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174814",
+      "name": "港區影像智慧辨識技術之研究(1/3)-空間基礎資料建構及影像檢監測應用技術發展",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414537028569141248.pdf&filedisplay=113-32.113年_運輸技術研究中心_港區影像智慧辨識技術之研究(1_3)-空間基礎資料建構及影像檢監測應用技術發展.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174817",
+      "name": "離岸堤出水高度對堤後淤沙效能之影響評估",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414539005877293056.pdf&filedisplay=113-35.113年_運輸技術研究中心_離岸堤出水高度對堤後淤沙效能之影響評估.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174821",
+      "name": "112年臺灣地區金屬材料腐蝕環境調查與碳鋼金屬關聯性研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414541718195277824.pdf&filedisplay=113-39.113年_運輸技術研究中心_112年臺灣地區金屬材料腐蝕環境調查與碳鋼金屬關聯性研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174837",
+      "name": "2022年港灣海氣象觀測資料統計年報(8港域觀測海流資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414550375045795840.pdf&filedisplay=113-55.113年_運輸技術研究中心_2022年港灣海氣象觀測資料統計年報(8港域觀測海流資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174822",
+      "name": "商港海流觀測及特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414542295729967104.pdf&filedisplay=113-40.113年_運輸技術研究中心_商港海流觀測及統計分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174824",
+      "name": "花蓮港湧浪遮蔽試驗(1/3)-試驗規劃及建置",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414543293840101376.pdf&filedisplay=113-42.113年_運輸技術研究中心_花蓮港湧浪遮蔽試驗(1_3)-試驗規劃及建置.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174828",
+      "name": "商港潮位觀測與統計分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414545149354053632.pdf&filedisplay=113-46.113年_運輸技術研究中心_商港潮位觀測與統計分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174832",
+      "name": "海氣象觀測作業數位管理規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414547688615055360.pdf&filedisplay=113-50.113_海氣象觀測作業數位管理規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "33215",
+      "name": "機車動態能耗與碳排放係數",
+      "format": "csv",
+      "urls": [
+        "https://www.iot.gov.tw/dl-17603-c4e377bc4bfd4e039fe02213aa3638fa.html"
+      ]
+    },
+    {
+      "id": "80891",
+      "name": "交通部運輸研究所107年度會計月報",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae00857771c121ee09c/107_02%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae00857771c121ee0a8/107_11%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae008577783a0d10f21/107_09%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae008577750c42161a6/107_10%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae00857771c121ee0a2/107_05%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae00857771c121ee09a/107_01%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae008577750c42161a9/107_12%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae00857771c121ee0a6/107_08%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae00857771c121ee0aa/107_07%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae00857771c121ee09e/107_03%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae00857771c121ee0a0/107_04%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ae00857771c121ee0a4/107_06%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1_XML.zip"
+      ]
+    },
+    {
+      "id": "43223",
+      "name": "交通部運輸研究所106年度會計月報",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/asset/data/66671ce60857771c121ee144/106_11%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6809ef7a0857776e773571f5/106%E5%B9%B410%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6809ef0b0857776e773571d1/106%E5%B9%B47%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6809ef330857776e773571de/106%E5%B9%B48%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6809ef5b0857776e773571eb/106%E5%B9%B49%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6809ed790857776e77357163/106%E5%B9%B41%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6809edc30857776e7735717a/106%E5%B9%B43%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6809edf00857776e77357185/106%E5%B9%B44%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6809eee80857776e773571c4/106%E5%B9%B45%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ce608577783a0d10f3a/106_06%E6%9C%88%E5%A0%B1_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6809eda60857776e7735716e/106%E5%B9%B42%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66671ce608577750c42161fb/106_12%E6%9C%88%E6%9C%88%E5%A0%B1_XML.zip"
+      ]
+    },
+    {
+      "id": "98178",
+      "name": "臺灣碳鋼金屬年腐蝕速率資料",
+      "format": "json",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/opendata/Corrosion?metal=Fe&year=2024&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Corrosion?metal=Fe&year=2024&format=XML",
+        "https://www.ihmt.gov.tw/opendata/upload/act/2025/corrosion_fe.csv"
+      ]
+    },
+    {
+      "id": "127840",
+      "name": "布袋商港海氣象資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/station/OpenData/XML/GetBDStationXML.aspx"
+      ]
+    },
+    {
+      "id": "127852",
+      "name": "花蓮商港海氣象資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/station/OpenData/XML/GetHLStationXML.aspx"
+      ]
+    },
+    {
+      "id": "127853",
+      "name": "高雄商港海氣象資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/station/OpenData/XML/GetKHStationXML.aspx"
+      ]
+    },
+    {
+      "id": "127855",
+      "name": "蘇澳商港海氣象資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/station/OpenData/XML/GetSAStationXML.aspx"
+      ]
+    },
+    {
+      "id": "135318",
+      "name": "國內行車成本調查資料",
+      "format": "zip",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/archive_file_multiple/file/67286935085777992565557c/%E5%9C%8B%E5%85%A7%E8%A1%8C%E8%BB%8A%E6%88%90%E6%9C%AC%E8%AA%BF%E6%9F%A5%E8%B3%87%E6%96%99_9_.zip"
+      ]
+    },
+    {
+      "id": "147011",
+      "name": "商港海氣象風力資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=AP&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=AP&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=KH&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=KH&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=SA&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=SA&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=HL&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=HL&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=TC&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=TC&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=TP&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=BD&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=BD&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=NG&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=NG&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=KL&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=KL&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Wind?port=TP&format=JSON"
+      ]
+    },
+    {
+      "id": "137649",
+      "name": "高雄商港歷年海氣象觀測月統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/Obs/KH.csv"
+      ]
+    },
+    {
+      "id": "137650",
+      "name": "花蓮商港歷年海氣象觀測月統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/Obs/HL.csv"
+      ]
+    },
+    {
+      "id": "138566",
+      "name": "安平商港歷年海氣象觀測月統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/Obs/AP-1.csv"
+      ]
+    },
+    {
+      "id": "176276",
+      "name": "鐵道系統強化調適能力之探討. (1/3): 機制與方法",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453322635340419072.pdf&filedisplay=10.114年_運輸能源及環境組_鐵道系統強化調適能力之探討(1_3)-機制與方法.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176277",
+      "name": "我國航港資訊整合與數位化發展架構之研究(2/2)-研訂航港產業數位化發展指引",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453323979866509312.pdf&filedisplay=9.114年_運輸工程及海空運組_我國航港資訊整合與數位化發展架構之研究 (2_2)- 研訂航港產業數位化發展指引.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176278",
+      "name": "新興科技導入學校交通安全教育之研發示範計畫(2/2)-成效評估與應用",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453324231646384128.pdf&filedisplay=8.114年_運輸安全組_新興科技導入學校交通安全教育之研發示範計畫(2_2)-成效評估與應用.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176282",
+      "name": "道路安全檢查制度導入研究(1/2)—建構道路安全檢查工具",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453325422946160640.pdf&filedisplay=4.114年_運輸安全組_道路安全檢查制度導入研究(1_2)—建構道路安全檢查工具.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176285",
+      "name": "自行車道系統規劃設計參考手冊（2025年修訂版）",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453326575603814400.pdf&filedisplay=1.114年_運輸計畫及陸運組_自行車道系統規劃設計參考手冊（2025年修訂版）.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176261",
+      "name": "鼎型塊織布橋基保護工法之現地試驗與成效評估(1/4)-數值水理分析模型建置",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453293400487890944.pdf&filedisplay=45.112年_運輸技術研究中心_鼎型塊織布橋基保護工法之現地試驗與成效評估(1_4)-數值水理分析模型建置.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176262",
+      "name": "Comparison Studies of Laboratory Tests on Eleven Armor Types",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453293838712967168.pdf&filedisplay=46.112年_運輸技術研究中心_Comparison Studies of Laboratory Tests on Eleven Armor Types.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176263",
+      "name": "無人機影像監測技術應用於臺中港區管理之研究(Ⅱ)-空間資訊整合分析平台建置",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453294134327513088.pdf&filedisplay=47.112年_運輸技術研究中心_無人機影像監測技術應用於臺中港區管理之研究(Ⅱ)-空間資訊整合分析平台建置.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176267",
+      "name": "我國人工智慧車聯網之號誌控制(2/2)-匝道儀控與平面道路號誌協控實作",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453295801710153728.pdf&filedisplay=19.114年_運輸科技及資訊組_我國人工智慧車聯網之號誌控制(2_2)-匝道儀控與平面道路號誌協控實作.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176273",
+      "name": "構建5G智慧交通數位神經中樞-功能擴充與精進",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453298213934075904.pdf&filedisplay=12.114年_運輸科技及資訊組_構建5G 智慧交通數位神經中樞－功能擴充與精進.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176274",
+      "name": "評估建立我國港口協調整合決策系統之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453319348297928704.pdf&filedisplay=11.114年_運輸工程及海空運組_評估建立我國港口協調整合決策系統之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176275",
+      "name": "智慧公共運輸服務發展策略規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453322198235222016.pdf&filedisplay=13.114年_運輸經營及管理組_智慧公共運輸服務發展策略規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176248",
+      "name": "應用人工智慧辨識技術輔助臺鐵執行軌道巡查作業項目之探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453286861370822656.pdf&filedisplay=32.112年_運輸技術研究中心_應用人工智慧辨識技術輔助臺鐵執行軌道巡查作業項目之探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176249",
+      "name": "港區地震液化風險評估模式精進(1/5)-臺中港模式精進",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453287161477468160.pdf&filedisplay=33.112年_運輸技術研究中心_港區地震液化風險評估模式精進(1-5)-臺中港模式精進.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176256",
+      "name": "軌道構件缺失人工智慧辨識建置應用-系統擴建與宜蘭段現地測試",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453291938303184896.pdf&filedisplay=40.112年_運輸技術研究中心_軌道構件缺失人工智慧辨識建置應用-系統擴建與宜蘭段現地測試.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176259",
+      "name": "馬祖港域能見度探討之研究(2/2)-能見度預測模式之概念驗證",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453292935192776704.pdf&filedisplay=43.112年_運輸技術研究中心_馬祖港域能見度探討之研究(2_2)- 能見度預測模式之概念驗證.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176260",
+      "name": "111年臺灣地區金屬材料腐蝕環境調查與工業區關聯性研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453293164797366272.pdf&filedisplay=44.112年_運輸技術研究中心_111年臺灣地區金屬材料腐蝕環境調查與工業區關聯性研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176244",
+      "name": "中臺區域整體運輸規劃系列研究(1/3)－旅次特性調查及初步分析與(2/3)－旅次特性分析及補充調查",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453285242604359680.pdf&filedisplay=28.112年_運輸計畫及陸運組_中臺區域整體運輸規劃系列研究 (1_3)－旅次特性調查及初步分析與 (2_3)－旅次特性分析及補充調查.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176245",
+      "name": "高齡者旅運需求分析方法與運輸策略方向之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453285850338037760.pdf&filedisplay=29.112年_運輸計畫及陸運組_高齡者旅運需求分析方法與運輸策略方向之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176246",
+      "name": "交通部無人機科技產業發展策略規劃與執行",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453286171550420992.pdf&filedisplay=30.112年_運輸科技及資訊組_交通部無人機科技產業發展策略規劃與執行.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176143",
+      "name": "2021年港灣海氣象觀測資料統計年報(8港域風力觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452832337325723648.pdf&filedisplay=4.111年_運輸技術研究中心_2021年港灣海氣象觀測資料統計年報(8港域觀測風力資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176151",
+      "name": "本所駕駛模擬研究未來發展方向初探",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452904339264770048.pdf&filedisplay=9.111年_運輸安全組_本所駕駛模擬研究未來發展方向初探.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174541",
+      "name": "東臺區域整體運輸規劃系列研究(2/3)-供需預測分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407271543796404224.pdf&filedisplay=5.114-006-1477 東臺區域整體運輸規劃系列研究(2-3)－供需預測分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174542",
+      "name": "交通行動服務(MaaS)跨域合作與應用優化之研究(2/2)-應用精進與提升包容性",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407273201397927936.pdf&filedisplay=6.114年_運輸科技及資訊組_交通行動服務(MaaS)跨域合作與應用優化之研究(2_2)—應用精進與提升包容性.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174543",
+      "name": "電動大客車數據分析與應用計畫(2/2)-資料視覺化與AI應用",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407276391879151616.pdf&filedisplay=7.114年_運輸科技及資訊組_電動大客車數據分析與應用計畫(2_2)-資料視覺化與AI應用.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174545",
+      "name": "城際鐵道容量分析暨應用研究(1/2)-編組站及端末站之容量模式構建",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407287282343350272.pdf&filedisplay=8.114年_運輸計畫及陸運組_城際鐵道容量分析暨應用研究(1_2)—編組站及端末站之容量模式構建.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174546",
+      "name": "建構運輸管理機關(構)之調適專業能力(1/2)-課題研析及課程規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407287797814923264.pdf&filedisplay=9.114年_運輸能源及環境組_建構運輸管理機關（構）之調適專業能力（1_2）-課題研析及課程規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174549",
+      "name": "高速公路交織路段容量及服務水準分析之研究(1/3)-典型路段",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407290497705185280.pdf&filedisplay=12.114年_運輸計畫及陸運組_高速公路交織路段容量及服務水準分析之研究(1_3)-典型路段.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174565",
+      "name": "人工智慧辨識透地雷達訊號圖像之前處理初探",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407654905220435968.pdf&filedisplay=15.114年_運輸技術研究中心_人工智慧辨識透地雷達訊號圖像之前處理初探.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174568",
+      "name": "港灣構造物巡查檢測作業精進(3/4)-新興科技應用於防波堤設施巡查檢測作業",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407656116493488128.pdf&filedisplay=18.114年_運輸技術研究中心_港灣構造物巡查檢測作業精進(3_4)-新興科技應用於防波堤設施巡查檢測作業.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174570",
+      "name": "商港風力觀測技術精進及強風特性分析之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407657161634353152.pdf&filedisplay=20.114年_運輸技術研究中心_商港風力觀測技術精進及強風特性分析之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176174",
+      "name": "110年海氣象自動化預報模擬系統作業化校修與維運",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452924090414272512.pdf&filedisplay=30.111年_運輸技術研究中心_110年海氣象自動化預報模擬系統作業化校修與維運.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176177",
+      "name": "110年港區震災速報系統維護及地層下陷調查分析研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452925490716217344.pdf&filedisplay=33.111年_運輸技術研究中心_110年港區震災速報系統維護及地層下陷調查分析研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176178",
+      "name": "港灣構造物維護管理資訊系統及新興巡檢技術應用探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452926194952441856.pdf&filedisplay=34.111年_運輸技術研究中心_港灣構造物維護管理資訊系統及新興巡檢技術應用探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176181",
+      "name": "花蓮海岸公路浪襲預警及防災應用技術之研究(2/2)-浪襲預警及因應對策分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452927471044268032.pdf&filedisplay=37.111年_運輸技術研究中心_花蓮海岸公路浪襲預警及防災應用技術之研究(2_ 2)-浪襲預警及因應對策分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176182",
+      "name": "感潮河段橋梁梁底檢測工具精進研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452927794798399488.pdf&filedisplay=38.111年_運輸技術研究中心_感潮河段橋梁梁底檢測工具精進研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176103",
+      "name": "軌道扣件巡檢系統建置(2/2)-扣件缺失辨識系統精進驗證",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1451523872556847104.pdf&filedisplay=57.110年_運輸技術研究中心_軌道扣件巡檢系統建置(2_2)- 扣件缺失辨識系統精進驗證.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176106",
+      "name": "離岸風電建置與航安技術發展(4/4)-風對臺中港鄰近海域船舶航行安全影響評估",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452538119801802752.pdf&filedisplay=59.110年_運技中心_離岸風電建置與航安技術發展(4_4)-風對臺中港鄰近海域船舶航行安全影響評估.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176111",
+      "name": "離岸風電區鄰近海岸漂沙機制探討(4/4)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452539736768909312.pdf&filedisplay=64.110年_運輸技術研究中心_離岸風電區鄰近海岸漂沙機制探討（4_4）.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176113",
+      "name": "109年臺灣沿岸地區金屬材料腐蝕環境調查研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452542367440572416.pdf&filedisplay=66.110年_運輸技術研究中心_109年臺灣沿岸地區金屬材料腐蝕環境調查研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176119",
+      "name": "臺灣附近海域及港區船舶排放量對空氣品質影響預測系統",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452544442757025792.pdf&filedisplay=72.110年_運技中心_臺灣附近海域及港區船舶排放量對空氣品質影響預測系統.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176120",
+      "name": "地工織布應用於橋墩基礎保護之沖刷模擬研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452545735638650880.pdf&filedisplay=73.110年_運輸技術研究中心_地工織布應用於橋墩基礎保護之沖刷模擬研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176121",
+      "name": "臺北港港區工程基本資料庫擴建及網頁查詢模組建置",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452546004795527168.pdf&filedisplay=74.110年_運輸技術研究中心_臺北港港區工程基本資料庫擴建及網頁查詢模組建置.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176187",
+      "name": "應用智慧監測進行海象數值同化研究(1/4)-臺中港監測資料智慧檢核及補遺",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452929062514200576.pdf&filedisplay=43.111年_運輸技術研究中心_應用智慧監測進行海象數值同化研究 (1_ 4)-臺中港監測資料智慧檢核及補遺.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176191",
+      "name": "船舶特高頻資料交換與航行風險評估之技術發展",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452929984552243200.pdf&filedisplay=47.111年_運輸技術研究中心_船舶特高頻資料交換與航行風險評估之技術發展.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176192",
+      "name": "110年臺灣沿岸地區金屬材料腐蝕環境調查研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452930205344600064.pdf&filedisplay=48.111年_運輸技術研究中心_110 年臺灣沿岸地區金屬材料腐蝕環境調查研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176193",
+      "name": "透地雷達檢測道路孔洞方法之初步探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452930483854774272.pdf&filedisplay=49.111年_運輸技術研究中心_透地雷達檢測道路孔洞方法之初步探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176195",
+      "name": "臺北港鄰近海域歷年地形變遷特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452932191641145344.pdf&filedisplay=51.111年_運輸技術研究中心_臺北港鄰近海域歷年地形變遷特性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176227",
+      "name": "2022年臺灣大氣腐蝕劣化因子調查研究資料年報",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453280029260648448.pdf&filedisplay=12.112年_運輸技術研究中心_2022年臺灣大氣腐蝕劣化因子調查研究資料年報.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176230",
+      "name": "鐵道安全管理系統自主評估準則與監理查核機制之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453280745479999488.pdf&filedisplay=15.112年_運輸安全組_鐵道安全管理系統自主評估準則與監理查核機制之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176231",
+      "name": "道路安全檢核制度之初探(2/2)—易肇事路口安全改善檢查表之建立",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453281054159802368.pdf&filedisplay=16.112年_運輸安全組_道路安全檢核制度之初探(2_2)—易肇事路口安全改善檢查表之建立.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176158",
+      "name": "應用模擬模式建立國際機場空側容量評析方法之研究(1/2)-臺北松山機場空側容量評估與分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452906071860449280.pdf&filedisplay=14.111年_運輸工程及海空運組_應用模擬模式建立國際機場空側容量評析方法之研究(1_2)-臺北松山機場空側容量評估與分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176160",
+      "name": "鐵路系統供需診斷模式軟體之維護與擴充及策略分析(1/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452911979176923136.pdf&filedisplay=16.111年_運輸工程及海空運組_鐵路系統供需診斷模式軟體之維護與擴充及策略分析(1_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176166",
+      "name": "我國海事安全資料蒐集與應用之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452914817273696256.pdf&filedisplay=22.111年_運輸安全組_我國海事安全資料蒐集與應用之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176128",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(北端海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452548130036781056.pdf&filedisplay=81.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(北端海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176129",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(宜蘭海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452548369938386944.pdf&filedisplay=82.110年_運技中心_2019年港灣環境資訊網海氣象觀測資料年報(宜蘭海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176131",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(臺東海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452548976682209280.pdf&filedisplay=84.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(臺東海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176133",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(高雄海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452549446817550336.pdf&filedisplay=86.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(高雄海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176138",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(馬祖海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452552921685168128.pdf&filedisplay=91.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(馬祖海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174609",
+      "name": "新興科技導入學校交通安全教育之研發示範計畫(1/2)-教學輔助軟體規劃與開發",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408350456060579840.pdf&filedisplay=113-1.113年_運輸安全組_新興科技導入學校交通安全教育之研發示範計畫(1_2)—教學輔助軟體規劃與開發.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174610",
+      "name": "公路系統因應氣候變遷強化調適能力案例研析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408351083771727872.pdf&filedisplay=113-2.113年_運輸能源及環境組_公路系統因應氣候變遷強化調適能力案例研析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174613",
+      "name": "第41期臺灣地區易肇事路段改善計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408353664984158208.pdf&filedisplay=113-5.113年_運輸安全組_第41期臺灣地區易肇事路段改善計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174616",
+      "name": "交通行動服務(MaaS)跨域合作與應用優化之研究(1/2)-應用探討與推動規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408368819872731136.pdf&filedisplay=113-8.113年_運輸科技及資訊組_交通行動服務(MaaS)跨域合作與應用優化之研究(1_2) —應用探討與推動規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174618",
+      "name": "橋梁整橋風險評估模式之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408370091032055808.pdf&filedisplay=113-10.113年_運輸工程及海空運組_橋梁整橋風險評估模式之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174620",
+      "name": "我國航港資訊整合與數位化發展架構之研究(1/2)-航港產業數位化調查與發展藍圖研擬",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408390026177286144.pdf&filedisplay=113-12.113年_運輸工程及海空運組_我國航港資訊整合與數位化發展架構之研究(1_2)-航港產業數位化調查與發展藍圖研擬.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174624",
+      "name": "國內外客船海事案件肇因與改善措施之探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408398185331691520.pdf&filedisplay=113-16.113_國內外客船海事案件肇因與改善措施之探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174148",
+      "name": "交通部運輸研究所105年新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394558492316012544.pdf&filedisplay=交通部運研所105年新聞稿.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174149",
+      "name": "交通部運輸研究所106年新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394562017410420736.pdf&filedisplay=交通部運研所106年新聞稿.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174151",
+      "name": "交通部運輸研究所108年新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394562565543038976.pdf&filedisplay=交通部運研所108年新聞稿.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174160",
+      "name": "交通部運輸研究所113年新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394588055221833728.pdf&filedisplay=交通部運研所113年新聞稿.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174161",
+      "name": "交通部運輸研究所114年截至6月新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394589935515734016.pdf&filedisplay=交通部運研所114年至6月新聞稿.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174825",
+      "name": "鼎型塊織布橋基保護工法之現地試驗與成效評估(2/4)-橋基沖刷數值模型建置與分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414543661613453312.pdf&filedisplay=113-43.113_鼎型塊織布橋基保護工法之現地試驗與成效評估(2_4)-橋基沖刷數值模型建置與分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174826",
+      "name": "透地雷達應用於省道養護巡查及AI智慧化辨識可行性之初步探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414544371281301504.pdf&filedisplay=113-44.113_透地雷達應用於省道養護巡查及AI智慧化辨識可行性之初步探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174827",
+      "name": "港灣構造物巡查檢測作業精進(2/4)-新興科技應用於碼頭設施巡查檢測作業",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414544788060901376.pdf&filedisplay=113-45.113_港灣構造物巡查檢測作業精進(2_4)-新興科技應用於碼頭設施巡查檢測作業.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174829",
+      "name": "商港波浪觀測及統計分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414545569854001152.pdf&filedisplay=113-47.113年_運輸技術研究中心_商港波浪觀測及統計分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174834",
+      "name": "2022年港灣海氣象觀測資料統計年報(8港域觀測波浪資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414549492706840576.pdf&filedisplay=113-52.113年_運輸技術研究中心_2022年港灣海氣象觀測資料統計年報(8港域觀測波浪資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174835",
+      "name": "2022年港灣海氣象觀測資料統計年報(8港域觀測風力資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414549793673318400.pdf&filedisplay=113-53.113年_運輸技術研究中心_2022年港灣海氣象觀測資料統計年報(8港域觀測風力資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174809",
+      "name": "多期多尺度影像結合深度學習於邊坡地貌變異判識之初探(2/2)-影像處理方法及公路邊坡影像類型適用性探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414534001460252672.pdf&filedisplay=113-27.113年_運輸技術研究中心_多期多尺度影像結合深度學習於邊坡地貌變異判識之初探(2_2)-影像處理方法及公路邊坡影像類型適用性探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174815",
+      "name": "應用影像智慧化技術判釋海岸公路及防波堤越波研究(2/4)-夜間越波判釋",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414537569974095872.pdf&filedisplay=113-33.113年_運輸技術研究中心_應用影像智慧化技術判釋海岸公路及防波堤越波研究(2_4)-夜間越波判釋.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174818",
+      "name": "交通部運輸研究所運技中心業務決策支援系統需求分析與架構規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414539829412106240.pdf&filedisplay=113-36.113_交通部運輸研究所運技中心業務決策支援系統需求分析與架構規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174630",
+      "name": "公路系統規劃階段強化調適能力之探討(2/2)-強化調適能力作為與指引",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408401705472626688.pdf&filedisplay=113-22.113_公路系統規劃階段強化調適能力之探討(2_2)－強化調適能力作為與指引.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176040",
+      "name": "捷運路網規劃參考手冊之研究(2/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450781848765468672.pdf&filedisplay=11.110年_運輸計畫及陸運組_捷運路網規劃參考手冊之研究(2_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176044",
+      "name": "第38期臺灣地區易肇事路段改善計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450783673262542848.pdf&filedisplay=15.110年_運輸安全組_第38期臺灣地區易肇事路段改善計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176046",
+      "name": "交通行動服務(MaaS)後續服務擴充與推廣策略規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450784250310692864.pdf&filedisplay=17.110年_運輸科技及資訊組_交通行動服務(MaaS)後續服務擴充與推廣策略規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176048",
+      "name": "數位化與區塊鏈技術應用於我國貨櫃運輸作業鏈之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450784972326572032.pdf&filedisplay=19.110年_運輸工程及海空運組_數位化與區塊鏈技術應用於我國貨櫃運輸作業鏈之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176049",
+      "name": "預約式通用小客車運輸服務之試辦與推廣應用",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450785445741858816.pdf&filedisplay=20.110年_運技中心_預約式通用小客車運輸服務之試辦與推廣應用.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176052",
+      "name": "科技計畫研發成果管理推廣與知識分享服務",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450786245394305024.pdf&filedisplay=23.110年_運輸科技及資訊組_科技計畫研發成果管理推廣與知識分享服務.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176030",
+      "name": "臺灣鐵道容量手冊－輕軌運輸系統篇（A、B型路權）",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450777090910588928.pdf&filedisplay=2.110年_運輸計畫及陸運組_臺灣鐵道容量手冊－輕軌運輸系統篇(A、B 型路權).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176036",
+      "name": "公共運輸縫隙掃描決策支援系統之維運、功能強化及教育訓練(2/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450779387468189696.pdf&filedisplay=7.110年_運輸經營及管理組_公共運輸縫隙掃描決策支援系統之維運、功能強化及教育訓練(2_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176038",
+      "name": "國內外海事安全資料內涵及應用初探",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450780240874835968.pdf&filedisplay=9.110年_運輸安全組_國內外海事安全資料內涵及應用初探.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176076",
+      "name": "2019年港灣海氣象觀測資料統計年報(臺中港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450795138199588864.pdf&filedisplay=47.110年_運輸技術研究中心_2019年港灣海氣象觀測資料統計年報(臺中港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176078",
+      "name": "2019年港灣海氣象觀測資料統計年報(金門港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450795732159172608.pdf&filedisplay=49.110年_運輸技術研究中心_2019年港灣海氣象觀測資料統計年報(金門港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176079",
+      "name": "2019年港灣海氣象觀測資料統計年報(馬祖港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450796137358299136.pdf&filedisplay=50.110年_運輸技術研究中心_2019年港灣海氣象觀測資料統計年報(馬祖港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176055",
+      "name": "輕軌系統容量分析暨應用研究(2/2)-A、B 型路權容量及可靠度分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450787831503917056.pdf&filedisplay=26.110年_運輸計畫及陸運組_輕軌系統容量分析暨應用研究(2_2)-A、B 型路權容量及可靠度分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176066",
+      "name": "2019年港灣海氣象觀測資料統計年報(12港域觀測潮汐資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450791186737401856.pdf&filedisplay=37.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(12海域潮汐觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176068",
+      "name": "2019年港灣海氣象觀測資料統計年報(臺北港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450791815497125888.pdf&filedisplay=39.110年_運技中心_2019年港灣海氣象觀測資料統計年報(臺北港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "8235",
+      "name": "運輸部門歷年能源消耗推估",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1227893351831834624.csv&filedisplay=運輸部門歷年能源消耗推估.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "33217",
+      "name": "大客車動態能耗與碳排放係數",
+      "format": "csv",
+      "urls": [
+        "https://www.iot.gov.tw/dl-17604-7d04ef2ab476433ea784baf1fed7d389.html"
+      ]
+    },
+    {
+      "id": "97388",
+      "name": "臺灣鋅金屬年腐蝕速率資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/act/2025/corrosion_Zn.csv",
+        "https://isohe.ihmt.gov.tw/opendata/Corrosion?metal=Zn&year=2024&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Corrosion?metal=Zn&year=2024&format=XML"
+      ]
+    },
+    {
+      "id": "127846",
+      "name": "安平商港海氣象資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/station/OpenData/XML/GetAPStationXML.aspx"
+      ]
+    },
+    {
+      "id": "127847",
+      "name": "馬祖（南竿）商港海氣象資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/station/OpenData/XML/GetNGStationXML.aspx"
+      ]
+    },
+    {
+      "id": "127851",
+      "name": "基隆商港海氣象資訊",
+      "format": "xml",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/station/OpenData/XML/GetKLStationXML.aspx"
+      ]
+    },
+    {
+      "id": "137041",
+      "name": "交通部運輸研究所112年度會計報告",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c121e16e9/112-02%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c11b3a606/112-01%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c1370aff7/112-03%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661f27d0857771c121e1836/4%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1_XL.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c121e16eb/112-05%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c1370affb/112-06%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c121e16f1/112-7%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c121e16f3/112-08%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c1370afff/112-09%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c121e16e7/112_10%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661eda10857771c121e1783/11%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ebf30857771c121e1741/12%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c1370aff5/112-01_XML_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c121e16e5/112-02%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1_XML_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c1370aff3/112-03%E5%89%8D%E7%9E%BB%E6%9C%88%E5%A0%B1_XML_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661f24f0857771c121e182e/%E5%89%8D%E7%9E%BB112-04%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c11b3a604/112-05%E5%89%8D%E7%9E%BB_XML_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c1370aff9/112-06%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1_XML_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661eee80857771c121e17ad/%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97112-09%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c11b3a608/112-10%E5%89%8D%E7%9E%BB%E6%9C%88%E5%A0%B1_XML_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ecd50857771c121e1760/%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%89%B9%E7%AE%97112-11%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661ea880857771c1370affd/112%E5%B9%B412%E6%9C%88%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F_%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1-XML.zip"
+      ]
+    },
+    {
+      "id": "137301",
+      "name": "交通部運輸研究所年度決算",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/asset/data/666175400857771c11b3a4f6/105%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666175400857771c1370acee/106%E5%B9%B4%E5%BA%A6%E6%9C%AC%E6%89%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666175400857771c121e07c8/107%E5%B9%B4%E5%BA%A6%E6%9C%AC%E6%89%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666175400857771c11b3a4f8/108%E5%B9%B4%E5%BA%A6%E6%9C%AC%E6%89%80%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666175400857771c121e07ca/109%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666175400857771c121e07cc/110%E5%B9%B4_%E6%B1%BA%E7%AE%97XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/666175400857771c121e07ce/111%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97.zip",
+        "https://www.iot.gov.tw/uploads/archive_file_multiple/file/67f8923f0857770673212bae/XML-110%E5%B9%B4%E5%BA%A6%E8%87%B3111%E5%B9%B4%E5%BA%A6%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC3%E6%9C%9F%E7%89%B9%E5%88%A5%E6%B1%BA%E7%AE%97.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/68088d750857776c976bb980/112%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97_XML_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/67f8ccf40857774f1977f913/112%E5%B9%B4%E5%BA%A6%E8%87%B3113%E5%B9%B4%E5%BA%A6%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E6%B1%BA%E7%AE%97-XML.zip"
+      ]
+    },
+    {
+      "id": "137651",
+      "name": "蘇澳商港歷年海氣象觀測月統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/Obs/SA.csv"
+      ]
+    },
+    {
+      "id": "138559",
+      "name": "布袋商港歷年海氣象觀測月統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ihmt.gov.tw/opendata/upload/Obs/PT.csv"
+      ]
+    },
+    {
+      "id": "149157",
+      "name": "商港海氣象潮位資訊",
+      "format": "json",
+      "urls": [
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=AP&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=KH&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=SA&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=NG&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=NG&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=TC&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=KH&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=SA&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=HL&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=HL&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=KL&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=KL&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=BD&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=BD&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=AP&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=TP&format=JSON",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=TP&format=XML",
+        "https://isohe.ihmt.gov.tw/opendata/Tide?port=TC&format=JSON"
+      ]
+    },
+    {
+      "id": "172789",
+      "name": "交通部運輸研究所114年度會計報告",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/archive_file_multiple/file/67f878a808577706732126d5/11401-%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml.zip",
+        "https://www.iot.gov.tw/uploads/archive_file_multiple/file/67f87b200857770673212725/11402%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8A_XML_.zip",
+        "https://www.iot.gov.tw/uploads/archive_file_multiple/file/67f87ad30857770673212715/11403%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8A_XML_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/681c28240857770068098b0b/11404%E6%9C%88%E5%A0%B1_XML_%E5%85%AC%E5%91%8A%E7%94%A8.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/684a3367085777d473e72b20/11405%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8A_XML%E6%AA%94_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/686f7bc908577700f7483b2c/11406%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8A_XML%E6%AA%94_.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6899b46f0857770d7f317170/11407%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8Axml%E6%AA%94.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/68c13328085777ea90d184ed/11408%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8Axml%E6%AA%94.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/68ec6e7d085777fca54cc0a9/11409%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8AXML%E6%AA%94.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6912aabb0857772cb81662db/11410%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8AXML%E6%AA%94.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/69328854085777fee22564b3/11411%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1xml%E6%AA%94.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/69841021085777fe52725460/114%E5%B9%B412%E6%9C%88%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8Axml%E6%AA%94.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/68c13499085777ea90d1856d/114%E5%B9%B47%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC5%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/68c13552085777ea90d18598/114%E5%B9%B48%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC5%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/68e491950857770b2c79be90/114%E5%B9%B49%E6%9C%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC5%E6%9C%9F%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E6%9C%88%E5%A0%B1-XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/690c4025085777a3f7d6e005/%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E5%89%8D%E7%9E%BB%E7%AC%AC5%E6%9C%9F10%E6%9C%88%E4%BB%BD%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8AXML%E6%AA%94.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/692e596a085777a5bb8153e6/%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E5%89%8D%E7%9E%BB%E7%AC%AC5%E6%9C%9F11%E6%9C%88%E4%BB%BD%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8AXML%E6%AA%94.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/69840f0a085777fe5272542c/%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97%E5%89%8D%E7%9E%BB%E7%AC%AC5%E6%9C%9F12%E6%9C%88%E4%BB%BD%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8AXML%E6%AA%94.zip"
+      ]
+    },
+    {
+      "id": "144571",
+      "name": "交通部運輸研究所單位預算案",
+      "format": "xml",
+      "urls": [
+        "https://www.iot.gov.tw/uploads/asset/data/6661691d0857771c1370ac2c/105%E5%B9%B4%E5%BA%A6%E9%A0%90%E7%AE%97%E6%A1%88_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691d0857771c1370ac2e/106%E5%B9%B4%E5%BA%A6%E9%A0%90%E7%AE%97%E6%A1%88_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c1370ac30/107%E9%A0%90%E7%AE%97%E6%A1%88_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c121e055f/108_%E9%A0%90%E7%AE%97%E6%A1%88_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c121e0562/109_%E9%A0%90%E7%AE%97%E6%A1%88_XML.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c1370ac35/110%E4%BA%A4%E9%80%9A%E9%83%A8%E9%81%8B%E8%BC%B8%E7%A0%94%E7%A9%B6%E6%89%80%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97%E6%A1%88.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c121e0568/111-%E9%A0%90%E7%AE%97%E6%A1%88-20210826091556.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c121e056a/112-%E9%A0%90%E7%AE%97%E6%A1%88-20230608153034.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/6661691e0857771c121e056c/113-%E9%A0%90%E7%AE%97%E6%A1%88-20230828143234.zip",
+        "https://www.iot.gov.tw/uploads/asset/data/66d139780857774e9f13de6c/114%E9%A0%90%E7%AE%97%E6%A1%88.zip"
+      ]
+    },
+    {
+      "id": "174152",
+      "name": "交通部運輸研究所109年新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394562913682853888.pdf&filedisplay=交通部運研所109年新聞稿.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174153",
+      "name": "交通部運輸研究所110年新聞稿",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394572791080030208.pdf&filedisplay=交通部運研所110年新聞稿.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174808",
+      "name": "2023年臺灣大氣腐蝕劣化因子調查研究資料年報",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414533265980657664.pdf&filedisplay=113-26.113_臺灣大氣腐蝕劣化因子調查研究資料年報.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174810",
+      "name": "港區地震液化風險評估模式精進(2/5)-臺北港模式精進",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414534542642909184.pdf&filedisplay=113-28.113年_運輸技術研究中心_港區地震液化風險評估模式精進(2_5)-臺北港模式精進.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174813",
+      "name": "橋梁梁底狹小空間檢測工具加值應用及技術轉移",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414536067167555584.pdf&filedisplay=113-31.113_橋梁梁底狹小空間檢測工具加值應用及技術轉移.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174816",
+      "name": "港灣環境資訊系統維護與精進(2/4)-優化決策輔助資訊模組",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414538323531141120.pdf&filedisplay=113-34.113年_運輸技術研究中心_港灣環境資訊系統維護與精進(2_4)-優化決策輔助資訊模組.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176054",
+      "name": "公共運輸供需契合與轉乘縫隙之研究─以鐵、公路轉乘為例",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450787005922283520.pdf&filedisplay=25.110年_運輸經營及管理組_公共運輸供需契合與轉乘縫隙之研究-以鐵、公路轉乘為例.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176056",
+      "name": "事故型態導向之路口交通工程設計範例之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450788160412848128.pdf&filedisplay=27.110年_運輸安全組_事故型態導向之路口交通工程設計範例之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176057",
+      "name": "公共運輸縫隙掃描決策支援系統之維運、功能強化及教育訓練(1/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450788430467305472.pdf&filedisplay=28.110年_運輸經營及管理組_公共運輸縫隙掃描決策支援系統之維運、功能強化及教育訓練(1_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176058",
+      "name": "捷運路網規劃設計參考手冊之研究(1/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450788939815194624.pdf&filedisplay=29.110年_運輸計畫及陸運組_捷運路網規劃設計參考手冊之研究(1_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176059",
+      "name": "汽車客運業路線別成本計算制度應用軟體更新及維護運作計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450789170069901312.pdf&filedisplay=30.110年_運輸經營及管理組_汽車客運業路線別成本計算制度應用軟體更新及維護運作計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176061",
+      "name": "交通行動服務(MaaS)示範建置與服務擴充計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450789707456712704.pdf&filedisplay=32.110年_運輸科技及資訊組_交通行動服務(MaaS)示範建置與服務擴充計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176062",
+      "name": "2020年臺灣大氣腐蝕劣化因子調查研究資料年報",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450789963447668736.pdf&filedisplay=33.110年_運輸技術研究中心_2020年臺灣大氣腐蝕劣化因子調查資料年報.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176063",
+      "name": "臺灣東部海岸颱風長浪群波引致之港灣振盪",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450790298794856448.pdf&filedisplay=34.110年_運輸技術研究中心_臺灣東部海岸颱風長浪群波引致之港灣振盪.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176065",
+      "name": "2019年港灣海氣象觀測資料統計年報(12港域觀測波浪資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450790880217665536.pdf&filedisplay=36.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(12海域波浪觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176067",
+      "name": "2019年港灣海氣象觀測資料統計年報(12港域觀測海流資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450791503164084224.pdf&filedisplay=38.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(12海域海流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176039",
+      "name": "應用交通管理策略減少都會區交通空氣污染之研析(1/3)-研究地區分類及初期調查",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450781278528868352.pdf&filedisplay=10.110年_運輸能源及環境組_應用交通管理策略減少都會區交通空氣污染之研析(1_3)-研究地區分類及初期調查.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176041",
+      "name": "運輸部門溫室氣體減量第二階段策略精進研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450782217251852288.pdf&filedisplay=12.110年_運輸能源及環境組_運輸部門溫室氣體減量第二階段策略精進研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176042",
+      "name": "高快速公路匝道分匯流區容量及服務水準分析之研究(2/3)-非獨立進出口分匯流區",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450782783583555584.pdf&filedisplay=13.110年_運輸計畫及陸運組_高快速公路匝道分匯流區容量及服務水準分析之研究(2_3)-非獨立進出口分匯流區.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176043",
+      "name": "大數據分析技術進行鐵路供需診斷與策略分析(2/2)-完成鐵路系統供需診斷模式系統",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450783380516900864.pdf&filedisplay=14.110年_運輸工程及海空運組_大數據分析技術進行鐵路供需診斷與策略分析(2_2)-完成鐵路系統供需診斷模式系統.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176045",
+      "name": "路口俯視攝影技術於交通衝突分析之案例應用與比較",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450783969543983104.pdf&filedisplay=16.110年_運輸安全組_路口俯視攝影技術於交通衝突分析之案例應用與比較.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176050",
+      "name": "運輸系統因應氣候變遷調適之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450785712902246400.pdf&filedisplay=21.110年_運輸能源及環境組_運輸系統因應氣候變遷調適之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176053",
+      "name": "應用人工智慧技術進行交通數據蒐集暨號誌控制之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450786498889650176.pdf&filedisplay=24.110年_運輸科技及資訊組_應用人工智慧技術進行交通數據蒐集暨號誌控制之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176159",
+      "name": "第39期臺灣地區易肇事路段改善計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452906370624917504.pdf&filedisplay=15.111年_運輸安全組_第39期臺灣地區易肇事路段改善計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176161",
+      "name": "事故碰撞型態導向之路口設計範例推廣示範計畫(1/3)—直轄市推廣應用",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452913286155603968.pdf&filedisplay=17.111年_運輸安全組_事故碰撞型態導向之路口設計範例推廣示範計畫(1_3)—直轄市推廣應用.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176168",
+      "name": "110年度交通行動服務(MaaS)縣市推廣與督導計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452916755809701888.pdf&filedisplay=24.111年_運輸科技及資訊組_110年度交通行動服務(MaaS)縣市推廣與督導計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176169",
+      "name": "精進鐵道安全管理系統12要項實務作業指引之研析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452916988010565632.pdf&filedisplay=25.111年_運輸安全組_精進鐵道安全管理系統12要項實務作業指引之研析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176170",
+      "name": "構建5G智慧交通數位神經中樞(1/2)－功能架構探討與系統規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452917239605891072.pdf&filedisplay=26.111年_運輸科技及資訊組_構建5G智慧交通數位神經中樞(1_2)-功能架構探討與系統規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176099",
+      "name": "港灣風波潮流模擬及長浪預警之研究(3/4)-模擬評估及港內靜穩研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1451522601020035072.pdf&filedisplay=53.110年_運輸技術研究中心_港灣風波潮流模擬及長浪預警之研究(3_4)-模擬評估及港內靜穩研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176104",
+      "name": "公路土壤邊坡與擋土支撐監測系統精進及預警系統測試",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1451524236609851392.pdf&filedisplay=58.110年_運技中心_公路土壤邊坡與擋土支撐監測系統精進及預警系統測試.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176107",
+      "name": "船舶監控預警系統之應用(1/2)-交通量及事故熱點分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452538468889530368.pdf&filedisplay=60.110年_運輸技術研究中心_船舶監控預警系統之應用(1_2)-交通量及事故熱點分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176108",
+      "name": "109年臺灣北東港域海象觀測與特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452538883001552896.pdf&filedisplay=61.110年_運輸技術研究中心_109年臺灣北東港域海象觀測與特性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176109",
+      "name": "國際商港強風及陣風特性分析(1/2)-以臺中港為例",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452539219418288128.pdf&filedisplay=62.110年_運輸技術研究中心_國際商港強風及陣風特性分析(1_2)-以臺中港為例.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176142",
+      "name": "2021年港灣海氣象觀測資料統計年報(8港域觀測波浪資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452832100699869184.pdf&filedisplay=3.111年_運輸技術研究中心_2021年港灣海氣象觀測資料統計年報(8港域觀測波浪資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176145",
+      "name": "2020年港灣海氣象觀測資料統計年報(8港域潮汐觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452832909063884800.pdf&filedisplay=6.111年_運輸技術研究中心_2020年港灣海氣象觀測資料統計年報(8港域觀測潮汐資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176146",
+      "name": "2020年港灣海氣象觀測資料統計年報(8港域觀測波浪資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452833162164965376.pdf&filedisplay=7.111年_運輸技術研究中心_2020年港灣海氣象觀測資料統計年報(8港域觀測波浪資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176156",
+      "name": "汽車客運業路線別成本計算制度檢討規劃及應用軟體建置計畫(1/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452905465951293440.pdf&filedisplay=12.111年_運輸經營及管理組_汽車客運業路線別成本計算制度檢討規劃及應用軟體建置計畫(1_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176114",
+      "name": "離岸風電基地母港與鄰近海域腐蝕因子調查(2/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452542726485577728.pdf&filedisplay=67.110年_運輸技術研究中心_離岸風電基地母港與鄰近海域腐蝕因子調查(2_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176115",
+      "name": "109年臺灣中南港域海象觀測與特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452543025573007360.pdf&filedisplay=68.110年_運輸技術研究中心_109年臺灣中南港域海象觀測與特性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176118",
+      "name": "花蓮海岸公路浪襲預警及防災應用技術之研究(1/2)-浪襲預警系統建置",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452544131971682304.pdf&filedisplay=71.110年_運技中心_花蓮海岸公路浪襲預警及防災應用技術之研究(1_2)-浪襲預警系統建置.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176125",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(12海域潮汐觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452547376844640256.pdf&filedisplay=78.110年_運技中心_2019年港灣環境資訊網海氣象觀測資料年報(12海域潮汐觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176071",
+      "name": "2019年港灣海氣象觀測資料統計年報(花蓮港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450792637903671296.pdf&filedisplay=42.110年_運輸技術研究中心_2019年港灣海氣象觀測資料統計年報(花蓮港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176072",
+      "name": "2019年港灣海氣象觀測資料統計年報(臺東港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450793040821096448.pdf&filedisplay=43.110年_運技中心_2019年港灣海氣象觀測資料統計年報(臺東港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176073",
+      "name": "2019年港灣海氣象觀測資料統計年報(布袋港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450793410901315584.pdf&filedisplay=44.110年_運輸技術研究中心_2019年港灣海氣象觀測資料統計年報(布袋港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176077",
+      "name": "2019年港灣海氣象觀測資料統計年報(澎湖港域觀測海氣象資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450795435294724096.pdf&filedisplay=48.110年_運輸技術研究中心_2019年港灣海氣象觀測資料統計年報(澎湖港域觀測海氣象資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176080",
+      "name": "2019年12港域海氣象觀測資料年報(風浪潮流資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450796436072435712.pdf&filedisplay=51.110年_運輸技術研究中心_2019年12港域海氣象觀測資料年報(風浪潮流資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176126",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(12海域海流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452547617329254400.pdf&filedisplay=79.110年_運技中心_2019年港灣環境資訊網海氣象觀測資料年報(12海域海流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176135",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(中雲海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452551480492953600.pdf&filedisplay=88.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(中雲海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176136",
+      "name": "2019年港灣環境資訊網海氣象觀測資料年報(澎湖海域風浪潮流觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452552141502681088.pdf&filedisplay=89.110年_運輸技術研究中心_2019年港灣環境資訊網海氣象觀測資料年報(澎湖海域風浪潮流觀測資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176140",
+      "name": "2021年港灣海氣象觀測資料統計年報(8港域潮汐觀測資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452831425920241664.pdf&filedisplay=1.111年_運輸技術研究中心_2021年港灣海氣象觀測資料統計年報(8港域觀測潮汐資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174540",
+      "name": "路口交通環境特性對空氣品質影響及改善指引之研訂(1/2)-調查計畫與資料蒐集",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407270920191479808.pdf&filedisplay=4.114年_運輸能源及環境組_路口交通環境特性對空氣品質影響 及改善指引之研訂(1_2)－調查計畫與資料蒐集.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174548",
+      "name": "事故碰撞型態導向之路口交通工程設計範例參考手冊2.0版",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407289437791981568.pdf&filedisplay=11.114年_運輸安全組_事故碰撞型態導向之路口交通工程設計範例參考手冊2.0版.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174529",
+      "name": "2024年臺灣大氣腐蝕劣化因子調查研究資料年報",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407203180806148096.pdf&filedisplay=2.114年_運輸技術研究中心_2024年臺灣大氣腐蝕劣化因子調查研究資料年報.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174632",
+      "name": "共享電動機車對運輸溫室氣體排放影響之研究(2/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408402861028544512.pdf&filedisplay=113-24.113年_運輸能源及環境組_共享電動機車對運輸溫室氣體排放影響之研究(2_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174633",
+      "name": "先進公車智慧化營運管理先導運行計畫(2/2)-整合車載設備之駕駛數位履歷管理系統研發",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408403465973010432.pdf&filedisplay=113-25.113_先進公車智慧化營運管理先導運行計畫(2_2)-整合車載設備之駕駛數位履歷管理系統研發.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174571",
+      "name": "港灣環境資訊系統維護與精進(3/4)–海氣象資料分析及展示",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407657602057244672.pdf&filedisplay=21.114-港灣環境資訊系統維護與精進(3_4)-海氣象資料分析及展示.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174573",
+      "name": "應用影像智慧化技術判釋海岸公路及防波堤越波研究(3/4)-防波堤越波影像判釋",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407658390833860608.pdf&filedisplay=23.114-應用影像智慧化技術判釋海岸公路及防波堤越波研究(3_4)-防波堤越波影像判釋.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174574",
+      "name": "海氣象預測模擬系統之維運與精進(3/4)－精進高雄海域模組",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407659054787989504.pdf&filedisplay=24.114年_運輸技術研究中心_海氣象預測模擬系統之維運與精進(3_4)-精進高雄海域模組.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174575",
+      "name": "商港能見度告警機制探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407659886455558144.pdf&filedisplay=25.114年_運輸技術研究中心_商港能見度告警機制探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174577",
+      "name": "臺灣港群波流觀測資料統計分析及通訊技術精進(1/2)-水中無線通訊設備海域測試",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407660896179720192.pdf&filedisplay=27.114年_運輸技術研究中心_臺灣港群波流觀測資料統計分析及通訊技術精進(1_2)-水中無線通訊設備海域測試.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174578",
+      "name": "臺中港海洋陣列雷達訊號應用分析(2/3)-波浪觀測分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407661548935057408.pdf&filedisplay=28.114年_運輸技術研究中心_臺中港海洋陣列雷達訊號應用分析(2_3)-波浪觀測分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174579",
+      "name": "長週期波斷面模型試驗(2/3)-花蓮港現況碼頭之水動力及改善研究初探",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407662381479235584.pdf&filedisplay=29.114年_運輸技術研究中心_長週期波斷面模型試驗(2_3)-花蓮港現況碼頭之水動力及改善研究初探.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174563",
+      "name": "鼎型塊織布橋基保護工法之現地試驗與成效評估(3/4)-試驗場址數值模型建置及評估",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407653958637326336.pdf&filedisplay=13.114年_運輸技術研究中心_鼎型塊織布橋基保護工法之現地試驗與成效評估(3_4)-試驗場址數值模型建置及評估.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174564",
+      "name": "公路橋梁梁底狹小空間檢測工具專利申請與推廣",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407654489292279808.pdf&filedisplay=14.114年_運輸技術研究中心_公路橋梁梁底狹小空間檢測工具專利申請與推廣.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174615",
+      "name": "國際機場運作模擬分析軟體系統規劃與建置(1/2)-系統規劃設計與軟體單元確立",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408354705381265408.pdf&filedisplay=113-7.113年_運輸工程及海空運組_國際機場運作模擬分析軟體系統規劃與建置(1_2)-系統規劃設計與軟體單元確立.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174619",
+      "name": "ISO 55001國際標準導入鐵道資產管理實務之研究(1/3)-制度架構建立",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408376495079952384.pdf&filedisplay=113-11.113年_運輸經營及管理組_ISO 55001 國際標準導入鐵道資產管理實務之研究(1_3)-制度架構建立.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174621",
+      "name": "無人機偏鄉物流運送服務驗證計畫(1/2)-服務模式規劃與系統發展",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408396768751652864.pdf&filedisplay=113-13.113年_運輸科技及資訊組_無人機偏鄉物流運送服務驗證計畫(1_2)-服務模式規劃與系統發展.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174622",
+      "name": "東臺區域整體運輸規劃系列研究(1/3)-旅次特性調查分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408397215495360512.pdf&filedisplay=113-14.113_東臺區域整體運輸規劃系列研究_1-3_-旅次特性調查分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174623",
+      "name": "我國人工智慧車聯網之號誌控制(1/2)-都會區幹道實作與交流道區域模式發展探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408397857513279488.pdf&filedisplay=113-15.113年_運輸科技及資訊組_我國人工智慧車聯網之號誌控制(1_2)-都會區幹道實作與交流道區域模式發展探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174628",
+      "name": "臺灣地區整體運輸規劃-貨運需求調查與模式建立方法之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408400714748661760.pdf&filedisplay=113-20.113年_運輸計畫及陸運組_臺灣地區整體運輸規劃-貨運需求調查與模式建立方法之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174612",
+      "name": "建立自行車環島、多元及串聯路線之自行車事故分析及改善機制",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1408353181087305728.pdf&filedisplay=113-4.113年_運輸安全組_建立自行車環島、多元及串聯路線之自行車事故分析及改善機制.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176200",
+      "name": "推動我國無人機科技產業發展先期研究規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452933430403665920.pdf&filedisplay=56.111年_運輸科技及資訊組_推動我國無人機科技產業發展先期研究規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176216",
+      "name": "事故碰撞型態導向之路口設計範例推廣示範計畫(2/3)—非直轄市推廣應用(I)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453274569757429760.pdf&filedisplay=1.112年_運輸安全組_事故碰撞型態導向之路口設計範例推廣示範計畫(2_3)—非直轄市推廣應用(I).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176217",
+      "name": "推動通用計程車特約制度(1/2)-系統擴充及跨部會合作策略規劃與執行",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453274892685283328.pdf&filedisplay=2.112年_運輸經營及管理組_推動通用計程車特約制度(1_2)-系統擴充及跨部會合作策略規劃與執行.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176218",
+      "name": "汽車客運業路線別成本計算制度檢討規劃及應用軟體建置計畫(2/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453275271087001600.pdf&filedisplay=3.112年_運輸經營及管理組_汽車客運業路線別成本計算制度檢討規劃及應用軟體建置計畫(2_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176220",
+      "name": "111年電動大客車營運數據監控管理平台維運與移轉",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453277732409446400.pdf&filedisplay=5.112年_運輸科技及資訊組_111年電動大客車營運數據監控管理平台維運與移轉.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176222",
+      "name": "建構運輸部門2050深度減碳評估模型及推動溫室氣體減量(1/2)—模型建構與減碳工作推動",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453278636118380544.pdf&filedisplay=7.112年_運輸能源及環境組_建構運輸部門2050深度減碳評估模型及推動溫室氣體減量(1_2)-模型建構與減碳工作推動.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176223",
+      "name": "推動運輸部門溫室氣體減量事項及深化減碳路徑評估",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453278987127099392.pdf&filedisplay=8.112年_運輸能源及環境組_推動運輸部門溫室氣體減量事項及深化減碳路徑評估.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176224",
+      "name": "構建5G智慧交通數位神經中樞(2/2)－系統雛型開發與驗證實作",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453279356959854592.pdf&filedisplay=9.112年_運輸科技及資訊組_構建5G智慧交通數位神經中樞(2_2)-系統雛型開發與驗證實作.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176225",
+      "name": "應用人工智慧分析技術探勘高風險路段(2/4)—車內異常事件影像辨識技術開發",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453279608467099648.pdf&filedisplay=10.112年_運輸安全組_應用人工智慧分析技術探勘高風險路段(2_4)—車內異常事件影像辨識技術開發.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176226",
+      "name": "鐵路系統供需診斷模式軟體之維護與擴充及策略分析(2/2)-完成軟體維護與擴充及策略分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453279812536766464.pdf&filedisplay=11.112年_運輸工程及海空運組_鐵路系統供需診斷模式軟體之維護與擴充及策略分析(2_2)-完成軟體維護與擴充及策略分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176229",
+      "name": "第40期臺灣地區易肇事路段改善計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453280526822543360.pdf&filedisplay=14.112年_運輸安全組_第40期臺灣地區易肇事路段改善計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176232",
+      "name": "新興科技導入學校交通安全教育之需求評估規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453281276617297920.pdf&filedisplay=17.112年_運輸安全組_新興科技導入學校交通安全教育之需求評估規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176235",
+      "name": "無人機搭配AI影像辨識 應用於橋梁檢測之研究(1/2)- 橋梁劣化構件AI影像辨識之技術開發",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453281978269831168.pdf&filedisplay=20.112年_運輸工程及海空運組_無人機搭配AI影像辨識應用於橋梁檢測之研究(1-2)-橋梁劣化構件AI影像辨.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176237",
+      "name": "探討海上自主水面船舶(MASS)之安全管理現況與未來發展",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453282664357302272.pdf&filedisplay=22.112年_運輸安全組_探討海上自主水面船舶(MASS)之安全管理現況與未來發展.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176238",
+      "name": "應用交通管理策略減少都會區交通空氣污染之研析(2/3): 第2年度交通管理策略意向調查",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453282939998572544.pdf&filedisplay=23.112年_運輸能源及環境組_應用交通管理策略減少都會區交通空氣污染之研析(2_3)－第2年度交通管理策略意向調查.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176239",
+      "name": "共享電動機車對運輸溫室氣體排放影響之研究(1/2)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453283810958381056.pdf&filedisplay=24.112年_運輸能源及環境組_共享電動機車對運輸溫室氣體排放影響之研究(1_2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176240",
+      "name": "小客車租賃業數位轉型發展計畫─ 商業模式設計與數位轉型推動實務",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453284335586119680.pdf&filedisplay=25.112年_運輸經營及管理組_小客車租賃業數位轉型發展計畫──商業模式設計與數位轉型推動實務.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176242",
+      "name": "111年度交通行動服務(MaaS)縣市推廣與督導計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453284964639444992.pdf&filedisplay=27.112年_運輸科技及資訊組_111年度交通行動服務(MaaS)縣市推廣與督導計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176280",
+      "name": "橋梁檢測輔助工具精進之研究(1/2)-研訂橋梁檢測3D影像模型作業程序",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453324774305435648.pdf&filedisplay=6.114年_運輸工程及海空運組_橋梁檢測輔助工具精進之研究(1_2)-研訂橋梁檢測3D 影像模型作業程序.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176281",
+      "name": "城際鐵道容量分析暨應用研究(2/2)-編組站及端末站之容量軟體擴充暨案例實作",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453325159900385280.pdf&filedisplay=5.114年_運輸計畫及陸運組_城際鐵道容量分析暨應用研究(2_2)—編組站及端末站之容量軟體擴充暨案 例實作.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176284",
+      "name": "道安改善專業能力建構",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453326068860588032.pdf&filedisplay=2.114年_運輸安全組_道安改善專業能力建構.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176189",
+      "name": "港區工程基本資料庫移轉建置研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452929522339942400.pdf&filedisplay=45.111年_運輸技術研究中心_港區工程基本資料庫移轉建置研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176196",
+      "name": "110年主要商港風潮觀測與特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452932454842109952.pdf&filedisplay=52.111年_運輸技術研究中心_110 年主要商港風潮觀測與特性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176197",
+      "name": "水波時尺或時頻分析法之比較與應用(4/4)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452932689442115584.pdf&filedisplay=53.111年_運輸技術研究中心_水波時尺或時頻分析法之比較與應用(4_4)The Best Wavelet for Water Waves.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176198",
+      "name": "船舶監控預警系統之應用(2/2)-交通量及事故熱點分析應用模組開發",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452932962214481920.pdf&filedisplay=54.111年_運輸技術研究中心_船舶監控預警系統之應用(2_2)-交通量及事故熱點分析應用模組開發.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176199",
+      "name": "臺中港靜穩度水工試驗暨波浪數值水槽之初步探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452933201117843456.pdf&filedisplay=55.111年_運輸技術研究中心_臺中港靜穩度水工試驗暨波浪數值水槽之初步探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176250",
+      "name": "應用微波雷達技術於臺北港域環境監測之研究(1/4)-微波雷達觀測波流特性分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453287578722635776.pdf&filedisplay=34.112年_運輸技術研究中心_應用微波雷達技術於臺北港域環境監測之研究 (1_4)-微波雷達觀測波流特性分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176251",
+      "name": "多期多尺度影像結合深度學習於邊坡地貌變異判識之初探(1/2)-影像蒐集及辨識演算法架構探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453289838378749952.pdf&filedisplay=35.112年_運輸技術研究中心_多期多尺度影像結合深度學習於邊坡地貌變異判識之初探(1_2)-影像蒐集及辨識演算法架構探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176255",
+      "name": "岬灣海灘造成近岸港口航道淤塞機制分析與調適對策",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453291268338618368.pdf&filedisplay=39.112年_運輸技術研究中心_岬灣海灘造成近岸港口航道淤塞機制分析與調適對策.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176258",
+      "name": "港灣構造物巡查檢測作業精進(1/4)-新興科技應用於巡查檢測作業之探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453292689951821824.pdf&filedisplay=42.112年_運輸技術研究中心_港灣構造物巡查檢測作業精進(1_4)-新興科技應用於巡查檢測作業之探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176172",
+      "name": "以無人機探勘人車流動資訊之應用情境規劃與先導測試(1/3) -建立分年測試計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452917689285611520.pdf&filedisplay=28.111年_運輸安全組_以無人機探勘人車流動資訊之應用情境規劃與先導測試(1_3) -建立分年測試計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176173",
+      "name": "多元公共運輸之輔助運具供需與資訊整合計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452923783089229824.pdf&filedisplay=29.111年_運輸科技及資訊組_多元公共運輸之輔助運具供需與資訊整合計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176175",
+      "name": "臺灣西部近岸港口外廓配置對毗鄰海灘沖淤之影響評估",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452924360405815296.pdf&filedisplay=31.111年_運輸技術研究中心_臺灣西部近岸港口外廓配置對毗鄰海灘沖淤之影響評估.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176183",
+      "name": "公路邊坡場址客製化依時預警系統精進與維護",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1452928058024529920.pdf&filedisplay=39.111年_運輸技術研究中心_公路邊坡場址客製化依時預警系統精進與維護.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176265",
+      "name": "無人機空拍應用於路段交通衝突分析(1/2)-車道交通衝突",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453295079161597952.pdf&filedisplay=21.114年_運輸安全組_無人機空拍應用於路段交通衝突分析(1_2)-車道交通衝突.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176271",
+      "name": "偏鄉交通行動服務MaaS服務範疇界定與推動策略規劃",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453297149595881472.pdf&filedisplay=15.114年_運輸經營及管理組_偏鄉交通行動服務 MaaS 服務範疇界定與推動策略規劃.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176272",
+      "name": "運輸部門淨零排放與溫室氣體減量推動工作暨評估模型強化(1/2)－建構淨零排放評估模型暨評估111年行動方案成效",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1453297558171422720.pdf&filedisplay=14.114年_運輸能源及環境組_運輸部門淨零排放與溫室氣體減量推動工作暨評估模型強化(1_2)－建構淨零排放評估111年行動方案成效.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174836",
+      "name": "2022年港灣海氣象觀測資料統計年報(8港域觀測潮汐資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414550076017086464.pdf&filedisplay=113-54.113年_運輸技術研究中心_2022年港灣海氣象觀測資料統計年報(8港域觀測潮汐資料).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174823",
+      "name": "長週期波斷面模型試驗(1/3)-長週期波水工模型試驗探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414542771238211584.pdf&filedisplay=113-41.113年_運輸技術研究中心_長週期波斷面模型試驗(1_3)-長週期波水工模型試驗探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174830",
+      "name": "智慧航安與海氣象資訊應用探討(2/4)-智慧港口之海氣象觀測應用分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414546724491366400.pdf&filedisplay=113-48.113年_運輸技術研究中心_智慧航安與海氣象資訊應用探討(2_4)-智慧港口之海氣象觀測應用分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174831",
+      "name": "應用倒傳遞類神經網路建置花蓮港碼頭波高預測模式",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414547274456895488.pdf&filedisplay=113-49.113年_運輸技術研究中心_應用倒傳遞類神經網路建置花蓮港碼頭波高預測模式.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174833",
+      "name": "臺中港海洋陣列雷達訊號應用分析(1/3)-表面流觀測分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414549088170414080.pdf&filedisplay=113-51.113年_運輸技術研究中心_臺中港海洋陣列雷達訊號應用分析(1_3)-表面流觀測分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174819",
+      "name": "海氣象預測模擬系統之維運與精進(2/4)－建置高雄海域模組",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414540130823180288.pdf&filedisplay=113-37.113年_運輸技術研究中心_海氣象預測模擬系統之維運與精進(2_4)-建置高雄海域模組.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174820",
+      "name": "花蓮海域風浪模組模擬參數調校探討",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1414541364019859456.pdf&filedisplay=113-38.113年_運輸技術研究中心_花蓮海域風浪模組模擬參數調校探討.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176031",
+      "name": "高雄港洲際貨櫃中心聯外交通改善策略之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450777991306022912.pdf&filedisplay=3.110年_運技中心_高雄港洲際貨櫃中心聯外交通改善策略之研究.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176032",
+      "name": "南臺區域整體運輸規劃系列研究(2/2)－供需預測及發展策略分析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450778299490897920.pdf&filedisplay=4.110年_運輸計畫及陸運組_南臺區域整體運輸規劃系列研究(2_2)－供需預測及發展策略分析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "176037",
+      "name": "汽車運輸業參與溫室氣體抵換專案之研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1450779914511847424.pdf&filedisplay=8.110年_運輸能源及環境組_汽車運輸業參與溫室氣體抵換專案之研究.pdf&flag=doc"
+      ]
+    }
+  ]
+}

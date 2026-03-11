@@ -1,0 +1,47 @@
+{
+  "type": "dataset",
+  "provider": "衛生福利部醫事司",
+  "slug": "mohw_gov_tw_4695d0e3",
+  "datasets": [
+    {
+      "id": "15393",
+      "name": "醫療機構與人員基本資料",
+      "format": "ods",
+      "urls": [
+        "https://www.mohw.gov.tw/dl-96581-66dbb751-f83a-416a-a998-893222e20fef.html"
+      ]
+    },
+    {
+      "id": "12063",
+      "name": "AED位置資訊 ",
+      "format": "csv",
+      "urls": [
+        "https://tw-aed.mohw.gov.tw/openData?t=csv"
+      ]
+    },
+    {
+      "id": "8582",
+      "name": "113年度醫院評鑑基準及評量項目",
+      "format": "pdf",
+      "urls": [
+        "https://www.mohw.gov.tw/dl-88389-3f868427-93aa-4cf6-88af-de6e1b3a2990.html"
+      ]
+    },
+    {
+      "id": "8583",
+      "name": "113年度教學醫院評鑑基準及評量項目",
+      "format": "pdf",
+      "urls": [
+        "https://www.mohw.gov.tw/dl-88387-8a93e9b6-fa64-4c8d-bd6b-6bed291fe648.html"
+      ]
+    },
+    {
+      "id": "8584",
+      "name": "113年度兒童醫院評鑑基準及評量項目",
+      "format": "pdf",
+      "urls": [
+        "https://www.mohw.gov.tw/dl-88757-dcdfc185-d4c3-41aa-b32a-36d4cc545f3f.html"
+      ]
+    }
+  ]
+}

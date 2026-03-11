@@ -1,0 +1,465 @@
+{
+  "type": "dataset",
+  "provider": "臺北市公共運輸處",
+  "slug": "data_taipei_59c13be9",
+  "datasets": [
+    {
+      "id": "128707",
+      "name": "臺北市車機異常資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ad5c0c55-bfee-4211-be1a-00f938e1bcec/resource/86ed7c4a-7a1e-456e-83c4-324e75ffb4c1/download"
+      ]
+    },
+    {
+      "id": "128708",
+      "name": "臺北市車輛基本資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/e1281862-c974-49ca-837e-77f4074e32eb/resource/cd862b68-4e97-4cb1-9972-86a48d77fb3a/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstCarInfo.json"
+      ]
+    },
+    {
+      "id": "128743",
+      "name": "臺北市站牌",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/62bc76da-6e6b-46ee-8976-c1945092d504/resource/8ddf973e-c1c3-4107-8742-c6417a6fcac2/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstStop.json"
+      ]
+    },
+    {
+      "id": "128940",
+      "name": "臺北市智慧型站牌所屬路線",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/e2ad1cbb-f7aa-4d3c-82d0-d770a7581d7f/resource/8adff40f-88ea-4cdf-8b71-2c2182f1fde0/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstIStopPath.json"
+      ]
+    },
+    {
+      "id": "121156",
+      "name": "臺北市公車站牌位置圖",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/48aa5bca-2a4f-4fb7-a658-43cba51d5d56/resource/dfd68d8e-d3b9-44df-b614-8850c103239f/download"
+      ]
+    },
+    {
+      "id": "128988",
+      "name": "新北市定點車機資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/8c0351fd-37e2-4712-8771-c89f3b090e36/resource/c1e49483-3869-4229-8d4e-b2b66c75af14/download"
+      ]
+    },
+    {
+      "id": "128991",
+      "name": "新北市車機異常資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/7873a48e-eb30-420b-bb32-ed1fa6868272/resource/70d8c348-3c43-4c20-bf9d-7965d7628aba/download"
+      ]
+    },
+    {
+      "id": "129022",
+      "name": "新北市路線",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1f5998d2-d9e4-4d9f-8cbb-fe2d29b99c3c/resource/38b0e97b-26d7-43f3-8bcf-e5bf4b16fa06/download"
+      ]
+    },
+    {
+      "id": "129028",
+      "name": "臺北市預定班表資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/7f284567-cbaa-4153-a289-9ce10820b06c/resource/18572f88-dbf8-4c61-bf3d-86067d5bdfdf/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstTimeTable.json"
+      ]
+    },
+    {
+      "id": "129032",
+      "name": "臺北市業者營運基本資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/33a7cd78-cf37-45bd-92b0-1f0d97339ff0/resource/1ea82e23-3241-4cc7-a0c5-1ed1d4955c2f/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstProvider.json"
+      ]
+    },
+    {
+      "id": "129014",
+      "name": "新北市機動班次時刻表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/c16d185e-ba3c-4eaa-be92-51fca0e3a364/resource/47dc2f74-3bd3-4333-9de5-f5a21c5da139/download"
+      ]
+    },
+    {
+      "id": "129015",
+      "name": "新北市路線及營業站對應",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/73123fbd-f9fa-4f5b-83de-af36b10c063d/resource/81104c76-c972-41f2-8de8-6513d12891f8/download"
+      ]
+    },
+    {
+      "id": "129017",
+      "name": "新北市智慧型站牌",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1155ff0c-453f-4849-b80e-7b66d19835b7/resource/2767b505-607f-493d-82fd-61bc73ccafcd/download"
+      ]
+    },
+    {
+      "id": "129018",
+      "name": "新北市智慧型站牌所屬路線",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/fa9acdf6-6ba5-4127-a221-671eea99a3ec/resource/2009eb51-fa89-4d8d-aa63-b9d66315c8d3/download"
+      ]
+    },
+    {
+      "id": "130057",
+      "name": "大臺北公車最新消息",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/12e55747-ea2e-4cd0-8ad9-3a9e0eb1d252/resource/9ea7635f-99c1-492b-b3c0-c292f4aedb2b/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstLatestNews.json",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstBusNewsList.xml"
+      ]
+    },
+    {
+      "id": "142915",
+      "name": "臺北市雙層觀光巴士月運量資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3e524f15-9ea7-461a-ae9f-9130b6e12840/resource/cc8ac0bd-af2d-4af3-ae10-018e3b400e0b/download"
+      ]
+    },
+    {
+      "id": "160177",
+      "name": "新北市公車路線票價",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/2ee92938-2aa7-481c-b56e-50d29eeffbd2/resource/9d040799-872c-4df3-96e1-1572881f5a79/download"
+      ]
+    },
+    {
+      "id": "160167",
+      "name": "臺北市公車路線軌跡",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/efad90af-4bbe-4c6a-ac60-06f3e52d8a97/resource/f3246e89-3579-470b-8034-085576bead32/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstBusShape.json"
+      ]
+    },
+    {
+      "id": "135523",
+      "name": "臺北市提供兒童座椅、通用及多元化計程車清單",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/53f2dade-75fd-46be-85d6-cea045f5f233/resource/3bd03b40-2d7e-44cd-a0c9-b2c2a19d4127/download"
+      ]
+    },
+    {
+      "id": "135526",
+      "name": "臺北市計程車運價",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a4ed45cc-bf8f-488b-b12e-3d362927a77b/resource/36917dec-ff62-408d-be4c-d62a83ac2d2a/download"
+      ]
+    },
+    {
+      "id": "135528",
+      "name": "臺北市計程車客運業數量",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/de4e641b-7651-4ca0-81a1-1083ed78fddc/resource/2752eb7c-9e1f-497d-a4e2-2561d4270faf/download"
+      ]
+    },
+    {
+      "id": "135529",
+      "name": "臺北市計程車共乘相關資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/dc4257ed-2e80-4eb3-9bc6-d467cf9db79c/resource/5581b9dc-e27a-424b-8a6b-ce967e6f8d20/download"
+      ]
+    },
+    {
+      "id": "132514",
+      "name": "臺北市市區公車肇事資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/06afe8c7-37a0-4584-879e-a8da5b03c59d/resource/84bb6577-ba08-4eea-b64b-bc05e4b80cf5/download"
+      ]
+    },
+    {
+      "id": "175726",
+      "name": "臺北市公車車上擁擠度",
+      "format": "json",
+      "urls": [
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstBusSeatEvent.json"
+      ]
+    },
+    {
+      "id": "128740",
+      "name": "臺北市站位資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ce7d3d2b-096f-4f2d-b7cf-cdd6a529f35c/resource/a3677de6-5da8-47e9-8cbb-b991c5b429e5/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstStopLocation.json"
+      ]
+    },
+    {
+      "id": "128741",
+      "name": "臺北市附屬路線與路線對應資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/174d780f-6e87-45d8-b779-c608c6f01432/resource/09774877-93ef-4a0b-b321-31422c9fb434/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstPathDetail.json"
+      ]
+    },
+    {
+      "id": "128710",
+      "name": "臺北市定時車機資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/c84f781f-02e7-45a4-84c2-0fc690749f66/resource/2a54b4be-1a18-4aea-9574-1dd0c21c56ec/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstBusData.json"
+      ]
+    },
+    {
+      "id": "128987",
+      "name": "新北市站位資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ae7cef90-6dfe-4fad-ad01-43113e924150/resource/d0733b29-23b0-4f29-a68e-31684b566fbf/download"
+      ]
+    },
+    {
+      "id": "128992",
+      "name": "新北市附屬路線與路線對應資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/2a8f5f42-942c-4974-8366-b44e90ad9701/resource/538ec6cc-5396-48cd-8c08-4a3af8e30a30/download"
+      ]
+    },
+    {
+      "id": "129021",
+      "name": "新北市站牌",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/010244b7-c4ed-4b03-9436-c6cbe634d483/resource/421236ea-6b37-4c26-9a4d-bea159c133a7/download"
+      ]
+    },
+    {
+      "id": "129025",
+      "name": "臺北市預估到站時間(公車)",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/f11a5af0-7b37-48ef-98cc-f6f102ed43c6/resource/2749b84d-a09c-4c03-a7ff-710e7ebf209c/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstEstimateTime.json"
+      ]
+    },
+    {
+      "id": "129027",
+      "name": "臺北市機動班次時刻表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3e9f580d-ef7d-4389-939f-e93f7b9af535/resource/aca87c13-aa35-4e69-b607-1d1cb2f8d915/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstSemiTimeTable.json"
+      ]
+    },
+    {
+      "id": "129016",
+      "name": "新北市預估到站時間",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1e26ecf6-d5b4-494b-b94f-bee64938dd64/resource/5e2833af-03b7-4bd0-b5c9-a10de2fea147/download"
+      ]
+    },
+    {
+      "id": "121562",
+      "name": "街道家具候車亭廣告資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/2ed9ecfe-83ef-4443-8776-a3db8be3d7c5/resource/f1995ee7-6261-4104-bc56-e264c8bc358f/download"
+      ]
+    },
+    {
+      "id": "121971",
+      "name": "電動公車",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/825b6722-28f8-4a84-8022-6d3454bd8942/resource/099332d8-690e-499b-99a9-1bbfaf065258/download"
+      ]
+    },
+    {
+      "id": "134597",
+      "name": "計程車招呼站",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a0cf5e08-2b46-46be-aaa6-ac894b439156/resource/2e57ee8c-ce7a-42b3-9993-f9171b7c3228/download"
+      ]
+    },
+    {
+      "id": "135521",
+      "name": "公車票證交易量",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/b5151c71-fb95-4a74-b65b-ed62f5bbcd8a/resource/ed234f39-cb8a-48c9-95cd-7a889c8feb6f/download"
+      ]
+    },
+    {
+      "id": "135527",
+      "name": "聯營公車行車效率",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/228985ae-9f28-4f63-85b3-38199359c938/resource/e2c9ef31-5fa3-400b-b4ea-1f35e1234cb2/download"
+      ]
+    },
+    {
+      "id": "160166",
+      "name": "臺北市公車結構性票價資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/651f6f05-074c-4f7a-a9cf-a367c32aa60b/resource/05856a0d-a284-49c4-9dca-b906d04650b0/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstBusRouteFareList.xml"
+      ]
+    },
+    {
+      "id": "121443",
+      "name": "小型復康巴士電話訂車統計數據",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/6e93fe44-8ba7-4980-bf9b-a19cf4d16a79/resource/5761ba6d-b1c7-4597-93a2-bae328c41ce5/download"
+      ]
+    },
+    {
+      "id": "121444",
+      "name": "無障礙計程車營運數據",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/66f1559e-d994-40e8-ac7f-96b108fff006/resource/86f5eca2-a55e-487a-ae97-c6cd5e93453c/download"
+      ]
+    },
+    {
+      "id": "121672",
+      "name": "臺北市派遣計程車業者資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a06b107d-ea37-4f78-92d2-f3c0fd7dc089/resource/96aa53d6-7120-4e7e-bb93-05493844b31f/download"
+      ]
+    },
+    {
+      "id": "134668",
+      "name": "計程車服務品質評鑑計畫",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/15189916-6987-4fcb-b6f5-2c542bbc5dac/resource/c962938c-de25-4daf-b6ce-75913b8e8300/download"
+      ]
+    },
+    {
+      "id": "135522",
+      "name": "轉運站資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/78d3bc44-f897-49b6-8294-a1bf3966f648/resource/b857c906-aaf6-4747-8233-6f39ba8b8718/download"
+      ]
+    },
+    {
+      "id": "128068",
+      "name": "智慧型站牌",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/6535d6cc-aabc-405c-9167-58a1d32823b9/resource/3470a161-f06a-4836-8e01-44ed21aa7a58/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstIStop.json"
+      ]
+    },
+    {
+      "id": "136491",
+      "name": "營運通阻",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ae3023be-9fe6-4a9c-9f44-c36242be4146/resource/37a682ec-9bf1-42b0-a639-f2986171f469/download"
+      ]
+    },
+    {
+      "id": "160176",
+      "name": "新北市公車路線軌跡",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/5486a878-41b5-473f-944f-9bb9605b299b/resource/ea6d637b-c3b2-457f-b616-10e8b7bd7c29/download"
+      ]
+    },
+    {
+      "id": "128739",
+      "name": "臺北市定點車機資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/09672da0-772a-4bf2-9340-587941f958c5/resource/3773ad43-0662-4b23-81a3-753ebfe6dafe/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstBusEvent.json"
+      ]
+    },
+    {
+      "id": "128989",
+      "name": "新北市車輛基本資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/dac7bcd9-c1d2-43ea-8d2d-546ae5de2853/resource/33ebcd27-de27-4565-be76-bbe103c08c03/download"
+      ]
+    },
+    {
+      "id": "128990",
+      "name": "新北市定時車機資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/b410f673-f17b-432b-9fea-26b93dd0aeeb/resource/2ebaa391-6783-4ff0-a717-3409aab38bbc/download"
+      ]
+    },
+    {
+      "id": "129020",
+      "name": "新北市預定班表資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/26cc48f3-9896-4218-bdcf-17b9be82cdd1/resource/d2501cc6-d37a-47ab-b967-5b74def32078/download"
+      ]
+    },
+    {
+      "id": "129024",
+      "name": "臺北市路線",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/6a03b03d-90d1-4d9e-a952-c940fd869772/resource/f62256e9-7175-4a70-b032-6d960c472e46/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstRoute.json"
+      ]
+    },
+    {
+      "id": "129026",
+      "name": "臺北市路線及營業站對應",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/2181b885-02da-4124-a673-3ca6546c1f1d/resource/05d6b724-249e-45be-a287-d2698c7957d7/download",
+        "https://tcgbusfs.blob.core.windows.net/blobbus/TstOrgPathAttribute.json"
+      ]
+    },
+    {
+      "id": "129019",
+      "name": "新北市業者營運基本資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1d6ddc52-4927-4cd5-96f3-a177abc9f654/resource/7679744e-6cd8-4e94-a6dd-1a0475570daa/download"
+      ]
+    },
+    {
+      "id": "176091",
+      "name": "臺北市公車特殊時刻表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/5f8c170a-d5e3-498d-a998-43ccc266c613/resource/8f99e75c-218f-4969-96a0-7ef93c8577ae/download"
+      ]
+    }
+  ]
+}

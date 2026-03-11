@@ -1,0 +1,518 @@
+{
+  "type": "dataset",
+  "provider": "金門縣地政局",
+  "slug": "ws_kinmen_gov_tw_66ee719e",
+  "datasets": [
+    {
+      "id": "115825",
+      "name": "109年金門縣公告地價-金城鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5b56cecf-4a64-4fc4-83b6-b97889c8a2de.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5b56cecf-4a64-4fc4-83b6-b97889c8a2de.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5b56cecf-4a64-4fc4-83b6-b97889c8a2de.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5b56cecf-4a64-4fc4-83b6-b97889c8a2de.xlsx"
+      ]
+    },
+    {
+      "id": "115841",
+      "name": "109年金門縣公告土地現值-金湖鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e4ffa780-c27b-45a5-83d5-5f0501b0a3bb.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e4ffa780-c27b-45a5-83d5-5f0501b0a3bb.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e4ffa780-c27b-45a5-83d5-5f0501b0a3bb.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e4ffa780-c27b-45a5-83d5-5f0501b0a3bb.xlsx"
+      ]
+    },
+    {
+      "id": "115843",
+      "name": "109年金門縣公告土地現值-烈嶼鄉-烏坵鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/02b53733-764a-47ee-b34d-ad200647265d.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/02b53733-764a-47ee-b34d-ad200647265d.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/02b53733-764a-47ee-b34d-ad200647265d.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/02b53733-764a-47ee-b34d-ad200647265d.xlsx"
+      ]
+    },
+    {
+      "id": "139693",
+      "name": "110年金門縣公告土地現值-金湖鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5c1227f0-c69f-4549-a022-33bda5023531.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5c1227f0-c69f-4549-a022-33bda5023531.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5c1227f0-c69f-4549-a022-33bda5023531.json"
+      ]
+    },
+    {
+      "id": "139694",
+      "name": "110年金門縣公告土地現值-金沙鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/9c7038bd-2f89-4bb3-8453-4b13ca43085c.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/9c7038bd-2f89-4bb3-8453-4b13ca43085c.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/9c7038bd-2f89-4bb3-8453-4b13ca43085c.json"
+      ]
+    },
+    {
+      "id": "139697",
+      "name": "110年金門縣公告土地現值-烈嶼鄉-烏坵鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/816a98c0-8e4c-424a-8801-f6a967bc5101.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/816a98c0-8e4c-424a-8801-f6a967bc5101.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/816a98c0-8e4c-424a-8801-f6a967bc5101.json"
+      ]
+    },
+    {
+      "id": "149012",
+      "name": "111年金門縣公告土地現值-金湖鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/98114b1c-ada5-446a-bf90-02f91b0ed239.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/98114b1c-ada5-446a-bf90-02f91b0ed239.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/98114b1c-ada5-446a-bf90-02f91b0ed239.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/98114b1c-ada5-446a-bf90-02f91b0ed239.xlsx"
+      ]
+    },
+    {
+      "id": "149013",
+      "name": "111年金門縣公告土地現值-金沙鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fbd5512c-bdbf-4047-bd5c-2088bb7adaab.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fbd5512c-bdbf-4047-bd5c-2088bb7adaab.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fbd5512c-bdbf-4047-bd5c-2088bb7adaab.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fbd5512c-bdbf-4047-bd5c-2088bb7adaab.xlsx"
+      ]
+    },
+    {
+      "id": "149017",
+      "name": "111年金門縣公告土地現值-烈嶼鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/90531b23-b0c6-47a3-92e5-965129903cc2.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/90531b23-b0c6-47a3-92e5-965129903cc2.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/90531b23-b0c6-47a3-92e5-965129903cc2.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/90531b23-b0c6-47a3-92e5-965129903cc2.xlsx"
+      ]
+    },
+    {
+      "id": "167097",
+      "name": "113年金門縣公告地價-烈嶼鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/1e7500eb-164b-403b-9b0c-564a583ff468.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/1e7500eb-164b-403b-9b0c-564a583ff468.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/1e7500eb-164b-403b-9b0c-564a583ff468.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/1e7500eb-164b-403b-9b0c-564a583ff468.xlsx"
+      ]
+    },
+    {
+      "id": "167082",
+      "name": "113年金門縣公告土地現值-金寧鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/188aa541-ace6-4ba9-ad71-02dc87ba492a.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/188aa541-ace6-4ba9-ad71-02dc87ba492a.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/188aa541-ace6-4ba9-ad71-02dc87ba492a.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/188aa541-ace6-4ba9-ad71-02dc87ba492a.xlsx"
+      ]
+    },
+    {
+      "id": "107089",
+      "name": "108年金門縣公告土地現值",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/6140b433-7278-4139-8fd6-4c6d6b77a78d.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/6140b433-7278-4139-8fd6-4c6d6b77a78d.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/6140b433-7278-4139-8fd6-4c6d6b77a78d.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/6140b433-7278-4139-8fd6-4c6d6b77a78d.xls"
+      ]
+    },
+    {
+      "id": "115884",
+      "name": "109年金門縣公告土地現值-金沙鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/29ddf090-4042-469e-855e-0cc2024b2cc9.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/29ddf090-4042-469e-855e-0cc2024b2cc9.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/29ddf090-4042-469e-855e-0cc2024b2cc9.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/29ddf090-4042-469e-855e-0cc2024b2cc9.xls"
+      ]
+    },
+    {
+      "id": "115824",
+      "name": "109年金門縣公告地價-金沙鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/db28418c-9a19-42dc-8c62-bf1d54ecb75e.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/db28418c-9a19-42dc-8c62-bf1d54ecb75e.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/db28418c-9a19-42dc-8c62-bf1d54ecb75e.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/db28418c-9a19-42dc-8c62-bf1d54ecb75e.xls"
+      ]
+    },
+    {
+      "id": "115828",
+      "name": "109年金門縣公告地價-烈嶼鄉-烏坵鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/09d8c5c1-8af8-44c4-9eea-e1a000d2c771.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/09d8c5c1-8af8-44c4-9eea-e1a000d2c771.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/09d8c5c1-8af8-44c4-9eea-e1a000d2c771.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/09d8c5c1-8af8-44c4-9eea-e1a000d2c771.xls"
+      ]
+    },
+    {
+      "id": "115854",
+      "name": "109年金門縣公告地價-金湖鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f4faeb06-03eb-4c0e-bee3-2eac95f66648.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f4faeb06-03eb-4c0e-bee3-2eac95f66648.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f4faeb06-03eb-4c0e-bee3-2eac95f66648.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f4faeb06-03eb-4c0e-bee3-2eac95f66648.xls"
+      ]
+    },
+    {
+      "id": "167081",
+      "name": "113年金門縣公告土地現值-烈嶼鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/9bf2601f-b808-466a-885e-ba55c4096182.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/9bf2601f-b808-466a-885e-ba55c4096182.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/9bf2601f-b808-466a-885e-ba55c4096182.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/9bf2601f-b808-466a-885e-ba55c4096182.xlsx"
+      ]
+    },
+    {
+      "id": "167085",
+      "name": "113年金門縣公告土地現值-金城鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f434287d-6d0b-4317-b56a-a5ff383c6279.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f434287d-6d0b-4317-b56a-a5ff383c6279.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f434287d-6d0b-4317-b56a-a5ff383c6279.json"
+      ]
+    },
+    {
+      "id": "167086",
+      "name": "113年金門縣公告土地現值-金湖鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/a0ebc597-1877-4713-8c60-14154335f39d.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/a0ebc597-1877-4713-8c60-14154335f39d.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/a0ebc597-1877-4713-8c60-14154335f39d.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/a0ebc597-1877-4713-8c60-14154335f39d.xlsx"
+      ]
+    },
+    {
+      "id": "167092",
+      "name": "113年金門縣公告地價-金城鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fe084fb2-6817-4ba8-8ddd-e3b9a7f625fe.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fe084fb2-6817-4ba8-8ddd-e3b9a7f625fe.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fe084fb2-6817-4ba8-8ddd-e3b9a7f625fe.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fe084fb2-6817-4ba8-8ddd-e3b9a7f625fe.xlsx"
+      ]
+    },
+    {
+      "id": "167096",
+      "name": "113年金門縣公告地價-金寧鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/649d7911-0a19-4c16-8c0f-0507eaf60253.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/649d7911-0a19-4c16-8c0f-0507eaf60253.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/649d7911-0a19-4c16-8c0f-0507eaf60253.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/649d7911-0a19-4c16-8c0f-0507eaf60253.xlsx"
+      ]
+    },
+    {
+      "id": "139695",
+      "name": "110年金門縣公告土地現值-金城鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/b39cdf52-3ab0-4377-bf2c-c9dc64243cfe.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/b39cdf52-3ab0-4377-bf2c-c9dc64243cfe.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/b39cdf52-3ab0-4377-bf2c-c9dc64243cfe.json"
+      ]
+    },
+    {
+      "id": "139696",
+      "name": "110年金門縣公告土地現值-金寧鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/89908c2d-0517-457b-bbd0-855052ad3a82.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/89908c2d-0517-457b-bbd0-855052ad3a82.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/89908c2d-0517-457b-bbd0-855052ad3a82.json"
+      ]
+    },
+    {
+      "id": "160432",
+      "name": "112年金門縣公告土地現值-烈嶼鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/07aba6c3-e7f6-4426-9aad-41f6505abdd9.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/07aba6c3-e7f6-4426-9aad-41f6505abdd9.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/07aba6c3-e7f6-4426-9aad-41f6505abdd9.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/07aba6c3-e7f6-4426-9aad-41f6505abdd9.xlsx"
+      ]
+    },
+    {
+      "id": "160434",
+      "name": "112年金門縣公告土地現值-金湖鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f4a7b444-723c-4ee7-b617-ed3651c6beb7.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f4a7b444-723c-4ee7-b617-ed3651c6beb7.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f4a7b444-723c-4ee7-b617-ed3651c6beb7.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f4a7b444-723c-4ee7-b617-ed3651c6beb7.xlsx"
+      ]
+    },
+    {
+      "id": "160435",
+      "name": "112年金門縣公告土地現值-金城鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fc1a4255-20ea-4faf-b732-cee5af45bad1.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fc1a4255-20ea-4faf-b732-cee5af45bad1.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fc1a4255-20ea-4faf-b732-cee5af45bad1.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fc1a4255-20ea-4faf-b732-cee5af45bad1.xlsx"
+      ]
+    },
+    {
+      "id": "149016",
+      "name": "111年金門縣公告土地現值-金寧鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f7a5bc10-07e2-4c2b-ad5b-e66d6e9c8786.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f7a5bc10-07e2-4c2b-ad5b-e66d6e9c8786.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f7a5bc10-07e2-4c2b-ad5b-e66d6e9c8786.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f7a5bc10-07e2-4c2b-ad5b-e66d6e9c8786.xlsx"
+      ]
+    },
+    {
+      "id": "149019",
+      "name": "111年金門縣公告地價-金湖鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/18a8699d-cca5-410e-9531-da668f7dbef1.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/18a8699d-cca5-410e-9531-da668f7dbef1.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/18a8699d-cca5-410e-9531-da668f7dbef1.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/18a8699d-cca5-410e-9531-da668f7dbef1.xlsx"
+      ]
+    },
+    {
+      "id": "149023",
+      "name": "111年金門縣公告地價-烈嶼鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/01295369-cdfe-460f-9fbb-07d5d4b0c5c1.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/01295369-cdfe-460f-9fbb-07d5d4b0c5c1.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/01295369-cdfe-460f-9fbb-07d5d4b0c5c1.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/01295369-cdfe-460f-9fbb-07d5d4b0c5c1.xlsx"
+      ]
+    },
+    {
+      "id": "149024",
+      "name": "111年金門縣公告地價-烏坵鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f948737b-d500-4dbf-a20d-dad3699a18a5.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f948737b-d500-4dbf-a20d-dad3699a18a5.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f948737b-d500-4dbf-a20d-dad3699a18a5.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f948737b-d500-4dbf-a20d-dad3699a18a5.xlsx"
+      ]
+    },
+    {
+      "id": "176398",
+      "name": "115年金門縣公告地價",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f3f9eba5-1e71-46ac-9a20-9f7c0b95c979.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f3f9eba5-1e71-46ac-9a20-9f7c0b95c979.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f3f9eba5-1e71-46ac-9a20-9f7c0b95c979.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f3f9eba5-1e71-46ac-9a20-9f7c0b95c979.xlsx"
+      ]
+    },
+    {
+      "id": "149018",
+      "name": "111年金門縣公告土地現值-烏坵鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/ae06a14e-c096-4911-9ef6-49fb431f692b.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/ae06a14e-c096-4911-9ef6-49fb431f692b.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/ae06a14e-c096-4911-9ef6-49fb431f692b.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/ae06a14e-c096-4911-9ef6-49fb431f692b.xlsx"
+      ]
+    },
+    {
+      "id": "149020",
+      "name": "111年金門縣公告地價-金沙鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/c7f7594f-f9f5-45ec-83d2-6eca9f6b7399.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/c7f7594f-f9f5-45ec-83d2-6eca9f6b7399.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/c7f7594f-f9f5-45ec-83d2-6eca9f6b7399.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/c7f7594f-f9f5-45ec-83d2-6eca9f6b7399.xlsx"
+      ]
+    },
+    {
+      "id": "149021",
+      "name": "111年金門縣公告地價-金城鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/269701db-a9e2-4edd-a7fd-51040fd2b6d0.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/269701db-a9e2-4edd-a7fd-51040fd2b6d0.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/269701db-a9e2-4edd-a7fd-51040fd2b6d0.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/269701db-a9e2-4edd-a7fd-51040fd2b6d0.xlsx"
+      ]
+    },
+    {
+      "id": "149022",
+      "name": "111年金門縣公告地價-金寧鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/b81d488d-4837-4234-bf16-9304e8055f1d.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/b81d488d-4837-4234-bf16-9304e8055f1d.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/b81d488d-4837-4234-bf16-9304e8055f1d.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/b81d488d-4837-4234-bf16-9304e8055f1d.xlsx"
+      ]
+    },
+    {
+      "id": "167091",
+      "name": "113年金門縣公告地價-金沙鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/2770adb6-7cc1-4671-a31a-d2db8a230315.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/2770adb6-7cc1-4671-a31a-d2db8a230315.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/2770adb6-7cc1-4671-a31a-d2db8a230315.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/2770adb6-7cc1-4671-a31a-d2db8a230315.xlsx"
+      ]
+    },
+    {
+      "id": "167095",
+      "name": "113年金門縣公告地價-金湖鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/ce370009-1220-4306-9c6a-acd45389d5b8.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/ce370009-1220-4306-9c6a-acd45389d5b8.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/ce370009-1220-4306-9c6a-acd45389d5b8.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/ce370009-1220-4306-9c6a-acd45389d5b8.xlsx"
+      ]
+    },
+    {
+      "id": "167098",
+      "name": "113年金門縣公告地價-烏坵鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/c269b9a8-96a3-47a8-b098-ecb6b1c95a2a.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/c269b9a8-96a3-47a8-b098-ecb6b1c95a2a.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/c269b9a8-96a3-47a8-b098-ecb6b1c95a2a.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/c269b9a8-96a3-47a8-b098-ecb6b1c95a2a.xlsx"
+      ]
+    },
+    {
+      "id": "167238",
+      "name": "113年金門縣公告土地現值-金沙鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fd5832cc-edb4-4bdd-a47c-573f0eee683a.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fd5832cc-edb4-4bdd-a47c-573f0eee683a.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fd5832cc-edb4-4bdd-a47c-573f0eee683a.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/fd5832cc-edb4-4bdd-a47c-573f0eee683a.xlsx"
+      ]
+    },
+    {
+      "id": "160431",
+      "name": "112年金門縣公告土地現值-烏坵鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5e9cf7d9-3030-442e-b673-10b92e52bc9e.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5e9cf7d9-3030-442e-b673-10b92e52bc9e.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5e9cf7d9-3030-442e-b673-10b92e52bc9e.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/5e9cf7d9-3030-442e-b673-10b92e52bc9e.xlsx"
+      ]
+    },
+    {
+      "id": "160433",
+      "name": "112年金門縣公告土地現值-金寧鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/d584bf9a-2bbc-446a-9da2-1483878bbcbe.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/d584bf9a-2bbc-446a-9da2-1483878bbcbe.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/d584bf9a-2bbc-446a-9da2-1483878bbcbe.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/d584bf9a-2bbc-446a-9da2-1483878bbcbe.xlsx"
+      ]
+    },
+    {
+      "id": "161246",
+      "name": "112年金門縣公告土地現值-金沙鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/68f96c0d-fe1f-445d-8615-cf057c979a54.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/68f96c0d-fe1f-445d-8615-cf057c979a54.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/68f96c0d-fe1f-445d-8615-cf057c979a54.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/68f96c0d-fe1f-445d-8615-cf057c979a54.xlsx"
+      ]
+    },
+    {
+      "id": "115827",
+      "name": "109年金門縣公告地價-金寧鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/a66294ab-e8a3-49ee-90c8-8e310d1c3300.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/a66294ab-e8a3-49ee-90c8-8e310d1c3300.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/a66294ab-e8a3-49ee-90c8-8e310d1c3300.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/a66294ab-e8a3-49ee-90c8-8e310d1c3300.xls"
+      ]
+    },
+    {
+      "id": "115840",
+      "name": "109年金門縣公告土地現值-金城鎮",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e6575a3a-fe36-445f-8157-a555a02227e3.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e6575a3a-fe36-445f-8157-a555a02227e3.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e6575a3a-fe36-445f-8157-a555a02227e3.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e6575a3a-fe36-445f-8157-a555a02227e3.xlsx"
+      ]
+    },
+    {
+      "id": "115842",
+      "name": "109年金門縣公告土地現值-金寧鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/12149aaa-e2cb-4db8-b0e1-edfba0ec76a7.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/12149aaa-e2cb-4db8-b0e1-edfba0ec76a7.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/12149aaa-e2cb-4db8-b0e1-edfba0ec76a7.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/12149aaa-e2cb-4db8-b0e1-edfba0ec76a7.xls"
+      ]
+    },
+    {
+      "id": "167079",
+      "name": "113年金門縣公告土地現值-烏坵鄉",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e7f17752-7dfe-436b-8ff6-3e3455a8f57f.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e7f17752-7dfe-436b-8ff6-3e3455a8f57f.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e7f17752-7dfe-436b-8ff6-3e3455a8f57f.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/e7f17752-7dfe-436b-8ff6-3e3455a8f57f.xlsx"
+      ]
+    },
+    {
+      "id": "176412",
+      "name": "115年金門縣公告土地現值",
+      "format": "xml",
+      "urls": [
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/461a14b3-7a29-40da-bf9e-8d7f14a50ba3.xml",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/461a14b3-7a29-40da-bf9e-8d7f14a50ba3.csv",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/461a14b3-7a29-40da-bf9e-8d7f14a50ba3.json",
+        "https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/461a14b3-7a29-40da-bf9e-8d7f14a50ba3.xlsx"
+      ]
+    }
+  ]
+}

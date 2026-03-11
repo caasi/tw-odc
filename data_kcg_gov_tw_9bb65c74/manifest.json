@@ -1,0 +1,660 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府工務局",
+  "slug": "data_kcg_gov_tw_9bb65c74",
+  "datasets": [
+    {
+      "id": "104498",
+      "name": "工務局公園處路燈資訊(阿蓮區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ee981af4-17db-4320-96a3-28c833613bb7",
+        "https://data.kcg.gov.tw/File/directDownload/ee981af4-17db-4320-96a3-28c833613bb7"
+      ]
+    },
+    {
+      "id": "104507",
+      "name": "工務局公園處路燈資訊(前鎮區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5197dfd5-b577-4dec-a80f-5f3440d7e7ce",
+        "https://data.kcg.gov.tw/File/directDownload/5197dfd5-b577-4dec-a80f-5f3440d7e7ce"
+      ]
+    },
+    {
+      "id": "87707",
+      "name": "違章建築拆除結案作業原則",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fb64fa4e-0145-4b07-bd83-49e25cab1c09",
+        "https://data.kcg.gov.tw/File/DirectDownload/fb64fa4e-0145-4b07-bd83-49e25cab1c09"
+      ]
+    },
+    {
+      "id": "104466",
+      "name": "工務局公園處路燈資訊(前金區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ebf1e69-c7d5-45a4-8684-95af74cd78b4",
+        "https://data.kcg.gov.tw/File/directDownload/5ebf1e69-c7d5-45a4-8684-95af74cd78b4"
+      ]
+    },
+    {
+      "id": "104481",
+      "name": "工務局公園處路燈資訊(甲仙區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c2925591-abeb-4058-bf19-16a0868dd29a",
+        "https://data.kcg.gov.tw/File/directDownload/c2925591-abeb-4058-bf19-16a0868dd29a"
+      ]
+    },
+    {
+      "id": "104488",
+      "name": "工務局公園處路燈資訊(鳥松區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/449a340c-68c4-4113-bbe7-5e4222bc21df",
+        "https://data.kcg.gov.tw/File/directDownload/449a340c-68c4-4113-bbe7-5e4222bc21df"
+      ]
+    },
+    {
+      "id": "104493",
+      "name": "工務局公園處路燈資訊(彌陀區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/df7334e0-d70c-44fa-8d2f-c0ca2bfd3821",
+        "https://data.kcg.gov.tw/File/directDownload/df7334e0-d70c-44fa-8d2f-c0ca2bfd3821"
+      ]
+    },
+    {
+      "id": "104495",
+      "name": "工務局公園處路燈資訊(橋頭區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9be47e97-d012-409d-b619-db45841ca993",
+        "https://data.kcg.gov.tw/File/directDownload/9be47e97-d012-409d-b619-db45841ca993"
+      ]
+    },
+    {
+      "id": "104497",
+      "name": "工務局公園處路燈資訊(田寮區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8d58d564-21b6-47f0-956b-fd35d6362d3d",
+        "https://data.kcg.gov.tw/File/directDownload/8d58d564-21b6-47f0-956b-fd35d6362d3d"
+      ]
+    },
+    {
+      "id": "138081",
+      "name": "106年高雄市建築物開工統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b7bc9ef8-ddd4-4ca5-af8a-41e92330357b",
+        "https://data.kcg.gov.tw/File/DirectDownload/b7bc9ef8-ddd4-4ca5-af8a-41e92330357b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b45ef0e4-481c-48f0-9547-53a9f41caacf",
+        "https://data.kcg.gov.tw/File/DirectDownload/b45ef0e4-481c-48f0-9547-53a9f41caacf"
+      ]
+    },
+    {
+      "id": "137961",
+      "name": "違章建築處理大隊決算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f03f6650-1bac-4b91-b500-1fdfb3c28105",
+        "https://data.kcg.gov.tw/File/DirectDownload/f03f6650-1bac-4b91-b500-1fdfb3c28105",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d02b48aa-929d-4001-84e7-3213f3740407",
+        "https://data.kcg.gov.tw/File/DirectDownload/d02b48aa-929d-4001-84e7-3213f3740407",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a5a66587-63f0-42c4-8509-3d156d9214a2",
+        "https://data.kcg.gov.tw/File/DirectDownload/a5a66587-63f0-42c4-8509-3d156d9214a2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4c0d2103-0f0b-4448-8f8e-7022d302a389",
+        "https://data.kcg.gov.tw/File/DirectDownload/4c0d2103-0f0b-4448-8f8e-7022d302a389",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85d60bdc-b7bb-4594-a3a2-724962f9d894",
+        "https://data.kcg.gov.tw/File/DirectDownload/85d60bdc-b7bb-4594-a3a2-724962f9d894",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dbc02a85-a725-4b26-b7e7-b0cb9c5ae78f",
+        "https://data.kcg.gov.tw/File/DirectDownload/dbc02a85-a725-4b26-b7e7-b0cb9c5ae78f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/712bc7ad-b0c9-4cb9-817a-bae23c2c16b7",
+        "https://data.kcg.gov.tw/File/DirectDownload/712bc7ad-b0c9-4cb9-817a-bae23c2c16b7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/79c96c64-a581-4c7f-ab0c-bcf79fabf02e",
+        "https://data.kcg.gov.tw/File/DirectDownload/79c96c64-a581-4c7f-ab0c-bcf79fabf02e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/005b5907-1f93-468f-93df-be23bd035117",
+        "https://data.kcg.gov.tw/File/DirectDownload/005b5907-1f93-468f-93df-be23bd035117",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/60924171-7189-4011-bc23-c21089e955ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/60924171-7189-4011-bc23-c21089e955ff",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b88fbfdc-996a-430a-a72f-e6098f22a493",
+        "https://data.kcg.gov.tw/File/DirectDownload/b88fbfdc-996a-430a-a72f-e6098f22a493",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/02268cba-792c-48ab-9c65-e895ba3308a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/02268cba-792c-48ab-9c65-e895ba3308a7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/89a3042d-c744-438e-997e-ece9dff6dd96",
+        "https://data.kcg.gov.tw/File/DirectDownload/89a3042d-c744-438e-997e-ece9dff6dd96"
+      ]
+    },
+    {
+      "id": "138050",
+      "name": "違章建築處理大隊提升服務品質實施計畫",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/76d0610d-fd34-424d-89d3-0e148781f8b7",
+        "https://data.kcg.gov.tw/File/DirectDownload/76d0610d-fd34-424d-89d3-0e148781f8b7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58ccab49-17de-4298-9b6d-28a20ef9edb1",
+        "https://data.kcg.gov.tw/File/DirectDownload/58ccab49-17de-4298-9b6d-28a20ef9edb1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bdfb5abc-6f89-496f-9939-7882eef1293d",
+        "https://data.kcg.gov.tw/File/DirectDownload/bdfb5abc-6f89-496f-9939-7882eef1293d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7958a49b-e81d-44d8-aaa9-c6a47f263f70",
+        "https://data.kcg.gov.tw/File/DirectDownload/7958a49b-e81d-44d8-aaa9-c6a47f263f70",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c00fea25-cf73-4f55-b7c3-d7bd91fc69ea",
+        "https://data.kcg.gov.tw/File/DirectDownload/c00fea25-cf73-4f55-b7c3-d7bd91fc69ea",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f4e8e09-064b-4202-88e8-dd9456401330",
+        "https://data.kcg.gov.tw/File/DirectDownload/0f4e8e09-064b-4202-88e8-dd9456401330",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03aba9d3-ef56-4456-a890-eba144cb1474",
+        "https://data.kcg.gov.tw/File/DirectDownload/03aba9d3-ef56-4456-a890-eba144cb1474"
+      ]
+    },
+    {
+      "id": "161964",
+      "name": "高雄市寬頻管道",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/0ebe13a0-ca18-4606-8ace-709421d3f5dd?fileId=532b6f55-ae34-446c-9142-246696614a3e&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "75703",
+      "name": "違建隊廣告招牌查報總件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f37f84b0-cbcf-4353-a625-7f7da1543d53",
+        "https://data.kcg.gov.tw/File/DirectDownload/f37f84b0-cbcf-4353-a625-7f7da1543d53"
+      ]
+    },
+    {
+      "id": "75702",
+      "name": "派工拆除分析",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/982a4bd8-e89e-4c00-91f9-46a0df64a02b",
+        "https://data.kcg.gov.tw/File/DirectDownload/982a4bd8-e89e-4c00-91f9-46a0df64a02b"
+      ]
+    },
+    {
+      "id": "80258",
+      "name": "106建照核發數量",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8073e115-da7e-4cb3-b3eb-adfb3727273d",
+        "https://data.kcg.gov.tw/File/DirectDownload/8073e115-da7e-4cb3-b3eb-adfb3727273d"
+      ]
+    },
+    {
+      "id": "80259",
+      "name": "107建築物公共安全檢查申報數量",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/626463ce-2aad-4bd4-a64b-86fef2190020",
+        "https://data.kcg.gov.tw/File/directDownload/626463ce-2aad-4bd4-a64b-86fef2190020"
+      ]
+    },
+    {
+      "id": "87123",
+      "name": "違建隊違章建築查報件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4ec0b0ad-f2dc-4e58-8716-cdbb85e2613c",
+        "https://data.kcg.gov.tw/File/DirectDownload/4ec0b0ad-f2dc-4e58-8716-cdbb85e2613c"
+      ]
+    },
+    {
+      "id": "87705",
+      "name": "建築物立體綠化",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3a041f67-a626-4963-91e1-feaa26e83c72",
+        "https://data.kcg.gov.tw/File/DirectDownload/3a041f67-a626-4963-91e1-feaa26e83c72"
+      ]
+    },
+    {
+      "id": "87097",
+      "name": "高雄市政府工務局處理違章建築執行要點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f2131a18-05b8-4e0f-8714-fddfbf69d8fd",
+        "https://data.kcg.gov.tw/File/DirectDownload/f2131a18-05b8-4e0f-8714-fddfbf69d8fd"
+      ]
+    },
+    {
+      "id": "104499",
+      "name": "工務局公園處路燈資訊(湖內區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0ecd169-ceeb-489f-98c0-d927ff3d3897",
+        "https://data.kcg.gov.tw/File/directDownload/f0ecd169-ceeb-489f-98c0-d927ff3d3897"
+      ]
+    },
+    {
+      "id": "104500",
+      "name": "工務局公園處路燈資訊(路竹區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e699b021-d90e-467a-8b0a-c271c2178c59",
+        "https://data.kcg.gov.tw/File/directDownload/e699b021-d90e-467a-8b0a-c271c2178c59"
+      ]
+    },
+    {
+      "id": "104503",
+      "name": "工務局公園處路燈資訊(仁武區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2bf42d16-8f0d-4a51-bf08-e8f4ac66c786",
+        "https://data.kcg.gov.tw/File/directDownload/2bf42d16-8f0d-4a51-bf08-e8f4ac66c786"
+      ]
+    },
+    {
+      "id": "104504",
+      "name": "工務局公園處路燈資訊(左營區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5c5599da-d890-4944-9533-04d8b8c11a67",
+        "https://data.kcg.gov.tw/File/directDownload/5c5599da-d890-4944-9533-04d8b8c11a67"
+      ]
+    },
+    {
+      "id": "104505",
+      "name": "工務局公園處路燈資訊(小港區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3d83484-ccc5-4050-9a5f-97b5e93250e8",
+        "https://data.kcg.gov.tw/File/directDownload/a3d83484-ccc5-4050-9a5f-97b5e93250e8"
+      ]
+    },
+    {
+      "id": "104506",
+      "name": "工務局公園處路燈資訊(楠梓區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6de28c85-191e-4113-b792-9d26404e7407",
+        "https://data.kcg.gov.tw/File/directDownload/6de28c85-191e-4113-b792-9d26404e7407"
+      ]
+    },
+    {
+      "id": "104509",
+      "name": "工務局公園處路燈資訊(新興區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/038ae4e3-40f7-4f7b-85a6-e4f4606e471b",
+        "https://data.kcg.gov.tw/File/directDownload/038ae4e3-40f7-4f7b-85a6-e4f4606e471b"
+      ]
+    },
+    {
+      "id": "104482",
+      "name": "工務局公園處路燈資訊(杉林區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/67eb9d7a-53d0-4333-990a-e7434380d873",
+        "https://data.kcg.gov.tw/File/directDownload/67eb9d7a-53d0-4333-990a-e7434380d873"
+      ]
+    },
+    {
+      "id": "104483",
+      "name": "工務局公園處路燈資訊(內門區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7712a01a-0f3c-4e4f-80a6-6a75da38fe2e",
+        "https://data.kcg.gov.tw/File/directDownload/7712a01a-0f3c-4e4f-80a6-6a75da38fe2e"
+      ]
+    },
+    {
+      "id": "104489",
+      "name": "工務局公園處路燈資訊(林園區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90e45a81-d307-4595-bfb7-d249c137ab2e",
+        "https://data.kcg.gov.tw/File/directDownload/90e45a81-d307-4595-bfb7-d249c137ab2e"
+      ]
+    },
+    {
+      "id": "104490",
+      "name": "工務局公園處路燈資訊(大寮區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bf8094d5-4701-454f-85f2-28260acfccb7",
+        "https://data.kcg.gov.tw/File/directDownload/bf8094d5-4701-454f-85f2-28260acfccb7"
+      ]
+    },
+    {
+      "id": "104492",
+      "name": "工務局公園處路燈資訊(永安區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fd9e2ea5-e8db-4939-aabd-368d68fdbb8e",
+        "https://data.kcg.gov.tw/File/directDownload/fd9e2ea5-e8db-4939-aabd-368d68fdbb8e"
+      ]
+    },
+    {
+      "id": "104494",
+      "name": "工務局公園處路燈資訊(梓官區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/71143079-5b7f-4c7f-8f16-5b18dcf1e628",
+        "https://data.kcg.gov.tw/File/directDownload/71143079-5b7f-4c7f-8f16-5b18dcf1e628"
+      ]
+    },
+    {
+      "id": "104467",
+      "name": "工務局公園處路燈資訊(三民區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/205d20a2-be6c-4987-b51d-90f2aa9735ce",
+        "https://data.kcg.gov.tw/File/directDownload/205d20a2-be6c-4987-b51d-90f2aa9735ce"
+      ]
+    },
+    {
+      "id": "104468",
+      "name": "工務局公園處路燈資訊(鹽埕區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a365dc6e-b36d-452a-b2a3-575ab8c58471",
+        "https://data.kcg.gov.tw/File/directDownload/a365dc6e-b36d-452a-b2a3-575ab8c58471"
+      ]
+    },
+    {
+      "id": "104479",
+      "name": "工務局公園處路燈資訊(鼓山區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/15cd90d5-34e8-453a-838a-9f6b45477771",
+        "https://data.kcg.gov.tw/File/directDownload/15cd90d5-34e8-453a-838a-9f6b45477771"
+      ]
+    },
+    {
+      "id": "128481",
+      "name": "營造業",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fb7f0e29-da11-4457-8e71-32400c0528f4",
+        "https://data.kcg.gov.tw/File/DirectDownload/fb7f0e29-da11-4457-8e71-32400c0528f4"
+      ]
+    },
+    {
+      "id": "161931",
+      "name": "高雄市寬頻手孔",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/9c80a033-512b-4412-839e-e18c1f41fc60?fileId=2170be1f-ab41-4325-b846-442421561655&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "138082",
+      "name": "106年高雄市建築管理各項執照核准件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/099c3fde-b9a4-4278-b116-658589fbae54",
+        "https://data.kcg.gov.tw/File/DirectDownload/099c3fde-b9a4-4278-b116-658589fbae54"
+      ]
+    },
+    {
+      "id": "138083",
+      "name": "106年高雄市核發建築物使用執照統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/18afab54-ce99-403b-8bcc-6d9e63338085",
+        "https://data.kcg.gov.tw/File/directDownload/18afab54-ce99-403b-8bcc-6d9e63338085",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dbe50516-193c-4932-9959-901a9e3517ab",
+        "https://data.kcg.gov.tw/File/directDownload/dbe50516-193c-4932-9959-901a9e3517ab",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2ca3c79f-44c2-4aa7-ac62-c198d8e3ef2e",
+        "https://data.kcg.gov.tw/File/directDownload/2ca3c79f-44c2-4aa7-ac62-c198d8e3ef2e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c17bfdb6-6522-4169-8f6e-eff446230b3b",
+        "https://data.kcg.gov.tw/File/directDownload/c17bfdb6-6522-4169-8f6e-eff446230b3b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/abb4b497-0d46-4734-b183-f0c26cdac7a1",
+        "https://data.kcg.gov.tw/File/directDownload/abb4b497-0d46-4734-b183-f0c26cdac7a1"
+      ]
+    },
+    {
+      "id": "138084",
+      "name": "106年高雄市核發建築物建照及拆除執照統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f3045708-6b77-4751-ab6b-1f9b795e52ba",
+        "https://data.kcg.gov.tw/File/DirectDownload/f3045708-6b77-4751-ab6b-1f9b795e52ba",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fb413cce-0ab3-475b-96c9-637cd611d6d7",
+        "https://data.kcg.gov.tw/File/DirectDownload/fb413cce-0ab3-475b-96c9-637cd611d6d7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/05811d86-73d8-40d2-af91-819fe4ae7004",
+        "https://data.kcg.gov.tw/File/DirectDownload/05811d86-73d8-40d2-af91-819fe4ae7004",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/07860eab-5584-4a10-9e30-941af81cd0ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/07860eab-5584-4a10-9e30-941af81cd0ac"
+      ]
+    },
+    {
+      "id": "138049",
+      "name": "違章建築處理大隊施政計畫",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/722f89b8-0611-4b1f-b0dc-069f4dc2d243",
+        "https://data.kcg.gov.tw/File/DirectDownload/722f89b8-0611-4b1f-b0dc-069f4dc2d243",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ef32955-cbcd-479e-adbe-41791a4d6a2d",
+        "https://data.kcg.gov.tw/File/DirectDownload/7ef32955-cbcd-479e-adbe-41791a4d6a2d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/20a71143-5868-4a24-ac78-d71e4de54c4e",
+        "https://data.kcg.gov.tw/File/DirectDownload/20a71143-5868-4a24-ac78-d71e4de54c4e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5b870c98-1552-4181-8773-f6eccd39dcfd",
+        "https://data.kcg.gov.tw/File/DirectDownload/5b870c98-1552-4181-8773-f6eccd39dcfd"
+      ]
+    },
+    {
+      "id": "142993",
+      "name": "執照核發",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/40589b31-54c9-4b50-927e-6e66ca9a3020",
+        "https://data.kcg.gov.tw/File/DirectDownload/40589b31-54c9-4b50-927e-6e66ca9a3020"
+      ]
+    },
+    {
+      "id": "47053",
+      "name": "高雄市道路挖掘資訊",
+      "format": "xml",
+      "urls": [
+        "https://pipegis.kcg.gov.tw/openDataService.aspx"
+      ]
+    },
+    {
+      "id": "104239",
+      "name": "107年使用執照各區統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d49e3364-f05f-43e4-baa6-05f9def07bb8",
+        "https://data.kcg.gov.tw/File/DirectDownload/d49e3364-f05f-43e4-baa6-05f9def07bb8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/88fd487b-24ee-4f33-85f3-1933a8ce0987",
+        "https://data.kcg.gov.tw/File/DirectDownload/88fd487b-24ee-4f33-85f3-1933a8ce0987"
+      ]
+    },
+    {
+      "id": "87704",
+      "name": "高雄厝",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/efcd5e13-a56a-4cc1-ad7d-554bccd8cb78",
+        "https://data.kcg.gov.tw/File/DirectDownload/efcd5e13-a56a-4cc1-ad7d-554bccd8cb78",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3af2dc59-787a-46fb-9ea4-5e9db36b4401",
+        "https://data.kcg.gov.tw/File/DirectDownload/3af2dc59-787a-46fb-9ea4-5e9db36b4401",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7bcf6853-d01b-496c-b485-cffe06ca1e78",
+        "https://data.kcg.gov.tw/File/DirectDownload/7bcf6853-d01b-496c-b485-cffe06ca1e78"
+      ]
+    },
+    {
+      "id": "104484",
+      "name": "工務局公園處路燈資訊(六龜區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ba1c492-507e-450b-9fc9-c917a9edcf50",
+        "https://data.kcg.gov.tw/File/directDownload/7ba1c492-507e-450b-9fc9-c917a9edcf50"
+      ]
+    },
+    {
+      "id": "104485",
+      "name": "工務局公園處路燈資訊(美濃區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f4a050fa-7467-40e6-830f-d92d326ba976",
+        "https://data.kcg.gov.tw/File/directDownload/f4a050fa-7467-40e6-830f-d92d326ba976"
+      ]
+    },
+    {
+      "id": "104486",
+      "name": "工務局公園處路燈資訊(旗山區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a7c0763d-e901-4d1b-9802-70e4b3de76ac",
+        "https://data.kcg.gov.tw/File/directDownload/a7c0763d-e901-4d1b-9802-70e4b3de76ac"
+      ]
+    },
+    {
+      "id": "104487",
+      "name": "工務局公園處路燈資訊(大樹區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a468379a-1891-4d39-8c30-cd6b6334cc2b",
+        "https://data.kcg.gov.tw/File/directDownload/a468379a-1891-4d39-8c30-cd6b6334cc2b"
+      ]
+    },
+    {
+      "id": "104491",
+      "name": "工務局公園處路燈資訊(鳳山區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2dba3208-a100-4b63-95e1-99d423dd9440",
+        "https://data.kcg.gov.tw/File/directDownload/2dba3208-a100-4b63-95e1-99d423dd9440"
+      ]
+    },
+    {
+      "id": "104501",
+      "name": "工務局公園處路燈資訊(岡山區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1a9ebe97-a9c5-4629-95a2-5f5614c2e6e5",
+        "https://data.kcg.gov.tw/File/directDownload/1a9ebe97-a9c5-4629-95a2-5f5614c2e6e5"
+      ]
+    },
+    {
+      "id": "104502",
+      "name": "工務局公園處路燈資訊(大社區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ba6dbf23-e6c5-44a2-8d2f-659b97484678",
+        "https://data.kcg.gov.tw/File/directDownload/ba6dbf23-e6c5-44a2-8d2f-659b97484678"
+      ]
+    },
+    {
+      "id": "104508",
+      "name": "工務局公園處路燈資訊(旗津區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1505b964-20d7-4ab7-9da0-90a07d6e7f5c",
+        "https://data.kcg.gov.tw/File/directDownload/1505b964-20d7-4ab7-9da0-90a07d6e7f5c"
+      ]
+    },
+    {
+      "id": "104496",
+      "name": "工務局公園處路燈資訊(燕巢區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dea4d4fb-0bfc-4f28-bba0-88b9e8fcfca1",
+        "https://data.kcg.gov.tw/File/directDownload/dea4d4fb-0bfc-4f28-bba0-88b9e8fcfca1"
+      ]
+    },
+    {
+      "id": "127655",
+      "name": "99年到108年度綠建築執照申請案件數統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/80e5a804-aa86-486d-a08f-f3e34ee14260",
+        "https://data.kcg.gov.tw/File/DirectDownload/80e5a804-aa86-486d-a08f-f3e34ee14260"
+      ]
+    },
+    {
+      "id": "127653",
+      "name": "108年綠建築指標案件數統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9798b014-e06c-4048-b6ce-f2139765e93c",
+        "https://data.kcg.gov.tw/File/DirectDownload/9798b014-e06c-4048-b6ce-f2139765e93c"
+      ]
+    },
+    {
+      "id": "127829",
+      "name": "開闢道路用地取得統計(累計)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5735d16-209a-4b82-bb25-650bdfcf8bc5",
+        "https://data.kcg.gov.tw/File/DirectDownload/e5735d16-209a-4b82-bb25-650bdfcf8bc5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9ca57825-61ce-4be4-af28-a10db352fff9",
+        "https://data.kcg.gov.tw/File/DirectDownload/9ca57825-61ce-4be4-af28-a10db352fff9"
+      ]
+    },
+    {
+      "id": "127967",
+      "name": "高雄市挖管案件施工動態",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d636aa85-4b08-42ab-a742-4f2aad070450"
+      ]
+    },
+    {
+      "id": "138051",
+      "name": "違章建築處理大隊預算表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5eada72d-9762-45b1-aba0-08a098b6d829",
+        "https://data.kcg.gov.tw/File/DirectDownload/5eada72d-9762-45b1-aba0-08a098b6d829",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/00c88cd1-b566-4b0d-8cd8-928f7dda162e",
+        "https://data.kcg.gov.tw/File/DirectDownload/00c88cd1-b566-4b0d-8cd8-928f7dda162e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/201c7ca9-6fc1-4dfd-ace4-c9ad6837a826",
+        "https://data.kcg.gov.tw/File/DirectDownload/201c7ca9-6fc1-4dfd-ace4-c9ad6837a826",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/70f509d9-32be-4f23-8638-dfc9ff8c9068",
+        "https://data.kcg.gov.tw/File/DirectDownload/70f509d9-32be-4f23-8638-dfc9ff8c9068",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0c769de8-f8b0-4fd7-abf7-eee102eb78ba",
+        "https://data.kcg.gov.tw/File/DirectDownload/0c769de8-f8b0-4fd7-abf7-eee102eb78ba"
+      ]
+    },
+    {
+      "id": "138085",
+      "name": "106年高雄市違反建築法令建築罰款處理情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f4daba19-e7c3-46ba-8a6e-ff0c2cc9cf86",
+        "https://data.kcg.gov.tw/File/DirectDownload/f4daba19-e7c3-46ba-8a6e-ff0c2cc9cf86"
+      ]
+    },
+    {
+      "id": "104465",
+      "name": "工務局公園處路燈資訊(苓雅區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b8c70855-b4e6-47b8-ae90-0627ded3da2c",
+        "https://data.kcg.gov.tw/File/directDownload/b8c70855-b4e6-47b8-ae90-0627ded3da2c"
+      ]
+    },
+    {
+      "id": "104480",
+      "name": "工務局公園處路燈資訊(茄萣區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/148c5299-a39c-4c3b-af76-006a5827c63e",
+        "https://data.kcg.gov.tw/File/directDownload/148c5299-a39c-4c3b-af76-006a5827c63e"
+      ]
+    },
+    {
+      "id": "161962",
+      "name": "高雄市寬頻引上管",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/9f487cbe-6dee-40a5-9888-33f1508118ad?fileId=8ef1a20e-ac4a-4453-9424-365635a43565&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "161963",
+      "name": "高雄市寬頻引上點",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/0c0d4e99-f2db-45da-8cf1-f71afdc29154?fileId=dee8a662-cd44-4225-a235-1554c1236553&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    }
+  ]
+}

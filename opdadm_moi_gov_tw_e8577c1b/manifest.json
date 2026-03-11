@@ -1,0 +1,395 @@
+{
+  "type": "dataset",
+  "provider": "宗教及禮制司",
+  "slug": "opdadm_moi_gov_tw_e8577c1b",
+  "datasets": [
+    {
+      "id": "7053",
+      "name": "禮儀服務業合法業者",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3FBB9BDE-1036-417A-B419-BD4E1B9D8CD3/resource/2CD300D6-82D6-4183-ADFC-9F4F2835D29B/download"
+      ]
+    },
+    {
+      "id": "8203",
+      "name": "全國宗教資訊系統資料-寺廟",
+      "format": "xml",
+      "urls": [
+        "https://religion.moi.gov.tw/Report/temple.xml"
+      ]
+    },
+    {
+      "id": "8204",
+      "name": "全國宗教資訊系統資料-法人教會",
+      "format": "xml",
+      "urls": [
+        "https://religion.moi.gov.tw/Report/church.xml"
+      ]
+    },
+    {
+      "id": "8208",
+      "name": "全國宗教資訊系統資料-宗祠基金會",
+      "format": "xml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/154458FE-8D27-4F69-B742-D970AD3EAA2A/resource/E20AE6FE-FE33-45DA-AFB0-571F7918C787/download"
+      ]
+    },
+    {
+      "id": "32172",
+      "name": "全國宗教資訊網-績優外籍人士名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/343FB9F2-2040-4DAC-BA27-FFDC2B5B87D8/resource/3542822E-B2BE-4499-8E5F-94341364355D/download"
+      ]
+    },
+    {
+      "id": "31972",
+      "name": "祭祀公業土地清理統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0137DF96-F83F-4B4C-AA3F-2A14350155DC/resource/43E2D7C9-1F2D-4CAB-A3F1-22466B48EF61/download"
+      ]
+    },
+    {
+      "id": "120818",
+      "name": "臺灣宗教文化資產雲林縣點位資訊",
+      "format": "json",
+      "urls": [
+        "https://taiwangods.moi.gov.tw/API/v2/Yunlin/Culture",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6A1269EA-44D3-4B49-8488-F856457401D5/resource/A677938A-CC4A-4C3F-876E-EF4DB0C7E4B7/download"
+      ]
+    },
+    {
+      "id": "103719",
+      "name": "全國性宗教財團法人財務實地查核慨況",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9C857289-3B06-48B1-BF4C-CB7BC076ABA1/resource/5F82B7E3-EDA4-49C5-9951-F207B2A71D56/download"
+      ]
+    },
+    {
+      "id": "152126",
+      "name": "臺灣宗教文化資產桃園市點位資訊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5FF4F0A7-8535-4307-A7D4-015996A9E966/resource/DF1EEAB1-EE93-4E27-894E-D777FC8842FF/download"
+      ]
+    },
+    {
+      "id": "170697",
+      "name": "113年宗教業務人員研習班課程",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B2BDBBD1-65CC-44E3-A784-54869F96DEAA/resource/62003E32-A663-42A7-8677-7510D37226FC/download"
+      ]
+    },
+    {
+      "id": "170719",
+      "name": "全國孝行楷模多元事蹟分組表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/35774AC2-CD69-4898-A14F-7F5B1A291E09/resource/5CCCDB03-6736-450B-A086-3A7908DB968F/download"
+      ]
+    },
+    {
+      "id": "174185",
+      "name": "近５年直轄市獲內政部表揚之宗教團體從事捐款資助金額",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B6363926-EE26-4361-8B82-4D921E544C61/resource/E280E520-3221-4E23-B186-8EDBAC4DB644/download"
+      ]
+    },
+    {
+      "id": "7052",
+      "name": "殯葬設施",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CFF7163A-8C96-417E-B93D-156461404881/resource/0B675274-AA5F-4163-8C9A-16604BC53A2E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CFF7163A-8C96-417E-B93D-156461404881/resource/8BE38334-0AC0-479C-B591-251F78127A8E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CFF7163A-8C96-417E-B93D-156461404881/resource/8DEBC5BE-802B-43A9-B685-786136632084/download"
+      ]
+    },
+    {
+      "id": "8205",
+      "name": "全國宗教資訊系統資料-基金會",
+      "format": "xml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8FEEE3B6-D068-40B1-BC9A-681B2766CDC8/resource/54006CF9-0969-4077-9B17-E4047925BB81/download"
+      ]
+    },
+    {
+      "id": "8206",
+      "name": "全國宗教資訊系統資料-宗祠",
+      "format": "xml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4AD4F080-E3B0-45F6-9099-038DCB7B7E2B/resource/BCE11198-9CDA-4B23-A17D-D90DFCE84A3F/download"
+      ]
+    },
+    {
+      "id": "8209",
+      "name": "全國宗教資訊系統資料-慶(祭)典",
+      "format": "xml",
+      "urls": [
+        "https://religion.moi.gov.tw/Report/Festival.xml"
+      ]
+    },
+    {
+      "id": "8210",
+      "name": "全國宗教資訊系統資料-歷年宗教團體表揚名冊",
+      "format": "xml",
+      "urls": [
+        "https://religion.moi.gov.tw/Report/EventClass.xml"
+      ]
+    },
+    {
+      "id": "32191",
+      "name": "臺灣宗教百景一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DA22FB95-7E0E-4270-8045-B50D1D4AD0DE/resource/FF0AF8B7-8A26-4304-B2A6-E0B614AE2BA5/download"
+      ]
+    },
+    {
+      "id": "31248",
+      "name": "神明會土地清理統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A66D475-EC80-4900-AF04-D8F0776D18DE/resource/0C49782E-1E46-4F59-A4BE-5A83D534EE17/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A66D475-EC80-4900-AF04-D8F0776D18DE/resource/0ED57A9A-2681-4B52-AAB3-F40098DF0D82/download"
+      ]
+    },
+    {
+      "id": "113346",
+      "name": "臺灣北區主祀土地公寺廟點位資訊(臺北市、新北市、基隆市、桃園市、新竹市、新竹縣)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/10408190-E1F1-4330-AFF0-E3022061B7D1/resource/EFEC45D4-3840-497E-9CE5-69BCACFE9496/download"
+      ]
+    },
+    {
+      "id": "122070",
+      "name": "臺灣宗教文化資產南投縣點位資訊",
+      "format": "json",
+      "urls": [
+        "https://taiwangods.moi.gov.tw/API/v2/Nantou/Culture",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E8028F8B-E3BC-48DA-A856-0280D8AFB116/resource/E00DE9E7-35AD-40FA-BEDB-EB6B26C38707/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E8028F8B-E3BC-48DA-A856-0280D8AFB116/resource/66C30A58-9888-409D-B971-F6D0562F15F0/download"
+      ]
+    },
+    {
+      "id": "152124",
+      "name": "臺灣宗教文化資產臺中市點位資訊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C83E1DDC-EF5D-4F5C-A5D4-BE96ABE90EEA/resource/6B9EDD12-CB9F-40F1-BCD5-87BE73F1E41A/download"
+      ]
+    },
+    {
+      "id": "174532",
+      "name": "內政部近5年辦理寺廟講習會場次",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BBE6097A-1167-4579-9038-41D7347C31FC/resource/8814B8C7-1059-4E52-B835-96676027B83F/download"
+      ]
+    },
+    {
+      "id": "170707",
+      "name": "113年禮儀師專業教育訓練課程表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/092F53E2-B613-4660-9276-6952D2413811/resource/AE74CA5D-6E06-48BE-A111-4D66B50DF36E/download"
+      ]
+    },
+    {
+      "id": "170696",
+      "name": "暫行條例分區研討座談會課程",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/77ECDF31-2887-488F-907E-F8B3296FC717/resource/9DA8701A-2282-40B1-94E5-FB80835E0317/download"
+      ]
+    },
+    {
+      "id": "170715",
+      "name": "112年度大陸地區人民申請來臺短期專業交流人次",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/45A0B7C9-4749-4B00-AF1C-581C2FE5B7A5/resource/79892A2B-0775-46DD-B7DE-0903B88CD600/download"
+      ]
+    },
+    {
+      "id": "174184",
+      "name": "內政部近5年舉辦宗教團體表揚大會時間及頒獎資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6B0F109A-E689-4A4C-9AAA-448722C0A678/resource/6845F6AA-2834-4459-8A0E-5D35DC22B545/download"
+      ]
+    },
+    {
+      "id": "174782",
+      "name": "內政部推動禮制研究及倡導國民禮儀活動補助作業要點",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/812869D1-5A8E-4365-8AC7-5F8F2043F208/resource/C1A5996D-35D6-44A2-90C4-6CBA038F20D0/download"
+      ]
+    },
+    {
+      "id": "174783",
+      "name": "內政部辦理全國孝行獎活動實施計畫",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3E31F0C7-A425-447C-B7AE-32DA428EE330/resource/E9665889-F1A9-4410-A8ED-6BC0B1A27F9D/download"
+      ]
+    },
+    {
+      "id": "174952",
+      "name": "內政部推動殯葬政策及提升殯葬文化補助作業要點",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/931101F2-C396-464E-8769-D8930A8EA197/resource/7D18F639-CA94-40AB-BEFF-C610FC6514B4/download"
+      ]
+    },
+    {
+      "id": "174953",
+      "name": "殯葬設施量能提升計畫(111至114年度)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6CDE35AA-E54C-4EC1-A99A-DF70966C8146/resource/EE794BB0-9351-49DE-86CD-ECABE52F7A24/download"
+      ]
+    },
+    {
+      "id": "174992",
+      "name": "內政部全國性宗教財團法人講習會場次",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E4166EA-5CD7-45B5-B0F9-F25B5E471D6F/resource/1203923C-BF4C-4422-89A6-12B9123C0442/download"
+      ]
+    },
+    {
+      "id": "174997",
+      "name": "祭祀公業業務講習會課程",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/946B75B4-E48B-4FFE-BF7B-879861D9750F/resource/3AF6629A-F83D-4D91-989F-CE997B78CCA9/download"
+      ]
+    },
+    {
+      "id": "31974",
+      "name": "褒揚名錄清冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B6BEA0EA-C8AF-49EA-B73A-9BC4F215656B/resource/4283C6EC-B27B-440A-9646-383F275E88C2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B6BEA0EA-C8AF-49EA-B73A-9BC4F215656B/resource/18EBB82E-B4D2-4AA6-B5EA-EB756E12C4EB/download"
+      ]
+    },
+    {
+      "id": "53681",
+      "name": "環保自然葬地點",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/23FC8099-ADCD-441D-B13A-E3076262813C/resource/4E1B8424-6C57-4B9B-828E-0E90062A57A4/download",
+        "https://mort.moi.gov.tw/opendata/natureList.do?method=exportJson"
+      ]
+    },
+    {
+      "id": "73238",
+      "name": "孝行獎得獎名錄",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F77C717E-1D5F-4E2B-9E6C-F0E8B70F8625/resource/630A5266-9D80-491A-9052-C71E42F6584E/download"
+      ]
+    },
+    {
+      "id": "103720",
+      "name": "全國性宗教財團法人許可設立年度及數量",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F2E948FA-59D8-4238-B6BB-AA9EC7016433/resource/549BC09A-0941-4C29-95D7-186DFA91877E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F2E948FA-59D8-4238-B6BB-AA9EC7016433/resource/C31200CE-60F8-4FCA-84CF-32194D13113F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F2E948FA-59D8-4238-B6BB-AA9EC7016433/resource/223D8B68-DD01-41E9-BCD6-501C4F3FB6F4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F2E948FA-59D8-4238-B6BB-AA9EC7016433/resource/1D73A712-3139-44BF-863F-A6267EC72829/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F2E948FA-59D8-4238-B6BB-AA9EC7016433/resource/21D83F23-43F3-472F-8746-C922DA470BC5/download"
+      ]
+    },
+    {
+      "id": "126794",
+      "name": "臺灣宗教文化資產嘉義縣點位資訊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E98374FE-DD4F-46EF-9345-3DDC03D0C04A/resource/A881F87D-DC6C-4675-9C3C-CE0DBD4844E2/download"
+      ]
+    },
+    {
+      "id": "170720",
+      "name": "全國孝行楷模績優訪查員名單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3E161B72-BFBF-48BF-8EE4-5B5B4A7983DF/resource/AB41D263-59AA-4E75-9102-287119908B70/download"
+      ]
+    },
+    {
+      "id": "170700",
+      "name": "111至112年度大陸及港澳地區人民申請來臺研修宗教教義人次",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FADFE879-8E96-4E07-83FF-566F3F867799/resource/07352A55-479C-42EF-9498-C7A04A483517/download"
+      ]
+    },
+    {
+      "id": "170701",
+      "name": "113祭祀公業講習會課程表",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7ACA098E-E706-4918-B201-3B742174F9C4/resource/8FC7AAD1-628B-412F-9499-630EEC675B8B/download"
+      ]
+    },
+    {
+      "id": "170702",
+      "name": "113年度內政部委託會計師實地查核全國性宗教財團法人名單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DDD04019-62AB-47F5-9A76-2C1F3367EBD6/resource/1CAD05E8-FA41-4785-B2A9-E4A6EF31FA95/download"
+      ]
+    },
+    {
+      "id": "170706",
+      "name": "113年內政部「殯葬設施量能提升計畫」補助原住民族地區內容",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DDCB5168-FE35-4606-B67F-34B6D936A598/resource/62B3768D-04D7-4F49-8366-574D4B02EE97/download"
+      ]
+    },
+    {
+      "id": "159795",
+      "name": "全國性宗教財團法人董事任期按宗教別分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CCB99CB3-BAD7-4617-A17A-1723FDE0D4A9/resource/ADE83E7B-7056-4132-81D0-33670E34704D/download"
+      ]
+    },
+    {
+      "id": "118497",
+      "name": "全國性宗教財團法人董事長性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/24E6F85C-2718-4BBC-ACEF-C9D124E51487/resource/AFBB9687-6243-4115-868F-DD3B93C4F356/download"
+      ]
+    },
+    {
+      "id": "144585",
+      "name": "各縣市祭祀公業法人派下員性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6FC5824D-69F0-4A3F-BE7A-D30AC993A5A7/resource/A6832C42-8560-406B-A42B-101B6353A09F/download"
+      ]
+    },
+    {
+      "id": "174489",
+      "name": "近2年(112年-113年)補助寺廟案件統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EC2277EB-4476-4A70-8FC9-9D26DB1CE077/resource/5577C306-EF90-4BD4-8430-41BEA0F989EE/download"
+      ]
+    }
+  ]
+}

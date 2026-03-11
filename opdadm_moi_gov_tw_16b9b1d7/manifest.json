@@ -1,0 +1,704 @@
+{
+  "type": "dataset",
+  "provider": "內政部國土管理署",
+  "slug": "opdadm_moi_gov_tw_16b9b1d7",
+  "datasets": [
+    {
+      "id": "12043",
+      "name": "營建署支付或接受之補助經費資料",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E09E3283-1A56-48EA-86EF-7A062DAE0AAF/resource/8362C406-B6C6-420F-94AF-B0581376F11F/download"
+      ]
+    },
+    {
+      "id": "15235",
+      "name": "營建署補助(公務預算)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BFCE2022-F481-4399-8EED-2CE365E2D3EF/resource/D169C8BC-96CD-4840-B957-1561E75A634C/download"
+      ]
+    },
+    {
+      "id": "21058",
+      "name": "營建建設基金預算案及法定預算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E0C16FB-AA3C-4DD5-82CC-EE518DB0F491/resource/7F1F64D2-38C3-4D8E-BFF2-9FC45AEFF3E7/download"
+      ]
+    },
+    {
+      "id": "21011",
+      "name": "營建建設基金決算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3F61099D-4FDF-40BC-BE16-BB1D9FB53CE8/resource/6E820E89-CC09-434E-B96D-1310D7685CF6/download"
+      ]
+    },
+    {
+      "id": "21012",
+      "name": "中央都市更新基金決算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3175E51A-026D-446C-992A-23DA4D5B5FCD/resource/0AF0DA30-5349-446B-88D8-B1A314E59154/download"
+      ]
+    },
+    {
+      "id": "21290",
+      "name": "政府資訊公開下載專區資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1A614CD2-4352-440E-A6CB-5AA4161E0A39/resource/F2FD9AED-BA88-447F-A942-EB7117F01FAD/download"
+      ]
+    },
+    {
+      "id": "21293",
+      "name": "建築物建造執照之面積造價",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A4AA6738-3DBB-40A8-BD87-9EFAE9CBC367/resource/DAD5CED7-439C-4942-86BB-92042E5FE6FB/download"
+      ]
+    },
+    {
+      "id": "8201",
+      "name": "民間都更事業",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B6478523-955C-4300-A211-CA0207CF6731/resource/83BF0E39-2746-4422-B58C-6D5F51F73668/download"
+      ]
+    },
+    {
+      "id": "19872",
+      "name": "營建建設基金會計月報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9BC3E3C1-42E2-40DE-98AE-2958737B27F0/resource/0BC2C5C9-4CE1-43DC-8AC1-5158A4F989E2/download"
+      ]
+    },
+    {
+      "id": "40087",
+      "name": "國土永續發展基金預算案及法定預算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/104C6A44-64D0-41DA-B1C9-45C949761C47/resource/20C90CEC-C499-4E06-BA49-F129D1C82F68/download"
+      ]
+    },
+    {
+      "id": "73250",
+      "name": "住宅補貼辦理概況",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A917053E-B8AE-45D7-AF46-35CD1BB552F7/resource/6FF6EF38-7FBC-4536-8223-1674E52FAD6E/download"
+      ]
+    },
+    {
+      "id": "21372",
+      "name": "各直轄市、縣（市）政府無障礙專屬電子信箱與專線電話",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FAD0CD91-49E9-4674-9F72-1324E936B4DA/resource/F3C7285F-19E4-4078-8B46-955C13BBA9F4/download"
+      ]
+    },
+    {
+      "id": "21716",
+      "name": "營建署決算",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4ABCF79C-0395-466D-B41A-58B21934B285/resource/0A3F5749-8904-4A21-9262-05E17362F1D5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4ABCF79C-0395-466D-B41A-58B21934B285/resource/882C9AD7-1825-4227-89E7-248DE8601FA2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4ABCF79C-0395-466D-B41A-58B21934B285/resource/3E5561B6-3552-4AC6-81EB-67F1483F1BAB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4ABCF79C-0395-466D-B41A-58B21934B285/resource/A988FDD7-A3A7-4897-A414-89E6654E90A8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4ABCF79C-0395-466D-B41A-58B21934B285/resource/C5C9D76F-2BAE-417D-B80D-A6284FB51318/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4ABCF79C-0395-466D-B41A-58B21934B285/resource/7913ED59-F3CA-4CEE-8E16-ACC60A499C72/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4ABCF79C-0395-466D-B41A-58B21934B285/resource/DBE4DA62-2B68-4FD8-A155-E777640AE2C5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4ABCF79C-0395-466D-B41A-58B21934B285/resource/7F20A51A-7BDB-47F3-A5A6-F3E4D6999D16/download"
+      ]
+    },
+    {
+      "id": "21622",
+      "name": "營建署會計月報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8B7987F6-0C92-4715-B910-8F8A43308C87/resource/B638374F-FEBC-4A81-89D3-87CCA5106295/download"
+      ]
+    },
+    {
+      "id": "127533",
+      "name": "地方政府非都市土地違規使用案件裁罰態樣統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65176F8E-6EE8-4DD0-B12C-C2026261B11A/resource/55B09662-463E-47B1-82FF-10F7D6AC8186/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65176F8E-6EE8-4DD0-B12C-C2026261B11A/resource/35346856-9A31-45AF-98C8-1640E75A8C98/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65176F8E-6EE8-4DD0-B12C-C2026261B11A/resource/5C8FCC93-3C06-4920-94BA-3F0DAB3CF64E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65176F8E-6EE8-4DD0-B12C-C2026261B11A/resource/8734B102-1DAE-4EEF-95E2-71F6DA6AE81B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65176F8E-6EE8-4DD0-B12C-C2026261B11A/resource/2C8E0C6D-FAAA-457F-9026-9AF996C91CA9/download"
+      ]
+    },
+    {
+      "id": "139765",
+      "name": "全國非都市土地違規使用案件違規態樣分析統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8BFE9669-E031-44D3-AE0F-B9768929D973/resource/8B566840-70FC-41B6-80ED-54425E5FD3D9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8BFE9669-E031-44D3-AE0F-B9768929D973/resource/2766240E-CB67-43CF-9B89-D78AA8DC5296/download"
+      ]
+    },
+    {
+      "id": "162165",
+      "name": "中央政府疫後強化經濟與社會韌性及全民共享經濟成果特別預算會計月報",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/40161919-56D8-45CC-87DD-F5242B4493FD/resource/91D5138A-31ED-4027-B1BC-918EB2CA4E31/download"
+      ]
+    },
+    {
+      "id": "162982",
+      "name": "非都市土地違規使用情形用地別筆數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CADFABE2-6466-4F23-8974-563EA610490F/resource/3C8134BB-C4A9-4704-9CDE-047F6A754C6C/download"
+      ]
+    },
+    {
+      "id": "164853",
+      "name": "中華民國傑出建築師獎得獎名單",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B95DE98F-8A1B-44BC-90D8-184C6A2E866F/resource/4B21E6C8-6764-4D87-A7A3-4BD84ED65453/download"
+      ]
+    },
+    {
+      "id": "164855",
+      "name": "既有公共建築物分期分區改善計畫表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37AC5E5E-C26A-406F-A463-F5159C0B537E/resource/5DBB6C9B-5807-41C0-BC63-6F48D99B8A13/download"
+      ]
+    },
+    {
+      "id": "164857",
+      "name": "公益出租人稅賦減徵戶數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/73ACE383-D23E-433D-8984-065407670B5B/resource/E1F434D5-DCE7-46D3-8C90-01F12EEF16A0/download"
+      ]
+    },
+    {
+      "id": "169654",
+      "name": "中央政府前瞻基礎建設計畫第1期特別預算會計月報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D14C7715-9F30-49F4-99C7-CC8073E946B0/resource/24058F48-3E54-49FC-8F69-D1B1F08BCC72/download"
+      ]
+    },
+    {
+      "id": "169655",
+      "name": "中央政府前瞻基礎建設計畫第2期特別預算會計月報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9043E40C-BE16-4194-89F1-C3D6558592CB/resource/1D4389DA-A3BD-439D-AF12-E245D1C8526E/download"
+      ]
+    },
+    {
+      "id": "169656",
+      "name": "中央政府前瞻基礎建設計畫第3期特別預算會計月報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C30B50F7-9685-4432-9F9A-5029693F9F00/resource/C7B4841C-1BDD-431F-9DBC-1CC288A3DE07/download"
+      ]
+    },
+    {
+      "id": "169661",
+      "name": "領有建築師證書申請開業登記按性別分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/70A3D82C-583B-45DB-B25D-850F6CC2136C/resource/204A9AB0-8A3D-4213-9D59-4B290DBDA9CD/download"
+      ]
+    },
+    {
+      "id": "15236",
+      "name": "營建署補助(基金預算)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/522DBF04-929C-45E9-8BFE-4668DBA147F7/resource/37292810-7AA9-41A5-9D58-BEC181631DAB/download"
+      ]
+    },
+    {
+      "id": "15562",
+      "name": "營建署年度預算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/20B21CB7-F478-42B4-883C-89A3F45FE282/resource/DF344585-5492-40E4-9601-FE1B93EC0823/download"
+      ]
+    },
+    {
+      "id": "9520",
+      "name": "公寓大廈管理維護公司資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8EDDA7BE-B232-48E6-8076-BECF862E7D5B/resource/69C236C4-5755-4E78-817A-5C078741E4F3/download"
+      ]
+    },
+    {
+      "id": "9517",
+      "name": "建築師開業登記資訊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6B5F6233-BF03-496C-8F9A-4C6E5C5DA9DC/resource/730A1DE8-94E1-4B45-8DD1-65B73B5EC09A/download"
+      ]
+    },
+    {
+      "id": "9518",
+      "name": "建築師資訊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/602F3AAB-4EF3-477E-917B-3D942522864B/resource/CEBB802D-F194-4F85-A4FB-16C4EC59A22E/download"
+      ]
+    },
+    {
+      "id": "7321",
+      "name": "房地產消費糾紛統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/18E4C498-424B-47DC-9FCE-6D77A354E533/resource/03AF375D-AB1E-44E0-A90D-0128695BBDD1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/18E4C498-424B-47DC-9FCE-6D77A354E533/resource/D6AE55CE-CD5E-4020-B6B7-EEFEA28DA846/download"
+      ]
+    },
+    {
+      "id": "8202",
+      "name": "政府都更案",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3F110A6B-2254-4A85-897C-DA96A9FF6501/resource/3AC091EE-CB36-46DB-B8EA-9CA6A537784F/download"
+      ]
+    },
+    {
+      "id": "8215",
+      "name": "內政部都市計畫委員會資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A3EE8159-7425-4A77-9F1F-8439E26D48AD/resource/8E04235D-90E4-4BAF-975F-74C121D66B7B/download"
+      ]
+    },
+    {
+      "id": "21057",
+      "name": "中央都市更新基金法定預算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9FE17B4B-3FB2-4F62-8EF7-D497557B2602/resource/D0F8ED2E-59A2-49DA-BDC0-5E410A97BFC3/download"
+      ]
+    },
+    {
+      "id": "25106",
+      "name": "地方政府違規使用查處情形案件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/095A87F0-33AA-43D0-A3D7-25395909C099/resource/D50E7088-C50F-491F-87D7-1DF01D0E89BF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/095A87F0-33AA-43D0-A3D7-25395909C099/resource/3C2A9115-C921-48EB-AE57-481797D735D8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/095A87F0-33AA-43D0-A3D7-25395909C099/resource/E287699A-7C3C-4F11-BA5E-49E77EFF6A71/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/095A87F0-33AA-43D0-A3D7-25395909C099/resource/322023F2-BF7C-410C-A1D1-9A7D0A9D85F3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/095A87F0-33AA-43D0-A3D7-25395909C099/resource/D106E986-2D49-4BD1-A0C5-A0BA37F6F5A6/download"
+      ]
+    },
+    {
+      "id": "21292",
+      "name": "建築物使用執照之面積造價",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7E3FFC45-73B5-4270-A682-35F5FC7F0D3E/resource/4018C522-A71B-4318-8BD0-81245C2F6499/download"
+      ]
+    },
+    {
+      "id": "21284",
+      "name": "都市設計審查",
+      "format": "json",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6DA1FF74-2B6E-42C6-803B-72B089A61A33/resource/F4588028-1F00-4762-B9D3-4C880982EE10/download"
+      ]
+    },
+    {
+      "id": "26815",
+      "name": "污水下水道用戶接管普及率",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C0A3F730-3F32-43EB-88DE-2F156E7FC4C0/resource/A2EEAD95-CC69-473C-BE3B-50EB477EB9B3/download"
+      ]
+    },
+    {
+      "id": "26496",
+      "name": "全國各縣市公共污水處理廠",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/10472426-6751-40D9-97A8-41D1D0D36921/resource/1C5FBD1E-876E-43E1-AFE2-85998A5023A8/download"
+      ]
+    },
+    {
+      "id": "96569",
+      "name": "非都市土地違規使用案件違規態樣分析統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6B2B1883-DFE3-4A2A-A440-B25EE8896B43/resource/B42DE50A-4B52-4164-845D-41DEB8B49F69/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6B2B1883-DFE3-4A2A-A440-B25EE8896B43/resource/5AD98CD3-83A5-4588-847A-49F2C7C9E753/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6B2B1883-DFE3-4A2A-A440-B25EE8896B43/resource/73FAC359-F99B-47D1-894D-98CC927F9383/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6B2B1883-DFE3-4A2A-A440-B25EE8896B43/resource/2693FED4-4B07-4796-BE2A-E57FF3B48C7B/download"
+      ]
+    },
+    {
+      "id": "162981",
+      "name": "非都市土地違規使用情形用地別面積統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/75C2DC56-3A10-4F5C-A4ED-B787FBA3E356/resource/3E25C327-4C28-490E-932A-B08380BE19AE/download"
+      ]
+    },
+    {
+      "id": "164856",
+      "name": "都市危險及老舊建築物結構安全性能評估共同供應契約機構",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/021678E5-9E8D-44AD-BD6A-1A6CABA317DE/resource/A052CE60-E682-4775-AE29-7144BE714626/download"
+      ]
+    },
+    {
+      "id": "164859",
+      "name": "300億元中央擴大租金補貼專案抽獎活動得獎名單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6B94031B-2013-45C7-931A-FBD4E25C61CB/resource/673177B1-0318-46A0-B169-AE8F9E8D6186/download"
+      ]
+    },
+    {
+      "id": "168030",
+      "name": "國土利用監測變異資料",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AED2D82-07A3-4B96-AF74-633F0BB12815/resource/BFDB2344-53F5-4625-9337-1A832CF368A6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AED2D82-07A3-4B96-AF74-633F0BB12815/resource/03EB4A3E-3134-4DA3-ADB1-6D338A58EAB4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AED2D82-07A3-4B96-AF74-633F0BB12815/resource/383F9DCD-71C5-4BDA-913A-B469B3F6BEC0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AED2D82-07A3-4B96-AF74-633F0BB12815/resource/0F6F7941-E282-405C-9AE4-BC797B748C8B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AED2D82-07A3-4B96-AF74-633F0BB12815/resource/3528C24A-80AD-4D25-A082-D6E13B8A9B71/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AED2D82-07A3-4B96-AF74-633F0BB12815/resource/DFCC2583-3EB4-413D-A4F9-DC34505D7FF4/download"
+      ]
+    },
+    {
+      "id": "152988",
+      "name": "全國非都市土地違規使用裁罰態樣統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/87D3A112-7461-4D97-9EC3-FAD2C2018A7D/resource/B48AB618-BEEF-4EBA-A8EF-29824677675F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/87D3A112-7461-4D97-9EC3-FAD2C2018A7D/resource/DEA10BDA-9103-4F3D-8133-3A9E01F27784/download"
+      ]
+    },
+    {
+      "id": "158713",
+      "name": "國土永續發展基金決算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0E43B9B4-F999-4A3A-81FE-EE078672CCAF/resource/BE09AD24-F7B7-4872-80E6-6E45B64B5B26/download"
+      ]
+    },
+    {
+      "id": "159023",
+      "name": "營建統計年報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4EDA95C3-75DB-4A4D-87C5-EAC9E95FA93F/resource/566CC9E6-1E46-4644-8109-4C0133B9A0FB/download"
+      ]
+    },
+    {
+      "id": "169538",
+      "name": "非都市土地使用分區圖（112年）",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/6E49B266-7EF9-474D-8C23-0950D9947916/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/F8C839A4-AFB3-4CED-92CE-0B81D6E98416/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/EF6A21FD-DA48-40E1-B66A-161975FF907E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/B4DA0BAC-00D9-46D2-BE39-18957ECFA92B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/96EB2EBD-5202-408C-AA0F-19A098FF0CAA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/5518E2CC-ABFF-406A-A97A-2EC6E2784ADC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/2F77EEC6-0CC0-40ED-917E-39B7AE1F45EF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/1EE060FF-C972-44B2-A7BC-5B6E24B9F078/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/63907BA1-69B3-44B0-896F-63BCB7B18021/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/609AA3C2-52C0-474A-9F05-7E8D9CF7A174/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/11289AFC-C694-491D-966D-80B51AAB00D0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/620F7051-B331-43ED-9E35-99999E691EDC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/7F102FBE-B5E0-433A-AD54-B56CC3017486/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/2C6A2A4C-5EB5-4951-8560-B6E76D626CD2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/828FABEC-8AFA-4920-B067-C40434402A98/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/3C629B8C-891F-4114-B719-C9826B181867/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/A260DF26-5035-4C0D-964F-DE621554238D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6367713-CC90-4581-A10F-0BB4B15B9097/resource/D51E3C65-A185-4C59-A4AD-FD5B9FC27FC1/download"
+      ]
+    },
+    {
+      "id": "169657",
+      "name": "中央政府前瞻基礎建設計畫第4期特別預算會計月報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A5160AFE-F1CD-4A8E-8D3C-3AA3F115E020/resource/B23A0EA9-1CFA-4D8B-8728-5980BDF7952D/download"
+      ]
+    },
+    {
+      "id": "169659",
+      "name": "中央政府前瞻基礎建設計畫第2期特別決算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E6837830-15CC-4317-80F2-8C5DC52C95D1/resource/FE9DAF71-FAA5-46CA-9EF2-F1139EC22B49/download"
+      ]
+    },
+    {
+      "id": "169660",
+      "name": "中央政府前瞻基礎建設計畫第3期特別決算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FC1A0E6A-D8F8-4AD3-B143-01657CBD7B32/resource/FE647B14-667A-420F-8AF5-469ADC750E34/download"
+      ]
+    },
+    {
+      "id": "169800",
+      "name": "接受住宅補貼戶次及金額",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/76147D7F-A30A-446C-B6E2-C7F9B20D9920/resource/9817284B-AA54-46A9-9265-8C2396972E99/download"
+      ]
+    },
+    {
+      "id": "7506",
+      "name": "房地產消費糾紛案例",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B28E9D3-CB4B-481F-AF9E-C93BF447A206/resource/88CDAF13-5B1C-4822-B858-1FAB60FDBDAD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B28E9D3-CB4B-481F-AF9E-C93BF447A206/resource/6B53C22C-AB8D-4FF5-8352-E089DCEF4B0C/download"
+      ]
+    },
+    {
+      "id": "19374",
+      "name": "中央都市更新基金會計月報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7DDE43D1-9802-4498-969A-A3EFBE4B3EAF/resource/95C0F32D-A5B4-4245-BC3E-AC41BE092C22/download"
+      ]
+    },
+    {
+      "id": "9519",
+      "name": "公寓大廈管理服務人員資料",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5F6A0398-0BB2-4774-96BC-822044749E3D/resource/847D5F61-6C10-420F-AA2E-4B967F6232A6/download"
+      ]
+    },
+    {
+      "id": "20928",
+      "name": "建築物建造執照及使用執照",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/024975C8-1C93-43CA-9530-56295E8D38D7/resource/C8CC3C3F-D454-4E99-B4B4-A565C71B57EE/download"
+      ]
+    },
+    {
+      "id": "21199",
+      "name": " 中部辦公室審議案件情形 ",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/46BEDB09-E2B4-4C42-BBE7-A5DB720524BB/resource/42A589E0-2541-43D6-8366-4194BA7DE471/download"
+      ]
+    },
+    {
+      "id": "21202",
+      "name": "「內政部區域計畫委員會」委員名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F48D66DE-DA80-4E15-85B6-B511EC30A350/resource/9E85442E-687A-4B63-A505-071C8FC13A37/download"
+      ]
+    },
+    {
+      "id": "21206",
+      "name": "內政部區域計畫委員會召開委員會議預定日程表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/192E0DD8-1B02-4E20-A39E-A1491B42B444/resource/633A6E39-3EC7-4E58-9871-432A3F10EFEC/download"
+      ]
+    },
+    {
+      "id": "21232",
+      "name": "住宅建設下載專區",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0D6A0C70-048A-4DC8-847E-ADE2A38FF77C/resource/05AE9598-31AE-4DE1-8D04-55A38E599B5A/download"
+      ]
+    },
+    {
+      "id": "21371",
+      "name": "新訂或擴大都市計畫案件進度",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4D2797FE-F53C-4C6C-9D41-5E13FE3B7D6D/resource/59CF417D-9AB6-4CC9-AB22-78F0153026F7/download"
+      ]
+    },
+    {
+      "id": "21286",
+      "name": "區委會下載專區資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D60467C4-D44F-47BB-84A6-50C3DA2FBFDE/resource/7DFB01CB-A795-4A4E-8078-BE06EF7012A5/download"
+      ]
+    },
+    {
+      "id": "21288",
+      "name": "專題報導",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/815F3003-93E6-4E4A-B2D1-BFDCBC0FCF19/resource/9B853360-2CB2-4F07-92D2-900F48D9626A/download"
+      ]
+    },
+    {
+      "id": "21289",
+      "name": "解釋函彙編",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/20497A37-70A7-42C9-A691-A322F081D469/resource/3A8D4327-DDD4-478D-8BF5-1F4899681795/download"
+      ]
+    },
+    {
+      "id": "25104",
+      "name": "非都市土地違規使用情形統計表-用地別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CF0A794B-F242-4905-BFAE-FFBCF09F9DBE/resource/116A7E2B-F72B-4425-AFCA-5883D8B1AC61/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CF0A794B-F242-4905-BFAE-FFBCF09F9DBE/resource/64505CB2-DE2B-4192-B6C0-82B8406F3876/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CF0A794B-F242-4905-BFAE-FFBCF09F9DBE/resource/05C1D0FF-BF62-45A1-8F2E-82E836898BDB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CF0A794B-F242-4905-BFAE-FFBCF09F9DBE/resource/1C770B05-D755-41F7-9980-9D4A9E0D7A9B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CF0A794B-F242-4905-BFAE-FFBCF09F9DBE/resource/5938DBFB-79A0-49F8-9B92-DE47A5C13946/download"
+      ]
+    },
+    {
+      "id": "34307",
+      "name": "地方政府違規使用查處情形土地面積統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/316A0787-5978-47FE-A409-145C9E2AF700/resource/1D2C6A17-AB8C-4FBC-BD7A-1C5129203F03/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/316A0787-5978-47FE-A409-145C9E2AF700/resource/5C3D508D-9BCF-4432-A72F-32EAF26E3EEC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/316A0787-5978-47FE-A409-145C9E2AF700/resource/0714B417-397C-4727-9264-3D70FD47BEB4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/316A0787-5978-47FE-A409-145C9E2AF700/resource/2A77DD14-9A86-4342-9CF1-52E46705BB0F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/316A0787-5978-47FE-A409-145C9E2AF700/resource/920F37B2-8779-499F-83B0-549E6FEE3480/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/316A0787-5978-47FE-A409-145C9E2AF700/resource/269405F2-2585-4381-8376-A64FE2C2FF0A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/316A0787-5978-47FE-A409-145C9E2AF700/resource/9B7D1704-B414-40E2-B10B-AD6A7495ED0F/download"
+      ]
+    },
+    {
+      "id": "34308",
+      "name": "地方政府違規使用查處情形土地筆數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3E2B6CF1-929A-465A-BDD6-4880810FE453/resource/EA81B63A-28C0-4EAC-9C0B-21CB0E85BE16/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3E2B6CF1-929A-465A-BDD6-4880810FE453/resource/97A7DFDB-E23E-414D-868F-737AE98C0F13/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3E2B6CF1-929A-465A-BDD6-4880810FE453/resource/2B4DC335-A79E-478A-B6EE-B161132B6953/download"
+      ]
+    },
+    {
+      "id": "58791",
+      "name": "人行道",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11D38E3D-F980-40BF-B714-4E0DB8AA1252/resource/7694EC6D-353B-4164-974A-354A6B9B53EE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11D38E3D-F980-40BF-B714-4E0DB8AA1252/resource/2BED47C8-AEF0-4CDD-91B7-39794267A9C0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11D38E3D-F980-40BF-B714-4E0DB8AA1252/resource/9F1E4A33-2339-417B-B8EF-576CFC19B70A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11D38E3D-F980-40BF-B714-4E0DB8AA1252/resource/72795630-0CB6-4A8F-A49C-AB849CB9AF98/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11D38E3D-F980-40BF-B714-4E0DB8AA1252/resource/E8067D32-FF13-40BF-8E59-CEF6153201ED/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11D38E3D-F980-40BF-B714-4E0DB8AA1252/resource/03D39299-ED24-4582-98D9-F7E73C65B62E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11D38E3D-F980-40BF-B714-4E0DB8AA1252/resource/073DAFCA-0803-43F1-931F-FC23591824A9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11D38E3D-F980-40BF-B714-4E0DB8AA1252/resource/895C97CE-3CF1-4780-A250-FF6EA54F3431/download"
+      ]
+    },
+    {
+      "id": "90135",
+      "name": "自行車道",
+      "format": "json",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/906489F2-EFA0-493D-949D-191A46D0B9E4/resource/4A4C9D14-A1E0-453B-950A-778014BBBF26/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/906489F2-EFA0-493D-949D-191A46D0B9E4/resource/8E419B8E-8FA7-4ED5-A4F4-7FD5711B7766/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/906489F2-EFA0-493D-949D-191A46D0B9E4/resource/8B4B24D4-93B4-4582-BD43-9489B1AD811A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/906489F2-EFA0-493D-949D-191A46D0B9E4/resource/8CCD2D02-053A-4927-AF5A-A468EBE3CB6D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/906489F2-EFA0-493D-949D-191A46D0B9E4/resource/56AD15B2-4749-45B7-BB0F-C1CB5ED3E115/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/906489F2-EFA0-493D-949D-191A46D0B9E4/resource/47D87E0E-C411-4103-90A2-C313E21D8D02/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/906489F2-EFA0-493D-949D-191A46D0B9E4/resource/4CEC1CDC-C7B4-4119-A3EE-E948488B3EB9/download"
+      ]
+    },
+    {
+      "id": "158701",
+      "name": "國土永續發展基金會計月報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4BCDEC-5FEA-460A-ADCC-E18C4C24E9E7/resource/6E65C738-BBB6-4ADD-A257-0D450F56B10B/download"
+      ]
+    },
+    {
+      "id": "172183",
+      "name": "固體廢棄物排放帳－營造廢棄物",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BBA058A6-A010-4408-8DF7-E0582D54A736/resource/EB34C343-D768-4CE5-A6F2-94096CAC809E/download"
+      ]
+    },
+    {
+      "id": "169539",
+      "name": "非都市土地使用地編定圖（112年）",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/309CFA36-1C58-41C4-A872-028DD25D25A1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/0F081C76-D7B9-44E5-A8FE-04DCB73126AE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/9D2C5CDB-4160-4392-A800-0FC99A6E4C85/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/928B3D83-AEDF-429B-B795-23F1782EBC2D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/D3AE0EBB-A6D4-41AA-8AE2-451EC3A0329F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/A3B12384-420A-4B61-9C12-6994F672E111/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/33C8413F-77AB-4ACB-AE28-77ABAD90B2D7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/8023EF23-4EA7-4D69-A781-88CE6AFA28CF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/6200D90C-8B4D-4E3A-AC42-897A576C0FC6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/8D08EB29-5AE0-495C-BFCD-8ADF47765E7B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/1DA4864B-B9C3-4AF5-BCF4-974DF61A2D10/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/9E98AD3B-2D89-4840-AE38-988FD56382E2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/96C7005B-47F9-492B-8989-9EB158F8E971/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/25410D6E-56E6-4664-B1B3-A9347E1EF4CB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/43A11878-8C1F-43E3-AA80-ABC133366422/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/CE315BE6-C5FE-4A99-95D0-B2C44BBF0845/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/875070F7-37A1-45F4-9677-B4A1C734AD37/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/4969DF4F-EDDE-4BB1-A57E-BEB8B19490E4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/E5F6D166-1C38-4EEA-8453-BF83D785988E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/017614E0-A15B-470E-A8A7-C24ED181B306/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/320448A6-8DA4-47F2-9A03-C74F1E67516A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/6B731471-B295-49D2-A2DA-C83C9BCF8ADA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/B7FFACB1-449B-4192-8626-D26A4575CBDF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/B7383847-8011-4D39-A648-D3ECE3BDF240/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/0BD3FC87-0DC5-4786-9AAD-D5808AD07ACD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/C825330B-C03D-4347-B61C-D6DBE2F07658/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/99D85349-593C-4B75-B64D-DECB37D19CB9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/3A8B7C41-A1B8-4233-8FB0-E65695671875/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E149D6E-01C4-4406-A987-046E21B60E20/resource/6F9CB009-C042-4743-8F87-F01A93B98DE6/download"
+      ]
+    },
+    {
+      "id": "169658",
+      "name": "中央政府前瞻基礎建設計畫第1期特別決算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/137C9E92-88B9-49A3-84A1-76BFFE598D23/resource/E05ADFB3-DF4E-4165-872D-F846837FD6A5/download"
+      ]
+    },
+    {
+      "id": "144620",
+      "name": "建築物附設停車空間",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/471F9DA9-3CEF-4C0E-984C-57010EB77703/resource/298B1C55-4E61-4306-BBB6-A81F795F7061/download"
+      ]
+    },
+    {
+      "id": "164854",
+      "name": "營造業工地主任220小時職能訓練課程講習計畫考區成績",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5B5DB8A2-E780-466D-B77F-4D50E452E576/resource/699E9696-DC28-4C68-B454-E7BECBA120A4/download"
+      ]
+    }
+  ]
+}

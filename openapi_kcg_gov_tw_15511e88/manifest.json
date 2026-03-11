@@ -1,0 +1,34 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府法制局",
+  "slug": "openapi_kcg_gov_tw_15511e88",
+  "datasets": [
+    {
+      "id": "101645",
+      "name": "高雄市政府免費法律諮詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a8baf72-719c-4541-9cf5-03a77a9c4e11",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a8baf72-719c-4541-9cf5-03a77a9c4e11"
+      ]
+    },
+    {
+      "id": "101646",
+      "name": "高雄市政府訴願案件統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/327e940d-4523-4bd9-920a-2213fa4902c8",
+        "https://data.kcg.gov.tw/File/DirectDownload/327e940d-4523-4bd9-920a-2213fa4902c8"
+      ]
+    },
+    {
+      "id": "160651",
+      "name": "高雄市政府國家賠償案件統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5e643d3a-b620-4f53-a516-ca0f31be67aa",
+        "https://data.kcg.gov.tw/File/DirectDownload/5e643d3a-b620-4f53-a516-ca0f31be67aa"
+      ]
+    }
+  ]
+}

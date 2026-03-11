@@ -1,0 +1,47 @@
+{
+  "type": "dataset",
+  "provider": "臺北市交通事件裁決所",
+  "slug": "data_taipei_18835461",
+  "datasets": [
+    {
+      "id": "131324",
+      "name": "臺北市車輛行車事故鑑定案件分類統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/63f9d833-1b5e-4cd3-8973-7978ae9f6585/resource/088834e7-43c7-4559-9556-6485dbccfa5d/download"
+      ]
+    },
+    {
+      "id": "156678",
+      "name": "臺北市交通事件裁決所本年度因違反道路交通管理事件提出申訴條款前5名",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/da715207-29e8-4b8d-b680-7fc120211512/resource/4c772c1d-6f69-45ce-b093-8abf6248ffee/download"
+      ]
+    },
+    {
+      "id": "145703",
+      "name": "臺北市交通事件裁決所交通違規罰鍰繳納管道概況",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/69b915b5-39f1-4edc-8945-02276bd42109/resource/553b169c-1d37-404d-8160-3637ad61cdb2/download"
+      ]
+    },
+    {
+      "id": "156673",
+      "name": "臺北市交通事件裁決所駕牌照吊扣銷件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ee582f24-d3c1-422e-badd-d948cf6bf9a1/resource/5e209562-544d-4b66-8bc2-c8b99be5a1e2/download"
+      ]
+    },
+    {
+      "id": "155949",
+      "name": "臺北市交通事件裁決所本年度交通違規入案件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/600001c4-f4f8-49e7-85a3-d3a73a3ba9ef/resource/71d63d39-50e2-4ee9-a52a-74edb2dcfe84/download"
+      ]
+    }
+  ]
+}

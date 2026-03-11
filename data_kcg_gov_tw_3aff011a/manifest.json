@@ -1,0 +1,283 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府都市發展局",
+  "slug": "data_kcg_gov_tw_3aff011a",
+  "datasets": [
+    {
+      "id": "127252",
+      "name": "高雄市政府都發局資料盤點表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1b8994ee-062c-48ac-9b0d-72ba7a3b5415",
+        "https://data.kcg.gov.tw/File/DirectDownload/1b8994ee-062c-48ac-9b0d-72ba7a3b5415"
+      ]
+    },
+    {
+      "id": "161982",
+      "name": "高雄市容積移轉交通轉運中心半徑800M接受基地範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/85b03789-d958-4a51-8365-2e331bed8a4a?fileId=e326313e-cb32-456d-9432-34244b284a44&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "161930",
+      "name": "高雄市容積移轉面臨10公頃以上已開闢公園用地接受基地範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/da8a4fe2-e0ef-4c48-ae19-bf0fd1b43834?fileId=f4aaa813-9e64-4553-9465-124542454c56&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "161935",
+      "name": "高雄市都市計畫細部計畫範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/3ebe4105-235b-4b14-b4c5-19313dc05412?fileId=a544fd6d-cb56-4565-b176-5d6355547144&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "166887",
+      "name": "高雄市公益出租人資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4c8ed898-42ae-48e7-a5c2-928c78be7468"
+      ]
+    },
+    {
+      "id": "166346",
+      "name": "高雄市容積移轉台鐵捷運化半徑400M接受基地範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/2010a1ad-4036-45d3-b01a-0b77a93b26e7?fileId=23f18e61-dd23-45c5-9532-226651654366&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "168474",
+      "name": "高雄市社區營造計畫補捐助名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b048a8ff-87b1-4a46-a301-07ed9e8997b7",
+        "https://data.kcg.gov.tw/File/directDownload/b048a8ff-87b1-4a46-a301-07ed9e8997b7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72e2b28a-8349-492f-9b57-1cf96c3275e4",
+        "https://data.kcg.gov.tw/File/directDownload/72e2b28a-8349-492f-9b57-1cf96c3275e4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0eabf637-7fbb-49af-8e08-1d77ad007523",
+        "https://data.kcg.gov.tw/File/directDownload/0eabf637-7fbb-49af-8e08-1d77ad007523",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/48d1e6a3-e82b-4e02-b4d1-74fb34a89c6c",
+        "https://data.kcg.gov.tw/File/directDownload/48d1e6a3-e82b-4e02-b4d1-74fb34a89c6c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/79ebb287-77f0-4179-9a63-94cea9fbc22c",
+        "https://data.kcg.gov.tw/File/directDownload/79ebb287-77f0-4179-9a63-94cea9fbc22c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/684b3997-a3af-4592-9fff-9eb3f7a27412",
+        "https://data.kcg.gov.tw/File/directDownload/684b3997-a3af-4592-9fff-9eb3f7a27412",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f240aeb-1ee0-4b72-95eb-adff42dfd041",
+        "https://data.kcg.gov.tw/File/directDownload/1f240aeb-1ee0-4b72-95eb-adff42dfd041",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9e0b0366-a022-46b8-ad57-b2891415f7aa",
+        "https://data.kcg.gov.tw/File/directDownload/9e0b0366-a022-46b8-ad57-b2891415f7aa",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/40513b76-cf7a-48c3-90c2-c7d85ceab4e8",
+        "https://data.kcg.gov.tw/File/directDownload/40513b76-cf7a-48c3-90c2-c7d85ceab4e8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d0d5a76e-e2b2-4636-8fc8-cba19c0effc1",
+        "https://data.kcg.gov.tw/File/directDownload/d0d5a76e-e2b2-4636-8fc8-cba19c0effc1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/242e7258-4c6c-4041-96fe-cc2f61ddee4c",
+        "https://data.kcg.gov.tw/File/directDownload/242e7258-4c6c-4041-96fe-cc2f61ddee4c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f3092e3-5562-4bb0-abed-dbfb46868bbd",
+        "https://data.kcg.gov.tw/File/directDownload/5f3092e3-5562-4bb0-abed-dbfb46868bbd"
+      ]
+    },
+    {
+      "id": "102029",
+      "name": "高雄市都市計畫委員會委員名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5730511d-4669-4811-9a3e-781a611c83f2",
+        "https://data.kcg.gov.tw/File/DirectDownload/5730511d-4669-4811-9a3e-781a611c83f2"
+      ]
+    },
+    {
+      "id": "102027",
+      "name": "高雄市都市設計及土地使用開發許可審議委員名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e0ef44b8-997c-4cfa-83fa-ec496729750e",
+        "https://data.kcg.gov.tw/File/DirectDownload/e0ef44b8-997c-4cfa-83fa-ec496729750e"
+      ]
+    },
+    {
+      "id": "102028",
+      "name": "高雄市非都市土地開發專責審議小組委員名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e994f466-c918-41b0-a730-d7053bd7ede0",
+        "https://data.kcg.gov.tw/File/DirectDownload/e994f466-c918-41b0-a730-d7053bd7ede0"
+      ]
+    },
+    {
+      "id": "127652",
+      "name": "高雄市「城鎮之心工程計畫」提案計畫經費核定總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0d8a2129-1023-40b1-9df4-24a2a907ed8c",
+        "https://data.kcg.gov.tw/File/DirectDownload/0d8a2129-1023-40b1-9df4-24a2a907ed8c"
+      ]
+    },
+    {
+      "id": "127654",
+      "name": "高雄市都市計畫委員會審議會議紀錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d6c5ae8-4049-494a-b675-26ac1ae33943",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d6c5ae8-4049-494a-b675-26ac1ae33943"
+      ]
+    },
+    {
+      "id": "127567",
+      "name": "高雄市都市更新成果",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/01350804-5d2f-47a9-94bb-e4765d75da34",
+        "https://data.kcg.gov.tw/File/DirectDownload/01350804-5d2f-47a9-94bb-e4765d75da34"
+      ]
+    },
+    {
+      "id": "130392",
+      "name": "高雄市非都市土地開發專責審議小組審議會議紀錄",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a4eec39-1323-4f7b-ae61-78ff50083729",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a4eec39-1323-4f7b-ae61-78ff50083729"
+      ]
+    },
+    {
+      "id": "161936",
+      "name": "高雄市都市計畫主要計畫範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/7e40f979-09e9-4176-82e6-edb528306c43?fileId=282f4131-9c44-4f3f-a634-266b13562265&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "161942",
+      "name": "高雄市容積移轉捷運橘線半徑800M接受基地範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/70e531a4-b145-403a-837b-a357bd4a0e0a?fileId=725b601d-bc36-4654-9322-33536c4256c1&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "161981",
+      "name": "高雄市容積移轉捷運紅線半徑400M接受基地範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/e4857363-d670-4772-a3f8-05c712acd04f?fileId=bb3fed1e-be53-4536-a565-844225c3353b&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "161975",
+      "name": "高雄市容積移轉台鐵捷運化半徑800M接受基地範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/60094c11-aa31-42f9-973d-8b910cff76b1?fileId=695a0820-9ed4-4541-8525-6655461f5243&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "161978",
+      "name": "高雄市容積移轉捷運橘線半徑400M接受基地範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/c67c875c-5eba-4173-9259-cce181d4ea53?fileId=4c22ad00-8b43-4445-96e6-567413416433&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "166888",
+      "name": "社會住宅包租代管統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d0eed3a0-d8ff-46fe-be79-678bab123065"
+      ]
+    },
+    {
+      "id": "155646",
+      "name": "高雄市都市設計審議審議案量統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c02ab432-62ed-458c-8276-e92c8ca56c1d",
+        "https://data.kcg.gov.tw/File/DirectDownload/c02ab432-62ed-458c-8276-e92c8ca56c1d"
+      ]
+    },
+    {
+      "id": "136838",
+      "name": "高雄市公告實施都市更新地區計畫",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aa6656c2-7f3a-43c6-8ce1-915093477795",
+        "https://data.kcg.gov.tw/File/DirectDownload/aa6656c2-7f3a-43c6-8ce1-915093477795"
+      ]
+    },
+    {
+      "id": "87256",
+      "name": "高雄市住宅補貼辦理情形表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/02b86d71-b738-4c59-86b7-3b00b6e0bcff",
+        "https://data.kcg.gov.tw/File/DirectDownload/02b86d71-b738-4c59-86b7-3b00b6e0bcff",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/317c336b-3c53-4168-a4d6-53aa3cdd5797",
+        "https://data.kcg.gov.tw/File/DirectDownload/317c336b-3c53-4168-a4d6-53aa3cdd5797",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9442a8d9-d524-4ce6-a174-8aebabfaabed",
+        "https://data.kcg.gov.tw/File/DirectDownload/9442a8d9-d524-4ce6-a174-8aebabfaabed",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6282ca18-41fa-4453-9031-cc4cad86f57c",
+        "https://data.kcg.gov.tw/File/DirectDownload/6282ca18-41fa-4453-9031-cc4cad86f57c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1adf54c1-0ff5-4d36-979d-f8be94e4651c",
+        "https://data.kcg.gov.tw/File/DirectDownload/1adf54c1-0ff5-4d36-979d-f8be94e4651c"
+      ]
+    },
+    {
+      "id": "166345",
+      "name": "高雄市「城鎮風貌及創生環境營造計畫」提案計畫經費核定總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f9887583-f335-4576-bc40-ab3cd1b7eb84",
+        "https://data.kcg.gov.tw/File/DirectDownload/f9887583-f335-4576-bc40-ab3cd1b7eb84"
+      ]
+    },
+    {
+      "id": "166889",
+      "name": "高雄住宅補貼歷年租金補貼申請地址（TWD97）",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6844bcd7-fae5-4548-8e38-8c591fdc0cc5"
+      ]
+    },
+    {
+      "id": "161983",
+      "name": "高雄市容積移轉都計書指定接受基地範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/5c4c8869-05cd-432b-8a1f-61ac3fdd06c3?fileId=cc5ba196-0b22-443b-9543-43646165e355&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "161969",
+      "name": "高雄市容積移轉交通轉運中心半徑400M接受基地範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/0d19f4a0-8272-4381-8351-8223784f523b?fileId=1dd97e1f-cc5a-4355-b523-5625343d9234&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "161974",
+      "name": "高雄市容積移轉捷運紅線半徑800M接受基地範圍圖",
+      "format": "shp",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/37c0aab4-8f8b-4ba3-bfa4-931baddec3bc?fileId=1bc963fe-cf5d-4246-a4c2-21e241c36432&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "155647",
+      "name": "高雄市都市設計審議許可案量統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/af20000e-5575-4006-83d1-0182abf1998e",
+        "https://data.kcg.gov.tw/File/DirectDownload/af20000e-5575-4006-83d1-0182abf1998e"
+      ]
+    }
+  ]
+}

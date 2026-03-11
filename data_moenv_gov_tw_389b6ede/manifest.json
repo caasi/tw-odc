@@ -1,0 +1,376 @@
+{
+  "type": "dataset",
+  "provider": "環境部化學物質管理署",
+  "slug": "data_moenv_gov_tw_389b6ede",
+  "datasets": [
+    {
+      "id": "6354",
+      "name": "列管毒性化學物質毒理資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/toxic_s_01?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/toxic_s_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/toxic_s_01?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "40088",
+      "name": "環境部化學物質管理署單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_21/8e150fc2-980f-46a7-820e-c7d4c6f32e92",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_21/805ce630-e7d7-487e-aa04-7ead94eb01fd",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_21/e7914078-dc4d-4033-89bd-c05bfb1eea08"
+      ]
+    },
+    {
+      "id": "30825",
+      "name": "持久性有機污染物斯德哥爾摩公約國家實施計畫成果報告",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/doc_p_08?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/doc_p_08?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/doc_p_08?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "30786",
+      "name": "公告毒性化學物質及其毒性分類",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/toxic_p_23?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_23?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_23?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34946",
+      "name": "低關注聚合物事前審定表單",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/txmg_p_53?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_53?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_53?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34848",
+      "name": "斯德哥爾摩公約出國報告",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/doc_p_09?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/doc_p_09?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/doc_p_09?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34857",
+      "name": "歷年化學物質環境流布調查成果手冊",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/toxic_p_21?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_21?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_21?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34858",
+      "name": "通過逐車審驗運送車輛",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/wr_p_29?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/wr_p_29?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/wr_p_29?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34957",
+      "name": "新化學物質及既有化學物質資料登錄辦法英文版",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/ep_p_26?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ep_p_26?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ep_p_26?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34964",
+      "name": "新化學物質標準登錄表單",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/txmg_p_48?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_48?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_48?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34965",
+      "name": "新化學物質登錄資訊系統工具(Chemist)",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/txmg_p_49?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_49?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_49?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "70982",
+      "name": "環境用藥製造業地理資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/eamp_p_23?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_23?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_23?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "99805",
+      "name": "環境部化學物質管理署單位決算",
+      "format": "zip",
+      "urls": [
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_30/59469d41-aaeb-4d82-8fd9-d9b836b4a080",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_30/16777af9-f5d6-4272-b6a7-acc3f1bcfa7f",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_30/149c20bd-3c4c-4c52-8ef3-875b1013278c",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_30/ac24f676-c1be-4189-8aae-cc8d1f0fe18d",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_30/a18f42e4-cbbe-4e10-8bec-344dfaf3ecfe",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_30/d51d21c3-699d-4e6e-b67a-84c8ba43b45f",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_30/51293f73-eed4-444d-8600-56210dd442b0"
+      ]
+    },
+    {
+      "id": "142916",
+      "name": "環境部化學物質管理署補、捐(獎)助團體及個人情形表",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/bgt_p_34?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=yyyyq desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_34?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=yyyyq desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_34?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=yyyyq desc&format=XML"
+      ]
+    },
+    {
+      "id": "35168",
+      "name": "環境部化學物質管理署法定預算",
+      "format": "zip",
+      "urls": [
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_24/70ba3f2d-22be-442f-8f61-00ceadc024fe",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_24/b01fbf43-9635-4da8-a2c3-23695373d42e"
+      ]
+    },
+    {
+      "id": "34250",
+      "name": "毒性化學物質釋放量公開資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/toxic_p_18?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_18?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_18?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34958",
+      "name": "化學物質資料及登錄申請表",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/ep_p_27?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ep_p_27?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ep_p_27?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "35373",
+      "name": "車機型號妥善率報表",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/mpi_p_08?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/mpi_p_08?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/mpi_p_08?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "28173",
+      "name": "毒性化學物質許可目的用途資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/toxic_p_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_01?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_01?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "28175",
+      "name": "毒性化學物質許可證資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/toxic_p_03?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_03?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_03?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "91076",
+      "name": "病媒防治業許可執照資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/eamp_p_14?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_14?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_14?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "91078",
+      "name": "環境防蟲用天然物質資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/eamp_p_15?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_15?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_15?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "8995",
+      "name": "環境用藥微生物製劑常見菌種特性資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/eamp_p_01?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_01?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "28174",
+      "name": "毒性化學物質禁止運作事項資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/toxic_p_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_02?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_02?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "35167",
+      "name": "環境部化學物質管理署會計月報",
+      "format": "zip",
+      "urls": [
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_23/38b0c074-0edc-41ea-b9b2-45b833994103",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_23/741abeaf-e918-49dd-933c-35622cdc2f8e",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_23/a41fa2dc-d5b6-46dd-8c02-5ec253e34905",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_23/46120960-a5eb-40a3-b5f9-e22287a9d16b",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_23/621c53f2-a34e-4b21-9a53-94ae026e65a3",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_23/964fcd78-7688-4769-87e8-e86cb4aa44a4",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_23/c073b8e3-35bc-4ec2-a503-fe8ae1cdfdb8",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_23/0188d8bc-cf68-404a-bb28-50b19b001e3c",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_23/f08725ab-2dab-43b2-9113-45a08925889a"
+      ]
+    },
+    {
+      "id": "34853",
+      "name": "通過先期測試車機商/系統商",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/mpi_p_07?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/mpi_p_07?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/mpi_p_07?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34859",
+      "name": "環境荷爾蒙管理計畫執行成果",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/ep_p_28?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ep_p_28?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ep_p_28?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "30797",
+      "name": "毒化物運作紀錄申報總量",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/toxic_p_19?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_19?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/toxic_p_19?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34960",
+      "name": "新化學物質少量登錄表單",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/txmg_p_43?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_43?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_43?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34961",
+      "name": "新化學物質簡易登錄表單",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/txmg_p_44?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_44?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_44?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "71361",
+      "name": "病媒防治業地理資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/eamp_p_22?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_22?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_22?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "70983",
+      "name": "環境用藥販賣業地理資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/eamp_p_24?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_24?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_24?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "91066",
+      "name": "環境用藥販賣業許可執照資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/eamp_p_13?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_13?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/eamp_p_13?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "161616",
+      "name": "毒性化學物質許可及申報資料",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/ems_s_05?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ems_s_05?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ems_s_05?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "152165",
+      "name": "新化學物質及既有化學物質資料登錄工具說明",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/doc_p_11?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/doc_p_11?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/doc_p_11?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "155538",
+      "name": "新化學物質資料保護申請表單",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/txmg_p_41?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_41?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/txmg_p_41?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    }
+  ]
+}

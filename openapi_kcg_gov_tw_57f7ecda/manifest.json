@@ -1,0 +1,63 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府政風處",
+  "slug": "openapi_kcg_gov_tw_57f7ecda",
+  "datasets": [
+    {
+      "id": "127677",
+      "name": "高雄市政府108年公職人員財產申報情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a774c54-9d0c-4314-bf86-7fa8f1e19fae",
+        "https://data.kcg.gov.tw/File/DirectDownload/6a774c54-9d0c-4314-bf86-7fa8f1e19fae"
+      ]
+    },
+    {
+      "id": "127678",
+      "name": "高雄市政府108年所屬政風機構廉政會報件數一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/097777c5-4bd4-40b2-b84b-fca6032bef10",
+        "https://data.kcg.gov.tw/File/DirectDownload/097777c5-4bd4-40b2-b84b-fca6032bef10"
+      ]
+    },
+    {
+      "id": "127679",
+      "name": "高雄市政府檢舉管道",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/046ca03c-99d2-4eda-8aaf-30bbaf0667ae",
+        "https://data.kcg.gov.tw/File/DirectDownload/046ca03c-99d2-4eda-8aaf-30bbaf0667ae"
+      ]
+    },
+    {
+      "id": "127675",
+      "name": "高雄市政府108年所屬政風機構維護會報件數、比例一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/67168bbd-6e1b-46ea-a3ae-39c526ca6f65",
+        "https://data.kcg.gov.tw/File/DirectDownload/67168bbd-6e1b-46ea-a3ae-39c526ca6f65",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/342b1537-4c8f-4c0e-8a70-877114fb6f65",
+        "https://data.kcg.gov.tw/File/DirectDownload/342b1537-4c8f-4c0e-8a70-877114fb6f65"
+      ]
+    },
+    {
+      "id": "127676",
+      "name": "高雄市政府108年所屬政風機構維護宣導件數一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/13725464-8629-48b8-b120-1a263e719e7d",
+        "https://data.kcg.gov.tw/File/DirectDownload/13725464-8629-48b8-b120-1a263e719e7d"
+      ]
+    },
+    {
+      "id": "127733",
+      "name": "高雄市政府政風處暨所屬政風機構電話",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/419354ff-cd2e-49c9-ac2e-160df5b806d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/419354ff-cd2e-49c9-ac2e-160df5b806d6"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府建設局",
+  "slug": "datacenter_taichung_gov_tw_64653c3a",
+  "datasets": [
+    {
+      "id": "82808",
+      "name": "臺中市政府公共設施維護統計資訊",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=df964e31-eb72-4cac-9fea-ac74f7f1ef0e"
+      ]
+    },
+    {
+      "id": "84491",
+      "name": "104年臺中市政府人行道固定設施-固定箱類設施",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/49cbd3a3-4017-403b-b442-211ebc2ab9fc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5715b90b-6944-4af4-9777-ecda26f2d970",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/94c95599-4c9b-4452-9882-12de65fb9fb7"
+      ]
+    },
+    {
+      "id": "84496",
+      "name": "臺中市公共設施管線之路面設施物圖資",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2f59b898-4db1-4166-9c33-2230f3934806"
+      ]
+    },
+    {
+      "id": "88585",
+      "name": "20535-01-01-2 臺中市區道公路養護工程成果",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c9f458f6-ae2d-4970-8120-3cec58e07e3f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff0e88c4-9c5a-43da-937f-face46949d51",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b444125b-c582-45cc-900b-5d5c014676bc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=00af7c5a-4b12-4fd4-94c2-6596e2e6e925",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b8556e1d-71b6-4961-be7d-cb75c6b7e4e7"
+      ]
+    },
+    {
+      "id": "88587",
+      "name": "20535-01-03-2 臺中市區道公路新建及改善工程完成數量",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f348e2d9-8fcc-49ed-9a1e-bbfc004d7240",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=740387d5-176d-42b7-afe8-3d881e088b1b"
+      ]
+    },
+    {
+      "id": "88593",
+      "name": "20535-01-12-2 臺中市實施統一挖補區之挖補件數、面積",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0ebd2b8a-7142-4693-a1ac-4792bb8faf52",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=50f40948-cdda-4213-896d-81286925ab20"
+      ]
+    },
+    {
+      "id": "88594",
+      "name": "20535-06-01-2 臺中市路燈設備",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8fa9747b-9ff7-4078-932c-4ee7b834e39c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a5645307-7fe6-448a-b2db-03e4533f679e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e92d911f-4005-4235-ab0c-cd61540106b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=080d034c-90a1-433f-8976-8be7e012c8f2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a5462ec7-2c6b-4f4d-bc43-7c920501e1d0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d72c449-2fd1-419b-b181-5c58248ec5c4"
+      ]
+    },
+    {
+      "id": "88595",
+      "name": "20535-07-01-2 臺中市已開闢公園、綠地、兒童遊樂場、廣場、河濱公園座數面積",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a29bad4-2dcd-4b12-9cfd-037b2a932643",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2c77b96e-65d5-4096-b068-dbaa0e830b0d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=921ffe19-1ab8-4a94-ac7e-13ae3971e2fe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6c0d853e-68ad-41d3-a209-1bf2fa974ec5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0219badf-b342-4000-bf38-c6adbd0dd433"
+      ]
+    },
+    {
+      "id": "109853",
+      "name": "臺中市行道樹分佈圖",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ee08e2b4-d538-4f76-a4a2-cdf3a0722858"
+      ]
+    },
+    {
+      "id": "110330",
+      "name": "臺中路燈報修資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2ba9e008-d029-46b8-8726-253d53455514",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a486569a-db94-464e-b6c0-3e853777963f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f968e359-40c6-4946-bd96-1746fc38630e"
+      ]
+    },
+    {
+      "id": "101776",
+      "name": "臺中市寬頻管道建置資訊(原縣區)",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/06cc6f4f-f2b2-4cd2-9a98-d9651e65a3ae",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4841a05f-f5dc-48e7-a20e-a7ec83272d73",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4dc3b81f-edf8-4ce7-a507-f73437d309a7"
+      ]
+    },
+    {
+      "id": "139542",
+      "name": "臺中公共設施認養評鑑績優名單",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/32db19ae-1b28-4da9-9623-9166ced7cc53",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4150cd2c-6f82-45d3-b401-03e7361ebb16",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/511f47e7-4217-4a9d-99e1-9f2e97a527a8"
+      ]
+    },
+    {
+      "id": "144673",
+      "name": "臺中市道路GIS_初版",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9491bf4d-104f-4b91-8a02-4164997485e7"
+      ]
+    },
+    {
+      "id": "137475",
+      "name": "臺中市里長承攬公園廣場及園道綠地維護工作彙整表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/df0a3f11-fbdd-4fdc-bc8b-910fe4fbf83a"
+      ]
+    },
+    {
+      "id": "138747",
+      "name": "新闢公園之竣工平面配置圖檔案(DWG)資料",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/04ee238b-51af-4b39-a544-840cc6e86ad8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/92fbfd86-90f2-4d43-a7a5-a3248ce0aa22",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9d21781f-19f9-45bc-87a1-ed4ade0b7494"
+      ]
+    },
+    {
+      "id": "88584",
+      "name": "11920-01-01-2 臺中市都市計畫區域內現有已開闢道路長度及面積暨橋梁座數、自行車道長度",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8474d234-200c-4a65-9f7f-7b1e80965351",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9fec64cc-4494-439d-a29f-2d62c6de6335",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11a04e16-37dd-4481-8f76-dbde32618c9a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=de642bd7-f6ab-40b7-b422-56eaf4bc1eca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f08ffefb-f340-4d0f-a0a9-9417ca4918e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=54663425-3b6c-43a7-890a-ed2957500f20",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a099c4f5-f192-496c-9ac9-87877e09c887",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5afd0c81-9014-45e5-bdcc-4d3524481e61",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5ffb42e3-8ef5-468a-a0aa-fcd2a35883d0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cb2147ac-771b-4916-84f3-713974e76051"
+      ]
+    },
+    {
+      "id": "84494",
+      "name": "臺中市政府104年度人行道固定設施-固定樁位設施",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2c2f10ea-9383-4421-a7be-81ce6c800c7f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/30331566-6534-43ce-aefa-5c51f5819928",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c4dfe681-a9e5-4ae4-a010-3d7327d5f764"
+      ]
+    },
+    {
+      "id": "88589",
+      "name": "20535-01-09-2 臺中市橋梁維護工程",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=98ba67ea-2f4d-47d6-8458-d5237d7e876a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0ac46ef7-1bcb-4311-906a-e861e8935d69"
+      ]
+    },
+    {
+      "id": "88590",
+      "name": "20535-01-10-2 臺中市路平專案工程成果",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bab4f5ea-8af1-4521-b279-315683b7ffd7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dae923e2-7eb6-4256-8981-7ceb581c2abd"
+      ]
+    },
+    {
+      "id": "100077",
+      "name": "臺中市路燈迴路開關箱(西屯區、清水區、沙鹿區、大甲區、梧棲區、外埔區，以及大安區)",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0da9128a-251b-418c-bdb5-4ea28b76c342",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b95900dc-08c8-4293-b8e9-8ebace43e6c4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/db543ea3-c54f-4455-bf74-9a475295872c"
+      ]
+    },
+    {
+      "id": "106218",
+      "name": "臺中市寬頻管道手孔",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/40a89fa0-d50e-45e7-aa45-c47654fb3b07",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/90f84ec3-55ce-4b6c-809a-1af5314d2991",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d61d8705-57fc-40df-81a2-5058fe4f4a7b"
+      ]
+    },
+    {
+      "id": "108167",
+      "name": "臺中市主要道路喬木植栽",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1231b289-9c30-4799-8bfc-8a4e6bc8735b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/56fa93c4-0c2c-4210-9f6a-3c4033e91c23",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/edcaf6a4-c06e-4b39-91c3-15f88d1015cc"
+      ]
+    },
+    {
+      "id": "146631",
+      "name": "臺中市共融遊戲場資訊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/23db96ae-d02e-4a7f-b696-5e5dcbcf95de",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/640a9785-aa98-470b-aba1-a0562e51ec19",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f399d598-ebe3-49bf-981c-e6b5c1adaf17"
+      ]
+    },
+    {
+      "id": "139345",
+      "name": "臺中市中央公園之平面配置圖檔案資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5bf19327-af65-465b-a73b-b5ac069b5bef"
+      ]
+    },
+    {
+      "id": "152426",
+      "name": "臺中市公園設施資料-兒童遊具",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/733c3384-4ac6-4f87-a4eb-57f55bc48938",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/831f179a-efbf-4de6-ad16-9779258cd9fe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/01999dd1-116e-47b7-b1c2-44d64763e8f0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d1162e49-2a12-433f-abf0-40dadff23c24"
+      ]
+    },
+    {
+      "id": "83933",
+      "name": "臺中市橋梁資訊",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0da2a12d-ec42-467f-9004-6a97de5fe3c3"
+      ]
+    },
+    {
+      "id": "84492",
+      "name": "104年臺中市政府人行道固定設施-樹穴",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/712c4e44-1c73-46cd-a108-8e945e14fd37",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d2b9f5f3-b480-458c-9609-474e94ad0db0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e8145197-3071-46e4-8549-3166aee4e843"
+      ]
+    },
+    {
+      "id": "84493",
+      "name": "臺中市政府104年人行道固定設施-固定穿越設施",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/302f930c-5de1-4214-a9c2-bd619cc435ed",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/92fbcc84-7905-4fd3-b3c5-8ac7fcd146a3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2ea7cce-1bd8-4eff-83db-adc5a3aae51f"
+      ]
+    },
+    {
+      "id": "84495",
+      "name": "臺中市寬頻管道建置資訊(原市區)",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6199c50f-ea09-467a-b45f-362fb7dd1c4e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e7f75d4c-d52c-46e3-8907-66215c2859a0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f2d6fa73-63ce-440f-b5b9-1d6e597e971e"
+      ]
+    },
+    {
+      "id": "88288",
+      "name": "臺中市公園綠地清冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/17428971-939c-4361-9a03-f7df3819b505",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/32c1041b-7beb-488f-8524-813fa31271fd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/df8e3f77-8383-4f73-beb9-41b033864a5b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b0f232a2-24e9-4a7a-bc50-bacc8341b73d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/34740dc0-26da-48a6-9a68-82e9542205ce",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5ce2a2df-4056-4efd-ad27-ede05aea3786",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fb5c46b4-3b9d-455c-8eb4-b1652ebe0e33"
+      ]
+    },
+    {
+      "id": "88586",
+      "name": "20535-01-02-2 臺中市市道公路養護工程成果",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d9b9a9a-edab-4cb5-b020-5ec9f04aef49",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=31a5a64b-d930-4c6a-8f74-f034252ec256",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=33314c4f-0a76-4e38-9334-0971af3ed028",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=56ae5f5c-35c9-4ac8-b06b-e7460fd36bc4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2107d14f-05a4-4fa8-aead-b7024a88f71c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1562f612-38b9-4963-8f1a-268de8a1f271"
+      ]
+    },
+    {
+      "id": "88588",
+      "name": "20535-01-04-2 臺中市市道公路新建及改善工程完成數量",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=70524fd1-f333-4a3c-ac70-e4ff43aac261",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=046bb785-49fc-407c-8eb7-c0db7fb081da"
+      ]
+    },
+    {
+      "id": "88591",
+      "name": "20535-01-11-2 臺中市孔蓋下地數量",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc34a9a9-19c9-4b36-9072-e2ff834816ae",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=22621829-76c3-41c1-b9e8-a96128743377"
+      ]
+    },
+    {
+      "id": "88604",
+      "name": "30910-01-01-2 臺中市政府建設局編制員額及現有員工人數",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1ac04bf2-85d9-40d1-9b65-93817093e63d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2fb56c03-0bab-49d4-9c5a-67e62cd25f55",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0a07b9bb-889f-42f2-b3a9-113ef1e5ed03",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/aa1ffd9d-2b9b-43ac-b458-200002bbd7f1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5256843b-9c8d-4194-9b32-7d563f5988e1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/527b547c-34f9-4711-b0a7-c362d7d3e8c2"
+      ]
+    },
+    {
+      "id": "100056",
+      "name": "臺中市路燈點位圖資",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3b76362d-cb5d-434a-9e77-1717cebb8ba1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0f67b271-f36d-4217-a510-ba2a85900154",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/442fa4c2-94d2-4999-ab94-f7697a9cf40e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0a7b615b-a3d3-462c-90d5-26dfcee8e8c4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4572d045-89ab-4289-a54d-166987369f24",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eae8b1c6-856e-4bdf-872e-a40abbec9d56",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a58e46d6-b970-4eee-88a9-dcafb04b9541",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/14b090ce-ee9f-4869-a18f-a2432cd20f19",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8a7f1299-cc3e-4b2b-80bb-f70ce0d73ec1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1e0e32ff-2aa7-475a-85a1-d84539cd36d5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c13b3665-7996-4d34-84e2-8cc55af225f5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/de3c3d7c-3c5e-4c3d-b87c-3a0ec3abad3f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1dab1fca-d287-4384-9982-8065a21d173a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a02e9487-6180-4121-948a-839d16420c08",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d36fe054-e40a-41f4-bbac-ebc11faf86a2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/18e9ad79-2964-4d0b-ad47-987e1f92029c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ffb0fea9-c4ad-449d-81e0-8f78797facbd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9b3e5c8c-d853-4119-b13c-0c32babadd08",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/623ae99c-39be-4532-8fd2-3941ccb1a8a2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7bbdb3eb-6edc-4f0f-90ec-34a5ba7ec9c3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e16298f5-7b9a-479b-8a7d-c0977ad32a6a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f44d0e0a-bf87-4388-a46d-e8fbf0538cc2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7db9a766-de5b-47cb-a455-7b9afb3bb87b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/465034df-6c7c-4655-ba23-c2028c5ff718",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6d4d70cd-ea81-4bef-9574-2dabd5e6fca5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1bd4f6b6-bc2f-402e-ae28-af5f7434621b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6cf1bbf8-a6cf-4263-851f-66dd3f644527",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c0790ef4-f8c8-4e11-9b29-68a2b77fbde6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/501c2d0a-5242-4404-a578-4d388eaea6ae",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/10d82854-4046-4d5c-bc73-5b48a1a82f9c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9161f0b9-6215-47c2-8d3b-9380f62124ec",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2214567-4020-47c9-8ab7-4be538485a00",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/66e7ccaa-5d8b-43da-b260-fe54dfc28436",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/74532b0c-881b-4460-b218-e8e287156036",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/23bd6222-7d03-4085-b7d2-93ceac7be0de",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fef20061-96af-4fd5-adc4-c41e880f7198",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d42f70f9-7810-4dd0-841a-22010cac48fc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/930ba953-f3a1-442f-8cad-2719122dc31a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a89cee12-faa0-4d72-9fc5-27f6dd81a8ec",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/10eb006e-55fb-4cb8-9252-957da3153255",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/54445ad0-7665-4ec6-97f4-8a38d7add190",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ebedbadc-491f-4f44-9859-f1aa5e956248",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/36295a90-f09a-49a4-a4c2-3514ddc0c15d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6975c5c6-bf95-43bd-9d42-d7943f364755",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c117340e-04bf-4bfc-847f-195d8c2202f0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bf2b0bfe-63da-41e1-88b4-2e6da703ca19",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/77ce489c-0d2f-42b2-8367-947bb8744234",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/75ead68b-e86b-4a52-8de9-13b7c8badb84",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/58ec81f7-f2ce-4978-aefb-352ca28c95ec",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/59cccdf2-93a9-4e19-a2ea-179ae7ab2072",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/54467ba9-43ff-4bbf-afb0-902dcc3c1d11",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f906ad9e-a28d-47fd-ac74-1f6b27687f61",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7fbfd9b2-fd47-4480-9a18-321eec4f9502",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9b548a8c-daeb-4ce1-be17-636363795911",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bb42782c-223e-4214-bd4c-b661d73676f6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/91d927b6-e92d-4f82-9d95-d617bcb00522",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/56443a79-5c79-46ff-9aa3-3bda61f84d9d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7ab161c3-1669-44bb-b5e2-958014c4a486",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/509199d8-0e05-41dd-8cf0-6aaf9b03126a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/27f7edc1-68d5-4c07-9a1a-8874a3578a42",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a3c54b97-8ade-4016-9538-fd01cfbde39c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/577fc9f5-ba7b-4f5d-b146-acc41cb5e8c6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/45f859fa-cd42-4a00-95fc-b8db3f6abfcc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e4cebf16-7b92-4eb2-9ade-1a81f28dc899",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/980739fe-2333-49ba-9d04-e0e113729758",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8fa9054f-5ae4-4eff-91c1-02ae142c96f8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/40a3ea00-42a9-4e1b-832d-905d0edc259f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/47ac5d8a-efc5-4059-9de4-4076f59a037b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c42f36ec-4ff4-49da-8e27-c6deabd633eb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/266b0b3d-d950-4389-888e-8f7ac7d0d7f8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4b42965d-3df3-494c-b53e-d0fb782399cb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/de8ad01f-9b35-4af7-82b2-929f2389e892",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f4d1d2e1-8980-4f1c-b45f-f8be7fa3c424",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d6f0e22d-bbcc-4d6e-bd55-e54a54665b51",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b3a1cc86-30ff-434d-82dc-9877d4f3718c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/029ed779-15ec-41af-acff-b4a6a8a36862",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5f40dbec-f76e-40e1-9ee4-163e3f534ba5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0dc90f0c-57f0-46dc-80a1-7e614a8b5d46",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d1c4ca9c-957b-4e8f-a306-ef690259de27",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/869b7f42-0ba1-486b-a18c-e12b10dc15dc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/67e1f794-4ecc-465c-99f5-68be695e8879",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b2bbbd84-09b5-4672-8ddc-6686799287af",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/33afee97-310c-4a5e-9788-51690c501b33",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9e808899-090f-457d-b4b8-c380b926b808",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4539e501-758f-4a4a-a43c-a32afeb7c49d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8b238910-36c9-4c2d-aa68-f639f6aa8fe1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d60a4847-6fbb-413b-b30a-2e28fe2ed360"
+      ]
+    },
+    {
+      "id": "138706",
+      "name": "臺中市賞樹景點",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a1053dd6-1a10-4296-9df3-b9ebba561842",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b9abfa5f-d96c-44b7-9f8f-cf0f39d09002",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d3e7deba-f604-4bf9-ba0c-e20d02ab5d2b"
+      ]
+    },
+    {
+      "id": "105203",
+      "name": "臺中市道路挖掘當日施工資訊",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d5adb71a-00bb-4573-b67e-ffdccfc7cd27"
+      ]
+    },
+    {
+      "id": "106217",
+      "name": "臺中市寬頻管道",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/030cc432-00ee-4d61-a273-9d58521b2ee4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1812d723-668d-4171-9db5-ee8cf13534fa",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/790887a4-61e8-482d-93e5-cbe5902cff1d"
+      ]
+    },
+    {
+      "id": "106219",
+      "name": "臺中市寬頻管道引出管",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/00fcc98f-fcac-45c0-8fd5-58c9ec7c667a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2c43784e-f6c9-4909-bfcb-f92bd7bf38f1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b6495bc3-92fa-4b3f-86c9-f1a92038c562"
+      ]
+    },
+    {
+      "id": "106239",
+      "name": "臺中市寬頻管道引上點",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/232babf2-972a-4c5b-82c9-c0afcdb3188d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2f89e29e-1cee-4132-8888-d22a5d0d7ce4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ebb6ac39-9659-4a7e-8a77-96aeef40285c"
+      ]
+    },
+    {
+      "id": "108168",
+      "name": "臺中市107年度公園綠地廣場園道人行道認養清冊",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5fc6425f-ba3a-4da3-8982-ea72f7bca901",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8ba84730-203f-43d2-b392-3793f01efd36",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d8bb5d1c-df76-4948-b591-b7b1c1079edd"
+      ]
+    }
+  ]
+}

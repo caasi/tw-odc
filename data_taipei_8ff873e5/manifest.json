@@ -1,0 +1,207 @@
+{
+  "type": "dataset",
+  "provider": "臺北市政府交通局",
+  "slug": "data_taipei_8ff873e5",
+  "datasets": [
+    {
+      "id": "121152",
+      "name": "臺北市10大多事故路口",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc/resource/ac409199-02b1-4345-876a-c54cb144cd9f/download",
+        "https://data.taipei/api/dataset/0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc/resource/8f78ff1e-8ef1-42bb-8629-1870a673b2a4/download",
+        "https://data.taipei/api/dataset/0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc/resource/815f788c-432f-46b8-a5bf-db47c0e6f9c2/download",
+        "https://data.taipei/api/dataset/0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc/resource/37b4acd7-36bd-46ae-9fe1-a37c8a681a75/download",
+        "https://data.taipei/api/dataset/0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc/resource/739c79ce-099b-4d52-afb5-1b3628ce69cb/download",
+        "https://data.taipei/api/dataset/0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc/resource/3f5da767-a0a3-44ea-9bba-3a3e04b97fb7/download",
+        "https://data.taipei/api/dataset/0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc/resource/bce53cb2-1196-4224-9c1c-65f9ca745126/download",
+        "https://data.taipei/api/dataset/0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc/resource/e773d1c5-7de6-4b27-b42d-c0726b04155c/download",
+        "https://data.taipei/api/dataset/0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc/resource/ed58f706-b11c-435b-816c-83fc367319fc/download",
+        "https://data.taipei/api/dataset/0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc/resource/b8c9ed64-2305-4b08-836b-c05aa9d0aa5d/download"
+      ]
+    },
+    {
+      "id": "144955",
+      "name": "YouBike2.0臺北市維修次數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/216287b7-e000-4ba4-a796-46db50885683/resource/75bdc1af-d19f-401f-87a5-87fd12af389a/download"
+      ]
+    },
+    {
+      "id": "157969",
+      "name": "臺北市新車、機動車輛及駕照監理統計資料(按使用燃料別分類)",
+      "format": "csv",
+      "urls": [
+        "https://tcgbusfs.blob.core.windows.net/dotapp/stat_thb/臺北市新車領牌數－按使用燃料別分類.csv",
+        "https://tcgbusfs.blob.core.windows.net/dotapp/stat_thb/臺北市機動車輛登記數－按使用燃料別分類.csv",
+        "https://data.taipei/api/dataset/78cd7f31-3f87-4b2f-acd3-c887305d4c37/resource/cff2e007-9c7c-435c-9fff-b4252de169a8/download"
+      ]
+    },
+    {
+      "id": "135546",
+      "name": "臺北市交通事故統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/446eca64-c4f9-4a31-bf0b-db2765c7bb01/resource/44bcdf5d-ffcf-466b-b65d-7e7bdfe1bf1c/download"
+      ]
+    },
+    {
+      "id": "135775",
+      "name": "YouBike臺北市站位每月使用量",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/d8cefb03-aba2-41ca-9996-d8774313cdc6/resource/8f690548-61bc-4bff-8baa-01d465eb672c/download"
+      ]
+    },
+    {
+      "id": "134197",
+      "name": "臺北市政府交通會報會議",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/114125f1-769c-4534-9f03-3d41be596a33/resource/76caa146-3297-4069-a3ce-fc70bde5eb49/download"
+      ]
+    },
+    {
+      "id": "147005",
+      "name": "臺北市共享運具許可數量",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/89634dfb-2401-49bf-8a90-5be228c87655/resource/78846785-0821-474e-a6b2-e4df952969bb/download"
+      ]
+    },
+    {
+      "id": "155943",
+      "name": "臺北市YouBike2.0各行政區站位數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/83f11e5c-fd59-40b4-906a-47a043a373ea/resource/2a8b91df-963c-4a48-8a02-f2bb2797679c/download"
+      ]
+    },
+    {
+      "id": "139321",
+      "name": "臺北市大貨車禁行區域公告",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/bcd9a8f7-ad5d-4771-85fb-280457d6b0cd/resource/fa90d6a3-227d-482e-a523-24530f750d2d/download"
+      ]
+    },
+    {
+      "id": "144957",
+      "name": "臺北市YouBike場站建置成本",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/e521c4cb-8f72-4cd4-a53d-9bbe6fff2137/resource/ff1c5bd3-99d5-455c-8892-8debd0b41f26/download"
+      ]
+    },
+    {
+      "id": "133501",
+      "name": "臺北市禁止遊動廣告車輛停放本市所有道路",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/65bbfd51-374a-4263-89ef-89d90cc6ef89/resource/ede2aa73-b1bb-414b-8f9c-2eee83c82375/download"
+      ]
+    },
+    {
+      "id": "135482",
+      "name": "臺北市車輛行車事故鑑定覆議情形",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/9479ef01-8f57-40a0-b894-63f172595145/resource/458cf896-bc5d-45b4-927e-8fbed7ad3db9/download"
+      ]
+    },
+    {
+      "id": "135752",
+      "name": "臺北市交維件數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1d1c4b50-87c3-4381-a658-665f4b27afbf/resource/544d22dd-f805-4b5e-bad5-cfb2a1cba187/download"
+      ]
+    },
+    {
+      "id": "137993",
+      "name": "YouBike2.0臺北市公共自行車即時資訊",
+      "format": "json",
+      "urls": [
+        "https://tcgbusfs.blob.core.windows.net/dotapp/youbike/v2/youbike_immediate.json"
+      ]
+    },
+    {
+      "id": "169174",
+      "name": "臺北市轉乘YouBike租借資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/d49d31c6-f53c-448d-a782-f5d82d18669f/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/abe3381b-88c5-4601-b6da-bf466e655ffc/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/65ee5383-cf71-4dc3-aeff-655b6f9c8356/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/acf1e719-d5e0-471e-a261-5989d34c8ddb/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/7deecfb2-28b2-4647-9002-42227314e17c/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/fbc4205e-1aa3-4674-8e3a-4ff62960bf30/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/ac971551-d594-4e84-895f-41a624ed7679/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/58defa98-c041-4988-97ee-fe3798177e67/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/f678018a-339f-40d0-a0f8-c544a8911b55/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/c0d56ec4-d176-47c1-897f-b747be1db0c3/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/be19e3ae-6c6e-480a-ace7-529bd84c1c3e/download",
+        "https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/8ddb45ba-a0f5-41d6-85a0-1691096fdcf8/download"
+      ]
+    },
+    {
+      "id": "128476",
+      "name": "臺北市即時交通訊息",
+      "format": "json",
+      "urls": [
+        "https://tcgbusfs.blob.core.windows.net/dotapp/news.json"
+      ]
+    },
+    {
+      "id": "145720",
+      "name": "臺北市路口號誌時制計畫",
+      "format": "json",
+      "urls": [
+        "https://tcgbusfs.blob.core.windows.net/dotapp/timing_plan_table.json",
+        "https://tcgbusfs.blob.core.windows.net/dotapp/timing_plan.json",
+        "https://data.taipei/api/dataset/0d639f73-cbcc-42c3-aa53-20efac199701/resource/9522d9e8-131e-4890-9379-f17c523238a0/download"
+      ]
+    },
+    {
+      "id": "145725",
+      "name": "臺北市YouBike站位每月熱門站點",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/9e97cd13-c21a-44a1-80e8-069bf1c7517c/resource/c7a076dd-8aa6-4129-9c8a-e04cbf18694f/download"
+      ]
+    },
+    {
+      "id": "144921",
+      "name": "YouBike臺北市權利金與補助支出",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/25da6e50-a955-4281-93be-921b4ff75e28/resource/d7e08b79-ee74-40e4-9937-4fe506afdf58/download"
+      ]
+    },
+    {
+      "id": "150635",
+      "name": "臺北市公共自行車2.0租借紀錄",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/c5924c17-25db-4f1e-99c4-f8ada40f2445/resource/1105750a-e8f5-4b89-9f7f-006493bb6de7/download"
+      ]
+    },
+    {
+      "id": "155942",
+      "name": "臺北市YouBike2.0車輛數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3e76595d-2c42-4346-b1cb-1079162a678a/resource/01a8abaf-2961-4cf4-b501-6dbb8b108ef4/download"
+      ]
+    },
+    {
+      "id": "155948",
+      "name": "臺北市YouBike2.0租借數量前十路線",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/2c2180b3-a7c8-4089-9182-7dc4aafbbe63/resource/1c6a89c1-1b2a-4748-af8c-f3875f06980c/download"
+      ]
+    }
+  ]
+}

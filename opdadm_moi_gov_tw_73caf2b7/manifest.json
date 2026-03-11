@@ -1,0 +1,390 @@
+{
+  "type": "dataset",
+  "provider": "民政司",
+  "slug": "opdadm_moi_gov_tw_73caf2b7",
+  "datasets": [
+    {
+      "id": "7057",
+      "name": " 直轄市長",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/55BDF455-83C3-48A1-95DB-2C2A94EC8CD1/resource/094C3724-BD6D-403E-B7EA-42CAF221B82B/download"
+      ]
+    },
+    {
+      "id": "7059",
+      "name": "鄉鎮市長",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5CD858EF-EFDC-4421-9C76-E2C1C4D1CFDF/resource/7F89EA18-9B44-4E4F-8EE2-7D3292239D4E/download"
+      ]
+    },
+    {
+      "id": "7062",
+      "name": "村里幹事",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C4B35CDE-051E-404D-9F7C-84F29273B55F/resource/42E6B499-C9C7-48C2-880F-4C79693BB2F6/download"
+      ]
+    },
+    {
+      "id": "11165",
+      "name": "民政司團體補助",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E6A3AD4E-BFDA-4D3D-ABEB-6DAECB779FBC/resource/702F0E42-A2D8-4C70-8E79-CC857A58409A/download"
+      ]
+    },
+    {
+      "id": "32933",
+      "name": "受委託遊說者備案名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/94503CCD-A42C-4EC3-8FA3-08CB358C86CC/resource/5C083565-9278-4CDA-B271-6346ACF53C06/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/94503CCD-A42C-4EC3-8FA3-08CB358C86CC/resource/CE55FF78-0641-4F77-A1FC-83DBBDF1EC4C/download"
+      ]
+    },
+    {
+      "id": "32934",
+      "name": "中央各機關遊說窗口",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CADD1596-1A87-4DD6-8CF6-76FEAADFE648/resource/ECD91494-8C3C-4D1B-BCDF-A11B98F22052/download"
+      ]
+    },
+    {
+      "id": "73241",
+      "name": "直轄市原住民區區長辦公位址轉換點位圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DDE668AD-C246-4397-9F21-94CB383ACFC0/resource/29015C73-5F31-4B63-9FF6-B2CFBF1DAEBA/download"
+      ]
+    },
+    {
+      "id": "118181",
+      "name": "直轄市與外國地方政府締盟情形彙整表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4D2E071A-BAC9-4EA7-8885-6F152DF01CB6/resource/FCA74034-EE64-4BF3-9797-2741A27C0D65/download"
+      ]
+    },
+    {
+      "id": "109912",
+      "name": "彰化縣各鄉鎮市長辦公位址點位圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3F702258-A879-40C3-930B-1C1DAB6476A9/resource/21023AC4-323F-4134-80CF-BDD4B462F32D/download"
+      ]
+    },
+    {
+      "id": "102163",
+      "name": "宜蘭縣各鄉鎮市公所辦公位址點位圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6F0A1B4B-7074-433F-B326-142FEAF0CD60/resource/9DBA7FA2-C437-4CAB-BDD7-97CC78C96E0D/download"
+      ]
+    },
+    {
+      "id": "89499",
+      "name": "新竹縣各鄉鎮市長辦公位址點位圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/76EF354A-74AF-45C7-80BA-48BCB0169DCE/resource/FF1BC62D-92B2-4292-9722-E93E9411FEF1/download"
+      ]
+    },
+    {
+      "id": "163038",
+      "name": "政黨名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EF8035C-ECC1-4BE7-AFDE-4C7BAE3C3620/resource/0ABEEA67-7CCD-4401-BBD8-B6DBF19B58C9/download"
+      ]
+    },
+    {
+      "id": "173729",
+      "name": "114年度全國直轄市縣市議員團體傷害保險（富邦產險）之統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03BA3514-0F2D-40AA-8DC5-61D21D8A0FA8/resource/F460BF5D-3FD6-4100-BE4A-24023431B787/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03BA3514-0F2D-40AA-8DC5-61D21D8A0FA8/resource/FD026D6C-82A6-4EA7-B699-B1B697F6FDD8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03BA3514-0F2D-40AA-8DC5-61D21D8A0FA8/resource/F28348D0-5E8E-485A-9743-C4BD91133D52/download"
+      ]
+    },
+    {
+      "id": "7054",
+      "name": "縣市議員",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AE72C2EA-ED1E-459A-B48A-D38EDF6B500B/resource/4DA332C5-A7DB-408D-92F6-FA80C4A2475E/download"
+      ]
+    },
+    {
+      "id": "7058",
+      "name": "縣市長",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F108D256-4986-48FB-BD50-070324AC5C10/resource/776C6DA0-DF47-40A6-B73E-EA7D02ECF620/download"
+      ]
+    },
+    {
+      "id": "7061",
+      "name": "村里長",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/28BBC192-30FF-4A3E-98E6-1BD6742D5C4F/resource/2C40659F-6771-4292-A024-5A894D2A34EC/download"
+      ]
+    },
+    {
+      "id": "10050",
+      "name": "直轄市原住民區代表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/24C1AE6B-5EEE-4405-83DE-FAABD6066B5D/resource/05B0301B-E0BB-4FD7-AC55-AF45B4D4DF03/download"
+      ]
+    },
+    {
+      "id": "35320",
+      "name": "各縣(市)長辦公位址轉換點位",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A53A3DB3-EA86-4565-8E2A-324BE5D65571/resource/3FD67799-708C-4A22-BCA7-2F7ECB41D451/download"
+      ]
+    },
+    {
+      "id": "31975",
+      "name": "遊說法資訊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C90ADF8E-9FA1-4CF7-B82D-8A03823F3457/resource/E9C9621B-279D-43FC-B7A7-E56F8FA05C02/download"
+      ]
+    },
+    {
+      "id": "33391",
+      "name": "直轄市長辦公位址轉換點位圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F722D37B-0BE3-441B-8883-FBD4D9175B0C/resource/755539C9-551B-424E-8CFA-9D8FBAAC5155/download"
+      ]
+    },
+    {
+      "id": "81351",
+      "name": "議會遊說聯絡窗口",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/301ED743-74FF-4A3A-820D-EBE7493A6D95/resource/162B2786-8347-4B9D-B7B3-E46C219378D9/download"
+      ]
+    },
+    {
+      "id": "111757",
+      "name": "特優村里長名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C425A7F-8C99-4D1E-93C4-6437A3F7F9FC/resource/353999C9-1FEC-4F2E-86BD-4334580AD852/download"
+      ]
+    },
+    {
+      "id": "127431",
+      "name": "內政部辦理政治獻金宣導相關廣告執行情形",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4147092-13F6-4B45-926C-F55118B77D47/resource/DC9CC031-D931-46A6-8642-141515D72768/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4147092-13F6-4B45-926C-F55118B77D47/resource/7D6FA445-12C6-4F48-AACC-20256DBD9489/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4147092-13F6-4B45-926C-F55118B77D47/resource/466201A3-573A-499C-8DE7-80723875C263/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4147092-13F6-4B45-926C-F55118B77D47/resource/CB7CDC30-655F-4CA2-AE79-C63F218D88C6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4147092-13F6-4B45-926C-F55118B77D47/resource/685C1CB9-E699-4249-BC21-CAEA608BBD6D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4147092-13F6-4B45-926C-F55118B77D47/resource/BAF0B97B-143C-4532-8573-EEF2D1FC7991/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4147092-13F6-4B45-926C-F55118B77D47/resource/D0259990-B951-4B80-AB62-F05DAC48E913/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4147092-13F6-4B45-926C-F55118B77D47/resource/6528B54A-5C82-485A-AB02-F2D738F8D5DC/download"
+      ]
+    },
+    {
+      "id": "103281",
+      "name": "前瞻特別預算團體補助",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DF62F9F9-E6D9-4DBF-A5B1-4EE5A6F7EB3D/resource/FE92B25C-6DA0-45ED-8B79-3CF3153F32D3/download"
+      ]
+    },
+    {
+      "id": "163036",
+      "name": "全國直轄市縣市議員團體傷害保險之統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3EDFDD0D-BAA8-4C41-B2EC-BABD7870C218/resource/C6EFB613-6D9C-49F2-94C3-4BB5D5D4B473/download"
+      ]
+    },
+    {
+      "id": "163037",
+      "name": "全國鄉鎮市區民代表團體傷害保險之統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3A591666-C99C-41C8-A654-298446641A2D/resource/81EDBB35-3063-41A0-B7E0-76F72FC6D5F4/download"
+      ]
+    },
+    {
+      "id": "166002",
+      "name": "112年績優村里長名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/30372BAD-7A28-4B22-A8E3-0BF54655D72B/resource/39589346-3BA0-4CC2-846B-E90642C3C4E0/download"
+      ]
+    },
+    {
+      "id": "147633",
+      "name": "雲林縣各鄉鎮市長辦公位址轉換點位",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9E22AF50-18DA-4A9F-BDD0-BD707621232D/resource/A0D64D7F-01EF-4B81-A6AF-6CAEE44F0129/download"
+      ]
+    },
+    {
+      "id": "170680",
+      "name": "113年度全國鄉鎮市區民代表團體傷害保險之統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F8687100-7354-4C03-A50B-096CC8FA4950/resource/0BFF8E82-A02B-4C00-99F8-1CCB9A740B39/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F8687100-7354-4C03-A50B-096CC8FA4950/resource/C210F28B-3580-4469-A590-25A7FA90DC76/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F8687100-7354-4C03-A50B-096CC8FA4950/resource/BFBBE9C2-08E6-46C5-ADEE-A72DD4BE563B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F8687100-7354-4C03-A50B-096CC8FA4950/resource/4AD95922-E7B9-4932-B8D2-B152955031C3/download"
+      ]
+    },
+    {
+      "id": "170683",
+      "name": "113年度全國村里長團體傷害保險之統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4EE51DE-0E69-4D7F-8DE6-FA9D10991B5A/resource/D5174511-523A-4F78-8B96-06D84D66EAD4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4EE51DE-0E69-4D7F-8DE6-FA9D10991B5A/resource/43D9B4E5-6EA6-464F-85A6-2CF8E1D6D255/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4EE51DE-0E69-4D7F-8DE6-FA9D10991B5A/resource/C77968DD-5908-44F2-AA22-5DAF2B2A3573/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E4EE51DE-0E69-4D7F-8DE6-FA9D10991B5A/resource/04C857BE-6CC5-45F4-A291-DC5EA98122CE/download"
+      ]
+    },
+    {
+      "id": "173727",
+      "name": "114年度全國村里長團體傷害保險（富邦產險）之統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4378B663-7971-4BEC-8D53-2980DC10F8F6/resource/BE2542C8-6AD7-4AA0-89AC-00055D76B129/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4378B663-7971-4BEC-8D53-2980DC10F8F6/resource/2CE8165D-F7C2-43A7-95BB-5F20BB83D85E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4378B663-7971-4BEC-8D53-2980DC10F8F6/resource/5DF8D31D-8F04-44A5-99E1-617E3FEEBB53/download"
+      ]
+    },
+    {
+      "id": "7055",
+      "name": "直轄市議員",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3965DD10-D052-4EBA-9FD6-D09EAA79CEF0/resource/4B82ECF5-0CA6-4705-8797-CDAF5315872A/download"
+      ]
+    },
+    {
+      "id": "7056",
+      "name": "鄉鎮市民代表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BCDE60BE-666F-43FF-BA53-276642310616/resource/EEC5F74F-0325-4D91-B976-327320C41230/download"
+      ]
+    },
+    {
+      "id": "7060",
+      "name": "區長",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/18AE8683-FE19-4A23-A88F-769331FA6311/resource/63B60175-E572-47CF-8918-FF7CC97BFD1F/download"
+      ]
+    },
+    {
+      "id": "10049",
+      "name": "直轄市原住民區長",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FE2D273B-02F4-4CBE-B99C-E22F59450F3B/resource/C56AE46C-8E1B-4BB8-B517-31E9721D1127/download"
+      ]
+    },
+    {
+      "id": "81353",
+      "name": "縣市政府遊說聯絡窗口",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5C7F643D-3F8C-4F5E-80F2-1347118A80FD/resource/32ED85D2-A273-470D-BC38-2A5CA62F2790/download"
+      ]
+    },
+    {
+      "id": "103364",
+      "name": "內政專業獎章頒給名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B95BED20-0E4C-4EFB-A997-7A23FD00F1C3/resource/0923E1A5-F36B-4211-B3D4-CBE6E60B3DB8/download"
+      ]
+    },
+    {
+      "id": "90744",
+      "name": "苗栗縣各鄉鎮市長辦公位址點位圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ED4D7224-8738-4AEC-8C72-FA05EF8775F1/resource/30F70D7E-A5F1-4184-B370-8778416D52F8/download"
+      ]
+    },
+    {
+      "id": "136938",
+      "name": "南投縣各鄉鎮市長辦公位址點位圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/812EC5E1-F689-475F-AC9D-E94553268C44/resource/86621CAE-83F8-4B55-A464-C82C405058EB/download"
+      ]
+    },
+    {
+      "id": "159059",
+      "name": "全國村里長團體傷害保險投保人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4C49C04A-6930-4831-9389-09B13712FAC8/resource/E2323607-4DFD-4DF1-9DED-DFE085A49D95/download"
+      ]
+    },
+    {
+      "id": "170679",
+      "name": "113年度全國直轄市縣市議員團體傷害保險之統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E681A2D8-EC3B-4B36-9CAE-A1D294FA35DF/resource/C3BC5171-43DA-4E6C-8032-0CAFC5075D84/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E681A2D8-EC3B-4B36-9CAE-A1D294FA35DF/resource/B3915B25-C49F-4012-A94D-5734A29D2B55/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E681A2D8-EC3B-4B36-9CAE-A1D294FA35DF/resource/CEBAF883-C00D-466C-AE30-7E530AEA46E5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E681A2D8-EC3B-4B36-9CAE-A1D294FA35DF/resource/EA12530D-6758-455A-8944-FAD6F2533502/download"
+      ]
+    },
+    {
+      "id": "159740",
+      "name": "111年度特優村里長名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/69108D6A-1D7F-445F-AB29-B097213F545A/resource/2B70FC05-7C28-4D86-A7FF-A25363349758/download"
+      ]
+    },
+    {
+      "id": "173726",
+      "name": "全國性民政財團法人名冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B8F8C953-9D8C-4973-BD95-51A4E5C76536/resource/9EE8AAE9-0948-4BA5-BF96-FF4C398EA1F6/download"
+      ]
+    },
+    {
+      "id": "173728",
+      "name": "114年度全國鄉鎮市區民代表團體傷害保險（富邦產險）之統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A621AAA9-73AF-42A4-8BB7-D0C163F700EB/resource/3FC84A6E-8017-4D72-97A7-08E2BF9069FA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A621AAA9-73AF-42A4-8BB7-D0C163F700EB/resource/31C28335-B5F9-4CD3-B1EB-1F80257001A0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A621AAA9-73AF-42A4-8BB7-D0C163F700EB/resource/40CB2474-FF8D-4139-A702-77E39B57CF5F/download"
+      ]
+    },
+    {
+      "id": "118183",
+      "name": "縣（市）、鄉（鎮、市）與外國地方政府締盟情形彙整表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AAE65915-0927-4FEE-BE85-7B6FA3A3AC36/resource/FAE0993C-871B-4B5C-AA9F-66FFC061DC70/download"
+      ]
+    }
+  ]
+}

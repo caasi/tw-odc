@@ -1,0 +1,23 @@
+{
+  "type": "dataset",
+  "provider": "臺北市政府警察局少年警察隊",
+  "slug": "data_taipei_cbbfab88",
+  "datasets": [
+    {
+      "id": "152253",
+      "name": "臺北市政府警察局勸導少年偏差行為執行成果",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/2ccabf15-6a0b-4096-8405-58f05254831d/resource/b27ad2bd-1e44-452c-8065-bff511ab381b/download"
+      ]
+    },
+    {
+      "id": "152254",
+      "name": "臺北市政府警察局少年(兒童)犯罪狀況",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/c5e205f8-b6b3-4e22-8e11-6715702c7735/resource/d33e40be-1bf0-4c13-a97f-e544f8dd5521/download"
+      ]
+    }
+  ]
+}

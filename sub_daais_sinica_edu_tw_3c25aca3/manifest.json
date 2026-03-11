@@ -1,0 +1,31 @@
+{
+  "type": "dataset",
+  "provider": "歷史語言研究所",
+  "slug": "sub_daais_sinica_edu_tw_3c25aca3",
+  "datasets": [
+    {
+      "id": "86546",
+      "name": "中央研究院中文出版品清單 - 中央研究院叢書",
+      "format": "ods",
+      "urls": [
+        "http://sub.daais.sinica.edu.tw/OpenData/publish_list_AS.ods"
+      ]
+    },
+    {
+      "id": "86547",
+      "name": "中央研究院中文出版品清單 - 院士叢書",
+      "format": "ods",
+      "urls": [
+        "http://sub.daais.sinica.edu.tw/OpenData/publish_list.ods"
+      ]
+    },
+    {
+      "id": "89753",
+      "name": "中央研究院出版品整合書目資料",
+      "format": "ods",
+      "urls": [
+        "http://sub.daais.sinica.edu.tw/OpenData/publish_list_All.ods"
+      ]
+    }
+  ]
+}

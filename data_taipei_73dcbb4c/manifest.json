@@ -1,0 +1,23 @@
+{
+  "type": "dataset",
+  "provider": "臺北廣播電臺",
+  "slug": "data_taipei_73dcbb4c",
+  "datasets": [
+    {
+      "id": "121271",
+      "name": "臺北廣播電臺英文節目表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/e5efa32a-bd73-4054-9da8-344ff80611a0/resource/b5f82427-ff92-47be-91dc-a27a2b7b2bfb/download"
+      ]
+    },
+    {
+      "id": "121175",
+      "name": "臺北廣播電臺中文節目表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/536e992c-7087-451c-a0aa-f47aa98406ac/resource/08a7c7ba-f07c-442a-8310-0a9ab9f49905/download"
+      ]
+    }
+  ]
+}

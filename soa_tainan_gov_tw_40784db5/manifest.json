@@ -1,0 +1,1508 @@
+{
+  "type": "dataset",
+  "provider": "臺南市政府財政稅務局",
+  "slug": "soa_tainan_gov_tw_40784db5",
+  "datasets": [
+    {
+      "id": "53290",
+      "name": "臺南市契稅徵收(按季)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a57bff5f-c73f-4749-b752-288e7c4cf1c6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a57bff5f-c73f-4749-b752-288e7c4cf1c6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c113c13a-db5f-4c9a-81f3-2a28029744eb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c113c13a-db5f-4c9a-81f3-2a28029744eb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/02741054-401d-4d58-b3b1-3c0f6da6c67e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/02741054-401d-4d58-b3b1-3c0f6da6c67e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bc62e16a-5f24-4ab5-aa58-41f178eac115",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bc62e16a-5f24-4ab5-aa58-41f178eac115",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e347f115-a873-4687-8724-5df3ab0734c5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e347f115-a873-4687-8724-5df3ab0734c5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/534b6de0-4821-4b86-9b95-60c08aed8bf8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/534b6de0-4821-4b86-9b95-60c08aed8bf8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/08418330-c504-4a90-b8c8-64c70fdeed36",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/08418330-c504-4a90-b8c8-64c70fdeed36",
+        "https://soa.tainan.gov.tw/Api/Service/Get/925ec349-1d85-428a-8555-c7f053dd264c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/925ec349-1d85-428a-8555-c7f053dd264c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/822b5067-61c2-4d64-a2f2-cbe948584ab0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/822b5067-61c2-4d64-a2f2-cbe948584ab0"
+      ]
+    },
+    {
+      "id": "53291",
+      "name": "臺南市契稅稅源表(按月)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/80efa318-0991-4f90-a500-0fa7ab2d0759",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/80efa318-0991-4f90-a500-0fa7ab2d0759",
+        "https://soa.tainan.gov.tw/Api/Service/Get/43583043-3aa4-4fac-85e2-1b117934c4c3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/43583043-3aa4-4fac-85e2-1b117934c4c3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/43786e13-bd52-4c6a-ad51-3b9a3494bfd4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/43786e13-bd52-4c6a-ad51-3b9a3494bfd4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c207f189-4e63-403d-a2b4-7fb3cf759d6e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c207f189-4e63-403d-a2b4-7fb3cf759d6e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7c3d0ef6-a499-4016-b1da-823931d999c3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7c3d0ef6-a499-4016-b1da-823931d999c3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/27bb3f8e-06b3-4eb2-9144-8a2a02616f0c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/27bb3f8e-06b3-4eb2-9144-8a2a02616f0c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e138a7f2-51b2-4035-8cab-c1c008c63f79",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e138a7f2-51b2-4035-8cab-c1c008c63f79",
+        "https://soa.tainan.gov.tw/Api/Service/Get/283efe7b-2d8c-43af-aa86-d72a8c56c03a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/283efe7b-2d8c-43af-aa86-d72a8c56c03a"
+      ]
+    },
+    {
+      "id": "53294",
+      "name": "臺南市累進起點地價",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e1dac018-eb2f-455b-9ee2-41e34b118eea",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e1dac018-eb2f-455b-9ee2-41e34b118eea"
+      ]
+    },
+    {
+      "id": "53296",
+      "name": "臺南市地價稅徵績統計表(按區別)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0e24cc07-a307-4173-970a-fc8bfdc6ec72",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d18f59e7-7edf-4892-9927-8a5aaaa6f580",
+        "https://soa.tainan.gov.tw/Api/Service/Get/104a9b5a-8e0d-4602-81f9-130965446feb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d18f59e7-7edf-4892-9927-8a5aaaa6f580",
+        "https://soa.tainan.gov.tw/Api/Service/Get/eb3187b4-0478-455e-9ecd-39824e145b68",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eb3187b4-0478-455e-9ecd-39824e145b68",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/104a9b5a-8e0d-4602-81f9-130965446feb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9ea015f7-1136-488f-860c-827a7ddac483",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0e24cc07-a307-4173-970a-fc8bfdc6ec72",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9cd41235-277e-4d34-9b3c-ac6e91e31b81",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c85c790c-d532-417f-86d3-6a53d9026ed1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9cd41235-277e-4d34-9b3c-ac6e91e31b81",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9ea015f7-1136-488f-860c-827a7ddac483",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d0c399e6-161f-4985-84d1-ace80b92837a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c85c790c-d532-417f-86d3-6a53d9026ed1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d0c399e6-161f-4985-84d1-ace80b92837a"
+      ]
+    },
+    {
+      "id": "53329",
+      "name": "臺南市政府財政稅務局人民申請案件處理時限表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/6ffe1f2c-0107-4d37-b4cd-03236b371aaa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6ffe1f2c-0107-4d37-b4cd-03236b371aaa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d12d1a7d-0af9-4598-83dc-751f1b9b1e91",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d12d1a7d-0af9-4598-83dc-751f1b9b1e91"
+      ]
+    },
+    {
+      "id": "53271",
+      "name": "臺南市各項稅捐實徵淨額與預算數及上年同期比較─本月數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8031668c-4573-4dd6-99c1-1b877707fd07",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ff8c6b27-ec06-4941-91d2-ee0ad14d25a5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/baed929f-3328-4af4-8686-9cf51773854a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/36710b67-b29c-4d54-8a73-8aed63f13113",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/36710b67-b29c-4d54-8a73-8aed63f13113",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/baed929f-3328-4af4-8686-9cf51773854a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8031668c-4573-4dd6-99c1-1b877707fd07",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ff8c6b27-ec06-4941-91d2-ee0ad14d25a5"
+      ]
+    },
+    {
+      "id": "53454",
+      "name": "臺南市政府各機關學校經管土地及建物總目錄",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/437cf196-0cf1-46e1-a188-5b599e50162e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3ff0a3ed-e5b9-4eb2-b18d-29664780a0d5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/05f78b5c-d4e7-4671-9a22-1f5127b87695",
+        "https://soa.tainan.gov.tw/Api/Service/Get/05f78b5c-d4e7-4671-9a22-1f5127b87695",
+        "https://soa.tainan.gov.tw/Api/Service/Get/437cf196-0cf1-46e1-a188-5b599e50162e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3ff0a3ed-e5b9-4eb2-b18d-29664780a0d5"
+      ]
+    },
+    {
+      "id": "53572",
+      "name": "臺南市政府財政稅務局復查案件辦理情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5d3d06c3-657e-4d91-b3ca-6359b0cfe370",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fca1c7d1-18ff-4595-b87b-fe691d7302d4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fa1fc288-fd8a-471c-8c47-3e92b5258016",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fa1fc288-fd8a-471c-8c47-3e92b5258016",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c208ebd0-2b31-4a16-9233-6e9fed3b67d0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/27e60e82-ffbe-4651-98a2-8f4b8b3021dc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9fbe15ae-f17a-4fb7-9e41-f4275935fc69",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4bee9ee3-f65b-4454-90aa-86277c67b5d3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4bee9ee3-f65b-4454-90aa-86277c67b5d3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/27e60e82-ffbe-4651-98a2-8f4b8b3021dc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2fd765be-81da-4c23-8134-5772e19ce652",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c208ebd0-2b31-4a16-9233-6e9fed3b67d0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9fbe15ae-f17a-4fb7-9e41-f4275935fc69",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2fd765be-81da-4c23-8134-5772e19ce652",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5d3d06c3-657e-4d91-b3ca-6359b0cfe370",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fca1c7d1-18ff-4595-b87b-fe691d7302d4"
+      ]
+    },
+    {
+      "id": "79971",
+      "name": "臺南市使用牌照稅稅源明細",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4f13be00-3eec-4465-9091-5a38b3510e28",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4f13be00-3eec-4465-9091-5a38b3510e28",
+        "https://soa.tainan.gov.tw/Api/Service/Get/608e43f7-b004-4db9-ac82-6118c325872b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/608e43f7-b004-4db9-ac82-6118c325872b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7d07762a-f0af-4436-823c-6ea904c9c926",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7d07762a-f0af-4436-823c-6ea904c9c926",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cb5570a2-0bde-4019-b530-ca86b4a6cd30",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cb5570a2-0bde-4019-b530-ca86b4a6cd30",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ce895a4d-cb81-46e6-b977-ceb39078c3b5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ce895a4d-cb81-46e6-b977-ceb39078c3b5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/342b6bd9-7a86-49d2-91db-d00f7f2e449c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/342b6bd9-7a86-49d2-91db-d00f7f2e449c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1835bb2b-5a92-4426-bdf8-e4df51731792",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1835bb2b-5a92-4426-bdf8-e4df51731792",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ea272a62-8d4f-4593-b2a3-f166237d650e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ea272a62-8d4f-4593-b2a3-f166237d650e"
+      ]
+    },
+    {
+      "id": "79980",
+      "name": "臺南市政府財政稅務局服務據點",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1ceb0302-ca07-4baf-bebd-ada24a450451",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1ceb0302-ca07-4baf-bebd-ada24a450451"
+      ]
+    },
+    {
+      "id": "139742",
+      "name": "臺南市各信用合作社概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1479f7e1-0277-4d74-93be-24892ea38b69",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1479f7e1-0277-4d74-93be-24892ea38b69",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2d0a222a-9f27-4806-84ab-3cbd39941f4b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2d0a222a-9f27-4806-84ab-3cbd39941f4b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b8730b71-bd5e-4309-ada9-573bfa5bff57",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b8730b71-bd5e-4309-ada9-573bfa5bff57",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d36b576a-9d88-48b9-a494-75db1fda57d7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d36b576a-9d88-48b9-a494-75db1fda57d7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9075c17f-ff9e-4a80-9bac-e9e622f4762d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9075c17f-ff9e-4a80-9bac-e9e622f4762d"
+      ]
+    },
+    {
+      "id": "139744",
+      "name": "臺南市各項稅收稽徵人力",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d298f427-2d74-496e-9c36-18bf427ac610",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d298f427-2d74-496e-9c36-18bf427ac610",
+        "https://soa.tainan.gov.tw/Api/Service/Get/12da0190-c126-4fec-96eb-24c079af6c21",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/12da0190-c126-4fec-96eb-24c079af6c21",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1962c9b3-d050-4c4c-b56a-dd1ace06f19a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1962c9b3-d050-4c4c-b56a-dd1ace06f19a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c58340d0-4a9b-4c6f-bfdc-f685237fe196",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c58340d0-4a9b-4c6f-bfdc-f685237fe196",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a50a805-42e0-4733-a2de-f8a0e193bb56",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3a50a805-42e0-4733-a2de-f8a0e193bb56"
+      ]
+    },
+    {
+      "id": "139713",
+      "name": "臺南市房屋稅籍住宅類數量－按屋齡別統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/63358068-6169-4f20-a09c-080540721234",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/63358068-6169-4f20-a09c-080540721234",
+        "https://soa.tainan.gov.tw/Api/Service/Get/81575d09-bea1-441d-97cc-0fe74aef3bcc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/81575d09-bea1-441d-97cc-0fe74aef3bcc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/29e3b370-8af6-4417-bcb7-13b68de7df61",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/29e3b370-8af6-4417-bcb7-13b68de7df61",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ad99ac4f-78c8-4a33-bb6f-17dd6f1efdd9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ad99ac4f-78c8-4a33-bb6f-17dd6f1efdd9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c64dd283-f4e9-4a3b-9919-21825d269594",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c64dd283-f4e9-4a3b-9919-21825d269594",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9a6d76e4-0290-4f24-87ab-34154d808702",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9a6d76e4-0290-4f24-87ab-34154d808702",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ac99d1da-bd0a-4c5e-9a52-4d112bac8173",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ac99d1da-bd0a-4c5e-9a52-4d112bac8173",
+        "https://soa.tainan.gov.tw/Api/Service/Get/170fecfb-1fb0-4310-a96f-59112803c532",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/170fecfb-1fb0-4310-a96f-59112803c532",
+        "https://soa.tainan.gov.tw/Api/Service/Get/11341b00-2ab3-4579-9cc5-5c187e70af25",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/11341b00-2ab3-4579-9cc5-5c187e70af25",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2f67beec-435b-4d43-a65b-5c97f01182c0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2f67beec-435b-4d43-a65b-5c97f01182c0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/154ec4e1-bbdf-4e92-ac59-68045ca8136e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/154ec4e1-bbdf-4e92-ac59-68045ca8136e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/726f071b-f20f-4f00-8aa3-80f7df9258b9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/726f071b-f20f-4f00-8aa3-80f7df9258b9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fee5005e-24b0-41eb-a425-8734a866a6f6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fee5005e-24b0-41eb-a425-8734a866a6f6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3902b95b-63c0-4bed-9a5b-8e59c54d9d99",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3902b95b-63c0-4bed-9a5b-8e59c54d9d99",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f76f6b1f-7ffc-40bb-9230-e03ed0efc26b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f76f6b1f-7ffc-40bb-9230-e03ed0efc26b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a6bd7643-c02a-4fe8-8689-ff688c5e4d5a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a6bd7643-c02a-4fe8-8689-ff688c5e4d5a"
+      ]
+    },
+    {
+      "id": "152668",
+      "name": "臺南市未變性酒精販賣業者登記資料一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/9178385f-ebe8-47ab-bc7c-6062c81d909e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9178385f-ebe8-47ab-bc7c-6062c81d909e"
+      ]
+    },
+    {
+      "id": "152674",
+      "name": "小客車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aa0b2de9-4667-45f0-a152-a954ba630f03",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aa0b2de9-4667-45f0-a152-a954ba630f03"
+      ]
+    },
+    {
+      "id": "152691",
+      "name": "臺南市車輛申報停止使用統計表-按車輛類別區分",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2405f097-733b-4d33-82ce-cefcecb3a6b0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f5cb4456-d60d-4018-98f9-0d60e67bc140",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f15dbbaa-ca35-441e-918d-ffcfe74dccdf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2405f097-733b-4d33-82ce-cefcecb3a6b0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f15dbbaa-ca35-441e-918d-ffcfe74dccdf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f5cb4456-d60d-4018-98f9-0d60e67bc140"
+      ]
+    },
+    {
+      "id": "152775",
+      "name": "臺南市政府財政稅務局110年歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/91dd4b5a-f3db-4004-91bf-45e9fdb17f02",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/91dd4b5a-f3db-4004-91bf-45e9fdb17f02"
+      ]
+    },
+    {
+      "id": "152776",
+      "name": "臺南市政府財政稅務局歲出預算表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1ec55657-677c-4a4d-aca6-2a25d3989d65",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1ec55657-677c-4a4d-aca6-2a25d3989d65",
+        "https://soa.tainan.gov.tw/Api/Service/Get/64484adc-756c-4d96-bd6e-da4564cd58c3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/64484adc-756c-4d96-bd6e-da4564cd58c3"
+      ]
+    },
+    {
+      "id": "152779",
+      "name": "臺南市政府財政稅務局110年度歲出預算表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6c4793ba-c2a0-4697-b9db-0bcfddcb9929",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6c4793ba-c2a0-4697-b9db-0bcfddcb9929"
+      ]
+    },
+    {
+      "id": "152819",
+      "name": "標售臺南市公有非公用房地開標結果",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/980f21f7-6d8f-42c3-be0c-7ccefc7dac2b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/75bb24af-d2a6-4212-8bf9-c0377fc40cba",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6605d18a-ba56-49ec-bab4-8817bcc786ef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/980f21f7-6d8f-42c3-be0c-7ccefc7dac2b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7bdcbf12-f1ed-4d7f-b79d-94a853b0498b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/972d461c-cab6-4b4c-9d22-2c2792c330c6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7bdcbf12-f1ed-4d7f-b79d-94a853b0498b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/972d461c-cab6-4b4c-9d22-2c2792c330c6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/096813f3-de40-416c-9cbb-1bef29d1bf43",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7eb3f357-3165-4fea-87cc-bb4e45fae9ba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/75bb24af-d2a6-4212-8bf9-c0377fc40cba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/096813f3-de40-416c-9cbb-1bef29d1bf43",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7eb3f357-3165-4fea-87cc-bb4e45fae9ba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6605d18a-ba56-49ec-bab4-8817bcc786ef"
+      ]
+    },
+    {
+      "id": "152898",
+      "name": "臺南市市有非公用閒置建物待媒合清冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8ebc033f-1ff2-41fd-81ad-15a2ee5f8c5d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8ebc033f-1ff2-41fd-81ad-15a2ee5f8c5d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e1f328b3-822f-4b4f-933c-1fe5de908b12",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e1f328b3-822f-4b4f-933c-1fe5de908b12"
+      ]
+    },
+    {
+      "id": "161409",
+      "name": "截至111年12月31日臺南市各主管機關接受補助計畫收支報告彙總表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aad26038-fe91-4c0e-9d9e-40fda5ccbe59",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aad26038-fe91-4c0e-9d9e-40fda5ccbe59"
+      ]
+    },
+    {
+      "id": "163933",
+      "name": "臺南市各項稅捐徵收數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/46ca9c32-f560-47e9-8d24-08a85b2b578f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/46ca9c32-f560-47e9-8d24-08a85b2b578f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cced8e9a-ac9a-4fbd-80fb-15ff4ec9f278",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cced8e9a-ac9a-4fbd-80fb-15ff4ec9f278",
+        "https://soa.tainan.gov.tw/Api/Service/Get/161c56ce-891c-4b82-91f1-5b73a9db0dbc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/161c56ce-891c-4b82-91f1-5b73a9db0dbc"
+      ]
+    },
+    {
+      "id": "172193",
+      "name": "截至113年6月30日止臺南市各主管機關接受補助計畫收支報告彙總表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f4abcede-a2f6-4e31-a583-28af379bc764",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f4abcede-a2f6-4e31-a583-28af379bc764"
+      ]
+    },
+    {
+      "id": "21983",
+      "name": "臺南市最新債務訊息",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1bf54c06-e0d7-48c8-af0e-b9a94aaa1c52",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1bf54c06-e0d7-48c8-af0e-b9a94aaa1c52"
+      ]
+    },
+    {
+      "id": "79972",
+      "name": "臺南市房屋稅查定表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4b07fa73-2577-41b5-ab4e-2992b9fe13cb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5862f197-07b0-4a38-bce6-17b2b13e37a8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f705fa3f-99cc-4d0a-bc39-1f6a800bc266",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c8d9e5a4-c4a4-49d2-9b61-a8352832603d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2218a13f-3e28-4e1a-84c7-1a355e5662ec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2c9b61d5-d928-486c-b3ac-3afd10a7b090",
+        "https://soa.tainan.gov.tw/Api/Service/Get/53b8e3d9-b073-4eea-a314-f736d37dd80e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2218a13f-3e28-4e1a-84c7-1a355e5662ec",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/53b8e3d9-b073-4eea-a314-f736d37dd80e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f705fa3f-99cc-4d0a-bc39-1f6a800bc266",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cabea48d-fae5-4088-b214-740964fb8d57",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2c9b61d5-d928-486c-b3ac-3afd10a7b090",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c8d9e5a4-c4a4-49d2-9b61-a8352832603d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5862f197-07b0-4a38-bce6-17b2b13e37a8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4b07fa73-2577-41b5-ab4e-2992b9fe13cb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cabea48d-fae5-4088-b214-740964fb8d57"
+      ]
+    },
+    {
+      "id": "79970",
+      "name": "臺南市最近5年契稅綜合統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8bd0d6d1-74ef-47d6-872c-58d31ab19533",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8bd0d6d1-74ef-47d6-872c-58d31ab19533"
+      ]
+    },
+    {
+      "id": "53264",
+      "name": "臺南市房屋標準單價表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/bd5a4c9f-ccb2-49fe-b13b-11d0423293b9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bd5a4c9f-ccb2-49fe-b13b-11d0423293b9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d75f9e6b-b7fb-45d3-badc-84b088456f8f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d75f9e6b-b7fb-45d3-badc-84b088456f8f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e2340172-09b6-4d06-84f3-ed86e6d6a061",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e2340172-09b6-4d06-84f3-ed86e6d6a061"
+      ]
+    },
+    {
+      "id": "53265",
+      "name": "臺南市房屋路段等級表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/872a8ee1-c221-4727-a052-e3c64c93b651",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/15c71149-1b42-482a-96cc-12cfb641c03c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8f16b5aa-5933-48ca-bb30-e85b422d8f4e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/872a8ee1-c221-4727-a052-e3c64c93b651",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d895a31c-7b1b-4834-9109-26c260f0cfd1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/15c71149-1b42-482a-96cc-12cfb641c03c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e5ec3734-c590-4db0-b59b-1eddabb43a7a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d895a31c-7b1b-4834-9109-26c260f0cfd1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e5ec3734-c590-4db0-b59b-1eddabb43a7a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8f16b5aa-5933-48ca-bb30-e85b422d8f4e"
+      ]
+    },
+    {
+      "id": "53266",
+      "name": "臺南市最近5年房屋稅綜合統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/aaf895e7-1daf-4bcf-a168-daf42c547a02",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aaf895e7-1daf-4bcf-a168-daf42c547a02",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5413630d-c15c-4353-b52e-31142971e443",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5413630d-c15c-4353-b52e-31142971e443"
+      ]
+    },
+    {
+      "id": "53267",
+      "name": "臺南市房屋稅稅籍統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/86cd8bab-0243-4841-9f09-12ef5e7e60ac",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/86cd8bab-0243-4841-9f09-12ef5e7e60ac",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1202107f-0e41-434f-92b0-208f4de101d4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1202107f-0e41-434f-92b0-208f4de101d4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/356f0de9-ae3a-4efc-89d7-35ca685bec87",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/356f0de9-ae3a-4efc-89d7-35ca685bec87",
+        "https://soa.tainan.gov.tw/Api/Service/Get/71835a6a-0830-4dca-9ac0-aee6be5cdc1d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/71835a6a-0830-4dca-9ac0-aee6be5cdc1d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aba23545-8207-4c80-b37a-b7fd38f63466",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aba23545-8207-4c80-b37a-b7fd38f63466",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3786ea67-3756-486e-be17-b856c8affd09",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3786ea67-3756-486e-be17-b856c8affd09",
+        "https://soa.tainan.gov.tw/Api/Service/Get/79d1be0b-fb49-48da-a1dc-e14b17b652be",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/79d1be0b-fb49-48da-a1dc-e14b17b652be",
+        "https://soa.tainan.gov.tw/Api/Service/Get/833f28c0-4f41-427d-bd2e-fc0679982edf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/833f28c0-4f41-427d-bd2e-fc0679982edf"
+      ]
+    },
+    {
+      "id": "53269",
+      "name": "臺南市地價稅稅率及稅額計算表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/607757c2-b1aa-4dde-9cba-2b7e24be7777",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/607757c2-b1aa-4dde-9cba-2b7e24be7777",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9780dff8-224e-4c1f-87c9-2bf25aee1b41",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9780dff8-224e-4c1f-87c9-2bf25aee1b41",
+        "https://soa.tainan.gov.tw/Api/Service/Get/af4532e3-457a-4dc0-bbad-7bfd9eedfab1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/af4532e3-457a-4dc0-bbad-7bfd9eedfab1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7a8abc79-8003-435b-b247-a87d7fcfc722",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7a8abc79-8003-435b-b247-a87d7fcfc722",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0f993bcf-d276-461d-9d2d-b78a5b3a0066",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0f993bcf-d276-461d-9d2d-b78a5b3a0066",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fd10af94-5a06-4c3f-914d-d1d855d4b391",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fd10af94-5a06-4c3f-914d-d1d855d4b391",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fd22209c-92be-43a4-9cea-d627559f7f14",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fd22209c-92be-43a4-9cea-d627559f7f14",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c9a99dee-7ab2-4c44-a996-d7194675394e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c9a99dee-7ab2-4c44-a996-d7194675394e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/45443576-30c8-447a-a06b-f7c0b7cc3a6c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/45443576-30c8-447a-a06b-f7c0b7cc3a6c"
+      ]
+    },
+    {
+      "id": "53274",
+      "name": "臺南市代發他縣市稅捐機關作業統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b85f5226-db88-42ef-a564-c80b15a7f3dd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b85f5226-db88-42ef-a564-c80b15a7f3dd"
+      ]
+    },
+    {
+      "id": "53275",
+      "name": "臺南市網路與臨櫃申報件數統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a415ee8c-e2d0-451c-aee6-99a28ccd387f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0eca757e-573d-45a0-bb68-fb946fd5043b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0eca757e-573d-45a0-bb68-fb946fd5043b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4f86f344-606d-49d6-be75-cf6997a6aa85",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a415ee8c-e2d0-451c-aee6-99a28ccd387f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4f86f344-606d-49d6-be75-cf6997a6aa85"
+      ]
+    },
+    {
+      "id": "53276",
+      "name": "臺南市全功能服務櫃臺統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a2d972b-0906-4e64-907b-ad705fb746bc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/087cd12c-8d74-4c4b-a64b-de48e39d9986",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3a2d972b-0906-4e64-907b-ad705fb746bc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/087cd12c-8d74-4c4b-a64b-de48e39d9986",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3ed30a33-6c60-40a7-9a3c-06daaa71b37f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c0c69a94-993d-4792-9456-aef97fdd9441",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c0c69a94-993d-4792-9456-aef97fdd9441",
+        "https://soa.tainan.gov.tw/Api/Service/Get/12c0b634-f195-46e4-80a3-37695b23c236",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/12c0b634-f195-46e4-80a3-37695b23c236",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3ed30a33-6c60-40a7-9a3c-06daaa71b37f"
+      ]
+    },
+    {
+      "id": "53295",
+      "name": "臺南市地價稅查定表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d4c3c4d4-52ec-4a2c-9de9-9502ce8a11b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d870c3ed-d481-4a1f-b381-ce0993cd1685",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/292035bb-e855-476a-9829-890ef6b43e32",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d870c3ed-d481-4a1f-b381-ce0993cd1685",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b1afb3cc-2762-4898-9ec6-432a58a7b760",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5a260d13-fd2f-432f-aed4-7cea66bee9eb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/54867cc3-db4a-40e3-8687-0092659e4861",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d4c3c4d4-52ec-4a2c-9de9-9502ce8a11b8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b1afb3cc-2762-4898-9ec6-432a58a7b760",
+        "https://soa.tainan.gov.tw/Api/Service/Get/292035bb-e855-476a-9829-890ef6b43e32",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5964d3d7-35dc-4bb9-be82-5158eb8ed739",
+        "https://soa.tainan.gov.tw/Api/Service/Get/face75cf-26b6-4fae-816a-4c32807b763d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5a260d13-fd2f-432f-aed4-7cea66bee9eb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5964d3d7-35dc-4bb9-be82-5158eb8ed739",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/face75cf-26b6-4fae-816a-4c32807b763d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/54867cc3-db4a-40e3-8687-0092659e4861"
+      ]
+    },
+    {
+      "id": "53298",
+      "name": "臺南市房屋路段等級級距表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f541dec0-b240-48f7-93dc-a06b21292caa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f541dec0-b240-48f7-93dc-a06b21292caa"
+      ]
+    },
+    {
+      "id": "53300",
+      "name": "臺南市房屋稅徵績",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2a1d5d54-8583-46ab-b657-2351b39e2eb2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2a1d5d54-8583-46ab-b657-2351b39e2eb2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/89c962b3-a37c-4078-9529-75e08f0e81fb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/89c962b3-a37c-4078-9529-75e08f0e81fb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5eae5847-a640-49f8-a7c2-8969ea9b6bf9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5eae5847-a640-49f8-a7c2-8969ea9b6bf9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d94d23b9-5a3f-4fe6-bcb8-c8f5cf9171f1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d94d23b9-5a3f-4fe6-bcb8-c8f5cf9171f1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/23a8cc5b-ef13-4e29-9d25-f43456ce2653",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/23a8cc5b-ef13-4e29-9d25-f43456ce2653"
+      ]
+    },
+    {
+      "id": "53297",
+      "name": "臺南市房屋稅收稅籍數及實徵數(按里別)",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/27ec0da6-b359-4a19-97c1-a8853b0bf4cc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c5b870d6-5270-4d5f-aaf5-c109f402d23d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c5b870d6-5270-4d5f-aaf5-c109f402d23d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8a0bb5fa-304b-4f2a-b6bb-d503e205ec8e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ccc5c311-6d95-417b-9c38-424d7f307787",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cc5c0844-09de-4f59-8bfb-583bbc82f362",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ccc5c311-6d95-417b-9c38-424d7f307787",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/01fee352-ce3c-4e96-8890-24b15ae6492d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1536561e-e150-48c4-b544-e0736a07b650",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1536561e-e150-48c4-b544-e0736a07b650",
+        "https://soa.tainan.gov.tw/Api/Service/Get/27ec0da6-b359-4a19-97c1-a8853b0bf4cc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/01fee352-ce3c-4e96-8890-24b15ae6492d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cc5c0844-09de-4f59-8bfb-583bbc82f362",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8a0bb5fa-304b-4f2a-b6bb-d503e205ec8e"
+      ]
+    },
+    {
+      "id": "53619",
+      "name": "臺南市娛樂稅營業細項及代碼對照表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3d049ae9-1e52-42f2-b7d6-54266e4d6b36",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3d049ae9-1e52-42f2-b7d6-54266e4d6b36"
+      ]
+    },
+    {
+      "id": "101557",
+      "name": "臺南市房屋構造別代號表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a68a4d94-5e44-4d50-beb8-ec53bc84ada3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a68a4d94-5e44-4d50-beb8-ec53bc84ada3"
+      ]
+    },
+    {
+      "id": "98795",
+      "name": "臺南市政府財政稅務局多點跨區據點服務件數統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b642f66e-ec1b-4c27-af56-1ca0052a785f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b642f66e-ec1b-4c27-af56-1ca0052a785f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/54bb246e-47a8-41e8-91c5-36e4c6322e42",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/54bb246e-47a8-41e8-91c5-36e4c6322e42",
+        "https://soa.tainan.gov.tw/Api/Service/Get/778acd15-c5a1-4ffc-9e26-53a5f91154bb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/778acd15-c5a1-4ffc-9e26-53a5f91154bb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/330f483a-8745-4e58-8bf3-71c5c4ed54b2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/330f483a-8745-4e58-8bf3-71c5c4ed54b2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a7527acf-8957-4a38-bfdd-8356426b4ccb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a7527acf-8957-4a38-bfdd-8356426b4ccb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/738bda64-bf93-448c-ac5e-8356c3c02ce5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/738bda64-bf93-448c-ac5e-8356c3c02ce5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ac31d7ba-83ad-4a75-a3af-943f0542ba65",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ac31d7ba-83ad-4a75-a3af-943f0542ba65",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5579dae1-283f-4d5d-95ea-97cfe79202dc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5579dae1-283f-4d5d-95ea-97cfe79202dc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/48f0edd4-2fa7-4063-acf8-9d31da68b1d8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/48f0edd4-2fa7-4063-acf8-9d31da68b1d8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c9a1744c-1f0c-4da0-b64f-acbd7f6dfabb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c9a1744c-1f0c-4da0-b64f-acbd7f6dfabb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6db02e61-1b95-4beb-b064-f7bf821bbb63",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6db02e61-1b95-4beb-b064-f7bf821bbb63",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ef4626ce-62c7-46fa-be50-ff0b75a6d867",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ef4626ce-62c7-46fa-be50-ff0b75a6d867"
+      ]
+    },
+    {
+      "id": "98801",
+      "name": "臺南市地價稅稅源統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0fe29fca-8765-4530-aeb1-65b94eb10b7b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0fe29fca-8765-4530-aeb1-65b94eb10b7b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/06176b10-ecbb-4fd0-9bce-9ec60549e800",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/06176b10-ecbb-4fd0-9bce-9ec60549e800"
+      ]
+    },
+    {
+      "id": "118179",
+      "name": "臺南市菸酒製造業者資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/049be991-0716-498f-9001-5ee9e861e492",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/049be991-0716-498f-9001-5ee9e861e492"
+      ]
+    },
+    {
+      "id": "138714",
+      "name": "臺南市債負比率",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/41513dc5-a543-4c39-80b4-602527d7ae76",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/41513dc5-a543-4c39-80b4-602527d7ae76",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/45c37b67-45af-4952-a66c-abcbaa6917c8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/59cf58e0-f9c4-4874-8c8b-bec1d584db7d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/05d1a1c9-01da-47ba-a351-80f55ded5fc3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/656000c0-2844-44ef-b784-f1a7bd743dac",
+        "https://soa.tainan.gov.tw/Api/Service/Get/656000c0-2844-44ef-b784-f1a7bd743dac",
+        "https://soa.tainan.gov.tw/Api/Service/Get/45c37b67-45af-4952-a66c-abcbaa6917c8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/05d1a1c9-01da-47ba-a351-80f55ded5fc3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/59cf58e0-f9c4-4874-8c8b-bec1d584db7d"
+      ]
+    },
+    {
+      "id": "139714",
+      "name": "臺南市房屋稅籍住宅類數量－按總樓層別統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2a39d62e-2cb7-484f-bd7f-2bf0faaa9f24",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2a39d62e-2cb7-484f-bd7f-2bf0faaa9f24",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f71bb436-d73b-4ec2-8f3b-38db05e8e131",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f71bb436-d73b-4ec2-8f3b-38db05e8e131",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f61955e2-db7b-4edc-bde2-3e12b86c980a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f61955e2-db7b-4edc-bde2-3e12b86c980a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/07463f94-0521-48b0-98c6-54af4063999f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/07463f94-0521-48b0-98c6-54af4063999f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/149f3f3a-70f2-4bde-91b2-71a1284c89aa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/149f3f3a-70f2-4bde-91b2-71a1284c89aa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a62af981-f740-4857-bbdc-77973d472a51",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a62af981-f740-4857-bbdc-77973d472a51",
+        "https://soa.tainan.gov.tw/Api/Service/Get/131ee020-eda2-4983-b703-7da46b0e7da8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/131ee020-eda2-4983-b703-7da46b0e7da8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/859c6fef-91ea-486c-af6d-9a27dcaf286a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/859c6fef-91ea-486c-af6d-9a27dcaf286a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8ea38c8e-6f01-42e4-961d-b86e366e6508",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8ea38c8e-6f01-42e4-961d-b86e366e6508",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a1fc143-d185-45f8-8c8d-d3d9f267fefb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3a1fc143-d185-45f8-8c8d-d3d9f267fefb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/efcf387b-1f88-4c77-b060-d6a785a71e1c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/efcf387b-1f88-4c77-b060-d6a785a71e1c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fa4dd864-f009-491f-9f86-dac4b709235b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fa4dd864-f009-491f-9f86-dac4b709235b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d04cdfbf-cce1-4825-b8f0-ec7c99b889cb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d04cdfbf-cce1-4825-b8f0-ec7c99b889cb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d895b2c9-153e-45d3-82c1-f8cceb0712dc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d895b2c9-153e-45d3-82c1-f8cceb0712dc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/33250be7-5c91-4270-8189-fc9209115b22",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/33250be7-5c91-4270-8189-fc9209115b22"
+      ]
+    },
+    {
+      "id": "139715",
+      "name": "臺南市辦理民間參與公共建設已簽約案件",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/96e48277-c2d9-43e3-8b47-5f7554d2fa63",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/96e48277-c2d9-43e3-8b47-5f7554d2fa63",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a2b6837f-b434-4536-9e2b-6b9d39fca62a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a2b6837f-b434-4536-9e2b-6b9d39fca62a"
+      ]
+    },
+    {
+      "id": "139716",
+      "name": "臺南市各信用合作社存放款餘額",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c6c3667b-1313-40a3-a446-4c8e179e8390",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c6c3667b-1313-40a3-a446-4c8e179e8390",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fd18730b-fd30-45e2-b5ed-619e02a8f0d8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fd18730b-fd30-45e2-b5ed-619e02a8f0d8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ea25b843-17da-4836-9382-8c574a1e0f0f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ea25b843-17da-4836-9382-8c574a1e0f0f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4753f3b1-73ff-4bb3-910b-b86314d7bdac",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4753f3b1-73ff-4bb3-910b-b86314d7bdac",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d56caa10-c8d6-4531-ad02-f9804f02dc9e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d56caa10-c8d6-4531-ad02-f9804f02dc9e"
+      ]
+    },
+    {
+      "id": "139717",
+      "name": "臺南市各項稅收稽徵成本",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f7a89020-d538-47bb-86f7-176793e65678",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2b16c215-1a6f-45a8-b6c7-34836b107256",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2b16c215-1a6f-45a8-b6c7-34836b107256",
+        "https://soa.tainan.gov.tw/Api/Service/Get/24c34831-aaa0-4c22-b117-a0dd9c5619a8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9b525ef6-1e7f-4ec3-a213-ff4a2bd68e4b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f7a89020-d538-47bb-86f7-176793e65678",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/24c34831-aaa0-4c22-b117-a0dd9c5619a8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9b525ef6-1e7f-4ec3-a213-ff4a2bd68e4b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/28db006c-c677-4b1c-b6b2-970a90764524",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/28db006c-c677-4b1c-b6b2-970a90764524"
+      ]
+    },
+    {
+      "id": "152675",
+      "name": "大客車及貨車使用牌照稅稅額表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b7e69dfd-1463-487d-a8e9-ca02b37cae65",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b7e69dfd-1463-487d-a8e9-ca02b37cae65"
+      ]
+    },
+    {
+      "id": "152690",
+      "name": "完全以電能為動力之電動小客車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5f52f271-39f4-48ad-b10a-957dd4993285",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5f52f271-39f4-48ad-b10a-957dd4993285"
+      ]
+    },
+    {
+      "id": "152774",
+      "name": "臺南市政府財政稅務局歲入預算表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/9b1276d2-139e-43ee-9fd2-7b3c253bffed",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9b1276d2-139e-43ee-9fd2-7b3c253bffed",
+        "https://soa.tainan.gov.tw/Api/Service/Get/21cbb6d1-012f-40f8-8262-f44b4434b487",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/21cbb6d1-012f-40f8-8262-f44b4434b487"
+      ]
+    },
+    {
+      "id": "152778",
+      "name": "臺南市政府財政稅務局歲入決算表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d78527b2-2643-4257-a85d-8a69f7ccd172",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d2c11d37-2478-4ea9-bbb8-fc2a9fe1d9e4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d2c11d37-2478-4ea9-bbb8-fc2a9fe1d9e4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d78527b2-2643-4257-a85d-8a69f7ccd172"
+      ]
+    },
+    {
+      "id": "152711",
+      "name": "臺南市跨區繼承查欠統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/faa9e84e-c8d2-4a66-bf1b-6e913757a269",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/faa9e84e-c8d2-4a66-bf1b-6e913757a269",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dc374dcb-d25d-4054-ac07-c5717e93faee",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dc374dcb-d25d-4054-ac07-c5717e93faee",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7d57163e-620a-46cf-aadc-d227454e54fc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7d57163e-620a-46cf-aadc-d227454e54fc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/38c2ae10-7499-4154-a3e4-e93d249fbe61",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/38c2ae10-7499-4154-a3e4-e93d249fbe61"
+      ]
+    },
+    {
+      "id": "152693",
+      "name": "臺南市實施集中支付通匯(電連)存帳及簽發支票情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/861ac047-b8ee-45ec-9ca1-257fa7b14ccf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/861ac047-b8ee-45ec-9ca1-257fa7b14ccf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/92ecb4f9-f2f6-4174-a2bd-2eb7d98e5c27",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/92ecb4f9-f2f6-4174-a2bd-2eb7d98e5c27",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6d9bd5c9-f468-40d6-8578-7c5ce4ba8e26",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6d9bd5c9-f468-40d6-8578-7c5ce4ba8e26",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e5193537-1473-47fe-9196-a11f783902a4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e5193537-1473-47fe-9196-a11f783902a4"
+      ]
+    },
+    {
+      "id": "152594",
+      "name": "臺南市使用牌照稅徵績",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/72409140-7b6a-4e12-a73a-b35305ea814d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b39cc20f-26c2-47c4-977b-bbbce3c6083b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4470124a-a609-42c7-aa58-26cf9fc1fc0a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/72409140-7b6a-4e12-a73a-b35305ea814d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bff644f6-2958-438e-b111-338cdf13a970",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b39cc20f-26c2-47c4-977b-bbbce3c6083b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bff644f6-2958-438e-b111-338cdf13a970",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4470124a-a609-42c7-aa58-26cf9fc1fc0a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8ae17a6a-e398-460d-b544-2a6a0d2d0cc3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f3de6b75-f10e-4fb7-abd6-de34e8a3951c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f3de6b75-f10e-4fb7-abd6-de34e8a3951c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8ae17a6a-e398-460d-b544-2a6a0d2d0cc3"
+      ]
+    },
+    {
+      "id": "152595",
+      "name": "臺南市使用牌照稅稅源統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4ab89e46-bc69-4897-8f3f-01404040cfbf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4ab89e46-bc69-4897-8f3f-01404040cfbf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/470f4baf-8acc-4725-a77a-234d99f52f49",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/470f4baf-8acc-4725-a77a-234d99f52f49",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a9fec592-c72a-468b-8772-6cfe3e27e925",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a9fec592-c72a-468b-8772-6cfe3e27e925",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4abd68d5-fc31-47da-a20f-9379bde0d9bc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4abd68d5-fc31-47da-a20f-9379bde0d9bc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5e5f820b-b800-4e85-97ef-9d0f3dedc1c4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5e5f820b-b800-4e85-97ef-9d0f3dedc1c4"
+      ]
+    },
+    {
+      "id": "152597",
+      "name": "臺南市各項稅捐實徵淨額與預算數及上年同期比較─累計數",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/129eb55b-b0e3-4d12-b99b-01094fcbd5ae",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d38e596a-6fd5-4569-b71d-d8394c712035",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d38e596a-6fd5-4569-b71d-d8394c712035",
+        "https://soa.tainan.gov.tw/Api/Service/Get/129eb55b-b0e3-4d12-b99b-01094fcbd5ae",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d99ee1eb-0144-4330-b5ab-e4cb6daf0323",
+        "https://soa.tainan.gov.tw/Api/Service/Get/85b6947a-c7e2-4367-a4b0-9774a61c9555",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d99ee1eb-0144-4330-b5ab-e4cb6daf0323",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/85b6947a-c7e2-4367-a4b0-9774a61c9555"
+      ]
+    },
+    {
+      "id": "53419",
+      "name": "臺南市稅務行政救濟案件處理資料表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/942768e0-73a6-4743-9b51-2a0f2c3eba45",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/942768e0-73a6-4743-9b51-2a0f2c3eba45",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c608c8a9-1a50-4ad9-a809-35e6c161eb4c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c608c8a9-1a50-4ad9-a809-35e6c161eb4c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0d424eb8-3ced-4136-888e-41adf5c17894",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0d424eb8-3ced-4136-888e-41adf5c17894",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bf4f40cb-4bea-4409-a448-69213dcc90eb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bf4f40cb-4bea-4409-a448-69213dcc90eb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0860e455-d65b-45fa-a85d-7589f423de07",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0860e455-d65b-45fa-a85d-7589f423de07",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1245e2c9-4f4e-4cbb-9354-83379a952d73",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1245e2c9-4f4e-4cbb-9354-83379a952d73",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f93831ac-d2a8-43a7-8810-a822f2d07c4c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f93831ac-d2a8-43a7-8810-a822f2d07c4c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e46fe621-6c77-499b-9342-b57d678799e9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e46fe621-6c77-499b-9342-b57d678799e9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0c7bbdd1-a5dd-42f7-941c-f1bf0ff35e80",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0c7bbdd1-a5dd-42f7-941c-f1bf0ff35e80"
+      ]
+    },
+    {
+      "id": "52990",
+      "name": "臺南市娛樂稅稅源月報表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/659ef286-5744-4ed4-b10d-4ffbc312d338",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/659ef286-5744-4ed4-b10d-4ffbc312d338",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7f07f24f-67a4-4c31-8f0d-5654b68dcdcd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7f07f24f-67a4-4c31-8f0d-5654b68dcdcd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/072a4708-a513-47e2-9b48-580f6d0f22d5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/072a4708-a513-47e2-9b48-580f6d0f22d5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9c1e9b4c-b4d8-4f20-b0b4-6e4b69a11c37",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9c1e9b4c-b4d8-4f20-b0b4-6e4b69a11c37",
+        "https://soa.tainan.gov.tw/Api/Service/Get/19bd8fad-4737-4e19-82fa-94fc2693bfc1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/19bd8fad-4737-4e19-82fa-94fc2693bfc1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/966f8365-ffbe-498b-9a2c-9d3d08d11d9a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/966f8365-ffbe-498b-9a2c-9d3d08d11d9a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2275bc88-f93e-499a-96aa-ae891634a1ca",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2275bc88-f93e-499a-96aa-ae891634a1ca",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6ce598cd-d957-407b-a39d-b730ddf90c42",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6ce598cd-d957-407b-a39d-b730ddf90c42",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6a0efb2b-161d-4e98-8c69-c0b2c73a75a1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6a0efb2b-161d-4e98-8c69-c0b2c73a75a1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/160fd000-4d59-4d45-9e1b-d8d7c7fda015",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/160fd000-4d59-4d45-9e1b-d8d7c7fda015"
+      ]
+    },
+    {
+      "id": "53268",
+      "name": "臺南市房屋用途類別及用途細類別對照表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/6409ddab-9103-466a-ad2f-2926e368f813",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6409ddab-9103-466a-ad2f-2926e368f813"
+      ]
+    },
+    {
+      "id": "53272",
+      "name": "臺南市繳稅方式統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c00afacd-c3f3-4458-b066-0d6013a227d9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c00afacd-c3f3-4458-b066-0d6013a227d9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ae6b8d7c-0152-4c6f-b5e9-2de2675b0186",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ae6b8d7c-0152-4c6f-b5e9-2de2675b0186",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a07d2288-55b7-46d4-abf0-31a376ac7aa4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a07d2288-55b7-46d4-abf0-31a376ac7aa4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/34d56734-4577-449c-bb3a-5710fc88329b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/34d56734-4577-449c-bb3a-5710fc88329b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a16c0294-19cd-4a97-a1f0-5f754ef7d29c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a16c0294-19cd-4a97-a1f0-5f754ef7d29c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2ded6191-c030-4122-b2d5-75e7776fd66b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2ded6191-c030-4122-b2d5-75e7776fd66b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f2582327-809c-4b54-a0a2-7fa8a08a3fe6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f2582327-809c-4b54-a0a2-7fa8a08a3fe6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a37f6f68-044c-4850-82bf-abe7d096ba92",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a37f6f68-044c-4850-82bf-abe7d096ba92",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8a238c29-bd6c-4c37-ad82-d49b45aa1a44",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8a238c29-bd6c-4c37-ad82-d49b45aa1a44",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f60540e3-4d95-483f-8353-d506963775a8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f60540e3-4d95-483f-8353-d506963775a8"
+      ]
+    },
+    {
+      "id": "53273",
+      "name": "他縣市稅捐機關代發臺南市資料統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/050c26e7-b6fe-4e5a-b141-b9195b023626",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/050c26e7-b6fe-4e5a-b141-b9195b023626"
+      ]
+    },
+    {
+      "id": "53277",
+      "name": "臺南市印花稅徵收",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/43b2c1a6-62f5-448c-9e5f-11bb8cffe66b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/43b2c1a6-62f5-448c-9e5f-11bb8cffe66b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b87881e3-a1da-49c4-a2ef-7f7327b9380c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b87881e3-a1da-49c4-a2ef-7f7327b9380c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6bbd491f-ab36-4e6b-8819-8c4ac6b6bb59",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6bbd491f-ab36-4e6b-8819-8c4ac6b6bb59",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7075ed3f-f894-43ca-93e7-9a81c4f0430c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7075ed3f-f894-43ca-93e7-9a81c4f0430c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1d2b8e15-807e-4623-85fe-a2f0ab776865",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1d2b8e15-807e-4623-85fe-a2f0ab776865",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1d1e69eb-6c3e-4f69-88bf-a9c9caa7b0d3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1d1e69eb-6c3e-4f69-88bf-a9c9caa7b0d3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f2e1ba91-f3bd-4240-a076-ab77456d78fa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f2e1ba91-f3bd-4240-a076-ab77456d78fa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6afe6362-652b-4a7c-aea2-e340c9e3f21c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6afe6362-652b-4a7c-aea2-e340c9e3f21c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c2aaba4c-0452-439b-b298-f8cd18dc0c44",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c2aaba4c-0452-439b-b298-f8cd18dc0c44",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2ec16dd4-4fce-43a0-9e6a-fe31be292e7f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2ec16dd4-4fce-43a0-9e6a-fe31be292e7f"
+      ]
+    },
+    {
+      "id": "53278",
+      "name": "臺南市查(核)定開徵數情形",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e9cac423-706d-42a4-8a90-a52f412c1a72",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/430a971f-8e91-42fa-9081-3ae9cb2b747c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1d7be780-51f1-4032-ad84-3a2ee1e261c2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2226b4e3-e345-471b-8b89-d1bb7cdafbcb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/27d08c80-520d-4bfd-8167-eb81725b62db",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9d1e12ca-ae34-4142-bc6b-f4035b835261",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2226b4e3-e345-471b-8b89-d1bb7cdafbcb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1d7be780-51f1-4032-ad84-3a2ee1e261c2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ffd6ff3b-ce49-4e83-b5f5-33c514ba5e96",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9d1e12ca-ae34-4142-bc6b-f4035b835261",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6a2bee0f-99ed-4de3-8de0-efccf3c7f02f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ffd6ff3b-ce49-4e83-b5f5-33c514ba5e96",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6a2bee0f-99ed-4de3-8de0-efccf3c7f02f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/27d08c80-520d-4bfd-8167-eb81725b62db",
+        "https://soa.tainan.gov.tw/Api/Service/Get/430a971f-8e91-42fa-9081-3ae9cb2b747c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e9cac423-706d-42a4-8a90-a52f412c1a72"
+      ]
+    },
+    {
+      "id": "53279",
+      "name": "臺南市未徵數情形",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ee8de406-0260-4076-a66d-29a8e1bea560",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2eefc599-ac0c-4e56-913f-07cc30ad235f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f18c5ae9-c643-422d-8b10-9daba0de556e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e3363f91-b622-485a-ae5a-59b46546d21d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/47ade94c-47b5-4770-a8fb-faa4ea02870e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ee8de406-0260-4076-a66d-29a8e1bea560",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6e5d60fc-1cf5-420e-8b78-e61d45226b2e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/241a9b62-93be-48ce-9495-1e3ace1f2c65",
+        "https://soa.tainan.gov.tw/Api/Service/Get/241a9b62-93be-48ce-9495-1e3ace1f2c65",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6e5d60fc-1cf5-420e-8b78-e61d45226b2e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f18c5ae9-c643-422d-8b10-9daba0de556e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2eefc599-ac0c-4e56-913f-07cc30ad235f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/47ade94c-47b5-4770-a8fb-faa4ea02870e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e3363f91-b622-485a-ae5a-59b46546d21d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0178f8a8-2610-491c-814b-5b4afd53cd89",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0178f8a8-2610-491c-814b-5b4afd53cd89"
+      ]
+    },
+    {
+      "id": "53330",
+      "name": "臺南市政府財政稅務局公文處理成績月報表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2835a1d2-083c-48f6-9a05-2bbe7f1823e1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2835a1d2-083c-48f6-9a05-2bbe7f1823e1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2d2d750a-37dc-4457-b415-3da70a6638de",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2d2d750a-37dc-4457-b415-3da70a6638de",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bbf874ab-e1ab-43be-8e58-491cc3795c0f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bbf874ab-e1ab-43be-8e58-491cc3795c0f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0d12c843-78fe-4fdf-84b0-609184345671",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0d12c843-78fe-4fdf-84b0-609184345671",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7339c6fa-7c18-4a1d-9feb-8b6368f35ce0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7339c6fa-7c18-4a1d-9feb-8b6368f35ce0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cfa8b36e-f6dd-4537-a389-a22a079dee5f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cfa8b36e-f6dd-4537-a389-a22a079dee5f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fef3df99-0db5-45d5-a71d-d72fcaf3d16c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fef3df99-0db5-45d5-a71d-d72fcaf3d16c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7a7b387d-da41-4c55-b0c3-f81e69516c46",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7a7b387d-da41-4c55-b0c3-f81e69516c46"
+      ]
+    },
+    {
+      "id": "53287",
+      "name": "臺南市土地增值稅查定筆數及實徵稅額統計表(按區別)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7f12c2e7-cd43-42e7-b234-3660f4cb93c9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7f12c2e7-cd43-42e7-b234-3660f4cb93c9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6059c6c0-db66-404c-9860-82645d34958a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6059c6c0-db66-404c-9860-82645d34958a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/59021a66-6dbc-4e69-8b89-836841619aef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/59021a66-6dbc-4e69-8b89-836841619aef",
+        "https://soa.tainan.gov.tw/Api/Service/Get/52a4e2ad-a20c-4ae8-9f36-95ae91633438",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/52a4e2ad-a20c-4ae8-9f36-95ae91633438",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f4ead521-1bd3-4751-b537-ad363b17382a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f4ead521-1bd3-4751-b537-ad363b17382a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0093a216-96b6-4080-924b-cfb9c1f643b3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0093a216-96b6-4080-924b-cfb9c1f643b3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d45c993f-b410-481d-9492-e16a4c610e95",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d45c993f-b410-481d-9492-e16a4c610e95",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cd84dea9-7aed-4823-a178-e8ff83796af3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cd84dea9-7aed-4823-a178-e8ff83796af3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2be4dc9f-c489-45f5-a6c2-fe749bc47752",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2be4dc9f-c489-45f5-a6c2-fe749bc47752"
+      ]
+    },
+    {
+      "id": "53292",
+      "name": "臺南市契稅查定筆數及實徵稅額統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/244205d1-c6c6-467c-9f8e-047b9f3f7cc7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f41a2c91-e849-4437-a9eb-6a41772a3e45",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/244205d1-c6c6-467c-9f8e-047b9f3f7cc7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f3ee436b-0310-437e-91da-e331b7edd9ce",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/411c40a2-f57b-49da-97d6-e72eba479d5d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/411c40a2-f57b-49da-97d6-e72eba479d5d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f3ee436b-0310-437e-91da-e331b7edd9ce",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c7ef3e42-a5b3-40f4-8925-f33752385415",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/745636bb-448e-41c8-b0b4-0c1f850ba8b7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bd6718f5-5a79-4dea-aabf-2ba3acf47dda",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bd6718f5-5a79-4dea-aabf-2ba3acf47dda",
+        "https://soa.tainan.gov.tw/Api/Service/Get/745636bb-448e-41c8-b0b4-0c1f850ba8b7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c7ef3e42-a5b3-40f4-8925-f33752385415"
+      ]
+    },
+    {
+      "id": "53293",
+      "name": "臺南市地價稅徵績",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1d965a97-7a86-47a1-9183-66a89487d30e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1d965a97-7a86-47a1-9183-66a89487d30e"
+      ]
+    },
+    {
+      "id": "53299",
+      "name": "臺南市各類房屋折舊標準表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a4cd37b-44d5-476c-b3cb-34317a0a7571",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3a4cd37b-44d5-476c-b3cb-34317a0a7571",
+        "https://soa.tainan.gov.tw/Api/Service/Get/55c24e9e-c027-4818-8a7a-b04e0b69e2d3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/55c24e9e-c027-4818-8a7a-b04e0b69e2d3"
+      ]
+    },
+    {
+      "id": "100210",
+      "name": "臺南市最近五年土地增值稅稅源統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5573e478-47ab-439a-9e42-0e20cfe4b26d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5573e478-47ab-439a-9e42-0e20cfe4b26d"
+      ]
+    },
+    {
+      "id": "139743",
+      "name": "臺南市房屋稅籍住宅類數量－按面積別統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/422b8c07-add2-400a-bab2-2e9fca9dff0d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/422b8c07-add2-400a-bab2-2e9fca9dff0d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c66c5b90-44ff-4223-b118-38ee93145c02",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c66c5b90-44ff-4223-b118-38ee93145c02",
+        "https://soa.tainan.gov.tw/Api/Service/Get/284649ec-e814-43ee-832e-3cb5a0bd59b4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/284649ec-e814-43ee-832e-3cb5a0bd59b4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ab3cec01-b914-47e2-8ba1-425ed3a11a60",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ab3cec01-b914-47e2-8ba1-425ed3a11a60",
+        "https://soa.tainan.gov.tw/Api/Service/Get/06c5d684-ffa2-4452-9044-510b6ece5b4c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/06c5d684-ffa2-4452-9044-510b6ece5b4c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dbd8d1d8-a1f2-48fd-ad93-70af32e21174",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dbd8d1d8-a1f2-48fd-ad93-70af32e21174",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c189f3b8-141d-4135-aae9-7ae93b10214e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c189f3b8-141d-4135-aae9-7ae93b10214e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9bfe65d4-6dbd-4c69-85f4-7de356b2858e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9bfe65d4-6dbd-4c69-85f4-7de356b2858e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2eb58d50-842e-410f-a9c3-9a5ec04e2efc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2eb58d50-842e-410f-a9c3-9a5ec04e2efc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e039ede9-dd60-4f7c-878e-9dda09dbf869",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e039ede9-dd60-4f7c-878e-9dda09dbf869",
+        "https://soa.tainan.gov.tw/Api/Service/Get/24282fa4-3797-4c33-953b-b083d66c8321",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/24282fa4-3797-4c33-953b-b083d66c8321",
+        "https://soa.tainan.gov.tw/Api/Service/Get/88966aae-77c0-497c-a2d3-b69afa78d49c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/88966aae-77c0-497c-a2d3-b69afa78d49c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c84da49b-8df3-4b84-84b6-c6537ac5e28c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c84da49b-8df3-4b84-84b6-c6537ac5e28c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ee8c565f-7fdf-40cd-8ba1-c84722cd6fde",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ee8c565f-7fdf-40cd-8ba1-c84722cd6fde",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aeaf45ba-5915-41fc-803c-d2f220266403",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aeaf45ba-5915-41fc-803c-d2f220266403",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a11b157d-c846-4fd2-91df-d6fe0ccd4d97",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a11b157d-c846-4fd2-91df-d6fe0ccd4d97",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4a13c10b-d983-4ade-acd8-e18db1e86de6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4a13c10b-d983-4ade-acd8-e18db1e86de6"
+      ]
+    },
+    {
+      "id": "139745",
+      "name": "臺南市違章漏稅案件處理及財務罰鍰執行情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7e1b2699-a039-4fbd-83cd-0a9e99feff05",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7e1b2699-a039-4fbd-83cd-0a9e99feff05",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2d87ca7f-76fe-40d2-b561-40ed2b90ecff",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2d87ca7f-76fe-40d2-b561-40ed2b90ecff",
+        "https://soa.tainan.gov.tw/Api/Service/Get/22d6b293-9268-4e29-93fc-4eae3292e816",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/22d6b293-9268-4e29-93fc-4eae3292e816",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1a2ce3d2-1ab6-4c23-b636-7a2355670dec",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1a2ce3d2-1ab6-4c23-b636-7a2355670dec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8c21eef7-dddc-4e07-9475-b47ad11f2a60",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8c21eef7-dddc-4e07-9475-b47ad11f2a60"
+      ]
+    },
+    {
+      "id": "139746",
+      "name": "臺南市信用合作社存放款概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/78f99825-b08f-4b63-a16d-0550f68c32a4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/78f99825-b08f-4b63-a16d-0550f68c32a4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e03189d6-92a2-4fb6-999d-2e121b769ff8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e03189d6-92a2-4fb6-999d-2e121b769ff8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ff700a91-ed19-4ca1-8d2e-6fb9fdd7f54c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ff700a91-ed19-4ca1-8d2e-6fb9fdd7f54c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e7092ff9-2145-421b-8ec0-82eb6994a168",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e7092ff9-2145-421b-8ec0-82eb6994a168",
+        "https://soa.tainan.gov.tw/Api/Service/Get/966107e4-05d5-4bde-8a15-d72389d15ef9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/966107e4-05d5-4bde-8a15-d72389d15ef9"
+      ]
+    },
+    {
+      "id": "139709",
+      "name": "臺南市使用牌照稅徵收概況-按納稅義務人性別分",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/43bd6de0-12c7-4bc9-beea-79bfcb0856aa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/43bd6de0-12c7-4bc9-beea-79bfcb0856aa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/37a46a50-c000-4e12-b8fb-b71264e95617",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/37a46a50-c000-4e12-b8fb-b71264e95617",
+        "https://soa.tainan.gov.tw/Api/Service/Get/41a898eb-791c-4e2e-9b34-b93f24f1f252",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/41a898eb-791c-4e2e-9b34-b93f24f1f252",
+        "https://soa.tainan.gov.tw/Api/Service/Get/78177068-09be-42d7-b777-d3acb9c623fb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/78177068-09be-42d7-b777-d3acb9c623fb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e80ee683-2571-4bed-9206-db8538ea1ee5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e80ee683-2571-4bed-9206-db8538ea1ee5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/100dfa97-9e7c-4cdf-856c-ec72a7281b14",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/100dfa97-9e7c-4cdf-856c-ec72a7281b14",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e1ca5dd0-a824-48f2-927f-f4e3ecb1ab77",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e1ca5dd0-a824-48f2-927f-f4e3ecb1ab77"
+      ]
+    },
+    {
+      "id": "139710",
+      "name": "臺南市房屋稅開徵概況--按納稅義務人性別分",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/6e145088-fccb-4520-9172-13918d3db96c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6e145088-fccb-4520-9172-13918d3db96c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3112107f-0133-4602-8caa-4f6c1a9a190e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3112107f-0133-4602-8caa-4f6c1a9a190e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/15818435-9265-4426-b55f-5073613f6708",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/15818435-9265-4426-b55f-5073613f6708",
+        "https://soa.tainan.gov.tw/Api/Service/Get/66bc42fb-9871-48ac-af8a-5118c07aaf83",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/66bc42fb-9871-48ac-af8a-5118c07aaf83",
+        "https://soa.tainan.gov.tw/Api/Service/Get/17c8b792-79d5-4231-8a9d-8a119de6e938",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/17c8b792-79d5-4231-8a9d-8a119de6e938",
+        "https://soa.tainan.gov.tw/Api/Service/Get/21350d70-a731-4c95-a06f-e2a498fea91e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/21350d70-a731-4c95-a06f-e2a498fea91e"
+      ]
+    },
+    {
+      "id": "139711",
+      "name": "臺南市市有財產總目錄",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/06de0aa7-eed2-40e5-9f34-32af46b35018",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/06de0aa7-eed2-40e5-9f34-32af46b35018",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1e71eb96-eefa-4ea7-bfff-70ad925c1656",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1e71eb96-eefa-4ea7-bfff-70ad925c1656",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0e6800af-e852-4bc9-99e9-a4ddfdaba747",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0e6800af-e852-4bc9-99e9-a4ddfdaba747",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ee16984d-cf69-401f-8ec4-bc4fe1e7f649",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ee16984d-cf69-401f-8ec4-bc4fe1e7f649",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b792fd7f-58b3-42a5-940a-dab4061a0086",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b792fd7f-58b3-42a5-940a-dab4061a0086",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5f0fa812-f41f-4ecd-88cc-e0092b8835dc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5f0fa812-f41f-4ecd-88cc-e0092b8835dc"
+      ]
+    },
+    {
+      "id": "139712",
+      "name": "臺南市房屋稅籍住宅類數量－按構造別統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0a4fa4b4-9170-4b35-8f2d-04f36a697a9b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0a4fa4b4-9170-4b35-8f2d-04f36a697a9b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/103732fa-49c5-4b3c-849f-100744282375",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/103732fa-49c5-4b3c-849f-100744282375",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2cbb0017-d87a-4a90-b96b-2b478fb1ea32",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2cbb0017-d87a-4a90-b96b-2b478fb1ea32",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cddf55b9-de7c-466e-9699-46e3091d5ec0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cddf55b9-de7c-466e-9699-46e3091d5ec0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d9b4a47f-05a4-4b3e-93d7-6a968f75c6da",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d9b4a47f-05a4-4b3e-93d7-6a968f75c6da",
+        "https://soa.tainan.gov.tw/Api/Service/Get/787fb0c3-c7a0-41d1-9185-6dedfe953ee1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/787fb0c3-c7a0-41d1-9185-6dedfe953ee1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8e44a2f2-d79d-456e-91c9-716370bab8aa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8e44a2f2-d79d-456e-91c9-716370bab8aa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/11030db8-f7e2-4073-be3b-7980a56624b9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/11030db8-f7e2-4073-be3b-7980a56624b9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/57905366-ca1d-4e45-b0a5-7acc90915eef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/57905366-ca1d-4e45-b0a5-7acc90915eef",
+        "https://soa.tainan.gov.tw/Api/Service/Get/78c96a21-265e-4576-a27b-983a5d65195b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/78c96a21-265e-4576-a27b-983a5d65195b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7f145e5e-4e82-4bc1-8ede-a521ffe08537",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7f145e5e-4e82-4bc1-8ede-a521ffe08537",
+        "https://soa.tainan.gov.tw/Api/Service/Get/700b3caf-3859-41db-b432-db55e7e76e3f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/700b3caf-3859-41db-b432-db55e7e76e3f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/53af056e-2079-419d-8a50-dd45fdaa1526",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/53af056e-2079-419d-8a50-dd45fdaa1526",
+        "https://soa.tainan.gov.tw/Api/Service/Get/23790ae2-a6ec-4df0-97e1-dd857a9aa914",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/23790ae2-a6ec-4df0-97e1-dd857a9aa914",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6a304385-6b5a-4d69-bbea-dfb743d989fc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6a304385-6b5a-4d69-bbea-dfb743d989fc"
+      ]
+    },
+    {
+      "id": "139718",
+      "name": "臺南市土地增值稅稅源月報表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/600e532d-6b35-4274-ad57-039dd3b763e7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/600e532d-6b35-4274-ad57-039dd3b763e7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/89f7e695-9119-44ac-b769-04616d07aed5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/89f7e695-9119-44ac-b769-04616d07aed5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/77b60866-043e-4b1a-a448-63f3dbeb48f7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/77b60866-043e-4b1a-a448-63f3dbeb48f7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b7077c7e-8b38-4b19-9269-73b23c6ce919",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b7077c7e-8b38-4b19-9269-73b23c6ce919",
+        "https://soa.tainan.gov.tw/Api/Service/Get/628e31ac-2fd8-4689-a5b0-89dc16d3fc41",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/628e31ac-2fd8-4689-a5b0-89dc16d3fc41",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3c6e5966-1e67-4798-b1f0-b4b44a58927f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3c6e5966-1e67-4798-b1f0-b4b44a58927f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e4893012-045f-49a2-ba22-f1a42d12ea88",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e4893012-045f-49a2-ba22-f1a42d12ea88"
+      ]
+    },
+    {
+      "id": "138715",
+      "name": "臺南市地價稅開徵--按納稅義務人性別分",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/746eefc7-ec1f-4763-bf46-a82ecdd12b02",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/746eefc7-ec1f-4763-bf46-a82ecdd12b02",
+        "https://soa.tainan.gov.tw/Api/Service/Get/03018f39-f2b0-4476-9819-e3ef8a424aca",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/03018f39-f2b0-4476-9819-e3ef8a424aca",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1b6b4274-10f8-474b-ad50-fb5a3f70719e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1b6b4274-10f8-474b-ad50-fb5a3f70719e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/81190f0a-b574-454c-8aa2-ff5e03fa4fea",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/81190f0a-b574-454c-8aa2-ff5e03fa4fea",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5f4f0717-dd39-4aa9-a1d6-ff821e7cdfa1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5f4f0717-dd39-4aa9-a1d6-ff821e7cdfa1"
+      ]
+    },
+    {
+      "id": "152874",
+      "name": "臺南市短期標租市有非公用房地開標結果",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3cec0ecb-4153-4049-a701-189c7d2e75e6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3cec0ecb-4153-4049-a701-189c7d2e75e6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e545054f-c847-4886-99d6-3b522de43434",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e545054f-c847-4886-99d6-3b522de43434"
+      ]
+    },
+    {
+      "id": "152777",
+      "name": "臺南市政府財政稅務局歲出決算表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b6ed4b05-adf7-4c8b-aea5-5aeb5b45a10e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3d0b1d08-807a-40e2-bb4b-8a976c55a51a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b6ed4b05-adf7-4c8b-aea5-5aeb5b45a10e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3d0b1d08-807a-40e2-bb4b-8a976c55a51a"
+      ]
+    },
+    {
+      "id": "152676",
+      "name": "機車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/12c48fdd-ea81-4137-b614-84ef71d56d3e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/12c48fdd-ea81-4137-b614-84ef71d56d3e"
+      ]
+    },
+    {
+      "id": "152680",
+      "name": "完全以電能為動力之電動大客車及貨車使用牌照稅稅額表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e8de32a8-c642-4927-9d4f-c8c56b598b3f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e8de32a8-c642-4927-9d4f-c8c56b598b3f"
+      ]
+    },
+    {
+      "id": "152681",
+      "name": "完全以電能為動力之電動機車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/39f7df24-17dc-42ca-9ade-b4586c872166",
+        "https://soa.tainan.gov.tw/Api/Service/Get/39f7df24-17dc-42ca-9ade-b4586c872166"
+      ]
+    },
+    {
+      "id": "152724",
+      "name": "臺南市滯納案件移送執行情形─本年度",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/12df25fc-4fa1-4aa1-9a70-44407623bd31",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e68b5ea3-8ca5-4f62-a2a4-9fef23fcaaa7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e68b5ea3-8ca5-4f62-a2a4-9fef23fcaaa7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/12df25fc-4fa1-4aa1-9a70-44407623bd31"
+      ]
+    },
+    {
+      "id": "152669",
+      "name": "臺南市實施集中支付支用單位數、支付淨額與可支用庫款餘額",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f1b2f941-e459-4260-b6e4-3a6637f17e44",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f1b2f941-e459-4260-b6e4-3a6637f17e44",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d4465fb8-b9d2-47cc-a579-9d6d3ca9a3eb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d4465fb8-b9d2-47cc-a579-9d6d3ca9a3eb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2f1dde0a-2eec-425d-9f3b-d64f0614781d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2f1dde0a-2eec-425d-9f3b-d64f0614781d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f7ac9d21-5746-4209-83ee-fdeb3593427c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f7ac9d21-5746-4209-83ee-fdeb3593427c"
+      ]
+    },
+    {
+      "id": "152593",
+      "name": "臺南市查獲涉嫌違反菸酒管理法案件月報表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/db1f0d18-56d3-4a7f-89d5-22fd54ab3158",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/db1f0d18-56d3-4a7f-89d5-22fd54ab3158",
+        "https://soa.tainan.gov.tw/Api/Service/Get/368fc380-fc33-4a57-8375-531eca33e6d7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/368fc380-fc33-4a57-8375-531eca33e6d7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dbf36bfa-0743-41db-9ef5-541b9695b514",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dbf36bfa-0743-41db-9ef5-541b9695b514",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ad2c78e0-2c9d-493c-83b2-5ce94b5401b4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ad2c78e0-2c9d-493c-83b2-5ce94b5401b4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5c0d945f-bfbb-43ad-a3b3-7a8fffa75021",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5c0d945f-bfbb-43ad-a3b3-7a8fffa75021"
+      ]
+    },
+    {
+      "id": "152912",
+      "name": "臺南市市有非公用閒置土地待媒合清冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/172ed158-b5ec-46a3-b443-3403ce993f87",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/172ed158-b5ec-46a3-b443-3403ce993f87",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2fc9596d-a66d-499b-937c-d1dc19a5661d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2fc9596d-a66d-499b-937c-d1dc19a5661d"
+      ]
+    },
+    {
+      "id": "156285",
+      "name": "臺南市土地增值稅稅源統計表(按移轉原因別)",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cddc55d1-0075-4fad-b3ae-b349e4058134",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2fc83258-ae78-46f7-bf73-3c76535315fd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/75138abf-06ad-40d9-8824-00a547ea62ae",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/75138abf-06ad-40d9-8824-00a547ea62ae",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cddc55d1-0075-4fad-b3ae-b349e4058134",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2fc83258-ae78-46f7-bf73-3c76535315fd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/38139efb-caea-4bfd-80ec-a90d02e2af7b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/38139efb-caea-4bfd-80ec-a90d02e2af7b"
+      ]
+    },
+    {
+      "id": "167064",
+      "name": "截至112年12月31日臺南市各主管機關接受補助計畫收支報告彙總表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6cede0d4-a435-4a31-ab12-af7a5a09033f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6cede0d4-a435-4a31-ab12-af7a5a09033f"
+      ]
+    }
+  ]
+}

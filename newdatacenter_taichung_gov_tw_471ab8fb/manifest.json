@@ -1,0 +1,135 @@
+{
+  "type": "dataset",
+  "provider": "臺中捷運股份有限公司",
+  "slug": "newdatacenter_taichung_gov_tw_471ab8fb",
+  "datasets": [
+    {
+      "id": "144176",
+      "name": "臺中捷運綠線站間票價",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/261c5b91-8f02-4c17-8a97-23c1384eced7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/28f67611-90a0-461e-b059-fdb6084e3a45",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7a304a01-4d3d-4e5a-bbda-08aae5a0e317"
+      ]
+    },
+    {
+      "id": "144228",
+      "name": "臺中捷運綠線站間行車時間",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4edec91c-05c8-4dee-9f93-7ab3cef20fc3"
+      ]
+    },
+    {
+      "id": "152495",
+      "name": "臺中捷運年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4f6c068b-872b-49b3-9e55-06a50ab778d4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bead393e-0b94-4a2f-a44b-9c4c9d967964",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7d3d038e-e0d8-41c8-ae1e-51276426ef33",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6520f0b9-3650-4add-a322-35a0a4fe7ebd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=05137bca-fce6-4caf-9a97-45111bbde9f8"
+      ]
+    },
+    {
+      "id": "176010",
+      "name": "20612-02-01-2 臺中捷運股份有限公司捷運營運概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ce37abc9-9569-4aa2-a0ee-1968d283ae6f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=010db075-0fe2-4b35-8b28-b145b6169bba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ba2bb042-565c-478f-9124-cd027fa29620",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6fc78478-84e5-4aa4-995e-775969b5206f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8dcc5208-2d59-4b25-8058-c84cc3d4561a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9a5306f7-aa87-45b6-86e8-4d99cc01dd89",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2f462637-1b8f-4959-a2a5-1025e4c07db8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b32e1e80-6377-4deb-974b-7aa6c374d9d4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=252ffa7e-3a83-428c-b38e-72905b5b9f2c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=61db92d3-05e0-4156-980b-d4bc30ea0885",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=42efba11-5e9f-4659-9ef2-e9c3888096e1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3073f519-4bfd-4370-a2ae-34a4537f0350",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec72442b-7e20-4a12-8a80-62c7e2b7aa7e"
+      ]
+    },
+    {
+      "id": "156467",
+      "name": "臺中捷運首末班車時刻表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2228f8b1-7acb-490e-be9a-cfed5f75ed20",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4298a822-dc3d-4cee-a03c-12f0207f78cd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5b836bd3-70d5-4241-b95c-70035438cf49"
+      ]
+    },
+    {
+      "id": "144164",
+      "name": "臺中捷運綠線車站資訊",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f9511cc5-4799-4df9-98b7-0b0f89fc2be9"
+      ]
+    },
+    {
+      "id": "146920",
+      "name": "臺中捷運全系統旅運量統計",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b7f5f33a-03a4-4c58-bf7b-b9c97d686297",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1de8ceca-e2ed-40e2-ade0-76e9c3d206d4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f3af8d74-00d2-472d-914f-853b5021e008",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fdbfa514-6e6a-4d81-a0b5-4ffc9f392c7d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5547b0a3-8305-42bf-b17f-88580456c446",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4eb0aa9d-c726-4ba1-9db0-b474f3189fb7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0daebeeb-d705-4bfa-85d1-7de1ae8115ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7e4213d5-35b5-45f8-a4ae-676ace3df29f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b16cf9bd-a652-4dfa-9df7-3589c8673513",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=788193f1-fbc5-4a6e-ad55-00e9d69c88c3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e8289846-8657-4c7c-8c9d-cbff1b649921",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1d86c23-6a30-447d-a3a9-b7d9e7f599fc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=23577cba-e680-42da-879b-2972e73a2c78",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=57a6a2e2-b3e5-4a68-aa04-4e4bebcaa323",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0bd1390e-75c6-4690-b8b9-56aa55e8857f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fdf31d58-a0ee-45f0-878b-9a75002e5022",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4d7f31a9-f4db-4546-8d2b-30fee5ee3a2c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7c67e4c5-f7cf-4f0b-85fb-bbea0d0b1b64",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=36254b16-3754-44e0-b2b4-992b0c7b7129",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4f6baef0-e23d-479f-8e32-f238b88886ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=091489a3-53f0-404c-b140-d218daf6130c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=51c44b2f-362a-400a-bb21-1b0381283692",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ae0d8bde-dec6-4843-b0de-3dde53aea147",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8980d81d-c78c-4c40-8389-969820a97883",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ddd48d0c-59e6-4e47-8130-ffac53f2e849",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2c0e072c-f84d-41cc-9514-b58ced846496",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=efad39fa-5914-4cbe-8307-5fde20e1e954",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b3686a35-8892-4e76-8970-bcc48c141c8e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=53c399d4-08d1-4b19-b3bd-ca0f72877a92",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=956ca36f-b7cb-41e0-949a-a5fd8f7f957d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9423e7ea-2f48-447d-89ee-e9122013fc1d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6e692536-aace-4437-ace7-1cd6dcf4ae3e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eb6a8911-b5d4-44c6-b733-c6c7440b265d"
+      ]
+    },
+    {
+      "id": "175718",
+      "name": "20612-02-02-2 臺中捷運股份有限公司捷運各站旅運量",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=79f6435d-142f-4a1c-b7ec-eb123496fa25",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4893cfd3-33c1-4c7b-a384-f35a3c55e822",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec061d48-d932-49dc-a96b-9d42983ed459",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c8b7798b-bd40-46d1-9a59-9c6ab395db8d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c548abac-b586-413f-ad7f-ac2f93142ee4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f835e667-cfee-4c92-9db4-7a17af38e6a7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e2bdd7a3-5a29-4da4-91f7-3bb9496f4af8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6cbec085-0a03-472b-befe-4d888a008da3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c06d0532-182d-4c40-b78c-dc130ee3a209",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9a165a54-22e6-40a1-8726-db7c7f720be6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1f60c23-7a45-45ae-875a-f8c18603852d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=09cb436d-8601-4c44-a7ce-3f02e709a518",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=45664878-8dc8-46e6-a76c-cf77d0efa030"
+      ]
+    }
+  ]
+}

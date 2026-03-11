@@ -1,0 +1,319 @@
+{
+  "type": "dataset",
+  "provider": "臺北市政府工務局新建工程處",
+  "slug": "data_taipei_7a7d8aff",
+  "datasets": [
+    {
+      "id": "128771",
+      "name": "臺北市今日臨時使用道路路段",
+      "format": "json",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/Rally/TodayUrgentCase.json"
+      ]
+    },
+    {
+      "id": "128938",
+      "name": "臺北市隧道資訊",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/c493d546-420c-49f2-b992-af058252f293/resource/3639a59d-d9fa-4e0c-8b7f-539a2e37b804/download"
+      ]
+    },
+    {
+      "id": "130414",
+      "name": "臺北市共同管道圖資_支管",
+      "format": "shp",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/commonduct/F808010102.zip"
+      ]
+    },
+    {
+      "id": "130415",
+      "name": "臺北市共同管道圖資_幹管",
+      "format": "shp",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/commonduct/F808010101.zip"
+      ]
+    },
+    {
+      "id": "134777",
+      "name": "臺北市人行道固定設施物_人行道公共藝術品",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/76133f45-7799-4ee2-abc9-04a4557ff46c/resource/3d874188-b443-49a2-8e01-2197e1b987b9/download"
+      ]
+    },
+    {
+      "id": "134914",
+      "name": "臺北市人行道固定設施物_人行道其他設施(點圖)",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/90ac3126-7325-4944-9761-ddee3c56f54e/resource/83806fd2-b363-4a25-9544-e5e5dc8458ab/download"
+      ]
+    },
+    {
+      "id": "134929",
+      "name": "臺北市人行道固定設施物_人行道箱類設施(點圖)",
+      "format": "json",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/Data/TP_FixedBox_P.json"
+      ]
+    },
+    {
+      "id": "134909",
+      "name": "臺北市人行道固定設施物_無障礙斜坡道",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/8ab0c662-b560-4310-a825-001ae7fdc524/resource/ee522d94-daa7-4118-b52a-4bf144af2744/download"
+      ]
+    },
+    {
+      "id": "156745",
+      "name": "臺北市政府工務局新建工程處預算書",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/4df173f5-5060-42b3-82b0-07bad523ad0f/resource/70a80bd5-99ad-46ab-a477-3924ca03a57d/download"
+      ]
+    },
+    {
+      "id": "135538",
+      "name": "臺北市政府新工處施作路寬8公尺以上道路銑鋪期程維護管制區",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/eb46bd14-5657-42ce-806a-0d761164a30b/resource/17b6e6d3-911b-4874-afb3-605e8a104462/download"
+      ]
+    },
+    {
+      "id": "135092",
+      "name": "臺北市橋梁檢測及維修資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/27135efa-d43e-406d-a3e4-fcb07efb3982/resource/9a1f7632-67e1-4d81-bcb0-6a6b4c721868/download"
+      ]
+    },
+    {
+      "id": "136125",
+      "name": "臺北市都市計畫區域內現有已開闢道路長度及面積",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/caeceb7e-5991-488c-becd-382ffc3015f5/resource/1e2a8450-181d-4040-8297-3737e72cac48/download"
+      ]
+    },
+    {
+      "id": "136127",
+      "name": "臺北市路平專案工程成果",
+      "format": "csv",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/mnt/luping_project_res.csv"
+      ]
+    },
+    {
+      "id": "176710",
+      "name": "臺北市30日臨時使用道路路段",
+      "format": "json",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/Rally/ThirtyDaysUrgentCase.json"
+      ]
+    },
+    {
+      "id": "176711",
+      "name": "臺北市30日使用道路集會路段",
+      "format": "json",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/Rally/ThirtyDaysRallyCase.json"
+      ]
+    },
+    {
+      "id": "174035",
+      "name": "臺北市孔洞檢測清單",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/dc4e7a4c-7611-4419-aa92-8ba7e28fa090/resource/ae7b1fa8-3f98-4dde-8075-8114ae3b8f06/download"
+      ]
+    },
+    {
+      "id": "128007",
+      "name": "臺北市今日使用道路集會路段",
+      "format": "json",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/Rally/TodayRallyCase.json"
+      ]
+    },
+    {
+      "id": "128939",
+      "name": "臺北市地下道資訊",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/03e017d7-674d-4665-b874-5a6a020668e4/resource/7ce99e98-be5e-4332-a2b6-4f0980de82e3/download"
+      ]
+    },
+    {
+      "id": "130371",
+      "name": "臺北市共同管道圖資_纜線管路",
+      "format": "shp",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/commonduct/F808010104.zip"
+      ]
+    },
+    {
+      "id": "131709",
+      "name": "臺北市市區道路新建及改善工程完成數量",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/d4be59a5-141a-44ff-a224-a7d089715c6f/resource/e691d9b3-bd18-47fb-a804-462e98f2ca29/download"
+      ]
+    },
+    {
+      "id": "134908",
+      "name": "臺北市人行道固定設施物_樹穴",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/693705fa-4604-4207-bd50-8a9ce9fcfbc6/resource/3e2b359b-8dae-46e4-a747-5912d8743d0e/download"
+      ]
+    },
+    {
+      "id": "134915",
+      "name": "臺北市人行道固定設施物_人行道出入口類設施",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/1962a4b3-8864-4580-a825-e02d72758119/resource/a84b5923-4210-4272-8b93-d3bf13f3532b/download"
+      ]
+    },
+    {
+      "id": "135098",
+      "name": "臺北市開闢道路用地徵收取得統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/81004147-1760-4a62-b2f9-cc6fa4268ec6/resource/76ab2fad-0cdc-4442-9213-2d5296a9422c/download"
+      ]
+    },
+    {
+      "id": "145786",
+      "name": "臺北市人行道固定設施物_人行道纜線管路",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/2c4bd3c9-9062-4816-a135-d450be22747e/resource/ecb3fb38-ce89-46fe-9ee1-3dda356bb458/download"
+      ]
+    },
+    {
+      "id": "156809",
+      "name": "臺北市人行道更新工程完工資料概要",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/073feb35-034e-4b58-926c-347282fc53b0/resource/05e4e74b-a966-4f03-b183-3d2e71013ba5/download"
+      ]
+    },
+    {
+      "id": "134905",
+      "name": "臺北市人行道固定設施物_人行道範圍圖",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/715d3a83-8445-4496-b6bf-b0900538b7e7/resource/b11d6142-1d71-41d5-a843-7b7cfcea61ef/download"
+      ]
+    },
+    {
+      "id": "134911",
+      "name": "臺北市人行道固定設施物_人行道桿類設施",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/4588e4ef-657f-4dfc-9e34-f55f44917cfb/resource/aae0439b-65e8-4555-98c0-1f708015123f/download"
+      ]
+    },
+    {
+      "id": "134912",
+      "name": "臺北市人行道固定設施物_停車類設施",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/53155afa-e8a3-486b-b6ad-b9b6a9c91712/resource/e98545ce-f8c5-4ec9-8397-5b3f7b0cd4a2/download"
+      ]
+    },
+    {
+      "id": "134913",
+      "name": "臺北市人行道固定設施物_人行道其他設施(面圖)",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/cb7c3b97-30f8-4dd7-b038-ca8f072fe74a/resource/c5923db1-049a-4cd9-9e29-0fc60bdd290a/download"
+      ]
+    },
+    {
+      "id": "134916",
+      "name": "臺北市人行道固定設施物_人行道箱類設施(面圖)",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/23d75428-b97d-42bf-8aa3-04795e1f56c4/resource/2f10116a-7101-4d9f-bffd-45982f2bb6b7/download"
+      ]
+    },
+    {
+      "id": "135221",
+      "name": "臺北市人行道固定設施物_人手孔設施",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/ae3cf0f5-05b0-4c60-868f-f074b90ca13f/resource/777e67bb-d3c1-4bf7-8794-23984be5091a/download"
+      ]
+    },
+    {
+      "id": "135235",
+      "name": "臺北市政府新工處施作路寬8公尺以上道路調降人孔蓋下地數量",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3573ae05-3ba6-49bb-8c01-542b0d7762c3/resource/356b5e19-a155-4df1-b58c-4215840fd87f/download"
+      ]
+    },
+    {
+      "id": "127957",
+      "name": "臺北市共同管道圖資",
+      "format": "shp",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/commonduct/2Dshapefile.zip"
+      ]
+    },
+    {
+      "id": "169645",
+      "name": "臺北市道路銑鋪區塊圖資",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/98b1b6a8-a092-423c-aab0-7dcb981d2a58/resource/1eb0cd43-3088-4d91-bbf3-f120469a955e/download"
+      ]
+    },
+    {
+      "id": "130413",
+      "name": "臺北市共同管道圖資_電纜溝",
+      "format": "shp",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/commonduct/F808010103.zip"
+      ]
+    },
+    {
+      "id": "128907",
+      "name": "臺北市人行陸橋資訊",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/743fdbfb-8abd-47fe-a206-621960c5761c/resource/01955d64-7101-4371-988b-57afe8776d10/download"
+      ]
+    },
+    {
+      "id": "145817",
+      "name": "臺北市橋梁資訊",
+      "format": "json",
+      "urls": [
+        "https://data.taipei/api/dataset/866a9982-0a63-421f-b120-9144fc6ce732/resource/68d6c971-d077-4578-a52e-e42db765f861/download"
+      ]
+    },
+    {
+      "id": "156892",
+      "name": "臺北市政府新建工程處道路公共設施維護管理資訊公開系統",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/af2c015a-f11f-4a59-a3b0-bf4db7db2238/resource/cc2a47e8-69db-4036-9abe-da1d2f08fc2b/download"
+      ]
+    },
+    {
+      "id": "156810",
+      "name": "臺北市寬度超過8公尺道路GIS圖資",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/ee2e4015-8844-48fb-aa57-31209909b0fc/resource/074a401d-45a2-4748-bf62-7d5372d53d45/download"
+      ]
+    }
+  ]
+}

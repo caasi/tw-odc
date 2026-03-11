@@ -1,0 +1,42 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府教育局",
+  "slug": "openapi_kcg_gov_tw_8980a9c7",
+  "datasets": [
+    {
+      "id": "87262",
+      "name": "高雄市立特殊教育學校通訊資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3110d3b5-72ef-4e67-ba2c-65bd4b6fbe9a",
+        "https://data.kcg.gov.tw/File/DirectDownload/3110d3b5-72ef-4e67-ba2c-65bd4b6fbe9a"
+      ]
+    },
+    {
+      "id": "86415",
+      "name": "高雄市因應各項災害避難收容場所一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8a7091f9-bc6b-4018-b3c1-9b2cdceddd95",
+        "https://data.kcg.gov.tw/File/DirectDownload/8a7091f9-bc6b-4018-b3c1-9b2cdceddd95"
+      ]
+    },
+    {
+      "id": "86408",
+      "name": "高雄市補習班資訊管理系統",
+      "format": "json",
+      "urls": [
+        "https://bsb.kh.edu.tw/afterschool/opendata/afterschool_json.jsp?city=70"
+      ]
+    },
+    {
+      "id": "87223",
+      "name": "高雄市與外國姊妹校締結名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1b473744-8ddf-4514-b74c-e89c89893419",
+        "https://data.kcg.gov.tw/File/DirectDownload/1b473744-8ddf-4514-b74c-e89c89893419"
+      ]
+    }
+  ]
+}

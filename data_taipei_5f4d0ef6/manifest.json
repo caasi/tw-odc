@@ -1,0 +1,31 @@
+{
+  "type": "dataset",
+  "provider": "臺北市都市計畫委員會",
+  "slug": "data_taipei_5f4d0ef6",
+  "datasets": [
+    {
+      "id": "151594",
+      "name": "臺北市國土計畫審議會委員名單",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/de989480-8fc8-40ff-ace3-5b3949e44e80/resource/d92466e5-68ea-4c9a-a345-84818bd6eec0/download"
+      ]
+    },
+    {
+      "id": "145609",
+      "name": "臺北市都市計畫委員會議紀錄",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/9cdf01eb-698c-4998-8377-70c8c39d9760/resource/bc5277f0-6a0b-4e28-a813-3143e8971ff3/download"
+      ]
+    },
+    {
+      "id": "145608",
+      "name": "臺北市都市計畫委員會委員名單",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/7af79c15-449d-43b4-9ad2-77e48ad16c70/resource/e8f781fb-7271-4d81-b1ed-7625c9c3f30f/download"
+      ]
+    }
+  ]
+}

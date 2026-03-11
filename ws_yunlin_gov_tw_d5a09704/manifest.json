@@ -1,0 +1,820 @@
+{
+  "type": "dataset",
+  "provider": "雲林縣稅務局",
+  "slug": "ws_yunlin_gov_tw_d5a09704",
+  "datasets": [
+    {
+      "id": "30535",
+      "name": "雲林縣各類房屋耐用年數暨折舊率標準表",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTQ1NzYvMjkwOTkxLzE4YjAwMDEwLTdhYmItNGM2OS05N2U4LThmNmVkYjZmYWQyNi5jc3Y%3d&n=6Zuy5p6X57ij5ZCE6aGe5oi%2f5bGL6ICQ55So5bm05pW45pqo5oqY6IiK546H5qiZ5rqW6KGoLTk55bm054mILmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "30547",
+      "name": "「事必得(speed)免下車預約服務」申請項目及應備證件",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTUyNTMvMjk0NTY0LzA2MTdlZmJkLTYyNTYtNGNjZC1iNjIyLTAyYzY0ZmEwOWUyNC5jc3Y%3d&n=44CM5LqL5b%2bF5b6XKHNwZWVkKeWFjeS4i%2bi7iumgkOe0hOacjeWLmeOAjeeUs%2biri%2bmgheebruWPiuaHieWCmeitieS7ti5jc3Y%3d"
+      ]
+    },
+    {
+      "id": "30551",
+      "name": "土地建物『拍賣』案件流程",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL1JlbEZpbGUvMTQ1NzYvMjkxMDAyL%2bWcn%2bWcsOW7uueJqeaLjeizo%2bahiOS7tua1geeoiy5jc3Y%3d&n=5Zyf5Zyw5bu654mp5ouN6LOj5qGI5Lu25rWB56iLLmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "106955",
+      "name": "房屋稅稅式支出報告",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/558/7571ef0c-cccc-42c3-8609-6a9033ab50dd.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/558/7571ef0c-cccc-42c3-8609-6a9033ab50dd.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/558/7571ef0c-cccc-42c3-8609-6a9033ab50dd.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/558/7571ef0c-cccc-42c3-8609-6a9033ab50dd.json"
+      ]
+    },
+    {
+      "id": "106958",
+      "name": "使用牌照稅稅式支出報告",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/560/1e2a1332-63aa-41e4-90e0-820b2ca0fc29.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/560/1e2a1332-63aa-41e4-90e0-820b2ca0fc29.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/560/1e2a1332-63aa-41e4-90e0-820b2ca0fc29.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/560/1e2a1332-63aa-41e4-90e0-820b2ca0fc29.json"
+      ]
+    },
+    {
+      "id": "106959",
+      "name": "土地增值稅稅式支出報告",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/561/6737150f-71b0-4e56-b987-f273ffbbf838.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/561/6737150f-71b0-4e56-b987-f273ffbbf838.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/561/6737150f-71b0-4e56-b987-f273ffbbf838.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/561/6737150f-71b0-4e56-b987-f273ffbbf838.json"
+      ]
+    },
+    {
+      "id": "106963",
+      "name": "娛樂稅稅式支出報告",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/564/225b31c1-e64b-45ea-9730-06a2d3f80fd6.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/564/225b31c1-e64b-45ea-9730-06a2d3f80fd6.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/564/225b31c1-e64b-45ea-9730-06a2d3f80fd6.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/564/225b31c1-e64b-45ea-9730-06a2d3f80fd6.json"
+      ]
+    },
+    {
+      "id": "106984",
+      "name": "雲林縣最近5年房屋稅稅源統計表(110-114年)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/565/bcf01cd0-2b86-4a43-bc9c-da420ae715c4.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/565/bcf01cd0-2b86-4a43-bc9c-da420ae715c4.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/565/bcf01cd0-2b86-4a43-bc9c-da420ae715c4.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/565/bcf01cd0-2b86-4a43-bc9c-da420ae715c4.json"
+      ]
+    },
+    {
+      "id": "128024",
+      "name": "雲林縣稅務局108年各稅退稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1027/58505ac2-6f20-461d-863f-c13d96b296ca.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1027/58505ac2-6f20-461d-863f-c13d96b296ca.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1027/58505ac2-6f20-461d-863f-c13d96b296ca.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1027/58505ac2-6f20-461d-863f-c13d96b296ca.json"
+      ]
+    },
+    {
+      "id": "128031",
+      "name": "雲林縣稅務局遠端視訊服務件數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1033/df2dfde7-10c4-4ef6-9e9d-c280c83d2879.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1033/df2dfde7-10c4-4ef6-9e9d-c280c83d2879.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1033/df2dfde7-10c4-4ef6-9e9d-c280c83d2879.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1033/df2dfde7-10c4-4ef6-9e9d-c280c83d2879.json"
+      ]
+    },
+    {
+      "id": "96026",
+      "name": "雲林縣100~106年地價稅開徵概況－按納稅義務人性別分",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTUyNTMvMjk0NTI5LzQyYjM1ZDI5LTcxNTktNGRlMy1iYmU4LTJkZmI3MjRmYTMyMi5jc3Y%3d&n=6Zuy5p6X57ijMTAwXzEwNuW5tOWcsOWDueeohemWi%2bW%2bteamguazgS3mjInntI3nqIXnvqnli5nkurrmgKfliKXliIYuY3N2"
+      ]
+    },
+    {
+      "id": "96002",
+      "name": "103年雲林縣使用牌照稅稅源統計表",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTUyNTMvMjk0NTMwLzIxZjYwYjk5LTcxMDctNGE4Ny1hYzRlLWQyNmY2YjI5ZDQzYi5jc3Y%3d&n=MTAz5bm06Zuy5p6X57ij5L2%2f55So54mM54Wn56iF56iF5rqQ57Wx6KiI6KGoLmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "96007",
+      "name": "105年雲林縣使用牌照稅稅源統計表",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTUyNTMvMjk0NTMwL2I3YzM5M2Q0LTgzMGEtNGM3ZC05ZjdiLWVlZWVmNjBlNjc0OC5jc3Y%3d&n=MTA15bm06Zuy5p6X57ij5L2%2f55So54mM54Wn56iF56iF5rqQ57Wx6KiI6KGoLmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "103824",
+      "name": "牌照稅稅額表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/545/2b6d736e-edd5-4d2f-824e-2adec2367cd6.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/545/2b6d736e-edd5-4d2f-824e-2adec2367cd6.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/545/2b6d736e-edd5-4d2f-824e-2adec2367cd6.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/545/2b6d736e-edd5-4d2f-824e-2adec2367cd6.json"
+      ]
+    },
+    {
+      "id": "103826",
+      "name": "完全以電能為動力之電動小客車使用牌照稅稅額表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/547/6db1752a-1123-4a91-8956-15984f612439.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/547/6db1752a-1123-4a91-8956-15984f612439.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/547/6db1752a-1123-4a91-8956-15984f612439.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/547/6db1752a-1123-4a91-8956-15984f612439.json"
+      ]
+    },
+    {
+      "id": "103827",
+      "name": "完全以電能為動力之電動機車使用牌照稅稅額表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/548/3ed09bf7-aeab-4edc-bf03-8d03698864a9.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/548/3ed09bf7-aeab-4edc-bf03-8d03698864a9.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/548/3ed09bf7-aeab-4edc-bf03-8d03698864a9.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/548/3ed09bf7-aeab-4edc-bf03-8d03698864a9.json"
+      ]
+    },
+    {
+      "id": "86333",
+      "name": "雲林縣最近5年土地增值稅稅源統計表(110-114年)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/515/10d7f827-d581-4d66-a7cc-d614366b9c4e.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/515/10d7f827-d581-4d66-a7cc-d614366b9c4e.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/515/10d7f827-d581-4d66-a7cc-d614366b9c4e.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/515/10d7f827-d581-4d66-a7cc-d614366b9c4e.json"
+      ]
+    },
+    {
+      "id": "138032",
+      "name": "109年雲林縣使用牌照稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1218/469b7d49-4253-49d0-89b8-5d94a776975c.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1218/469b7d49-4253-49d0-89b8-5d94a776975c.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1218/469b7d49-4253-49d0-89b8-5d94a776975c.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1218/469b7d49-4253-49d0-89b8-5d94a776975c.json"
+      ]
+    },
+    {
+      "id": "160426",
+      "name": "雲林縣稅務局111年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1508/f2cc0165-c11f-43a2-8dbf-607edf87394a.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1508/f2cc0165-c11f-43a2-8dbf-607edf87394a.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1508/f2cc0165-c11f-43a2-8dbf-607edf87394a.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1508/f2cc0165-c11f-43a2-8dbf-607edf87394a.json"
+      ]
+    },
+    {
+      "id": "147823",
+      "name": "110年雲林縣使用牌照稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1348/529d0b56-e445-46c0-991f-4340ca88774e.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1348/529d0b56-e445-46c0-991f-4340ca88774e.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1348/529d0b56-e445-46c0-991f-4340ca88774e.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1348/529d0b56-e445-46c0-991f-4340ca88774e.json"
+      ]
+    },
+    {
+      "id": "155955",
+      "name": "雲林縣房屋位置所在段落等級表(111.07.01適用)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1400/459e7d92-e030-42de-8175-600bb56c2321.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1400/459e7d92-e030-42de-8175-600bb56c2321.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1400/459e7d92-e030-42de-8175-600bb56c2321.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1400/459e7d92-e030-42de-8175-600bb56c2321.json"
+      ]
+    },
+    {
+      "id": "167785",
+      "name": "雲林縣稅務局112年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1874/c8945e2d-bf6f-4af2-a6e9-74e9c4a18830.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1874/c8945e2d-bf6f-4af2-a6e9-74e9c4a18830.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1874/c8945e2d-bf6f-4af2-a6e9-74e9c4a18830.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1874/c8945e2d-bf6f-4af2-a6e9-74e9c4a18830.json"
+      ]
+    },
+    {
+      "id": "167786",
+      "name": "雲林縣稅務局112年各稅退稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1876/6a0ea0a9-fe37-4af8-945f-e2c00c0bff59.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1876/6a0ea0a9-fe37-4af8-945f-e2c00c0bff59.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1876/6a0ea0a9-fe37-4af8-945f-e2c00c0bff59.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1876/6a0ea0a9-fe37-4af8-945f-e2c00c0bff59.json"
+      ]
+    },
+    {
+      "id": "177123",
+      "name": "雲林縣稅務局114年各稅退稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2372/bb9f5724-3ce5-4aef-8d60-bab0a9e22bbe.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2372/bb9f5724-3ce5-4aef-8d60-bab0a9e22bbe.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2372/bb9f5724-3ce5-4aef-8d60-bab0a9e22bbe.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2372/bb9f5724-3ce5-4aef-8d60-bab0a9e22bbe.json"
+      ]
+    },
+    {
+      "id": "177164",
+      "name": "雲林縣110年土地增值稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2374/9af6b670-a7f1-490a-80d6-e2fccc633de4.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2374/9af6b670-a7f1-490a-80d6-e2fccc633de4.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2374/9af6b670-a7f1-490a-80d6-e2fccc633de4.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2374/9af6b670-a7f1-490a-80d6-e2fccc633de4.json"
+      ]
+    },
+    {
+      "id": "177169",
+      "name": "雲林縣113年土地增值稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2377/f6ba852e-692f-43f7-a895-c3d21fdd6422.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2377/f6ba852e-692f-43f7-a895-c3d21fdd6422.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2377/f6ba852e-692f-43f7-a895-c3d21fdd6422.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2377/f6ba852e-692f-43f7-a895-c3d21fdd6422.json"
+      ]
+    },
+    {
+      "id": "31817",
+      "name": "雲林縣稅務局人民申請案件處理時限表",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL1JlbEZpbGUvMTQ1NzYvMjkxMDA2L%2bWQhOmgheS6uuawkeeUs%2biri%2bahiOS7tuiZleeQhuaZgumZkOe4ruefreWkqeaVuOaYjue0sOihqC5jc3Y%3d&n=5ZCE6aCF5Lq65rCR55Sz6KuL5qGI5Lu26JmV55CG5pmC6ZmQ57iu55%2bt5aSp5pW45piO57Sw6KGoLmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "33607",
+      "name": "雲林縣稅務局服務通訊錄",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTQ1NzYvMjkxMDExLzdiYzkxZThkLWU2MmItNDEwNS05YTMwLTNiMDE3MTMwNjY4NC5jc3Y%3d&n=6Zuy5p6X57ij56iF5YuZ5bGA5pyN5YuZ6YCa6KiK6YyELmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "30540",
+      "name": "雲林縣無電梯設備之五層以下分層所有樓房價值分擔標準表",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTQ1NzYvMjkwOTkwL2NkMTZmMGU0LTE5ZmYtNDk1Yi04ZmI2LThhYTM2MzQyZGI0NS5jc3Y%3d&n=6Zuy5p6X57ij54Sh6Zu75qKv6Kit5YKZ5LmL5LqU5bGk5Lul5LiL5YiG5bGk5omA5pyJ5qiT5oi%2f5YO55YC85YiG5pOU5qiZ5rqW6KGoLTk55bm054mILmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "30541",
+      "name": "雲林縣房屋用途分類表",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTQ1NzYvMjkwOTg4Lzc5MzdmZWQ0LTNjZGItNGU3NS1hNDQxLTNjZDc0M2Q5ZThmYi5jc3Y%3d&n=6Zuy5p6X57ij5oi%2f5bGL55So6YCU5YiG6aGe6KGoLTk55bm054mILmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "30543",
+      "name": "各型汽車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTQ1NzYvMjkxMDQ1L2ZmY2VkNGZhLWE1NjAtNDEwNC1iZWNkLTI0YjFlMGY4ZTFjYi5jc3Y%3d&n=5ZCE5Z6L5rG96LuK5L2%2f55So54mM54Wn56iF56iF6aGN6KGoLmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "30545",
+      "name": "雲林縣電梯設備現值標準表(105年7月1日起適用)",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTQ1NzYvMjkxMDA3L2RiZGM0OGMzLTJhOWMtNDg4Mi1iODY5LWE4ZDE4ZmJmODRlOS5jc3Y%3d&n=6Zuy5p6X57ij6Zu75qKv6Kit5YKZ54%2b%2b5YC85qiZ5rqW6KGoLTEwNS43LjHpgannlKguY3N2"
+      ]
+    },
+    {
+      "id": "30546",
+      "name": "「申辦稅務免請假、預約取件免等待」預約服務項目應備證件表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/499/1ba267a7-08ec-45e2-b0b9-a7ad78429e7f.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/499/1ba267a7-08ec-45e2-b0b9-a7ad78429e7f.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/499/1ba267a7-08ec-45e2-b0b9-a7ad78429e7f.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/499/1ba267a7-08ec-45e2-b0b9-a7ad78429e7f.json"
+      ]
+    },
+    {
+      "id": "30548",
+      "name": "全功能服務櫃台債權人查調債務人課稅資料應備證件",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/501/b407ab08-80f8-4161-9321-931e6bdfd398.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/501/b407ab08-80f8-4161-9321-931e6bdfd398.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/501/b407ab08-80f8-4161-9321-931e6bdfd398.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/501/b407ab08-80f8-4161-9321-931e6bdfd398.json"
+      ]
+    },
+    {
+      "id": "86331",
+      "name": "雲林縣最近5年地價稅稅源統計表(110-114年)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/514/0b08f5a0-5ab3-4e2f-84a5-09d5c1da11b8.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/514/0b08f5a0-5ab3-4e2f-84a5-09d5c1da11b8.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/514/0b08f5a0-5ab3-4e2f-84a5-09d5c1da11b8.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/514/0b08f5a0-5ab3-4e2f-84a5-09d5c1da11b8.json"
+      ]
+    },
+    {
+      "id": "76940",
+      "name": "「雲林縣各類房屋耐用年數暨折舊率標準表」(105年7月1日起適用)",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTQ1NzYvMjkxMDA5Lzg2ZGM2YzYyLTViN2QtNDljNy04ZGFmLWExZWZjZWQ3NDE5Mi5jc3Y%3d&n=6Zuy5p6X57ij5ZCE6aGe5oi%2f5bGL6ICQ55So5bm05pW45pqo5oqY6IiK546H5qiZ5rqW6KGoLTEwNS43LjHpgannlKguY3N2"
+      ]
+    },
+    {
+      "id": "103825",
+      "name": "完全以電能為動力之電動大客車及貨車使用牌照稅稅額表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/546/78cac5e2-10dd-4fd2-a0cd-779302613416.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/546/78cac5e2-10dd-4fd2-a0cd-779302613416.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/546/78cac5e2-10dd-4fd2-a0cd-779302613416.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/546/78cac5e2-10dd-4fd2-a0cd-779302613416.json"
+      ]
+    },
+    {
+      "id": "96027",
+      "name": "雲林縣100~106年房屋稅開徵概況－按納稅義務人性別分",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTUyNTMvMjk0NTI5L2MyODdhOTIzLTFlNGQtNDU4OS1iMjE5LTk5MDgzMTgxZjAzYS5jc3Y%3d&n=6Zuy5p6X57ijMTAwXzEwNuW5tOaIv%2bWxi%2beohemWi%2bW%2bteamguazgS3mjInntI3nqIXnvqnli5nkurrmgKfliKXliIYuY3N2"
+      ]
+    },
+    {
+      "id": "96004",
+      "name": "104年雲林縣使用牌照稅稅源統計表",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTUyNTMvMjk0NTMwLzFjZWYzY2M3LTEzNTUtNDMzNy04ZTE3LTA3M2IzYzZmZDU5YS5jc3Y%3d&n=MTA05bm06Zuy5p6X57ij5L2%2f55So54mM54Wn56iF56iF5rqQ57Wx6KiI6KGoLmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "96008",
+      "name": "106年雲林縣使用牌照稅稅源統計表",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTUyNTMvMjk0NTMwL2FiNjZiNjQ5LWEyOWItNGVlNy1hZWQ1LWNmNDkxMzJlMjlhYy5jc3Y%3d&n=MTA25bm06Zuy5p6X57ij5L2%2f55So54mM54Wn56iF56iF5rqQ57Wx6KiI6KGoLmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "106957",
+      "name": "地價稅稅式支出報告",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/559/60ad6fb3-ef06-40e5-ae3b-6a5fc31e6f78.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/559/60ad6fb3-ef06-40e5-ae3b-6a5fc31e6f78.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/559/60ad6fb3-ef06-40e5-ae3b-6a5fc31e6f78.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/559/60ad6fb3-ef06-40e5-ae3b-6a5fc31e6f78.json"
+      ]
+    },
+    {
+      "id": "106985",
+      "name": "雲林縣最近5年契稅稅源統計表(110-114年)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/566/c7843845-e198-46e7-b202-a54bbfc379a7.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/566/c7843845-e198-46e7-b202-a54bbfc379a7.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/566/c7843845-e198-46e7-b202-a54bbfc379a7.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/566/c7843845-e198-46e7-b202-a54bbfc379a7.json"
+      ]
+    },
+    {
+      "id": "106960",
+      "name": "契稅稅式支出報告",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/562/9621824a-1b0d-49ee-a0f1-eb8eade4aa13.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/562/9621824a-1b0d-49ee-a0f1-eb8eade4aa13.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/562/9621824a-1b0d-49ee-a0f1-eb8eade4aa13.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/562/9621824a-1b0d-49ee-a0f1-eb8eade4aa13.json"
+      ]
+    },
+    {
+      "id": "128061",
+      "name": "雲林縣房屋稅查定",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1046/2394484d-f240-4b71-8412-f94d0144b01a.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1046/2394484d-f240-4b71-8412-f94d0144b01a.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1046/2394484d-f240-4b71-8412-f94d0144b01a.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1046/2394484d-f240-4b71-8412-f94d0144b01a.json"
+      ]
+    },
+    {
+      "id": "128080",
+      "name": "雲林縣地價稅查定",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1048/ee914fb7-baa2-4eb9-b7fa-c921b1090a68.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1048/ee914fb7-baa2-4eb9-b7fa-c921b1090a68.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1048/ee914fb7-baa2-4eb9-b7fa-c921b1090a68.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1048/ee914fb7-baa2-4eb9-b7fa-c921b1090a68.json"
+      ]
+    },
+    {
+      "id": "128081",
+      "name": "雲林縣稅務局104年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1049/7db7b96f-fab8-4566-b5c5-001cfeeb8e8f.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1049/7db7b96f-fab8-4566-b5c5-001cfeeb8e8f.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1049/7db7b96f-fab8-4566-b5c5-001cfeeb8e8f.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1049/7db7b96f-fab8-4566-b5c5-001cfeeb8e8f.json"
+      ]
+    },
+    {
+      "id": "128082",
+      "name": "雲林縣稅務局105年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1050/eaec3370-6000-4f89-a1be-c699324e42d3.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1050/eaec3370-6000-4f89-a1be-c699324e42d3.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1050/eaec3370-6000-4f89-a1be-c699324e42d3.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1050/eaec3370-6000-4f89-a1be-c699324e42d3.json"
+      ]
+    },
+    {
+      "id": "128085",
+      "name": "雲林縣稅務局106年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1051/1c3d013f-b156-4f08-a6c2-136f92a4a97a.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1051/1c3d013f-b156-4f08-a6c2-136f92a4a97a.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1051/1c3d013f-b156-4f08-a6c2-136f92a4a97a.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1051/1c3d013f-b156-4f08-a6c2-136f92a4a97a.json"
+      ]
+    },
+    {
+      "id": "128086",
+      "name": "雲林縣稅務局108年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1053/4ff7b692-2413-4d74-a2eb-59e25095bed6.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1053/4ff7b692-2413-4d74-a2eb-59e25095bed6.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1053/4ff7b692-2413-4d74-a2eb-59e25095bed6.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1053/4ff7b692-2413-4d74-a2eb-59e25095bed6.json"
+      ]
+    },
+    {
+      "id": "167787",
+      "name": "112年雲林縣使用牌照稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1877/c51bbda9-3161-4e57-8790-472732061a21.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1877/c51bbda9-3161-4e57-8790-472732061a21.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1877/c51bbda9-3161-4e57-8790-472732061a21.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1877/c51bbda9-3161-4e57-8790-472732061a21.json"
+      ]
+    },
+    {
+      "id": "155956",
+      "name": "雲林縣房屋標準單價表(111.07.01適用)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1401/391ffdfd-1ac7-4365-a277-f5e196d9e677.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1401/391ffdfd-1ac7-4365-a277-f5e196d9e677.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1401/391ffdfd-1ac7-4365-a277-f5e196d9e677.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1401/391ffdfd-1ac7-4365-a277-f5e196d9e677.json"
+      ]
+    },
+    {
+      "id": "160427",
+      "name": "雲林縣稅務局111年各稅退稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1509/bcf1ea43-8970-4f98-8929-f5b2e036ee74.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1509/bcf1ea43-8970-4f98-8929-f5b2e036ee74.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1509/bcf1ea43-8970-4f98-8929-f5b2e036ee74.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1509/bcf1ea43-8970-4f98-8929-f5b2e036ee74.json"
+      ]
+    },
+    {
+      "id": "138033",
+      "name": "108年雲林縣使用牌照稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1217/8562037c-2494-4646-aae6-3292f0613426.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1217/8562037c-2494-4646-aae6-3292f0613426.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1217/8562037c-2494-4646-aae6-3292f0613426.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1217/8562037c-2494-4646-aae6-3292f0613426.json"
+      ]
+    },
+    {
+      "id": "138035",
+      "name": "雲林縣稅務局109年各稅退稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1215/5d3d4abf-6d82-4997-98e7-06b382d4415f.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1215/5d3d4abf-6d82-4997-98e7-06b382d4415f.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1215/5d3d4abf-6d82-4997-98e7-06b382d4415f.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1215/5d3d4abf-6d82-4997-98e7-06b382d4415f.json"
+      ]
+    },
+    {
+      "id": "137806",
+      "name": "雲林縣稅務局109年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1214/e4e55742-278b-4524-8854-b7fc11639c91.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1214/e4e55742-278b-4524-8854-b7fc11639c91.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1214/e4e55742-278b-4524-8854-b7fc11639c91.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1214/e4e55742-278b-4524-8854-b7fc11639c91.json"
+      ]
+    },
+    {
+      "id": "172994",
+      "name": "113年雲林縣使用牌照稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2141/6898b402-bb64-435e-bde3-4ad186400ba0.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2141/6898b402-bb64-435e-bde3-4ad186400ba0.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2141/6898b402-bb64-435e-bde3-4ad186400ba0.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2141/6898b402-bb64-435e-bde3-4ad186400ba0.json"
+      ]
+    },
+    {
+      "id": "172992",
+      "name": "雲林縣稅務局113年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2139/14c5b6aa-576f-4fd8-8e8c-1efe5fb52ac0.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2139/14c5b6aa-576f-4fd8-8e8c-1efe5fb52ac0.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2139/14c5b6aa-576f-4fd8-8e8c-1efe5fb52ac0.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2139/14c5b6aa-576f-4fd8-8e8c-1efe5fb52ac0.json"
+      ]
+    },
+    {
+      "id": "177121",
+      "name": "114年雲林縣使用牌照稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2370/6c529cad-7411-4e60-ae3e-9547d7e79d16.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2370/6c529cad-7411-4e60-ae3e-9547d7e79d16.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2370/6c529cad-7411-4e60-ae3e-9547d7e79d16.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2370/6c529cad-7411-4e60-ae3e-9547d7e79d16.json"
+      ]
+    },
+    {
+      "id": "177168",
+      "name": "雲林縣112年土地增值稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2376/8b04fc52-fad4-46ae-b855-12bfcf8e99b7.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2376/8b04fc52-fad4-46ae-b855-12bfcf8e99b7.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2376/8b04fc52-fad4-46ae-b855-12bfcf8e99b7.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2376/8b04fc52-fad4-46ae-b855-12bfcf8e99b7.json"
+      ]
+    },
+    {
+      "id": "177170",
+      "name": "雲林縣114年土地增值稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2378/d18e24b2-718d-4f56-ad1f-27743e4eb3fb.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2378/d18e24b2-718d-4f56-ad1f-27743e4eb3fb.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2378/d18e24b2-718d-4f56-ad1f-27743e4eb3fb.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2378/d18e24b2-718d-4f56-ad1f-27743e4eb3fb.json"
+      ]
+    },
+    {
+      "id": "30537",
+      "name": "雲林縣房屋用途相近歸類表",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTQ1NzYvMjkwOTg5LzU2NTQ0MGQyLWQ4YzYtNGVhNC1iNjMxLTc2N2FhNzk4Yzc5YS5jc3Y%3d&n=6Zuy5p6X57ij5oi%2f5bGL55So6YCU55u46L%2bR5q246aGe6KGoLTk55bm054mILmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "30542",
+      "name": "雲林縣房屋位置所在段落等級表(105年7月1日起適用)",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTQ1NzYvMjkwOTk1LzEzYjIyOTliLTM1YTItNDM3YS1iYTg2LThiNTkzNTNmNzA0Yy5jc3Y%3d&n=6Zuy5p6X57ij5oi%2f5bGL5L2N572u5omA5Zyo5q616JC9562J57Sa6KGoLTEwNS43LjHpgannlKguY3N2"
+      ]
+    },
+    {
+      "id": "30544",
+      "name": "雲林縣房屋標準單價表-99年版",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/497/9d8aeb7b-71da-402c-aa5e-fd363b4e1793.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/497/9d8aeb7b-71da-402c-aa5e-fd363b4e1793.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/497/9d8aeb7b-71da-402c-aa5e-fd363b4e1793.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/497/9d8aeb7b-71da-402c-aa5e-fd363b4e1793.json"
+      ]
+    },
+    {
+      "id": "30549",
+      "name": "全功能服務櫃檯到府服務項目及應備證件",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL3JlbGZpbGUvMTUyNTMvMjk0NTY0LzI3MTE1N2VkLTVhMzYtNDQwYi04ODU3LTY2ZTM0YzA2ODk1ZS5jc3Y%3d&n=5YWo5Yqf6IO95pyN5YuZ5quD5qqv5Yiw5bqc5pyN5YuZ6aCF55uu5Y%2bK5oeJ5YKZ6K2J5Lu2LmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "30552",
+      "name": "土地建物『買賣』案件流程",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL1JlbEZpbGUvMTQ1NzYvMjkxMDAzL%2bWcn%2bWcsOW7uueJqeiyt%2bizo%2bahiOS7tua1geeoiy5jc3Y%3d&n=5Zyf5Zyw5bu654mp6LK36LOj5qGI5Lu25rWB56iLLmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "30553",
+      "name": "土地建物『贈與』案件流程",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL1JlbEZpbGUvMTQ1NzYvMjkxMDA0L%2bWcn%2bWcsOW7uueJqei0iOiIh%2bahiOS7tua1geeoiy5jc3Y%3d&n=5Zyf5Zyw5bu654mp6LSI6IiH5qGI5Lu25rWB56iLLmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "30554",
+      "name": "土地建物『繼承』案件流程",
+      "format": "csv",
+      "urls": [
+        "https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIyL1JlbEZpbGUvMTQ1NzYvMjkxMDA1L%2bWcn%2bWcsOW7uueJqee5vOaJv%2bahiOS7tua1geeoiy5jc3Y%3d&n=5Zyf5Zyw5bu654mp57m85om%2f5qGI5Lu25rWB56iLLmNzdg%3d%3d"
+      ]
+    },
+    {
+      "id": "71369",
+      "name": "雲林縣房屋標準單價表(105年7月1日起適用)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/510/98f04ebe-f32a-4c32-8df6-fd97b324e8aa.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/510/98f04ebe-f32a-4c32-8df6-fd97b324e8aa.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/510/98f04ebe-f32a-4c32-8df6-fd97b324e8aa.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/510/98f04ebe-f32a-4c32-8df6-fd97b324e8aa.json"
+      ]
+    },
+    {
+      "id": "74959",
+      "name": "全功能櫃臺服務項目明細表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/512/6c247242-cc11-4060-bb56-f5cee974ffb7.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/512/6c247242-cc11-4060-bb56-f5cee974ffb7.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/512/6c247242-cc11-4060-bb56-f5cee974ffb7.json"
+      ]
+    },
+    {
+      "id": "106961",
+      "name": "印花稅稅式支出報告",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/563/6ffe9c10-1fb1-432d-8e9a-37ad7930f33a.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/563/6ffe9c10-1fb1-432d-8e9a-37ad7930f33a.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/563/6ffe9c10-1fb1-432d-8e9a-37ad7930f33a.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/563/6ffe9c10-1fb1-432d-8e9a-37ad7930f33a.json"
+      ]
+    },
+    {
+      "id": "128084",
+      "name": "雲林縣稅務局107年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1052/3eafdbd8-5ceb-47be-bb2d-8d81e49574ff.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1052/3eafdbd8-5ceb-47be-bb2d-8d81e49574ff.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1052/3eafdbd8-5ceb-47be-bb2d-8d81e49574ff.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1052/3eafdbd8-5ceb-47be-bb2d-8d81e49574ff.json"
+      ]
+    },
+    {
+      "id": "128057",
+      "name": "雲林縣稅務局臨櫃繳稅件數統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1045/c8acb1a1-5655-41e6-b83d-f09501406c57.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1045/c8acb1a1-5655-41e6-b83d-f09501406c57.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1045/c8acb1a1-5655-41e6-b83d-f09501406c57.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1045/c8acb1a1-5655-41e6-b83d-f09501406c57.json"
+      ]
+    },
+    {
+      "id": "128026",
+      "name": "雲林縣稅務局志工服務時數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1029/d2ad3798-9158-43dc-b8a7-fab896353911.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1029/d2ad3798-9158-43dc-b8a7-fab896353911.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1029/d2ad3798-9158-43dc-b8a7-fab896353911.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1029/d2ad3798-9158-43dc-b8a7-fab896353911.json"
+      ]
+    },
+    {
+      "id": "138034",
+      "name": "107年雲林縣使用牌照稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1216/e5404a6a-3a21-4d79-bb51-723d68dcc631.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1216/e5404a6a-3a21-4d79-bb51-723d68dcc631.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1216/e5404a6a-3a21-4d79-bb51-723d68dcc631.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1216/e5404a6a-3a21-4d79-bb51-723d68dcc631.json"
+      ]
+    },
+    {
+      "id": "172993",
+      "name": "雲林縣稅務局113年各稅退稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2140/23d18f44-8b7c-4c01-aa01-5ecc9628db2c.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2140/23d18f44-8b7c-4c01-aa01-5ecc9628db2c.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2140/23d18f44-8b7c-4c01-aa01-5ecc9628db2c.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2140/23d18f44-8b7c-4c01-aa01-5ecc9628db2c.json"
+      ]
+    },
+    {
+      "id": "160428",
+      "name": "111年雲林縣使用牌照稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1510/fae16501-2e57-4cd9-a56f-a7772803c64c.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1510/fae16501-2e57-4cd9-a56f-a7772803c64c.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1510/fae16501-2e57-4cd9-a56f-a7772803c64c.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1510/fae16501-2e57-4cd9-a56f-a7772803c64c.json"
+      ]
+    },
+    {
+      "id": "147817",
+      "name": "雲林縣稅務局110年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1346/42f94cdd-25fc-4272-9ac7-7d931f3b137b.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1346/42f94cdd-25fc-4272-9ac7-7d931f3b137b.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1346/42f94cdd-25fc-4272-9ac7-7d931f3b137b.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1346/42f94cdd-25fc-4272-9ac7-7d931f3b137b.json"
+      ]
+    },
+    {
+      "id": "147822",
+      "name": "雲林縣稅務局110年各稅退稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1347/235dd541-27ef-4efe-8557-aa1a05ab11ee.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1347/235dd541-27ef-4efe-8557-aa1a05ab11ee.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1347/235dd541-27ef-4efe-8557-aa1a05ab11ee.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1347/235dd541-27ef-4efe-8557-aa1a05ab11ee.json"
+      ]
+    },
+    {
+      "id": "177122",
+      "name": "雲林縣稅務局114年多元繳稅統計",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2371/02bc1a51-0957-4991-aa73-ac495601c856.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2371/02bc1a51-0957-4991-aa73-ac495601c856.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2371/02bc1a51-0957-4991-aa73-ac495601c856.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2371/02bc1a51-0957-4991-aa73-ac495601c856.json"
+      ]
+    },
+    {
+      "id": "177165",
+      "name": "雲林縣111年土地增值稅稅源統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2375/e91024f8-f6ca-45f6-a11d-1161a8c5bc7a.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2375/e91024f8-f6ca-45f6-a11d-1161a8c5bc7a.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2375/e91024f8-f6ca-45f6-a11d-1161a8c5bc7a.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2375/e91024f8-f6ca-45f6-a11d-1161a8c5bc7a.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "type": "dataset",
+  "provider": "臺北市政府人事處",
+  "slug": "data_taipei_7391d7e6",
+  "datasets": [
+    {
+      "id": "121934",
+      "name": "臺北市政府各機關年度聘僱用計畫人數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a8faace1-81f1-4944-a094-62ad734ce3bc/resource/6368fd48-97f4-43da-96bb-bfa78870e5b9/download"
+      ]
+    },
+    {
+      "id": "127488",
+      "name": "臺北市政府補助本市公務人員協會歷年經費表",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/2db5eae2-d337-405a-af7c-5da04a0ea397/resource/3890ac83-c4b1-4f52-9854-0d6210e1ccc7/download"
+      ]
+    },
+    {
+      "id": "128224",
+      "name": "臺北市政府年度因公出國及赴大陸地區計畫",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/40650ead-4486-442b-9da7-a6003bead14d/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/0af27205-95b2-44e9-9186-e6a05fc631b0/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/25b0914e-bdc2-43fe-bc32-5d43862452c3/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/871d9de2-91f2-4a91-bbe8-dac203dad90a/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/f7675a0e-f6f6-4530-9785-99c3d793d959/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/3ff78977-1f5f-4923-a811-8c10110d7b77/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/6ad828ad-59fd-40b7-8171-ba3f69a9abd3/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/19502320-f6e1-456c-aeaf-3b833ad5077e/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/05dc7a91-3a57-4b68-8e67-22db4020248c/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/855e3da8-34e4-4991-863d-a82c8ae06133/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/f2aa0a6f-387f-4f70-abe8-27ce76c28993/download",
+        "https://data.taipei/api/dataset/319854a1-5f4b-428c-b8ed-8550a4d67d7f/resource/37311bfd-8d72-452f-9050-81931eafade7/download"
+      ]
+    },
+    {
+      "id": "128225",
+      "name": "臺北市政府各機關公務人員進修費用補助一覽表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/624f13ef-2a3e-4ba0-825a-eb99f5d266df/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/83b3a7a1-6569-4a67-af3c-5505f64c361a/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/1a91d1ad-3da6-4a3b-9f20-22aacc191735/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/72fa4dba-adfd-4fcb-a5ca-3c73a3205f15/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/08ffe37e-795b-4ef9-a782-0fae6e71c04a/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/e50ec149-ec76-498c-85e5-b9feae71a138/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/fe04124e-47aa-4ed0-b6e1-196fbf35f1fc/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/2743ed94-ad26-4c32-ad55-1c6d875fe8c9/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/ea8b6f86-2514-4faa-9d88-16b9234c0f09/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/415154d9-ff14-48f1-ac3b-a92bea4aa16c/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/f10f51f7-2259-4543-a814-684e9d59012f/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/a7a5dd63-e1f0-4b0c-8820-b442ef1d198d/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/489e6433-fcc5-49a6-a0eb-540c9a449d3c/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/cd44d3a3-d345-4dc2-843b-00f5430aca91/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/779805f0-18ec-4335-bf52-ecde2749f27f/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/bb664459-baad-461b-83d4-4f2fa4289dd0/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/de0fa103-27e5-4d61-ab87-ed81ca8e049d/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/e82e1129-8878-4eb2-adbf-20045b419550/download",
+        "https://data.taipei/api/dataset/f47662d4-12fa-4e67-a5c9-608546e45e11/resource/f062fa35-7a96-4f89-9330-b797af7c1893/download"
+      ]
+    },
+    {
+      "id": "128467",
+      "name": "臺北市政府求職徵才職缺資訊",
+      "format": "xml",
+      "urls": [
+        "https://dop.blob.core.windows.net/ipsnworkcontainer/jobs.xml"
+      ]
+    },
+    {
+      "id": "121516",
+      "name": "臺北市政府各機關年度預算員額總數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/e6273507-9365-460a-adff-8595317cff15/resource/c84c6b7f-14dc-45ee-9830-8f16bbf95782/download"
+      ]
+    },
+    {
+      "id": "121520",
+      "name": "臺北市政府各一級機關暨列席議會二級機關首長名錄",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/abd80a1c-eb3a-4c99-bbb4-4c671a060050/resource/1086603a-5239-4dcc-945d-054056988545/download"
+      ]
+    },
+    {
+      "id": "121523",
+      "name": "臺北市政府職期遷調人數統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/aecb3a8e-837e-446b-9d09-97f11f98a345/resource/be052413-9e11-4e52-bb2b-c179be462ba7/download",
+        "https://data.taipei/api/dataset/aecb3a8e-837e-446b-9d09-97f11f98a345/resource/758194f9-7a1b-48f5-a6e0-77fcf4ee83d5/download",
+        "https://data.taipei/api/dataset/aecb3a8e-837e-446b-9d09-97f11f98a345/resource/7c0f634f-e49f-4de8-94b0-e0aec008983b/download",
+        "https://data.taipei/api/dataset/aecb3a8e-837e-446b-9d09-97f11f98a345/resource/cd45ebb0-1073-4bc7-b9bd-d5c67df0c1c6/download",
+        "https://data.taipei/api/dataset/aecb3a8e-837e-446b-9d09-97f11f98a345/resource/6325f419-aee0-414e-846d-3da0518419be/download"
+      ]
+    },
+    {
+      "id": "121524",
+      "name": "臺北市政府暨所屬機關學校現有員工人數統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/92426604-aa12-483c-a990-de3b4a7a4e1b/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/51f76011-7173-42e5-8d78-1fedea523eca/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/fc1fcb7d-c0d8-4ed5-b6aa-2ec6b24d798f/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/e7bb965c-5248-4483-b753-e7d6b9234771/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/f9ef03eb-c5bd-4b41-95c2-02ce5451e4be/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/3c6e78f4-143b-4e76-8460-4556e409e034/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/74369fab-ebdf-4a7a-966f-b639aa655eda/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/944b2194-1f2d-471e-8a66-cd2e873e291d/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/113af345-1996-41a9-a0fa-3d6276647999/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/9adee431-d814-48b6-bc35-7c2c888a74b6/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/7def501c-5120-4ddb-a1fe-4111e3679dfd/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/330354cd-6ef3-420b-bc3e-360ce4f7e268/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/afb6c3af-48ae-43e5-837e-e3611cc0fbfe/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/3badde36-65f5-41c2-b01c-4406eddd438c/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/ea800050-ed17-4e95-b93f-782927f88bc9/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/f6b4b444-d476-494d-8fc2-bf0987be4567/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/ecfbbfc0-d59a-4214-af65-562991f894be/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/1ceb6291-ba4a-4a00-9092-0755283184e4/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/7bb6ee87-e5a8-40a7-a41a-594118eb883d/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/c629cfe1-490c-4c5d-bfd2-e721964ddbb9/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/fc5ccc2a-1b3f-4281-9601-49e63fbde2ad/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/60e312ec-0f47-49d9-84ae-c8bbd2ebe38d/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/f3f0181b-5c9c-450c-b351-fe1249e71dd3/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/8130b605-3045-40fe-9f10-38d512391e7f/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/c238dd54-f080-4c45-bed2-97d9b19a91a4/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/981fa1b9-add0-4494-bb3c-286e5b160528/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/2644f170-c38b-4c9c-b5c5-51d052a0b36a/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/16f8821a-ff75-405e-8241-a8c7d95a5e7f/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/1869cf89-3222-4238-85f3-4d764f2b6f72/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/1120cc7e-194f-46cb-897e-60ce616ccc03/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/eb2a5969-6e8f-4e4f-bd6d-0147b4a8cf58/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/512af4db-0bec-4f9c-af3c-326cde8d7b59/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/5e519da4-ace2-431b-9d1d-9564c1546b44/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/9ad0c862-c736-41fe-8f10-e71946c47cfe/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/9c1dbc1b-2dcb-46a7-84f7-1073a8a0c2ef/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/026dd53b-3ae2-4bbf-a512-bb87b7cfb282/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/16ac1962-7856-458c-9448-91112d639611/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/21d929ab-99a3-49b2-ac9c-4f2c4e1d2898/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/1e7b6992-d110-412a-b49c-92bd7da2ece4/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/81b8c97d-80da-45cd-87e1-4e5ce0384a61/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/32e4bf78-ce60-48d8-b249-efb8193a0982/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/ab2216cf-da13-40b2-bd62-00654dd99694/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/6a1383a0-1c13-41b4-b441-83904963318c/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/7fb63048-2305-4976-96dd-b8a654e7eb46/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/2ca46b22-24fd-42bb-a9f8-07b25946eb44/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/53fd2f58-aca8-49cb-ab2a-ada123a82121/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/4fec11bb-d98f-4537-8fd4-1cea59859b09/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/252dc416-b567-4a97-b5bc-c9fd6f866c7a/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/0f30270c-43c3-4286-b7cb-48dbcfd1d3c1/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/eb730292-8f55-43dc-914a-cf0e2913781f/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/0737ae46-b7f6-4d3e-9888-7d4b8e052f8a/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/63e4a565-78fd-4ac6-8d40-b657b775ca71/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/4c6825cc-8fe8-4110-b45c-775173b26f35/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/e69e07f9-e600-4ada-920a-b3da588272f3/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/92f6d104-b59a-41f3-ac52-086abd679c21/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/5c003217-0277-4403-998c-548c2a818e08/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/01f5be9a-c16e-448e-9f9a-7d6f79a15b75/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/82546eee-4ad5-4a7a-87c3-c6abd92d2319/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/6a0a407b-de03-49a5-8997-81014e4d26f5/download",
+        "https://data.taipei/api/dataset/268cd629-c4fa-48ac-95e5-b9677ec12f27/resource/deb93f00-a67f-4dd2-8cb2-f471a1ac8693/download"
+      ]
+    },
+    {
+      "id": "130374",
+      "name": "臺北市政府依法進用原住民概況",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ecc66d52-f1fa-48c7-8a17-69e54baa86ac/resource/713af65b-9571-4362-8d00-ffda45b44e4e/download"
+      ]
+    },
+    {
+      "id": "132340",
+      "name": "臺北市政府所屬各機關公教人員退休人數按官等分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/cf6336a2-5c76-4eaf-ba50-5ca72b3089b3/resource/cac3b57b-04ea-4545-881e-a2b3180e6273/download",
+        "https://data.taipei/api/dataset/cf6336a2-5c76-4eaf-ba50-5ca72b3089b3/resource/248a1240-79bd-4c12-9acb-3a6a015d90f9/download",
+        "https://data.taipei/api/dataset/cf6336a2-5c76-4eaf-ba50-5ca72b3089b3/resource/22b522e3-12f4-4567-9481-19c3d4c10535/download",
+        "https://data.taipei/api/dataset/cf6336a2-5c76-4eaf-ba50-5ca72b3089b3/resource/d379cb4d-a3e1-45b4-878c-d9008d749f77/download"
+      ]
+    },
+    {
+      "id": "158478",
+      "name": "臺北市政府各機關員工性別人數統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/8b02d918-1ac4-444e-88b8-e4db4f37ad11/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/4df5e80a-c7df-4193-9acc-c331ae7e1f30/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/fcc295cb-3fe5-4946-89f3-d3ea10ce97bb/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/92857a91-9cca-4e2c-8e2e-a63580ddb579/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/50041481-17c2-47b8-9eb2-43af16c16c9a/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/bb4c5145-e485-427b-b5b2-856732659406/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/f241ba00-ed1b-49f6-9198-bd1ccc06cac7/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/aa0ab2fe-1889-45d0-88a6-5ca5e16a0a20/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/88544772-6a73-4b37-b94b-993e5bb8358c/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/6d4446a8-333f-48e0-b1b9-abb48ebeb575/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/54bb6a6c-5e62-41b8-ac3b-016e15b56625/download",
+        "https://data.taipei/api/dataset/3f80d60e-6fa3-47bd-899a-e2201985d6cf/resource/70d2d5a1-9f9a-4866-b936-6fe7157d0601/download"
+      ]
+    },
+    {
+      "id": "156607",
+      "name": "臺北市公務人員協會歷年聯誼暨教育訓練活動人次統計表",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/4e1ef59c-33c8-4cd2-8657-5c18a5ac4f99/resource/688c10f9-fb7c-4f2d-9d7c-ebb8391a44a1/download"
+      ]
+    },
+    {
+      "id": "157466",
+      "name": "臺北市政府114年度人事機構人事人員人數統計表—按學歷區分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/98b076f5-7ee8-4720-990c-d711b47bee0f/resource/409596c8-7f03-4004-a9ef-e9913df76ea1/download"
+      ]
+    },
+    {
+      "id": "157475",
+      "name": "臺北市政府114年度精進人事業務",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/8bde530c-f6cb-4e13-bed6-64e7f58fc2bc/resource/3050a1a9-4252-48b9-8bee-1eb368d03474/download"
+      ]
+    },
+    {
+      "id": "157476",
+      "name": "臺北市政府114年度人事機構數統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1271ca90-0804-412c-acf6-d2c5db9ed92b/resource/9017849e-1cef-4b48-b79a-abc2ab640e65/download"
+      ]
+    },
+    {
+      "id": "157478",
+      "name": "臺北市政府114年度人事機構人事人員人數統計表—按機關學校區分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/556d7c0f-2093-4cc2-9e24-1e248f38ee09/resource/4cd86ae6-cd23-40f4-b9be-2abd71460cd5/download"
+      ]
+    },
+    {
+      "id": "145770",
+      "name": "臺北市政府公務人員參與訓練人次",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/65d1b2f5-de74-4d5e-8fb3-6f5c3a43ef2d/resource/86f6d706-30a3-4d59-86f5-2524577f50db/download",
+        "https://data.taipei/api/dataset/65d1b2f5-de74-4d5e-8fb3-6f5c3a43ef2d/resource/34bea278-fb46-439d-828c-6ce2729ffbfd/download",
+        "https://data.taipei/api/dataset/65d1b2f5-de74-4d5e-8fb3-6f5c3a43ef2d/resource/ae394c16-b159-465c-929d-117af13b19e2/download",
+        "https://data.taipei/api/dataset/65d1b2f5-de74-4d5e-8fb3-6f5c3a43ef2d/resource/89aaf9d9-a368-482a-babb-751dcee2157b/download",
+        "https://data.taipei/api/dataset/65d1b2f5-de74-4d5e-8fb3-6f5c3a43ef2d/resource/e8e1a2c0-5cbb-45d4-85d7-b5b7261263b0/download",
+        "https://data.taipei/api/dataset/65d1b2f5-de74-4d5e-8fb3-6f5c3a43ef2d/resource/1969f680-3f79-4b9b-a578-5eded85839e1/download",
+        "https://data.taipei/api/dataset/65d1b2f5-de74-4d5e-8fb3-6f5c3a43ef2d/resource/b0dff7b1-76f2-48e3-9a4b-333f1eafbcb7/download"
+      ]
+    },
+    {
+      "id": "145748",
+      "name": "臺北市政府所屬各機關公教人員退休人數按年齡分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/836682ef-fef8-47a4-aca4-b94717957698/resource/a8276b65-64c3-411e-9ccd-f819e67b9c46/download",
+        "https://data.taipei/api/dataset/836682ef-fef8-47a4-aca4-b94717957698/resource/d008602c-f24d-41e1-a5b6-7216868c6322/download",
+        "https://data.taipei/api/dataset/836682ef-fef8-47a4-aca4-b94717957698/resource/29f7aec8-ff34-4f4b-ac0d-63d83db563cf/download",
+        "https://data.taipei/api/dataset/836682ef-fef8-47a4-aca4-b94717957698/resource/c90a07cf-d529-44b4-9cac-849ff94e8b54/download"
+      ]
+    },
+    {
+      "id": "132177",
+      "name": "臺北市歷次天然災害停止上班上課訊息",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/83b013c2-35f3-4470-98d7-03dd68a372cb/resource/7a0b00b7-988e-4a45-9f4b-c1f910fea57c/download"
+      ]
+    },
+    {
+      "id": "132138",
+      "name": "臺北市政府機關學校公務（教）人員人數按年資及性別分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/68ccd0eb-22be-4777-b5e5-906e81c5af16/resource/6197726e-1521-43b4-b656-c157d51c2538/download",
+        "https://data.taipei/api/dataset/68ccd0eb-22be-4777-b5e5-906e81c5af16/resource/b2bd25dd-3cd8-43fa-a0e4-c07daee5e8e5/download",
+        "https://data.taipei/api/dataset/68ccd0eb-22be-4777-b5e5-906e81c5af16/resource/384dc730-c24d-4bf7-abed-e2878f38a4a8/download",
+        "https://data.taipei/api/dataset/68ccd0eb-22be-4777-b5e5-906e81c5af16/resource/73dbeb85-ccf5-4f9d-a2c9-eba3003b7c58/download",
+        "https://data.taipei/api/dataset/68ccd0eb-22be-4777-b5e5-906e81c5af16/resource/5997acb2-787c-4bb2-b73e-5ca46855044c/download"
+      ]
+    },
+    {
+      "id": "132141",
+      "name": "臺北市政府機關學校公務（教）人員人數按教育程度及性別分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/18b26897-486c-4978-9471-ce16bb48a8b3/resource/916a709b-69b9-463c-b138-10be006929a5/download",
+        "https://data.taipei/api/dataset/18b26897-486c-4978-9471-ce16bb48a8b3/resource/98387759-1049-4498-8438-d1a04aa0f3cb/download",
+        "https://data.taipei/api/dataset/18b26897-486c-4978-9471-ce16bb48a8b3/resource/d6667709-57bc-4b04-aa3f-738cb504c09d/download",
+        "https://data.taipei/api/dataset/18b26897-486c-4978-9471-ce16bb48a8b3/resource/d7587616-4225-4571-8474-93573a498cc1/download",
+        "https://data.taipei/api/dataset/18b26897-486c-4978-9471-ce16bb48a8b3/resource/1d2d9e31-9087-46bd-b9d3-c261c0edf686/download"
+      ]
+    },
+    {
+      "id": "156262",
+      "name": "臺北市政府各一級機關業務職掌一覽表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/78b5ccd8-f43b-4ae4-b827-086d61ef4cb1/resource/53fdc3e2-5cc0-470f-bd2f-45ea2bd37457/download"
+      ]
+    },
+    {
+      "id": "173128",
+      "name": "臺北市政府市政顧問",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/f83a9750-df6f-41cc-8f7d-871dc8ece595/resource/58d90ab4-3398-424a-abd4-35adef57e6cc/download"
+      ]
+    },
+    {
+      "id": "128505",
+      "name": "臺北市政府各機關學校獎懲月報表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/857a61c8-6ce1-4f70-bdc8-8e8e74585fca/download",
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/837cbef5-dfc6-4d5c-b9a9-6689012340cc/download",
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/ec351580-63c8-49e5-bf60-c21e6d3d3cc3/download",
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/7170c768-a527-44f9-b081-661351f3a7ac/download",
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/a32e9755-719d-461f-b63e-96b658611a0e/download",
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/d04d19a8-0918-4c94-b529-a65d169b77e2/download",
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/4c09ac6a-4012-4cf6-bfbf-f15cd0046b8a/download",
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/0b328763-721f-46ad-ae22-2065c54b3b35/download",
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/c9d23769-60bb-423c-a922-2be43dc4e2ed/download",
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/deb42626-e714-4e46-adc4-ab602cb2c418/download",
+        "https://data.taipei/api/dataset/025761db-2be8-4820-a094-72510e1df707/resource/23f4f2b6-63a8-4736-ba72-15c4849e4183/download"
+      ]
+    },
+    {
+      "id": "127590",
+      "name": "臺北市政府女性主管比率",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/124aedce-5452-4476-a1dd-1b2afc64f8d2/resource/7a977cbe-b082-4ef7-87c8-e19515bbe72f/download"
+      ]
+    },
+    {
+      "id": "121498",
+      "name": "臺北市政府府級任務編組性別比例統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/fcafed19-f76f-4b2c-8aa9-9f133e77eac9/resource/ec5f203b-ebfb-4db3-886c-8b4344cb51c3/download"
+      ]
+    },
+    {
+      "id": "121518",
+      "name": "臺北市政府暑期工讀名額分配統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/9257ab12-d7f4-4037-835a-75d4cbfdd086/resource/7179c5f9-b294-4b41-828e-afed52f1fb72/download"
+      ]
+    },
+    {
+      "id": "132134",
+      "name": "臺北市政府各機關學校聯絡資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/6b99dd93-9c63-43c9-96eb-0bfffce97217/resource/d332914d-5119-4722-9861-77132b7f6e1c/download"
+      ]
+    },
+    {
+      "id": "132135",
+      "name": "臺北市政府各機關(構)、公立各級學校及幼兒園員額",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1d4251cc-b3a2-428f-821d-1db7710b8856/resource/858b870b-c71a-4cf7-b9a2-b2166e0f5cc4/download",
+        "https://data.taipei/api/dataset/1d4251cc-b3a2-428f-821d-1db7710b8856/resource/b176f311-19bb-451d-aff0-62eeb4d3b3a1/download",
+        "https://data.taipei/api/dataset/1d4251cc-b3a2-428f-821d-1db7710b8856/resource/74ce1df7-0c23-4ebb-b5c3-c2d9fc048dd4/download",
+        "https://data.taipei/api/dataset/1d4251cc-b3a2-428f-821d-1db7710b8856/resource/c76ddd45-ce23-417d-a81d-a6715a28d951/download",
+        "https://data.taipei/api/dataset/1d4251cc-b3a2-428f-821d-1db7710b8856/resource/3f3d8c04-1aa6-4faa-a182-580b4931ace4/download"
+      ]
+    },
+    {
+      "id": "132333",
+      "name": "臺北市政府補助本市公教退休人員協會歷年經費表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/27029a92-ce9a-4ec3-b0d6-e04ba4e19741/resource/b4e6ca48-e32a-4f04-8e18-eb7fcd8637d5/download"
+      ]
+    },
+    {
+      "id": "132139",
+      "name": "臺北市政府機關學校公務（教）人員人數按考試及性別分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a93c94a7-aa8c-4eb9-9682-e9a3d969c620/resource/2af5c9e3-2852-4a38-89e9-510ea20705c2/download",
+        "https://data.taipei/api/dataset/a93c94a7-aa8c-4eb9-9682-e9a3d969c620/resource/817d0bf8-7c87-4fef-b669-8e56a9806692/download",
+        "https://data.taipei/api/dataset/a93c94a7-aa8c-4eb9-9682-e9a3d969c620/resource/33e1d4c6-2bc3-4270-8c2e-84354f722115/download",
+        "https://data.taipei/api/dataset/a93c94a7-aa8c-4eb9-9682-e9a3d969c620/resource/39b97274-f9fb-4513-8d0c-8f847280a8cd/download",
+        "https://data.taipei/api/dataset/a93c94a7-aa8c-4eb9-9682-e9a3d969c620/resource/cba00c35-db80-4516-84ac-7fb5f9ea9916/download"
+      ]
+    },
+    {
+      "id": "132157",
+      "name": "臺北市政府優秀工友人數統計表",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/b99d2136-d9cd-4415-869e-e4728586e837/resource/421ed1ff-2821-41c9-9a06-d8d27a65ccaa/download"
+      ]
+    },
+    {
+      "id": "132158",
+      "name": "臺北市政府優秀青年公務人員人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/ceb3d363-164a-4aee-b1a8-8f385c6aca59/resource/e99b6bcb-d29b-402a-a63d-d084e2a388e2/download"
+      ]
+    },
+    {
+      "id": "145708",
+      "name": "臺北市政府行政機關辦公日曆表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/c30ca421-d935-4faa-b523-9c175c8de738/resource/0dcbcfcf-f7a1-4664-a810-82c01cb524e0/download"
+      ]
+    },
+    {
+      "id": "156604",
+      "name": "臺北市政府特約優惠商店及優惠項目一覽表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/253818a1-80a9-4b03-9218-f3d2c86b95f0/resource/d3d1dc53-355c-4838-9aa8-d75e98ba10c4/download"
+      ]
+    },
+    {
+      "id": "156606",
+      "name": "臺北市政府員工子女特約托育",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/52a10d2d-852d-46d0-ac0a-bae3433b70c8/resource/f183aab9-631c-403f-8c92-b43cd8d5dfcd/download"
+      ]
+    },
+    {
+      "id": "156608",
+      "name": "臺北市政府優秀公務人員國外短期研習",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/b7c56896-4fdc-4b1a-a4ff-fd83b9288f1a/resource/5c71351b-2192-4572-98c8-7442418f86cc/download"
+      ]
+    },
+    {
+      "id": "156843",
+      "name": "臺北市政府考試錄取人員分配數按考試類別分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/e0f3950a-4ad6-42a9-8a37-3f87f32399d7/resource/aa9f12b9-5637-4fe4-80fd-bd84573185ce/download"
+      ]
+    },
+    {
+      "id": "128286",
+      "name": "臺北市政府各機關府級任務編組名稱及成立日期",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/97201d82-c523-45a5-bdb9-05e8709a31dd/resource/f8fc2cb5-d787-4da9-b33a-06cb8aa24f5b/download"
+      ]
+    },
+    {
+      "id": "121521",
+      "name": "臺北市政府公教人員住宅貸款貸放戶歷年賸餘戶數統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/5cadf79d-b762-4d71-9296-81a2b3027055/resource/86746efa-bcff-4a33-babe-8276ecaf0272/download"
+      ]
+    },
+    {
+      "id": "121522",
+      "name": "臺北市政府公教人員急難貸款申請人次統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/da5059a6-33f4-4f5b-a407-f380a9047951/resource/ebaba64d-c11c-499e-b567-52d215b6b630/download"
+      ]
+    },
+    {
+      "id": "157467",
+      "name": "臺北市政府114年度人事機構人事人員人數統計表—按年齡區分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/1d7f53ed-32a3-43d1-9f68-987f3b35e340/resource/4cf3786b-b281-4c0d-a56e-0250ec5d3bf0/download"
+      ]
+    },
+    {
+      "id": "132100",
+      "name": "臺北市政府行政機關公務人員人事異動概況",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a6ceb55f-a58a-4870-a3af-5987873ad29d/resource/bac54aa0-fdc4-4e8a-a9df-65c5c6778ed0/download",
+        "https://data.taipei/api/dataset/a6ceb55f-a58a-4870-a3af-5987873ad29d/resource/77bff97f-9bcc-4a29-b52e-c578f9f73d38/download",
+        "https://data.taipei/api/dataset/a6ceb55f-a58a-4870-a3af-5987873ad29d/resource/db0901e5-40b2-4ab4-83d2-0c54e3db2629/download",
+        "https://data.taipei/api/dataset/a6ceb55f-a58a-4870-a3af-5987873ad29d/resource/99ee745c-8ebc-429c-b6a2-6a05cebf4776/download",
+        "https://data.taipei/api/dataset/a6ceb55f-a58a-4870-a3af-5987873ad29d/resource/e7f3dfb7-f536-405f-8c42-b27c4de70eeb/download",
+        "https://data.taipei/api/dataset/a6ceb55f-a58a-4870-a3af-5987873ad29d/resource/1cde5993-861d-42d0-8c49-a635e4326870/download"
+      ]
+    },
+    {
+      "id": "132214",
+      "name": "臺北市政府分層負責明細表共同業務甲表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/3de05f09-2e18-4b9e-baf6-0aaa64bcfc0b/resource/6480c6c0-f7e2-497d-9085-db10badb9419/download",
+        "https://data.taipei/api/dataset/3de05f09-2e18-4b9e-baf6-0aaa64bcfc0b/resource/2d23e5c9-4313-499f-82ec-d175e9be1ebb/download",
+        "https://data.taipei/api/dataset/3de05f09-2e18-4b9e-baf6-0aaa64bcfc0b/resource/f3006bf1-bedc-4125-baaa-6ff8e770dcbf/download",
+        "https://data.taipei/api/dataset/3de05f09-2e18-4b9e-baf6-0aaa64bcfc0b/resource/6353f6f3-21c7-4ba0-9086-97b06850aede/download"
+      ]
+    },
+    {
+      "id": "132146",
+      "name": "臺北市政府機關學校公務（教）人員人數按年齡及性別分",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/b8598122-9cc1-44c9-acc8-81e144c31ca6/resource/e4da094d-86ee-48d5-9ae3-571ca5bfe003/download",
+        "https://data.taipei/api/dataset/b8598122-9cc1-44c9-acc8-81e144c31ca6/resource/1f1913c9-4fe4-4853-bb2e-1972b573dd12/download",
+        "https://data.taipei/api/dataset/b8598122-9cc1-44c9-acc8-81e144c31ca6/resource/1483cba9-b96a-408d-bfb8-f14ba15064dc/download",
+        "https://data.taipei/api/dataset/b8598122-9cc1-44c9-acc8-81e144c31ca6/resource/b8135f33-1f0b-4ddb-9a8f-926d7f295dfd/download",
+        "https://data.taipei/api/dataset/b8598122-9cc1-44c9-acc8-81e144c31ca6/resource/b45830c7-cc06-49a5-bc98-a92edb85ed21/download"
+      ]
+    },
+    {
+      "id": "132148",
+      "name": "臺北市政府薦送參加委（薦）任公務人員晉升薦（簡）任官等訓練人員及格率及完訓率",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/42e5474d-1cd8-4d05-953b-f4f6a34010a6/resource/0f3378df-a805-4bff-a403-7d3aa648883f/download",
+        "https://data.taipei/api/dataset/42e5474d-1cd8-4d05-953b-f4f6a34010a6/resource/56893444-49d9-4644-b375-02bfa2b05341/download"
+      ]
+    },
+    {
+      "id": "132149",
+      "name": "臺北市政府專書閱讀心得寫作競賽得獎統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/335bd5fe-5561-4e13-9c8c-2b26a75a9755/resource/6d5ab0df-efc5-477d-b6ff-e46f0f528c0d/download"
+      ]
+    },
+    {
+      "id": "132150",
+      "name": "臺北市政府依法進用身心障礙人員概況",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/cb8f380b-2a18-4a17-ac0b-4a69791845a8/resource/faa029dd-ff91-4872-92b8-8fb935136ce4/download"
+      ]
+    },
+    {
+      "id": "132125",
+      "name": "臺北市政府分層負責明細表共同業務乙表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/bce16d90-df8f-4db4-a262-34cbedf29d3d/resource/4745aec8-6ec1-47d9-ab26-d21be407c563/download",
+        "https://data.taipei/api/dataset/bce16d90-df8f-4db4-a262-34cbedf29d3d/resource/4a45367d-2fe8-4265-b4fd-91f454e63c1e/download",
+        "https://data.taipei/api/dataset/bce16d90-df8f-4db4-a262-34cbedf29d3d/resource/97ad3627-e92c-4b5f-987f-b2c763ce7b62/download",
+        "https://data.taipei/api/dataset/bce16d90-df8f-4db4-a262-34cbedf29d3d/resource/2419113f-ed5b-4545-930c-c4bb0ef1d8de/download",
+        "https://data.taipei/api/dataset/bce16d90-df8f-4db4-a262-34cbedf29d3d/resource/4b81c187-c361-435b-b18d-472f85b720f8/download",
+        "https://data.taipei/api/dataset/bce16d90-df8f-4db4-a262-34cbedf29d3d/resource/b5682a16-a491-42cc-a775-6b4b62a256e3/download"
+      ]
+    },
+    {
+      "id": "132133",
+      "name": "臺北市政府暨所屬機關員工個別協談申請人數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/6da62b76-a700-450c-87f4-5b24a6287b4b/resource/84d173e3-0fa4-437b-8828-79ae7025e60f/download"
+      ]
+    },
+    {
+      "id": "132225",
+      "name": "臺北市政府員工請假人次",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/405700b5-1350-44e2-a6a3-0c5985483d57/resource/dc069a11-95b5-4df6-ae08-ac52c1d5fbfe/download"
+      ]
+    },
+    {
+      "id": "130390",
+      "name": "臺北市政府員工休閒隊社一覽表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/8d46854f-5a6d-4963-a0ab-347659946b60/resource/da5f1a15-c737-4b8e-9182-630a42de414f/download"
+      ]
+    },
+    {
+      "id": "128386",
+      "name": "臺北市政府模範公務人員人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/6a7ddafa-b255-404a-aa6d-be668d72d1c5/resource/45dec854-3fb9-4b71-bf04-010ef9ffb5e6/download"
+      ]
+    },
+    {
+      "id": "156472",
+      "name": "臺北市政府各機關學校新進考試錄取人員人數",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/cacf5343-d8c6-4752-904f-92bd19f8cb3c/resource/520f7896-68d2-40fa-a423-ac32d280ecd1/download"
+      ]
+    }
+  ]
+}

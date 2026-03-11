@@ -1,0 +1,781 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府社會局",
+  "slug": "openapi_kcg_gov_tw_4d957f6d",
+  "datasets": [
+    {
+      "id": "128059",
+      "name": "高雄市人民團體-同鄉會",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ae9b5191-fa0d-4a05-b2fa-04895682cc7c",
+        "https://data.kcg.gov.tw/File/DirectDownload/ae9b5191-fa0d-4a05-b2fa-04895682cc7c"
+      ]
+    },
+    {
+      "id": "128131",
+      "name": "高雄市綜合性社會福利服務-綜合社會福利服務館",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3b7ef794-43da-49dc-b54b-cf1f6486b50b",
+        "https://data.kcg.gov.tw/File/DirectDownload/3b7ef794-43da-49dc-b54b-cf1f6486b50b"
+      ]
+    },
+    {
+      "id": "128132",
+      "name": "高雄市社區發展服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/11bf2f5e-7575-4d77-8bd5-4595ec4f4b5b",
+        "https://data.kcg.gov.tw/File/DirectDownload/11bf2f5e-7575-4d77-8bd5-4595ec4f4b5b"
+      ]
+    },
+    {
+      "id": "128135",
+      "name": "家庭暴力及性侵害防治服務-家庭暴力及性侵害防治中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dec0b33a-a4c1-4227-a819-3d101cc750e1",
+        "https://data.kcg.gov.tw/File/DirectDownload/dec0b33a-a4c1-4227-a819-3d101cc750e1"
+      ]
+    },
+    {
+      "id": "128136",
+      "name": "家庭暴力及性侵害防治服務-性侵害案件一站式服務醫療院所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fe581116-d0c3-4e6d-bfa2-7feec98d3c22",
+        "https://data.kcg.gov.tw/File/DirectDownload/fe581116-d0c3-4e6d-bfa2-7feec98d3c22"
+      ]
+    },
+    {
+      "id": "128137",
+      "name": "家庭暴力及性侵害防治服務-兒童青少年家庭與諮商中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8885d0ff-f386-4ab6-96a5-ea731dab66b3",
+        "https://data.kcg.gov.tw/File/DirectDownload/8885d0ff-f386-4ab6-96a5-ea731dab66b3"
+      ]
+    },
+    {
+      "id": "128138",
+      "name": "社會福利慈善事業基金會-基金會",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/635c8571-3e73-46eb-9919-b0e73f1068f5",
+        "https://data.kcg.gov.tw/File/DirectDownload/635c8571-3e73-46eb-9919-b0e73f1068f5"
+      ]
+    },
+    {
+      "id": "128145",
+      "name": "兒童及少年服務-兒童及少年高風險家庭關懷輔導處遇服務單位",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a13c978-608d-48ee-9977-b69ffdee8c0a",
+        "https://data.kcg.gov.tw/File/DirectDownload/6a13c978-608d-48ee-9977-b69ffdee8c0a"
+      ]
+    },
+    {
+      "id": "128149",
+      "name": "身心障礙者服務-輔具服務據點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ab83d7b-ba7f-4d39-acd1-68fcae2ecd81",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ab83d7b-ba7f-4d39-acd1-68fcae2ecd81"
+      ]
+    },
+    {
+      "id": "128099",
+      "name": "嬰幼兒托育服務-高雄市私立托嬰中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f55e7795-9051-4e75-ae39-6b66c4b3997d",
+        "https://data.kcg.gov.tw/File/DirectDownload/f55e7795-9051-4e75-ae39-6b66c4b3997d"
+      ]
+    },
+    {
+      "id": "128100",
+      "name": "嬰幼兒托育服務-高雄市公設民營托嬰中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/51ab0d2f-8a9c-423d-95b0-367202180db1",
+        "https://data.kcg.gov.tw/File/DirectDownload/51ab0d2f-8a9c-423d-95b0-367202180db1"
+      ]
+    },
+    {
+      "id": "128102",
+      "name": "銀髮族服務-銀髮農園",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b7787977-8589-4fb4-9111-303d7761249c",
+        "https://data.kcg.gov.tw/File/DirectDownload/b7787977-8589-4fb4-9111-303d7761249c"
+      ]
+    },
+    {
+      "id": "128103",
+      "name": "銀髮族服務-銀髮家園",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c2c57f3f-9c76-4fc0-bb1f-945a657f7c4a",
+        "https://data.kcg.gov.tw/File/DirectDownload/c2c57f3f-9c76-4fc0-bb1f-945a657f7c4a"
+      ]
+    },
+    {
+      "id": "128110",
+      "name": "銀髮族服務-家庭托顧",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9871731a-1058-4a3b-b9d7-14a6a32340f9",
+        "https://data.kcg.gov.tw/File/DirectDownload/9871731a-1058-4a3b-b9d7-14a6a32340f9"
+      ]
+    },
+    {
+      "id": "128111",
+      "name": "銀髮族服務-長期照顧管理中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e2c97dab-4836-415d-b690-17f9353894ca",
+        "https://data.kcg.gov.tw/File/DirectDownload/e2c97dab-4836-415d-b690-17f9353894ca"
+      ]
+    },
+    {
+      "id": "128118",
+      "name": "銀髮族服務-老人公寓",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/43c9cc3f-3d85-4f7a-bfcb-6794586b5c2d",
+        "https://data.kcg.gov.tw/File/DirectDownload/43c9cc3f-3d85-4f7a-bfcb-6794586b5c2d"
+      ]
+    },
+    {
+      "id": "128120",
+      "name": "銀髮族服務-日間照顧中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f79020d-bfb3-4f89-b76f-6cde277047a8",
+        "https://data.kcg.gov.tw/File/DirectDownload/0f79020d-bfb3-4f89-b76f-6cde277047a8"
+      ]
+    },
+    {
+      "id": "128124",
+      "name": "綜合性社會福利服務-社會福利中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e8bc446b-be92-4113-8764-fa41f1d040a8",
+        "https://data.kcg.gov.tw/File/DirectDownload/e8bc446b-be92-4113-8764-fa41f1d040a8"
+      ]
+    },
+    {
+      "id": "128126",
+      "name": "婦女服務-新住民社區服務據點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e0db706f-54b2-4f03-83f2-13ae675562b1",
+        "https://data.kcg.gov.tw/File/DirectDownload/e0db706f-54b2-4f03-83f2-13ae675562b1"
+      ]
+    },
+    {
+      "id": "128127",
+      "name": "婦女服務-單親家園",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a6336c6d-507e-4faa-a4cd-5b602e0d704c",
+        "https://data.kcg.gov.tw/File/DirectDownload/a6336c6d-507e-4faa-a4cd-5b602e0d704c"
+      ]
+    },
+    {
+      "id": "128129",
+      "name": "婦女服務-婦女福利機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/be348c69-b70e-4a70-97e8-26b23a570d8e",
+        "https://data.kcg.gov.tw/File/DirectDownload/be348c69-b70e-4a70-97e8-26b23a570d8e"
+      ]
+    },
+    {
+      "id": "128150",
+      "name": "身心障礙者服務-綜合性身心障礙福利服務機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6bff785e-a479-43d4-b3b1-732d16ff2980",
+        "https://data.kcg.gov.tw/File/DirectDownload/6bff785e-a479-43d4-b3b1-732d16ff2980"
+      ]
+    },
+    {
+      "id": "128155",
+      "name": "身心障礙者服務-社區作業設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ce82cf75-b61d-426c-9d7d-ea6ffd3aae14",
+        "https://data.kcg.gov.tw/File/DirectDownload/ce82cf75-b61d-426c-9d7d-ea6ffd3aae14"
+      ]
+    },
+    {
+      "id": "128156",
+      "name": "身心障礙者服務-身心障礙福利社團",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1abc0bdc-ea80-4c4d-87e6-b2021cdef6b3",
+        "https://data.kcg.gov.tw/File/DirectDownload/1abc0bdc-ea80-4c4d-87e6-b2021cdef6b3"
+      ]
+    },
+    {
+      "id": "128163",
+      "name": "早期療育服務-復健醫療院所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/da3965e9-0754-42a9-ba70-9a9b6f9e3697",
+        "https://data.kcg.gov.tw/File/DirectDownload/da3965e9-0754-42a9-ba70-9a9b6f9e3697"
+      ]
+    },
+    {
+      "id": "128174",
+      "name": "人民團體-環保團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/01c9f163-015a-4a9d-96e0-d56bbbf70bfc",
+        "https://data.kcg.gov.tw/File/DirectDownload/01c9f163-015a-4a9d-96e0-d56bbbf70bfc"
+      ]
+    },
+    {
+      "id": "128176",
+      "name": "人民團體-經濟業務團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8b3b292c-6917-493a-bfb3-71ede05d4765",
+        "https://data.kcg.gov.tw/File/DirectDownload/8b3b292c-6917-493a-bfb3-71ede05d4765"
+      ]
+    },
+    {
+      "id": "128181",
+      "name": "人民團體-社會服務及慈善團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/93a27634-3da7-4b05-bc47-614d264cb595",
+        "https://data.kcg.gov.tw/File/DirectDownload/93a27634-3da7-4b05-bc47-614d264cb595"
+      ]
+    },
+    {
+      "id": "128183",
+      "name": "人民團體-宗教團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/963920c6-d76d-4366-8baa-42e0ab7fc859",
+        "https://data.kcg.gov.tw/File/DirectDownload/963920c6-d76d-4366-8baa-42e0ab7fc859"
+      ]
+    },
+    {
+      "id": "128105",
+      "name": "銀髮族服務-高齡學習機構-勞工大學",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7b927653-5ac3-43fe-a4c1-3d2860d4d3b4",
+        "https://data.kcg.gov.tw/File/DirectDownload/7b927653-5ac3-43fe-a4c1-3d2860d4d3b4"
+      ]
+    },
+    {
+      "id": "128106",
+      "name": "銀髮族服務-高齡學習機構-部落大學",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2f9c89f6-3afd-4e68-8f70-8e3b9266cda8",
+        "https://data.kcg.gov.tw/File/DirectDownload/2f9c89f6-3afd-4e68-8f70-8e3b9266cda8"
+      ]
+    },
+    {
+      "id": "128108",
+      "name": "銀髮族服務-高齡學習機構-空中大學",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1e73cefb-ed5c-433a-b366-6a63d4a38c80",
+        "https://data.kcg.gov.tw/File/DirectDownload/1e73cefb-ed5c-433a-b366-6a63d4a38c80"
+      ]
+    },
+    {
+      "id": "128133",
+      "name": "高雄市兒童及少年服務-高雄市兒童福利服務中心及育兒資源中心（含據點）",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/80416ece-a165-45bd-9514-9d6f3b205363",
+        "https://data.kcg.gov.tw/File/DirectDownload/80416ece-a165-45bd-9514-9d6f3b205363"
+      ]
+    },
+    {
+      "id": "128139",
+      "name": "社會救助-實物銀行",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/765f73d8-9e6d-40e0-a478-f2cca22a2d24",
+        "https://data.kcg.gov.tw/File/DirectDownload/765f73d8-9e6d-40e0-a478-f2cca22a2d24"
+      ]
+    },
+    {
+      "id": "128140",
+      "name": "社會救助-街友服務場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f86dbca2-f611-4553-84a5-e3b793780626",
+        "https://data.kcg.gov.tw/File/DirectDownload/f86dbca2-f611-4553-84a5-e3b793780626"
+      ]
+    },
+    {
+      "id": "128144",
+      "name": "兒童及少年服務-家庭寄養(服務據點)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8bab9ba3-a950-4cf9-b5a7-cc985d386789",
+        "https://data.kcg.gov.tw/File/DirectDownload/8bab9ba3-a950-4cf9-b5a7-cc985d386789"
+      ]
+    },
+    {
+      "id": "128147",
+      "name": "兒童及少年服務-收出養服務機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/67a7b45d-f9a0-4562-b227-316c72ac29c7",
+        "https://data.kcg.gov.tw/File/DirectDownload/67a7b45d-f9a0-4562-b227-316c72ac29c7"
+      ]
+    },
+    {
+      "id": "128148",
+      "name": "身心障礙者服務-樂活補給站",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1222f373-49b3-41e5-8bc6-fadd87038424",
+        "https://data.kcg.gov.tw/File/DirectDownload/1222f373-49b3-41e5-8bc6-fadd87038424"
+      ]
+    },
+    {
+      "id": "128114",
+      "name": "銀髮族服務-社區照顧關懷據點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d21c0e49-ebd7-4661-828f-af7bb7467126",
+        "https://data.kcg.gov.tw/File/DirectDownload/d21c0e49-ebd7-4661-828f-af7bb7467126"
+      ]
+    },
+    {
+      "id": "128116",
+      "name": "銀髮族服務-私立老人養護機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f1dc5f0b-033f-4fea-9e6c-f572594a3084",
+        "https://data.kcg.gov.tw/File/DirectDownload/f1dc5f0b-033f-4fea-9e6c-f572594a3084"
+      ]
+    },
+    {
+      "id": "128119",
+      "name": "銀髮族服務-多元照顧中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/96db6485-ae9b-4597-be39-7092111c9480",
+        "https://data.kcg.gov.tw/File/DirectDownload/96db6485-ae9b-4597-be39-7092111c9480"
+      ]
+    },
+    {
+      "id": "128125",
+      "name": "婦女服務-新住民家庭服務中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/be191399-042e-48a7-a559-15876a0c676f",
+        "https://data.kcg.gov.tw/File/DirectDownload/be191399-042e-48a7-a559-15876a0c676f"
+      ]
+    },
+    {
+      "id": "128130",
+      "name": "高雄市銀髮族服務-高齡學習機構-樂齡大學",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/94fcde07-2b94-4b8e-9b06-50b9d45adb47",
+        "https://data.kcg.gov.tw/File/DirectDownload/94fcde07-2b94-4b8e-9b06-50b9d45adb47"
+      ]
+    },
+    {
+      "id": "128169",
+      "name": "合作社服務-公用合作社",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5c7da6cd-2367-4f12-8b26-13cdf981f236",
+        "https://data.kcg.gov.tw/File/DirectDownload/5c7da6cd-2367-4f12-8b26-13cdf981f236"
+      ]
+    },
+    {
+      "id": "128170",
+      "name": "合作社服務-工業合作社",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e3c79c55-fea4-4fc3-a038-2d8fe7887c4c",
+        "https://data.kcg.gov.tw/File/DirectDownload/e3c79c55-fea4-4fc3-a038-2d8fe7887c4c"
+      ]
+    },
+    {
+      "id": "128171",
+      "name": "本市各區公所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/52d03227-e630-4519-bb60-99697bc7bdf6",
+        "https://data.kcg.gov.tw/File/DirectDownload/52d03227-e630-4519-bb60-99697bc7bdf6"
+      ]
+    },
+    {
+      "id": "128172",
+      "name": "人民團體-體育團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3c723ca-53a4-472a-ade3-55f723b27d91",
+        "https://data.kcg.gov.tw/File/DirectDownload/a3c723ca-53a4-472a-ade3-55f723b27d91"
+      ]
+    },
+    {
+      "id": "128173",
+      "name": "人民團體-醫療衛生團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d5c36c22-6d60-4e20-99b3-9b49a4d38bf8",
+        "https://data.kcg.gov.tw/File/DirectDownload/d5c36c22-6d60-4e20-99b3-9b49a4d38bf8"
+      ]
+    },
+    {
+      "id": "128179",
+      "name": "人民團體-商業團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e273c33f-3508-4c5f-942b-dfaa672becaa",
+        "https://data.kcg.gov.tw/File/DirectDownload/e273c33f-3508-4c5f-942b-dfaa672becaa"
+      ]
+    },
+    {
+      "id": "128180",
+      "name": "人民團體-校友會",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/527b7bf9-3755-4b73-b8e2-a6d33798ef38",
+        "https://data.kcg.gov.tw/File/DirectDownload/527b7bf9-3755-4b73-b8e2-a6d33798ef38"
+      ]
+    },
+    {
+      "id": "128153",
+      "name": "身心障礙者服務-家庭托顧據點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/08341719-bbeb-4ecd-909c-3d81218210b9",
+        "https://data.kcg.gov.tw/File/DirectDownload/08341719-bbeb-4ecd-909c-3d81218210b9"
+      ]
+    },
+    {
+      "id": "128154",
+      "name": "身心障礙者服務-社區居住家園",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dd12b8ac-fb7a-4127-9c52-e8e83c6ec7f6",
+        "https://data.kcg.gov.tw/File/DirectDownload/dd12b8ac-fb7a-4127-9c52-e8e83c6ec7f6"
+      ]
+    },
+    {
+      "id": "128157",
+      "name": "身心障礙者服務-庇護工場",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/14f3d273-0e98-4a31-8e19-4f66003416be",
+        "https://data.kcg.gov.tw/File/DirectDownload/14f3d273-0e98-4a31-8e19-4f66003416be"
+      ]
+    },
+    {
+      "id": "128159",
+      "name": "身心障礙者服務-全日型住宿機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eb608d9a-84a2-4102-8072-d0c9b459f783",
+        "https://data.kcg.gov.tw/File/DirectDownload/eb608d9a-84a2-4102-8072-d0c9b459f783"
+      ]
+    },
+    {
+      "id": "128165",
+      "name": "早期療育服務-兒童發展聯合評估中心與評估醫院",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/155f9255-a0f1-4aee-9bc5-70ac1483b95f",
+        "https://data.kcg.gov.tw/File/DirectDownload/155f9255-a0f1-4aee-9bc5-70ac1483b95f"
+      ]
+    },
+    {
+      "id": "128167",
+      "name": "合作社服務-消費合作社",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/217898a5-25e6-4f7a-ae4c-3e817fc52c84",
+        "https://data.kcg.gov.tw/File/DirectDownload/217898a5-25e6-4f7a-ae4c-3e817fc52c84"
+      ]
+    },
+    {
+      "id": "128168",
+      "name": "合作社服務-社區合作社",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e591aaf7-ee56-4e47-8870-d7cdf29b536b",
+        "https://data.kcg.gov.tw/File/DirectDownload/e591aaf7-ee56-4e47-8870-d7cdf29b536b"
+      ]
+    },
+    {
+      "id": "128070",
+      "name": "高雄市人民團體-自由職業團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bb0a1bce-2556-417e-bd15-7080adad05a0",
+        "https://data.kcg.gov.tw/File/DirectDownload/bb0a1bce-2556-417e-bd15-7080adad05a0"
+      ]
+    },
+    {
+      "id": "128101",
+      "name": "嬰幼兒托育服務-居家托育服務中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b675c71e-d73e-4118-8f60-dfd696e895ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/b675c71e-d73e-4118-8f60-dfd696e895ac"
+      ]
+    },
+    {
+      "id": "128104",
+      "name": "銀髮族服務-高齡學習機構-樂齡中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b32aac9a-62e0-4cd6-b7a8-9606a3a7194a",
+        "https://data.kcg.gov.tw/File/DirectDownload/b32aac9a-62e0-4cd6-b7a8-9606a3a7194a"
+      ]
+    },
+    {
+      "id": "128107",
+      "name": "銀髮族服務-高齡學習機構-長青學苑",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/729ae156-df95-4d6d-94ff-cf9995962162",
+        "https://data.kcg.gov.tw/File/DirectDownload/729ae156-df95-4d6d-94ff-cf9995962162"
+      ]
+    },
+    {
+      "id": "128109",
+      "name": "銀髮族服務-高齡學習機構-松年大學",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3f390418-0d6a-43ce-b20c-abb8cde876a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/3f390418-0d6a-43ce-b20c-abb8cde876a7"
+      ]
+    },
+    {
+      "id": "128112",
+      "name": "銀髮族服務-社區整體照顧服務體系_C",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/11fc59f5-ba8d-4424-b0bc-ad7993d60982",
+        "https://data.kcg.gov.tw/File/DirectDownload/11fc59f5-ba8d-4424-b0bc-ad7993d60982"
+      ]
+    },
+    {
+      "id": "128113",
+      "name": "銀髮族服務-社區整體照顧服務體系_A",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/60c431ba-2036-4a5e-a981-d16804b5c2a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/60c431ba-2036-4a5e-a981-d16804b5c2a7"
+      ]
+    },
+    {
+      "id": "128115",
+      "name": "銀髮族服務-居家長照機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/59ac925f-10dd-42f7-a540-ab6c4218b93d",
+        "https://data.kcg.gov.tw/File/DirectDownload/59ac925f-10dd-42f7-a540-ab6c4218b93d"
+      ]
+    },
+    {
+      "id": "128117",
+      "name": "銀髮族服務-老人活動中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/642c0465-8e24-4bc9-9ce4-672b2cb2012f",
+        "https://data.kcg.gov.tw/File/DirectDownload/642c0465-8e24-4bc9-9ce4-672b2cb2012f"
+      ]
+    },
+    {
+      "id": "128121",
+      "name": "銀髮族服務-日間托老",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed839563-f8d3-47f1-b397-f94a1395c360",
+        "https://data.kcg.gov.tw/File/DirectDownload/ed839563-f8d3-47f1-b397-f94a1395c360"
+      ]
+    },
+    {
+      "id": "128122",
+      "name": "銀髮族服務-公設民營養護機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8d0c14a8-5af0-45db-81ff-039e98e6e03c",
+        "https://data.kcg.gov.tw/File/DirectDownload/8d0c14a8-5af0-45db-81ff-039e98e6e03c"
+      ]
+    },
+    {
+      "id": "128123",
+      "name": "銀髮族服務-公立老人安養護機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b2dfb827-f607-451b-8b3c-3d23b66dddd8",
+        "https://data.kcg.gov.tw/File/DirectDownload/b2dfb827-f607-451b-8b3c-3d23b66dddd8"
+      ]
+    },
+    {
+      "id": "128128",
+      "name": "婦女服務-單親家庭服務據點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8be9fb4b-2337-4970-9b15-33cce227bd24",
+        "https://data.kcg.gov.tw/File/DirectDownload/8be9fb4b-2337-4970-9b15-33cce227bd24"
+      ]
+    },
+    {
+      "id": "128151",
+      "name": "身心障礙者服務-精神障礙者生活重建服務據點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/deb2e09c-06b5-4eae-8247-955586e10d51",
+        "https://data.kcg.gov.tw/File/DirectDownload/deb2e09c-06b5-4eae-8247-955586e10d51"
+      ]
+    },
+    {
+      "id": "128152",
+      "name": "身心障礙者服務-視覺障礙者社會重建中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ceddaec2-5a76-4225-a8e1-4b3e71bba19b",
+        "https://data.kcg.gov.tw/File/DirectDownload/ceddaec2-5a76-4225-a8e1-4b3e71bba19b"
+      ]
+    },
+    {
+      "id": "128158",
+      "name": "身心障礙者服務-全日型兼日間型生活重建機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e25b54cd-2c6c-4afb-841a-a6436073cd69",
+        "https://data.kcg.gov.tw/File/DirectDownload/e25b54cd-2c6c-4afb-841a-a6436073cd69"
+      ]
+    },
+    {
+      "id": "128160",
+      "name": "身心障礙者服務-日間照顧據點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2ff4aa05-3a8d-4742-9403-e8d530ab14e2",
+        "https://data.kcg.gov.tw/File/DirectDownload/2ff4aa05-3a8d-4742-9403-e8d530ab14e2"
+      ]
+    },
+    {
+      "id": "128161",
+      "name": "身心障礙者服務-日間服務機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8132aaad-0b28-460e-9a11-26999c052c59",
+        "https://data.kcg.gov.tw/File/DirectDownload/8132aaad-0b28-460e-9a11-26999c052c59"
+      ]
+    },
+    {
+      "id": "128162",
+      "name": "志願服務推展-志願服務資源中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/33b85c2c-214c-473f-b45b-6f85b1b0edf8",
+        "https://data.kcg.gov.tw/File/DirectDownload/33b85c2c-214c-473f-b45b-6f85b1b0edf8"
+      ]
+    },
+    {
+      "id": "128164",
+      "name": "早期療育服務-個案管理中心及早期療育中心（據點）",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8dbb75fb-871c-4f15-9518-62a0c09292c0",
+        "https://data.kcg.gov.tw/File/DirectDownload/8dbb75fb-871c-4f15-9518-62a0c09292c0"
+      ]
+    },
+    {
+      "id": "128166",
+      "name": "早期療育服務-身心障礙、發展遲緩兒童訓練機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/99b58ecc-281a-453f-90f0-c02ede8a1dee",
+        "https://data.kcg.gov.tw/File/DirectDownload/99b58ecc-281a-453f-90f0-c02ede8a1dee"
+      ]
+    },
+    {
+      "id": "128134",
+      "name": "家庭暴力及性侵害防治服務-駐臺灣高雄地方法院家暴事件服務處",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/755069b9-1209-4062-9312-73343b4dc9ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/755069b9-1209-4062-9312-73343b4dc9ff"
+      ]
+    },
+    {
+      "id": "128141",
+      "name": "社會救助-國民年金辦事處",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/28fb4f56-8bc5-41bd-acca-169629e6fc52",
+        "https://data.kcg.gov.tw/File/DirectDownload/28fb4f56-8bc5-41bd-acca-169629e6fc52"
+      ]
+    },
+    {
+      "id": "128142",
+      "name": "社會救助-災民避難收容處所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9c33d5ae-821c-4fae-80dc-ff7b2f7a2ef2",
+        "https://data.kcg.gov.tw/File/DirectDownload/9c33d5ae-821c-4fae-80dc-ff7b2f7a2ef2"
+      ]
+    },
+    {
+      "id": "128143",
+      "name": "兒童及少年服務-弱勢兒少社區照顧服務據點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/28519c2d-eaf3-4ad8-958a-548ff25f79bd",
+        "https://data.kcg.gov.tw/File/DirectDownload/28519c2d-eaf3-4ad8-958a-548ff25f79bd"
+      ]
+    },
+    {
+      "id": "128146",
+      "name": "兒童及少年服務-兒童及少年服務機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03b39ccd-263d-4199-afc9-c3b836db4972",
+        "https://data.kcg.gov.tw/File/DirectDownload/03b39ccd-263d-4199-afc9-c3b836db4972"
+      ]
+    },
+    {
+      "id": "128175",
+      "name": "人民團體-學術文化團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d2d358de-048c-4e52-889b-6681b9dac348",
+        "https://data.kcg.gov.tw/File/DirectDownload/d2d358de-048c-4e52-889b-6681b9dac348"
+      ]
+    },
+    {
+      "id": "128178",
+      "name": "人民團體-國際團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5119ee8d-8d34-44ab-86b3-403d8836af45",
+        "https://data.kcg.gov.tw/File/DirectDownload/5119ee8d-8d34-44ab-86b3-403d8836af45"
+      ]
+    },
+    {
+      "id": "128182",
+      "name": "人民團體-宗親會",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fd6b3eca-d7d4-49cc-b3c7-e935e9024164",
+        "https://data.kcg.gov.tw/File/DirectDownload/fd6b3eca-d7d4-49cc-b3c7-e935e9024164"
+      ]
+    }
+  ]
+}
