@@ -58,6 +58,11 @@ tw-odc dataset --dir <provider_slug> check --id <dataset_id>
 tw-odc dataset --dir <provider_slug> score
 tw-odc dataset --dir <provider_slug> score --id <dataset_id>
 
+# View raw dataset content (pipe to grep/jq/head)
+tw-odc dataset --dir <provider_slug> view --id <dataset_id>
+tw-odc dataset --dir <provider_slug> view --id <dataset_id> | grep 關鍵字
+tw-odc dataset --dir <provider_slug> view --id <dataset_id> | jq '.'
+
 # Clean downloaded files
 tw-odc dataset --dir <provider_slug> clean
 
@@ -156,6 +161,7 @@ The JSON export is the input for creating provider manifests. The daily-changed 
 - **RFC 6902 patches**: Provider-specific manifest adjustments via `patch.json`
 - **Stable filenames for parameterized datasets**: `params` affect URL template substitution only; filenames are always `{id}.{format}` regardless of resolved param values
 - **ETag bypass for parameterized datasets**: Parameterized downloads always bypass conditional requests and are never written to the ETag cache; cache entries are only removed for parameterized URLs downloaded in the current run (older entries may remain)
+- **Unix philosophy for data viewing**: `dataset view` outputs raw file content to stdout without parsing; use external tools (`grep`, `jq`, `head`) for filtering/formatting. Multi-file datasets print filenames to stderr to keep stdout clean for piping
 
 ## Plans (RFC-style)
 
