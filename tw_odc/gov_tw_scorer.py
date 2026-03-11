@@ -265,3 +265,70 @@ class GovTwScore:
             "total_count": self.total_count,
             "issues": self.issues,
         }
+
+
+# Formats where encoding check is meaningful (text-based structured formats)
+_TEXT_STRUCTURED_FORMATS = {"csv", "json", "xml"}
+
+
+def gov_tw_score_dataset(
+    inspection: InspectionResult,
+    metadata: dict | None,
+    datasets_dir: Path | None,
+) -> GovTwScore:
+    """Score a dataset using the gov-tw quality indicators.
+
+    Args:
+        inspection: InspectionResult from inspector.
+        metadata: Raw export-json entry for this dataset (may be None).
+        datasets_dir: Path to datasets/ directory (for reading file content).
+    """
+    meta = metadata or {}
+
+    # Indicators 1-3: based on inspection only
+    link_valid = check_link_valid(inspection)
+    direct_download = check_direct_download(inspection)
+    structured = check_structured(inspection.detected_formats)
+
+    # Determine primary format and file path for content-based checks
+    real_formats = [f for f in inspection.detected_formats if f not in ("missing", "empty")]
+    primary_fmt = real_formats[0] if real_formats else None
+    file_path = None
+    if datasets_dir and primary_fmt:
+        file_path = datasets_dir / f"{inspection.dataset_id}.{inspection.declared_format}"
+        if not file_path.exists():
+            file_path = None
+
+    # Indicators 4-6 require metadata; skip if not provided
+    encoding_match: bool | None = None
+    fields_match: bool | None = None
+    update_timeliness: bool | None = None
+
+    if metadata is not None:
+        # Indicator 4: encoding match (text structured only)
+        if structured and primary_fmt in _TEXT_STRUCTURED_FORMATS and file_path:
+            encoding_match = check_encoding_match(file_path, meta.get("編碼格式", ""))
+
+        # Indicator 5: fields match
+        if structured and primary_fmt in _FIELD_MATCH_FORMATS and file_path:
+            fields_match = check_fields_match(
+                file_path, primary_fmt, meta.get("主要欄位說明", "")
+            )
+
+        # Indicator 6: update timeliness
+        update_timeliness = check_update_timeliness(
+            meta.get("更新頻率", ""),
+            meta.get("詮釋資料更新時間", ""),
+        )
+
+    return GovTwScore(
+        dataset_id=inspection.dataset_id,
+        dataset_name=inspection.dataset_name,
+        link_valid=link_valid,
+        direct_download=direct_download,
+        structured=structured,
+        encoding_match=encoding_match,
+        fields_match=fields_match,
+        update_timeliness=update_timeliness,
+        issues=list(inspection.issues),
+    )

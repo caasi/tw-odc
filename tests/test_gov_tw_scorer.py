@@ -10,6 +10,7 @@ from tw_odc.gov_tw_scorer import (
     check_encoding_match,
     check_fields_match,
     check_update_timeliness,
+    gov_tw_score_dataset,
     parse_field_description,
     parse_update_frequency,
 )
@@ -238,3 +239,78 @@ class TestCheckUpdateTimeliness:
         now = datetime.datetime(2026, 3, 11, tzinfo=datetime.timezone.utc)
         last_update = "2025-12-01 00:00:00.000000"
         assert check_update_timeliness("每1月", last_update, now=now) is False
+
+
+class TestGovTwScoreDataset:
+    def test_full_pass_csv(self, tmp_path):
+        """CSV dataset with matching metadata scores all True."""
+        datasets_dir = tmp_path / "datasets"
+        datasets_dir.mkdir()
+        f = datasets_dir / "1001.csv"
+        f.write_text("名稱,數值\na,1\n", encoding="utf-8")
+
+        inspection = InspectionResult(
+            dataset_id="1001", dataset_name="Test CSV",
+            declared_format="csv", detected_formats=["csv"],
+            file_exists=True, file_empty=False,
+        )
+        metadata = {
+            "編碼格式": "UTF-8",
+            "主要欄位說明": "名稱、數值",
+            "更新頻率": "每1月",
+            "詮釋資料更新時間": "2026-03-10 00:00:00.000000",
+        }
+        score = gov_tw_score_dataset(inspection, metadata, datasets_dir)
+        assert score.link_valid is True
+        assert score.direct_download is True
+        assert score.structured is True
+        assert score.encoding_match is True
+        assert score.fields_match is True
+        assert score.pass_count >= 5
+        d = score.to_dict()
+        assert d["method"] == "gov-tw"
+
+    def test_missing_file_all_false_or_none(self):
+        """Missing file → link_valid=False, most others None."""
+        inspection = InspectionResult(
+            dataset_id="1001", dataset_name="Test",
+            declared_format="csv", detected_formats=["missing"],
+            file_exists=False, file_empty=False,
+        )
+        score = gov_tw_score_dataset(inspection, {}, None)
+        assert score.link_valid is False
+        assert score.direct_download is False
+        assert score.structured is False
+        assert score.pass_count == 0
+
+    def test_no_metadata_returns_none_for_metadata_indicators(self, tmp_path):
+        """Without metadata, encoding/fields/timeliness should be None."""
+        datasets_dir = tmp_path / "datasets"
+        datasets_dir.mkdir()
+        f = datasets_dir / "1001.csv"
+        f.write_text("a,b\n1,2\n", encoding="utf-8")
+
+        inspection = InspectionResult(
+            dataset_id="1001", dataset_name="Test",
+            declared_format="csv", detected_formats=["csv"],
+            file_exists=True, file_empty=False,
+        )
+        score = gov_tw_score_dataset(inspection, None, datasets_dir)
+        assert score.link_valid is True
+        assert score.encoding_match is None
+        assert score.fields_match is None
+        assert score.update_timeliness is None
+
+    def test_pdf_not_structured(self, tmp_path):
+        datasets_dir = tmp_path / "datasets"
+        datasets_dir.mkdir()
+        (datasets_dir / "1001.pdf").write_bytes(b"%PDF-1.4")
+
+        inspection = InspectionResult(
+            dataset_id="1001", dataset_name="PDF Report",
+            declared_format="pdf", detected_formats=["pdf"],
+            file_exists=True, file_empty=False,
+        )
+        score = gov_tw_score_dataset(inspection, {}, datasets_dir)
+        assert score.structured is False
+        assert score.encoding_match is None  # non-structured → None
