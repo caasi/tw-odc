@@ -1,0 +1,39 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府捷運工程局",
+  "slug": "newdatacenter_taichung_gov_tw_923fb362",
+  "datasets": [
+    {
+      "id": "176702",
+      "name": "臺中都會區大眾捷運系統藍線建設計畫大事紀 (機電科業務範圍)",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a3f0809e-2870-4387-82fc-3dfa5e67a830"
+      ]
+    },
+    {
+      "id": "176704",
+      "name": "臺中市捷運用地取得作業",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=be74b87a-05f2-457b-ae14-95247a5ac03b"
+      ]
+    },
+    {
+      "id": "176705",
+      "name": "臺中市捷運土地開發作業",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=79ed39f8-9e55-4e5d-a39d-0bdc9618213b"
+      ]
+    },
+    {
+      "id": "176703",
+      "name": "臺中市捷運路網說明",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b0457746-d2ed-4af2-b1de-527bdee680bb"
+      ]
+    }
+  ]
+}

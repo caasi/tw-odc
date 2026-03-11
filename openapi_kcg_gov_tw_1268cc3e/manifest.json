@@ -1,0 +1,34 @@
+{
+  "type": "dataset",
+  "provider": "高雄市阿蓮區公所",
+  "slug": "openapi_kcg_gov_tw_1268cc3e",
+  "datasets": [
+    {
+      "id": "166372",
+      "name": "阿蓮區天然災害災民避難收容處所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6e528700-26ba-463c-a166-ba46b94e9b97",
+        "https://data.kcg.gov.tw/File/DirectDownload/6e528700-26ba-463c-a166-ba46b94e9b97"
+      ]
+    },
+    {
+      "id": "166440",
+      "name": "高雄市阿蓮區公所108年鄰長名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/899fd819-2d82-46c2-bceb-57fa89a69e65",
+        "https://data.kcg.gov.tw/File/DirectDownload/899fd819-2d82-46c2-bceb-57fa89a69e65"
+      ]
+    },
+    {
+      "id": "166442",
+      "name": "機關組織-里辦公室",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/33eb3e7f-7539-4d28-b005-d6ddbb97989b",
+        "https://data.kcg.gov.tw/File/DirectDownload/33eb3e7f-7539-4d28-b005-d6ddbb97989b"
+      ]
+    }
+  ]
+}

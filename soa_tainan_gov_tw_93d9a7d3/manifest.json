@@ -1,0 +1,2351 @@
+{
+  "type": "dataset",
+  "provider": "臺南市政府環境保護局",
+  "slug": "soa_tainan_gov_tw_93d9a7d3",
+  "datasets": [
+    {
+      "id": "7000",
+      "name": "臺南市機車定檢站地址",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3df9fc7d-ffb7-4a3c-812b-e4e3e9c9fec8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3df9fc7d-ffb7-4a3c-812b-e4e3e9c9fec8"
+      ]
+    },
+    {
+      "id": "7001",
+      "name": "臺南市電動機車充電站址",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/cc646133-1df1-482e-8237-a11ba94f209e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cc646133-1df1-482e-8237-a11ba94f209e"
+      ]
+    },
+    {
+      "id": "7002",
+      "name": "臺南市病媒防治業者名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b556f68b-9be1-4296-9678-824bceafc7e1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b556f68b-9be1-4296-9678-824bceafc7e1"
+      ]
+    },
+    {
+      "id": "53288",
+      "name": "臺南市空氣中總懸浮微粒及落塵量檢驗結果(106-109年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/195540aa-56b7-426f-83c7-2203ddfba866",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/195540aa-56b7-426f-83c7-2203ddfba866",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d8cc1a73-b644-4640-849f-37b2982190db",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d8cc1a73-b644-4640-849f-37b2982190db",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a96af2ab-7ed4-4cb7-a2dc-95b4a0d029ac",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a96af2ab-7ed4-4cb7-a2dc-95b4a0d029ac",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5de4a82e-62b8-4f84-a6fd-a12b9b84e533",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5de4a82e-62b8-4f84-a6fd-a12b9b84e533"
+      ]
+    },
+    {
+      "id": "53289",
+      "name": "臺南市空氣品質淨化區資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/98399aa8-53a0-44c5-a114-a78cf20ccc1b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/98399aa8-53a0-44c5-a114-a78cf20ccc1b"
+      ]
+    },
+    {
+      "id": "53282",
+      "name": "臺南市河川水質監測資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/46949683-90a5-4604-ae30-12a3b0835c90",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/46949683-90a5-4604-ae30-12a3b0835c90"
+      ]
+    },
+    {
+      "id": "53283",
+      "name": "臺南市海洋水質監測資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/534692d8-cc58-4b5d-9971-e58931c3c9a7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/534692d8-cc58-4b5d-9971-e58931c3c9a7"
+      ]
+    },
+    {
+      "id": "53284",
+      "name": "臺南市藏金閣平日商品瀏覽區清單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b4e1926b-219c-4b67-b357-bb9dd6bac024",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b4e1926b-219c-4b67-b357-bb9dd6bac024"
+      ]
+    },
+    {
+      "id": "53285",
+      "name": "臺南市環保局有機培養土兌換資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ea32bcce-ebdf-444b-b4c3-8bcbce4851b2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ea32bcce-ebdf-444b-b4c3-8bcbce4851b2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/63169b56-cf39-4e83-9082-e31d0ce68169",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/63169b56-cf39-4e83-9082-e31d0ce68169"
+      ]
+    },
+    {
+      "id": "53371",
+      "name": "臺南市連續自動監測設施CEMS監測數據",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/bf38861c-466b-4c1e-9c7a-339576215bce",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bf38861c-466b-4c1e-9c7a-339576215bce",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dd6db80d-402f-4960-a7b4-d492db4ca944",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dd6db80d-402f-4960-a7b4-d492db4ca944",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2635e46d-6d40-4d0c-8fb8-d773044b5fdb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2635e46d-6d40-4d0c-8fb8-d773044b5fdb"
+      ]
+    },
+    {
+      "id": "53372",
+      "name": "臺南市非包裝飲用水檢驗收費標準",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/310bc5f9-84ca-4458-a29e-25dfd5c80ead",
+        "https://soa.tainan.gov.tw/Api/Service/Get/310bc5f9-84ca-4458-a29e-25dfd5c80ead"
+      ]
+    },
+    {
+      "id": "53396",
+      "name": "臺南市環保志義工環境清潔執行成果",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/53999dec-ffa0-4096-827c-14a6a7d8528d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/53999dec-ffa0-4096-827c-14a6a7d8528d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c70040ec-8c0c-486d-b923-4ac57ec66c8d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c70040ec-8c0c-486d-b923-4ac57ec66c8d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/65e58f28-3322-481c-8a4c-4d54590c6094",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/65e58f28-3322-481c-8a4c-4d54590c6094",
+        "https://soa.tainan.gov.tw/Api/Service/Get/19e1e8b1-87af-4300-aaa0-5661aa66ccf3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/19e1e8b1-87af-4300-aaa0-5661aa66ccf3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/df2e17e5-d13d-4833-b32e-94a9e1a7faa9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/df2e17e5-d13d-4833-b32e-94a9e1a7faa9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/25885f95-6575-4301-adec-9b187f0ea052",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/25885f95-6575-4301-adec-9b187f0ea052",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4fff7a2f-a996-40a9-af37-cf6dc7bf2b2a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4fff7a2f-a996-40a9-af37-cf6dc7bf2b2a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fbaf49ef-9d2a-416d-a4eb-d5baf5c37383",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fbaf49ef-9d2a-416d-a4eb-d5baf5c37383"
+      ]
+    },
+    {
+      "id": "53603",
+      "name": "臺南市各區清潔隊聯絡資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/aabee48a-9dcc-4a0e-bd6d-355d73db025e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aabee48a-9dcc-4a0e-bd6d-355d73db025e"
+      ]
+    },
+    {
+      "id": "53604",
+      "name": "臺南市柴油車排煙動力檢測站",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/decee5ec-864f-4999-86cd-53cd72bf6d5b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/decee5ec-864f-4999-86cd-53cd72bf6d5b"
+      ]
+    },
+    {
+      "id": "53607",
+      "name": "臺南市事業廢棄物再利用機構登記資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/babd840b-d22f-432a-b62f-1a737dae3474",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/babd840b-d22f-432a-b62f-1a737dae3474"
+      ]
+    },
+    {
+      "id": "118114",
+      "name": "臺南市水質監測站基本資料表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7fc62564-9b91-4c73-ada6-17a5a95c01d8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7fc62564-9b91-4c73-ada6-17a5a95c01d8"
+      ]
+    },
+    {
+      "id": "118118",
+      "name": "臺南市環境教育機構",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/00bd8574-4622-4e6c-8f7d-e6d6dcbb064d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/00bd8574-4622-4e6c-8f7d-e6d6dcbb064d"
+      ]
+    },
+    {
+      "id": "118121",
+      "name": "臺南市綠色商店",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/29ea220f-93f1-4e9c-abb0-519cbd7b0168",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/29ea220f-93f1-4e9c-abb0-519cbd7b0168",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0211f70d-d692-48d7-9cdd-ec9a48c2ea5d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0211f70d-d692-48d7-9cdd-ec9a48c2ea5d"
+      ]
+    },
+    {
+      "id": "120876",
+      "name": "臺南市政府環境保護局對民間團體補(捐)助經費明細表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/049fd561-bce2-472c-9428-026b0d775847",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/049fd561-bce2-472c-9428-026b0d775847",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f933934d-4f1a-4802-a71a-48a82c2ebac2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f933934d-4f1a-4802-a71a-48a82c2ebac2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fe841489-edc6-4d50-a0fd-78c711fcfcf7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fe841489-edc6-4d50-a0fd-78c711fcfcf7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/09c1197c-fe3f-47a7-b5ba-8055b7bc3b9a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/09c1197c-fe3f-47a7-b5ba-8055b7bc3b9a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f313f891-e97e-4ab3-8b7f-ac9e0b1d6750",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f313f891-e97e-4ab3-8b7f-ac9e0b1d6750",
+        "https://soa.tainan.gov.tw/Api/Service/Get/598293a8-3572-45aa-9ce4-b00053f20ac4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/598293a8-3572-45aa-9ce4-b00053f20ac4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7271765e-8086-4510-8347-f8510f1998a7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7271765e-8086-4510-8347-f8510f1998a7"
+      ]
+    },
+    {
+      "id": "127728",
+      "name": "臺南市公害陳情案件告發裁處明細",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/47901078-adcc-48d4-8c6f-0f0f5a9a2a46",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/47901078-adcc-48d4-8c6f-0f0f5a9a2a46",
+        "https://soa.tainan.gov.tw/Api/Service/Get/126803c0-30d6-48c9-a89e-29d2a857f060",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/126803c0-30d6-48c9-a89e-29d2a857f060",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ceaadea0-dfd9-4801-8895-95b6ea85f8da",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ceaadea0-dfd9-4801-8895-95b6ea85f8da",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a4f94a4-f25b-47cc-9319-c93ef39d5f0b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3a4f94a4-f25b-47cc-9319-c93ef39d5f0b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/12386159-52d6-4c30-9238-e78b52d03215",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/12386159-52d6-4c30-9238-e78b52d03215",
+        "https://soa.tainan.gov.tw/Api/Service/Get/14ad86c3-f9b7-4f51-94ac-ed338baabd3b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/14ad86c3-f9b7-4f51-94ac-ed338baabd3b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4411c89e-d01b-46c3-b4ed-f0ea18fd6403",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4411c89e-d01b-46c3-b4ed-f0ea18fd6403"
+      ]
+    },
+    {
+      "id": "128566",
+      "name": "臺南市環保局各式清潔車輛機具統計",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/78977ba1-5fac-4180-8f11-44041c21e6d8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/78977ba1-5fac-4180-8f11-44041c21e6d8"
+      ]
+    },
+    {
+      "id": "128705",
+      "name": "臺南市環保志工隊資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/84df0be6-5d83-4c49-be09-f406e265d9ea",
+        "https://soa.tainan.gov.tw/Api/Service/GetJsonLd/84df0be6-5d83-4c49-be09-f406e265d9ea",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/84df0be6-5d83-4c49-be09-f406e265d9ea"
+      ]
+    },
+    {
+      "id": "128973",
+      "name": "臺南市環保局水質淨化場水質監測",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/73749f06-e266-4aee-bcf0-5972bcd2d77f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/73749f06-e266-4aee-bcf0-5972bcd2d77f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/14cc41a8-da4a-47fe-9d04-5e7ba110c2a1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/14cc41a8-da4a-47fe-9d04-5e7ba110c2a1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5f87667d-3180-4717-8857-7ba969913a06",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5f87667d-3180-4717-8857-7ba969913a06",
+        "https://soa.tainan.gov.tw/Api/Service/Get/403d8b5b-1eb5-4b81-adfd-845fb22158b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/403d8b5b-1eb5-4b81-adfd-845fb22158b8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/963273ac-4f55-4757-8c81-d29a60035a4f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/963273ac-4f55-4757-8c81-d29a60035a4f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a1471139-0e2d-4c5d-b068-fc94642e7934",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a1471139-0e2d-4c5d-b068-fc94642e7934"
+      ]
+    },
+    {
+      "id": "101813",
+      "name": "臺南市噪音監測站監測數據",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/249345fa-2f9b-4233-ba90-01bc10364d5d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/249345fa-2f9b-4233-ba90-01bc10364d5d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8917851e-d0f7-4c74-be05-05e685cd64ce",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8917851e-d0f7-4c74-be05-05e685cd64ce",
+        "https://soa.tainan.gov.tw/Api/Service/Get/895dc515-d959-45be-a48e-0c07caf65d2e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/895dc515-d959-45be-a48e-0c07caf65d2e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9e0ebe32-70f3-403a-aa47-0eabc86fa564",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9e0ebe32-70f3-403a-aa47-0eabc86fa564",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c3c4170a-8ac1-4374-9298-0f2c86f31bc6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c3c4170a-8ac1-4374-9298-0f2c86f31bc6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d56fa5d9-aae9-4bd4-a29c-10646d8cc4df",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d56fa5d9-aae9-4bd4-a29c-10646d8cc4df",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2896a37f-1905-4a5f-8983-1527b4845134",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2896a37f-1905-4a5f-8983-1527b4845134",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8ddd0336-2872-4cc4-8c70-29fc1a249fd7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8ddd0336-2872-4cc4-8c70-29fc1a249fd7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/be30b842-a621-40b4-8f5a-3a7283d1a9b2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/be30b842-a621-40b4-8f5a-3a7283d1a9b2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/43f90211-523c-4e6b-8a3d-3bbf9c35eb66",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/43f90211-523c-4e6b-8a3d-3bbf9c35eb66",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9ba0ab5f-582a-47b9-8de4-4bc0d27d8cc7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9ba0ab5f-582a-47b9-8de4-4bc0d27d8cc7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d02cec6c-4031-49c9-be87-4c5fe2602305",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d02cec6c-4031-49c9-be87-4c5fe2602305",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fdec6582-148a-4c25-9021-803c69f3647d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fdec6582-148a-4c25-9021-803c69f3647d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c3e42184-e255-4fa9-b104-88c6e5307c44",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c3e42184-e255-4fa9-b104-88c6e5307c44",
+        "https://soa.tainan.gov.tw/Api/Service/Get/76f7e3d3-176f-439d-ab02-913013143e17",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/76f7e3d3-176f-439d-ab02-913013143e17",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d27c27f5-fabf-450a-bcc2-92afde51f6ec",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d27c27f5-fabf-450a-bcc2-92afde51f6ec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4f4b4bff-3805-4255-8718-b4322059c18c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4f4b4bff-3805-4255-8718-b4322059c18c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5771d9d4-3764-47cd-b7e6-bba2bff6c118",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5771d9d4-3764-47cd-b7e6-bba2bff6c118",
+        "https://soa.tainan.gov.tw/Api/Service/Get/78bb6b0f-f1e5-4060-a5c2-bcc71d0c099d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/78bb6b0f-f1e5-4060-a5c2-bcc71d0c099d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6fa2f8f1-9bbe-4839-b4fe-cad8fc4e3777",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6fa2f8f1-9bbe-4839-b4fe-cad8fc4e3777",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5b75da8f-6b16-471e-a214-ce7ab31170fc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5b75da8f-6b16-471e-a214-ce7ab31170fc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4620c42c-dc53-471a-85e8-e4857724a532",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4620c42c-dc53-471a-85e8-e4857724a532",
+        "https://soa.tainan.gov.tw/Api/Service/Get/44497103-39cc-4304-8f79-f1c0b6750152",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/44497103-39cc-4304-8f79-f1c0b6750152",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c907df5c-d78b-4aa1-b5d4-f44fa712ab8e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c907df5c-d78b-4aa1-b5d4-f44fa712ab8e"
+      ]
+    },
+    {
+      "id": "129450",
+      "name": "臺南市一般環境衛生消毒期程表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2204a20b-cdc1-4257-bc66-1158b460be2c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5b281b2a-c403-43bd-af78-0482a3650812",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2204a20b-cdc1-4257-bc66-1158b460be2c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5b281b2a-c403-43bd-af78-0482a3650812"
+      ]
+    },
+    {
+      "id": "129451",
+      "name": "臺南市清溝疏濬業務報表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ab59c61e-4dbe-4a8c-bc83-84dd02b419a9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ab59c61e-4dbe-4a8c-bc83-84dd02b419a9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1975aac7-d110-4f58-9166-af24f891cb67",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1975aac7-d110-4f58-9166-af24f891cb67",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2b1550e8-4c4c-4f69-990e-bc72e19aacd0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2b1550e8-4c4c-4f69-990e-bc72e19aacd0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4fee6966-53a0-4e88-bb99-d16ec6615469",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4fee6966-53a0-4e88-bb99-d16ec6615469",
+        "https://soa.tainan.gov.tw/Api/Service/Get/038ab90f-ecf0-45a1-be75-f988776350f0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/038ab90f-ecf0-45a1-be75-f988776350f0"
+      ]
+    },
+    {
+      "id": "129457",
+      "name": "臺南市河川及海域水體測站",
+      "format": "shp",
+      "urls": [
+        "https://data.tainan.gov.tw/Resource/096a0b8c-34b5-404b-9bfa-06478ae3f742?fileId=221abf8e-fe53-4936-8256-36215386d66c&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "129836",
+      "name": "臺南市安定掩埋場地下水檢測報告(108年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1ad9f2e5-bcd9-4bec-b508-5e25c5869c29",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1ad9f2e5-bcd9-4bec-b508-5e25c5869c29",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f2609342-0924-43c4-a23c-92dccab36475",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f2609342-0924-43c4-a23c-92dccab36475",
+        "https://soa.tainan.gov.tw/Api/Service/Get/da90d3df-c362-42eb-b122-e93596671667",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/da90d3df-c362-42eb-b122-e93596671667",
+        "https://soa.tainan.gov.tw/Api/Service/Get/079efb11-8531-4c08-8669-f091384f306f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/079efb11-8531-4c08-8669-f091384f306f"
+      ]
+    },
+    {
+      "id": "129852",
+      "name": "臺南市南科特殊性工業區監測數據(108年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ca062cb2-88ef-4551-9d1b-0f98a3d82e17",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ca062cb2-88ef-4551-9d1b-0f98a3d82e17",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0d8ad479-9698-4095-b0cd-0fe916728abb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0d8ad479-9698-4095-b0cd-0fe916728abb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/af7fca91-9b93-4f67-9f6b-1088380b7005",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/af7fca91-9b93-4f67-9f6b-1088380b7005",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4d0cdb4a-190d-444a-b35c-655fdfee9ccc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4d0cdb4a-190d-444a-b35c-655fdfee9ccc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f68d8ca8-d556-411b-8243-7e443de9b152",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f68d8ca8-d556-411b-8243-7e443de9b152",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9d238444-d802-41e5-ad32-82ffa78aedac",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9d238444-d802-41e5-ad32-82ffa78aedac",
+        "https://soa.tainan.gov.tw/Api/Service/Get/28a251db-1cc6-42e1-9b28-a8cf2e79c6ea",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/28a251db-1cc6-42e1-9b28-a8cf2e79c6ea",
+        "https://soa.tainan.gov.tw/Api/Service/Get/96ef7448-1e23-4d45-8c6a-a8e07afdf0ee",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/96ef7448-1e23-4d45-8c6a-a8e07afdf0ee",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c20ead0d-51e3-424a-bd5d-b627c8c2a89b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c20ead0d-51e3-424a-bd5d-b627c8c2a89b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/672be723-16af-4ba0-94f7-e7ea6fe7de3d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/672be723-16af-4ba0-94f7-e7ea6fe7de3d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b4f5717c-36c5-45e7-b74b-f6b6f44cfb2e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b4f5717c-36c5-45e7-b74b-f6b6f44cfb2e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2fda4a7c-fe05-4a0b-a435-f71124f2813b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2fda4a7c-fe05-4a0b-a435-f71124f2813b"
+      ]
+    },
+    {
+      "id": "129853",
+      "name": "臺南市南科特殊性工業區監測數據(107年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b474b4f1-2603-4369-a2c0-1833ebf2d444",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b474b4f1-2603-4369-a2c0-1833ebf2d444",
+        "https://soa.tainan.gov.tw/Api/Service/Get/00d00a72-9f8b-4233-96c1-2c8fa038a4af",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/00d00a72-9f8b-4233-96c1-2c8fa038a4af",
+        "https://soa.tainan.gov.tw/Api/Service/Get/961996a0-1d29-427f-af4c-39f95d5fc489",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/961996a0-1d29-427f-af4c-39f95d5fc489",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d7245b0e-0860-497b-a76a-455c3a3a5148",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d7245b0e-0860-497b-a76a-455c3a3a5148",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b14b6518-2d0d-49c0-b00e-708ef02c7ba0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b14b6518-2d0d-49c0-b00e-708ef02c7ba0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1f4e4d7f-9a8d-4dc8-acf0-7f031e265c7e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1f4e4d7f-9a8d-4dc8-acf0-7f031e265c7e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/21e21c3b-916e-43a1-a9ab-a19ac5998c0a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/21e21c3b-916e-43a1-a9ab-a19ac5998c0a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/288ddf02-8f02-43a5-a882-bca66b493987",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/288ddf02-8f02-43a5-a882-bca66b493987",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c83440a0-6d94-45ed-b176-c8d1e286448b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c83440a0-6d94-45ed-b176-c8d1e286448b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ca3940f2-c061-4393-afa9-d3c43e58c386",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ca3940f2-c061-4393-afa9-d3c43e58c386",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b036e3e3-dcf9-4f44-8c9e-d5fa11ae38bd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b036e3e3-dcf9-4f44-8c9e-d5fa11ae38bd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/78969c24-2982-46fa-9512-fcfeeee411d0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/78969c24-2982-46fa-9512-fcfeeee411d0"
+      ]
+    },
+    {
+      "id": "129547",
+      "name": "臺南市SIGUREC大型資源智慧回收站",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/583af0c8-6a94-4d10-9702-9e0c6a3e22a8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/583af0c8-6a94-4d10-9702-9e0c6a3e22a8"
+      ]
+    },
+    {
+      "id": "129519",
+      "name": "臺南市微型感測器基本資料",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b3c10a18-6480-44ab-bf1a-59759aaf72d6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b3c10a18-6480-44ab-bf1a-59759aaf72d6"
+      ]
+    },
+    {
+      "id": "138969",
+      "name": "取得臺南市核發之廢食用油回收人員工作證者清冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ef3a361b-838d-43b0-8674-7c35b1644f55",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ef3a361b-838d-43b0-8674-7c35b1644f55"
+      ]
+    },
+    {
+      "id": "138668",
+      "name": "臺南市環境保護基金管理委員會委員名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/247995fb-179e-4fa1-b618-2a5530c2a6aa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/247995fb-179e-4fa1-b618-2a5530c2a6aa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1514d0d4-0931-4ea2-a6fe-a7d21d9c1df2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1514d0d4-0931-4ea2-a6fe-a7d21d9c1df2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0f22de89-b60b-4310-b4cf-f766d1c342b0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0f22de89-b60b-4310-b4cf-f766d1c342b0"
+      ]
+    },
+    {
+      "id": "138600",
+      "name": "臺南市政府環境影響評估審查委員會委員名冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/acb18ae9-5426-42be-bbba-149ea5d212bb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/acb18ae9-5426-42be-bbba-149ea5d212bb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aeb4dc4c-83d8-4e05-b74c-21f183e52580",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aeb4dc4c-83d8-4e05-b74c-21f183e52580",
+        "https://soa.tainan.gov.tw/Api/Service/Get/79450e69-c549-4aeb-aa5a-924692d31778",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/79450e69-c549-4aeb-aa5a-924692d31778"
+      ]
+    },
+    {
+      "id": "136983",
+      "name": "臺南市環境檢驗樣品分類統計(110年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/df3192e2-db9a-40f5-ab22-106b6c4e5b59",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/df3192e2-db9a-40f5-ab22-106b6c4e5b59",
+        "https://soa.tainan.gov.tw/Api/Service/Get/22208b5a-2876-42c7-a4a8-11efa06e1610",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/22208b5a-2876-42c7-a4a8-11efa06e1610",
+        "https://soa.tainan.gov.tw/Api/Service/Get/208f0d10-0261-4b34-a409-1f482d53c990",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/208f0d10-0261-4b34-a409-1f482d53c990",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e366b36f-838b-4b8a-9f1f-2ad36c39744c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e366b36f-838b-4b8a-9f1f-2ad36c39744c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cf0eca55-b395-487c-a755-2bcd2539dbdf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cf0eca55-b395-487c-a755-2bcd2539dbdf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5eda34df-0737-45d1-a553-328b3bb21841",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5eda34df-0737-45d1-a553-328b3bb21841",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3372c855-eaf0-4ee9-945a-4ddbf2475ed3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3372c855-eaf0-4ee9-945a-4ddbf2475ed3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ded83309-00d5-4b39-9d81-4f8670e3e461",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ded83309-00d5-4b39-9d81-4f8670e3e461",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6a5c9843-a9ca-45b6-9cc0-6213c9e28d2f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6a5c9843-a9ca-45b6-9cc0-6213c9e28d2f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b5abf719-492a-40ad-993b-6c5fb4387b7c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b5abf719-492a-40ad-993b-6c5fb4387b7c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fc997388-bcd7-47dc-bd5b-ac9889967545",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fc997388-bcd7-47dc-bd5b-ac9889967545",
+        "https://soa.tainan.gov.tw/Api/Service/Get/08715b9c-2e8b-423a-aab2-f3aba7eaa521",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/08715b9c-2e8b-423a-aab2-f3aba7eaa521"
+      ]
+    },
+    {
+      "id": "157015",
+      "name": "臺南市環保旅店",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dbd87793-a2d0-4fde-a008-1bd23cd2b34a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dbd87793-a2d0-4fde-a008-1bd23cd2b34a"
+      ]
+    },
+    {
+      "id": "148679",
+      "name": "臺南市抽驗飲用水(自來水)水質檢驗結果(111年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8f955646-f6f6-4bf2-a790-0a165abcea10",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8f955646-f6f6-4bf2-a790-0a165abcea10",
+        "https://soa.tainan.gov.tw/Api/Service/Get/599a08d5-003d-407c-bcc0-0cd7a183d6c7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/599a08d5-003d-407c-bcc0-0cd7a183d6c7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a9188b4-14cc-4e58-874c-0ea0d694dc0f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3a9188b4-14cc-4e58-874c-0ea0d694dc0f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/33f9a6ba-cd48-4c68-b646-17ba0b80c30e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/33f9a6ba-cd48-4c68-b646-17ba0b80c30e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0606e3c5-aae8-45d4-8d78-2337916c5057",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0606e3c5-aae8-45d4-8d78-2337916c5057",
+        "https://soa.tainan.gov.tw/Api/Service/Get/10cb8d2e-0a58-4d9f-be33-2d2101a147e8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/10cb8d2e-0a58-4d9f-be33-2d2101a147e8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/99a208ad-3870-43b2-8116-302881fff961",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/99a208ad-3870-43b2-8116-302881fff961",
+        "https://soa.tainan.gov.tw/Api/Service/Get/76e4d721-94d0-44d7-a1ce-6033e4a501b0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/76e4d721-94d0-44d7-a1ce-6033e4a501b0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0c0f61b2-39fd-4881-aac8-718b48e304d2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0c0f61b2-39fd-4881-aac8-718b48e304d2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4dbfe879-9e5c-4abc-8a25-8b4035baa92f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4dbfe879-9e5c-4abc-8a25-8b4035baa92f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8e2e9400-fb57-48b9-9d1d-ba5d0189e00d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8e2e9400-fb57-48b9-9d1d-ba5d0189e00d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b6694f1e-cea4-47fc-927d-c896b4a9dcfc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b6694f1e-cea4-47fc-927d-c896b4a9dcfc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/65db1655-a234-46e1-ada5-e64114de2c77",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/65db1655-a234-46e1-ada5-e64114de2c77"
+      ]
+    },
+    {
+      "id": "156743",
+      "name": "臺南市常有聲音照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/aee8d509-ede0-40b2-b66f-3dc312bd05f2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aee8d509-ede0-40b2-b66f-3dc312bd05f2"
+      ]
+    },
+    {
+      "id": "161384",
+      "name": "臺南市一般地區環境音量監測不合格情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c45ed590-a082-4602-b05d-6a11b2482d9f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c45ed590-a082-4602-b05d-6a11b2482d9f"
+      ]
+    },
+    {
+      "id": "161395",
+      "name": "臺南市道路交通音量監測不合格情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1eebaddc-ac46-4231-a1ac-1ce7dd552016",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1eebaddc-ac46-4231-a1ac-1ce7dd552016"
+      ]
+    },
+    {
+      "id": "137702",
+      "name": "臺南市資源回收成果統計(110年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/91cb3399-4f13-4e3f-830d-15eb751ef065",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1a12f575-6d07-46e4-b401-d80d122e49f9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d9974834-b370-4d6f-badd-66e3181f8e7a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ab49bc80-a729-4f19-99fb-aab6b50c0d3b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d244a8f6-ddf5-4b58-924e-adbc9796cf42",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f3eefe21-97a6-46a3-b2dd-b6e592d9b2b2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ab49bc80-a729-4f19-99fb-aab6b50c0d3b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/91cb3399-4f13-4e3f-830d-15eb751ef065",
+        "https://soa.tainan.gov.tw/Api/Service/Get/254e6f65-63f6-42a2-a080-28ce6d672873",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4257366b-3799-46cb-bc8e-e97d5053d9be",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/254e6f65-63f6-42a2-a080-28ce6d672873",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0e7329c5-1c4d-4525-a311-d75378e278bf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4257366b-3799-46cb-bc8e-e97d5053d9be",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0e7329c5-1c4d-4525-a311-d75378e278bf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d9974834-b370-4d6f-badd-66e3181f8e7a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f3eefe21-97a6-46a3-b2dd-b6e592d9b2b2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3190d785-0cec-4b15-9362-10025dbcd250",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9b107d1d-1394-46b5-a248-7e77d06a2e52",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1a12f575-6d07-46e4-b401-d80d122e49f9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d244a8f6-ddf5-4b58-924e-adbc9796cf42",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/edc8a29b-5a24-416f-b753-be0e3651e88b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9b107d1d-1394-46b5-a248-7e77d06a2e52",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3190d785-0cec-4b15-9362-10025dbcd250",
+        "https://soa.tainan.gov.tw/Api/Service/Get/edc8a29b-5a24-416f-b753-be0e3651e88b"
+      ]
+    },
+    {
+      "id": "149138",
+      "name": "臺南市空氣中總懸浮微粒及落塵量檢驗結果(111年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3e44b36e-0dff-46b0-a315-38ba60304b4f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3e44b36e-0dff-46b0-a315-38ba60304b4f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e0fbb633-8497-44fa-8aac-4f9a9b27a42c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e0fbb633-8497-44fa-8aac-4f9a9b27a42c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bf4c70fb-624a-4a9d-833c-6ce2720e4b5d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bf4c70fb-624a-4a9d-833c-6ce2720e4b5d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7ef3036a-41a8-434a-8987-85071668e025",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7ef3036a-41a8-434a-8987-85071668e025",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aeba96a6-a773-403c-b259-95f4f40b8e55",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aeba96a6-a773-403c-b259-95f4f40b8e55",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d6a0d243-f54b-4c8b-b318-a7129802fe74",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d6a0d243-f54b-4c8b-b318-a7129802fe74",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1819063b-04ea-4eef-878c-bc7a643c0f4b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1819063b-04ea-4eef-878c-bc7a643c0f4b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ad0284d1-8b41-43ac-826e-c3f67a111524",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ad0284d1-8b41-43ac-826e-c3f67a111524",
+        "https://soa.tainan.gov.tw/Api/Service/Get/382959f5-c801-48a8-95f5-e96afcbafac5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/382959f5-c801-48a8-95f5-e96afcbafac5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/be2bfe09-025e-45fb-a70e-ec2a2ff43a70",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/be2bfe09-025e-45fb-a70e-ec2a2ff43a70",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8188074a-002f-4fc2-bf8d-f9d85cf70df9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8188074a-002f-4fc2-bf8d-f9d85cf70df9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2d31efc4-3f1f-45e4-a5ce-fefb1bbae001",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2d31efc4-3f1f-45e4-a5ce-fefb1bbae001"
+      ]
+    },
+    {
+      "id": "138781",
+      "name": "臺南市海廢調查成果明細表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/cc49a768-a45f-407c-beb4-f90d2356c696",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cc49a768-a45f-407c-beb4-f90d2356c696"
+      ]
+    },
+    {
+      "id": "139420",
+      "name": "臺南市城西掩埋場地下水檢測報告(109年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3cc75131-ec60-4932-9531-30803ea85175",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3cc75131-ec60-4932-9531-30803ea85175",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2cda409d-3d7c-412a-859a-480bd7745d13",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2cda409d-3d7c-412a-859a-480bd7745d13",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bcbf148a-00f0-4f13-80f7-4b6eafcf531f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bcbf148a-00f0-4f13-80f7-4b6eafcf531f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cce090ab-c241-44f9-a662-f91d164e9b54",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cce090ab-c241-44f9-a662-f91d164e9b54"
+      ]
+    },
+    {
+      "id": "147189",
+      "name": "臺南市公民營廢棄物清除處理機構許可統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/105f7bee-8062-443a-9349-a0426080306a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/105f7bee-8062-443a-9349-a0426080306a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cd057c80-dca2-4b37-acf3-c3934d5beffb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cd057c80-dca2-4b37-acf3-c3934d5beffb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ddc5d48f-53af-4cce-83e4-d1f998fe6d3f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ddc5d48f-53af-4cce-83e4-d1f998fe6d3f"
+      ]
+    },
+    {
+      "id": "147199",
+      "name": "臺南市環境用藥管理成果",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f69b5ea3-390a-4c6d-89e1-6f78fc547128",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f69b5ea3-390a-4c6d-89e1-6f78fc547128",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3bffb3be-e5d2-4d79-99d6-74d7f1148d24",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3bffb3be-e5d2-4d79-99d6-74d7f1148d24",
+        "https://soa.tainan.gov.tw/Api/Service/Get/eb76e2c0-d0f3-4c38-9ef0-88b9729dc94d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eb76e2c0-d0f3-4c38-9ef0-88b9729dc94d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f9914591-0181-400d-be32-f349a8392ab5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f9914591-0181-400d-be32-f349a8392ab5"
+      ]
+    },
+    {
+      "id": "167870",
+      "name": "臺南市空氣中總懸浮微粒及落塵量檢驗結果(113年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/57b9a423-814c-479e-a051-1fbb9a722f33",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/57b9a423-814c-479e-a051-1fbb9a722f33",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4660b2a6-0451-4946-abd6-5a78d047b389",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4660b2a6-0451-4946-abd6-5a78d047b389",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f92be70a-0d2e-4766-b1d3-637db7e2abb7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f92be70a-0d2e-4766-b1d3-637db7e2abb7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/17e92c73-4e7e-468b-9b00-686bfd92f521",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/17e92c73-4e7e-468b-9b00-686bfd92f521",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4d60fe0e-e800-4446-845e-731740f47368",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4d60fe0e-e800-4446-845e-731740f47368",
+        "https://soa.tainan.gov.tw/Api/Service/Get/78f34feb-fc32-4782-8726-8ee972c130b3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/78f34feb-fc32-4782-8726-8ee972c130b3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b1b991a2-154d-4903-adfa-9003b2c44ff1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b1b991a2-154d-4903-adfa-9003b2c44ff1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cafd3844-e4b8-466f-9fc1-af5ca09114d2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cafd3844-e4b8-466f-9fc1-af5ca09114d2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ab2dfd83-08c4-4879-af36-e66ddd9c7bbe",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ab2dfd83-08c4-4879-af36-e66ddd9c7bbe",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b0b121cd-fcb9-4b52-9fa6-e86729e34264",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b0b121cd-fcb9-4b52-9fa6-e86729e34264",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c7d6f1c5-d55f-4d28-ab1e-eb0a7705eb6a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c7d6f1c5-d55f-4d28-ab1e-eb0a7705eb6a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c99fc909-d422-4a3a-9380-ef5bde9685bb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c99fc909-d422-4a3a-9380-ef5bde9685bb"
+      ]
+    },
+    {
+      "id": "167727",
+      "name": "臺南市環保局污染源稽查處分概況(113年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ef50d4f0-a7f5-4056-9fc7-01706ad2e711",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ef50d4f0-a7f5-4056-9fc7-01706ad2e711",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e45fee27-b6f8-42b9-a60a-091ff2f1278a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e45fee27-b6f8-42b9-a60a-091ff2f1278a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a6cde439-6676-4133-a2de-38ac589c4220",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a6cde439-6676-4133-a2de-38ac589c4220",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f6a00ea0-dda2-41a1-b44a-4201d7c8fcbe",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f6a00ea0-dda2-41a1-b44a-4201d7c8fcbe",
+        "https://soa.tainan.gov.tw/Api/Service/Get/853d8bd9-7d7a-4e87-aba5-48466bb8b51a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/853d8bd9-7d7a-4e87-aba5-48466bb8b51a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/19a00456-6123-4024-aabd-72261c0f0d2a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/19a00456-6123-4024-aabd-72261c0f0d2a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5173a406-c017-4931-a96b-76742e9b5993",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5173a406-c017-4931-a96b-76742e9b5993",
+        "https://soa.tainan.gov.tw/Api/Service/Get/11146699-d412-4e5f-a66f-7ee8176b4c58",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/11146699-d412-4e5f-a66f-7ee8176b4c58",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f8e4d816-ff08-4127-a0bb-862dea68962f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f8e4d816-ff08-4127-a0bb-862dea68962f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2e1dea7c-2f53-4871-a733-c818c08f55ef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2e1dea7c-2f53-4871-a733-c818c08f55ef",
+        "https://soa.tainan.gov.tw/Api/Service/Get/341924e0-c951-4f26-913e-f36cca4af2eb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/341924e0-c951-4f26-913e-f36cca4af2eb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1f50a856-23e4-418a-8b8e-fb5a3db181b4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1f50a856-23e4-418a-8b8e-fb5a3db181b4"
+      ]
+    },
+    {
+      "id": "167728",
+      "name": "臺南市公害陳情案件受理統計(113年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/238249a6-2625-452c-87ad-27bea3b95b72",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/238249a6-2625-452c-87ad-27bea3b95b72",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0078900d-b5b0-4170-947c-293484087765",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0078900d-b5b0-4170-947c-293484087765",
+        "https://soa.tainan.gov.tw/Api/Service/Get/655985f3-1c94-4f56-8c29-2d887cf969f6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/655985f3-1c94-4f56-8c29-2d887cf969f6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e3e1270c-4670-41ed-9c22-4526884a761a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e3e1270c-4670-41ed-9c22-4526884a761a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d722d020-4810-4364-8179-4d2db808e6b0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d722d020-4810-4364-8179-4d2db808e6b0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b82ab63c-6039-41a2-8440-5683b90b8d51",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b82ab63c-6039-41a2-8440-5683b90b8d51",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1db20905-6ea9-4528-859d-5938706918a4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1db20905-6ea9-4528-859d-5938706918a4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a39ea170-bb2a-480e-8f00-9dfdbeea0c5f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a39ea170-bb2a-480e-8f00-9dfdbeea0c5f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/35b6b32f-fc7c-4487-a62c-cd1cdc5a61ba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/35b6b32f-fc7c-4487-a62c-cd1cdc5a61ba",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1399eba9-f4fd-40e8-a3a9-d12efb248374",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1399eba9-f4fd-40e8-a3a9-d12efb248374",
+        "https://soa.tainan.gov.tw/Api/Service/Get/19c869c5-7167-482c-9835-e3b22a088f2f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/19c869c5-7167-482c-9835-e3b22a088f2f"
+      ]
+    },
+    {
+      "id": "7003",
+      "name": "臺南市核准身障福利團體設置舊衣回收箱",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e2ca280f-f72b-4a69-a8dc-af15e40bda32",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e2ca280f-f72b-4a69-a8dc-af15e40bda32"
+      ]
+    },
+    {
+      "id": "7004",
+      "name": "臺南市廢棄物清除處理機構",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/9eddc68e-36d4-4ec4-a783-b945310df592",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9eddc68e-36d4-4ec4-a783-b945310df592"
+      ]
+    },
+    {
+      "id": "53280",
+      "name": "臺南市應回收廢棄物回收處理業",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/55e2efac-532a-4160-9b13-c0b1e58c8ff2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/55e2efac-532a-4160-9b13-c0b1e58c8ff2"
+      ]
+    },
+    {
+      "id": "53477",
+      "name": "臺南市堆肥場地址",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/99c83d71-86d1-4422-b474-2ddbef43d8d7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/99c83d71-86d1-4422-b474-2ddbef43d8d7"
+      ]
+    },
+    {
+      "id": "53321",
+      "name": "臺南市土壤定期監測資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2e6f28a7-21f9-4af3-84d3-0a319724506f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2e6f28a7-21f9-4af3-84d3-0a319724506f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6a02de2e-ec57-474a-9e8e-3ebef8fe48b7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6a02de2e-ec57-474a-9e8e-3ebef8fe48b7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5e812cc0-6674-4840-b1f2-4bccc033ae33",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5e812cc0-6674-4840-b1f2-4bccc033ae33",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a744a1bb-fda8-4650-b6e7-d18ed7ce0183",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a744a1bb-fda8-4650-b6e7-d18ed7ce0183",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cc39398d-f81b-49f3-bf28-e6288397e95b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cc39398d-f81b-49f3-bf28-e6288397e95b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d1cff925-996c-45bb-978d-e836d4977b5a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d1cff925-996c-45bb-978d-e836d4977b5a"
+      ]
+    },
+    {
+      "id": "53346",
+      "name": "臺南市土壤及地下水污染控制場址",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f23d0701-147d-42e1-ac99-d49b5cfafb96",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f23d0701-147d-42e1-ac99-d49b5cfafb96"
+      ]
+    },
+    {
+      "id": "53600",
+      "name": "臺南市衛生掩埋場清冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a8f0b3bc-a144-42b9-8410-20d57e125d5a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a8f0b3bc-a144-42b9-8410-20d57e125d5a"
+      ]
+    },
+    {
+      "id": "53601",
+      "name": "臺南市焚化廠地址",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e37fbee7-a3c7-41c2-908a-018ff72842a3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e37fbee7-a3c7-41c2-908a-018ff72842a3"
+      ]
+    },
+    {
+      "id": "53606",
+      "name": "臺南市廢食用油清除機構基本資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/38ebd201-5328-40fe-9eb3-571a96a03431",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/38ebd201-5328-40fe-9eb3-571a96a03431"
+      ]
+    },
+    {
+      "id": "53610",
+      "name": "臺南市水肥場地址",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b76206e1-265a-472d-b30d-99ab5e308edf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b76206e1-265a-472d-b30d-99ab5e308edf"
+      ]
+    },
+    {
+      "id": "127656",
+      "name": "臺南市資源回收成果統計(109年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/60a2237d-5763-486e-8dd7-633bce8f902d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b2d0043c-d4e3-4d9f-bcba-e1ad192d6b49",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8898663f-bee0-462e-872b-efeaa125d2b1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/60a2237d-5763-486e-8dd7-633bce8f902d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a9e2e6a9-07f6-4fbb-98b0-23a9f7a3414e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bcacf54b-9ae7-46eb-b81d-e998f3526861",
+        "https://soa.tainan.gov.tw/Api/Service/Get/603e2740-20f9-4899-829c-3ed052219419",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7c0503ee-b81b-4243-a100-4c47fe384c2e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f7fdde40-c8fe-4064-b04a-443f8d52e780",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a9502bb-73d5-495e-9bf8-69d75fbeee93",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ede8cb79-ec8b-4870-8f18-baa33ea42514",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7c0503ee-b81b-4243-a100-4c47fe384c2e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b2d0043c-d4e3-4d9f-bcba-e1ad192d6b49",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/603e2740-20f9-4899-829c-3ed052219419",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d83a2df3-5174-4e2f-9797-3d210b8e4ed2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ede8cb79-ec8b-4870-8f18-baa33ea42514",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e2cd2140-db62-42b7-aa5a-ad2633415833",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8898663f-bee0-462e-872b-efeaa125d2b1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f7fdde40-c8fe-4064-b04a-443f8d52e780",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a9e2e6a9-07f6-4fbb-98b0-23a9f7a3414e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bcacf54b-9ae7-46eb-b81d-e998f3526861",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d83a2df3-5174-4e2f-9797-3d210b8e4ed2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e2cd2140-db62-42b7-aa5a-ad2633415833",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3a9502bb-73d5-495e-9bf8-69d75fbeee93"
+      ]
+    },
+    {
+      "id": "127729",
+      "name": "臺南市環保局稽查人員",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/fded6520-9017-4333-b0b5-00ba297ed828",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fded6520-9017-4333-b0b5-00ba297ed828"
+      ]
+    },
+    {
+      "id": "127988",
+      "name": "臺南市環境檢驗樣品分類統計(109年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0ac789f7-9af0-4be6-aea8-037e12b84b06",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0ac789f7-9af0-4be6-aea8-037e12b84b06",
+        "https://soa.tainan.gov.tw/Api/Service/Get/962b44d0-a8ce-4808-95a1-15a2c0790a76",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/962b44d0-a8ce-4808-95a1-15a2c0790a76",
+        "https://soa.tainan.gov.tw/Api/Service/Get/821c9387-1100-469c-8996-308b94480572",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/821c9387-1100-469c-8996-308b94480572",
+        "https://soa.tainan.gov.tw/Api/Service/Get/699b38cd-5843-4adc-8bca-62f1bbca1b2a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/699b38cd-5843-4adc-8bca-62f1bbca1b2a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/01758fe1-572f-4043-b9f2-8e505b205b4b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/01758fe1-572f-4043-b9f2-8e505b205b4b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/55fa5214-939d-458d-a269-9b776e3e3bbc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/55fa5214-939d-458d-a269-9b776e3e3bbc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cae0a86a-ed3a-4b69-93a7-a0d62b8babcc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cae0a86a-ed3a-4b69-93a7-a0d62b8babcc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2f90ba22-3bcd-452c-9267-a429d1b0877e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2f90ba22-3bcd-452c-9267-a429d1b0877e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3ae92cce-e6e7-4c3e-bab3-be45583eb2c5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3ae92cce-e6e7-4c3e-bab3-be45583eb2c5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8d098b1d-f336-4883-8de0-cf41cbb488dd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8d098b1d-f336-4883-8de0-cf41cbb488dd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e1b7b3f6-c8a6-4618-bf93-d83585b276e2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e1b7b3f6-c8a6-4618-bf93-d83585b276e2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ef1bc281-fbd4-4f6c-b1ba-fa40b9c48132",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ef1bc281-fbd4-4f6c-b1ba-fa40b9c48132"
+      ]
+    },
+    {
+      "id": "127989",
+      "name": "臺南市環保低油煙認證餐廳",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e4717c26-fde9-4aed-be5f-2a6ffea9a33f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e4717c26-fde9-4aed-be5f-2a6ffea9a33f"
+      ]
+    },
+    {
+      "id": "118169",
+      "name": "臺南市洗掃街作業資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a2fe4298-0218-4db9-a427-296bf2b846fb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a2fe4298-0218-4db9-a427-296bf2b846fb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f4d45957-da96-4100-a70c-4ef9ec5ba7db",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f4d45957-da96-4100-a70c-4ef9ec5ba7db",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3d9dee2b-7852-4255-9612-52fe5121b8b4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3d9dee2b-7852-4255-9612-52fe5121b8b4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3b940b6d-036e-492b-969a-821c81be935e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3b940b6d-036e-492b-969a-821c81be935e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/782ab422-7b0f-4c18-9ece-9096897a957b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/782ab422-7b0f-4c18-9ece-9096897a957b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/92384f87-109e-4969-b7bb-efca24daadb9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/92384f87-109e-4969-b7bb-efca24daadb9"
+      ]
+    },
+    {
+      "id": "118123",
+      "name": "臺南市公害陳情案件受理統計(109年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e2a1b6a4-efa0-4a5b-ad4a-0e065df2ffdc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e2a1b6a4-efa0-4a5b-ad4a-0e065df2ffdc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/52aa1d8d-53c6-490f-9e15-231e1b604f5c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/52aa1d8d-53c6-490f-9e15-231e1b604f5c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0a1eac5a-a68f-44d3-a7ca-2b12abed35ad",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0a1eac5a-a68f-44d3-a7ca-2b12abed35ad",
+        "https://soa.tainan.gov.tw/Api/Service/Get/326a0e17-1487-4a97-9874-3e1c8cbac941",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/326a0e17-1487-4a97-9874-3e1c8cbac941",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0a334703-7451-49b6-bafe-49d8a5b8507a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0a334703-7451-49b6-bafe-49d8a5b8507a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cd127e9c-d23a-4375-99b2-4bcd311bc619",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cd127e9c-d23a-4375-99b2-4bcd311bc619",
+        "https://soa.tainan.gov.tw/Api/Service/Get/66c59b6e-a506-4e84-a546-5768fa49e1e4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/66c59b6e-a506-4e84-a546-5768fa49e1e4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d3c8acc1-0340-455e-8e8e-730cc67bac31",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d3c8acc1-0340-455e-8e8e-730cc67bac31",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6f1c4a30-4a84-4d8d-ac4e-9b30a3f10ce1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6f1c4a30-4a84-4d8d-ac4e-9b30a3f10ce1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/98c5cbde-2386-4090-a4e7-d87cd297b3ef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/98c5cbde-2386-4090-a4e7-d87cd297b3ef",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7665cb95-0ab2-439a-b091-eff6acc8e4f6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7665cb95-0ab2-439a-b091-eff6acc8e4f6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/64647b01-069f-4fda-8f72-f08dce5e98bd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/64647b01-069f-4fda-8f72-f08dce5e98bd"
+      ]
+    },
+    {
+      "id": "129452",
+      "name": "臺南市廢棄車輛查報移置執行情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/bf42140c-c201-4732-8ff1-98235a3ad6ec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b13cba4e-789e-487e-a27a-114691ebfcaa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4b12397e-ec01-4310-ab3a-d7b83259d1e6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8d1a9aad-0a02-49d3-8907-e842e126baac",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8d1a9aad-0a02-49d3-8907-e842e126baac",
+        "https://soa.tainan.gov.tw/Api/Service/Get/59265612-9d00-4c54-aefa-a2c0a367538f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a4b01066-8245-480c-9827-e36dde982b2e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b13cba4e-789e-487e-a27a-114691ebfcaa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/755cab6d-e463-4298-b227-29d09960771d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6cc02403-04d2-423a-82ac-8b469be0d24d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/755cab6d-e463-4298-b227-29d09960771d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3dfe9004-c8f7-44d0-b59a-4fae6e796d64",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3dfe9004-c8f7-44d0-b59a-4fae6e796d64",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/43976610-027b-4606-8be7-3c69eea2486e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/43976610-027b-4606-8be7-3c69eea2486e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4b12397e-ec01-4310-ab3a-d7b83259d1e6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/59265612-9d00-4c54-aefa-a2c0a367538f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bf42140c-c201-4732-8ff1-98235a3ad6ec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6cc02403-04d2-423a-82ac-8b469be0d24d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a4b01066-8245-480c-9827-e36dde982b2e"
+      ]
+    },
+    {
+      "id": "129454",
+      "name": "臺南市列管公廁評等",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3964efa1-c088-480b-b8bf-4800350bcfd3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3964efa1-c088-480b-b8bf-4800350bcfd3"
+      ]
+    },
+    {
+      "id": "129455",
+      "name": "臺南市歷年環境用藥紀錄",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a6a5741-b4f1-4db5-a5ce-a08ffc334a11",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3a6a5741-b4f1-4db5-a5ce-a08ffc334a11"
+      ]
+    },
+    {
+      "id": "129777",
+      "name": "臺南市機動車輛排放空氣污染物檢驗告發情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4805e085-bec7-4580-bcb2-1de4f1b71eeb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4805e085-bec7-4580-bcb2-1de4f1b71eeb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3408af96-4092-4b52-8370-29877e05f22f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3408af96-4092-4b52-8370-29877e05f22f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b7b94df5-b2c6-4da8-bc5a-7135e9f810da",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b7b94df5-b2c6-4da8-bc5a-7135e9f810da",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c549bb83-60d6-431c-af24-deecbec93460",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c549bb83-60d6-431c-af24-deecbec93460"
+      ]
+    },
+    {
+      "id": "129829",
+      "name": "臺南市廢水污染管制情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/35199106-d56d-434c-9877-508393dc5c63",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/35199106-d56d-434c-9877-508393dc5c63"
+      ]
+    },
+    {
+      "id": "131176",
+      "name": "臺南市歷年解列土壤及地下水污染整治及控制場址",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/59d5d74c-ab23-4fb9-b370-639a9c4fd5a7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/59d5d74c-ab23-4fb9-b370-639a9c4fd5a7"
+      ]
+    },
+    {
+      "id": "161389",
+      "name": "臺南市環境檢驗樣品分類統計(112年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/fdc2eba2-79c1-4c6c-96d4-0f21c79d9a4e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fdc2eba2-79c1-4c6c-96d4-0f21c79d9a4e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b8b766c6-95cf-4434-a5c2-10862141cfc2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b8b766c6-95cf-4434-a5c2-10862141cfc2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/045c1647-391c-49fa-a273-1d94f0a44980",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/045c1647-391c-49fa-a273-1d94f0a44980",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0c02e7dc-6bc8-4fe5-a664-256eaed5e43c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0c02e7dc-6bc8-4fe5-a664-256eaed5e43c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/19d661e1-ff24-4575-acac-306474e8dfcb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/19d661e1-ff24-4575-acac-306474e8dfcb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a3dd7681-831d-4986-a65b-65e5f7596ad8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a3dd7681-831d-4986-a65b-65e5f7596ad8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1083c181-6556-4f07-806c-69170f0cb0b7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1083c181-6556-4f07-806c-69170f0cb0b7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/81434582-029a-41ea-8740-6e1f7526c6c7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/81434582-029a-41ea-8740-6e1f7526c6c7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3707daa1-1d7f-45ef-82d9-ace43eb979b0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3707daa1-1d7f-45ef-82d9-ace43eb979b0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/395fbeb7-10b1-4cf3-8413-d99c66adb109",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/395fbeb7-10b1-4cf3-8413-d99c66adb109",
+        "https://soa.tainan.gov.tw/Api/Service/Get/093aed88-5868-4130-aaa5-e013dbb491bf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/093aed88-5868-4130-aaa5-e013dbb491bf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/53191b6b-b972-406c-98d3-fcb78a4cefd8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/53191b6b-b972-406c-98d3-fcb78a4cefd8"
+      ]
+    },
+    {
+      "id": "161396",
+      "name": "臺南市噪音監測站基本資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2b16b770-bab1-454c-8a84-8f6e116abb8c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2b16b770-bab1-454c-8a84-8f6e116abb8c"
+      ]
+    },
+    {
+      "id": "167597",
+      "name": "臺南市環境檢驗樣品分類統計(113年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0b51ae1f-b0be-45f9-9e5d-14976cd8776b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0b51ae1f-b0be-45f9-9e5d-14976cd8776b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/63760990-0e8b-4e92-8795-3d9a1b83aa29",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/63760990-0e8b-4e92-8795-3d9a1b83aa29",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cdc3eafb-a23b-47b4-8761-41154a6cea42",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cdc3eafb-a23b-47b4-8761-41154a6cea42",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4979ad26-6533-4657-ac0c-66c0257a023c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4979ad26-6533-4657-ac0c-66c0257a023c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d5805128-f8da-465b-8e6f-786ef2848093",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d5805128-f8da-465b-8e6f-786ef2848093",
+        "https://soa.tainan.gov.tw/Api/Service/Get/382fcc08-9924-49ea-952e-953ded2eda59",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/382fcc08-9924-49ea-952e-953ded2eda59",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8a891700-49c7-4567-ad0e-ace6ed1d57c2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8a891700-49c7-4567-ad0e-ace6ed1d57c2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9370e905-4ace-47b2-84c3-b88e6b455166",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9370e905-4ace-47b2-84c3-b88e6b455166",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b524aa6e-5030-4ab0-af2d-c2ef19aa7de2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b524aa6e-5030-4ab0-af2d-c2ef19aa7de2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/59532213-49b1-4428-a24f-daacfe35396c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/59532213-49b1-4428-a24f-daacfe35396c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c1ee864c-9e6b-4923-8700-e6bb434d66db",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c1ee864c-9e6b-4923-8700-e6bb434d66db",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aef3fbdf-ad3b-42a4-b5fa-f49fb8291a6d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aef3fbdf-ad3b-42a4-b5fa-f49fb8291a6d"
+      ]
+    },
+    {
+      "id": "167989",
+      "name": "臺南市抽驗飲用水(自來水)水質檢驗結果(113年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/42e5c6c6-09ec-443c-917c-17a3ee2752aa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/42e5c6c6-09ec-443c-917c-17a3ee2752aa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b9f0b034-2780-4a8d-85bf-2080887f807b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b9f0b034-2780-4a8d-85bf-2080887f807b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/619e6aa7-42d5-4102-a409-34a8455432b2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/619e6aa7-42d5-4102-a409-34a8455432b2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4321265f-521a-42b1-9590-3a60118d7e49",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4321265f-521a-42b1-9590-3a60118d7e49",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c39d347e-a993-4fa6-ab14-42c1d3a85e21",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c39d347e-a993-4fa6-ab14-42c1d3a85e21",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e0b156e6-9b85-4c20-b306-498cb045222e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e0b156e6-9b85-4c20-b306-498cb045222e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0ab5d656-bcbd-4b60-ae00-5d5d67c9d2a1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0ab5d656-bcbd-4b60-ae00-5d5d67c9d2a1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/63678de7-91ed-4d21-9ed6-62eeee6ab522",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/63678de7-91ed-4d21-9ed6-62eeee6ab522",
+        "https://soa.tainan.gov.tw/Api/Service/Get/774d597e-465f-44bd-beca-689fa55aa525",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/774d597e-465f-44bd-beca-689fa55aa525",
+        "https://soa.tainan.gov.tw/Api/Service/Get/54d729d4-e813-4e31-9647-b41f353a81e3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/54d729d4-e813-4e31-9647-b41f353a81e3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f7572ecc-8fe1-4d9f-a70a-b4935d0c1585",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f7572ecc-8fe1-4d9f-a70a-b4935d0c1585",
+        "https://soa.tainan.gov.tw/Api/Service/Get/51bdd0e6-b403-49cf-a6ac-f1a7e8ccc445",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/51bdd0e6-b403-49cf-a6ac-f1a7e8ccc445"
+      ]
+    },
+    {
+      "id": "138780",
+      "name": "臺南市海廢調查寶特瓶成果",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b8cfc382-b69d-4a30-acf2-ec0694a62883",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b8cfc382-b69d-4a30-acf2-ec0694a62883"
+      ]
+    },
+    {
+      "id": "138802",
+      "name": "臺南市一般垃圾及廚餘清理狀況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3c576fb8-2a70-4138-aec7-023c0ec2e428",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3c576fb8-2a70-4138-aec7-023c0ec2e428",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e55bcb6b-1d8a-4588-9f7c-508a73cdf373",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e55bcb6b-1d8a-4588-9f7c-508a73cdf373",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4f5d69e6-ca06-43a1-b8d6-5301d2ac4e14",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4f5d69e6-ca06-43a1-b8d6-5301d2ac4e14",
+        "https://soa.tainan.gov.tw/Api/Service/Get/42f8b237-e75c-4cc9-bc35-627a08a95bb8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/42f8b237-e75c-4cc9-bc35-627a08a95bb8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f4100bb4-d7f7-45a0-aed5-87e423096d0d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f4100bb4-d7f7-45a0-aed5-87e423096d0d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b843f681-7a57-4671-b291-9356f3bea26a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b843f681-7a57-4671-b291-9356f3bea26a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6c88604f-a0f4-48fd-b052-9d6dbe72a965",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6c88604f-a0f4-48fd-b052-9d6dbe72a965",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ca6743f0-a7ff-4e06-9da6-c03d37e5e85b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ca6743f0-a7ff-4e06-9da6-c03d37e5e85b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cb24af70-5b06-4312-b3fb-d89dae5f11a2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cb24af70-5b06-4312-b3fb-d89dae5f11a2"
+      ]
+    },
+    {
+      "id": "138805",
+      "name": "臺南市列管毒性化學物質查核取締結果",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/10783a5c-9a94-4ec8-8817-6b1f53b952f3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/10783a5c-9a94-4ec8-8817-6b1f53b952f3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d42670ee-0f7d-46be-b3a3-b396da7f0446",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d42670ee-0f7d-46be-b3a3-b396da7f0446",
+        "https://soa.tainan.gov.tw/Api/Service/Get/72c8c52d-d7d5-40c1-9f58-e6566d192ccd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/72c8c52d-d7d5-40c1-9f58-e6566d192ccd"
+      ]
+    },
+    {
+      "id": "138893",
+      "name": "臺南市抽驗飲用水(自來水)水質檢驗結果(110年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/be3e47ff-5b54-4728-b103-0ce89a817d68",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/be3e47ff-5b54-4728-b103-0ce89a817d68",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8a669e29-4c0d-4955-bd54-129db10ce94d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8a669e29-4c0d-4955-bd54-129db10ce94d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/290df226-6313-4253-b190-1d5f0ca8fd6d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/290df226-6313-4253-b190-1d5f0ca8fd6d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6d337187-6ce0-46b4-bbb1-386f8d845e82",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6d337187-6ce0-46b4-bbb1-386f8d845e82",
+        "https://soa.tainan.gov.tw/Api/Service/Get/66f58e31-fc5a-469b-bf4c-3a6395d06c28",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/66f58e31-fc5a-469b-bf4c-3a6395d06c28",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2cc7690d-9176-48e3-a08b-46f04bfb4466",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2cc7690d-9176-48e3-a08b-46f04bfb4466",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8bc4ae06-d262-4659-ae93-5f20fa7a4bb9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8bc4ae06-d262-4659-ae93-5f20fa7a4bb9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/171e3513-6893-4b2e-a9f9-6082b53846cc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/171e3513-6893-4b2e-a9f9-6082b53846cc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/054d4144-dc46-44c2-b7b4-907067e21d42",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/054d4144-dc46-44c2-b7b4-907067e21d42",
+        "https://soa.tainan.gov.tw/Api/Service/Get/81452670-97f2-49b0-89ce-9eceef9b89ec",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/81452670-97f2-49b0-89ce-9eceef9b89ec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8025fe28-813d-41ec-9036-b4f9f4957c7c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8025fe28-813d-41ec-9036-b4f9f4957c7c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/01dd201b-3713-4b5d-8baf-e9a3d689faaa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/01dd201b-3713-4b5d-8baf-e9a3d689faaa"
+      ]
+    },
+    {
+      "id": "138967",
+      "name": "臺南市空氣中總懸浮微粒及落塵量檢驗結果(110年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dea84744-fa3e-4e78-8cc2-0ddcdbdca192",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dea84744-fa3e-4e78-8cc2-0ddcdbdca192",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1622342c-e92e-4c03-93db-139ad06044ac",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1622342c-e92e-4c03-93db-139ad06044ac",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a7d46dd4-056b-49bb-a478-1cff5c3cb3c3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a7d46dd4-056b-49bb-a478-1cff5c3cb3c3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bac34cd8-9f20-4d40-9b4f-2449a478261f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bac34cd8-9f20-4d40-9b4f-2449a478261f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a10293ae-d06c-4bc7-b684-3cc39b764ebb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a10293ae-d06c-4bc7-b684-3cc39b764ebb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e5e27283-300a-499f-a5b7-43f9f20f78d2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e5e27283-300a-499f-a5b7-43f9f20f78d2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c91b379d-f6ac-4e2b-91ad-54c24a229163",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c91b379d-f6ac-4e2b-91ad-54c24a229163",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0e878bc4-3749-4b17-9d2a-8ca8ec522ea2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0e878bc4-3749-4b17-9d2a-8ca8ec522ea2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/13430da4-bd91-49e6-ba91-94bbb18e7428",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/13430da4-bd91-49e6-ba91-94bbb18e7428",
+        "https://soa.tainan.gov.tw/Api/Service/Get/268e1466-1644-4052-ab15-a80c783550e2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/268e1466-1644-4052-ab15-a80c783550e2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a572fab3-e252-4476-80e7-df53348d2a5a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a572fab3-e252-4476-80e7-df53348d2a5a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aec2b233-3b96-4adf-993e-ea799c8ba54f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aec2b233-3b96-4adf-993e-ea799c8ba54f"
+      ]
+    },
+    {
+      "id": "137284",
+      "name": "臺南市公害陳情案件受理統計(110年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/09241224-8d88-4f4a-9933-3ea3af8acf27",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/09241224-8d88-4f4a-9933-3ea3af8acf27",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4c9ccc66-7d11-40b9-adaf-49c02d1866fa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4c9ccc66-7d11-40b9-adaf-49c02d1866fa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fe1dd0f2-5f6e-443c-b0e2-641a23560519",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fe1dd0f2-5f6e-443c-b0e2-641a23560519",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3955fb2d-e2e1-409f-88ec-8769e572691f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3955fb2d-e2e1-409f-88ec-8769e572691f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/82aa5420-11ac-4e3f-a28c-8e41186141e3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/82aa5420-11ac-4e3f-a28c-8e41186141e3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d0b33809-5bab-4a18-a7a1-982a196d456f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d0b33809-5bab-4a18-a7a1-982a196d456f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cb6f61a0-f0b5-4e98-a766-a37fd86a6466",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cb6f61a0-f0b5-4e98-a766-a37fd86a6466",
+        "https://soa.tainan.gov.tw/Api/Service/Get/db0d3945-facf-4445-a0e6-a3a115e900f2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/db0d3945-facf-4445-a0e6-a3a115e900f2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b5e119d9-35f4-461a-8ba7-a88c351cb80e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b5e119d9-35f4-461a-8ba7-a88c351cb80e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/077a1609-89b5-414a-bc38-c63f2c8d1e93",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/077a1609-89b5-414a-bc38-c63f2c8d1e93",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fcba3cf5-bb27-4f9c-94d0-d94c6e8a72ca",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fcba3cf5-bb27-4f9c-94d0-d94c6e8a72ca",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c6355a85-07bf-4e69-853d-e4c5c3cddce4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c6355a85-07bf-4e69-853d-e4c5c3cddce4"
+      ]
+    },
+    {
+      "id": "136658",
+      "name": "臺南市政府環境保護局空氣污染稽查處分概況",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/81ab68c9-2c36-40ab-b7fe-fdc00cc0473d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aee0f796-b760-4f00-8c1a-04638011508b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aee0f796-b760-4f00-8c1a-04638011508b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d404855a-530d-48fe-aeb1-427e1019226a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d404855a-530d-48fe-aeb1-427e1019226a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/81ab68c9-2c36-40ab-b7fe-fdc00cc0473d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e3ed1b64-62b9-4d26-92b7-b862dbd64fe9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f76f3659-780f-4663-9e04-c7eb695a0dc9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f76f3659-780f-4663-9e04-c7eb695a0dc9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e3ed1b64-62b9-4d26-92b7-b862dbd64fe9"
+      ]
+    },
+    {
+      "id": "145031",
+      "name": "臺南市安定掩埋場地下水檢測報告(109年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/25d43d10-9a6d-4ac6-a993-05a2ac0eefc5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/25d43d10-9a6d-4ac6-a993-05a2ac0eefc5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bfd6d261-b454-4c0c-a767-4c9d5c6c95ef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bfd6d261-b454-4c0c-a767-4c9d5c6c95ef",
+        "https://soa.tainan.gov.tw/Api/Service/Get/77de045f-34d0-40fe-b9b9-675d8ede8760",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/77de045f-34d0-40fe-b9b9-675d8ede8760",
+        "https://soa.tainan.gov.tw/Api/Service/Get/94d1daa0-a1d1-44e6-81ac-c08c0e8a2cb7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/94d1daa0-a1d1-44e6-81ac-c08c0e8a2cb7"
+      ]
+    },
+    {
+      "id": "148474",
+      "name": "臺南市環境檢驗樣品分類統計(111年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d672d93e-a893-47ac-b2b0-2500d78166c3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d672d93e-a893-47ac-b2b0-2500d78166c3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c104f161-a105-4559-ac83-31c184229a44",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c104f161-a105-4559-ac83-31c184229a44",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dc390010-cc52-44d6-a8ff-6b07858d0fa5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dc390010-cc52-44d6-a8ff-6b07858d0fa5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0a2c7cbe-97ad-4b58-af36-6cc58704410d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0a2c7cbe-97ad-4b58-af36-6cc58704410d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c2931f24-9a52-4a26-8863-78d2dd2322d4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c2931f24-9a52-4a26-8863-78d2dd2322d4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/83227228-a6a4-4b38-813e-899408322d38",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/83227228-a6a4-4b38-813e-899408322d38",
+        "https://soa.tainan.gov.tw/Api/Service/Get/eb621273-5852-4f75-a124-be99ae8a97ff",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eb621273-5852-4f75-a124-be99ae8a97ff",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d09cc950-ecba-41fa-8dbf-c329de059bfe",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d09cc950-ecba-41fa-8dbf-c329de059bfe",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f8aedc2f-424b-4fe5-95c0-d83c1461b0fa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f8aedc2f-424b-4fe5-95c0-d83c1461b0fa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0641e0f3-067a-41e8-8568-f2bf179b3a65",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0641e0f3-067a-41e8-8568-f2bf179b3a65",
+        "https://soa.tainan.gov.tw/Api/Service/Get/935e876b-af9c-4b50-9f6a-f544cb91d293",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/935e876b-af9c-4b50-9f6a-f544cb91d293",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2780fbbd-4be8-424e-bd46-faf5e72f7f66",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2780fbbd-4be8-424e-bd46-faf5e72f7f66"
+      ]
+    },
+    {
+      "id": "176897",
+      "name": "臺南市公害污染陳情案件受理統計(115年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/042d0b5f-f46b-4e71-aa68-57fe75ff17ae",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/042d0b5f-f46b-4e71-aa68-57fe75ff17ae"
+      ]
+    },
+    {
+      "id": "172898",
+      "name": "臺南市抽驗飲用水(自來水)水質檢驗結果(114年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/980413f5-d0de-4070-b7ce-0368adc12cbf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/980413f5-d0de-4070-b7ce-0368adc12cbf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8e706022-1eb5-48b0-8bad-0d39d1fb1c01",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8e706022-1eb5-48b0-8bad-0d39d1fb1c01",
+        "https://soa.tainan.gov.tw/Api/Service/Get/67c5e1a3-1726-4165-8d70-21d2bc177a8a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/67c5e1a3-1726-4165-8d70-21d2bc177a8a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9f53ef4e-998e-49c5-b2e9-5148cf77c251",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9f53ef4e-998e-49c5-b2e9-5148cf77c251",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e797f481-3d56-41d9-89f7-9fb7b6790f2c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e797f481-3d56-41d9-89f7-9fb7b6790f2c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9569b72f-672b-44f2-80a6-f5665a55a9d1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9569b72f-672b-44f2-80a6-f5665a55a9d1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/366897b6-4253-4596-a6e8-f71f8e2fc2c7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/366897b6-4253-4596-a6e8-f71f8e2fc2c7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/151f1365-a992-447f-a0bb-fb6c90bd7610",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/151f1365-a992-447f-a0bb-fb6c90bd7610"
+      ]
+    },
+    {
+      "id": "173300",
+      "name": "臺南市環保局污染源稽查處分概況(114年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d65e3961-3f71-4120-b09c-0da28010736a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d65e3961-3f71-4120-b09c-0da28010736a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b80cdbb5-d397-4816-8579-0e9f360062b1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b80cdbb5-d397-4816-8579-0e9f360062b1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5311678c-43c4-48e3-acb4-18095c622724",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5311678c-43c4-48e3-acb4-18095c622724",
+        "https://soa.tainan.gov.tw/Api/Service/Get/08bae587-d686-409a-aa8c-251c32a0e510",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/08bae587-d686-409a-aa8c-251c32a0e510",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e1cb7595-fd76-4f47-8238-28e7c69be156",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e1cb7595-fd76-4f47-8238-28e7c69be156",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ae7d8d9c-ab0d-4ef7-93eb-6e5db046565d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ae7d8d9c-ab0d-4ef7-93eb-6e5db046565d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/046e982b-7358-4e2d-a049-80daf0f64b6c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/046e982b-7358-4e2d-a049-80daf0f64b6c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7a220191-6a34-4370-8ab8-ae1673b313ed",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7a220191-6a34-4370-8ab8-ae1673b313ed",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7ebea198-577a-45b3-b966-cdab2fab7ec3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7ebea198-577a-45b3-b966-cdab2fab7ec3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ad973be2-20f9-4ecc-a3dc-fbad1f2efab0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ad973be2-20f9-4ecc-a3dc-fbad1f2efab0"
+      ]
+    },
+    {
+      "id": "173398",
+      "name": "臺南市空氣中總懸浮微粒及落塵量檢驗結果(114年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7d5554f2-9737-4676-9e65-0b8f265e5e3d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7d5554f2-9737-4676-9e65-0b8f265e5e3d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8fe83915-c53f-4330-9b07-23ce6facc697",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8fe83915-c53f-4330-9b07-23ce6facc697",
+        "https://soa.tainan.gov.tw/Api/Service/Get/36c9dfa5-36c2-4aaa-ba0b-33ec45e02713",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/36c9dfa5-36c2-4aaa-ba0b-33ec45e02713",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3750bbd4-2c00-40ca-80db-3636d94e687a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3750bbd4-2c00-40ca-80db-3636d94e687a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bcccfce6-91c5-46f1-800c-5f73c0d03ce7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bcccfce6-91c5-46f1-800c-5f73c0d03ce7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f78a124e-2114-4599-97e0-76b4dc6b9926",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f78a124e-2114-4599-97e0-76b4dc6b9926",
+        "https://soa.tainan.gov.tw/Api/Service/Get/03c0fafc-1a52-46c5-a921-7b4856e69a5a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/03c0fafc-1a52-46c5-a921-7b4856e69a5a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b60663cf-3b86-42cb-bd5a-9200e2052e1f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b60663cf-3b86-42cb-bd5a-9200e2052e1f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7009510c-28ae-4f63-95a9-9e298c666ce5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7009510c-28ae-4f63-95a9-9e298c666ce5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/13f504c1-4b23-494b-84d4-a50fd522a193",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/13f504c1-4b23-494b-84d4-a50fd522a193",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cb4bd5ff-4f34-4bfc-b63b-c78c09ba878f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cb4bd5ff-4f34-4bfc-b63b-c78c09ba878f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/43341d6f-22e7-47e8-9360-f108a417c403",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/43341d6f-22e7-47e8-9360-f108a417c403"
+      ]
+    },
+    {
+      "id": "173490",
+      "name": "臺南市廢棄物非法棄置列管場址",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/502f83cd-3b27-4d5c-89c2-d2b3c84d28ea",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/502f83cd-3b27-4d5c-89c2-d2b3c84d28ea"
+      ]
+    },
+    {
+      "id": "7005",
+      "name": "臺南市公廁地址",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e5a76a19-f340-4c45-93c3-4b866678e552",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e5a76a19-f340-4c45-93c3-4b866678e552"
+      ]
+    },
+    {
+      "id": "53602",
+      "name": "臺南市公有廣告欄一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/47d7256c-c7f2-43c8-9171-ace293de4fb9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/47d7256c-c7f2-43c8-9171-ace293de4fb9"
+      ]
+    },
+    {
+      "id": "53605",
+      "name": "臺南市營建工地空汙費繳費櫃檯資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4b5df14b-b934-4f38-a8ed-6b3e0de6b959",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4b5df14b-b934-4f38-a8ed-6b3e0de6b959"
+      ]
+    },
+    {
+      "id": "53479",
+      "name": "臺南市地下水監測資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2e2cc714-624a-4c7e-8d27-123d974dec8f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2e2cc714-624a-4c7e-8d27-123d974dec8f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c2996f37-b700-487f-b7c7-159fea8640d6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c2996f37-b700-487f-b7c7-159fea8640d6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c116eaf8-d2cf-4497-922b-203333c7727f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c116eaf8-d2cf-4497-922b-203333c7727f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/76707140-af26-4c29-bde6-4fbe7fb317d5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/76707140-af26-4c29-bde6-4fbe7fb317d5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/67efa34e-1ff9-4f40-b40c-66aec080f031",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/67efa34e-1ff9-4f40-b40c-66aec080f031",
+        "https://soa.tainan.gov.tw/Api/Service/Get/eb84fb71-5cd3-4cac-be6c-953b4b82dd25",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eb84fb71-5cd3-4cac-be6c-953b4b82dd25",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a4a0ccf1-b0b8-4ad4-bd1f-c8bca91f3ec8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a4a0ccf1-b0b8-4ad4-bd1f-c8bca91f3ec8"
+      ]
+    },
+    {
+      "id": "53345",
+      "name": "臺南市土壤及地下水污染整治場址",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/480ca5d1-ec6f-4da0-a6cb-a6eafa990990",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/480ca5d1-ec6f-4da0-a6cb-a6eafa990990"
+      ]
+    },
+    {
+      "id": "79601",
+      "name": "臺南市抽驗飲用水(自來水)水質檢驗結果(108年)",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/950ba19c-f451-46bb-80b2-454cdbcbc297",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ca96126a-1fac-48b6-a87a-6c672987698e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/edf9b7dd-f03d-45ae-92fd-06ac46b1563a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3eec7ffe-b06f-4dc0-b613-0be44806039e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/724bb2aa-f91e-4bbd-8d01-3445910d969c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7561ab45-959c-48b1-a657-aaa612d8d71e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/275085ac-3378-4b94-b20b-d7a8adc69992",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c7b0845d-9565-45da-bcb1-56c720212b3c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5bb3026c-34ff-449f-836d-a51098000df9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0fa366ff-492b-42e1-a9be-2cc63fe0fe86",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8f3d12a8-5370-45af-82e7-302fe8b16dd2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7f358486-706b-4602-b4a7-90135ac87481",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ca96126a-1fac-48b6-a87a-6c672987698e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/edf9b7dd-f03d-45ae-92fd-06ac46b1563a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3eec7ffe-b06f-4dc0-b613-0be44806039e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0fa366ff-492b-42e1-a9be-2cc63fe0fe86",
+        "https://soa.tainan.gov.tw/Api/Service/Get/950ba19c-f451-46bb-80b2-454cdbcbc297",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c7b0845d-9565-45da-bcb1-56c720212b3c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/724bb2aa-f91e-4bbd-8d01-3445910d969c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/275085ac-3378-4b94-b20b-d7a8adc69992",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7561ab45-959c-48b1-a657-aaa612d8d71e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5bb3026c-34ff-449f-836d-a51098000df9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8f3d12a8-5370-45af-82e7-302fe8b16dd2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7f358486-706b-4602-b4a7-90135ac87481"
+      ]
+    },
+    {
+      "id": "100207",
+      "name": "臺南市環境用藥販賣業名單",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/11567bbb-4f44-4fee-b199-2a4583e3a6ec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/11567bbb-4f44-4fee-b199-2a4583e3a6ec"
+      ]
+    },
+    {
+      "id": "100766",
+      "name": "臺南市公害陳情案件受理統計(108年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7094ee5f-51d6-4d57-864d-013b2d6a080d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7094ee5f-51d6-4d57-864d-013b2d6a080d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9c60b4b6-ea83-4b69-bad0-0e96deb3efc7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9c60b4b6-ea83-4b69-bad0-0e96deb3efc7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/565fee32-5d26-4fdf-a3b0-40e97fb363f1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/565fee32-5d26-4fdf-a3b0-40e97fb363f1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bebd09bb-029e-4ca6-bf2e-4aad35eec620",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bebd09bb-029e-4ca6-bf2e-4aad35eec620",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a44cb488-5afc-4743-98ed-6d4d2da21742",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a44cb488-5afc-4743-98ed-6d4d2da21742",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2917d94a-96b3-4d53-b071-8b6d428ffa30",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2917d94a-96b3-4d53-b071-8b6d428ffa30",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0db3012e-959b-400b-a789-a42d84eb8107",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0db3012e-959b-400b-a789-a42d84eb8107",
+        "https://soa.tainan.gov.tw/Api/Service/Get/284ba1cb-2ed0-4e37-a991-c000fa60832d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/284ba1cb-2ed0-4e37-a991-c000fa60832d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ec171f37-c4b9-4c60-9932-c36efe77ca56",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ec171f37-c4b9-4c60-9932-c36efe77ca56",
+        "https://soa.tainan.gov.tw/Api/Service/Get/59b9dec1-17fd-4d1a-9dd2-c8a7004990e4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/59b9dec1-17fd-4d1a-9dd2-c8a7004990e4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/68f602d7-d2c1-405a-8b2f-e27ae56441e2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/68f602d7-d2c1-405a-8b2f-e27ae56441e2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c96d309a-7a13-4a97-9a78-eefd619f4a26",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c96d309a-7a13-4a97-9a78-eefd619f4a26"
+      ]
+    },
+    {
+      "id": "121027",
+      "name": "臺南市抽驗飲用水(自來水)水質檢驗結果(109年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/47c35b4e-ee77-446b-a872-3686d83a93b7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/47c35b4e-ee77-446b-a872-3686d83a93b7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/23b0263c-0b3a-488b-b985-4e6235d13ff1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/23b0263c-0b3a-488b-b985-4e6235d13ff1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9bc340ff-a902-4a3f-8a48-63fc77412b88",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9bc340ff-a902-4a3f-8a48-63fc77412b88",
+        "https://soa.tainan.gov.tw/Api/Service/Get/95e25eda-aa13-4c7b-9267-742f399152ed",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/95e25eda-aa13-4c7b-9267-742f399152ed",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1f2cd871-9663-40b4-8271-884f8eca6291",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1f2cd871-9663-40b4-8271-884f8eca6291",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6538e03b-c1c5-4163-8a8e-c66ac31e1077",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6538e03b-c1c5-4163-8a8e-c66ac31e1077",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4524eeee-6a2a-46d2-8e9a-c9734cf3c853",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4524eeee-6a2a-46d2-8e9a-c9734cf3c853",
+        "https://soa.tainan.gov.tw/Api/Service/Get/13539363-042a-4e1a-b344-c9ad617eb14f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/13539363-042a-4e1a-b344-c9ad617eb14f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/926a5025-d76f-4058-bd0b-ca269255e6a3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/926a5025-d76f-4058-bd0b-ca269255e6a3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2eb11d7a-418d-4a63-9a71-de786bdcc394",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2eb11d7a-418d-4a63-9a71-de786bdcc394",
+        "https://soa.tainan.gov.tw/Api/Service/Get/da92012c-5497-4d77-8f43-e33801605493",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/da92012c-5497-4d77-8f43-e33801605493",
+        "https://soa.tainan.gov.tw/Api/Service/Get/57b906fc-ddae-4234-9620-f7d2bc85b157",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/57b906fc-ddae-4234-9620-f7d2bc85b157"
+      ]
+    },
+    {
+      "id": "117456",
+      "name": "臺南市轄內飲水機位置",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7168579c-d18b-41e7-8948-f0525093bd51",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7168579c-d18b-41e7-8948-f0525093bd51"
+      ]
+    },
+    {
+      "id": "127595",
+      "name": "臺南市加水站水源供應許可核可名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/08498138-c7ee-471e-a7a4-2ea3c6f376d5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/08498138-c7ee-471e-a7a4-2ea3c6f376d5"
+      ]
+    },
+    {
+      "id": "127554",
+      "name": "臺南市飲用水檢驗測定機構",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/bf6944e6-501d-41ea-9028-948d414a12cf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bf6944e6-501d-41ea-9028-948d414a12cf"
+      ]
+    },
+    {
+      "id": "127992",
+      "name": "臺南市環保人員概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/eeeb1a2f-aef8-46c1-bc56-32cd9e4ec4f3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eeeb1a2f-aef8-46c1-bc56-32cd9e4ec4f3"
+      ]
+    },
+    {
+      "id": "128296",
+      "name": "臺南市環保餐廳",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0ef2ae01-b576-4a10-b05d-fa6117d430e3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0ef2ae01-b576-4a10-b05d-fa6117d430e3"
+      ]
+    },
+    {
+      "id": "136659",
+      "name": "臺南市政府環境保護局噪音稽查處分概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7ea627ea-08ea-415d-a7df-0e74b9c826db",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7ea627ea-08ea-415d-a7df-0e74b9c826db",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2eaf46f4-0a94-46c6-8274-150c3cfb2925",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2eaf46f4-0a94-46c6-8274-150c3cfb2925",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0e161b89-8d3f-45b1-a7af-167dc62574e6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0e161b89-8d3f-45b1-a7af-167dc62574e6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/18c93b75-8bc2-4344-b07b-3458a90449f6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/18c93b75-8bc2-4344-b07b-3458a90449f6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bc2381e8-f497-4d11-b72d-52e6de3627a8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bc2381e8-f497-4d11-b72d-52e6de3627a8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0a1763a5-2806-4173-9789-6596c2e74836",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0a1763a5-2806-4173-9789-6596c2e74836",
+        "https://soa.tainan.gov.tw/Api/Service/Get/522fd4e4-ea9e-4a98-b3c3-66916ae754f6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/522fd4e4-ea9e-4a98-b3c3-66916ae754f6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9ef502c0-30dc-4601-b58a-7e213ef44b01",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9ef502c0-30dc-4601-b58a-7e213ef44b01",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e2b391fc-5761-416c-bece-7f0daf5d7aa6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e2b391fc-5761-416c-bece-7f0daf5d7aa6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a9f57b80-7ec6-4925-ac02-83b362b46e50",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a9f57b80-7ec6-4925-ac02-83b362b46e50",
+        "https://soa.tainan.gov.tw/Api/Service/Get/28655f5d-8628-413f-8de7-992e030af16a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/28655f5d-8628-413f-8de7-992e030af16a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a804674c-36d8-4f09-bc3b-a3b7116366c8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a804674c-36d8-4f09-bc3b-a3b7116366c8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2e783fef-da53-48db-a4ac-a6a8197c9d0e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2e783fef-da53-48db-a4ac-a6a8197c9d0e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ea638b3c-efdb-4ed1-9684-cf521b0adb0f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ea638b3c-efdb-4ed1-9684-cf521b0adb0f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9a348a09-7fe1-44d4-9cd6-fc78fa7ef96c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9a348a09-7fe1-44d4-9cd6-fc78fa7ef96c"
+      ]
+    },
+    {
+      "id": "137334",
+      "name": "臺南市環保局污染源稽查(查核)處分概況(110年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d1ee8bbe-3374-484b-8952-2420ddc9b2ec",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d1ee8bbe-3374-484b-8952-2420ddc9b2ec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dc9127a7-081c-47cb-b243-36b048e445f6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dc9127a7-081c-47cb-b243-36b048e445f6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/02a0b25d-ad76-4d91-adfa-41dd1a768ee7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/02a0b25d-ad76-4d91-adfa-41dd1a768ee7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/12256d44-c8b5-4d1e-95f7-4229d2681af7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/12256d44-c8b5-4d1e-95f7-4229d2681af7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e630f71c-1c67-4edd-ac32-4fa7a5a12ff7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e630f71c-1c67-4edd-ac32-4fa7a5a12ff7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/abd88f61-dd30-4856-bc6a-594812e0812b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/abd88f61-dd30-4856-bc6a-594812e0812b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dd0c1455-fb3d-45c2-9b2e-73cec133a9f3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dd0c1455-fb3d-45c2-9b2e-73cec133a9f3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/adab3e55-9d3f-4c9e-ac24-88a225e6377f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/adab3e55-9d3f-4c9e-ac24-88a225e6377f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ddfebee8-d88f-4b42-a89f-c09d46069545",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ddfebee8-d88f-4b42-a89f-c09d46069545",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d7c77391-04d5-4007-a92a-d6a925e1dc0a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d7c77391-04d5-4007-a92a-d6a925e1dc0a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0352a063-25ad-491d-a8e5-f0736f718e18",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0352a063-25ad-491d-a8e5-f0736f718e18",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cde1f7a7-5992-4cf5-b32c-fea38fecbcbd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cde1f7a7-5992-4cf5-b32c-fea38fecbcbd"
+      ]
+    },
+    {
+      "id": "138968",
+      "name": "取得臺南市核發之廢食用油回收車輛工作證者清冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e216f4af-bf83-446d-9d30-456efbb2b35a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e216f4af-bf83-446d-9d30-456efbb2b35a"
+      ]
+    },
+    {
+      "id": "136310",
+      "name": "臺南市垃圾車GPS資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/62fbf318-84e3-4e2e-aebd-b6f89a38e199",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2c8a70d5-06f2-4353-9e92-c40d33bcd969"
+      ]
+    },
+    {
+      "id": "138669",
+      "name": "臺南市徵收營建工程空氣污染防制費統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/73fd10e7-51ba-4ed6-83d3-2eae4b368220",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7007b86f-1fa5-4f0b-8051-4242d6c44554",
+        "https://soa.tainan.gov.tw/Api/Service/Get/56a09d39-efcf-4c28-a7c9-6b6bc3e8a750",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/de35a171-01de-4b32-9039-f33250c1561d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7007b86f-1fa5-4f0b-8051-4242d6c44554",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/56a09d39-efcf-4c28-a7c9-6b6bc3e8a750",
+        "https://soa.tainan.gov.tw/Api/Service/Get/de35a171-01de-4b32-9039-f33250c1561d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/577478b1-c7ea-4c7b-a7da-dba93f425c54",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/73fd10e7-51ba-4ed6-83d3-2eae4b368220",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/577478b1-c7ea-4c7b-a7da-dba93f425c54"
+      ]
+    },
+    {
+      "id": "138779",
+      "name": "臺南市政府環境教育審議會委員名冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/bc1274c2-7f34-479c-ba25-ca9c37e1798c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bc1274c2-7f34-479c-ba25-ca9c37e1798c"
+      ]
+    },
+    {
+      "id": "149127",
+      "name": "臺南市公害陳情案件受理統計(111年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4d9cd0f1-e691-4313-9925-0e8ae2cf38fc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4d9cd0f1-e691-4313-9925-0e8ae2cf38fc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b4f63898-178d-4e06-b34e-2c6db6cbd3e8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b4f63898-178d-4e06-b34e-2c6db6cbd3e8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/99f313fc-0131-4351-b25a-3fe97af97f68",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/99f313fc-0131-4351-b25a-3fe97af97f68",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e08cc1e3-528f-4800-8b9b-51a817effb4d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e08cc1e3-528f-4800-8b9b-51a817effb4d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/65c0a760-53fb-46a3-9e18-7a97416a9977",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/65c0a760-53fb-46a3-9e18-7a97416a9977",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1605b979-3124-4a31-a51d-c0974c4d5750",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1605b979-3124-4a31-a51d-c0974c4d5750",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6150439e-1756-41ad-9154-c65c21df0707",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6150439e-1756-41ad-9154-c65c21df0707",
+        "https://soa.tainan.gov.tw/Api/Service/Get/30646ce6-7129-49ad-b423-d4f55966851d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/30646ce6-7129-49ad-b423-d4f55966851d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b8248331-cae6-4888-b900-e0acbe382fa7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b8248331-cae6-4888-b900-e0acbe382fa7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/be09bac5-c7a3-4341-a0d7-e58962b7c8c1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/be09bac5-c7a3-4341-a0d7-e58962b7c8c1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/49dcb604-6462-4630-9730-f2a7f2894832",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/49dcb604-6462-4630-9730-f2a7f2894832",
+        "https://soa.tainan.gov.tw/Api/Service/Get/44514676-eaed-4803-878d-ff7face0c6c0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/44514676-eaed-4803-878d-ff7face0c6c0"
+      ]
+    },
+    {
+      "id": "149128",
+      "name": "臺南市環保局污染源稽查(查核)處分概況(111年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f55f2988-7f3c-4183-a66d-a1116bab7da9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a48599b6-25c6-4236-b521-6b831479d7ce",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a48599b6-25c6-4236-b521-6b831479d7ce",
+        "https://soa.tainan.gov.tw/Api/Service/Get/104c6882-1726-42bb-b363-394b32ccc55f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/345e9213-7081-44e9-b72b-ff64afe56dd5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2991ff98-261f-4f8d-9295-21e241f27a12",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4c7ae705-8ec4-4538-a4f5-4a2c048738e2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c2371646-9281-4f5e-837a-3feda85d728d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0c92ca94-ae56-46db-a62d-9e1d842e595f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2991ff98-261f-4f8d-9295-21e241f27a12",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2a2943d4-e26b-435b-8740-5650b02d5b91",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ffb4f39a-cd47-4e69-842a-360394c5fee7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/738afcc7-9efc-498e-a33a-9a0dd623b05e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d77e354d-6e58-4a75-b6ec-bc7000f8b2b3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4c7ae705-8ec4-4538-a4f5-4a2c048738e2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c2371646-9281-4f5e-837a-3feda85d728d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/104c6882-1726-42bb-b363-394b32ccc55f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d77e354d-6e58-4a75-b6ec-bc7000f8b2b3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f55f2988-7f3c-4183-a66d-a1116bab7da9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0c92ca94-ae56-46db-a62d-9e1d842e595f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ffb4f39a-cd47-4e69-842a-360394c5fee7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2a2943d4-e26b-435b-8740-5650b02d5b91",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/345e9213-7081-44e9-b72b-ff64afe56dd5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/738afcc7-9efc-498e-a33a-9a0dd623b05e"
+      ]
+    },
+    {
+      "id": "148503",
+      "name": "臺南市城西掩埋場地下水檢測報告(110年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/450c928d-4abf-46a1-a0db-a47159e8e6ba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/450c928d-4abf-46a1-a0db-a47159e8e6ba",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4896e6b2-3cb4-4e53-9009-ad0bfed0881b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4896e6b2-3cb4-4e53-9009-ad0bfed0881b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/555d44dc-e78a-437c-ac4d-d149f28f02cd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/555d44dc-e78a-437c-ac4d-d149f28f02cd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7ad1329f-0c4a-4e55-b452-d258dd90ec87",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7ad1329f-0c4a-4e55-b452-d258dd90ec87"
+      ]
+    },
+    {
+      "id": "161382",
+      "name": "臺南市抽驗飲用水(自來水)水質檢驗結果(112年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/89ed84de-908d-44c6-9af1-269e97095912",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/89ed84de-908d-44c6-9af1-269e97095912",
+        "https://soa.tainan.gov.tw/Api/Service/Get/add0c412-dfc2-4b3a-bbad-2a3a0ad4be35",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/add0c412-dfc2-4b3a-bbad-2a3a0ad4be35",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2951976d-4fa1-4f3d-9308-6009f6315e62",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2951976d-4fa1-4f3d-9308-6009f6315e62",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a22e3c2e-baf7-4b54-8be9-8011f5467dcd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a22e3c2e-baf7-4b54-8be9-8011f5467dcd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2f532dc5-8542-4ca4-9f21-9718e14ac4e9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2f532dc5-8542-4ca4-9f21-9718e14ac4e9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fda79746-9614-489f-8564-a0bb53653557",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fda79746-9614-489f-8564-a0bb53653557",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e3af523a-b1a9-437e-83a4-b33b60d4abc3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e3af523a-b1a9-437e-83a4-b33b60d4abc3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7da99cf1-380f-4c7c-88e3-bcca8dc0a484",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7da99cf1-380f-4c7c-88e3-bcca8dc0a484",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d25c8fdc-16ab-40cb-b84b-c4d8f453c899",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d25c8fdc-16ab-40cb-b84b-c4d8f453c899",
+        "https://soa.tainan.gov.tw/Api/Service/Get/65eaafca-af83-491f-9ebf-f1b117cf0bc9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/65eaafca-af83-491f-9ebf-f1b117cf0bc9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/66e9141d-9dd4-48f4-b0b7-feebc432dfd6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/66e9141d-9dd4-48f4-b0b7-feebc432dfd6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6237efb8-999d-4ae6-9250-ff1b0006fd28",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6237efb8-999d-4ae6-9250-ff1b0006fd28"
+      ]
+    },
+    {
+      "id": "161383",
+      "name": "臺南市環保局污染源稽查處分概況(112年)",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ff95cba2-5f81-4bb3-ba5c-49e9af528e4d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3757ccd7-0a1a-46d7-90d6-a0148644d43a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9377db60-34ee-4b4d-8f43-afcba1f535c2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e16ddfad-a274-4076-a62b-d956dd1b5d4d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ff95cba2-5f81-4bb3-ba5c-49e9af528e4d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9377db60-34ee-4b4d-8f43-afcba1f535c2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b0f038a1-33db-4a9b-91e8-c6d2076bbbae",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3757ccd7-0a1a-46d7-90d6-a0148644d43a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b0f038a1-33db-4a9b-91e8-c6d2076bbbae",
+        "https://soa.tainan.gov.tw/Api/Service/Get/08c821ab-a669-468a-a96b-a4fd888b4eb3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/08c821ab-a669-468a-a96b-a4fd888b4eb3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c1b6eb93-5b8b-4aa8-88fd-10523de43f35",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c1b6eb93-5b8b-4aa8-88fd-10523de43f35",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a1eeda60-06c2-40c3-99a0-ab20fd479169",
+        "https://soa.tainan.gov.tw/Api/Service/Get/723d066d-97fe-4632-8a64-a327c321c204",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/94bab5fc-b17f-4098-9415-461e2495847d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/723d066d-97fe-4632-8a64-a327c321c204",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e16ddfad-a274-4076-a62b-d956dd1b5d4d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a1eeda60-06c2-40c3-99a0-ab20fd479169",
+        "https://soa.tainan.gov.tw/Api/Service/Get/94bab5fc-b17f-4098-9415-461e2495847d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5b129c58-8966-4630-9614-e655e7d63ba1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8256d06e-d72c-457e-a771-a4d3d59e747a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8256d06e-d72c-457e-a771-a4d3d59e747a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5b129c58-8966-4630-9614-e655e7d63ba1"
+      ]
+    },
+    {
+      "id": "161385",
+      "name": "臺南市空氣中總懸浮微粒及落塵量檢驗結果(112年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a2780df1-6fe1-4562-a72d-092be9b124a3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a2780df1-6fe1-4562-a72d-092be9b124a3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5ee44018-a788-4ca0-9c23-16af16d829bd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5ee44018-a788-4ca0-9c23-16af16d829bd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d74382e7-ac01-4fee-a8a5-25d09976dd5e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d74382e7-ac01-4fee-a8a5-25d09976dd5e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7dd27dcd-6bda-402b-b88e-4cbc21dbf102",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7dd27dcd-6bda-402b-b88e-4cbc21dbf102",
+        "https://soa.tainan.gov.tw/Api/Service/Get/307b2090-62fe-4476-b9e0-4ee881edeeec",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/307b2090-62fe-4476-b9e0-4ee881edeeec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7b60335d-7128-4613-884b-59e0520de9b7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7b60335d-7128-4613-884b-59e0520de9b7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ce65cc95-7703-4b3d-8176-701aef42cdab",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ce65cc95-7703-4b3d-8176-701aef42cdab",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d8b8bf34-9435-401f-8bda-76d192f51e1d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d8b8bf34-9435-401f-8bda-76d192f51e1d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c67ddc3a-773a-44d0-a04a-822ca711c358",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c67ddc3a-773a-44d0-a04a-822ca711c358",
+        "https://soa.tainan.gov.tw/Api/Service/Get/445c1af9-04c9-429e-bc87-e7c6a7238a77",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/445c1af9-04c9-429e-bc87-e7c6a7238a77",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7046de9f-1edf-4a4d-968e-eadc677e0730",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7046de9f-1edf-4a4d-968e-eadc677e0730",
+        "https://soa.tainan.gov.tw/Api/Service/Get/94abaf61-62d5-424b-9f74-f39612df3222",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/94abaf61-62d5-424b-9f74-f39612df3222"
+      ]
+    },
+    {
+      "id": "161386",
+      "name": "臺南市公害陳情案件受理統計(112年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/9c9a62df-fb1b-45c1-9e12-0d7e6d8529ad",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9c9a62df-fb1b-45c1-9e12-0d7e6d8529ad",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1f9e68ef-1853-4a7d-b54d-142881c8fa86",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1f9e68ef-1853-4a7d-b54d-142881c8fa86",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9b4384f0-5141-4a94-818d-36068ff9bafb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9b4384f0-5141-4a94-818d-36068ff9bafb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d157d236-8561-45b6-b93b-55c25b837357",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d157d236-8561-45b6-b93b-55c25b837357",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6f7bce89-2d6d-4dd4-8559-6228ef84561f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6f7bce89-2d6d-4dd4-8559-6228ef84561f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/840c7be7-57df-40b0-a610-625a03764d02",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/840c7be7-57df-40b0-a610-625a03764d02",
+        "https://soa.tainan.gov.tw/Api/Service/Get/af4cf912-2cd0-47e0-b0b1-7e04bc0ec8d3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/af4cf912-2cd0-47e0-b0b1-7e04bc0ec8d3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b1a1a738-7264-43d8-952f-88f41682a894",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b1a1a738-7264-43d8-952f-88f41682a894",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8962f715-cef5-4646-84ef-bcbd07f24b74",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8962f715-cef5-4646-84ef-bcbd07f24b74",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7a3c4d73-5d6d-434d-8e8d-e1b88fd93bc4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7a3c4d73-5d6d-434d-8e8d-e1b88fd93bc4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/38a324ab-574f-40c6-8c22-e41cf2ce6e2f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/38a324ab-574f-40c6-8c22-e41cf2ce6e2f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/171b3028-7f64-4880-960f-fefb7bdce3d1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/171b3028-7f64-4880-960f-fefb7bdce3d1"
+      ]
+    },
+    {
+      "id": "172710",
+      "name": "臺南市環境檢驗樣品分類統計(114年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5f306fe5-21c9-4064-bd41-196128c19fd7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5f306fe5-21c9-4064-bd41-196128c19fd7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ab61647f-c4a1-4179-b10b-24fa1bb4ce7d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ab61647f-c4a1-4179-b10b-24fa1bb4ce7d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/803fc9de-3eec-46d5-93ab-266fdd1095d2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/803fc9de-3eec-46d5-93ab-266fdd1095d2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4089b8d8-16cd-404d-8241-3242f2e7252c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4089b8d8-16cd-404d-8241-3242f2e7252c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b795196f-cd9d-49e4-abd0-42fb5afd6199",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b795196f-cd9d-49e4-abd0-42fb5afd6199",
+        "https://soa.tainan.gov.tw/Api/Service/Get/beaa3334-0021-452d-95e6-4d123467469c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/beaa3334-0021-452d-95e6-4d123467469c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/950abc57-9de1-449c-b98c-64a3dffc46e3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/950abc57-9de1-449c-b98c-64a3dffc46e3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4605bcd4-a8af-482e-80c0-921d1a5c8644",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4605bcd4-a8af-482e-80c0-921d1a5c8644",
+        "https://soa.tainan.gov.tw/Api/Service/Get/59a64877-101e-4a3e-86e9-9f87c259e0f6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/59a64877-101e-4a3e-86e9-9f87c259e0f6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9c33c0ac-6a8c-4e01-848d-a6686c517279",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9c33c0ac-6a8c-4e01-848d-a6686c517279",
+        "https://soa.tainan.gov.tw/Api/Service/Get/83f064bc-45a1-4bb8-abc3-aafa46a5ea86",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/83f064bc-45a1-4bb8-abc3-aafa46a5ea86",
+        "https://soa.tainan.gov.tw/Api/Service/Get/065c0653-7ced-4286-bbe7-cbf146e5fcf4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/065c0653-7ced-4286-bbe7-cbf146e5fcf4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c8456a4e-9004-4834-8b97-d82c68bdb2bc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c8456a4e-9004-4834-8b97-d82c68bdb2bc"
+      ]
+    },
+    {
+      "id": "172790",
+      "name": "臺南市公害陳情案件受理統計(114年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/929045cd-58cd-49dc-8431-26d5ee023ac7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/929045cd-58cd-49dc-8431-26d5ee023ac7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2d960226-6707-4665-b46d-50181967ba79",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2d960226-6707-4665-b46d-50181967ba79",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3f9bbb4b-0de7-4817-b318-81f678bf5078",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3f9bbb4b-0de7-4817-b318-81f678bf5078",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1c879590-d66e-46f8-b5b5-924d17ac21d3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1c879590-d66e-46f8-b5b5-924d17ac21d3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d77cef0d-9cf4-4caf-9145-a57842e66ba7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d77cef0d-9cf4-4caf-9145-a57842e66ba7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9f30c4e2-0633-4368-9ea4-bff0c9e1af53",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9f30c4e2-0633-4368-9ea4-bff0c9e1af53",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3f09edc1-e535-4a94-9514-e0f572ff68b0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3f09edc1-e535-4a94-9514-e0f572ff68b0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/83fb8ec8-521e-423b-bb52-feb62e228b03",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/83fb8ec8-521e-423b-bb52-feb62e228b03"
+      ]
+    },
+    {
+      "id": "118223",
+      "name": "臺南市焚化廠回饋設施",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d3d42a3f-e857-412a-924a-d85512e74ee9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d3d42a3f-e857-412a-924a-d85512e74ee9"
+      ]
+    },
+    {
+      "id": "118117",
+      "name": "臺南市環境教育設施場所",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/20a4cb51-4cc9-4e98-95a7-8e5e36d953a6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/20a4cb51-4cc9-4e98-95a7-8e5e36d953a6"
+      ]
+    },
+    {
+      "id": "129830",
+      "name": "臺南市環境影響評估列管案件統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3cf38490-3687-4e06-bf59-d0504aafe9fb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3cf38490-3687-4e06-bf59-d0504aafe9fb"
+      ]
+    },
+    {
+      "id": "128451",
+      "name": "臺南市航空噪音防制區",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fa93403a-8b8b-4db0-b111-e6ca4392ccff",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fa93403a-8b8b-4db0-b111-e6ca4392ccff",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ea3afbbf-4e68-4376-abc9-c1a496892a70",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ea3afbbf-4e68-4376-abc9-c1a496892a70"
+      ]
+    },
+    {
+      "id": "129517",
+      "name": "臺南市溫室氣體排放統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f93495e3-cc72-4f37-aeef-150a5059cb80",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f93495e3-cc72-4f37-aeef-150a5059cb80"
+      ]
+    },
+    {
+      "id": "129518",
+      "name": "臺南市偏遠地區移動式機車檢驗站服務行程表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b1056c5d-1390-4d09-bb70-03128f71e4bc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b1056c5d-1390-4d09-bb70-03128f71e4bc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dd361750-f5be-44a1-a438-0c8823446857",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dd361750-f5be-44a1-a438-0c8823446857",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3c6bd83a-6f5c-4375-8ff8-1b436d45d061",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3c6bd83a-6f5c-4375-8ff8-1b436d45d061",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8dd8e5ca-f08c-44c6-8e27-27449c7ca966",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8dd8e5ca-f08c-44c6-8e27-27449c7ca966",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ec06f0b5-f09e-431b-81fc-4713c8ba5c28",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ec06f0b5-f09e-431b-81fc-4713c8ba5c28",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f2ffbf05-87da-4e63-8a09-5f68ba5190a0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f2ffbf05-87da-4e63-8a09-5f68ba5190a0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8bafbb49-2fc7-44cc-8bf1-acba2d3bfe80",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8bafbb49-2fc7-44cc-8bf1-acba2d3bfe80",
+        "https://soa.tainan.gov.tw/Api/Service/Get/773eadfc-176a-4922-aab9-aeedd7a18ff4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/773eadfc-176a-4922-aab9-aeedd7a18ff4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/75afad32-8921-4fd3-b3be-cdea4e2e960b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/75afad32-8921-4fd3-b3be-cdea4e2e960b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0f307a81-138e-43a2-9b35-dda22136156a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0f307a81-138e-43a2-9b35-dda22136156a"
+      ]
+    },
+    {
+      "id": "129453",
+      "name": "臺南市巨大垃圾統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/36acf4ea-d588-4a3c-b038-fba96c123217",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/36acf4ea-d588-4a3c-b038-fba96c123217"
+      ]
+    },
+    {
+      "id": "129456",
+      "name": "臺南市低碳永續家園評等數量",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a483671a-1433-4a2f-9714-71581a7993d8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a483671a-1433-4a2f-9714-71581a7993d8"
+      ]
+    },
+    {
+      "id": "129458",
+      "name": "臺南市環保局污染源稽查(查核)處分概況(109年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/98767bf5-7efb-4569-8b3c-004a2bccf772",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/98767bf5-7efb-4569-8b3c-004a2bccf772",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2006a65c-b322-4e4f-8538-0512a08c42d7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2006a65c-b322-4e4f-8538-0512a08c42d7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/613c4031-7665-46fa-b008-16d527a837b0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/613c4031-7665-46fa-b008-16d527a837b0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ea2ac159-7695-4a1c-a114-374c9c29bb5d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ea2ac159-7695-4a1c-a114-374c9c29bb5d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2692ba76-61d1-4eb3-9429-4323daa90495",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2692ba76-61d1-4eb3-9429-4323daa90495",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1b4b8dcb-4c3a-4c0f-83df-4cb09ecf0040",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1b4b8dcb-4c3a-4c0f-83df-4cb09ecf0040",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f2dc8b64-4fc3-4d52-8d79-5fac77c55ba8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f2dc8b64-4fc3-4d52-8d79-5fac77c55ba8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f5735e55-20be-40a6-830c-6a24435f047c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f5735e55-20be-40a6-830c-6a24435f047c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dc3d4c2e-b3b0-4c0e-9dee-c095af2a79f1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dc3d4c2e-b3b0-4c0e-9dee-c095af2a79f1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b941320f-541e-4a44-94d5-cb0a116ee693",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b941320f-541e-4a44-94d5-cb0a116ee693",
+        "https://soa.tainan.gov.tw/Api/Service/Get/39c27649-1002-48e8-ae3c-d1066dab1179",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/39c27649-1002-48e8-ae3c-d1066dab1179",
+        "https://soa.tainan.gov.tw/Api/Service/Get/71e281fd-3136-4d48-9372-eff0a0ebfcda",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/71e281fd-3136-4d48-9372-eff0a0ebfcda"
+      ]
+    },
+    {
+      "id": "129778",
+      "name": "臺南市南科特殊性工業區監測數據(109年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/56ed006f-794f-46ff-a621-21eec572e385",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/56ed006f-794f-46ff-a621-21eec572e385",
+        "https://soa.tainan.gov.tw/Api/Service/Get/887566d9-6ac5-45c9-a3ea-4c00776a74dd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/887566d9-6ac5-45c9-a3ea-4c00776a74dd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/777791b8-7251-4aff-b06e-4fb9b28de6dd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/777791b8-7251-4aff-b06e-4fb9b28de6dd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2519b3aa-4d4f-4fbb-af20-6519c5f64fbb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2519b3aa-4d4f-4fbb-af20-6519c5f64fbb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b9dc2cdc-5742-4693-b445-717fcd7032d8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b9dc2cdc-5742-4693-b445-717fcd7032d8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/71550720-46cc-4791-9c49-a627bc682a1d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/71550720-46cc-4791-9c49-a627bc682a1d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6a62e777-e72e-4075-ad20-aecaea5806aa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6a62e777-e72e-4075-ad20-aecaea5806aa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ff3c1260-d623-4739-8675-b3d173bd2365",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ff3c1260-d623-4739-8675-b3d173bd2365",
+        "https://soa.tainan.gov.tw/Api/Service/Get/39423ac5-cf6b-4425-b056-ce4553d28cf0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/39423ac5-cf6b-4425-b056-ce4553d28cf0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/909817b5-f150-4f7f-9908-d73fe57c90eb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/909817b5-f150-4f7f-9908-d73fe57c90eb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a85082a1-4479-4424-8ed7-fcaab388c866",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a85082a1-4479-4424-8ed7-fcaab388c866",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c0df7ff8-3c98-4bc0-91d6-ff6516ba48b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c0df7ff8-3c98-4bc0-91d6-ff6516ba48b8"
+      ]
+    },
+    {
+      "id": "129807",
+      "name": "臺南市城西掩埋場地下水檢測報告(108年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e51c4daf-3d8b-4c8c-960c-8ff455953584",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e51c4daf-3d8b-4c8c-960c-8ff455953584",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5e879ad6-0316-4182-9add-9a7269067001",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5e879ad6-0316-4182-9add-9a7269067001",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4458a068-34f7-43e4-81ad-ad82db8b4b9e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4458a068-34f7-43e4-81ad-ad82db8b4b9e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5687c799-486c-4767-9fec-ff6b1bc9d3b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5687c799-486c-4767-9fec-ff6b1bc9d3b8"
+      ]
+    },
+    {
+      "id": "129808",
+      "name": "臺南市減廢日餐與店家名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b296a4c7-4406-4bc0-83c2-dab1a698802d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b296a4c7-4406-4bc0-83c2-dab1a698802d"
+      ]
+    },
+    {
+      "id": "147155",
+      "name": "三爺溪總量管制區域",
+      "format": "shp",
+      "urls": [
+        "https://data.tainan.gov.tw/Resource/01f11e80-079f-431c-a376-64df2a7fa0b8?fileId=bf33717c-5ff6-4374-8d56-43333435c544&importFileType=ShapeFile&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "147504",
+      "name": "臺南市噪音陳情案件資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f9e222cb-9f10-4bd8-baa6-01deb84ba106",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f9e222cb-9f10-4bd8-baa6-01deb84ba106",
+        "https://soa.tainan.gov.tw/Api/Service/Get/338bd8c6-b321-4cca-8511-22b7225244e9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/338bd8c6-b321-4cca-8511-22b7225244e9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/35632863-352e-4b8e-bc14-74d29dc7ed09",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/35632863-352e-4b8e-bc14-74d29dc7ed09",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2cc03118-6aae-4995-b6a2-80d28cb640ea",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2cc03118-6aae-4995-b6a2-80d28cb640ea",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b2a83163-4dce-4e78-af8c-c7bc42f354ba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b2a83163-4dce-4e78-af8c-c7bc42f354ba"
+      ]
+    },
+    {
+      "id": "147219",
+      "name": "臺南市空氣品質監測站設置概況與測定項目",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7cdb4976-0eaf-46f0-bf01-b2db07f57a26",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7cdb4976-0eaf-46f0-bf01-b2db07f57a26"
+      ]
+    },
+    {
+      "id": "150240",
+      "name": "臺南市資源回收成果統計(111年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/cae96311-4479-4713-865a-218dd9509e44",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cae96311-4479-4713-865a-218dd9509e44",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8b787e77-2166-4323-b584-3a7dd2fb4043",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8b787e77-2166-4323-b584-3a7dd2fb4043",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8ead3491-3c51-4888-ab5b-55b3fb40389d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8ead3491-3c51-4888-ab5b-55b3fb40389d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8a367dd6-fc4c-40b8-b683-57e5898f1ad4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8a367dd6-fc4c-40b8-b683-57e5898f1ad4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ee6ae2ec-7c1f-43d0-8e5f-698a1af0b34c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ee6ae2ec-7c1f-43d0-8e5f-698a1af0b34c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/64b4dd98-4ea0-418c-8c9b-6d36f96d7fed",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/64b4dd98-4ea0-418c-8c9b-6d36f96d7fed",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0c02d5c2-8369-4631-8c7c-710929a09fb1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0c02d5c2-8369-4631-8c7c-710929a09fb1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/210fba2d-a2dc-4eab-9b85-af07c47d7077",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/210fba2d-a2dc-4eab-9b85-af07c47d7077",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fcdcf1f4-ab77-4a68-8ca9-b5ab5e07f9da",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fcdcf1f4-ab77-4a68-8ca9-b5ab5e07f9da",
+        "https://soa.tainan.gov.tw/Api/Service/Get/378aae10-c45f-4760-bc15-eb66b4d8b88d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/378aae10-c45f-4760-bc15-eb66b4d8b88d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/99e999b6-fd30-4128-908c-f0a18b6947ed",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/99e999b6-fd30-4128-908c-f0a18b6947ed",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1cc4acad-ecc7-4681-a26d-ff6ba4828156",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1cc4acad-ecc7-4681-a26d-ff6ba4828156"
+      ]
+    },
+    {
+      "id": "176926",
+      "name": "臺南市空氣中總懸浮微粒檢驗結果(115年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4b8d766a-55c6-4dba-94f1-7dfc4129b26a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4b8d766a-55c6-4dba-94f1-7dfc4129b26a"
+      ]
+    },
+    {
+      "id": "176748",
+      "name": "臺南市抽驗飲用水(自來水)水質檢驗結果(115年)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/44cb6c65-bdbf-48d0-8b7e-989e809b6c6b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/44cb6c65-bdbf-48d0-8b7e-989e809b6c6b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ca599bed-905a-476e-82ec-f2e260e8db7c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ca599bed-905a-476e-82ec-f2e260e8db7c"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府財政局",
+  "slug": "newdatacenter_taichung_gov_tw_bb855061",
+  "datasets": [
+    {
+      "id": "83842",
+      "name": "臺中市合法菸酒製造業者資料",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3d528e5e-986c-4355-9271-9501574ec4bb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/871f72c0-83bf-470e-ad34-b0b218970ad5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f889af57-aede-44d3-bb9d-ee2ce9503f9e"
+      ]
+    },
+    {
+      "id": "89298",
+      "name": "20902-00-05-2 臺中市政府各機關年度預算支用情形－按政事別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=12f5dbc5-de35-4409-9af5-81c917aa7ef8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=052c9502-a862-439b-8b60-9064adaecd1b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d25f63d8-6283-4916-beb8-1b6763db9aec",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bc05f6fe-cc2f-42c6-b074-621cc55a15ff",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6062f736-a5ae-4596-91bb-20e80c5938d9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=648cec59-2f15-4821-aa27-7dc0cd986acd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=79bf1109-89c8-407d-b582-12de8cd7f6e1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=789d0185-aef8-4ac6-9758-23500eb4e4af",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ef91812e-da29-4683-aeda-bf5583a0d221",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d7074fbd-1436-4aa8-af11-a402d30b4784",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=82d92cff-22b5-4d51-9c5c-8eeb6ce1b821",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7957462b-a900-4f1e-bea7-66a33ddf4460",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7fe9ec3e-5d81-4240-a9b8-b245d458210d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dd70a417-d99a-49cf-80be-020a1559991d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=571c1350-91d0-43e2-be96-d9e472d88e3d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=64d4a41d-ce1b-4974-a176-02e78b1a4fe8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d87c63c6-5664-4633-a799-492e9fdbac15",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4e160a73-1d11-4e1a-81bf-36b0d5adba52"
+      ]
+    },
+    {
+      "id": "89301",
+      "name": "20902-00-07-2 臺中市政府各機關以前年度應付歲出款支付餘額－按政事別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=101c73ce-048b-4c4c-b4d6-d4f5cdfd96b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=84ffd96f-a935-46de-8cda-3159b1dada6f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=93150c9c-d93d-477d-860f-58c43b6133d7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f87beade-2ecb-408f-b434-83651eb5f264",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fd25f7bc-a777-4cf9-aa5a-3bed296d5bdd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c528367d-0e82-4cd5-bc50-b21cde2585ab",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b4bbe57d-22b7-45d3-bdf1-aa407a97c72c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e7c82f9b-128d-45a6-94bb-e73b1a6eba52",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=24e420c6-ca81-4836-b7fb-a03b6bc03a92",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6b935c8b-e980-49b3-b3ec-f2eb10e4d503",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=853ea973-7755-41cb-a2ca-1e7d2b01b07d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7d0d3a86-ce5e-411e-802a-cc56b501c50a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f2112fb3-7440-4db3-8515-59167da3f586",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b59569b-1c29-49c1-9b74-e92064a781ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e124104f-6879-44b4-977e-0fcdd45e7cc9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bbb211d9-345d-405f-ba84-898852b724c3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2e734ea9-29b8-47f3-b4b1-cf6317a920f0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=92d09a48-1d9c-403c-ae44-f22a43c891ff"
+      ]
+    },
+    {
+      "id": "84187",
+      "name": "臺中市106年標售市有不動產開標結果",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/da1683b3-53bb-4c89-a7c0-e551143f9754",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b48cc907-186b-496e-955b-9b5fb17805e5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/67bd802c-a19e-499b-9a2b-f2946cb9492b"
+      ]
+    },
+    {
+      "id": "84103",
+      "name": "臺中市政府歲入預算執行情形",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2bed03ff-842a-4dbd-b8a3-1fcdaf3d5b78"
+      ]
+    },
+    {
+      "id": "84971",
+      "name": "臺中市政府最新債務訊息",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1fdd0ce9-0f71-4741-acc2-04fc883a7e1a"
+      ]
+    },
+    {
+      "id": "84929",
+      "name": "臺中市103年標售市有不動產開標結果",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d01cedc5-7ada-4b79-86ae-9363ded4607d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4b43b730-d5ed-4f2f-8798-4914d86d710d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/46dbaf32-8b12-4443-ad62-98f4cad073d7"
+      ]
+    },
+    {
+      "id": "84938",
+      "name": "臺中市政府辦理民間公共建設已簽約案件統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4457bbd5-6f39-405e-be39-d0fbda8315ee",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c0917c0f-16a8-473e-8c99-d59417bf8e0d"
+      ]
+    },
+    {
+      "id": "167834",
+      "name": "臺中市政府財政局113年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/386d9d13-509c-452d-b28d-f7459cf2e8e5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b1636043-8dee-47a4-a91d-91bc70d44c5f"
+      ]
+    },
+    {
+      "id": "89303",
+      "name": "20902-00-09-2 臺中市市庫集中支付收辦憑單件數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=99bb0041-b965-44b0-89c1-81b910e5c177",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ed7681ec-4a7b-409a-8a03-2825a780484b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=84dc1883-b89d-4a4b-a504-eee1a49eba0e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d129800d-5ed3-4b93-8cff-6378aabc3a39",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=07b2f121-6c9d-40b8-9a34-3d1f4c7de2ba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1374e93a-b542-474c-ab50-36556c38578f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e05aa371-de1f-415d-a042-7d9685b438b0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2ead7da8-0091-4058-997a-fd75d2d4e7a1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6413a68d-e3fb-4d27-8e7c-41643568c728",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4e83ec3c-8c38-4e4d-9756-f9063c1e8e34",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b38fac17-b301-4fe8-a4e2-55da4e1acd56",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2a083f12-ecab-4338-be3d-71074823516c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5c087d8a-e2ff-496d-bb6a-eb1063385025",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f4ef7734-8e98-4271-8aff-23007c088bf3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7ce89ceb-1a5d-4645-b1c4-db12d201b891",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f54e24aa-7eff-4ff7-b676-2a15deb9d7e0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ee16882d-2eea-4a3a-a220-9e34b1f41816",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=00da4c80-a9dc-44c0-91aa-a39e6e77aa23"
+      ]
+    },
+    {
+      "id": "84930",
+      "name": "臺中市104年標售市有不動產開標結果",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e55fa008-cf2d-4672-9604-4d5cf8636867",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e9efa914-0259-4753-9da1-3992253ee0f1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e64fe253-97a1-4250-9c0c-a0b262665ed6"
+      ]
+    },
+    {
+      "id": "84119",
+      "name": "臺中市政府辦理民間參與公共建設案件統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/85624a91-b193-4f8c-8690-b664eaea0e00",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b3e6e434-177e-4e80-ad72-571354aef4e5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f7944a95-01fb-4f56-b83b-a21de8654b01"
+      ]
+    },
+    {
+      "id": "89299",
+      "name": "20902-00-06-2 臺中市政府各機關年度預算支用情形－按主管別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5c646b77-f3f9-4bf6-b695-e07125d1377c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=02e31b65-8860-4060-b78f-16ad492e5a3e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3582b3cb-3097-49cb-ab42-fe59ffa5a4a5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd00c2b3-5eba-4232-b88b-948be12103be",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4cd7d26-f446-4e7d-ae57-f73b86399f3b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2aef8832-903a-4634-a2a8-7a2972c3faca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=406ff333-6ba7-4613-90aa-b9b90c0589f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7574c14f-df57-4977-8b32-43b0ef23a1e9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f59ed98d-1d5c-464d-ac4c-39c31955aec3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=36cf48c5-c23c-42e3-ad29-1538dc3d23bc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9451516b-934a-4302-a07a-7a43f684fd72",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c46261dc-4e82-4daf-8ce6-7a146bc4e405",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=36bb413a-4bd8-4147-ab37-28b9cea44543",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=141ce9db-8954-4c9f-9055-f7ad572704e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3a328434-85ef-4ebc-8a7f-cbe310e1bc83",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b6f3107-9fbc-4c28-bc2e-95eb5d015bc8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7ff35378-aa22-46a8-bc52-de9eb9435b8d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3e52193f-0016-4c6f-9442-1c2c2372ef41"
+      ]
+    },
+    {
+      "id": "127583",
+      "name": "臺中市107年標售市有不動產開標結果",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b7e3d70c-5e22-4bf9-8bf3-74127528f68c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f3ea0ad8-c49c-4959-b8ee-1d57f5395b7c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3f2a0ef8-245d-4279-8111-9eecee6a0ef7"
+      ]
+    },
+    {
+      "id": "103110",
+      "name": "20902-00-11-2 臺中市實施集中支付電連存帳及簽發支票數量與金額",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4666ba51-2eb8-482f-a8b4-bff1ff37e31c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=902e28e3-0974-4ab6-9422-76a554d2eb76",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=24cd8062-914a-40f2-a828-bab8e68d5aee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9212eb62-a098-4c78-b164-f1aac823f61a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b71f019-5241-4d23-a95d-9f6bc51a518d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f7c13fbc-3fd2-46ad-bb25-b5b7de101fc6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7e9c1a91-5962-4e73-b451-baf41cc9bc9e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=977c4a26-bba8-4136-a385-438519ba7516",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=220f7487-df4a-4d6f-9869-9b7f193ea663",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18b7556a-f9d8-4579-a0fa-56ec835b6e12",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6a604eca-07c2-4518-bab4-c1e2baffe189",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8a5eb6e1-bdd4-446e-bdde-f1e2dd4b01e0"
+      ]
+    },
+    {
+      "id": "89310",
+      "name": "20909-00-01-2 臺中市政府財政局抽檢菸酒業者情形",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f7770825-334e-4347-bcfd-e5f25f619684",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6bf66969-b391-41e2-9673-652f3a4ce81b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6a96556b-3b7a-4a62-867b-32c48323e092",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=021df37d-4189-435c-a048-d7066b157907",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1f7627e2-5fc0-4c4e-b737-17e48467e854",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c6b36cfb-b090-4723-93d9-8082725da376",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b880745-84ac-472b-8c10-cd224f9bf14d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ada9c32a-2b01-4f8c-bb01-9de62c17d7a7"
+      ]
+    },
+    {
+      "id": "85073",
+      "name": "105年標售市有不動產開標結果",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7a4cf182-955e-4f25-8123-e6d347504289",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a2b16f2d-5aa0-42fc-9fe9-8767aa5cf8d2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9fb9541e-73d2-478d-848f-923efc4d34f6"
+      ]
+    },
+    {
+      "id": "89302",
+      "name": "20902-00-08-2 臺中市政府各機關以前年度應付歲出款支付餘額－按主管別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a6b8ae3-c8dd-4028-b2d4-fa918384e739",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f3cc1503-6ae4-48ed-8ba0-cc79f0848110",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f080693-9cbd-4bd1-9191-8e4254a35323",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=488bedf5-ca57-494e-8af6-9050981a8bea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3f85e5f6-0be6-4788-8d45-57826c324424",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dcc0d9d4-cc69-4610-b715-337a1f9cbb9f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1edd26aa-53e9-4a64-ae9c-7b5c2e51eed6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=55fc6bc2-950c-48dc-99df-83e8331f2af0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4be12896-cce2-4182-bafa-a99ca27a3a16",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e984efd-a27b-4916-822e-432289d27f40",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8d7e3fad-e0ba-46b1-bcef-9110d0984963",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a99b8bf5-7e86-4e9b-9cf7-4f17ada81c04",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dcea42e1-c7eb-4ccf-aa26-1c99e7280cc1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f93aced0-8755-476c-ab3e-6d6d549a966b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=da569fcc-c7d9-4ec6-a614-c66f83513edf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=98d5f67a-61f2-445e-99c4-cf1a54ccca9d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2e47e599-8c8f-4cda-8d27-a9d881b0ba5d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=315862e0-52c3-4eed-9d34-9fae28d6f76e"
+      ]
+    },
+    {
+      "id": "89234",
+      "name": "20811-07-01-2 臺中市信用合作社存放款概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b3a00a87-2049-4bf4-b813-00e066d740e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=204aad57-aeda-4b0e-9622-ffa918167470",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8d916ab2-ac0f-415d-b2cd-31425dda68ba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f2c18b43-7925-4261-a3d3-4f2e54c7b450",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d0eb7de-28b5-4179-a0c8-da10bc2a8b80",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bf1c6786-7738-47b7-b216-fcb9fa1c241b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=520920f5-70c4-4936-a911-244bdcfe740e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=69d7decc-5c2c-4c15-8a91-1b44c76eb746",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b37ee612-8dc4-4bd5-8206-1f89c11cda69",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3f8fa52c-ed8e-4972-90f9-ee6fe636a915",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b5e7325-f880-4e67-a0b3-6a5732f66a99",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=38e4b5db-90ff-4075-9cfe-4c1e07fd2b2f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c0d88a26-8446-47dd-a1d9-669c65efe3ab",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=44c90a54-ed06-4259-aa81-84db3de8d39a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b78dd76e-2a1f-4d0a-83d5-c47413301bed",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=00f3ecd1-8c67-47ee-9083-d0c6f23566d9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=792f5ad8-f356-45f6-81f8-35db7c874a2c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=799fd2a2-3fb1-4f29-b62f-803965778dea"
+      ]
+    },
+    {
+      "id": "103914",
+      "name": "臺中市政府歲入預算執行情形-審計處決算審定數",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cfc2a441-e013-4723-bea1-c5eb41f6cc8b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e982d573-923b-445f-8f68-9e612bccd235",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=572df195-cacc-4d47-81c1-61edd00504a1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4b4b24b2-0d69-439c-bb23-be62516d71ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d38b1d8b-7ef5-4eb9-b000-264d08738af1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=61a0e3df-23bf-4ca5-a307-e728b37bb311",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=006048b9-84d3-4920-af76-8a8e946bddb7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=133dc3b1-1fe6-4751-b6e3-cb8cd76b1652",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ea4d98ed-255f-4cfd-9dbe-93eba2caea85"
+      ]
+    },
+    {
+      "id": "83587",
+      "name": "臺中市政府近5年歲入預算結構表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0c05b55a-f2dc-41e1-86a8-d8abcf621365"
+      ]
+    },
+    {
+      "id": "84105",
+      "name": "臺中市各年度債務未償餘額實際數表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1f962171-73a8-42f5-9b01-b2f538e46aa7"
+      ]
+    },
+    {
+      "id": "119652",
+      "name": "臺中市市有財產總目錄",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/507b6f5c-cd83-40e4-9434-4ae17144f02f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/85153272-f39e-4c31-8a9b-413da4591809",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c1ce37ff-4c19-4583-a4b8-e9cb205e995d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7b91fb07-ea13-496b-b264-8474767e802a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/81dd404d-8741-41dd-8a39-1a9868ac6216",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e0067e4e-dd85-441b-aece-10cd6e7af164",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5ed6aab0-e2fd-49ca-bd97-4d52b729878e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7ab6050c-3b5f-452f-8ac7-3165256db8c3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9276eef9-455c-4ae1-82a0-7e5a828a24b8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/15964699-ddc6-48a7-92ba-8bd17a87cf1c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/62f08968-79fd-4b30-a235-e288b50812bc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/70f4169b-92f0-49fb-89ca-0906392cd3fa"
+      ]
+    },
+    {
+      "id": "127584",
+      "name": "臺中市108年標售市有不動產開標結果",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/52b3b253-54fc-4a67-8a0e-704bb6cc871b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8a60f42f-defd-4305-9dc0-04d416361b67",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b5b459fe-9d45-4ed7-9f7c-cada81177916"
+      ]
+    },
+    {
+      "id": "135872",
+      "name": "109年標售市有不動產開標結果",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d5962d22-dbb0-496f-a00e-03948d857e42",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8b450e92-eb5c-4651-acd7-7006d7f75747",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/378caaed-3049-4352-b2a5-5d43280a915d"
+      ]
+    },
+    {
+      "id": "103109",
+      "name": "20902-00-10-2 臺中市實施集中支付支用單位數、支付淨額與可支用庫款餘額",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec5a6197-0998-4341-b816-14452c5d6151",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=96d1616b-efab-45f0-a2ad-57069ff8d35f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=068a47eb-6de4-464a-b601-de2be0846076",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a07ca63f-4013-441f-81f4-3cdcac53e0de",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bed56baf-27d1-407d-b433-a7cfee2db9ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1dee9bb4-d08a-46ec-8985-0f09197ee21c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fd077128-07a2-4fd8-b874-285103ae7692",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18563a57-b7fb-459d-9bbf-84ab938c93ee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f58ad6b-09ed-46a4-980d-a88e68015610"
+      ]
+    },
+    {
+      "id": "89296",
+      "name": "20811-07-02-2 臺中市信用合作社存放款餘額",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d99dad6-1bc7-4f39-89fe-619ff7a6773f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a8e4a29-423d-43d6-be2c-4d53290a8275",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9198efe8-3dd8-45fd-b0de-8ee8261d49ff",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff6a71a7-f712-49cb-9f31-065e2a40df30"
+      ]
+    },
+    {
+      "id": "116173",
+      "name": "20811-02-01-2 臺中市各信用合作社分布",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8ff772d6-60c8-4df6-96b4-60d3e22e7ae5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cf6dfa13-cd8e-4510-8710-bdefb37c4710",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a21d68f1-5bb1-4c45-ad85-39a80cac5c9d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3e1494ae-3a10-499b-bfe8-2ea22dc5d91e"
+      ]
+    },
+    {
+      "id": "89297",
+      "name": "20811-90-01-2 臺中市信用合作社概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18450447-e8ef-4e70-aea3-8653cc4af37c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f5419773-1151-44b0-8139-13949eeded16",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2aa8088d-f978-49fc-8f27-2784b02f86a9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8f1a8539-0f04-469b-ac8b-301dcf504530"
+      ]
+    }
+  ]
+}

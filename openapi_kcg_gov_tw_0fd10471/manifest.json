@@ -1,0 +1,309 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府經濟發展局",
+  "slug": "openapi_kcg_gov_tw_0fd10471",
+  "datasets": [
+    {
+      "id": "47006",
+      "name": "高雄市民有零售市場",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b4e6ae98-39b7-469b-8c68-56492cad3b71",
+        "https://data.kcg.gov.tw/File/DirectDownload/b4e6ae98-39b7-469b-8c68-56492cad3b71"
+      ]
+    },
+    {
+      "id": "46992",
+      "name": "高雄市自來水管承裝商",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8d3448e4-84a6-4e6f-b45d-6f75aac791a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/8d3448e4-84a6-4e6f-b45d-6f75aac791a7"
+      ]
+    },
+    {
+      "id": "46995",
+      "name": "高雄市加油站一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a35d7975-0c0b-4a4e-847f-737711df1f2e",
+        "https://data.kcg.gov.tw/File/DirectDownload/a35d7975-0c0b-4a4e-847f-737711df1f2e"
+      ]
+    },
+    {
+      "id": "46997",
+      "name": "高雄市用電設備檢驗維護業登記清冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b965d771-738c-4d2a-b655-68908cee3d8b",
+        "https://data.kcg.gov.tw/File/DirectDownload/b965d771-738c-4d2a-b655-68908cee3d8b"
+      ]
+    },
+    {
+      "id": "46998",
+      "name": "高雄市天然氣導管承裝商清冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0cacb657-18aa-41ce-9b58-f6b0cea50be9",
+        "https://data.kcg.gov.tw/File/DirectDownload/0cacb657-18aa-41ce-9b58-f6b0cea50be9"
+      ]
+    },
+    {
+      "id": "101855",
+      "name": "高雄市既有工業管線及管線公里數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f563134a-4b22-41ae-a9e2-8c23f0771a14",
+        "https://data.kcg.gov.tw/File/DirectDownload/f563134a-4b22-41ae-a9e2-8c23f0771a14"
+      ]
+    },
+    {
+      "id": "101854",
+      "name": "高雄市政府經濟發展局權管8處市有基地位置",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4306e031-98f5-4672-b2fd-1f5764795e9e",
+        "https://data.kcg.gov.tw/File/DirectDownload/4306e031-98f5-4672-b2fd-1f5764795e9e"
+      ]
+    },
+    {
+      "id": "47007",
+      "name": "高雄市公有零售市場",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/daec9f26-fb4a-4448-9389-3c4a291a5c44",
+        "https://data.kcg.gov.tw/File/DirectDownload/daec9f26-fb4a-4448-9389-3c4a291a5c44"
+      ]
+    },
+    {
+      "id": "47015",
+      "name": "高雄市促進產業發展自治條例獎助措施核定獎助申請案清冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90f1d837-08c5-4b63-8cc9-0ecb5bb4492f",
+        "https://data.kcg.gov.tw/File/DirectDownload/90f1d837-08c5-4b63-8cc9-0ecb5bb4492f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a59cb683-4945-48e9-aeb3-47e049e4111a",
+        "https://data.kcg.gov.tw/File/DirectDownload/a59cb683-4945-48e9-aeb3-47e049e4111a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/37f6315d-7fb7-41e9-a1ba-5a402bc7b86a",
+        "https://data.kcg.gov.tw/File/DirectDownload/37f6315d-7fb7-41e9-a1ba-5a402bc7b86a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b7ba687f-10f6-43bf-a8ab-5b2f0915bcde",
+        "https://data.kcg.gov.tw/File/DirectDownload/b7ba687f-10f6-43bf-a8ab-5b2f0915bcde",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6e0b19c0-e399-41b6-9562-684986f403de",
+        "https://data.kcg.gov.tw/File/DirectDownload/6e0b19c0-e399-41b6-9562-684986f403de",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9eb80d5f-d335-493f-960e-704921d7f191",
+        "https://data.kcg.gov.tw/File/DirectDownload/9eb80d5f-d335-493f-960e-704921d7f191",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d59398fe-38fd-4815-93e3-713bb45721ed",
+        "https://data.kcg.gov.tw/File/DirectDownload/d59398fe-38fd-4815-93e3-713bb45721ed",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a21ac20-48b8-4ab5-a191-77580917f195",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a21ac20-48b8-4ab5-a191-77580917f195",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4531d0eb-3d40-4122-96b4-98f7eb336d6a",
+        "https://data.kcg.gov.tw/File/DirectDownload/4531d0eb-3d40-4122-96b4-98f7eb336d6a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7dd4292b-5a6a-4b3a-919b-a852beaa7075",
+        "https://data.kcg.gov.tw/File/DirectDownload/7dd4292b-5a6a-4b3a-919b-a852beaa7075",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e643a1ce-c333-429c-80e8-ad18b90c3912",
+        "https://data.kcg.gov.tw/File/DirectDownload/e643a1ce-c333-429c-80e8-ad18b90c3912",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d4925d7e-faff-41ef-9085-ae0c8c209bc8",
+        "https://data.kcg.gov.tw/File/DirectDownload/d4925d7e-faff-41ef-9085-ae0c8c209bc8"
+      ]
+    },
+    {
+      "id": "102204",
+      "name": "高雄觀光工廠名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/051bd077-c051-4321-a88b-e9d513ef3508",
+        "https://data.kcg.gov.tw/File/DirectDownload/051bd077-c051-4321-a88b-e9d513ef3508"
+      ]
+    },
+    {
+      "id": "127883",
+      "name": "高雄市民間報編設置產業園區現況資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5bacec86-b428-42d8-b5a3-533052e8589f",
+        "https://data.kcg.gov.tw/File/DirectDownload/5bacec86-b428-42d8-b5a3-533052e8589f"
+      ]
+    },
+    {
+      "id": "136847",
+      "name": "改進傳統市場經營管理-樂活菜市仔競爭力提升計畫",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/43e7f400-f289-4c75-8712-aa84c6a34d83",
+        "https://data.kcg.gov.tw/File/DirectDownload/43e7f400-f289-4c75-8712-aa84c6a34d83",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/349f7297-3fe2-445e-948c-fb47fb0b290a",
+        "https://data.kcg.gov.tw/File/DirectDownload/349f7297-3fe2-445e-948c-fb47fb0b290a"
+      ]
+    },
+    {
+      "id": "43773",
+      "name": "高雄市商店街區行銷活動補助執行情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/deb3f3b7-be99-49b2-a7c0-2eefd7903aa4",
+        "https://data.kcg.gov.tw/File/DirectDownload/deb3f3b7-be99-49b2-a7c0-2eefd7903aa4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dfd0c020-4bb2-4bc4-9001-6737d01490ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/dfd0c020-4bb2-4bc4-9001-6737d01490ac",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0730a983-1df5-45f9-9b1a-6bb7a405d196",
+        "https://data.kcg.gov.tw/File/DirectDownload/0730a983-1df5-45f9-9b1a-6bb7a405d196",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/de208778-1e40-40bf-853a-6c1ef3c52a8a",
+        "https://data.kcg.gov.tw/File/DirectDownload/de208778-1e40-40bf-853a-6c1ef3c52a8a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cd8680fb-320e-4f54-9ba3-70b5a9d5709e",
+        "https://data.kcg.gov.tw/File/DirectDownload/cd8680fb-320e-4f54-9ba3-70b5a9d5709e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f5d5c159-935e-4ab7-bbff-7468c612ce4a",
+        "https://data.kcg.gov.tw/File/DirectDownload/f5d5c159-935e-4ab7-bbff-7468c612ce4a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc7e4b3e-4d80-400d-8c69-8a5ea98edf9a",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc7e4b3e-4d80-400d-8c69-8a5ea98edf9a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b126230a-d4cd-428b-8014-a29739391ebf",
+        "https://data.kcg.gov.tw/File/DirectDownload/b126230a-d4cd-428b-8014-a29739391ebf",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/29cec914-6638-4334-b463-b52c744b6d36",
+        "https://data.kcg.gov.tw/File/DirectDownload/29cec914-6638-4334-b463-b52c744b6d36",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/73c1c6d8-14b7-4ac1-9b6f-d393bd143b3a",
+        "https://data.kcg.gov.tw/File/DirectDownload/73c1c6d8-14b7-4ac1-9b6f-d393bd143b3a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e8a204ce-b2da-46a5-86dc-fafab71ecb9b",
+        "https://data.kcg.gov.tw/File/DirectDownload/e8a204ce-b2da-46a5-86dc-fafab71ecb9b"
+      ]
+    },
+    {
+      "id": "43869",
+      "name": "高雄市獎勵會議展覽活動實施辦法申請案件辦理情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b807ad3d-040b-44a1-b8b0-251ffad8ff99",
+        "https://data.kcg.gov.tw/File/DirectDownload/b807ad3d-040b-44a1-b8b0-251ffad8ff99",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03b12ea2-80ba-493d-8da9-407f54a211f1",
+        "https://data.kcg.gov.tw/File/DirectDownload/03b12ea2-80ba-493d-8da9-407f54a211f1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f25d988-22ee-4758-8f2d-4abe8a155dcf",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f25d988-22ee-4758-8f2d-4abe8a155dcf",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0882c501-0b5f-426d-93ac-602ea3dba108",
+        "https://data.kcg.gov.tw/File/DirectDownload/0882c501-0b5f-426d-93ac-602ea3dba108",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/94c9b121-f4ab-40df-a4eb-87f19660a044",
+        "https://data.kcg.gov.tw/File/DirectDownload/94c9b121-f4ab-40df-a4eb-87f19660a044",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1b22c482-08ec-4489-a2a4-b135e1b74b34",
+        "https://data.kcg.gov.tw/File/DirectDownload/1b22c482-08ec-4489-a2a4-b135e1b74b34",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0692d008-1223-44f1-9a56-dcb743d825b4",
+        "https://data.kcg.gov.tw/File/DirectDownload/0692d008-1223-44f1-9a56-dcb743d825b4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9ecbfbc6-9eba-4368-aeb0-df31bf9de8b8",
+        "https://data.kcg.gov.tw/File/DirectDownload/9ecbfbc6-9eba-4368-aeb0-df31bf9de8b8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9df8f790-31fc-49e5-ae37-e395e25db4ba",
+        "https://data.kcg.gov.tw/File/DirectDownload/9df8f790-31fc-49e5-ae37-e395e25db4ba",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6f5edf95-5dbe-44f5-906a-f32b61726dc7",
+        "https://data.kcg.gov.tw/File/DirectDownload/6f5edf95-5dbe-44f5-906a-f32b61726dc7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/acd42c22-6728-4f0f-b710-f4904332ae0b",
+        "https://data.kcg.gov.tw/File/DirectDownload/acd42c22-6728-4f0f-b710-f4904332ae0b"
+      ]
+    },
+    {
+      "id": "46989",
+      "name": "高雄市地方型SBIR歷屆執行計畫一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fc128b69-311a-4c4b-9534-0cb964027258",
+        "https://data.kcg.gov.tw/File/DirectDownload/fc128b69-311a-4c4b-9534-0cb964027258",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/37467276-1c17-45a0-833a-11ac531b378d",
+        "https://data.kcg.gov.tw/File/DirectDownload/37467276-1c17-45a0-833a-11ac531b378d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58a4f781-7735-48c1-97e0-1d6313d58808",
+        "https://data.kcg.gov.tw/File/DirectDownload/58a4f781-7735-48c1-97e0-1d6313d58808",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/894c6f7a-c0fd-401b-b11a-311d7b5b13eb",
+        "https://data.kcg.gov.tw/File/DirectDownload/894c6f7a-c0fd-401b-b11a-311d7b5b13eb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9eeb5d2c-d62f-4065-a7b3-3286be6b86f1",
+        "https://data.kcg.gov.tw/File/DirectDownload/9eeb5d2c-d62f-4065-a7b3-3286be6b86f1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e917a7de-6c97-4327-bb9a-331f5a8d936b",
+        "https://data.kcg.gov.tw/File/DirectDownload/e917a7de-6c97-4327-bb9a-331f5a8d936b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e3e900f2-47d7-419e-9555-47f31a86b463",
+        "https://data.kcg.gov.tw/File/DirectDownload/e3e900f2-47d7-419e-9555-47f31a86b463",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/884ee9a0-0b2e-4cd1-9d8e-49be706aa07c",
+        "https://data.kcg.gov.tw/File/DirectDownload/884ee9a0-0b2e-4cd1-9d8e-49be706aa07c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8c75bebc-e0a6-43cc-ba7e-583970c29f82",
+        "https://data.kcg.gov.tw/File/DirectDownload/8c75bebc-e0a6-43cc-ba7e-583970c29f82",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/32d8258e-88d1-4586-9ede-6d0630fc9e6b",
+        "https://data.kcg.gov.tw/File/DirectDownload/32d8258e-88d1-4586-9ede-6d0630fc9e6b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ba5be930-e3bd-4a3f-a8a7-87a6b3d017a8",
+        "https://data.kcg.gov.tw/File/DirectDownload/ba5be930-e3bd-4a3f-a8a7-87a6b3d017a8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/080ede90-07a7-41cc-b4be-9ccfa9dc1895",
+        "https://data.kcg.gov.tw/File/DirectDownload/080ede90-07a7-41cc-b4be-9ccfa9dc1895",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/236ce53a-9521-44dd-9e22-bba1ca87d798",
+        "https://data.kcg.gov.tw/File/DirectDownload/236ce53a-9521-44dd-9e22-bba1ca87d798",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a53c42d7-8217-426c-8540-bda343e3495d",
+        "https://data.kcg.gov.tw/File/DirectDownload/a53c42d7-8217-426c-8540-bda343e3495d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e2129b8c-7c89-4315-8b2b-d0cc37a1a7cc",
+        "https://data.kcg.gov.tw/File/DirectDownload/e2129b8c-7c89-4315-8b2b-d0cc37a1a7cc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7f4dc252-4d39-4374-92e5-d1852576904e",
+        "https://data.kcg.gov.tw/File/DirectDownload/7f4dc252-4d39-4374-92e5-d1852576904e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90562876-8276-4b2f-8be6-eba6301df63f",
+        "https://data.kcg.gov.tw/File/DirectDownload/90562876-8276-4b2f-8be6-eba6301df63f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8789610d-8596-4899-90cf-f43be9117248",
+        "https://data.kcg.gov.tw/File/DirectDownload/8789610d-8596-4899-90cf-f43be9117248",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4eca6087-0b63-423c-85eb-f493d9d9e514",
+        "https://data.kcg.gov.tw/File/DirectDownload/4eca6087-0b63-423c-85eb-f493d9d9e514",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f73931cc-e471-416a-bdf3-fa54ebf064e2",
+        "https://data.kcg.gov.tw/File/DirectDownload/f73931cc-e471-416a-bdf3-fa54ebf064e2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c48ac01b-d640-48c5-bbbe-fb690b7f5276",
+        "https://data.kcg.gov.tw/File/DirectDownload/c48ac01b-d640-48c5-bbbe-fb690b7f5276"
+      ]
+    },
+    {
+      "id": "46993",
+      "name": "高雄市電器承裝業登記清冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/84be7ea5-db19-4063-b548-082a70ead5fb",
+        "https://data.kcg.gov.tw/File/DirectDownload/84be7ea5-db19-4063-b548-082a70ead5fb"
+      ]
+    },
+    {
+      "id": "46994",
+      "name": "高雄市漁船加油站一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/756ef4f3-a045-4daa-b458-799c8986ce03",
+        "https://data.kcg.gov.tw/File/DirectDownload/756ef4f3-a045-4daa-b458-799c8986ce03"
+      ]
+    },
+    {
+      "id": "46996",
+      "name": "高雄市加氣站一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4e006056-5ae9-4f73-aff1-b750be7897fd",
+        "https://data.kcg.gov.tw/File/DirectDownload/4e006056-5ae9-4f73-aff1-b750be7897fd"
+      ]
+    },
+    {
+      "id": "46958",
+      "name": "高雄市岡山本洲產業園區廠商名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f61219a4-5d53-46c5-bf29-0536d63547c8",
+        "https://data.kcg.gov.tw/File/DirectDownload/f61219a4-5d53-46c5-bf29-0536d63547c8"
+      ]
+    },
+    {
+      "id": "47005",
+      "name": "高雄市攤集場名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72d7a481-b2d4-45be-b7f7-58984a650dbf",
+        "https://data.kcg.gov.tw/File/DirectDownload/72d7a481-b2d4-45be-b7f7-58984a650dbf"
+      ]
+    },
+    {
+      "id": "46884",
+      "name": "經濟發展局資料盤點表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/df5efa01-4a9d-4a1c-9c4e-14b1c8b7ac87",
+        "https://data.kcg.gov.tw/File/DirectDownload/df5efa01-4a9d-4a1c-9c4e-14b1c8b7ac87"
+      ]
+    },
+    {
+      "id": "127858",
+      "name": "高雄市政府經濟發展局權管新創基地",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e93b8d9e-d226-4a8b-ae7d-f1931a665ef7",
+        "https://data.kcg.gov.tw/File/DirectDownload/e93b8d9e-d226-4a8b-ae7d-f1931a665ef7"
+      ]
+    }
+  ]
+}

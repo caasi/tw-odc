@@ -1,0 +1,1353 @@
+{
+  "type": "dataset",
+  "provider": "內政部建築研究所",
+  "slug": "opdadm_moi_gov_tw_ee9326ba",
+  "datasets": [
+    {
+      "id": "9512",
+      "name": "建築研究所實驗單位",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/40CB763D-8DA0-4A78-B022-80BB53A66E91/resource/F5C20ED7-2A91-4CA4-9AD0-9B3ED01868C8/download"
+      ]
+    },
+    {
+      "id": "40161",
+      "name": "內政部建築研究所建築節能資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65ACBA08-3165-41D2-B31B-EAED8EF0AA39/resource/69E701E0-46B0-4F73-BBB2-EA03EB463C17/download"
+      ]
+    },
+    {
+      "id": "32024",
+      "name": "內政部建築研究所手冊、技術規範及制度要點資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/482A3D88-9298-4FE2-8961-4E2AD5C87739/resource/8DA7A7BC-8925-41EB-AD40-63E07C0A6FF3/download"
+      ]
+    },
+    {
+      "id": "32025",
+      "name": "內政部建築研究所研發及對策資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A54983EB-201D-4ACF-A52E-F63F89A7E8D7/resource/F5865CE7-3B47-4340-99C6-1DE500C349AE/download"
+      ]
+    },
+    {
+      "id": "39525",
+      "name": "內政部建築研究所箱型鋼柱資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2371B0D1-3C43-4D0D-9CF2-D0F22D3A4048/resource/BF7E6E06-AAE0-4417-9F3F-56F75C610F21/download"
+      ]
+    },
+    {
+      "id": "68651",
+      "name": "內政部建築研究所期刊一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E0F2CEB8-94DC-4153-97C9-1DE9C9FC82CD/resource/9EFF7FBF-C0A4-4605-BB32-EBE75B1BBA77/download"
+      ]
+    },
+    {
+      "id": "68652",
+      "name": "內政部建築研究所新聞發布一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E1F9E8D3-C496-40DD-AA80-D96B09422188/resource/719A2F9B-6D93-4FB8-9CB5-A597A99C1944/download"
+      ]
+    },
+    {
+      "id": "68653",
+      "name": "內政部建築研究所綠建材生產廠國別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E25C6A18-0CC0-41E3-BBDD-FC1BEF405A5C/resource/F41C29A0-E65C-4D4F-AB1E-AAE06A9F40DD/download"
+      ]
+    },
+    {
+      "id": "68654",
+      "name": "內政部建築研究所鋼筋混凝土建築物耐震能力初步評估系統（PSERCB）評估項目一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E27BC58E-604E-481C-9FC9-EB6707D179F2/resource/3206D440-9B3E-40D9-883D-DE00331FC228/download"
+      ]
+    },
+    {
+      "id": "68633",
+      "name": "內政部建築研究所山坡地社區調查清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5508D54C-5F6E-49E0-AA8C-E57859A9A449/resource/3641B871-7C08-472D-A57E-32319D7CC6EB/download"
+      ]
+    },
+    {
+      "id": "25125",
+      "name": "內政部建築研究所全球資訊網_研究成果",
+      "format": "json",
+      "urls": [
+        "https://www.abri.gov.tw/OpenData.aspx?SN=E35AF0F8413059E5",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/548B8C85-B4D3-4FCA-9D94-735C60899132/resource/F17AB4FA-A34C-4EC2-9145-D2D443E6C974/download"
+      ]
+    },
+    {
+      "id": "25126",
+      "name": "內政部建築研究所全球資訊網_出版品資訊",
+      "format": "json",
+      "urls": [
+        "https://www.abri.gov.tw/OpenData.aspx?SN=F8CF0BA2DD941908"
+      ]
+    },
+    {
+      "id": "25120",
+      "name": "內政部建築研究所全球資訊網_聯絡資訊",
+      "format": "json",
+      "urls": [
+        "https://www.abri.gov.tw/OpenData.aspx?SN=A3D20B12C3554963"
+      ]
+    },
+    {
+      "id": "21927",
+      "name": "「智慧綠建築網站」最新消息",
+      "format": "json",
+      "urls": [
+        "https://smartgreen.abri.gov.tw/OpenData.aspx?SN=F039198EEFDC4822"
+      ]
+    },
+    {
+      "id": "23049",
+      "name": "內政部建築研究所風雨風洞實驗室歷年研究",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1BF626B2-0FA2-4FC2-82F8-3C237E90044C/resource/187F6E29-9DF7-496E-AB46-69FC909A7819/download"
+      ]
+    },
+    {
+      "id": "23050",
+      "name": "內政部建築研究所防火實驗中心專利",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=F904E68FFCEEB4B6"
+      ]
+    },
+    {
+      "id": "23057",
+      "name": "內政部建築研究所防火實驗中心儀器介紹",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=32BD79EB7F3FD7AD"
+      ]
+    },
+    {
+      "id": "25246",
+      "name": "內政部建築研究所全球資訊網_訊息公告",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DEFA3F14-2981-4F7A-A618-45696EA231B5/resource/D49D5BBF-32F2-4095-81BB-2D2E37A02573/download",
+        "https://www.abri.gov.tw/OpenData.aspx?SN=187D7EF4F74A1937"
+      ]
+    },
+    {
+      "id": "22201",
+      "name": "內政部建築研究所材料實驗中心常見問答集",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=6BCE501F1EFDFAD7"
+      ]
+    },
+    {
+      "id": "22204",
+      "name": "內政部建築研究所材料實驗中心歷年研究_創新營建材料研發",
+      "format": "json",
+      "urls": [
+        "https://www.abri.gov.tw/OpenData.aspx?SN=E35AF0F8413059E5"
+      ]
+    },
+    {
+      "id": "22206",
+      "name": "內政部建築研究所材料實驗中心儀器設備_大型力學實驗室",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=01D27F67A377BB81"
+      ]
+    },
+    {
+      "id": "22127",
+      "name": "綠建材標章月報表",
+      "format": "json",
+      "urls": [
+        "https://smartgreen.abri.gov.tw/OpenData.aspx?SN=508D96CA0FD09AA7",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D965A34B-218F-4833-AFDD-2682A6666F09/resource/2E6A2088-6927-4B70-ADF8-99D56829C712/download"
+      ]
+    },
+    {
+      "id": "22934",
+      "name": "內政部建築研究所性能實驗中心檢測服務試驗報告書一覽表",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=896DD656160851F5"
+      ]
+    },
+    {
+      "id": "93199",
+      "name": "國家圖書館主動徵集內政部建築研究所之政府國際交換業務出版品清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E0B43A72-7F7C-42C2-9C0F-7FD4E4ADDF5C/resource/C653D7FF-AF7C-4D88-928C-41AFC5B56336/download"
+      ]
+    },
+    {
+      "id": "93200",
+      "name": "內政部建築研究所研提公共政策網路參與平台「眾開講」建議議題清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C1D42ECA-BD68-4A90-BFCD-FF69286E2032/resource/57E794C7-BA3A-41A7-99B3-A4104E91B27E/download"
+      ]
+    },
+    {
+      "id": "93174",
+      "name": "內政部建築研究所「優良綠建築作品甄選活動」得獎名單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/840C7151-128D-4E02-92F7-F11422C8280B/resource/840D9F48-093E-4402-9471-47D3C4FAEFF5/download"
+      ]
+    },
+    {
+      "id": "163149",
+      "name": "內政部建築研究所參加2023年台灣輔具暨長期照護大展主題表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F69A9515-0C32-4B9D-B75F-14611CC5F084/resource/FDA2DC23-37EE-424F-AE11-05B5A881C39C/download"
+      ]
+    },
+    {
+      "id": "163152",
+      "name": "111年後疫情時代建築及都市環境防疫研究及推廣計畫議程一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6C28D6AF-F52F-43DA-8657-01EE1C973F85/resource/E18E3D90-B6EF-4D83-8EEB-060D1CFA48B8/download"
+      ]
+    },
+    {
+      "id": "163157",
+      "name": "鋼筋混凝土剪力牆補強設計程序",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F0339ED9-D08A-4239-9684-CDFD8FC505FE/resource/B9B2F39C-2669-43E9-A76C-A435D6CF37FF/download"
+      ]
+    },
+    {
+      "id": "163697",
+      "name": "鋼筋混凝土運用鋼構架補強結構之損壞機制表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5839E1AC-07AD-4ECC-AF2E-BC9A1829C176/resource/80DCFAD4-8430-4CA1-8713-BC1E60D45DFB/download"
+      ]
+    },
+    {
+      "id": "139333",
+      "name": "內政部建築研究所防火實驗中心建築用防火門同型式判定原則",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6654B725-54C1-49B5-9D41-AB682FEB16EF/resource/575B26A9-3BF6-4726-A47A-DE0D57E55A57/download"
+      ]
+    },
+    {
+      "id": "139334",
+      "name": "內政部建築研究所防火實驗中心建築用門遮煙性能評定原則",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E43D1DBE-D85C-459A-A035-53DF4FB0312E/resource/70E95770-E386-40AD-8AA5-294BE7DC3D17/download"
+      ]
+    },
+    {
+      "id": "139340",
+      "name": "內政部建築研究所風工程講習會議程主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A39060A4-2CE0-4593-8362-07BC3523FE64/resource/5E06BB08-5F6A-4097-AA31-C0E26CCABA42/download"
+      ]
+    },
+    {
+      "id": "139343",
+      "name": "內政部建築研究所結構工程及構造講習會議程主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0188A63E-726B-4548-A181-5A5315419A85/resource/4102D45F-AE2B-4611-B2C2-840CD360DD26/download"
+      ]
+    },
+    {
+      "id": "139308",
+      "name": "內政部建築研究所編撰「本所109年度兒權教材」主題清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0A736BE0-748F-47E4-845C-48AABB5EFBAD/resource/2094DBE1-B343-4C84-8A85-71CEBD06B041/download"
+      ]
+    },
+    {
+      "id": "155856",
+      "name": "內政部建築研究所建築資訊建模(BIM)技術國內專業人力供給與需求調查表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8302AD3A-3FCC-42B0-9351-78870F6CE608/resource/038A35A3-CF5F-4C80-813D-837CA4293555/download"
+      ]
+    },
+    {
+      "id": "155858",
+      "name": "內政部建築研究所110年綠建築講習會議程主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8D41CDA5-DAAC-41B0-913F-2D68A2CA69F3/resource/D2339150-5D93-44D1-AD00-9786AE1B6C1D/download"
+      ]
+    },
+    {
+      "id": "155785",
+      "name": "內政部建築研究所煙層簡易二層驗證法軟體廠商名單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9CB7F264-50B3-4E67-9D29-D1A1054488B2/resource/A5ADCBA6-C7DC-40F2-A521-BE5F74E49697/download"
+      ]
+    },
+    {
+      "id": "155788",
+      "name": "內政部建築研究所110年兒童人權教材議題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BA97371B-E0E4-4125-900A-5AA373485CDB/resource/50C560E5-DC86-4B50-B0F5-8105AA582AD7/download"
+      ]
+    },
+    {
+      "id": "170238",
+      "name": "低碳輕旅遊綠建築知性走春新選擇路線一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8B9FD1D0-28DD-4186-B728-1070A9380FC4/resource/FA74D52A-12B8-4F08-8C00-EC0E7C532FB2/download"
+      ]
+    },
+    {
+      "id": "170258",
+      "name": "「住宅建築能效評估概論」教材架構",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0879C37A-ED00-4BBB-AE9D-0E796E4C2B0D/resource/56AD9211-C49D-417F-8E84-DE02E9E0271D/download"
+      ]
+    },
+    {
+      "id": "170246",
+      "name": "建築物預鑄率之計算式",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/53EC0E9E-3C43-48D3-ABE6-65B83512C0A8/resource/BC56B84A-D393-4B4A-A218-CD55978F8F0C/download"
+      ]
+    },
+    {
+      "id": "176635",
+      "name": "低碳建築標示（LEBR）通過案件一覽表",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CADAC292-EE24-400B-8BA7-199B5961FEBF/resource/65757F07-7577-480E-9560-9CB7BDE94D56/download"
+      ]
+    },
+    {
+      "id": "174554",
+      "name": "內政部建築研究所辦理研究成果發表講習會議程",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FDC76673-D668-4E83-9FC5-1D4583D678D4/resource/A09B7827-32BD-4098-9CB1-A86EBE4658E6/download"
+      ]
+    },
+    {
+      "id": "18367",
+      "name": "友善建築",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BF3A3363-0BDF-4CD1-96CF-EE57C3036069/resource/6EEC4F40-B204-4941-ADB9-D472EE501CD0/download"
+      ]
+    },
+    {
+      "id": "22203",
+      "name": "內政部建築研究所材料實驗中心歷年研究_建築物地震災害防制研究",
+      "format": "json",
+      "urls": [
+        "https://www.abri.gov.tw/OpenData.aspx?SN=E35AF0F8413059E5"
+      ]
+    },
+    {
+      "id": "22208",
+      "name": "內政部建築研究所材料實驗中心儀器設備_非破壞檢測實驗室",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=DBDD44225976687F"
+      ]
+    },
+    {
+      "id": "22077",
+      "name": "智慧綠建築出版品資訊",
+      "format": "json",
+      "urls": [
+        "https://smartgreen.abri.gov.tw/OpenData.aspx?SN=593456A8C5ED26C6"
+      ]
+    },
+    {
+      "id": "22124",
+      "name": "智慧綠建築相關計畫、方案",
+      "format": "json",
+      "urls": [
+        "https://smartgreen.abri.gov.tw/OpenData.aspx?SN=E2910CB5D246F7B4"
+      ]
+    },
+    {
+      "id": "25127",
+      "name": "內政部建築研究所全球資訊網_活動報導",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/52DD74C8-A538-4C05-AB72-B412BDA5D50B/resource/B11FE21C-D45E-4FAB-8A90-9AE2CE92D068/download"
+      ]
+    },
+    {
+      "id": "25121",
+      "name": "內政部建築研究所全球資訊網_重大政策",
+      "format": "json",
+      "urls": [
+        "https://www.abri.gov.tw/OpenData.aspx?SN=4A8934E5C881F641"
+      ]
+    },
+    {
+      "id": "38884",
+      "name": "內政部建築研究所防火避難資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/64B6DE9F-4474-4F36-9BF8-EA8A12B16420/resource/E283C584-5B65-4624-890F-2AADB4309C66/download"
+      ]
+    },
+    {
+      "id": "39186",
+      "name": "內政部建築研究所耐震設計資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/727A234F-47B2-41D2-A44F-802963EEEEBC/resource/70611BA7-A4E7-4B24-B722-4DA946B1CDEC/download"
+      ]
+    },
+    {
+      "id": "39192",
+      "name": "內政部建築研究所耐風設計資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CEF101C3-C436-4DE5-BD47-A1D47AA9B852/resource/B767525D-C7C2-453D-B826-C86E1DE11565/download"
+      ]
+    },
+    {
+      "id": "39527",
+      "name": "內政部建築研究所BIM資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/44227A24-1170-48E3-B62B-52736E243D6F/resource/C5DDD51D-40AC-440B-A873-A23AE4FA9A96/download"
+      ]
+    },
+    {
+      "id": "40134",
+      "name": "內政部建築研究所綠建材標章資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A09E92AA-F1E4-4A6B-9BDE-B38C6925BEC2/resource/6C6423B2-F254-477C-BE49-8C449F05C284/download"
+      ]
+    },
+    {
+      "id": "40147",
+      "name": "內政部建築研究所防火安全資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D5E21C43-A2E2-4A89-AE6F-BA4434A118D1/resource/759D99BA-038F-4D86-8A91-827D8352650F/download"
+      ]
+    },
+    {
+      "id": "23044",
+      "name": "內政部建築研究所風雨風洞實驗室常見問題與解答",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=5766DED1E704A6EF"
+      ]
+    },
+    {
+      "id": "23046",
+      "name": "內政部建築研究所風雨實驗室設備",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=ABA4527D0C367B02"
+      ]
+    },
+    {
+      "id": "23048",
+      "name": "內政部建築研究所風洞實驗室設備",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=7361F2DAA48DA526"
+      ]
+    },
+    {
+      "id": "24523",
+      "name": "內政部建築研究所年報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1F56E0A4-1438-4AD5-8291-616BFAC99EB2/resource/9C617959-0916-45D7-A032-4F5A9B52E7BD/download"
+      ]
+    },
+    {
+      "id": "24806",
+      "name": " 內政部建築研究所防火實驗中心_內政部審核認可",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=BF9E6EA1D788899A"
+      ]
+    },
+    {
+      "id": "68629",
+      "name": "內政部建築研究所人權教材目錄",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4EF835BD-01CC-4792-9770-482E372A50C6/resource/7BAE303A-189D-4581-A9C4-7ECFD5CBA845/download"
+      ]
+    },
+    {
+      "id": "68632",
+      "name": "內政部建築研究所補捐助經費執行情形檢核表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5123582C-655C-462A-B6E5-979D0E9F98C0/resource/236D2D79-008E-4A0B-B500-76071A2698B7/download"
+      ]
+    },
+    {
+      "id": "68638",
+      "name": "內政部建築研究所永續智慧社區創新實證示範計畫受補助單位及金額一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/856CF054-F8F0-4184-9505-A22980A119E8/resource/923BB72F-28DE-4376-87F4-3331D9D4EBB2/download"
+      ]
+    },
+    {
+      "id": "68639",
+      "name": "內政部主管辦理政策宣導相關廣告執行情形季報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8F0EA936-4907-4769-AB7F-D91E84D671E4/resource/BE75BDBD-B158-40F0-AE2C-1CF60ACF88C6/download"
+      ]
+    },
+    {
+      "id": "68645",
+      "name": "內政部建築研究所自行研究計畫一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C9434386-3033-44C2-96A9-CBDC1CE8D14F/resource/8A0783C9-21F2-4B4D-9B2F-0D3D2F184C51/download"
+      ]
+    },
+    {
+      "id": "68646",
+      "name": "內政部建築研究所耐震初步評估研究計畫",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CCF4AF07-461C-4513-8E74-AEEA129B4CF1/resource/D8D6B183-E076-43E2-95EA-6F2F35402A25/download"
+      ]
+    },
+    {
+      "id": "68647",
+      "name": "內政部全球資訊網站「主影像及內政記事本」部次長核定主題彙整表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D36259BB-D9A5-4A33-A1EF-64DBCA704F5D/resource/77199EF4-DA5F-47A1-9076-E61EADF51252/download"
+      ]
+    },
+    {
+      "id": "68648",
+      "name": "內政部建築研究所研擬住宿式長照服務機構防火及避難安全改善參考對策項目清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D3D1BD80-4FBC-40C5-8499-897962E16371/resource/C4500B5D-02ED-4C53-913B-2988B1B00277/download"
+      ]
+    },
+    {
+      "id": "68663",
+      "name": "內政部建築研究所鋼筋混凝土建築物耐震評估系統（SERCB）可下載資料一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FE161CF2-5CE2-4ADF-B023-B80352D08094/resource/48B57D85-3D03-4B79-92EB-9BF5D30F765D/download"
+      ]
+    },
+    {
+      "id": "31984",
+      "name": "內政部建築研究所專利及技轉授權與認證資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3C279033-F912-4FCE-9075-4D443CCDAA7D/resource/067240F7-998D-4352-AAA4-8C62FE938FFB/download"
+      ]
+    },
+    {
+      "id": "93674",
+      "name": "內政部建築研究所行政講習作業議程主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/76042D96-B170-4D46-8C23-708F8D8A8608/resource/4C720F6C-EEFE-4E4E-8F4C-4B99BA0021E2/download"
+      ]
+    },
+    {
+      "id": "93676",
+      "name": "內政部建築研究所建築研究成果發表講習會議程主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41923736-A2E8-4C29-BDF1-A98A04F2D38E/resource/57F7E4DC-E05D-4C85-9F7D-CC7A4F5E3C42/download"
+      ]
+    },
+    {
+      "id": "93839",
+      "name": "內政部建築研究所「煙層簡易二層驗證法軟體」授權廠商名單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6FBA29FC-57E5-46BB-BB2A-97B94D4C8BE3/resource/AE522864-EA85-4836-B64B-D08DD050AD88/download"
+      ]
+    },
+    {
+      "id": "163154",
+      "name": "臺灣地區氣象測站之颱風發生率與設計風速表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8B0FDF68-A2C7-496C-BB58-FC0CA575E3FC/resource/D07DF8D0-7740-44BA-B793-7F6EAEBA22B8/download"
+      ]
+    },
+    {
+      "id": "163698",
+      "name": "111年綠建築講習會議程一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/677C30FC-F39D-42ED-9478-C7497DB3AEDE/resource/7114D783-D05C-428B-A8F8-1E3FFF445B33/download"
+      ]
+    },
+    {
+      "id": "163699",
+      "name": "111年智慧建築講習會議程一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C9459EBC-0050-43B9-B8CD-122C0D473827/resource/56F4FAC5-5A0E-4178-B4CF-C019462F0FC0/download"
+      ]
+    },
+    {
+      "id": "163148",
+      "name": "111年行政作業講習會議程一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BBA7FD9B-A0E7-4D20-999D-0766937C7C5F/resource/ECFDF216-9FED-4467-AD25-7C077325B6C5/download"
+      ]
+    },
+    {
+      "id": "139441",
+      "name": "內政部建築研究所智慧建築標章核發件數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3A5E2521-C135-432E-BC33-1A477C7D5C10/resource/FA2651FA-3BA8-4B45-844F-BA4063F4B083/download"
+      ]
+    },
+    {
+      "id": "139442",
+      "name": "內政部建築研究所「優良智慧建築作品評選」得獎名單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2783B4D2-76BC-4F69-BD2C-847E2D0FA2F8/resource/735C4F6F-FDCA-41DA-8E3B-5B9BF58BF6BE/download"
+      ]
+    },
+    {
+      "id": "155809",
+      "name": "內政部建築研究所中長期避難收容場所相關法規分析表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A51F51E6-2FEB-40CB-8F36-BF71003C85F8/resource/CB6A0871-29E6-4D49-946D-34C2D7D11F48/download"
+      ]
+    },
+    {
+      "id": "155786",
+      "name": "內政部建築研究所家具與家電防震對策參考手冊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/989B7752-5AFD-496C-AE25-C665E413DF8E/resource/64E025FC-498B-4383-B742-5864B95386D4/download"
+      ]
+    },
+    {
+      "id": "155864",
+      "name": "內政部建築研究所110年智慧建築講習會議程主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B5C77ADC-A848-45F1-8DE5-A88555ADE9EC/resource/9B7C8A74-2331-460F-BCEB-F9CEA5FDA61B/download"
+      ]
+    },
+    {
+      "id": "139296",
+      "name": "內政部建築研究所參加本部記者會發表主題清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B55E88A-E034-46FA-A2E4-A6B619480179/resource/08C71C96-378B-4DC1-A91E-D3A1809AECDB/download"
+      ]
+    },
+    {
+      "id": "139365",
+      "name": "內政部建築研究所建築資訊建模（BIM）出版品一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4E2FEC77-1A04-4464-8880-CBAFB13588B1/resource/3A3C6E01-F2D5-4AE5-9C50-78D76E7E5D9F/download"
+      ]
+    },
+    {
+      "id": "136524",
+      "name": "內政部建築研究所政策宣導執行表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/64FC34CB-27D2-4940-BAE8-29DADE8D5F7D/resource/364CECC4-CFAB-4CDF-8779-0B6A64185A4A/download"
+      ]
+    },
+    {
+      "id": "176594",
+      "name": "內政部建築研究所補（捐）助經費申請作業規範",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D4BAD2D8-EC48-4CFB-B60B-0CA7D1924DDB/resource/D0CB6F79-E1BB-4431-B68E-914BDBA5BCE2/download"
+      ]
+    },
+    {
+      "id": "172632",
+      "name": "非住宅建築能效評估概論教材架構",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BACB177D-6FF0-46D5-A541-4E6482931374/resource/00402008-3295-48C0-B3FB-CC9B775A94E9/download"
+      ]
+    },
+    {
+      "id": "174555",
+      "name": "內政部建築研究所委託研究、協同研究、業務委託、補助等計畫行政作業講習會議議程",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2AF68264-EE06-4459-A1D3-18F75597B160/resource/216526BF-ED7A-42DC-8276-A760AE1F1752/download"
+      ]
+    },
+    {
+      "id": "170233",
+      "name": "綠建築標章核發件數(民國89年至113年)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1677F578-2859-4427-9DBB-421749E4D0A5/resource/C632042D-1D7D-4EE6-86DF-BC8588E96BDA/download"
+      ]
+    },
+    {
+      "id": "170234",
+      "name": "建築能效標示講習會主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9B96D460-6AF0-4E44-95BD-BBE62C71575E/resource/86A0208F-D2B2-4276-A7B9-C96EDFC6C3A5/download"
+      ]
+    },
+    {
+      "id": "170235",
+      "name": "非結構物固定方式分類及耐震缺失研究統整表（僅供研究參考）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/02365167-0B19-4396-9B87-B6F3F17A2CA1/resource/FFC4AF81-DD5F-4B46-BC5C-AF669D36FAD8/download"
+      ]
+    },
+    {
+      "id": "170255",
+      "name": "「淨零建築跨領域人才培育與產學研發展平台推廣計畫」培訓場次及辦理成果",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/90D0879E-F301-4AA8-A9E8-DE463B234C70/resource/736EA1AE-F71C-4879-BC0E-8918E75795D7/download"
+      ]
+    },
+    {
+      "id": "174191",
+      "name": "消防管線懸吊系統地震破壞模式及改善措施表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2059BA8E-F908-4D20-959D-2FC6967C71F7/resource/97709916-02A2-40E6-8788-224555A336D1/download"
+      ]
+    },
+    {
+      "id": "24566",
+      "name": "「建築節能與綠廳舍改善補助計畫」各縣市歷年之受補助單位及金額一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/891885A0-654A-4C16-9641-839843C22B86/resource/F70C69E5-EDE2-48FE-8BC4-42573CFB1BEE/download"
+      ]
+    },
+    {
+      "id": "24568",
+      "name": "風雨風洞實驗室試驗報告辦理情形一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/706B1DF1-1B65-4110-B2CF-537A7A5D001A/resource/0A44B938-F2E6-4B60-B61C-3E8C75F923D4/download"
+      ]
+    },
+    {
+      "id": "24522",
+      "name": "內政部建築研究所研究成果發表會",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2CAB1372-5B8D-4C8A-8446-C2FEBF9E30F2/resource/BD2CF9B0-14A1-484C-9A4A-452DD2428D95/download"
+      ]
+    },
+    {
+      "id": "24715",
+      "name": "「既有建築物智慧化改善工作」公有建築物受補助單位名稱及金額一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/571E413E-9A58-4D86-871E-B4C86C881A30/resource/BB272F60-66CD-41BA-A1D2-788B4760AAC1/download"
+      ]
+    },
+    {
+      "id": "18691",
+      "name": "內政部建築研究所會計報表",
+      "format": "xml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/F24CDE6E-C255-46AC-8F14-03017E2607D0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/99DCDF1C-709D-4092-B029-030AFCF85F95/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/6C36AC94-4C9B-411E-A29E-03BA809757D4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/42AEFF4D-05A3-429C-93A2-0475889866C4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/29ADD67D-801E-429D-8149-071625D0393B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/1AB3533F-3E96-4F29-88ED-08726DAE567B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/421A0C32-A9FC-48E3-97EE-0DB8102E7F2D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/1FCA1FF8-8ED9-4EBF-99C7-0E0EBCD48D45/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/C48174D8-DF40-4D3F-99A6-11895E76FC97/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/9AF621F2-3242-4823-8808-136D0A6A4768/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/D61535A2-85C7-46DB-B7C0-1758F988635B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/F7837D0C-693C-4413-B4FC-17ABB813B81C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/03DF9B14-1A4C-41D7-A214-185B5A866350/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/16B7F44D-EC9F-4E04-AEBC-18FC67E5B17F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/AAAF140D-E19E-4151-A41F-1A81ADB8754D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/3A43D275-C270-48E3-B699-1CC3AEF71C4A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/B12420E1-FBF8-48A1-988C-1E825DAEDC83/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/27C89D42-74FB-4B88-96ED-2117F17D71AB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/DFA1362C-E734-45DF-B753-238FE2236DEA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/5A05B508-4604-4192-BF02-23DC4C0AD56C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/AC675F6B-FA0E-4320-AD5D-24A5D34E465D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/1DA125CD-47DB-4CCB-BADB-2A472D697A12/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/CA87D58F-D8A8-4FF1-B9C4-2F5DBE60544C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/7F008899-5DA8-4F87-B7C5-34060236F4CE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/DD4DEC1E-7C79-4ABE-8765-34E4CA394823/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/FA82E48D-CF23-4167-AA65-34F111DFDA95/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/E64DB712-BEEB-404F-BA7B-364BCD75DD37/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/26EF67DE-885C-4812-872D-38CE90B9E8C4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/62084816-026B-4207-BBE7-3BCFACBA406C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/23797DAB-B626-455E-8BA8-3C28E855B886/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/9842E3A8-E009-44A1-8C18-3D6C7391FA8F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/82EB5F38-B98A-4BB9-9E90-3DD581DD42D6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/E29EAAC1-A27B-41B4-84B9-3E5169BE91D9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/B0CA6DA9-C8AE-46D6-AF28-3ECA15DBBBCA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/5CCF8699-4454-4AD4-B2A6-40447CD06F4A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/A15946FD-16A1-432D-9E71-42AAB2B52A82/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/EE3E5DDB-C904-43E7-BE7B-445136ED8D42/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/19B900BB-D75A-42BD-A882-4658EF88A45E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/578DBCBB-D668-4CC2-BD57-4850C9CDDA50/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/BF39E75E-5BF7-474F-8B5F-486D2463CB40/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/09BA9D78-6AA8-4490-AF77-48A4716581AB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/B0345D31-26A1-4954-B74F-48B77914CCF9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/55FC341D-D7AE-4202-93FF-493FE1037CA9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/825716C8-4D92-4819-B8B1-4A0F5F3556FB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/1831AB43-EB14-4E69-9BF0-4AEDB41C6474/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/F2543E80-0BD9-4095-A38B-4B1913BE7502/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/599EA722-15BB-43A0-B005-4C5C2F83570E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/69A9E2FE-D04F-45CC-B040-51B67980B587/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/9EC40B3C-2E52-4388-9C55-55C92F8351D5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/2B83B1D9-FC08-45C8-AE7C-56F1F3C8AF14/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/25F0E942-70C5-4898-B8B5-59557BD5EFB4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/E2548C0C-FFD9-44E5-B799-595A6065C83B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/ABA7A2B2-DFE6-4172-9986-597C9098A2DC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/4A72AC70-B6DA-4283-B440-5A095B805D8F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/6094B58E-002E-45F5-AE2F-5CF4CCBC865E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/6FECCC84-9C0B-4100-90E4-5DC5AD3A1BED/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/95B80AD7-7879-4FA8-A7ED-5E1FC9089F8A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/CA4A6600-8FA9-4EEE-8CCC-5FE698C33058/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/D8F99E14-867E-4341-AA5F-62A173723D16/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/3D38DA2D-80E6-4222-BB77-64C99CC79679/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/33AFE0BC-84F5-48CB-A349-657D7F6AB79A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/4B326730-F360-4CF1-8C21-65DF6058AF38/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/2D7BB482-EC32-423D-841A-664516F70614/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/273D6F35-A0C2-491F-B44B-66879D0C2B95/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/4E0DE8B7-F0E8-4B1D-BDA9-66B98599559C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/11CEC250-265F-402E-A44D-66EA695B3B65/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/6A40E489-9F49-4F6B-94E1-6A49A2802FC3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/5C23D88D-F97F-4E5D-B67D-6AA78CB931F5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/1F3B2389-42EC-412A-94AD-6CF8F1F5B27A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/9FB3A3CD-4436-45B7-975A-6F75DE90E6BB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/43A95755-CAB2-4456-8C55-76462AE7CD97/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/5A9E2411-89E1-4AA3-B928-76ECB189693D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/47FAEECD-D767-4DF2-A843-7834EA9FCC82/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/61D32C42-D641-4D06-B496-78BF5A862520/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/F40BDC7F-547E-4132-A74B-78D46EC23696/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/30FFB580-AB77-420E-9326-792893E555FB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/85FB65DD-E31D-4C08-8006-7A8D426EF624/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/0E32E8F6-9D55-4531-B523-7AD730FA4452/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/75A65487-DCDE-4F7E-95CB-7DADF8943856/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/8B45F3A3-8ED9-45F1-973E-808B6FA98BB3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/A1493DBE-A5F4-4CA1-A3C1-80953A8072B3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/FFF77C77-457D-476D-B3E2-831A26EAB79E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/C49CCA29-2393-44B5-B142-8446A8BBB0B7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/753224F5-3FB2-4757-A677-8568E46A3389/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/0E328D75-4A54-4632-902D-860018F5BFCD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/79219587-6A51-46F0-B86A-87B05B8F0453/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/DC96C377-4077-46D2-855E-87E62762D74B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/FD513920-DAA2-4802-A102-893FDB132991/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/FB97B1DB-474E-43D1-9D71-8A16E2260A01/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/54397329-4133-43DB-8FF3-8AC8ED489DC7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/58214E71-AB88-4E3E-A251-8C49096E8304/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/040E1D61-6C2C-43FE-BC67-8ECB1A60BD99/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/585302FA-B5EC-4B30-B342-9028A2B21C85/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/33C35FE4-C955-42FE-8C0B-90CAA44353C8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/EB6DA141-0A45-48D6-86CF-914750C59A41/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/E1C57011-5491-4159-83CF-922E05CBD8C0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/4F0892FE-5935-4DAD-82E6-9242E9B95596/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/A0E0A85D-AE84-4652-8AEB-955A68693EAF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/7FBB10A8-5956-423A-BBC8-9972E4FE5AE8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/A1BD90F1-5781-4879-AA1B-9AA7ABF581D2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/C79CCA6F-7C6D-4B5D-A9F2-9BCDE7761916/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/8EE99813-9997-4B11-9A1E-9DCA39B43A77/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/0453BCB8-678F-47E5-9C93-9E4357498C1B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/97C5D478-433C-420F-BF12-A21529A11E44/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/5561ACB4-D523-406F-A0C7-A2A4BF17472C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/D0750854-66E1-4474-BC57-A3B130A1EA75/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/EAEAA36E-593F-4AAF-AF5B-A58C869050E3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/4505B76C-2F33-40A5-8FB1-A7730C2D1FD5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/41363695-C0E5-4765-9D42-A80C1004F2F6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/F8D60006-EA1A-418F-ABCD-A95815C866B8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/319C8E54-31F5-4A5C-BD90-AC73B63A85F0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/55AFBC25-5E24-4B92-91D6-AED05C289F2F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/B924F845-3F78-494E-85DD-AF23C41299DC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/4E2450D5-7A0C-4F67-BE56-B01FC0E73AE4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/B152465A-C6F4-4B44-86F1-B1F7D5858F89/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/01D4A61C-4886-4BBF-B2C8-B32E7FEB7B6F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/1B2021BB-5F2D-4513-8971-B8A9BF60326A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/B145D323-0525-4938-9C4F-BB4C615AE926/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/07964945-1983-42A0-A4E3-BCABD80E6979/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/AFF71A06-C2E2-47BF-8F4B-C2CA2FA124F3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/F9034705-C184-4066-B2FA-C2EB38D356CE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/C604E8B1-9860-4251-B991-C6844453E034/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/72E91B03-20F4-4D27-AEF7-C75B07CE0241/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/E00CB3B9-08B5-4556-9325-C871C50E0F14/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/36B5FAD4-4E5B-469F-8FB5-C94654531ADA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/5C74AF79-5493-4D31-A699-CBFBBD3B60CF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/756BF269-502C-49DB-B18B-CD479E4C7EDC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/B085CBE6-4DE2-4BDD-8344-CE2A8D1B9A08/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/369493AE-ABE4-4007-BC84-CEAA582A5D10/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/59BA53A8-9B14-4C5A-BFE5-CECB32304576/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/98446834-A54B-45C0-9A89-D06823E25839/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/56D5820A-466D-4CA9-9B82-D32FDABFCF43/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/0E9890FB-6CE8-4DC5-A970-D8ABCD513B91/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/D97540DD-C869-44DE-B51A-DA697D7E197D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/DB1049A7-4EC4-4CE2-B485-DA760AE7D87C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/A5B8FF25-E226-4B32-9C7B-DBA3045FE503/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/E75493F7-E1F6-464D-B026-DCE541ED3905/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/613375D8-F32F-4B9B-B9B5-DD08EBA5B6E6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/C54FFA65-71BA-4C6E-A89F-DD7090BA7E9A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/A810D11D-A361-4B83-BFDD-DDF69A4F18E4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/2FCA2EB1-B501-4F10-A1AD-DEDFA2DCF81F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/435A1227-855D-4F20-B00C-E06783339338/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/F7161C48-07D2-483E-A06D-E0DD4B917A34/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/94E0C389-4D52-436E-A5CA-E131E8C05B42/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/D6BA95FA-D99D-4C21-A6BD-E33F233E4BF5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/4222221E-0DFA-47CD-84CD-E5BECB48A11B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/D9278B68-5D1E-4F0D-BF2F-EBAB969222EB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/69702E37-8ACC-40B1-9B9F-ECB8632A42A4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/BF74DE59-EEFB-46FA-AC56-ED18A3B978FA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/629AF662-501B-4427-9776-EDD40024F6A6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/876C7C11-E1F6-42E7-9302-EF1543E88B9F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/FEDA24F9-86E7-462D-AD2A-F030436E5392/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/CA688B2A-032E-4842-901F-F0F9D19F489B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/14AF1194-69DA-4E18-B507-F20238FAD49B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/BE9BFAC8-98E9-4CC7-8324-F5BB2859E9A9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/0A5513D3-09F9-4DE4-8C96-F7C5161E55F5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/C8A9538B-BA8A-4472-9002-F8D8C9FC3906/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/E0A96EA7-C2E2-40D5-88B1-F9D034286751/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/8823CA26-F919-410D-A6E8-FBC22A4A3664/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/7C5C427E-D252-4E1B-A3AA-FC32E2AD83D1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/2BAF2136-019C-4632-87C2-FC6762F28931/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/087C158B-1AD7-485B-BA4D-FD35BC65FD1D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F3DC81F7-ACBA-4277-BCEA-73F90AF59AA7/resource/CBA97406-FA0F-4AE8-B2C3-FED9E1490D07/download"
+      ]
+    },
+    {
+      "id": "18693",
+      "name": "內政部建築研究所決算書表",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54C9B03F-36FD-454A-9159-FCA33EE920CD/resource/636D9CBA-92F6-44FB-9B8D-0609BA25B907/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54C9B03F-36FD-454A-9159-FCA33EE920CD/resource/A896BEE5-2D91-4FE8-B9A1-1439F1F6B04A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54C9B03F-36FD-454A-9159-FCA33EE920CD/resource/9BD812D8-4A70-4EBC-B575-479AFC6FCD91/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54C9B03F-36FD-454A-9159-FCA33EE920CD/resource/C703A24C-BFDB-4D51-9D1F-6AF6BA53D982/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54C9B03F-36FD-454A-9159-FCA33EE920CD/resource/70883DD5-6882-4506-84F0-729AD0CADD20/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54C9B03F-36FD-454A-9159-FCA33EE920CD/resource/ADD0E212-9064-41F9-8F2C-78413242DC45/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54C9B03F-36FD-454A-9159-FCA33EE920CD/resource/E160D154-AAD4-4017-96EF-905D22C0C9E5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54C9B03F-36FD-454A-9159-FCA33EE920CD/resource/25598873-0BE8-4F16-BDD7-9D42FD7F3173/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54C9B03F-36FD-454A-9159-FCA33EE920CD/resource/D6056B2E-0075-466E-B323-AD8AED17B127/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54C9B03F-36FD-454A-9159-FCA33EE920CD/resource/D69C4110-1FCB-4A10-85D8-FEA0A748CF17/download"
+      ]
+    },
+    {
+      "id": "12644",
+      "name": "內政部建築研究單位預算",
+      "format": "xml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65B21BC4-3591-4574-8124-7893522DAF9F/resource/0FF6282A-B079-4766-A014-2B7BEE7A8D0D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65B21BC4-3591-4574-8124-7893522DAF9F/resource/5D681A2F-695F-4756-A202-321B3095BE50/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65B21BC4-3591-4574-8124-7893522DAF9F/resource/B8BD2932-9A9A-4F52-9067-34CA7C9EE7E8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65B21BC4-3591-4574-8124-7893522DAF9F/resource/A672E12A-789C-4A10-8CEC-58865538B25F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65B21BC4-3591-4574-8124-7893522DAF9F/resource/2FE5FBC4-D57C-4CFE-BEE2-65429ADB14A0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65B21BC4-3591-4574-8124-7893522DAF9F/resource/BFE2C1BD-C9DB-416E-9511-7BB5FC875C24/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65B21BC4-3591-4574-8124-7893522DAF9F/resource/91459FC3-F268-48E1-9EC3-B9A3C60D83CB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65B21BC4-3591-4574-8124-7893522DAF9F/resource/32594357-1C2F-4C17-A9F9-DE196251BA99/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65B21BC4-3591-4574-8124-7893522DAF9F/resource/E589D790-4A4E-483D-A1DA-F77A4784BE07/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65B21BC4-3591-4574-8124-7893522DAF9F/resource/1114CE3C-8F9D-4B73-9436-FBB2D3799F96/download"
+      ]
+    },
+    {
+      "id": "22125",
+      "name": "優良綠建築",
+      "format": "json",
+      "urls": [
+        "https://smartgreen.abri.gov.tw/OpenData.aspx?SN=18B08B8FB6DECBAB"
+      ]
+    },
+    {
+      "id": "22126",
+      "name": "綠建築標章月報表",
+      "format": "json",
+      "urls": [
+        "https://smartgreen.abri.gov.tw/OpenData.aspx?SN=F1062ECCEE293F72"
+      ]
+    },
+    {
+      "id": "22080",
+      "name": "智慧建築標章月報表",
+      "format": "json",
+      "urls": [
+        "https://smartgreen.abri.gov.tw/OpenData.aspx?SN=850316B19813142F"
+      ]
+    },
+    {
+      "id": "22205",
+      "name": "內政部建築研究所材料實驗中心儀器設備_耐久及耐候實驗室",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=61819BC62290F95A"
+      ]
+    },
+    {
+      "id": "22207",
+      "name": "內政部建築研究所材料實驗中心儀器設備_材料分析實驗室",
+      "format": "json",
+      "urls": [
+        "https://www.lab.abri.gov.tw/OpenData.aspx?SN=2424FBA268D48527"
+      ]
+    },
+    {
+      "id": "23051",
+      "name": "內政部建築研究所防火實驗中心研究文獻",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A64091B8-D230-44FF-B1D0-9683B0F3BB27/resource/2C8559AF-C7B6-44BD-9D1C-53FF69813AC2/download"
+      ]
+    },
+    {
+      "id": "23053",
+      "name": "內政部建築研究所防火實驗中心參訪紀錄",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F0B24959-0EF4-4670-BA9F-63E1A1CCFC78/resource/CE383B6D-416C-4897-B05F-8888F6218A3E/download"
+      ]
+    },
+    {
+      "id": "23058",
+      "name": "內政部建築研究所防火實驗中心問答集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ABBDD7E7-BAAD-43CF-B486-CE31C6DF99CF/resource/41F23971-4616-4ADA-B30D-A40E58B71EA8/download"
+      ]
+    },
+    {
+      "id": "25122",
+      "name": "內政部建築研究所全球資訊網_採購案決標公告",
+      "format": "json",
+      "urls": [
+        "https://www.abri.gov.tw/OpenData.aspx?SN=064937AB9A10D2BB"
+      ]
+    },
+    {
+      "id": "25123",
+      "name": "內政部建築研究所全球資訊網_團體補助(支付或接受之補助)",
+      "format": "json",
+      "urls": [
+        "https://www.abri.gov.tw/OpenData.aspx?SN=B917BD5CC7AA82A3"
+      ]
+    },
+    {
+      "id": "25124",
+      "name": "內政部建築研究所全球資訊網_年度預算書",
+      "format": "json",
+      "urls": [
+        "https://www.abri.gov.tw/OpenData.aspx?SN=01080D863657EBAB"
+      ]
+    },
+    {
+      "id": "32353",
+      "name": "內政部建築研究所活動競賽及典禮資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/67C41CEB-C60F-4225-A392-17D16DA5BE16/resource/F48956C2-C76D-48AC-BFEA-0879B62C3869/download"
+      ]
+    },
+    {
+      "id": "39179",
+      "name": "內政部建築研究所耐火性能資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1EBB2021-2EDF-4D32-98C1-45BE27BB75F6/resource/202A2C95-C1FA-47F7-AB7A-818793239281/download"
+      ]
+    },
+    {
+      "id": "39531",
+      "name": "內政部建築研究所帷幕牆資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D80E7CDB-D479-42D8-AF05-811AA6B8748B/resource/866406B7-0E39-47DD-AA56-5CF1C79DBEC5/download"
+      ]
+    },
+    {
+      "id": "31985",
+      "name": "內政部建築研究所研討會資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/72D9A568-D070-4EC7-8EAD-B84685C92015/resource/83DD1960-154A-447F-84E9-41BDDB94081E/download"
+      ]
+    },
+    {
+      "id": "68624",
+      "name": "內政部建築研究所綠建築繪畫徵圖比賽得獎作品",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ED969E1-3635-4478-99D0-1CDF0D5F1437/resource/FE5B64F9-1B53-4B66-B1F1-1B7C3AAB7C81/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ED969E1-3635-4478-99D0-1CDF0D5F1437/resource/4459CC37-54BD-444E-B8CC-4AA462CEB0A8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ED969E1-3635-4478-99D0-1CDF0D5F1437/resource/F4BC1B21-54FD-4032-BB43-4B1A313A9708/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ED969E1-3635-4478-99D0-1CDF0D5F1437/resource/C7332FE9-8515-4E53-80DF-AE86238D9932/download"
+      ]
+    },
+    {
+      "id": "73251",
+      "name": "內政部建築研究所委託研究計畫一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B7B750FF-56D9-4392-B7AB-0D75FA901BBF/resource/550D2BE4-5EE9-45D7-968A-6351DCCDB240/download"
+      ]
+    },
+    {
+      "id": "93934",
+      "name": "內政部建築研究所歷年研究建築物外牆飾材檢查程序",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EC95E215-4B74-44DF-AE58-E1B02A067BAD/resource/F6AACC44-0C84-4B70-83CE-D98C1E3CE4CD/download"
+      ]
+    },
+    {
+      "id": "93893",
+      "name": "內政部建築研究所建築資訊建模（BIM）推廣教育訓練課程項目一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5506C0B1-C113-4013-B1EB-79802BF650E3/resource/91EC4CF4-DF7F-446F-8BA9-F135C6D5EAF9/download"
+      ]
+    },
+    {
+      "id": "93898",
+      "name": "內政部建築研究所歷年研究建築物外牆瓷磚及飾材檢查方法簡介",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6782D36B-2504-45B2-ADC0-DB023A8E2525/resource/0E069203-6E46-4042-B7CB-9A74DB2161AE/download"
+      ]
+    },
+    {
+      "id": "93769",
+      "name": "內政部建築研究所科技計畫簡介",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B0667443-70C5-4F1C-B5AE-1BC9BF5BFB22/resource/A5E6702A-01D2-4DBB-9E5D-35CB56155954/download"
+      ]
+    },
+    {
+      "id": "93783",
+      "name": "內政部建築研究所門窗風雨試驗檢測項目",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EE6D0831-DA7C-49D2-B7C0-A75A1119E5D4/resource/4EFFDB1A-5314-482D-91D3-A9A2CCDCC0DD/download"
+      ]
+    },
+    {
+      "id": "93675",
+      "name": "內政部建築研究所日文期刊一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/52D28C01-C49E-44BB-A578-090740AC05FE/resource/F24CDCFD-23C4-42E7-BB21-18833E67C9CB/download"
+      ]
+    },
+    {
+      "id": "139364",
+      "name": "內政部建築研究所建築資訊建模（BIM）講習會議程主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5F8244C2-54E2-4510-89D9-1C5410DA5008/resource/23E75195-8E12-4A86-9577-CFFC60E459D4/download"
+      ]
+    },
+    {
+      "id": "139304",
+      "name": "內政部建築研究所參加本部「108年度自行研究報告成果分享會」獲獎案名清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ABAD5AA0-B104-431D-98FA-E564AD1732CE/resource/EBC6D280-64CC-4F94-B97A-C9BB50153454/download"
+      ]
+    },
+    {
+      "id": "139309",
+      "name": "內政部建築研究所「109 年度自製數位教材」獲獎主題清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BDCEB4D3-CEB4-4D75-9F87-142E4C6A5ACF/resource/13DA5A2A-B4A6-4581-940F-B74E1DF79293/download"
+      ]
+    },
+    {
+      "id": "139311",
+      "name": "內政部建築研究所家具與家電防震對策「安全防護查核清單」",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1CA836BD-4BBA-4F9E-BE35-710FA02B4539/resource/3A0D131C-550C-4B20-BE43-DDBD0014B455/download"
+      ]
+    },
+    {
+      "id": "139316",
+      "name": "內政部建築研究所「地震緊急避難包查核清單」",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7DE6F17-1187-4DC3-AAC2-D0B1F5473534/resource/E440E7D2-E9BA-49E3-AEA6-A1A9DD18EB95/download"
+      ]
+    },
+    {
+      "id": "139443",
+      "name": "內政部建築研究所綠建材標章核發件數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/84163998-4F74-4851-A1E9-00D5585EC8D9/resource/04B9676F-8641-4D01-AFAC-76C0EE3B2691/download"
+      ]
+    },
+    {
+      "id": "171224",
+      "name": "本部建築研究所煙層簡易二層驗證法(112年版)軟體操作說明會議程",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/13809904-225B-4DE3-B82E-1E1245855FE1/resource/5B5B09EB-5766-44BF-A951-5FF68D061FAE/download"
+      ]
+    },
+    {
+      "id": "172627",
+      "name": "建築行業可用的不同類型開源自由軟體(FOSS)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/29E5404F-5FF1-4AC6-B9FF-13BD478F847C/resource/8F9E34DE-5A27-455B-97B8-4A74BA90CFB3/download"
+      ]
+    },
+    {
+      "id": "172628",
+      "name": "低碳（低蘊含碳）標示制度(LEBR)與建築全生命週期碳排的關係",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D86EF157-F527-4D1E-B519-5D8DD59FC40A/resource/B4E723B5-B76C-4C11-AE38-879F39B29A64/download"
+      ]
+    },
+    {
+      "id": "172633",
+      "name": "建築碳足跡評估概論教材架構",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/10458B8E-E101-470A-AC5A-AF16D9FBCA91/resource/E43CAF0D-2327-469B-BD01-E3FD50CE903E/download"
+      ]
+    },
+    {
+      "id": "163153",
+      "name": "2022前瞻防火安全科技研討會課題表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/524A0E37-AE5C-4319-B582-3911545E028C/resource/7CFA1570-7E30-4F54-8FC3-375392A5B833/download"
+      ]
+    },
+    {
+      "id": "163156",
+      "name": "臺灣地區氣象測站50年重現期設計風速比較表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/71AD489D-99C9-445D-8D92-9CB83A31A231/resource/0E09F76B-C2E6-4D50-98C0-229DE8601B0D/download"
+      ]
+    },
+    {
+      "id": "163700",
+      "name": "111年綠建材講習會議程一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48B58790-7B54-45D8-AFDE-B853B2FA83ED/resource/DF8B3C33-0E64-42FA-820E-F2E858D11C5D/download"
+      ]
+    },
+    {
+      "id": "155774",
+      "name": "內政部建築研究所110年度委外廠商資安稽核案件清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C2EE4275-56D2-4950-B600-B40F40C2B58B/resource/8BD958D7-9D18-47E5-BB15-77CA2D31DE43/download"
+      ]
+    },
+    {
+      "id": "155776",
+      "name": "內政部建築研究所110年建築研究成果發表會議程主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E595A076-B292-4F6F-9C6F-BBEADD67C656/resource/449E4CCB-16AD-4689-AF7E-1BC88864E632/download"
+      ]
+    },
+    {
+      "id": "155772",
+      "name": "內政部建築研究所建築物耐風設計規範之各直轄市、縣市基本設計風速建議值一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/442A894A-4DCA-489D-8D92-2E94BA8B7E60/resource/675FF61D-77F0-4261-9F4E-611E8E364621/download"
+      ]
+    },
+    {
+      "id": "155857",
+      "name": "內政部建築研究所「高強度鋼筋續接器允收標準建議值」",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6153D86-FFF3-4CD1-AB2B-2F1555BF90F6/resource/2E4DBB2A-EED6-4242-930E-E1E1DB8222EA/download"
+      ]
+    },
+    {
+      "id": "155863",
+      "name": "內政部建築研究所110年綠建材講習會議程主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FDFDE5E2-1A0D-438A-A685-BE6776A4C8FE/resource/EF78CFB3-A849-4CF4-A7CF-52CD78106443/download"
+      ]
+    },
+    {
+      "id": "170231",
+      "name": "氣候變遷相關名詞解釋",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8D2A9DA8-967C-488C-A486-A10D7B0E7A64/resource/DFA9198D-40AB-4C17-AF09-84955A687394/download"
+      ]
+    },
+    {
+      "id": "170237",
+      "name": "建築結構使用之常見竹材基本材料(莿竹材料、桂竹材料、孟宗竹材料)強度表（僅供研究參考）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/76626779-9DF3-4EA8-B90E-BBB114359883/resource/3C355B01-F313-4B77-B63A-38C4884FD9A3/download"
+      ]
+    }
+  ]
+}

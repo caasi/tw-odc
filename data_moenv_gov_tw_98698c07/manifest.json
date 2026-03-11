@@ -1,0 +1,138 @@
+{
+  "type": "dataset",
+  "provider": "環境部氣候變遷署",
+  "slug": "data_moenv_gov_tw_98698c07",
+  "datasets": [
+    {
+      "id": "16024",
+      "name": "國家溫室氣體排放清冊報告",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/ghg_p_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ghg_p_02?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ghg_p_02?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "28176",
+      "name": "碳足跡排放係數",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/cfp_p_02?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/cfp_p_02?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/cfp_p_02?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "168309",
+      "name": "環境部氣候變遷署補、捐(獎)助地方政府情形表",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/bgt_p_47?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_47?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_47?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "172470",
+      "name": "環境部氣候變遷署單位決算",
+      "format": "zip",
+      "urls": [
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_56/5217bd7a-21da-43c8-b9f9-47af8c7148cc"
+      ]
+    },
+    {
+      "id": "8992",
+      "name": "台灣產品碳足跡資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/cfp_p_01?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/cfp_p_01?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/cfp_p_01?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34735",
+      "name": "自願性產品碳足跡核定標示及管理辦法",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/cfp_p_03?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/cfp_p_03?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/cfp_p_03?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "172468",
+      "name": "環境部氣候變遷署單位預算",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/bgt_p_54?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_54?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_54?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "174973",
+      "name": "環境部氣候變遷署前瞻基礎建設計畫特別預算會計月報",
+      "format": "zip",
+      "urls": [
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_59/401c146d-2410-438a-9863-42811ceed713",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_59/be636e81-d47f-43c1-b122-359246986634",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_59/aba1dfde-6205-4266-8f73-64d75279642e",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_59/990f1159-b58b-4ff9-89a4-6b6bf6f3f2a5",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_59/0d94e8e0-8261-4966-9885-80ab9e9f64b2",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_59/5b7679cb-ff5d-44b1-b788-4464e33792eb",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_59/f518cfb4-2596-4a1c-8434-85b7ca157330"
+      ]
+    },
+    {
+      "id": "16059",
+      "name": "溫室氣體年排放量",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/ghg_p_01?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/ghg_p_01?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/ghg_p_01?api_key=e75b1660-e564-4107-aad5-a8be1f905dd9&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "34741",
+      "name": "國內已制訂之碳足跡產品類別規則文件清單",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/cfp_p_06?api_key=846e44e1-8cc5-4893-ad87-c79d2d383706&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/cfp_p_06?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/cfp_p_06?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    },
+    {
+      "id": "172469",
+      "name": "環境部氣候變遷署會計月報",
+      "format": "zip",
+      "urls": [
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/0de7ae6a-30b1-4379-9145-72a1d7a7c105",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/5c4b6905-5ee1-4709-8361-74ec2c5f382a",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/66c9cfea-85b0-4cef-828a-9194c67be5db",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/e365ffcb-d0ab-4a59-9c5f-88bb809935f5",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/526e8f23-b1fc-407c-bfd3-decc07152954",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/2ad37637-cff8-46a5-b314-cff60b6c7ae6",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/7f8f9489-0453-4a01-9468-10f05dad8622",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/0348a6c0-cc12-4340-b885-e35c04ea75b5",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/3036783d-5130-478a-94f3-56bbb5ff0425",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/6c958028-e9f0-4a45-92b5-412a646a9023",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/43b16a5e-42db-4a1c-b7e6-d1ef284e197a",
+        "https://newcdx.moenv.gov.tw/api/files/BGT_P_55/b4e4b8bd-de8b-4750-94b7-e89d00550b78"
+      ]
+    },
+    {
+      "id": "168308",
+      "name": "環境部氣候變遷署補、捐(獎)助團體及個人情形表",
+      "format": "csv",
+      "urls": [
+        "https://data.moenv.gov.tw/api/v2/bgt_p_48?api_key=af57253c-e838-46da-a1f5-12b43afd75f3&limit=1000&sort=ImportDate desc&format=CSV",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_48?api_key=4c89a32a-a214-461b-bf29-30ff32a61a8a&limit=1000&sort=ImportDate desc&format=JSON",
+        "https://data.moenv.gov.tw/api/v2/bgt_p_48?api_key=b7df779e-71a6-4148-8379-5afbd441d803&limit=1000&sort=ImportDate desc&format=XML"
+      ]
+    }
+  ]
+}

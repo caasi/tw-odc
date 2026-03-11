@@ -1,0 +1,56 @@
+{
+  "type": "dataset",
+  "provider": "基隆市政府交通處",
+  "slug": "klcg_gov_tw_f2e5632f",
+  "datasets": [
+    {
+      "id": "59460",
+      "name": "路段靜態資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.klcg.gov.tw/wSite/public/Attachment/016/f1690516122387.csv"
+      ]
+    },
+    {
+      "id": "45758",
+      "name": "基隆市路邊收費路段及收費時間一覽表",
+      "format": "pdf",
+      "urls": [
+        "https://park.klcg.gov.tw/DownloadAttachment/基隆市路邊收費路段及收費時間一覽表.pdf"
+      ]
+    },
+    {
+      "id": "45757",
+      "name": "基隆市公有路外停車場基本資料",
+      "format": "csv",
+      "urls": [
+        "https://www.klcg.gov.tw/wSite/public/Attachment/01602/f1728958369371.csv",
+        "https://www.klcg.gov.tw/wSite/public/Attachment/01602/f1728958366746.ods"
+      ]
+    },
+    {
+      "id": "59456",
+      "name": "車輛偵測器靜態資料",
+      "format": "csv",
+      "urls": [
+        "https://www.klcg.gov.tw/wSite/public/Attachment/016/f1690514200325.csv"
+      ]
+    },
+    {
+      "id": "59459",
+      "name": "CMS靜態資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.klcg.gov.tw/wSite/public/Attachment/016/f1690515416895.csv"
+      ]
+    },
+    {
+      "id": "59458",
+      "name": "CCTV靜態資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.klcg.gov.tw/wSite/public/Attachment/016/f1728008895657.csv"
+      ]
+    }
+  ]
+}

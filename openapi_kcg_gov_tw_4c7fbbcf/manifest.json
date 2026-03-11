@@ -1,0 +1,3730 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府主計處",
+  "slug": "openapi_kcg_gov_tw_4c7fbbcf",
+  "datasets": [
+    {
+      "id": "127115",
+      "name": "高雄市年底高級中等以下學校家長會",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/39e152d4-5846-490b-82c2-51ffa08813fe",
+        "https://data.kcg.gov.tw/File/DirectDownload/39e152d4-5846-490b-82c2-51ffa08813fe"
+      ]
+    },
+    {
+      "id": "127116",
+      "name": "高雄市社區大學學員數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6213fea5-3643-402b-89f3-9bd49a4e54ed",
+        "https://data.kcg.gov.tw/File/DirectDownload/6213fea5-3643-402b-89f3-9bd49a4e54ed"
+      ]
+    },
+    {
+      "id": "127122",
+      "name": "高雄市年底現有公司登記家數負責人性別比率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c4e66228-d929-40c7-aaf4-b15a1c2e451d",
+        "https://data.kcg.gov.tw/File/DirectDownload/c4e66228-d929-40c7-aaf4-b15a1c2e451d"
+      ]
+    },
+    {
+      "id": "127124",
+      "name": "高雄市申請國家賠償受理人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/597baa63-2858-4085-92a4-6a1171aecac6",
+        "https://data.kcg.gov.tw/File/directDownload/597baa63-2858-4085-92a4-6a1171aecac6"
+      ]
+    },
+    {
+      "id": "127125",
+      "name": "高雄市年底公廁座數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bee7faf8-a38a-46de-845d-6b9ddd78de3b",
+        "https://data.kcg.gov.tw/File/DirectDownload/bee7faf8-a38a-46de-845d-6b9ddd78de3b"
+      ]
+    },
+    {
+      "id": "128472",
+      "name": "高雄市總預算附屬單位預算-作業基金收支餘絀綜計表(依收支科目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/de243ecd-4334-4741-9fbd-464b878db7a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/de243ecd-4334-4741-9fbd-464b878db7a3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9b43efc7-f0d7-42ea-a54a-4dd3fcd92d0a",
+        "https://data.kcg.gov.tw/File/DirectDownload/9b43efc7-f0d7-42ea-a54a-4dd3fcd92d0a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d281201f-7a93-4a2b-b56c-7e2191084353",
+        "https://data.kcg.gov.tw/File/DirectDownload/d281201f-7a93-4a2b-b56c-7e2191084353"
+      ]
+    },
+    {
+      "id": "100884",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-作業基金收支餘絀綜計表(依基金別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dd88554a-b1bd-4d3c-a777-71b77916a4aa",
+        "https://data.kcg.gov.tw/File/DirectDownload/dd88554a-b1bd-4d3c-a777-71b77916a4aa"
+      ]
+    },
+    {
+      "id": "100890",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-營業基金固定資產建設改良擴充與資金來源綜計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cdd8f82b-813a-4d63-ab4e-9be0508acf12",
+        "https://data.kcg.gov.tw/File/DirectDownload/cdd8f82b-813a-4d63-ab4e-9be0508acf12"
+      ]
+    },
+    {
+      "id": "100897",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-營業基金盈虧撥補綜計表(依撥補項目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b3d89475-e68d-4132-af4e-5b15a105d9ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/b3d89475-e68d-4132-af4e-5b15a105d9ff"
+      ]
+    },
+    {
+      "id": "100904",
+      "name": "高雄市總預算附屬單位預算-特別收入基金現金流量綜計表(依現金流量項目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/62eb7b07-083f-46af-b504-7d0826b73525",
+        "https://data.kcg.gov.tw/File/DirectDownload/62eb7b07-083f-46af-b504-7d0826b73525",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/08307fa2-168b-493b-a0b0-8bfc76060bcc",
+        "https://data.kcg.gov.tw/File/DirectDownload/08307fa2-168b-493b-a0b0-8bfc76060bcc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/423d8f7e-03cc-4451-a588-9137aee7b3f6",
+        "https://data.kcg.gov.tw/File/DirectDownload/423d8f7e-03cc-4451-a588-9137aee7b3f6"
+      ]
+    },
+    {
+      "id": "100909",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(法定預算)-作業基金現金流量綜計表(依基金別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3293e5a2-b2e8-4542-a2ad-4e921715d665",
+        "https://data.kcg.gov.tw/File/DirectDownload/3293e5a2-b2e8-4542-a2ad-4e921715d665"
+      ]
+    },
+    {
+      "id": "100911",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(法定預算)-作業基金餘絀撥補綜計表(依基金別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e60d7a59-872f-4c64-86c6-9f48a97ef532",
+        "https://data.kcg.gov.tw/File/DirectDownload/e60d7a59-872f-4c64-86c6-9f48a97ef532"
+      ]
+    },
+    {
+      "id": "100921",
+      "name": "高雄市總預算附屬單位預算-營業基金損益綜計表(依收支科目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6cfa34fa-5d51-47c2-9e2b-62c13eaba67c",
+        "https://data.kcg.gov.tw/File/DirectDownload/6cfa34fa-5d51-47c2-9e2b-62c13eaba67c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/950c4129-a0bb-46fc-ae42-7a4540c9683f",
+        "https://data.kcg.gov.tw/File/DirectDownload/950c4129-a0bb-46fc-ae42-7a4540c9683f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e261b7ec-0627-4785-9e9c-fce4f28d19ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/e261b7ec-0627-4785-9e9c-fce4f28d19ab"
+      ]
+    },
+    {
+      "id": "101171",
+      "name": "高雄市總預算歲出機關別預算總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f2d04bf7-1682-460b-ba89-02f6fb52a5d5",
+        "https://data.kcg.gov.tw/File/directDownload/f2d04bf7-1682-460b-ba89-02f6fb52a5d5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/991ab4c8-1d3d-42c2-b07f-25eec8fd7851",
+        "https://data.kcg.gov.tw/File/directDownload/991ab4c8-1d3d-42c2-b07f-25eec8fd7851",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ef2f59b-5379-4c16-813f-4bbcbc37bb18",
+        "https://data.kcg.gov.tw/File/directDownload/7ef2f59b-5379-4c16-813f-4bbcbc37bb18",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f6944933-5d1f-4ba5-ba99-4ea1e5eae658",
+        "https://data.kcg.gov.tw/File/directDownload/f6944933-5d1f-4ba5-ba99-4ea1e5eae658",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/09176045-e84d-4689-9059-63748962f942",
+        "https://data.kcg.gov.tw/File/directDownload/09176045-e84d-4689-9059-63748962f942",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c48beac7-f33e-4108-a8a7-7bc9b825bddf",
+        "https://data.kcg.gov.tw/File/directDownload/c48beac7-f33e-4108-a8a7-7bc9b825bddf",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/89d0c192-d8fa-4631-a87a-85f5e866fc32",
+        "https://data.kcg.gov.tw/File/directDownload/89d0c192-d8fa-4631-a87a-85f5e866fc32"
+      ]
+    },
+    {
+      "id": "101176",
+      "name": "高雄市總預算歲出政事別預算比較總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/49f92da9-564f-4f1e-9704-15e3dad06864",
+        "https://data.kcg.gov.tw/File/directDownload/49f92da9-564f-4f1e-9704-15e3dad06864",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/96e4f729-2c80-4cc2-977b-42839ee518ea",
+        "https://data.kcg.gov.tw/File/directDownload/96e4f729-2c80-4cc2-977b-42839ee518ea",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4c36c720-be50-4e42-a928-66d5657e5957",
+        "https://data.kcg.gov.tw/File/directDownload/4c36c720-be50-4e42-a928-66d5657e5957",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/675d8dff-cb5a-4d97-b4ea-81df8a41c8a2",
+        "https://data.kcg.gov.tw/File/directDownload/675d8dff-cb5a-4d97-b4ea-81df8a41c8a2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9570af16-2105-45bc-ad0a-a78c5875f999",
+        "https://data.kcg.gov.tw/File/directDownload/9570af16-2105-45bc-ad0a-a78c5875f999",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/34067448-7a2f-43df-93b2-a8eb1e1bad00",
+        "https://data.kcg.gov.tw/File/directDownload/34067448-7a2f-43df-93b2-a8eb1e1bad00",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d0d3c31c-fabd-41b6-a842-cc395e5f9fe5",
+        "https://data.kcg.gov.tw/File/directDownload/d0d3c31c-fabd-41b6-a842-cc395e5f9fe5"
+      ]
+    },
+    {
+      "id": "101178",
+      "name": "高雄市總預算歲入歲出性質及餘絀簡明比較分析表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/21565917-0c6c-4f36-9667-23111101e116",
+        "https://data.kcg.gov.tw/File/directDownload/21565917-0c6c-4f36-9667-23111101e116",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3ad56ea3-8f92-4daf-8844-26657f19eeae",
+        "https://data.kcg.gov.tw/File/directDownload/3ad56ea3-8f92-4daf-8844-26657f19eeae",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b4722281-6d98-4030-a142-485d50370d01",
+        "https://data.kcg.gov.tw/File/directDownload/b4722281-6d98-4030-a142-485d50370d01",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f84e94d4-d1a0-4b3f-828d-93616138279e",
+        "https://data.kcg.gov.tw/File/directDownload/f84e94d4-d1a0-4b3f-828d-93616138279e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1930aed4-9daf-4391-b197-b38d5be1c86e",
+        "https://data.kcg.gov.tw/File/directDownload/1930aed4-9daf-4391-b197-b38d5be1c86e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5b0b0ab3-cdb1-458a-9d7f-ebea8b4f5a28",
+        "https://data.kcg.gov.tw/File/directDownload/5b0b0ab3-cdb1-458a-9d7f-ebea8b4f5a28",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8e853964-0b42-434c-bf33-f7330c08d952",
+        "https://data.kcg.gov.tw/File/directDownload/8e853964-0b42-434c-bf33-f7330c08d952"
+      ]
+    },
+    {
+      "id": "101180",
+      "name": "高雄市總預算歲入來源別預算比較總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d7848c41-63a9-4ee7-80e9-3fb7c3ba430e",
+        "https://data.kcg.gov.tw/File/DirectDownload/d7848c41-63a9-4ee7-80e9-3fb7c3ba430e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/99b22931-744e-4ef4-8515-50e6ae2ee0be",
+        "https://data.kcg.gov.tw/File/DirectDownload/99b22931-744e-4ef4-8515-50e6ae2ee0be",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/698256d8-5d23-458d-b1c1-57a653892433",
+        "https://data.kcg.gov.tw/File/DirectDownload/698256d8-5d23-458d-b1c1-57a653892433",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9d808bc0-f54e-477b-a26e-7814854596e6",
+        "https://data.kcg.gov.tw/File/DirectDownload/9d808bc0-f54e-477b-a26e-7814854596e6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eaf0d202-80f5-4054-8462-9a99c1ffe2d5",
+        "https://data.kcg.gov.tw/File/DirectDownload/eaf0d202-80f5-4054-8462-9a99c1ffe2d5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7015bfd6-a2c7-4dff-af43-ebb125168a16",
+        "https://data.kcg.gov.tw/File/DirectDownload/7015bfd6-a2c7-4dff-af43-ebb125168a16"
+      ]
+    },
+    {
+      "id": "101181",
+      "name": "高雄市總預算基金別預算分析表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/78f70b54-cbb2-4169-a3b9-05dc44c23971",
+        "https://data.kcg.gov.tw/File/directDownload/78f70b54-cbb2-4169-a3b9-05dc44c23971",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b5d72747-4f75-47db-8c12-16157a2a91db",
+        "https://data.kcg.gov.tw/File/directDownload/b5d72747-4f75-47db-8c12-16157a2a91db",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2bff0410-7244-4189-a4f1-542cd696a60f",
+        "https://data.kcg.gov.tw/File/directDownload/2bff0410-7244-4189-a4f1-542cd696a60f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63673dbd-afc8-4557-82d3-8c7ac1f52ad0",
+        "https://data.kcg.gov.tw/File/directDownload/63673dbd-afc8-4557-82d3-8c7ac1f52ad0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2662d3cf-503a-47cf-905e-8eb1271f3542",
+        "https://data.kcg.gov.tw/File/directDownload/2662d3cf-503a-47cf-905e-8eb1271f3542",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9eb246b2-cb63-42ca-a27b-d74c8e1ca7be",
+        "https://data.kcg.gov.tw/File/directDownload/9eb246b2-cb63-42ca-a27b-d74c8e1ca7be",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d0c27223-f7ca-41af-a8d7-eb432a60f89f",
+        "https://data.kcg.gov.tw/File/directDownload/d0c27223-f7ca-41af-a8d7-eb432a60f89f"
+      ]
+    },
+    {
+      "id": "101929",
+      "name": "高雄市車輛行車事故鑑定",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f7b06e0-9ebb-42e3-abf3-646d27f4302c",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f7b06e0-9ebb-42e3-abf3-646d27f4302c"
+      ]
+    },
+    {
+      "id": "101934",
+      "name": "高雄市公共運輸市占率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/29e2bbfc-a247-4c40-ade6-12005ffe8f22",
+        "https://data.kcg.gov.tw/File/DirectDownload/29e2bbfc-a247-4c40-ade6-12005ffe8f22"
+      ]
+    },
+    {
+      "id": "101853",
+      "name": "高雄市消費者物價指數(基本分類指數)-年指數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4677647b-22de-4e2e-991c-e6666db35028",
+        "https://data.kcg.gov.tw/File/DirectDownload/4677647b-22de-4e2e-991c-e6666db35028"
+      ]
+    },
+    {
+      "id": "104323",
+      "name": "高雄市原住民就業服務站求職登記人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3d37a969-1503-48e2-b102-dbfd30d47d26",
+        "https://data.kcg.gov.tw/File/directDownload/3d37a969-1503-48e2-b102-dbfd30d47d26"
+      ]
+    },
+    {
+      "id": "104324",
+      "name": "高雄市受理性侵害通報受害者人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/05d62c0e-20f3-496f-976c-e21b94888c61",
+        "https://data.kcg.gov.tw/File/DirectDownload/05d62c0e-20f3-496f-976c-e21b94888c61"
+      ]
+    },
+    {
+      "id": "104325",
+      "name": "高雄市受理家庭暴力通報受害者人數(不含兒少保護通報)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/944a91ae-a56a-4e25-ab5c-1c9caf441055",
+        "https://data.kcg.gov.tw/File/DirectDownload/944a91ae-a56a-4e25-ab5c-1c9caf441055"
+      ]
+    },
+    {
+      "id": "104331",
+      "name": "高雄市年底低收入戶",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/326eb8d5-1441-4cb1-92d4-87f52bf72a62",
+        "https://data.kcg.gov.tw/File/DirectDownload/326eb8d5-1441-4cb1-92d4-87f52bf72a62"
+      ]
+    },
+    {
+      "id": "104333",
+      "name": "高雄市街友服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f33a223e-11fe-44d0-b9e4-b10d8ce5d9d1",
+        "https://data.kcg.gov.tw/File/DirectDownload/f33a223e-11fe-44d0-b9e4-b10d8ce5d9d1"
+      ]
+    },
+    {
+      "id": "104335",
+      "name": "高雄市年底長期照顧服務人員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/04948793-4046-4f42-bc08-e5e9238bab83",
+        "https://data.kcg.gov.tw/File/directDownload/04948793-4046-4f42-bc08-e5e9238bab83"
+      ]
+    },
+    {
+      "id": "104338",
+      "name": "高雄市重陽節敬老禮金發放人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a908d842-ef96-4ff1-8cf1-79e4f993e2ad",
+        "https://data.kcg.gov.tw/File/DirectDownload/a908d842-ef96-4ff1-8cf1-79e4f993e2ad"
+      ]
+    },
+    {
+      "id": "104341",
+      "name": "高雄市老人活動中心月平均服務人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b0404a77-dadf-45e8-9341-ab7033ef7a24",
+        "https://data.kcg.gov.tw/File/DirectDownload/b0404a77-dadf-45e8-9341-ab7033ef7a24"
+      ]
+    },
+    {
+      "id": "104342",
+      "name": "高雄市寄養家庭寄養兒少人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/478eb471-62b7-471e-b6fa-1f0e79615851",
+        "https://data.kcg.gov.tw/File/DirectDownload/478eb471-62b7-471e-b6fa-1f0e79615851"
+      ]
+    },
+    {
+      "id": "104285",
+      "name": "高雄市長期照顧十年計畫補助日間照顧服務個案人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/29c7b834-677d-45d0-bb0d-97494129d446",
+        "https://data.kcg.gov.tw/File/directDownload/29c7b834-677d-45d0-bb0d-97494129d446"
+      ]
+    },
+    {
+      "id": "104290",
+      "name": "高雄市申請身心障礙者權益受損協調處理人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a1955bf-c983-44d3-a81f-88285f31d1cd",
+        "https://data.kcg.gov.tw/File/DirectDownload/9a1955bf-c983-44d3-a81f-88285f31d1cd"
+      ]
+    },
+    {
+      "id": "104291",
+      "name": "高雄市推展老人福利服務補助要點補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4c08092f-a77a-476d-8fb1-15bd213db17d",
+        "https://data.kcg.gov.tw/File/DirectDownload/4c08092f-a77a-476d-8fb1-15bd213db17d"
+      ]
+    },
+    {
+      "id": "104294",
+      "name": "高雄市補助老人及身心障礙者全民健康保險保費自付額補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/473b663f-ce04-4e29-98d1-44a2f84c7b74",
+        "https://data.kcg.gov.tw/File/DirectDownload/473b663f-ce04-4e29-98d1-44a2f84c7b74"
+      ]
+    },
+    {
+      "id": "104301",
+      "name": "高雄市外籍嫌疑犯人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/05c4d65e-72e6-42ab-abd8-ba232c2d6dd8",
+        "https://data.kcg.gov.tw/File/DirectDownload/05c4d65e-72e6-42ab-abd8-ba232c2d6dd8"
+      ]
+    },
+    {
+      "id": "104303",
+      "name": "高雄市性侵害被害人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d9c5373b-2914-47dd-9df4-ccf2d7a6c057",
+        "https://data.kcg.gov.tw/File/DirectDownload/d9c5373b-2914-47dd-9df4-ccf2d7a6c057"
+      ]
+    },
+    {
+      "id": "104305",
+      "name": "高雄市暴力犯罪被害人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f622467d-3b02-4092-8ae3-663f12cc52c0",
+        "https://data.kcg.gov.tw/File/DirectDownload/f622467d-3b02-4092-8ae3-663f12cc52c0"
+      ]
+    },
+    {
+      "id": "104309",
+      "name": "高雄市義勇人員福利互助",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f5611ff0-e96d-4c9b-a69e-a1a630463190",
+        "https://data.kcg.gov.tw/File/DirectDownload/f5611ff0-e96d-4c9b-a69e-a1a630463190"
+      ]
+    },
+    {
+      "id": "104311",
+      "name": "高雄市受處理無名屍體人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3403256b-f7d7-4dff-8704-6205c23c4948",
+        "https://data.kcg.gov.tw/File/DirectDownload/3403256b-f7d7-4dff-8704-6205c23c4948"
+      ]
+    },
+    {
+      "id": "104317",
+      "name": "高雄市文化局補助或委託辦理之各項論壇、研討會參加人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e7cf39be-54b3-4a4c-9036-f8a426d19772",
+        "https://data.kcg.gov.tw/File/DirectDownload/e7cf39be-54b3-4a4c-9036-f8a426d19772"
+      ]
+    },
+    {
+      "id": "104278",
+      "name": "高雄市發展遲緩兒童",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bce1fb67-cace-436a-a174-cdce166ff5a2",
+        "https://data.kcg.gov.tw/File/DirectDownload/bce1fb67-cace-436a-a174-cdce166ff5a2"
+      ]
+    },
+    {
+      "id": "104281",
+      "name": "高雄市年底兒童及少年人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/37ad9cc0-8d95-4fbe-8a5c-7d664a6e0ca2",
+        "https://data.kcg.gov.tw/File/DirectDownload/37ad9cc0-8d95-4fbe-8a5c-7d664a6e0ca2"
+      ]
+    },
+    {
+      "id": "104343",
+      "name": "高雄市領有身心障礙手冊人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4b4ed6d9-01e6-4fd5-98c0-befc841bee3a",
+        "https://data.kcg.gov.tw/File/DirectDownload/4b4ed6d9-01e6-4fd5-98c0-befc841bee3a"
+      ]
+    },
+    {
+      "id": "104345",
+      "name": "高雄市敬老卡及博愛卡申辦",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ea3b1db0-572a-47d7-9ee0-893e32b18eeb",
+        "https://data.kcg.gov.tw/File/DirectDownload/ea3b1db0-572a-47d7-9ee0-893e32b18eeb"
+      ]
+    },
+    {
+      "id": "104348",
+      "name": "高雄市(政府捐助)財團法人社會福利慈善事業基金會",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a693b3ba-7d95-4830-b299-41e77b65d040",
+        "https://data.kcg.gov.tw/File/DirectDownload/a693b3ba-7d95-4830-b299-41e77b65d040"
+      ]
+    },
+    {
+      "id": "104356",
+      "name": "高雄市中低收入老人特別照顧津貼領取人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8619c948-0558-4bc1-934b-c7b89b3de4f0",
+        "https://data.kcg.gov.tw/File/DirectDownload/8619c948-0558-4bc1-934b-c7b89b3de4f0"
+      ]
+    },
+    {
+      "id": "127014",
+      "name": "高雄市總決算歲出機關別決算總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/167ca3ea-3ffb-4430-b83c-360e5328db40",
+        "https://data.kcg.gov.tw/File/DirectDownload/167ca3ea-3ffb-4430-b83c-360e5328db40",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5af68f18-18c9-4b83-9f38-50bf7552c26c",
+        "https://data.kcg.gov.tw/File/DirectDownload/5af68f18-18c9-4b83-9f38-50bf7552c26c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ca5f3e1a-5c2a-47d2-8f22-5cff9eed4d60",
+        "https://data.kcg.gov.tw/File/DirectDownload/ca5f3e1a-5c2a-47d2-8f22-5cff9eed4d60",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0d3404e0-d4ad-4e2e-b3b9-650b818fa686",
+        "https://data.kcg.gov.tw/File/DirectDownload/0d3404e0-d4ad-4e2e-b3b9-650b818fa686",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d8d98ef5-16d7-49b1-a1d6-6fa3a936a0a4",
+        "https://data.kcg.gov.tw/File/DirectDownload/d8d98ef5-16d7-49b1-a1d6-6fa3a936a0a4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e7fe6066-8d62-4d02-a327-71fb9218b610",
+        "https://data.kcg.gov.tw/File/DirectDownload/e7fe6066-8d62-4d02-a327-71fb9218b610",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4ce80ed7-afb1-47c3-9365-8cac72c17553",
+        "https://data.kcg.gov.tw/File/DirectDownload/4ce80ed7-afb1-47c3-9365-8cac72c17553"
+      ]
+    },
+    {
+      "id": "127059",
+      "name": "高雄市有偶人口離婚率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ad2d568-ec0a-466b-b7e9-6ef01f498034",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ad2d568-ec0a-466b-b7e9-6ef01f498034"
+      ]
+    },
+    {
+      "id": "127062",
+      "name": "高雄市粗出生率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/47f1296e-57ce-4c51-bb49-18491df6872d",
+        "https://data.kcg.gov.tw/File/directDownload/47f1296e-57ce-4c51-bb49-18491df6872d"
+      ]
+    },
+    {
+      "id": "127064",
+      "name": "高雄市出生嬰兒從母姓人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7edb5d84-8a39-4c43-a11a-2b802a24233f",
+        "https://data.kcg.gov.tw/File/directDownload/7edb5d84-8a39-4c43-a11a-2b802a24233f"
+      ]
+    },
+    {
+      "id": "127068",
+      "name": "高雄市就業人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ec7d8d1a-9978-487a-9c86-777ca7277536",
+        "https://data.kcg.gov.tw/File/DirectDownload/ec7d8d1a-9978-487a-9c86-777ca7277536"
+      ]
+    },
+    {
+      "id": "127018",
+      "name": "高雄市總決算歲入歲出性質及餘絀簡明比較分析表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8942c2d3-f216-4417-8ccf-1c4841220f0b",
+        "https://data.kcg.gov.tw/File/DirectDownload/8942c2d3-f216-4417-8ccf-1c4841220f0b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7c57dacc-1d8d-472f-bff9-253e670a3306",
+        "https://data.kcg.gov.tw/File/DirectDownload/7c57dacc-1d8d-472f-bff9-253e670a3306",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/77cdb13b-576b-4679-b199-33441591e38d",
+        "https://data.kcg.gov.tw/File/DirectDownload/77cdb13b-576b-4679-b199-33441591e38d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0fd61883-4d49-4a1b-8e45-6497f7a635e0",
+        "https://data.kcg.gov.tw/File/DirectDownload/0fd61883-4d49-4a1b-8e45-6497f7a635e0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e956b007-34f5-4847-acc2-b3a9a1c57ca1",
+        "https://data.kcg.gov.tw/File/DirectDownload/e956b007-34f5-4847-acc2-b3a9a1c57ca1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4de6610a-d5b9-4235-9fab-d39b87dec180",
+        "https://data.kcg.gov.tw/File/DirectDownload/4de6610a-d5b9-4235-9fab-d39b87dec180",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7b0070b-8cbf-4f4f-8c10-f9f9fdc4a468",
+        "https://data.kcg.gov.tw/File/DirectDownload/f7b0070b-8cbf-4f4f-8c10-f9f9fdc4a468"
+      ]
+    },
+    {
+      "id": "127019",
+      "name": "高雄市總決算歲入歲出簡明比較分析表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d91b07f9-24ce-451e-8fc5-063cfdcf03cd",
+        "https://data.kcg.gov.tw/File/DirectDownload/d91b07f9-24ce-451e-8fc5-063cfdcf03cd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/64bbd913-9720-4a15-8e68-74ee79a2aed6",
+        "https://data.kcg.gov.tw/File/DirectDownload/64bbd913-9720-4a15-8e68-74ee79a2aed6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e1d8601c-2479-4cb0-a806-92031c3e0cf2",
+        "https://data.kcg.gov.tw/File/DirectDownload/e1d8601c-2479-4cb0-a806-92031c3e0cf2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a2919092-3df9-4b9a-8b02-afd616297941",
+        "https://data.kcg.gov.tw/File/DirectDownload/a2919092-3df9-4b9a-8b02-afd616297941",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4cd293c3-2698-4be8-85c3-ccf04428a9cb",
+        "https://data.kcg.gov.tw/File/DirectDownload/4cd293c3-2698-4be8-85c3-ccf04428a9cb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/99630418-bbe1-4090-8705-cefe10e8623f",
+        "https://data.kcg.gov.tw/File/DirectDownload/99630418-bbe1-4090-8705-cefe10e8623f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8a205af6-da1b-43fa-9d94-e9aa7b4680b7",
+        "https://data.kcg.gov.tw/File/DirectDownload/8a205af6-da1b-43fa-9d94-e9aa7b4680b7"
+      ]
+    },
+    {
+      "id": "127020",
+      "name": "高雄市年底人口數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/480c5c3c-36c9-4e52-8e9a-9eb63424d5d4",
+        "https://data.kcg.gov.tw/File/directDownload/480c5c3c-36c9-4e52-8e9a-9eb63424d5d4"
+      ]
+    },
+    {
+      "id": "127024",
+      "name": "高雄市遷入遷出人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a123412d-3b81-408a-811d-016dc920c491",
+        "https://data.kcg.gov.tw/File/directDownload/a123412d-3b81-408a-811d-016dc920c491"
+      ]
+    },
+    {
+      "id": "127027",
+      "name": "高雄市年底15歲以上婚姻結構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cf1597da-fa09-45a7-8dae-78ab8eef7351",
+        "https://data.kcg.gov.tw/File/directDownload/cf1597da-fa09-45a7-8dae-78ab8eef7351"
+      ]
+    },
+    {
+      "id": "127029",
+      "name": "高雄市大陸與外籍配偶人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a96e8f1-6f48-4afb-b592-cecaed4c72ef",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a96e8f1-6f48-4afb-b592-cecaed4c72ef"
+      ]
+    },
+    {
+      "id": "127030",
+      "name": "高雄市外國人結婚離婚人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a22cdbec-07fa-4f82-b8bd-e427838ecc69",
+        "https://data.kcg.gov.tw/File/DirectDownload/a22cdbec-07fa-4f82-b8bd-e427838ecc69"
+      ]
+    },
+    {
+      "id": "127033",
+      "name": "高雄市再婚率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c29280bd-bba3-4799-9c3e-cb75b4bf76c8",
+        "https://data.kcg.gov.tw/File/DirectDownload/c29280bd-bba3-4799-9c3e-cb75b4bf76c8"
+      ]
+    },
+    {
+      "id": "127040",
+      "name": "高雄市火災傷亡人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9572fff8-483a-46bf-a22b-3cdfde5552e3",
+        "https://data.kcg.gov.tw/File/DirectDownload/9572fff8-483a-46bf-a22b-3cdfde5552e3"
+      ]
+    },
+    {
+      "id": "127042",
+      "name": "高雄市外籍勞工參加健檢人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c169c687-0872-4588-bbdf-2bb95a8a67bf",
+        "https://data.kcg.gov.tw/File/DirectDownload/c169c687-0872-4588-bbdf-2bb95a8a67bf"
+      ]
+    },
+    {
+      "id": "127047",
+      "name": "高雄市口腔癌篩檢率(106年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4d594150-7a40-4921-b580-cecdf651f4a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/4d594150-7a40-4921-b580-cecdf651f4a3"
+      ]
+    },
+    {
+      "id": "127048",
+      "name": "高雄市大腸癌篩檢率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f8fefa1-93bb-4036-b4ed-9fdc1c35a779",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f8fefa1-93bb-4036-b4ed-9fdc1c35a779"
+      ]
+    },
+    {
+      "id": "127053",
+      "name": "高雄市婦女子宮頸抹片篩檢人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/43aae9dc-4ff8-4cf0-8348-b3b817f3f459",
+        "https://data.kcg.gov.tw/File/DirectDownload/43aae9dc-4ff8-4cf0-8348-b3b817f3f459"
+      ]
+    },
+    {
+      "id": "127096",
+      "name": "高雄市公務人員育嬰留職停薪人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b63567f3-b773-4488-a5f8-837336417909",
+        "https://data.kcg.gov.tw/File/directDownload/b63567f3-b773-4488-a5f8-837336417909"
+      ]
+    },
+    {
+      "id": "127102",
+      "name": "高雄市參加眷村衛生保健座談會人次(108年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5731dfab-7794-4ea2-8e59-13616c5aed7a",
+        "https://data.kcg.gov.tw/File/DirectDownload/5731dfab-7794-4ea2-8e59-13616c5aed7a"
+      ]
+    },
+    {
+      "id": "127103",
+      "name": "高雄市年底上級農會選任人員數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/faf10ee3-e2ce-486f-8670-4bc1a5c31bbb",
+        "https://data.kcg.gov.tw/File/DirectDownload/faf10ee3-e2ce-486f-8670-4bc1a5c31bbb"
+      ]
+    },
+    {
+      "id": "127107",
+      "name": "高雄市幼兒園教保服務人員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c1c3c11a-399d-41c7-9f90-0b50cc45e391",
+        "https://data.kcg.gov.tw/File/DirectDownload/c1c3c11a-399d-41c7-9f90-0b50cc45e391"
+      ]
+    },
+    {
+      "id": "127108",
+      "name": "高雄市各級學校學生數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2b0eacad-5f40-48f1-a310-1ee00f841845",
+        "https://data.kcg.gov.tw/File/DirectDownload/2b0eacad-5f40-48f1-a310-1ee00f841845"
+      ]
+    },
+    {
+      "id": "127072",
+      "name": "高雄市失業率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d2fea443-4bb1-40a4-ac9a-39676f0e3599",
+        "https://data.kcg.gov.tw/File/DirectDownload/d2fea443-4bb1-40a4-ac9a-39676f0e3599"
+      ]
+    },
+    {
+      "id": "127073",
+      "name": "高雄市非勞動力人口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/48347515-a191-4e69-a2ee-4801bc5e1d6d",
+        "https://data.kcg.gov.tw/File/DirectDownload/48347515-a191-4e69-a2ee-4801bc5e1d6d"
+      ]
+    },
+    {
+      "id": "127075",
+      "name": "高雄市訓就中心服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/769ec670-eedd-42fd-9dcb-1157c39d7470",
+        "https://data.kcg.gov.tw/File/DirectDownload/769ec670-eedd-42fd-9dcb-1157c39d7470"
+      ]
+    },
+    {
+      "id": "127079",
+      "name": "高雄市年底辦理身心障礙者就業促進運用人力",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d4e0fe56-77f0-4db3-a59c-0713ec8b1b02",
+        "https://data.kcg.gov.tw/File/DirectDownload/d4e0fe56-77f0-4db3-a59c-0713ec8b1b02"
+      ]
+    },
+    {
+      "id": "127080",
+      "name": "高雄市身心障礙者職業輔導評量服務個案人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/924d6342-57d0-4ebb-960c-1301900c90ed",
+        "https://data.kcg.gov.tw/File/DirectDownload/924d6342-57d0-4ebb-960c-1301900c90ed"
+      ]
+    },
+    {
+      "id": "127083",
+      "name": "高雄市老農福利津貼核付人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0791e350-a834-4ba9-8260-5b9b90e031ba",
+        "https://data.kcg.gov.tw/File/DirectDownload/0791e350-a834-4ba9-8260-5b9b90e031ba"
+      ]
+    },
+    {
+      "id": "127084",
+      "name": "高雄市勞工保險被保險人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b869f03d-9387-4398-b355-108f9f67b654",
+        "https://data.kcg.gov.tw/File/DirectDownload/b869f03d-9387-4398-b355-108f9f67b654"
+      ]
+    },
+    {
+      "id": "127148",
+      "name": "高雄市家庭暴力被害人補助人次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e9ca63bf-5001-4d03-9ff7-2d9e60900614",
+        "https://data.kcg.gov.tw/File/DirectDownload/e9ca63bf-5001-4d03-9ff7-2d9e60900614"
+      ]
+    },
+    {
+      "id": "127149",
+      "name": "高雄市消費者保護",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/de6a4b3c-86a8-432c-8e1b-764925334404",
+        "https://data.kcg.gov.tw/File/DirectDownload/de6a4b3c-86a8-432c-8e1b-764925334404"
+      ]
+    },
+    {
+      "id": "127150",
+      "name": "高雄市年底志工人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fa71655e-f516-44bd-94ff-4de1403360a9",
+        "https://data.kcg.gov.tw/File/DirectDownload/fa71655e-f516-44bd-94ff-4de1403360a9"
+      ]
+    },
+    {
+      "id": "127151",
+      "name": "高雄市年底社區發展協會理事長人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/db78e48b-caa5-4b03-aac0-3ee4810501ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/db78e48b-caa5-4b03-aac0-3ee4810501ab"
+      ]
+    },
+    {
+      "id": "127153",
+      "name": "高雄市年底客家社團人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ddd927f9-48d5-45ca-825f-5e6d82e672ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/ddd927f9-48d5-45ca-825f-5e6d82e672ab"
+      ]
+    },
+    {
+      "id": "127128",
+      "name": "高雄市產業園區開發管理基金管理會委員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cbf024cb-ac6e-4f05-b382-7d8aa183a044",
+        "https://data.kcg.gov.tw/File/DirectDownload/cbf024cb-ac6e-4f05-b382-7d8aa183a044"
+      ]
+    },
+    {
+      "id": "127129",
+      "name": "高雄市產業園區開發建設費用及計價審定小組委員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ce597b36-b587-47ff-b6a9-a68d31445d8f",
+        "https://data.kcg.gov.tw/File/DirectDownload/ce597b36-b587-47ff-b6a9-a68d31445d8f"
+      ]
+    },
+    {
+      "id": "127140",
+      "name": "高雄市年底婦女權益促進委員會委員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c366aa76-62cb-4333-9e2a-8fb224817d01",
+        "https://data.kcg.gov.tw/File/DirectDownload/c366aa76-62cb-4333-9e2a-8fb224817d01"
+      ]
+    },
+    {
+      "id": "127142",
+      "name": "高雄市社會福利服務場地",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ac95ff5-823d-4ce3-b2c8-d31147f6a7d9",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ac95ff5-823d-4ce3-b2c8-d31147f6a7d9"
+      ]
+    },
+    {
+      "id": "127146",
+      "name": "高雄市年底家庭暴力及性侵害防治中心社工人員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1bc0866a-5aff-412d-812c-cf15f07074a0",
+        "https://data.kcg.gov.tw/File/DirectDownload/1bc0866a-5aff-412d-812c-cf15f07074a0"
+      ]
+    },
+    {
+      "id": "138213",
+      "name": "高雄市申請重度以上身心障礙者福利津貼補助通過人數(106年起停止發布)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/99677b17-8ee8-4099-b318-d14f10f1f938",
+        "https://data.kcg.gov.tw/File/DirectDownload/99677b17-8ee8-4099-b318-d14f10f1f938"
+      ]
+    },
+    {
+      "id": "138216",
+      "name": "高雄市年底青少年服務員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58ab8fb3-253c-4b95-99f3-335c9105b6c2",
+        "https://data.kcg.gov.tw/File/DirectDownload/58ab8fb3-253c-4b95-99f3-335c9105b6c2"
+      ]
+    },
+    {
+      "id": "138187",
+      "name": "高雄市所得收入者平均每人所得分配",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/52e2ec33-5a8a-4366-96f8-a8e2864a3ba7",
+        "https://data.kcg.gov.tw/File/DirectDownload/52e2ec33-5a8a-4366-96f8-a8e2864a3ba7"
+      ]
+    },
+    {
+      "id": "138189",
+      "name": "高雄市家庭住宅及現代化設備概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/34b38b7c-15a3-44aa-8c00-2070aa1c28f1",
+        "https://data.kcg.gov.tw/File/DirectDownload/34b38b7c-15a3-44aa-8c00-2070aa1c28f1"
+      ]
+    },
+    {
+      "id": "138194",
+      "name": "高雄市市長選舉投票率(108年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/edb46c42-cd10-47e1-8c81-06e953a7fe3b",
+        "https://data.kcg.gov.tw/File/DirectDownload/edb46c42-cd10-47e1-8c81-06e953a7fe3b"
+      ]
+    },
+    {
+      "id": "138294",
+      "name": "高雄市河川志工人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/180b0ab0-4d9f-4f14-9612-a4476582b1e1",
+        "https://data.kcg.gov.tw/File/directDownload/180b0ab0-4d9f-4f14-9612-a4476582b1e1"
+      ]
+    },
+    {
+      "id": "138220",
+      "name": "高雄市門、住診合計就診率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/35933e88-dcea-4ec7-a278-21078517c7f8",
+        "https://data.kcg.gov.tw/File/DirectDownload/35933e88-dcea-4ec7-a278-21078517c7f8"
+      ]
+    },
+    {
+      "id": "138223",
+      "name": "高雄市大專校院環境相關科系(所)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/34c58eb2-abf6-4280-8346-f65daae4d9a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/34c58eb2-abf6-4280-8346-f65daae4d9a3"
+      ]
+    },
+    {
+      "id": "138224",
+      "name": "高雄市兵役節表揚績優役政人員",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f11f348d-0b75-4b20-aeae-af5101814032",
+        "https://data.kcg.gov.tw/File/directDownload/f11f348d-0b75-4b20-aeae-af5101814032"
+      ]
+    },
+    {
+      "id": "138226",
+      "name": "高雄市里長選舉",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/085a3dc2-1ebc-46cc-9045-b139042404d5",
+        "https://data.kcg.gov.tw/File/directDownload/085a3dc2-1ebc-46cc-9045-b139042404d5"
+      ]
+    },
+    {
+      "id": "138227",
+      "name": "高雄市現有選舉公職人員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cd3fbc44-f844-4346-9fd2-474ce20a087f",
+        "https://data.kcg.gov.tw/File/directDownload/cd3fbc44-f844-4346-9fd2-474ce20a087f"
+      ]
+    },
+    {
+      "id": "138231",
+      "name": "高雄市公職人員財產申報人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/50074db6-452b-4e03-9168-e3cdd2acd2f1",
+        "https://data.kcg.gov.tw/File/directDownload/50074db6-452b-4e03-9168-e3cdd2acd2f1"
+      ]
+    },
+    {
+      "id": "136897",
+      "name": "高雄市一般生育率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/52589d87-2a46-4cdf-a98c-84bac4670e55",
+        "https://data.kcg.gov.tw/File/DirectDownload/52589d87-2a46-4cdf-a98c-84bac4670e55"
+      ]
+    },
+    {
+      "id": "159643",
+      "name": "高雄都會區大眾捷運系統電子票證發行量及交易量",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4df5d4d3-1fb4-4b31-80ac-17dfeff83d0c",
+        "https://data.kcg.gov.tw/File/DirectDownload/4df5d4d3-1fb4-4b31-80ac-17dfeff83d0c"
+      ]
+    },
+    {
+      "id": "159644",
+      "name": "高雄市觀光旅館住客人次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/46a07137-163f-4391-ad57-51668ba5ee75",
+        "https://data.kcg.gov.tw/File/DirectDownload/46a07137-163f-4391-ad57-51668ba5ee75"
+      ]
+    },
+    {
+      "id": "159645",
+      "name": "高雄市觀光旅館住用情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d8e11066-81e7-44ee-963d-4fdc37055cfc",
+        "https://data.kcg.gov.tw/File/DirectDownload/d8e11066-81e7-44ee-963d-4fdc37055cfc"
+      ]
+    },
+    {
+      "id": "159673",
+      "name": "高雄市社區發展協會概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/210a32da-3a38-46f7-9307-1fe2cd5a3608",
+        "https://data.kcg.gov.tw/File/DirectDownload/210a32da-3a38-46f7-9307-1fe2cd5a3608"
+      ]
+    },
+    {
+      "id": "159674",
+      "name": "高雄市污水處理率及全年污水處理總量",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d78e0dc5-079e-4545-b698-fa0a5f539d65",
+        "https://data.kcg.gov.tw/File/DirectDownload/d78e0dc5-079e-4545-b698-fa0a5f539d65"
+      ]
+    },
+    {
+      "id": "159677",
+      "name": "高雄市平均每日垃圾清運公斤量及垃圾回收率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c7f8d889-c884-4660-bf6a-eb55f70b8ce8",
+        "https://data.kcg.gov.tw/File/DirectDownload/c7f8d889-c884-4660-bf6a-eb55f70b8ce8"
+      ]
+    },
+    {
+      "id": "159683",
+      "name": "高雄市外國人土地之權利登記筆數及面積",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5d6340eb-df39-43f2-ae1b-4abd1859103e",
+        "https://data.kcg.gov.tw/File/DirectDownload/5d6340eb-df39-43f2-ae1b-4abd1859103e"
+      ]
+    },
+    {
+      "id": "159684",
+      "name": "高雄市主要觀光遊憩區遊客人次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e499ae53-46e1-4e04-8448-6dc7a3f5b312",
+        "https://data.kcg.gov.tw/File/DirectDownload/e499ae53-46e1-4e04-8448-6dc7a3f5b312"
+      ]
+    },
+    {
+      "id": "159685",
+      "name": "高雄市水產養殖面積",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58000b0c-4b22-4869-9f91-81e842ad58c5",
+        "https://data.kcg.gov.tw/File/DirectDownload/58000b0c-4b22-4869-9f91-81e842ad58c5"
+      ]
+    },
+    {
+      "id": "159655",
+      "name": "高雄市漁業產值",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0294e173-0233-4de8-8e34-20932f0f70e8",
+        "https://data.kcg.gov.tw/File/DirectDownload/0294e173-0233-4de8-8e34-20932f0f70e8"
+      ]
+    },
+    {
+      "id": "159657",
+      "name": "高雄市圖書館借閱冊數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/932e110d-c758-498b-8cdb-b35e4db074f8",
+        "https://data.kcg.gov.tw/File/DirectDownload/932e110d-c758-498b-8cdb-b35e4db074f8"
+      ]
+    },
+    {
+      "id": "159659",
+      "name": "高雄市農戶人口數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3af243d0-aec4-4eff-8311-8064428ff0f8",
+        "https://data.kcg.gov.tw/File/DirectDownload/3af243d0-aec4-4eff-8311-8064428ff0f8"
+      ]
+    },
+    {
+      "id": "159662",
+      "name": "高雄市提供或轉介遊民福利服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eaf537ac-662c-48bd-8fc9-3d85224de99d",
+        "https://data.kcg.gov.tw/File/DirectDownload/eaf537ac-662c-48bd-8fc9-3d85224de99d"
+      ]
+    },
+    {
+      "id": "159664",
+      "name": "高雄市現有家畜數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6f4a2e6f-64ae-409b-8f0c-cbd6c54802e3",
+        "https://data.kcg.gov.tw/File/DirectDownload/6f4a2e6f-64ae-409b-8f0c-cbd6c54802e3"
+      ]
+    },
+    {
+      "id": "159665",
+      "name": "高雄市捷運接駁公車營運情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a55e1d7f-7da8-46d3-aafa-c8c2db88173e",
+        "https://data.kcg.gov.tw/File/DirectDownload/a55e1d7f-7da8-46d3-aafa-c8c2db88173e"
+      ]
+    },
+    {
+      "id": "159666",
+      "name": "高雄市國民中學視力不良人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a30a36b-88d4-40ea-98f6-6e8085201000",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a30a36b-88d4-40ea-98f6-6e8085201000"
+      ]
+    },
+    {
+      "id": "159667",
+      "name": "高雄市國民小學視力不良人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/315ccb17-4e94-4de4-9ed5-ebd63b8d0296",
+        "https://data.kcg.gov.tw/File/DirectDownload/315ccb17-4e94-4de4-9ed5-ebd63b8d0296"
+      ]
+    },
+    {
+      "id": "159668",
+      "name": "高雄市家庭暴力通報案件類型件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9027e0b3-c6c6-4c61-b01e-1a55f66c385d",
+        "https://data.kcg.gov.tw/File/directDownload/9027e0b3-c6c6-4c61-b01e-1a55f66c385d"
+      ]
+    },
+    {
+      "id": "159670",
+      "name": "高雄市建物所有權登記筆數與面積",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f8fbf4c-5e84-42a6-b52f-b0c38ebfe4d4",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f8fbf4c-5e84-42a6-b52f-b0c38ebfe4d4"
+      ]
+    },
+    {
+      "id": "159671",
+      "name": "高雄市長期照顧十年計畫服務個案人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ffaf0654-99d1-4918-b505-484ef9311c66",
+        "https://data.kcg.gov.tw/File/DirectDownload/ffaf0654-99d1-4918-b505-484ef9311c66"
+      ]
+    },
+    {
+      "id": "159773",
+      "name": "高雄市花卉批發市場概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0695c667-c6d2-4aa3-b50b-0fe62b1cf0cd",
+        "https://data.kcg.gov.tw/File/DirectDownload/0695c667-c6d2-4aa3-b50b-0fe62b1cf0cd"
+      ]
+    },
+    {
+      "id": "159775",
+      "name": "高雄市票據交換所票據交換概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bb1050f1-4005-453c-8d0c-47e4e2fceee6",
+        "https://data.kcg.gov.tw/File/DirectDownload/bb1050f1-4005-453c-8d0c-47e4e2fceee6"
+      ]
+    },
+    {
+      "id": "132787",
+      "name": "六都失業率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4ec802bb-3f75-46a0-9657-41bf32cc065e",
+        "https://data.kcg.gov.tw/File/DirectDownload/4ec802bb-3f75-46a0-9657-41bf32cc065e"
+      ]
+    },
+    {
+      "id": "147172",
+      "name": "高雄市動產質借所典押貸款金額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2a07bd5b-c3a3-46fa-b79b-fccfda0858e7",
+        "https://data.kcg.gov.tw/File/DirectDownload/2a07bd5b-c3a3-46fa-b79b-fccfda0858e7"
+      ]
+    },
+    {
+      "id": "147173",
+      "name": "高雄市違反社會秩序維護法案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1db4d15c-b6ec-4b01-99ad-19134435ae06",
+        "https://data.kcg.gov.tw/File/DirectDownload/1db4d15c-b6ec-4b01-99ad-19134435ae06"
+      ]
+    },
+    {
+      "id": "147178",
+      "name": "高雄市性侵害通報案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bb245ed6-06ef-403d-a51a-38a92bfad14e",
+        "https://data.kcg.gov.tw/File/DirectDownload/bb245ed6-06ef-403d-a51a-38a92bfad14e"
+      ]
+    },
+    {
+      "id": "155811",
+      "name": "高雄市辦理急難救助概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/33a4a804-370a-49e8-aea7-288a16d98073",
+        "https://data.kcg.gov.tw/File/DirectDownload/33a4a804-370a-49e8-aea7-288a16d98073"
+      ]
+    },
+    {
+      "id": "155815",
+      "name": "高雄市幼兒教育校數及班級數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0e156974-f61c-41bb-9c72-745eaf683a49",
+        "https://data.kcg.gov.tw/File/DirectDownload/0e156974-f61c-41bb-9c72-745eaf683a49"
+      ]
+    },
+    {
+      "id": "155816",
+      "name": "高雄市國民小學校數及班級數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f59bc1e-ca6f-4eaa-b35c-54dd4fbc451f",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f59bc1e-ca6f-4eaa-b35c-54dd4fbc451f"
+      ]
+    },
+    {
+      "id": "155845",
+      "name": "高雄市獲分配公職考試錄取人數(108年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f589ca98-d2bb-45fb-92e2-a925af6a9c33",
+        "https://data.kcg.gov.tw/File/DirectDownload/f589ca98-d2bb-45fb-92e2-a925af6a9c33"
+      ]
+    },
+    {
+      "id": "155819",
+      "name": "高雄國際機場貨運噸數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/585a7c1e-c1d5-479f-bf46-f111ad570bb6",
+        "https://data.kcg.gov.tw/File/DirectDownload/585a7c1e-c1d5-479f-bf46-f111ad570bb6"
+      ]
+    },
+    {
+      "id": "155822",
+      "name": "高雄市台灣高速鐵路進出旅客人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6cc20869-f7ad-4e4f-8c00-81c264e35b28",
+        "https://data.kcg.gov.tw/File/DirectDownload/6cc20869-f7ad-4e4f-8c00-81c264e35b28"
+      ]
+    },
+    {
+      "id": "155830",
+      "name": "高雄市加工出口區現有區內事業核准投資家數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9cf9cf2a-8ffb-4c4c-a24a-5e9ffce48a92",
+        "https://data.kcg.gov.tw/File/DirectDownload/9cf9cf2a-8ffb-4c4c-a24a-5e9ffce48a92"
+      ]
+    },
+    {
+      "id": "155831",
+      "name": "高雄市商業登記現有家數與資本額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c26601ce-92c6-406b-a15a-36d106e56d52",
+        "https://data.kcg.gov.tw/File/DirectDownload/c26601ce-92c6-406b-a15a-36d106e56d52"
+      ]
+    },
+    {
+      "id": "173509",
+      "name": "統計快報",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d35137f8-d37f-40ba-b8c9-0147550c3bd1",
+        "https://data.kcg.gov.tw/File/DirectDownload/d35137f8-d37f-40ba-b8c9-0147550c3bd1"
+      ]
+    },
+    {
+      "id": "100910",
+      "name": "高雄市總預算附屬單位預算-作業基金現金流量綜計表(依現金流量項目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b6ef6499-70ac-4a8b-8361-297581be2518",
+        "https://data.kcg.gov.tw/File/DirectDownload/b6ef6499-70ac-4a8b-8361-297581be2518",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8893accc-2f02-4077-8238-2c6de36dc159",
+        "https://data.kcg.gov.tw/File/DirectDownload/8893accc-2f02-4077-8238-2c6de36dc159",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/41876000-f8ce-4e68-91f2-d5793dec7bac",
+        "https://data.kcg.gov.tw/File/DirectDownload/41876000-f8ce-4e68-91f2-d5793dec7bac"
+      ]
+    },
+    {
+      "id": "100917",
+      "name": "高雄市總預算附屬單位預算-營業基金現金流量綜計表(依現金流量項目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/367dc8b0-ed10-403d-8d24-222fa614b96a",
+        "https://data.kcg.gov.tw/File/DirectDownload/367dc8b0-ed10-403d-8d24-222fa614b96a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dd5dc152-928d-432e-9bae-caf98db3a6aa",
+        "https://data.kcg.gov.tw/File/DirectDownload/dd5dc152-928d-432e-9bae-caf98db3a6aa",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5d067da1-c911-45e9-93d8-efbb272ca8b8",
+        "https://data.kcg.gov.tw/File/DirectDownload/5d067da1-c911-45e9-93d8-efbb272ca8b8"
+      ]
+    },
+    {
+      "id": "100918",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(法定預算)-營業基金盈虧撥補綜計表(依機關別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b419dbb8-37d9-4640-9880-ebae3b6f9c35",
+        "https://data.kcg.gov.tw/File/DirectDownload/b419dbb8-37d9-4640-9880-ebae3b6f9c35"
+      ]
+    },
+    {
+      "id": "100919",
+      "name": "高雄市總預算附屬單位預算-營業基金盈虧撥補綜計表(依撥補項目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a829f4b5-e7b7-4b5c-aa08-1d4a88103131",
+        "https://data.kcg.gov.tw/File/DirectDownload/a829f4b5-e7b7-4b5c-aa08-1d4a88103131",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/986a9503-31eb-4899-b17d-5e407b18363e",
+        "https://data.kcg.gov.tw/File/DirectDownload/986a9503-31eb-4899-b17d-5e407b18363e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8d90875c-5965-496e-9899-91313899a877",
+        "https://data.kcg.gov.tw/File/DirectDownload/8d90875c-5965-496e-9899-91313899a877"
+      ]
+    },
+    {
+      "id": "100920",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(法定預算)-營業基金損益綜計表(依機關別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b6693e33-c1ad-4ecb-81a3-8bc781879675",
+        "https://data.kcg.gov.tw/File/DirectDownload/b6693e33-c1ad-4ecb-81a3-8bc781879675"
+      ]
+    },
+    {
+      "id": "100922",
+      "name": "高雄市總預算附屬單位預算及綜計表-營業基金財務摘要綜計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c964b42f-350e-4474-825b-0bdc4ca49268",
+        "https://data.kcg.gov.tw/File/DirectDownload/c964b42f-350e-4474-825b-0bdc4ca49268",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bfa1452e-113d-485e-951d-3201bf499134",
+        "https://data.kcg.gov.tw/File/DirectDownload/bfa1452e-113d-485e-951d-3201bf499134",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e87e4ec1-03ee-4796-ab9e-96c53b8818eb",
+        "https://data.kcg.gov.tw/File/DirectDownload/e87e4ec1-03ee-4796-ab9e-96c53b8818eb"
+      ]
+    },
+    {
+      "id": "100886",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-作業基金餘絀撥補綜計表(依基金別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1afe0dd3-c16b-495f-81d1-16b6c690baf5",
+        "https://data.kcg.gov.tw/File/DirectDownload/1afe0dd3-c16b-495f-81d1-16b6c690baf5"
+      ]
+    },
+    {
+      "id": "100888",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-作業基金收支餘絀綜計表(依收支科目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/61683009-0b79-4e5c-97a2-2005585554f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/61683009-0b79-4e5c-97a2-2005585554f3"
+      ]
+    },
+    {
+      "id": "100889",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-營業基金資本增減綜計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9d07a1dd-51c4-4f53-8cb5-5a4d9babe0dc",
+        "https://data.kcg.gov.tw/File/DirectDownload/9d07a1dd-51c4-4f53-8cb5-5a4d9babe0dc"
+      ]
+    },
+    {
+      "id": "100893",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-營業基金盈虧撥補綜計表(依機關別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/419d641d-b154-4692-a1f8-5f33620c0828",
+        "https://data.kcg.gov.tw/File/DirectDownload/419d641d-b154-4692-a1f8-5f33620c0828"
+      ]
+    },
+    {
+      "id": "100894",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-營業基金現金流量項目分列(依機關別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/50ef7c2f-ad43-4bb3-ae74-9d93f5be7835",
+        "https://data.kcg.gov.tw/File/DirectDownload/50ef7c2f-ad43-4bb3-ae74-9d93f5be7835"
+      ]
+    },
+    {
+      "id": "100898",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-特別收入基金現金流量綜計表(依基金別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3a69962a-945a-4bdb-a1fc-62b83be4a2ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/3a69962a-945a-4bdb-a1fc-62b83be4a2ff"
+      ]
+    },
+    {
+      "id": "100900",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-營業基金損益綜計表(依收支科目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d06fb873-0d3f-4016-b190-2413196f1285",
+        "https://data.kcg.gov.tw/File/DirectDownload/d06fb873-0d3f-4016-b190-2413196f1285"
+      ]
+    },
+    {
+      "id": "100903",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(法定預算)-特別收入基金現金流量綜計表(依基金別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/51158f20-1299-49f4-bc63-2793445b87c2",
+        "https://data.kcg.gov.tw/File/DirectDownload/51158f20-1299-49f4-bc63-2793445b87c2"
+      ]
+    },
+    {
+      "id": "100905",
+      "name": "高雄市總預算附屬單位預算-特別收入基金基金來源、用途及餘絀綜計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/790af4bb-770c-4df8-ae1c-7abf690bee21",
+        "https://data.kcg.gov.tw/File/DirectDownload/790af4bb-770c-4df8-ae1c-7abf690bee21",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e6563b86-d9bc-41dd-a2a8-aeb658ab17db",
+        "https://data.kcg.gov.tw/File/DirectDownload/e6563b86-d9bc-41dd-a2a8-aeb658ab17db",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2be1a5b0-cb80-418b-ae3d-f6fa2b7a4f45",
+        "https://data.kcg.gov.tw/File/DirectDownload/2be1a5b0-cb80-418b-ae3d-f6fa2b7a4f45"
+      ]
+    },
+    {
+      "id": "101849",
+      "name": "高雄市營造工程物價指數(按工程類別分類指數)-年指數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c0806bec-4aa0-4f01-9b7f-475b8c649602",
+        "https://data.kcg.gov.tw/File/DirectDownload/c0806bec-4aa0-4f01-9b7f-475b8c649602"
+      ]
+    },
+    {
+      "id": "101850",
+      "name": "高雄市營造工程物價指數(基本分類指數)-月指數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/749dbc28-c2a8-45d1-9fc3-ad47449fcc3a",
+        "https://data.kcg.gov.tw/File/DirectDownload/749dbc28-c2a8-45d1-9fc3-ad47449fcc3a"
+      ]
+    },
+    {
+      "id": "101852",
+      "name": "高雄市消費者物價指數(基本分類指數)-月指數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/625f0b25-528f-40d3-a8d4-f376743fdce3",
+        "https://data.kcg.gov.tw/File/DirectDownload/625f0b25-528f-40d3-a8d4-f376743fdce3"
+      ]
+    },
+    {
+      "id": "101935",
+      "name": "高雄市年底建築師開業登記現有人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/06144436-242a-4691-89ac-f156f455dd50",
+        "https://data.kcg.gov.tw/File/DirectDownload/06144436-242a-4691-89ac-f156f455dd50"
+      ]
+    },
+    {
+      "id": "101931",
+      "name": "高雄市妨害交通車輛處理人次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/11f3fc40-9236-4389-8bb4-2cfe7ae8e421",
+        "https://data.kcg.gov.tw/File/DirectDownload/11f3fc40-9236-4389-8bb4-2cfe7ae8e421"
+      ]
+    },
+    {
+      "id": "104568",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-債務基金現金流量表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/13353531-2573-4885-be90-8e6d091f6ed4",
+        "https://data.kcg.gov.tw/File/DirectDownload/13353531-2573-4885-be90-8e6d091f6ed4"
+      ]
+    },
+    {
+      "id": "104569",
+      "name": "高雄市總預算附屬單位預算-債務基金基金來源、用途及餘絀表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03f2dd29-4df3-48a5-b784-1c7dcf21cfbb",
+        "https://data.kcg.gov.tw/File/DirectDownload/03f2dd29-4df3-48a5-b784-1c7dcf21cfbb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a63ac4e-2ce9-4aee-b936-63e214861894",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a63ac4e-2ce9-4aee-b936-63e214861894",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/88a60889-ea50-43d6-956d-9985f482da8a",
+        "https://data.kcg.gov.tw/File/DirectDownload/88a60889-ea50-43d6-956d-9985f482da8a"
+      ]
+    },
+    {
+      "id": "104280",
+      "name": "高雄市托嬰中心辦理兒童團體保險補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0a345ae-0a2e-4ff3-b13b-069220c22857",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0a345ae-0a2e-4ff3-b13b-069220c22857"
+      ]
+    },
+    {
+      "id": "104282",
+      "name": "高雄市身心障礙照顧者津貼請領人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7c5d746f-a319-4836-a7b9-4e281031a899",
+        "https://data.kcg.gov.tw/File/DirectDownload/7c5d746f-a319-4836-a7b9-4e281031a899"
+      ]
+    },
+    {
+      "id": "104286",
+      "name": "高雄市身心障礙者福利服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ee7dd557-375c-4c38-9c7b-cf3ee0fe899d",
+        "https://data.kcg.gov.tw/File/DirectDownload/ee7dd557-375c-4c38-9c7b-cf3ee0fe899d"
+      ]
+    },
+    {
+      "id": "104292",
+      "name": "高雄市申請辦理全民健康保險保費自付額核退者人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ea113f8-5364-4af7-b8ed-8c69078e7a0c",
+        "https://data.kcg.gov.tw/File/DirectDownload/7ea113f8-5364-4af7-b8ed-8c69078e7a0c"
+      ]
+    },
+    {
+      "id": "104295",
+      "name": "高雄市年底外僑居留人口數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03941f34-5891-4262-9083-404c168b5f62",
+        "https://data.kcg.gov.tw/File/DirectDownload/03941f34-5891-4262-9083-404c168b5f62"
+      ]
+    },
+    {
+      "id": "104298",
+      "name": "高雄市成年刑案嫌疑犯人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c5d8120e-53a6-4e8b-8c3c-298ca8fb1b3e",
+        "https://data.kcg.gov.tw/File/DirectDownload/c5d8120e-53a6-4e8b-8c3c-298ca8fb1b3e"
+      ]
+    },
+    {
+      "id": "104302",
+      "name": "高雄市全般刑案被害人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/75a3113a-eb10-4e28-96d9-a0b20f7c5e36",
+        "https://data.kcg.gov.tw/File/DirectDownload/75a3113a-eb10-4e28-96d9-a0b20f7c5e36"
+      ]
+    },
+    {
+      "id": "104304",
+      "name": "高雄市搶奪案被害人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/139d7d16-7752-45f6-a1e4-42be2bb0af97",
+        "https://data.kcg.gov.tw/File/DirectDownload/139d7d16-7752-45f6-a1e4-42be2bb0af97"
+      ]
+    },
+    {
+      "id": "104312",
+      "name": "高雄市年底易銷贓場所負責人",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/55835724-e422-4309-9688-f0b60b4921b5",
+        "https://data.kcg.gov.tw/File/DirectDownload/55835724-e422-4309-9688-f0b60b4921b5"
+      ]
+    },
+    {
+      "id": "104313",
+      "name": "高雄市查獲兒少性剝削被害人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ccacff8e-5e4d-4dc6-9460-894dc3f4b21e",
+        "https://data.kcg.gov.tw/File/DirectDownload/ccacff8e-5e4d-4dc6-9460-894dc3f4b21e"
+      ]
+    },
+    {
+      "id": "104314",
+      "name": "高雄市查獲酒駕嫌疑犯人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aacf4d42-50bf-4252-b04b-25b7b058c931",
+        "https://data.kcg.gov.tw/File/DirectDownload/aacf4d42-50bf-4252-b04b-25b7b058c931"
+      ]
+    },
+    {
+      "id": "104315",
+      "name": "高雄市失蹤人口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bd6be4c1-e6dc-45a0-8022-e710c1f1804b",
+        "https://data.kcg.gov.tw/File/DirectDownload/bd6be4c1-e6dc-45a0-8022-e710c1f1804b"
+      ]
+    },
+    {
+      "id": "104316",
+      "name": "高雄市文化局辦理公聽會參加人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/42f0fba1-31cb-45d8-b664-6a5659842c91",
+        "https://data.kcg.gov.tw/File/DirectDownload/42f0fba1-31cb-45d8-b664-6a5659842c91"
+      ]
+    },
+    {
+      "id": "104319",
+      "name": "高雄市年底老人福利促進小組委員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2b3cf8d6-ddab-4421-bc61-dfa94f18b04f",
+        "https://data.kcg.gov.tw/File/DirectDownload/2b3cf8d6-ddab-4421-bc61-dfa94f18b04f"
+      ]
+    },
+    {
+      "id": "104322",
+      "name": "高雄市原住民部落大學教育參與人次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9560ca26-02d8-4511-bbd2-fa3f0409d9a3",
+        "https://data.kcg.gov.tw/File/directDownload/9560ca26-02d8-4511-bbd2-fa3f0409d9a3"
+      ]
+    },
+    {
+      "id": "104344",
+      "name": "高雄市年底安置及教養機構收容兒少人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bb0657f7-9bb9-43ae-8282-1e1d208265b5",
+        "https://data.kcg.gov.tw/File/DirectDownload/bb0657f7-9bb9-43ae-8282-1e1d208265b5"
+      ]
+    },
+    {
+      "id": "104347",
+      "name": "高雄市(民間捐助)財團法人社會福利慈善事業基金會",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/42f497b6-749f-4bba-bd95-c737c37449ce",
+        "https://data.kcg.gov.tw/File/DirectDownload/42f497b6-749f-4bba-bd95-c737c37449ce"
+      ]
+    },
+    {
+      "id": "104353",
+      "name": "高雄市急難救助辦法申請人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/686472fa-c1c7-4df0-bdc1-da7cfa169c9b",
+        "https://data.kcg.gov.tw/File/DirectDownload/686472fa-c1c7-4df0-bdc1-da7cfa169c9b"
+      ]
+    },
+    {
+      "id": "104354",
+      "name": "高雄市災害救助金救助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c7f1b908-5d84-420f-a97e-cf0054ebfddc",
+        "https://data.kcg.gov.tw/File/DirectDownload/c7f1b908-5d84-420f-a97e-cf0054ebfddc"
+      ]
+    },
+    {
+      "id": "104357",
+      "name": "高雄市經濟弱勢市民醫療補助辦法補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dc867ed1-562b-460b-a667-c864638ff159",
+        "https://data.kcg.gov.tw/File/DirectDownload/dc867ed1-562b-460b-a667-c864638ff159"
+      ]
+    },
+    {
+      "id": "104359",
+      "name": "高雄市低收入戶孕產婦及嬰幼兒營養補助辦法補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c6bf358f-72f7-4561-a35f-376aaa7906da",
+        "https://data.kcg.gov.tw/File/directDownload/c6bf358f-72f7-4561-a35f-376aaa7906da"
+      ]
+    },
+    {
+      "id": "104327",
+      "name": "高雄市受理性騷擾案申訴成立案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bc2593a8-c145-4c2a-acb0-5fe970f98bd2",
+        "https://data.kcg.gov.tw/File/DirectDownload/bc2593a8-c145-4c2a-acb0-5fe970f98bd2"
+      ]
+    },
+    {
+      "id": "104330",
+      "name": "高雄市申請家庭暴力事件未成年子女會面、交往及交付(108年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/25e00dd1-156e-45c1-9d35-78665d13ef3a",
+        "https://data.kcg.gov.tw/File/DirectDownload/25e00dd1-156e-45c1-9d35-78665d13ef3a"
+      ]
+    },
+    {
+      "id": "104334",
+      "name": "高雄市年底獨居老人(列冊需關懷)人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a941edb6-6048-4a72-88b2-c9724f3c1602",
+        "https://data.kcg.gov.tw/File/DirectDownload/a941edb6-6048-4a72-88b2-c9724f3c1602"
+      ]
+    },
+    {
+      "id": "104336",
+      "name": "高雄市年底托育人員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/126eb892-11d4-4fad-a48a-d357f85af87c",
+        "https://data.kcg.gov.tw/File/DirectDownload/126eb892-11d4-4fad-a48a-d357f85af87c"
+      ]
+    },
+    {
+      "id": "104337",
+      "name": "高雄市年底婦女福利服務機構數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4b663065-2e95-45e2-be4b-8677b807f13b",
+        "https://data.kcg.gov.tw/File/DirectDownload/4b663065-2e95-45e2-be4b-8677b807f13b"
+      ]
+    },
+    {
+      "id": "104340",
+      "name": "高雄市老人修繕住屋補助申請人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/389974a9-f9f4-42ab-9ebd-611f23917ee8",
+        "https://data.kcg.gov.tw/File/DirectDownload/389974a9-f9f4-42ab-9ebd-611f23917ee8"
+      ]
+    },
+    {
+      "id": "101175",
+      "name": "高雄市總預算歲出政事別預算總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/70835000-f12b-4d78-abfe-12d19026ba1d",
+        "https://data.kcg.gov.tw/File/directDownload/70835000-f12b-4d78-abfe-12d19026ba1d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c783ba86-4cb2-41fe-9438-1bb8df65fc58",
+        "https://data.kcg.gov.tw/File/directDownload/c783ba86-4cb2-41fe-9438-1bb8df65fc58",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/97d83ac5-c287-47bb-b664-684264aa3c0a",
+        "https://data.kcg.gov.tw/File/directDownload/97d83ac5-c287-47bb-b664-684264aa3c0a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3f1bea2d-dbd2-4701-810d-74f2545e1eee",
+        "https://data.kcg.gov.tw/File/directDownload/3f1bea2d-dbd2-4701-810d-74f2545e1eee",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6de8ac55-fb24-4a4c-aa43-a149e0e96d93",
+        "https://data.kcg.gov.tw/File/directDownload/6de8ac55-fb24-4a4c-aa43-a149e0e96d93",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f2482c46-605b-4618-9bb4-a9d0a23679c3",
+        "https://data.kcg.gov.tw/File/directDownload/f2482c46-605b-4618-9bb4-a9d0a23679c3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1bc8d234-4f59-4942-b957-f64bf9bc7f71",
+        "https://data.kcg.gov.tw/File/directDownload/1bc8d234-4f59-4942-b957-f64bf9bc7f71"
+      ]
+    },
+    {
+      "id": "101182",
+      "name": "高雄市總預算收支簡明比較分析表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58e4b1fa-37a4-45e2-be92-0a8942ad876f",
+        "https://data.kcg.gov.tw/File/directDownload/58e4b1fa-37a4-45e2-be92-0a8942ad876f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8145cf71-c5c8-4e13-9799-505ad77b4b42",
+        "https://data.kcg.gov.tw/File/directDownload/8145cf71-c5c8-4e13-9799-505ad77b4b42",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4ef27a10-4a2c-423a-9676-6d3a7a62def0",
+        "https://data.kcg.gov.tw/File/directDownload/4ef27a10-4a2c-423a-9676-6d3a7a62def0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7a831aa-88fd-4e85-b8fa-7d3e703908a8",
+        "https://data.kcg.gov.tw/File/directDownload/f7a831aa-88fd-4e85-b8fa-7d3e703908a8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/250c2a82-3f4f-475a-a588-b225dbf4ba37",
+        "https://data.kcg.gov.tw/File/directDownload/250c2a82-3f4f-475a-a588-b225dbf4ba37",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3dc1caa0-0179-46a3-9b8c-e15739a6ad15",
+        "https://data.kcg.gov.tw/File/directDownload/3dc1caa0-0179-46a3-9b8c-e15739a6ad15",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0c9e12ea-cd49-47c8-9974-e5708167910d",
+        "https://data.kcg.gov.tw/File/directDownload/0c9e12ea-cd49-47c8-9974-e5708167910d"
+      ]
+    },
+    {
+      "id": "127054",
+      "name": "高雄市AIDS發病者人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/35b5e9ea-1298-4f02-87d7-3d4c1a7c8846",
+        "https://data.kcg.gov.tw/File/directDownload/35b5e9ea-1298-4f02-87d7-3d4c1a7c8846"
+      ]
+    },
+    {
+      "id": "127055",
+      "name": "高雄市HIV感染人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d4a43073-fe4a-4bd0-a4fb-2e12c2b62a90",
+        "https://data.kcg.gov.tw/File/DirectDownload/d4a43073-fe4a-4bd0-a4fb-2e12c2b62a90"
+      ]
+    },
+    {
+      "id": "127065",
+      "name": "高雄市十五歲以上人口識字率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2539bd44-8174-4372-b30e-e8cd99d55096",
+        "https://data.kcg.gov.tw/File/directDownload/2539bd44-8174-4372-b30e-e8cd99d55096"
+      ]
+    },
+    {
+      "id": "127067",
+      "name": "高雄市勞動力人口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5473b609-fd0b-4881-a890-627a71b13a41",
+        "https://data.kcg.gov.tw/File/DirectDownload/5473b609-fd0b-4881-a890-627a71b13a41"
+      ]
+    },
+    {
+      "id": "127070",
+      "name": "高雄市定額進用身心障礙者實際進用人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/82e9ab4b-f7f1-4062-9df9-f25b67c8e7a9",
+        "https://data.kcg.gov.tw/File/DirectDownload/82e9ab4b-f7f1-4062-9df9-f25b67c8e7a9"
+      ]
+    },
+    {
+      "id": "127015",
+      "name": "高雄市總決算歲出政事別決算總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/93b4dd13-4b34-4986-a6b2-01ec8e2846b5",
+        "https://data.kcg.gov.tw/File/DirectDownload/93b4dd13-4b34-4986-a6b2-01ec8e2846b5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/21b2ef58-db9c-41fb-b9c1-2d37fdf65b84",
+        "https://data.kcg.gov.tw/File/DirectDownload/21b2ef58-db9c-41fb-b9c1-2d37fdf65b84",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bb02c3c0-a5ab-4b3e-8c09-71c13a46d107",
+        "https://data.kcg.gov.tw/File/DirectDownload/bb02c3c0-a5ab-4b3e-8c09-71c13a46d107",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/77a0678d-4b06-44ca-bb24-a247cdca65f0",
+        "https://data.kcg.gov.tw/File/DirectDownload/77a0678d-4b06-44ca-bb24-a247cdca65f0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f61b1048-dca3-4397-8d8f-a9de94a475ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/f61b1048-dca3-4397-8d8f-a9de94a475ff",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/191dca91-b14a-49d7-bb68-bb9cdbcf14f2",
+        "https://data.kcg.gov.tw/File/DirectDownload/191dca91-b14a-49d7-bb68-bb9cdbcf14f2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc33e9e3-4a62-472d-a2b1-f450986226c4",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc33e9e3-4a62-472d-a2b1-f450986226c4"
+      ]
+    },
+    {
+      "id": "127041",
+      "name": "高雄市18歲以上人口的吸菸率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/48f84cd2-9ff2-453d-b62f-fc40a0da275b",
+        "https://data.kcg.gov.tw/File/DirectDownload/48f84cd2-9ff2-453d-b62f-fc40a0da275b"
+      ]
+    },
+    {
+      "id": "127046",
+      "name": "高雄市長期照護服務人員人數(108年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/730119e0-ab37-41e3-9180-50fff45d0d3f",
+        "https://data.kcg.gov.tw/File/DirectDownload/730119e0-ab37-41e3-9180-50fff45d0d3f"
+      ]
+    },
+    {
+      "id": "127052",
+      "name": "高雄市孕婦產前檢查之申報件數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cf0bd793-a8bd-47a1-9486-c1ec29acf295",
+        "https://data.kcg.gov.tw/File/DirectDownload/cf0bd793-a8bd-47a1-9486-c1ec29acf295"
+      ]
+    },
+    {
+      "id": "127022",
+      "name": "高雄市人口年增率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c02d49ba-c309-47b8-97c0-3443e0f049b6",
+        "https://data.kcg.gov.tw/File/directDownload/c02d49ba-c309-47b8-97c0-3443e0f049b6"
+      ]
+    },
+    {
+      "id": "127023",
+      "name": "高雄市出生死亡登記人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3aaab1d2-f076-4d56-8a16-a779d66fff03",
+        "https://data.kcg.gov.tw/File/DirectDownload/3aaab1d2-f076-4d56-8a16-a779d66fff03"
+      ]
+    },
+    {
+      "id": "127028",
+      "name": "高雄市結婚人數按原屬國籍",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/299190da-e4ba-48f2-800a-8db286c14122",
+        "https://data.kcg.gov.tw/File/DirectDownload/299190da-e4ba-48f2-800a-8db286c14122"
+      ]
+    },
+    {
+      "id": "127032",
+      "name": "高雄市初婚率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eaef52b6-c396-4ec4-b3a7-a7ebcf1f7068",
+        "https://data.kcg.gov.tw/File/DirectDownload/eaef52b6-c396-4ec4-b3a7-a7ebcf1f7068"
+      ]
+    },
+    {
+      "id": "127035",
+      "name": "高雄市孕產婦死亡人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a56b5c6-0b21-44fb-bb05-29bae88680b6",
+        "https://data.kcg.gov.tw/File/DirectDownload/6a56b5c6-0b21-44fb-bb05-29bae88680b6"
+      ]
+    },
+    {
+      "id": "127110",
+      "name": "高雄市原住民學生數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/246079c0-9446-435e-8b61-e7f35e343733",
+        "https://data.kcg.gov.tw/File/DirectDownload/246079c0-9446-435e-8b61-e7f35e343733"
+      ]
+    },
+    {
+      "id": "127111",
+      "name": "高雄市新住民子女學生數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c06f9da6-0b20-4bca-b62a-e2aa9c06a110",
+        "https://data.kcg.gov.tw/File/DirectDownload/c06f9da6-0b20-4bca-b62a-e2aa9c06a110"
+      ]
+    },
+    {
+      "id": "127112",
+      "name": "高雄市身心障礙學生數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/082598a0-64f4-4b37-b325-9b73760a9a57",
+        "https://data.kcg.gov.tw/File/DirectDownload/082598a0-64f4-4b37-b325-9b73760a9a57"
+      ]
+    },
+    {
+      "id": "127113",
+      "name": "高雄市中途輟學學生人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b89ed78b-c184-4df4-ac53-a73602009b11",
+        "https://data.kcg.gov.tw/File/DirectDownload/b89ed78b-c184-4df4-ac53-a73602009b11"
+      ]
+    },
+    {
+      "id": "127117",
+      "name": "高雄市參與樂齡學習中心活動人次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b0135200-2350-4a6c-b093-6edff1855faf",
+        "https://data.kcg.gov.tw/File/DirectDownload/b0135200-2350-4a6c-b093-6edff1855faf"
+      ]
+    },
+    {
+      "id": "127118",
+      "name": "高雄市年底地政士開業人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/34f979e7-8743-4f73-8040-201e19815a14",
+        "https://data.kcg.gov.tw/File/DirectDownload/34f979e7-8743-4f73-8040-201e19815a14"
+      ]
+    },
+    {
+      "id": "127123",
+      "name": "高雄市年底漁會會員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b82ec6bc-2584-4a74-902d-c5be3b1ccbe3",
+        "https://data.kcg.gov.tw/File/DirectDownload/b82ec6bc-2584-4a74-902d-c5be3b1ccbe3"
+      ]
+    },
+    {
+      "id": "127127",
+      "name": "高雄市促進產業發展基金補助新增進用勞工人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5ff1ca5-70e6-48eb-b48d-c1a65b176655",
+        "https://data.kcg.gov.tw/File/DirectDownload/e5ff1ca5-70e6-48eb-b48d-c1a65b176655"
+      ]
+    },
+    {
+      "id": "127152",
+      "name": "高雄市年底民間團體理事長人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4282ed7c-0f42-4ef9-8840-0ab071c39aa7",
+        "https://data.kcg.gov.tw/File/DirectDownload/4282ed7c-0f42-4ef9-8840-0ab071c39aa7"
+      ]
+    },
+    {
+      "id": "127104",
+      "name": "高雄市年底基層農會選任人員數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/09d51daa-024c-4099-a744-db914b2e4829",
+        "https://data.kcg.gov.tw/File/DirectDownload/09d51daa-024c-4099-a744-db914b2e4829"
+      ]
+    },
+    {
+      "id": "127106",
+      "name": "高雄市年底殯葬服務業負責人",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63deba25-2c15-4e6e-bbf3-aa8448f92d8d",
+        "https://data.kcg.gov.tw/File/directDownload/63deba25-2c15-4e6e-bbf3-aa8448f92d8d"
+      ]
+    },
+    {
+      "id": "127076",
+      "name": "高雄市勞資爭議人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0b32fbf4-b47a-485a-866e-bca5608d2fb6",
+        "https://data.kcg.gov.tw/File/DirectDownload/0b32fbf4-b47a-485a-866e-bca5608d2fb6"
+      ]
+    },
+    {
+      "id": "127077",
+      "name": "高雄市工會會員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4f5002da-f45f-4e35-abf7-793159cd3fca",
+        "https://data.kcg.gov.tw/File/DirectDownload/4f5002da-f45f-4e35-abf7-793159cd3fca"
+      ]
+    },
+    {
+      "id": "127082",
+      "name": "高雄市農民健康保險被保險人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a489805-67f8-456b-af6e-dabd7f6af967",
+        "https://data.kcg.gov.tw/File/DirectDownload/6a489805-67f8-456b-af6e-dabd7f6af967"
+      ]
+    },
+    {
+      "id": "127089",
+      "name": "高雄市申請醫療與喪葬補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9d08457f-078c-4a26-8ad1-bfcc6e300274",
+        "https://data.kcg.gov.tw/File/directDownload/9d08457f-078c-4a26-8ad1-bfcc6e300274"
+      ]
+    },
+    {
+      "id": "127090",
+      "name": "高雄市市議員及里長福利互助",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e3fd35fb-0deb-496a-a314-24420bcf3b89",
+        "https://data.kcg.gov.tw/File/directDownload/e3fd35fb-0deb-496a-a314-24420bcf3b89"
+      ]
+    },
+    {
+      "id": "127134",
+      "name": "高雄市訴願審議申請人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8e0ad36d-06a0-4442-aeb5-3e990246902d",
+        "https://data.kcg.gov.tw/File/directDownload/8e0ad36d-06a0-4442-aeb5-3e990246902d"
+      ]
+    },
+    {
+      "id": "127138",
+      "name": "高雄市年底兒童及少年福利與權益保障促進委員會委員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/46980ba5-43aa-4a3c-b846-377b57ec3372",
+        "https://data.kcg.gov.tw/File/DirectDownload/46980ba5-43aa-4a3c-b846-377b57ec3372"
+      ]
+    },
+    {
+      "id": "127141",
+      "name": "高雄市單親家園入住戶數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7c77efcc-2967-4d3e-b818-86f17b55b1f1",
+        "https://data.kcg.gov.tw/File/DirectDownload/7c77efcc-2967-4d3e-b818-86f17b55b1f1"
+      ]
+    },
+    {
+      "id": "128324",
+      "name": "高雄市勞動力參與率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2b588d0c-7c44-4c52-97fd-249180816127",
+        "https://data.kcg.gov.tw/File/DirectDownload/2b588d0c-7c44-4c52-97fd-249180816127"
+      ]
+    },
+    {
+      "id": "155814",
+      "name": "高雄市藝文展演活動",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5843728f-51e5-4494-a73c-69f0e5208ac6",
+        "https://data.kcg.gov.tw/File/DirectDownload/5843728f-51e5-4494-a73c-69f0e5208ac6"
+      ]
+    },
+    {
+      "id": "155817",
+      "name": "高雄市國民中學校數及班級數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/06aef081-f70b-46d0-a68c-c4aa5816ff32",
+        "https://data.kcg.gov.tw/File/DirectDownload/06aef081-f70b-46d0-a68c-c4aa5816ff32"
+      ]
+    },
+    {
+      "id": "155837",
+      "name": "高雄市人口年齡指標",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f975f6a-dde3-4e85-89d1-2e2b035f1308",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f975f6a-dde3-4e85-89d1-2e2b035f1308"
+      ]
+    },
+    {
+      "id": "155839",
+      "name": "高雄市戶籍動態-遷出人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7f994294-3ddb-4b1d-a91e-8f20aba3c5ab",
+        "https://data.kcg.gov.tw/File/directDownload/7f994294-3ddb-4b1d-a91e-8f20aba3c5ab"
+      ]
+    },
+    {
+      "id": "155842",
+      "name": "高雄市氣象",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/68c7209b-234c-4753-b3a3-c794767823df",
+        "https://data.kcg.gov.tw/File/DirectDownload/68c7209b-234c-4753-b3a3-c794767823df"
+      ]
+    },
+    {
+      "id": "155846",
+      "name": "高雄市年底公民投票審議會委員人數(106年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0656f701-9ed5-43a4-be64-6d7d82f35049",
+        "https://data.kcg.gov.tw/File/DirectDownload/0656f701-9ed5-43a4-be64-6d7d82f35049"
+      ]
+    },
+    {
+      "id": "155820",
+      "name": "高雄國際機場旅客人次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4077477a-ddb2-4466-bc91-55d14cd8c4a8",
+        "https://data.kcg.gov.tw/File/DirectDownload/4077477a-ddb2-4466-bc91-55d14cd8c4a8"
+      ]
+    },
+    {
+      "id": "155821",
+      "name": "高雄國際機場起降架次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/46cafa79-fb4b-44d1-93fc-e7f315c3c91d",
+        "https://data.kcg.gov.tw/File/DirectDownload/46cafa79-fb4b-44d1-93fc-e7f315c3c91d"
+      ]
+    },
+    {
+      "id": "155825",
+      "name": "高雄市供應瓦斯戶數及供氣量",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4db4b620-6871-4f35-8f7b-b37432af727d",
+        "https://data.kcg.gov.tw/File/DirectDownload/4db4b620-6871-4f35-8f7b-b37432af727d"
+      ]
+    },
+    {
+      "id": "155832",
+      "name": "高雄市稻米收穫面積及生產量",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4ece9609-443a-4ab1-a787-848c70d57274",
+        "https://data.kcg.gov.tw/File/DirectDownload/4ece9609-443a-4ab1-a787-848c70d57274"
+      ]
+    },
+    {
+      "id": "155833",
+      "name": "高雄市現住原住民婚姻狀況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5983150d-daab-47a6-87cf-6bad1e7792fb",
+        "https://data.kcg.gov.tw/File/directDownload/5983150d-daab-47a6-87cf-6bad1e7792fb"
+      ]
+    },
+    {
+      "id": "155835",
+      "name": "高雄市原住民戶數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f75fb833-7608-4697-b739-29e5a8a71bf1",
+        "https://data.kcg.gov.tw/File/directDownload/f75fb833-7608-4697-b739-29e5a8a71bf1"
+      ]
+    },
+    {
+      "id": "138201",
+      "name": "高雄市市府員工請特別假情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/01fc30f8-688b-4d94-ae3a-e667d65bfc8f",
+        "https://data.kcg.gov.tw/File/directDownload/01fc30f8-688b-4d94-ae3a-e667d65bfc8f"
+      ]
+    },
+    {
+      "id": "138202",
+      "name": "高雄市公教員工急難貸款申請人數(109年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7a5b34b7-d85e-4f76-a04f-6293c76e9025",
+        "https://data.kcg.gov.tw/File/DirectDownload/7a5b34b7-d85e-4f76-a04f-6293c76e9025"
+      ]
+    },
+    {
+      "id": "138218",
+      "name": "高雄市年底志願服務金、銀、銅質徽章獎獲獎人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ab92d9bd-993f-4ebf-a775-4c7f5a5bb7b8",
+        "https://data.kcg.gov.tw/File/DirectDownload/ab92d9bd-993f-4ebf-a775-4c7f5a5bb7b8"
+      ]
+    },
+    {
+      "id": "138225",
+      "name": "高雄市市長選舉",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/da7c3316-0c03-4760-b0a7-0120c25ff763",
+        "https://data.kcg.gov.tw/File/DirectDownload/da7c3316-0c03-4760-b0a7-0120c25ff763"
+      ]
+    },
+    {
+      "id": "138229",
+      "name": "高雄市癌症死亡年齡",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/de55e4c1-85f8-4e83-b4d2-1c4e9c4fdd03",
+        "https://data.kcg.gov.tw/File/directDownload/de55e4c1-85f8-4e83-b4d2-1c4e9c4fdd03"
+      ]
+    },
+    {
+      "id": "138232",
+      "name": "高雄市零歲平均餘命",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eb9ac91d-b76b-412a-9ea0-57c5624d8848",
+        "https://data.kcg.gov.tw/File/DirectDownload/eb9ac91d-b76b-412a-9ea0-57c5624d8848"
+      ]
+    },
+    {
+      "id": "138186",
+      "name": "高雄市家庭收支每戶平均金額(資料期間99年~112年)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aef94e42-f42d-4ed2-8dbe-e989c0feac68",
+        "https://data.kcg.gov.tw/File/DirectDownload/aef94e42-f42d-4ed2-8dbe-e989c0feac68"
+      ]
+    },
+    {
+      "id": "138188",
+      "name": "高雄市家庭收支總值(資料期間99年~112年)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5515e5ca-675e-409d-9df4-2d1c10bb7e03",
+        "https://data.kcg.gov.tw/File/DirectDownload/5515e5ca-675e-409d-9df4-2d1c10bb7e03"
+      ]
+    },
+    {
+      "id": "138193",
+      "name": "高雄市年底污水廠員工人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/42ef9102-c516-4f09-a256-cd2f5bb37f39",
+        "https://data.kcg.gov.tw/File/directDownload/42ef9102-c516-4f09-a256-cd2f5bb37f39"
+      ]
+    },
+    {
+      "id": "138195",
+      "name": "高雄市年底商店街區審議小組委員人數(108年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6d9a27e1-ccc1-4a3a-9667-df8d89f297e1",
+        "https://data.kcg.gov.tw/File/DirectDownload/6d9a27e1-ccc1-4a3a-9667-df8d89f297e1"
+      ]
+    },
+    {
+      "id": "138196",
+      "name": "高雄市年底公有市場攤商負責人",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f5753339-9e0d-4b8f-a2fd-e11da0e98964",
+        "https://data.kcg.gov.tw/File/DirectDownload/f5753339-9e0d-4b8f-a2fd-e11da0e98964"
+      ]
+    },
+    {
+      "id": "138197",
+      "name": "高雄市年底公教人員數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58c8be5d-e508-4be1-a21a-051e9aa04282",
+        "https://data.kcg.gov.tw/File/directDownload/58c8be5d-e508-4be1-a21a-051e9aa04282"
+      ]
+    },
+    {
+      "id": "147174",
+      "name": "高雄市移工概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8631ec27-c8ef-4988-ad79-0a55bbd2e76e",
+        "https://data.kcg.gov.tw/File/DirectDownload/8631ec27-c8ef-4988-ad79-0a55bbd2e76e"
+      ]
+    },
+    {
+      "id": "147175",
+      "name": "高雄市勞資爭議案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fb10b880-9d03-4ea4-b2db-37b31a8a86eb",
+        "https://data.kcg.gov.tw/File/DirectDownload/fb10b880-9d03-4ea4-b2db-37b31a8a86eb"
+      ]
+    },
+    {
+      "id": "147179",
+      "name": "高雄市醫療院所數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d5cbb912-89f8-4219-aa33-369f7f76e37c",
+        "https://data.kcg.gov.tw/File/DirectDownload/d5cbb912-89f8-4219-aa33-369f7f76e37c"
+      ]
+    },
+    {
+      "id": "159640",
+      "name": "高雄都會區大眾捷運系統各站旅運量出站",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/70cde7b5-5b1d-48da-a27a-b85a6295b710",
+        "https://data.kcg.gov.tw/File/DirectDownload/70cde7b5-5b1d-48da-a27a-b85a6295b710"
+      ]
+    },
+    {
+      "id": "159641",
+      "name": "高雄都會區大眾捷運系統各站旅運量入站",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1e595d78-2f73-4edd-9c17-7cce8c2d7ce9",
+        "https://data.kcg.gov.tw/File/DirectDownload/1e595d78-2f73-4edd-9c17-7cce8c2d7ce9"
+      ]
+    },
+    {
+      "id": "159646",
+      "name": "高雄市灌溉排水受益地面積",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/15eee61f-a960-41e0-9fee-dea951e8b8e6",
+        "https://data.kcg.gov.tw/File/DirectDownload/15eee61f-a960-41e0-9fee-dea951e8b8e6"
+      ]
+    },
+    {
+      "id": "159647",
+      "name": "高雄市醫院洗腎、接生、剖腹產服務量",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/41426dd5-d69e-42af-90e0-3305c4b6662e",
+        "https://data.kcg.gov.tw/File/DirectDownload/41426dd5-d69e-42af-90e0-3305c4b6662e"
+      ]
+    },
+    {
+      "id": "159648",
+      "name": "高雄市癌症死亡率及標準化死亡率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ddbee03-fbe9-4d3d-ab61-2fbf1a7be05f",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ddbee03-fbe9-4d3d-ab61-2fbf1a7be05f"
+      ]
+    },
+    {
+      "id": "159649",
+      "name": "高雄市營造業資本額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6b33af87-09c4-440a-8c7b-63a7c75afdd9",
+        "https://data.kcg.gov.tw/File/DirectDownload/6b33af87-09c4-440a-8c7b-63a7c75afdd9"
+      ]
+    },
+    {
+      "id": "159653",
+      "name": "高雄市管理維護公司管理服務人員數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/29fece28-a02c-43ee-8164-86b8c289da64",
+        "https://data.kcg.gov.tw/File/DirectDownload/29fece28-a02c-43ee-8164-86b8c289da64"
+      ]
+    },
+    {
+      "id": "159654",
+      "name": "高雄市漁業產量",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/33208161-6340-437d-94f6-76f9b39ee621",
+        "https://data.kcg.gov.tw/File/DirectDownload/33208161-6340-437d-94f6-76f9b39ee621"
+      ]
+    },
+    {
+      "id": "159660",
+      "name": "高雄市補習學學生人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/23aee43f-b53c-498d-8560-db94b206d419",
+        "https://data.kcg.gov.tw/File/DirectDownload/23aee43f-b53c-498d-8560-db94b206d419"
+      ]
+    },
+    {
+      "id": "159661",
+      "name": "高雄市補習學校班級數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/32a0f3d2-f23f-4333-a776-135e518bd861",
+        "https://data.kcg.gov.tw/File/DirectDownload/32a0f3d2-f23f-4333-a776-135e518bd861"
+      ]
+    },
+    {
+      "id": "159669",
+      "name": "高雄市政府地政人員數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c387aee2-7cb4-40e3-8fa7-997dd3738868",
+        "https://data.kcg.gov.tw/File/DirectDownload/c387aee2-7cb4-40e3-8fa7-997dd3738868"
+      ]
+    },
+    {
+      "id": "159678",
+      "name": "高雄市市屬停車位概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0be632f4-333e-433d-8c0c-06889b329a6f",
+        "https://data.kcg.gov.tw/File/DirectDownload/0be632f4-333e-433d-8c0c-06889b329a6f"
+      ]
+    },
+    {
+      "id": "159679",
+      "name": "高雄市市立醫療院所門診及急診人次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dcede112-b512-4960-92a3-e64be17b8d34",
+        "https://data.kcg.gov.tw/File/DirectDownload/dcede112-b512-4960-92a3-e64be17b8d34"
+      ]
+    },
+    {
+      "id": "159682",
+      "name": "高雄市外國人建物之權利登記筆數及面積",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/528d8136-90e1-434b-9b17-dd1eb0093c69",
+        "https://data.kcg.gov.tw/File/DirectDownload/528d8136-90e1-434b-9b17-dd1eb0093c69"
+      ]
+    },
+    {
+      "id": "159777",
+      "name": "高雄市民有市場零售概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/319cc778-aba3-4e53-8069-c4ec2d2a900e",
+        "https://data.kcg.gov.tw/File/DirectDownload/319cc778-aba3-4e53-8069-c4ec2d2a900e"
+      ]
+    },
+    {
+      "id": "159778",
+      "name": "高雄市果菜批發市場概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7beeebc0-9960-484d-b575-1861fab4ee55",
+        "https://data.kcg.gov.tw/File/DirectDownload/7beeebc0-9960-484d-b575-1861fab4ee55"
+      ]
+    },
+    {
+      "id": "104283",
+      "name": "高雄市身心障礙者日間照顧及住宿式照顧費用補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/668e621f-007f-4174-a4c2-dc4c435c7713",
+        "https://data.kcg.gov.tw/File/DirectDownload/668e621f-007f-4174-a4c2-dc4c435c7713"
+      ]
+    },
+    {
+      "id": "104284",
+      "name": "高雄市聽語障者服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ccfaab55-fe0c-4aa2-85ff-d89cfc5508ef",
+        "https://data.kcg.gov.tw/File/DirectDownload/ccfaab55-fe0c-4aa2-85ff-d89cfc5508ef"
+      ]
+    },
+    {
+      "id": "104288",
+      "name": "高雄市年底身心障礙者權益保障推動小組委員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1209d797-c0e5-4cce-a3ef-a637275710da",
+        "https://data.kcg.gov.tw/File/DirectDownload/1209d797-c0e5-4cce-a3ef-a637275710da"
+      ]
+    },
+    {
+      "id": "104289",
+      "name": "高雄市年底無障礙之家家民人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3056a3b9-5cdc-4850-91a5-993eb1e449a5",
+        "https://data.kcg.gov.tw/File/DirectDownload/3056a3b9-5cdc-4850-91a5-993eb1e449a5"
+      ]
+    },
+    {
+      "id": "104296",
+      "name": "高雄市年底旅行業從業人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5858ae6d-fb20-4276-82ec-2c0cf06d1a0d",
+        "https://data.kcg.gov.tw/File/DirectDownload/5858ae6d-fb20-4276-82ec-2c0cf06d1a0d"
+      ]
+    },
+    {
+      "id": "104297",
+      "name": "高雄市全般刑案嫌疑犯人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5c71c62d-0b4e-4701-9933-f1937cbf1a2d",
+        "https://data.kcg.gov.tw/File/DirectDownload/5c71c62d-0b4e-4701-9933-f1937cbf1a2d"
+      ]
+    },
+    {
+      "id": "104299",
+      "name": "高雄市兒童少年刑案嫌疑犯人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b1e6d5a2-9883-4685-a829-28682a6c4209",
+        "https://data.kcg.gov.tw/File/DirectDownload/b1e6d5a2-9883-4685-a829-28682a6c4209"
+      ]
+    },
+    {
+      "id": "104300",
+      "name": "高雄市青年刑案嫌疑犯人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ba8d90fb-1db0-460a-b509-883987cc6859",
+        "https://data.kcg.gov.tw/File/DirectDownload/ba8d90fb-1db0-460a-b509-883987cc6859"
+      ]
+    },
+    {
+      "id": "104346",
+      "name": "高雄市仁愛之家服務(108年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f5812c1-c42f-4a92-a952-a0bcd311e222",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f5812c1-c42f-4a92-a952-a0bcd311e222"
+      ]
+    },
+    {
+      "id": "104349",
+      "name": "高雄市協助經濟弱勢市民自立之以工代賑人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f081f7a9-ff55-4357-a419-c3395a0baec4",
+        "https://data.kcg.gov.tw/File/DirectDownload/f081f7a9-ff55-4357-a419-c3395a0baec4"
+      ]
+    },
+    {
+      "id": "104350",
+      "name": "高雄市社會救助金專戶管理會委員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/50152cf1-354c-4db3-afbf-594e2a3266f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/50152cf1-354c-4db3-afbf-594e2a3266f3"
+      ]
+    },
+    {
+      "id": "104351",
+      "name": "高雄市公益彩券盈餘基金管理會委員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aa759cab-73fe-4351-a16b-96426e6ec088",
+        "https://data.kcg.gov.tw/File/DirectDownload/aa759cab-73fe-4351-a16b-96426e6ec088"
+      ]
+    },
+    {
+      "id": "104352",
+      "name": "高雄市視覺障礙者人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/59a3754e-cf9a-475f-9823-66ff36f091d7",
+        "https://data.kcg.gov.tw/File/DirectDownload/59a3754e-cf9a-475f-9823-66ff36f091d7"
+      ]
+    },
+    {
+      "id": "104355",
+      "name": "高雄市中低收入老人生活津貼補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/70fac999-c60e-4cff-8cf1-eb8fa2a3bc07",
+        "https://data.kcg.gov.tw/File/DirectDownload/70fac999-c60e-4cff-8cf1-eb8fa2a3bc07"
+      ]
+    },
+    {
+      "id": "104358",
+      "name": "高雄市低收入戶子女生活扶助辦法扶助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ccc8bfc-6a83-4a76-a783-46ef95fc10b6",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ccc8bfc-6a83-4a76-a783-46ef95fc10b6"
+      ]
+    },
+    {
+      "id": "104306",
+      "name": "高雄市妨害風化被害人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/446c893f-590f-4c5d-904d-de3043b54b7f",
+        "https://data.kcg.gov.tw/File/DirectDownload/446c893f-590f-4c5d-904d-de3043b54b7f"
+      ]
+    },
+    {
+      "id": "104307",
+      "name": "高雄市妨害婚姻及家庭被害人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/032b8018-61e5-4a00-9023-82066a6c39c7",
+        "https://data.kcg.gov.tw/File/DirectDownload/032b8018-61e5-4a00-9023-82066a6c39c7"
+      ]
+    },
+    {
+      "id": "104308",
+      "name": "高雄市違反家庭暴力罪嫌疑犯人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1d6bf4cc-404e-44a7-9807-cfb9fe33692b",
+        "https://data.kcg.gov.tw/File/DirectDownload/1d6bf4cc-404e-44a7-9807-cfb9fe33692b"
+      ]
+    },
+    {
+      "id": "104318",
+      "name": "高雄市年底民間警力人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/44ddc17d-5c38-4fb0-9a7b-eec33adf4fe3",
+        "https://data.kcg.gov.tw/File/DirectDownload/44ddc17d-5c38-4fb0-9a7b-eec33adf4fe3"
+      ]
+    },
+    {
+      "id": "104320",
+      "name": "高雄市A1類道路交通事故性別統計(110年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cf07803b-a690-4c94-bb02-54535939c290",
+        "https://data.kcg.gov.tw/File/DirectDownload/cf07803b-a690-4c94-bb02-54535939c290"
+      ]
+    },
+    {
+      "id": "104321",
+      "name": "高雄市長期照護機構實際進住人數(108年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/00f84a0d-4034-4733-94a0-396df892f2e0",
+        "https://data.kcg.gov.tw/File/DirectDownload/00f84a0d-4034-4733-94a0-396df892f2e0"
+      ]
+    },
+    {
+      "id": "104276",
+      "name": "高雄市弱勢兒童及少年生活扶助辦法補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9667eb26-874f-4bd6-9180-996b7f40ed8e",
+        "https://data.kcg.gov.tw/File/DirectDownload/9667eb26-874f-4bd6-9180-996b7f40ed8e"
+      ]
+    },
+    {
+      "id": "104277",
+      "name": "高雄市弱勢單親家庭扶助辦法補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a7151016-b577-47e8-b90f-6447cabb2e36",
+        "https://data.kcg.gov.tw/File/DirectDownload/a7151016-b577-47e8-b90f-6447cabb2e36"
+      ]
+    },
+    {
+      "id": "104279",
+      "name": "高雄市弱勢兒童及少年醫療補助計畫補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/34539b4e-646a-4fdf-bd06-88e3f0c5f05e",
+        "https://data.kcg.gov.tw/File/DirectDownload/34539b4e-646a-4fdf-bd06-88e3f0c5f05e"
+      ]
+    },
+    {
+      "id": "104326",
+      "name": "高雄市受理兒童少年保護案件通報受害者人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0b99fd9b-9b52-4af0-bdb6-81ee6e87cbc1",
+        "https://data.kcg.gov.tw/File/DirectDownload/0b99fd9b-9b52-4af0-bdb6-81ee6e87cbc1"
+      ]
+    },
+    {
+      "id": "104328",
+      "name": "高雄市查獲或救援兒少性剝削人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/493da54d-3ff2-460c-8164-f424a8998c23",
+        "https://data.kcg.gov.tw/File/DirectDownload/493da54d-3ff2-460c-8164-f424a8998c23"
+      ]
+    },
+    {
+      "id": "104329",
+      "name": "高雄市緊急短期安置兒少性剝削人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cedb14f1-0ee8-4a24-ac9f-21bb63e21b6e",
+        "https://data.kcg.gov.tw/File/DirectDownload/cedb14f1-0ee8-4a24-ac9f-21bb63e21b6e"
+      ]
+    },
+    {
+      "id": "104332",
+      "name": "高雄市年底長期照護、養護及安養機構收容人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/233a68d5-0554-40af-ad1d-738040216b64",
+        "https://data.kcg.gov.tw/File/DirectDownload/233a68d5-0554-40af-ad1d-738040216b64"
+      ]
+    },
+    {
+      "id": "104339",
+      "name": "高雄市特殊境遇家庭",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/afaae5b8-8fff-403e-934d-ce472f48cb3a",
+        "https://data.kcg.gov.tw/File/DirectDownload/afaae5b8-8fff-403e-934d-ce472f48cb3a"
+      ]
+    },
+    {
+      "id": "100885",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-營業基金損益綜計表(依機關別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ebdf787e-07b9-4d01-9fb8-ae6764acfce7",
+        "https://data.kcg.gov.tw/File/DirectDownload/ebdf787e-07b9-4d01-9fb8-ae6764acfce7"
+      ]
+    },
+    {
+      "id": "101174",
+      "name": "高雄市總預算歲出機關別預算比較總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/131a5963-e956-4c47-9a5a-1f41cac9ec61",
+        "https://data.kcg.gov.tw/File/directDownload/131a5963-e956-4c47-9a5a-1f41cac9ec61",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/254140d2-c2cd-4120-a95f-219b5917b105",
+        "https://data.kcg.gov.tw/File/directDownload/254140d2-c2cd-4120-a95f-219b5917b105",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a9f972af-85cb-4fe2-a9b4-2f1ebb737361",
+        "https://data.kcg.gov.tw/File/directDownload/a9f972af-85cb-4fe2-a9b4-2f1ebb737361",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7fc435e3-680f-4473-bbbd-61d5eccd5f8f",
+        "https://data.kcg.gov.tw/File/directDownload/7fc435e3-680f-4473-bbbd-61d5eccd5f8f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d987a40b-27ef-4d86-9d6a-7eb344e1940a",
+        "https://data.kcg.gov.tw/File/directDownload/d987a40b-27ef-4d86-9d6a-7eb344e1940a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/194c1a7f-45cd-435b-ad36-8dca141e2a8c",
+        "https://data.kcg.gov.tw/File/directDownload/194c1a7f-45cd-435b-ad36-8dca141e2a8c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d1612052-ddb2-422d-a75e-d30ea0bc93aa",
+        "https://data.kcg.gov.tw/File/directDownload/d1612052-ddb2-422d-a75e-d30ea0bc93aa"
+      ]
+    },
+    {
+      "id": "101177",
+      "name": "高雄市總預算歲入歲出簡明比較分析表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bd07ec4c-ade1-4100-b894-01b1294e778e",
+        "https://data.kcg.gov.tw/File/directDownload/bd07ec4c-ade1-4100-b894-01b1294e778e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/44721e3a-bb2a-4079-99bb-51e0920048d6",
+        "https://data.kcg.gov.tw/File/directDownload/44721e3a-bb2a-4079-99bb-51e0920048d6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/98d44ffc-e8db-437e-8faa-6f372283f033",
+        "https://data.kcg.gov.tw/File/directDownload/98d44ffc-e8db-437e-8faa-6f372283f033",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/be425216-0522-4fba-8130-a7e91eb02672",
+        "https://data.kcg.gov.tw/File/directDownload/be425216-0522-4fba-8130-a7e91eb02672",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/45f82ed1-c992-4c1c-845b-dc9360b518a8",
+        "https://data.kcg.gov.tw/File/directDownload/45f82ed1-c992-4c1c-845b-dc9360b518a8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03fa92d9-ea32-45ca-bd8d-fa004efd0ad9",
+        "https://data.kcg.gov.tw/File/directDownload/03fa92d9-ea32-45ca-bd8d-fa004efd0ad9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/94f2e7e8-6407-4933-8e75-ff6e6bfd6778",
+        "https://data.kcg.gov.tw/File/directDownload/94f2e7e8-6407-4933-8e75-ff6e6bfd6778"
+      ]
+    },
+    {
+      "id": "101179",
+      "name": "高雄市總預算歲入來源別預算總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ec628bde-e31b-4997-899f-00cf84d34a49",
+        "https://data.kcg.gov.tw/File/directDownload/ec628bde-e31b-4997-899f-00cf84d34a49",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/905be96a-a67e-4019-ad5d-06d3c53beb8f",
+        "https://data.kcg.gov.tw/File/directDownload/905be96a-a67e-4019-ad5d-06d3c53beb8f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ef752a73-7e84-4cb5-9696-20c4a8a929c4",
+        "https://data.kcg.gov.tw/File/directDownload/ef752a73-7e84-4cb5-9696-20c4a8a929c4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/001fed37-a077-4d2d-b176-5b058f9d360c",
+        "https://data.kcg.gov.tw/File/directDownload/001fed37-a077-4d2d-b176-5b058f9d360c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ea778958-aae7-484d-8208-9ebe517272dc",
+        "https://data.kcg.gov.tw/File/directDownload/ea778958-aae7-484d-8208-9ebe517272dc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/afcb2854-ae61-4b71-8172-beec5a9672c6",
+        "https://data.kcg.gov.tw/File/directDownload/afcb2854-ae61-4b71-8172-beec5a9672c6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8ce0c892-caee-4eb3-823b-fea5038e5522",
+        "https://data.kcg.gov.tw/File/directDownload/8ce0c892-caee-4eb3-823b-fea5038e5522"
+      ]
+    },
+    {
+      "id": "100912",
+      "name": "高雄市總預算附屬單位預算-作業基金餘絀撥補綜計表(依撥補項目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fbd3a7ad-89df-4f38-9968-b6a5f6a79144",
+        "https://data.kcg.gov.tw/File/DirectDownload/fbd3a7ad-89df-4f38-9968-b6a5f6a79144",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8898f7b0-9dbd-4d88-ab55-d26f5e68bbcc",
+        "https://data.kcg.gov.tw/File/DirectDownload/8898f7b0-9dbd-4d88-ab55-d26f5e68bbcc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/07d48149-b398-4cdd-a971-f3c13dd62595",
+        "https://data.kcg.gov.tw/File/DirectDownload/07d48149-b398-4cdd-a971-f3c13dd62595"
+      ]
+    },
+    {
+      "id": "100914",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(法定預算)-營業基金資本增減綜計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/894b9337-5846-4ee5-8234-9edf8591ed72",
+        "https://data.kcg.gov.tw/File/DirectDownload/894b9337-5846-4ee5-8234-9edf8591ed72"
+      ]
+    },
+    {
+      "id": "100915",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(法定預算)-營業基金固定資產建設改良擴充與資金來源綜計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/472cdc68-54ed-49f5-a8a2-7431007e1c77",
+        "https://data.kcg.gov.tw/File/DirectDownload/472cdc68-54ed-49f5-a8a2-7431007e1c77"
+      ]
+    },
+    {
+      "id": "100916",
+      "name": "108年度雄市總預算附屬單位預算及綜計表(法定預算)-營業基金現金流量項目分列(依機關別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0855a39b-9b8a-4c90-a84f-7cb218139ed4",
+        "https://data.kcg.gov.tw/File/DirectDownload/0855a39b-9b8a-4c90-a84f-7cb218139ed4"
+      ]
+    },
+    {
+      "id": "100923",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-特別收入基金基金來源、用途及餘絀綜計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d6a93fc9-cf2d-4070-aeaa-9cb7bfe13b7b",
+        "https://data.kcg.gov.tw/File/DirectDownload/d6a93fc9-cf2d-4070-aeaa-9cb7bfe13b7b"
+      ]
+    },
+    {
+      "id": "100887",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-作業基金餘絀撥補綜計表(依撥補項目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ebfd9483-1e75-4cff-8fdf-00a3a9cb6242",
+        "https://data.kcg.gov.tw/File/DirectDownload/ebfd9483-1e75-4cff-8fdf-00a3a9cb6242"
+      ]
+    },
+    {
+      "id": "100891",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-作業基金現金流量綜計表(依現金流量項目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d8862acc-30c8-42b3-80b8-ca049f355ecf",
+        "https://data.kcg.gov.tw/File/DirectDownload/d8862acc-30c8-42b3-80b8-ca049f355ecf"
+      ]
+    },
+    {
+      "id": "100895",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-作業基金現金流量綜計表(依基金別分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6cb58363-45dd-4c0e-a1bb-97dc1e37d4bb",
+        "https://data.kcg.gov.tw/File/DirectDownload/6cb58363-45dd-4c0e-a1bb-97dc1e37d4bb"
+      ]
+    },
+    {
+      "id": "100896",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-營業基金現金流量綜計表(依現金流量項目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95e9b5c6-2294-4867-aa47-79e17fc7670e",
+        "https://data.kcg.gov.tw/File/DirectDownload/95e9b5c6-2294-4867-aa47-79e17fc7670e"
+      ]
+    },
+    {
+      "id": "100899",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-特別收入基金現金流量綜計表(依現金流量項目分列)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ba403e2-2f0d-4d44-a6a8-33791a76d7af",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ba403e2-2f0d-4d44-a6a8-33791a76d7af"
+      ]
+    },
+    {
+      "id": "101930",
+      "name": "高雄市停車場作業基金概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8a1f92a7-8184-4739-8ccf-b63b10174d5f",
+        "https://data.kcg.gov.tw/File/DirectDownload/8a1f92a7-8184-4739-8ccf-b63b10174d5f"
+      ]
+    },
+    {
+      "id": "101932",
+      "name": "高雄市年底高雄捷運司機人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e0d83f43-a33b-4102-9554-4de89cd3d6ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/e0d83f43-a33b-4102-9554-4de89cd3d6ac"
+      ]
+    },
+    {
+      "id": "101933",
+      "name": "高雄市年底公車司機人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0764c27a-016f-42f9-a0ea-86201e768b9a",
+        "https://data.kcg.gov.tw/File/DirectDownload/0764c27a-016f-42f9-a0ea-86201e768b9a"
+      ]
+    },
+    {
+      "id": "101848",
+      "name": "高雄市營造工程物價指數(按工程類別分類指數)-月指數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7f187eb2-9c04-4fe5-bdbb-08230f9ec7d7",
+        "https://data.kcg.gov.tw/File/DirectDownload/7f187eb2-9c04-4fe5-bdbb-08230f9ec7d7"
+      ]
+    },
+    {
+      "id": "101851",
+      "name": "高雄市營造工程物價指數(基本分類指數)-年指數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b02900a7-834b-41ca-bc81-594516fb95f8",
+        "https://data.kcg.gov.tw/File/DirectDownload/b02900a7-834b-41ca-bc81-594516fb95f8"
+      ]
+    },
+    {
+      "id": "101949",
+      "name": "高雄市總預算附屬單位預算及綜計表(預算案)-財務摘要綜計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/77ec574f-0c28-4d43-8982-d1871d6a2e5f",
+        "https://data.kcg.gov.tw/File/DirectDownload/77ec574f-0c28-4d43-8982-d1871d6a2e5f"
+      ]
+    },
+    {
+      "id": "104566",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(預算案)-捷運建設基金現金流量表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/86617ad9-c34b-4133-b38a-a162bada6d6a",
+        "https://data.kcg.gov.tw/File/DirectDownload/86617ad9-c34b-4133-b38a-a162bada6d6a"
+      ]
+    },
+    {
+      "id": "104567",
+      "name": "高雄市總預算附屬單位預算-捷運建設基金基金來源、用途及餘絀表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0d54ba2a-9af3-4547-952f-04fae284405e",
+        "https://data.kcg.gov.tw/File/DirectDownload/0d54ba2a-9af3-4547-952f-04fae284405e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ada53353-b54b-4bf9-ae56-70e86fabfa11",
+        "https://data.kcg.gov.tw/File/DirectDownload/ada53353-b54b-4bf9-ae56-70e86fabfa11",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/011ad271-27f9-46d4-846b-e74b0e3eca3d",
+        "https://data.kcg.gov.tw/File/DirectDownload/011ad271-27f9-46d4-846b-e74b0e3eca3d"
+      ]
+    },
+    {
+      "id": "127016",
+      "name": "高雄市總決算收支簡明比較分析表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b2427772-c2eb-43d2-9023-0e9a4089d10a",
+        "https://data.kcg.gov.tw/File/DirectDownload/b2427772-c2eb-43d2-9023-0e9a4089d10a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/84c03bd5-a8aa-46f2-a9dc-6acd1a964ea7",
+        "https://data.kcg.gov.tw/File/DirectDownload/84c03bd5-a8aa-46f2-a9dc-6acd1a964ea7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/96835ea6-4ee9-4913-8e6d-8693ca76d47d",
+        "https://data.kcg.gov.tw/File/DirectDownload/96835ea6-4ee9-4913-8e6d-8693ca76d47d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4858f3b3-5adc-4428-bfde-a487a31be770",
+        "https://data.kcg.gov.tw/File/DirectDownload/4858f3b3-5adc-4428-bfde-a487a31be770",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3c447e07-3989-4ba9-948c-ac84ed240377",
+        "https://data.kcg.gov.tw/File/DirectDownload/3c447e07-3989-4ba9-948c-ac84ed240377",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c006150e-ced1-4b68-aea9-cd4a107549a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/c006150e-ced1-4b68-aea9-cd4a107549a7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f5bb4ca4-664e-4e84-9a56-f818f371719c",
+        "https://data.kcg.gov.tw/File/DirectDownload/f5bb4ca4-664e-4e84-9a56-f818f371719c"
+      ]
+    },
+    {
+      "id": "127017",
+      "name": "高雄市總決算歲入來源別決算總表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0c3bc23f-dad5-4ccf-9acf-010d339f14be",
+        "https://data.kcg.gov.tw/File/DirectDownload/0c3bc23f-dad5-4ccf-9acf-010d339f14be",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d1f5a1c2-12a5-46a4-bfbe-1c14cf37d7ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/d1f5a1c2-12a5-46a4-bfbe-1c14cf37d7ac",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a2723e79-a71f-4dd4-a66d-24605d77a45d",
+        "https://data.kcg.gov.tw/File/DirectDownload/a2723e79-a71f-4dd4-a66d-24605d77a45d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f3bab87f-3ecb-4f2e-956d-815063af2799",
+        "https://data.kcg.gov.tw/File/DirectDownload/f3bab87f-3ecb-4f2e-956d-815063af2799",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c673f8ea-f122-49c2-88dc-915cb5e959dc",
+        "https://data.kcg.gov.tw/File/DirectDownload/c673f8ea-f122-49c2-88dc-915cb5e959dc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d0828450-3f11-4599-ba7f-d263ca37f489",
+        "https://data.kcg.gov.tw/File/DirectDownload/d0828450-3f11-4599-ba7f-d263ca37f489",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/10a671ec-b453-4bf6-bdd9-f11cb20ef751",
+        "https://data.kcg.gov.tw/File/DirectDownload/10a671ec-b453-4bf6-bdd9-f11cb20ef751"
+      ]
+    },
+    {
+      "id": "127021",
+      "name": "高雄市年底原住民人口數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/023f6fdb-d28a-42c6-bd48-aebd04b224da",
+        "https://data.kcg.gov.tw/File/directDownload/023f6fdb-d28a-42c6-bd48-aebd04b224da"
+      ]
+    },
+    {
+      "id": "127025",
+      "name": "高雄市年底15歲以上一般戶長",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b6ffc11a-e965-4909-a1ef-8ca238026d3f",
+        "https://data.kcg.gov.tw/File/DirectDownload/b6ffc11a-e965-4909-a1ef-8ca238026d3f"
+      ]
+    },
+    {
+      "id": "127026",
+      "name": "高雄市年底單身戶",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/422b3a94-a78e-437a-b08f-7a6e6406227e",
+        "https://data.kcg.gov.tw/File/DirectDownload/422b3a94-a78e-437a-b08f-7a6e6406227e"
+      ]
+    },
+    {
+      "id": "127031",
+      "name": "高雄市初婚年齡中位數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/89a82cc6-63c5-4031-9b19-fae4b9b260e8",
+        "https://data.kcg.gov.tw/File/DirectDownload/89a82cc6-63c5-4031-9b19-fae4b9b260e8"
+      ]
+    },
+    {
+      "id": "127034",
+      "name": "高雄市嬰兒死亡人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bf85071d-f7aa-40dc-b7f9-2780e6b8b170",
+        "https://data.kcg.gov.tw/File/DirectDownload/bf85071d-f7aa-40dc-b7f9-2780e6b8b170"
+      ]
+    },
+    {
+      "id": "127039",
+      "name": "高雄市消防人力",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c06a4689-89f8-48d1-b2a9-f296d6e47d8b",
+        "https://data.kcg.gov.tw/File/DirectDownload/c06a4689-89f8-48d1-b2a9-f296d6e47d8b"
+      ]
+    },
+    {
+      "id": "127049",
+      "name": "高雄市產後護理機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/31307211-0afd-45c6-9c7d-f588c3485963",
+        "https://data.kcg.gov.tw/File/DirectDownload/31307211-0afd-45c6-9c7d-f588c3485963"
+      ]
+    },
+    {
+      "id": "127050",
+      "name": "高雄市剖腹產率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ce623c5-5633-43d3-999a-c5e1cac9cd01",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ce623c5-5633-43d3-999a-c5e1cac9cd01"
+      ]
+    },
+    {
+      "id": "127051",
+      "name": "高雄市45-69歲婦女2年內曾接受乳房攝影篩檢率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2a648b4e-bbc6-44c6-afa1-8c04abd6ccdf",
+        "https://data.kcg.gov.tw/File/DirectDownload/2a648b4e-bbc6-44c6-afa1-8c04abd6ccdf"
+      ]
+    },
+    {
+      "id": "127147",
+      "name": "高雄市性侵害被害人補助人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4fd58c20-0d97-4339-95fd-016180058a87",
+        "https://data.kcg.gov.tw/File/DirectDownload/4fd58c20-0d97-4339-95fd-016180058a87"
+      ]
+    },
+    {
+      "id": "127060",
+      "name": "高雄市首次生產婦女之平均年齡",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eb914d48-6b60-4409-ac82-746649b48306",
+        "https://data.kcg.gov.tw/File/DirectDownload/eb914d48-6b60-4409-ac82-746649b48306"
+      ]
+    },
+    {
+      "id": "127061",
+      "name": "高雄市年齡別及總生育率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c195ec16-5e55-447e-b572-29db1b446ea4",
+        "https://data.kcg.gov.tw/File/DirectDownload/c195ec16-5e55-447e-b572-29db1b446ea4"
+      ]
+    },
+    {
+      "id": "127063",
+      "name": "高雄市嬰兒出生數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3240e238-9583-4b62-beb0-35d945efcaa2",
+        "https://data.kcg.gov.tw/File/directDownload/3240e238-9583-4b62-beb0-35d945efcaa2"
+      ]
+    },
+    {
+      "id": "127066",
+      "name": "高雄市年底15歲以上人口教育程度",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/95d15b07-65ca-4a06-8020-757a44c6fef4",
+        "https://data.kcg.gov.tw/File/directDownload/95d15b07-65ca-4a06-8020-757a44c6fef4"
+      ]
+    },
+    {
+      "id": "127069",
+      "name": "高雄市產業及社福外籍勞工人",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7afc5606-a398-48c6-bf50-7685cc86aa1d",
+        "https://data.kcg.gov.tw/File/DirectDownload/7afc5606-a398-48c6-bf50-7685cc86aa1d"
+      ]
+    },
+    {
+      "id": "127071",
+      "name": "高雄市失業人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a1c5d37-d9b6-408c-8495-4271e08a003a",
+        "https://data.kcg.gov.tw/File/DirectDownload/5a1c5d37-d9b6-408c-8495-4271e08a003a"
+      ]
+    },
+    {
+      "id": "127131",
+      "name": "高雄市年底科技產業園區人員概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1c92c618-c9a3-4032-bbdb-3a13b97ec19c",
+        "https://data.kcg.gov.tw/File/DirectDownload/1c92c618-c9a3-4032-bbdb-3a13b97ec19c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/82a83537-68ef-4062-93aa-71e84e289920",
+        "https://data.kcg.gov.tw/File/DirectDownload/82a83537-68ef-4062-93aa-71e84e289920",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/99e4db10-9b03-4d8f-bb5c-95336b61b89e",
+        "https://data.kcg.gov.tw/File/DirectDownload/99e4db10-9b03-4d8f-bb5c-95336b61b89e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3f34dd09-a38e-4923-885f-a69d25c2d544",
+        "https://data.kcg.gov.tw/File/DirectDownload/3f34dd09-a38e-4923-885f-a69d25c2d544"
+      ]
+    },
+    {
+      "id": "127139",
+      "name": "高雄市年底寄養家庭家長人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b889c03f-3cb1-48a8-bdab-100af83ae422",
+        "https://data.kcg.gov.tw/File/DirectDownload/b889c03f-3cb1-48a8-bdab-100af83ae422"
+      ]
+    },
+    {
+      "id": "127074",
+      "name": "高雄市未參與勞動之原因",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/387a5f64-8a79-484f-87fa-c1c67eae8bd3",
+        "https://data.kcg.gov.tw/File/DirectDownload/387a5f64-8a79-484f-87fa-c1c67eae8bd3"
+      ]
+    },
+    {
+      "id": "127078",
+      "name": "高雄市勞工權益基金",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/837d25fa-a716-47fb-b389-d1bcaf4b3cf2",
+        "https://data.kcg.gov.tw/File/DirectDownload/837d25fa-a716-47fb-b389-d1bcaf4b3cf2"
+      ]
+    },
+    {
+      "id": "127081",
+      "name": "高雄市參加身心障礙者職業訓練人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9c906583-da05-4a1d-9594-e7aaecf53011",
+        "https://data.kcg.gov.tw/File/DirectDownload/9c906583-da05-4a1d-9594-e7aaecf53011"
+      ]
+    },
+    {
+      "id": "127105",
+      "name": "高雄市入殮室往生者人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/faf2af81-60c9-475f-b50f-cbfb72c6a95a",
+        "https://data.kcg.gov.tw/File/directDownload/faf2af81-60c9-475f-b50f-cbfb72c6a95a"
+      ]
+    },
+    {
+      "id": "127109",
+      "name": "高雄市幼兒園幼生數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ca5290d-9485-4ea5-898b-69b70adae93e",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ca5290d-9485-4ea5-898b-69b70adae93e"
+      ]
+    },
+    {
+      "id": "127114",
+      "name": "高雄市原住民中輟生人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/17c2e3fa-a0ba-4bb2-b779-774d24d4dc22",
+        "https://data.kcg.gov.tw/File/DirectDownload/17c2e3fa-a0ba-4bb2-b779-774d24d4dc22"
+      ]
+    },
+    {
+      "id": "127119",
+      "name": "高雄市取得不動產繼承登記繼承人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ccc95781-a08a-4cf7-aded-7536d2f9656e",
+        "https://data.kcg.gov.tw/File/directDownload/ccc95781-a08a-4cf7-aded-7536d2f9656e"
+      ]
+    },
+    {
+      "id": "127126",
+      "name": "高雄市環保人力",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8fe3bd3f-5125-45cd-90f7-8a68fd637bb3",
+        "https://data.kcg.gov.tw/File/DirectDownload/8fe3bd3f-5125-45cd-90f7-8a68fd637bb3"
+      ]
+    },
+    {
+      "id": "138219",
+      "name": "高雄市主要死亡原因粗死亡率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3a17e1f5-1c31-411c-ab27-0de260043f5d",
+        "https://data.kcg.gov.tw/File/DirectDownload/3a17e1f5-1c31-411c-ab27-0de260043f5d"
+      ]
+    },
+    {
+      "id": "138221",
+      "name": "高雄市主要死亡原因標準化死亡率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d1981f7d-fd74-4c05-bf9f-36f6320bba38",
+        "https://data.kcg.gov.tw/File/DirectDownload/d1981f7d-fd74-4c05-bf9f-36f6320bba38"
+      ]
+    },
+    {
+      "id": "138228",
+      "name": "高雄市死亡年齡",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a5ce9f57-e9f1-438a-b3a0-ba6a52b104a8",
+        "https://data.kcg.gov.tw/File/DirectDownload/a5ce9f57-e9f1-438a-b3a0-ba6a52b104a8"
+      ]
+    },
+    {
+      "id": "138230",
+      "name": "高雄市結核病死亡率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f3197840-401c-461f-bf71-5e3189249920",
+        "https://data.kcg.gov.tw/File/DirectDownload/f3197840-401c-461f-bf71-5e3189249920"
+      ]
+    },
+    {
+      "id": "138214",
+      "name": "108年度高雄市總預算附屬單位預算及綜計表(法定預算)-作業基金收支餘絀綜計表(依基金別分別)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed6ebd5f-27b9-4ff4-952f-3473967f29c9",
+        "https://data.kcg.gov.tw/File/DirectDownload/ed6ebd5f-27b9-4ff4-952f-3473967f29c9"
+      ]
+    },
+    {
+      "id": "138217",
+      "name": "高雄市大專暑期實習生人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0733b7d1-c12b-4712-a1fc-840c5b89938a",
+        "https://data.kcg.gov.tw/File/DirectDownload/0733b7d1-c12b-4712-a1fc-840c5b89938a"
+      ]
+    },
+    {
+      "id": "138240",
+      "name": "高雄市獎勵及補償民眾拘捕人犯人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b7e4b7da-9bba-4d7a-ab49-0c22a00adffb",
+        "https://data.kcg.gov.tw/File/DirectDownload/b7e4b7da-9bba-4d7a-ab49-0c22a00adffb"
+      ]
+    },
+    {
+      "id": "138191",
+      "name": "高雄市廢棄物清理人員數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f18ccae4-2b57-441c-a0ec-0ade359f8450",
+        "https://data.kcg.gov.tw/File/DirectDownload/f18ccae4-2b57-441c-a0ec-0ade359f8450"
+      ]
+    },
+    {
+      "id": "138192",
+      "name": "高雄市癌症標準化發生率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d6e388eb-8ebe-483b-932e-8df0b3e1d8d3",
+        "https://data.kcg.gov.tw/File/DirectDownload/d6e388eb-8ebe-483b-932e-8df0b3e1d8d3"
+      ]
+    },
+    {
+      "id": "138198",
+      "name": "高雄市年底市府各機關首長、副首長人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6da2e8d2-30e8-4afe-ac97-52a8f9cad49a",
+        "https://data.kcg.gov.tw/File/directDownload/6da2e8d2-30e8-4afe-ac97-52a8f9cad49a"
+      ]
+    },
+    {
+      "id": "138199",
+      "name": "高雄市年底市府主管",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7c9999e3-7945-422b-bdac-58de6a7119a1",
+        "https://data.kcg.gov.tw/File/directDownload/7c9999e3-7945-422b-bdac-58de6a7119a1"
+      ]
+    },
+    {
+      "id": "138200",
+      "name": "高雄市市府模範公務員人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5940fa7-bb4e-43c2-8b43-918738e25c35",
+        "https://data.kcg.gov.tw/File/directDownload/e5940fa7-bb4e-43c2-8b43-918738e25c35"
+      ]
+    },
+    {
+      "id": "147176",
+      "name": "高雄市政府從事社會福利工作人員數(109年起停止更新)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b92101f4-e4f8-4056-ba3d-4cbc1ce5e095",
+        "https://data.kcg.gov.tw/File/DirectDownload/b92101f4-e4f8-4056-ba3d-4cbc1ce5e095"
+      ]
+    },
+    {
+      "id": "147177",
+      "name": "高雄市身心障礙人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b3b20e58-df0a-45cf-abc0-b418934ce0cd",
+        "https://data.kcg.gov.tw/File/directDownload/b3b20e58-df0a-45cf-abc0-b418934ce0cd"
+      ]
+    },
+    {
+      "id": "159639",
+      "name": "高雄市消防車輛裝備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/112ac797-d799-4c0b-b168-dfa9b3df9849",
+        "https://data.kcg.gov.tw/File/DirectDownload/112ac797-d799-4c0b-b168-dfa9b3df9849"
+      ]
+    },
+    {
+      "id": "159642",
+      "name": "高雄都會區大眾捷運系統營運概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8392d00a-eee0-4e70-a710-c2e045429c77",
+        "https://data.kcg.gov.tw/File/DirectDownload/8392d00a-eee0-4e70-a710-c2e045429c77"
+      ]
+    },
+    {
+      "id": "159650",
+      "name": "高雄市營造業家數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cdb0a35d-bc4a-497f-b591-bffecb28d9aa",
+        "https://data.kcg.gov.tw/File/DirectDownload/cdb0a35d-bc4a-497f-b591-bffecb28d9aa"
+      ]
+    },
+    {
+      "id": "159651",
+      "name": "高雄市辦理社會救助醫療補助概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cd6cd7ef-4096-4315-a337-d36d350d90a4",
+        "https://data.kcg.gov.tw/File/DirectDownload/cd6cd7ef-4096-4315-a337-d36d350d90a4"
+      ]
+    },
+    {
+      "id": "159652",
+      "name": "高雄市遭難漁船數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90e1f763-9426-43bb-8e13-e871ccbc5bff",
+        "https://data.kcg.gov.tw/File/DirectDownload/90e1f763-9426-43bb-8e13-e871ccbc5bff"
+      ]
+    },
+    {
+      "id": "159672",
+      "name": "高雄市空氣污染、水污染陳情受理案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8c914cf1-3ee7-466a-913e-e68779e12843",
+        "https://data.kcg.gov.tw/File/DirectDownload/8c914cf1-3ee7-466a-913e-e68779e12843"
+      ]
+    },
+    {
+      "id": "159675",
+      "name": "高雄市合作社概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7741d13-a410-490b-bbb6-7608b134997d",
+        "https://data.kcg.gov.tw/File/DirectDownload/f7741d13-a410-490b-bbb6-7608b134997d"
+      ]
+    },
+    {
+      "id": "159676",
+      "name": "高雄市各級人民團體個數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1b6756c2-04b0-4429-af6d-36fc31e90927",
+        "https://data.kcg.gov.tw/File/DirectDownload/1b6756c2-04b0-4429-af6d-36fc31e90927"
+      ]
+    },
+    {
+      "id": "159680",
+      "name": "高雄市市立醫療院所年底醫師數及年底病床數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f6ec0ca3-579b-407c-9e1a-f21b91f67f74",
+        "https://data.kcg.gov.tw/File/DirectDownload/f6ec0ca3-579b-407c-9e1a-f21b91f67f74"
+      ]
+    },
+    {
+      "id": "159681",
+      "name": "高雄市市立醫療院所入院及出院人次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c0ea4975-15ed-48a8-8a2c-c17355960e37",
+        "https://data.kcg.gov.tw/File/DirectDownload/c0ea4975-15ed-48a8-8a2c-c17355960e37"
+      ]
+    },
+    {
+      "id": "159686",
+      "name": "高雄市土地所有權登記筆數與面積",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6e563c75-8cf2-409d-846d-8701e1d534de",
+        "https://data.kcg.gov.tw/File/DirectDownload/6e563c75-8cf2-409d-846d-8701e1d534de"
+      ]
+    },
+    {
+      "id": "159656",
+      "name": "高雄市漁業從業人員",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5b941a2a-1219-417b-88cc-7b8b5c1f247a",
+        "https://data.kcg.gov.tw/File/DirectDownload/5b941a2a-1219-417b-88cc-7b8b5c1f247a"
+      ]
+    },
+    {
+      "id": "159658",
+      "name": "高雄市遊民關懷服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f6444a4e-4002-452c-b22c-8f8106fcb8ef",
+        "https://data.kcg.gov.tw/File/directDownload/f6444a4e-4002-452c-b22c-8f8106fcb8ef"
+      ]
+    },
+    {
+      "id": "159663",
+      "name": "高雄市處理違反道路交通管理事件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3c7b1d27-225e-4e50-b6a1-6bd869fb6363",
+        "https://data.kcg.gov.tw/File/DirectDownload/3c7b1d27-225e-4e50-b6a1-6bd869fb6363"
+      ]
+    },
+    {
+      "id": "159774",
+      "name": "高雄市營運中工廠家數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b2eb5e1e-a745-4690-86d4-4f1187c60fe5",
+        "https://data.kcg.gov.tw/File/DirectDownload/b2eb5e1e-a745-4690-86d4-4f1187c60fe5"
+      ]
+    },
+    {
+      "id": "159776",
+      "name": "高雄市公有市場零售概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/10af60f6-fabb-439f-bb17-4c82f13e72ef",
+        "https://data.kcg.gov.tw/File/DirectDownload/10af60f6-fabb-439f-bb17-4c82f13e72ef"
+      ]
+    },
+    {
+      "id": "159779",
+      "name": "高雄市肉品批發市場概況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9cb46f4e-c947-467c-96e0-3b5e1a0392be",
+        "https://data.kcg.gov.tw/File/DirectDownload/9cb46f4e-c947-467c-96e0-3b5e1a0392be"
+      ]
+    },
+    {
+      "id": "155836",
+      "name": "高雄市人口婚姻狀況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/61b09f03-ad47-4d80-ac12-3b074a0620e2",
+        "https://data.kcg.gov.tw/File/directDownload/61b09f03-ad47-4d80-ac12-3b074a0620e2"
+      ]
+    },
+    {
+      "id": "155838",
+      "name": "高雄市人口年齡結構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5fa32954-12c8-4fae-aad3-aef828e477fb",
+        "https://data.kcg.gov.tw/File/directDownload/5fa32954-12c8-4fae-aad3-aef828e477fb"
+      ]
+    },
+    {
+      "id": "155840",
+      "name": "高雄市戶籍動態-遷入人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3d2bb275-d4d9-4e37-9e3c-e2c98cdc56ed",
+        "https://data.kcg.gov.tw/File/directDownload/3d2bb275-d4d9-4e37-9e3c-e2c98cdc56ed"
+      ]
+    },
+    {
+      "id": "155841",
+      "name": "高雄市戶數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a6b6273a-54d7-4aa6-a678-19b5770569eb",
+        "https://data.kcg.gov.tw/File/DirectDownload/a6b6273a-54d7-4aa6-a678-19b5770569eb"
+      ]
+    },
+    {
+      "id": "155844",
+      "name": "高雄市市府員工參與訓練人次",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7bd74c41-e954-4f07-adb9-86c87cebf6f8",
+        "https://data.kcg.gov.tw/File/directDownload/7bd74c41-e954-4f07-adb9-86c87cebf6f8"
+      ]
+    },
+    {
+      "id": "155823",
+      "name": "高雄市車輛登記",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/699add7f-765e-4ffd-894e-c7036960a8e5",
+        "https://data.kcg.gov.tw/File/DirectDownload/699add7f-765e-4ffd-894e-c7036960a8e5"
+      ]
+    },
+    {
+      "id": "155824",
+      "name": "高雄市太陽光電發電設備核准件數及裝置容量",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0791fd86-9fdb-41d3-b98f-9cd5a1613889",
+        "https://data.kcg.gov.tw/File/DirectDownload/0791fd86-9fdb-41d3-b98f-9cd5a1613889"
+      ]
+    },
+    {
+      "id": "155826",
+      "name": "高雄市電力供應情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/898c3321-8a33-4df0-b535-6cbb3b3c1cc1",
+        "https://data.kcg.gov.tw/File/DirectDownload/898c3321-8a33-4df0-b535-6cbb3b3c1cc1"
+      ]
+    },
+    {
+      "id": "155827",
+      "name": "高雄市自來水供水普及率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c5e8725d-039e-45b6-97a5-a9838fee64c5",
+        "https://data.kcg.gov.tw/File/DirectDownload/c5e8725d-039e-45b6-97a5-a9838fee64c5"
+      ]
+    },
+    {
+      "id": "155828",
+      "name": "高雄市公司登記現有家數及資本額",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/224fade6-6fbd-4044-b46e-d0bc0c9eb1ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/224fade6-6fbd-4044-b46e-d0bc0c9eb1ac"
+      ]
+    },
+    {
+      "id": "155829",
+      "name": "高雄市加工出口區現有區內事業受雇員工人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/99af1b26-e512-4a3c-876f-e1f41819fa5d",
+        "https://data.kcg.gov.tw/File/DirectDownload/99af1b26-e512-4a3c-876f-e1f41819fa5d"
+      ]
+    },
+    {
+      "id": "155834",
+      "name": "高雄市原住民人數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eaeac164-5816-40d9-a628-36c2917e38e9",
+        "https://data.kcg.gov.tw/File/directDownload/eaeac164-5816-40d9-a628-36c2917e38e9"
+      ]
+    },
+    {
+      "id": "155812",
+      "name": "高雄市中低收入戶",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a09e619-3075-4c9a-87c3-b52904d63400",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a09e619-3075-4c9a-87c3-b52904d63400"
+      ]
+    },
+    {
+      "id": "155813",
+      "name": "高雄市低收入戶",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/56ca0b1e-1813-4c57-8f06-87972f13c0c9",
+        "https://data.kcg.gov.tw/File/DirectDownload/56ca0b1e-1813-4c57-8f06-87972f13c0c9"
+      ]
+    },
+    {
+      "id": "155818",
+      "name": "高雄市高級中等學校校數及班級數",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c97242d4-d5bb-43ed-8deb-716f84b83d82",
+        "https://data.kcg.gov.tw/File/DirectDownload/c97242d4-d5bb-43ed-8deb-716f84b83d82"
+      ]
+    }
+  ]
+}

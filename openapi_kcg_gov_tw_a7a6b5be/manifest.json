@@ -1,0 +1,340 @@
+{
+  "type": "dataset",
+  "provider": "高雄市鳥松區公所",
+  "slug": "openapi_kcg_gov_tw_a7a6b5be",
+  "datasets": [
+    {
+      "id": "166383",
+      "name": "高雄市鳥松區兵役列管人數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b73c8265-7424-4e47-9e6e-0a47ebadcf9d",
+        "https://data.kcg.gov.tw/File/DirectDownload/b73c8265-7424-4e47-9e6e-0a47ebadcf9d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/23845540-aa55-4de3-a82e-0be8dd526996",
+        "https://data.kcg.gov.tw/File/DirectDownload/23845540-aa55-4de3-a82e-0be8dd526996",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/56b1b643-fe8e-4c7a-aebc-1045be957685",
+        "https://data.kcg.gov.tw/File/DirectDownload/56b1b643-fe8e-4c7a-aebc-1045be957685",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63ecb80a-17c9-419e-9512-2fb4d259ad08",
+        "https://data.kcg.gov.tw/File/DirectDownload/63ecb80a-17c9-419e-9512-2fb4d259ad08",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c0fed001-2058-47e1-b6a4-30f74e6d1dd0",
+        "https://data.kcg.gov.tw/File/DirectDownload/c0fed001-2058-47e1-b6a4-30f74e6d1dd0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/353a77c7-ea90-4523-a056-585b1bb75d67",
+        "https://data.kcg.gov.tw/File/DirectDownload/353a77c7-ea90-4523-a056-585b1bb75d67",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4cb498d4-c85b-42bc-b9ac-5a424552dadb",
+        "https://data.kcg.gov.tw/File/DirectDownload/4cb498d4-c85b-42bc-b9ac-5a424552dadb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/074e60b0-1f01-458b-b866-6d29412716dd",
+        "https://data.kcg.gov.tw/File/DirectDownload/074e60b0-1f01-458b-b866-6d29412716dd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/44af9655-d2b5-4d03-b970-74843fe0d8c7",
+        "https://data.kcg.gov.tw/File/DirectDownload/44af9655-d2b5-4d03-b970-74843fe0d8c7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1d4d51a3-ac91-4044-acde-78d132626c1f",
+        "https://data.kcg.gov.tw/File/DirectDownload/1d4d51a3-ac91-4044-acde-78d132626c1f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/29c804ec-fbaa-4040-ace8-7c0921e10e58",
+        "https://data.kcg.gov.tw/File/DirectDownload/29c804ec-fbaa-4040-ace8-7c0921e10e58",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/064c02d3-f6eb-4e51-b939-83fa1ae5a7bb",
+        "https://data.kcg.gov.tw/File/DirectDownload/064c02d3-f6eb-4e51-b939-83fa1ae5a7bb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d2de0174-7abc-498a-a50d-86118ebe88ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/d2de0174-7abc-498a-a50d-86118ebe88ff",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/09a46dcb-33cf-410f-8fc1-87c05919d97b",
+        "https://data.kcg.gov.tw/File/DirectDownload/09a46dcb-33cf-410f-8fc1-87c05919d97b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3ce8d6f-5b20-43e5-bf07-8c7af2fc32fd",
+        "https://data.kcg.gov.tw/File/DirectDownload/a3ce8d6f-5b20-43e5-bf07-8c7af2fc32fd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/058832d2-3b7d-45d5-b2c4-a727fae7a0d0",
+        "https://data.kcg.gov.tw/File/DirectDownload/058832d2-3b7d-45d5-b2c4-a727fae7a0d0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/56e57dce-f008-470e-a269-aa2a05a89b41",
+        "https://data.kcg.gov.tw/File/DirectDownload/56e57dce-f008-470e-a269-aa2a05a89b41",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ddd7ed6-fa53-460b-9780-ac6ada0cd473",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ddd7ed6-fa53-460b-9780-ac6ada0cd473",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/625dfccd-94ac-4bb5-b34d-b439e835431b",
+        "https://data.kcg.gov.tw/File/DirectDownload/625dfccd-94ac-4bb5-b34d-b439e835431b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a7652321-a701-4df5-8cb5-bb58b8e1bad1",
+        "https://data.kcg.gov.tw/File/DirectDownload/a7652321-a701-4df5-8cb5-bb58b8e1bad1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f343e1a4-591f-4ebe-85d8-cad243158ec7",
+        "https://data.kcg.gov.tw/File/DirectDownload/f343e1a4-591f-4ebe-85d8-cad243158ec7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/05c45de7-8164-4cb7-9cb1-d1ca2f055b55",
+        "https://data.kcg.gov.tw/File/DirectDownload/05c45de7-8164-4cb7-9cb1-d1ca2f055b55",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c67a19c9-0ee3-4854-99a9-f4cbbba7cbfd",
+        "https://data.kcg.gov.tw/File/DirectDownload/c67a19c9-0ee3-4854-99a9-f4cbbba7cbfd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/951344c6-0c3e-4da0-870b-fbecd72e3a42",
+        "https://data.kcg.gov.tw/File/DirectDownload/951344c6-0c3e-4da0-870b-fbecd72e3a42"
+      ]
+    },
+    {
+      "id": "166355",
+      "name": "高雄市鳥松區公所提升服務執行計畫",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1e7e30f9-42df-492d-be07-bdbe66ce0fbd",
+        "https://data.kcg.gov.tw/File/DirectDownload/1e7e30f9-42df-492d-be07-bdbe66ce0fbd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f667f9f1-9d1e-4ddd-947f-ff7be06078fd",
+        "https://data.kcg.gov.tw/File/DirectDownload/f667f9f1-9d1e-4ddd-947f-ff7be06078fd"
+      ]
+    },
+    {
+      "id": "166371",
+      "name": "高雄市國民中學學區劃分一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/726845d0-cd25-4740-a14e-73d3cfb8a69d",
+        "https://data.kcg.gov.tw/File/DirectDownload/726845d0-cd25-4740-a14e-73d3cfb8a69d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e63afc62-52d2-4b9f-bf8a-9628b41241ba",
+        "https://data.kcg.gov.tw/File/DirectDownload/e63afc62-52d2-4b9f-bf8a-9628b41241ba",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d2cfbc80-2c6a-4f9e-8827-e1abad91e61d",
+        "https://data.kcg.gov.tw/File/DirectDownload/d2cfbc80-2c6a-4f9e-8827-e1abad91e61d"
+      ]
+    },
+    {
+      "id": "166412",
+      "name": "鳥松區公所資料盤點表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/902264cb-57ce-402a-bdb5-9346ccd4f8ce",
+        "https://data.kcg.gov.tw/File/DirectDownload/902264cb-57ce-402a-bdb5-9346ccd4f8ce"
+      ]
+    },
+    {
+      "id": "166413",
+      "name": "高雄市鳥松區家畜結果表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/82800aa7-6fc3-4abb-a0e9-ab87182385e9",
+        "https://data.kcg.gov.tw/File/DirectDownload/82800aa7-6fc3-4abb-a0e9-ab87182385e9"
+      ]
+    },
+    {
+      "id": "166436",
+      "name": "高雄市鳥松區里長選舉候選人得票數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/62a37f41-1015-4301-9787-8d10ca04a494",
+        "https://data.kcg.gov.tw/File/DirectDownload/62a37f41-1015-4301-9787-8d10ca04a494"
+      ]
+    },
+    {
+      "id": "166452",
+      "name": "高雄市鳥松區役男出境及逾期不歸人數統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ef0ade14-9874-4c48-ba49-08b03642bc50",
+        "https://data.kcg.gov.tw/File/DirectDownload/ef0ade14-9874-4c48-ba49-08b03642bc50",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a0d36e07-bc07-4bbd-8295-165c06044856",
+        "https://data.kcg.gov.tw/File/DirectDownload/a0d36e07-bc07-4bbd-8295-165c06044856",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/414d8b44-3ce2-4e2e-a691-f153544dac81",
+        "https://data.kcg.gov.tw/File/DirectDownload/414d8b44-3ce2-4e2e-a691-f153544dac81",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/28cab998-29a6-4f58-807e-f8e92f707fcc",
+        "https://data.kcg.gov.tw/File/DirectDownload/28cab998-29a6-4f58-807e-f8e92f707fcc"
+      ]
+    },
+    {
+      "id": "166414",
+      "name": "高雄市鳥松區農作物生產報告表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/10eae163-5dac-45ed-a348-49f814feba2e",
+        "https://data.kcg.gov.tw/File/DirectDownload/10eae163-5dac-45ed-a348-49f814feba2e"
+      ]
+    },
+    {
+      "id": "166427",
+      "name": "高雄市鳥松區社區發展協會介紹",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a9cb459f-d6e9-4c2a-9eef-f8c48faee314",
+        "https://data.kcg.gov.tw/File/DirectDownload/a9cb459f-d6e9-4c2a-9eef-f8c48faee314"
+      ]
+    },
+    {
+      "id": "166425",
+      "name": "高雄市鳥松區9處災民避難收容處所資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b357b87e-162a-4f7a-b70c-a58f061e4484",
+        "https://data.kcg.gov.tw/File/DirectDownload/b357b87e-162a-4f7a-b70c-a58f061e4484"
+      ]
+    },
+    {
+      "id": "166428",
+      "name": "高雄市鳥松區基本資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/91913f28-8185-4df9-83ea-038fa047a810",
+        "https://data.kcg.gov.tw/File/DirectDownload/91913f28-8185-4df9-83ea-038fa047a810",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6de04a9e-b887-4578-821c-07ae12a73c86",
+        "https://data.kcg.gov.tw/File/DirectDownload/6de04a9e-b887-4578-821c-07ae12a73c86",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/12a3a852-4c2e-40bc-b081-23c2803c61cf",
+        "https://data.kcg.gov.tw/File/DirectDownload/12a3a852-4c2e-40bc-b081-23c2803c61cf",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1525b0bb-9cc3-453e-bc89-2f34fbb96b87",
+        "https://data.kcg.gov.tw/File/DirectDownload/1525b0bb-9cc3-453e-bc89-2f34fbb96b87",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2c4569f0-af38-45e3-940e-37d922e2b777",
+        "https://data.kcg.gov.tw/File/DirectDownload/2c4569f0-af38-45e3-940e-37d922e2b777",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0754ad69-7078-428c-98b0-3aa42802e1d8",
+        "https://data.kcg.gov.tw/File/DirectDownload/0754ad69-7078-428c-98b0-3aa42802e1d8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bb5fa872-e803-47fd-b481-48c6e502a92c",
+        "https://data.kcg.gov.tw/File/DirectDownload/bb5fa872-e803-47fd-b481-48c6e502a92c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/12eea8d4-be80-42b4-a0d1-539f65b91c08",
+        "https://data.kcg.gov.tw/File/DirectDownload/12eea8d4-be80-42b4-a0d1-539f65b91c08",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2b926d55-3c51-4f07-93d0-62349c88d9a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/2b926d55-3c51-4f07-93d0-62349c88d9a7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ebe9b439-855f-452c-b835-761b4b7f1833",
+        "https://data.kcg.gov.tw/File/DirectDownload/ebe9b439-855f-452c-b835-761b4b7f1833",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ec44f421-c07e-4439-946b-83ef77b8d7cf",
+        "https://data.kcg.gov.tw/File/DirectDownload/ec44f421-c07e-4439-946b-83ef77b8d7cf",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3e70432d-4ade-4679-a9c5-8888e8b47c1c",
+        "https://data.kcg.gov.tw/File/DirectDownload/3e70432d-4ade-4679-a9c5-8888e8b47c1c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/186b5075-5c75-4cdd-999a-8fea269accdc",
+        "https://data.kcg.gov.tw/File/DirectDownload/186b5075-5c75-4cdd-999a-8fea269accdc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7faece11-509b-4423-b146-97efb3c26c73",
+        "https://data.kcg.gov.tw/File/DirectDownload/7faece11-509b-4423-b146-97efb3c26c73",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/662800d8-c58b-4e21-aa4b-9ca70396c031",
+        "https://data.kcg.gov.tw/File/DirectDownload/662800d8-c58b-4e21-aa4b-9ca70396c031",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9d149b8f-c992-4c29-bd43-afca83297eed",
+        "https://data.kcg.gov.tw/File/DirectDownload/9d149b8f-c992-4c29-bd43-afca83297eed",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc7bddf0-70c8-441f-b6bc-bde77bca211c",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc7bddf0-70c8-441f-b6bc-bde77bca211c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b21e4c64-f36d-47f6-8917-caebb6758944",
+        "https://data.kcg.gov.tw/File/DirectDownload/b21e4c64-f36d-47f6-8917-caebb6758944",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d2be4e8b-c345-41b5-b8ed-d2e79bf62b9a",
+        "https://data.kcg.gov.tw/File/DirectDownload/d2be4e8b-c345-41b5-b8ed-d2e79bf62b9a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c5db0d10-7d72-42fc-b773-de2df3b56d0d",
+        "https://data.kcg.gov.tw/File/DirectDownload/c5db0d10-7d72-42fc-b773-de2df3b56d0d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/157d4913-ae8a-47da-a407-df300f35aa3e",
+        "https://data.kcg.gov.tw/File/DirectDownload/157d4913-ae8a-47da-a407-df300f35aa3e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ad844094-6398-43b5-96a1-f1ae50a83f0a",
+        "https://data.kcg.gov.tw/File/DirectDownload/ad844094-6398-43b5-96a1-f1ae50a83f0a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/52a488e6-5c1f-4b76-978e-f228aaa47692",
+        "https://data.kcg.gov.tw/File/DirectDownload/52a488e6-5c1f-4b76-978e-f228aaa47692"
+      ]
+    },
+    {
+      "id": "166429",
+      "name": "鳥松區立案宗教團體",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cf3c5236-fb2a-4025-b855-ab05f257353b",
+        "https://data.kcg.gov.tw/File/DirectDownload/cf3c5236-fb2a-4025-b855-ab05f257353b"
+      ]
+    },
+    {
+      "id": "166430",
+      "name": "結算書公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e325aa77-543a-4ef1-a939-555db6e7c338",
+        "https://data.kcg.gov.tw/File/DirectDownload/e325aa77-543a-4ef1-a939-555db6e7c338",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ee01ec6-5793-44d7-829b-9200b46c4bf1",
+        "https://data.kcg.gov.tw/File/DirectDownload/7ee01ec6-5793-44d7-829b-9200b46c4bf1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/21293948-c6fd-4574-809b-976b5bb9b6ee",
+        "https://data.kcg.gov.tw/File/DirectDownload/21293948-c6fd-4574-809b-976b5bb9b6ee"
+      ]
+    },
+    {
+      "id": "166364",
+      "name": "105年決算公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f6a7f36b-dbc8-4be6-ad94-3bdf8f86b36e",
+        "https://data.kcg.gov.tw/File/DirectDownload/f6a7f36b-dbc8-4be6-ad94-3bdf8f86b36e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d48181e1-f1b4-42d6-b4e5-4fb67bbc985b",
+        "https://data.kcg.gov.tw/File/DirectDownload/d48181e1-f1b4-42d6-b4e5-4fb67bbc985b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/61e48f46-76d2-4f05-81c5-62775940b373",
+        "https://data.kcg.gov.tw/File/DirectDownload/61e48f46-76d2-4f05-81c5-62775940b373",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/06f7a734-7279-4221-ab86-dd1539d685ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/06f7a734-7279-4221-ab86-dd1539d685ff"
+      ]
+    },
+    {
+      "id": "166441",
+      "name": "高雄市市長選舉鳥松區開票結果",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d934f35a-f2af-40c2-95f0-23aeab778b42",
+        "https://data.kcg.gov.tw/File/DirectDownload/d934f35a-f2af-40c2-95f0-23aeab778b42",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ec3a61af-3741-44ef-9b4e-dc051df5721e",
+        "https://data.kcg.gov.tw/File/DirectDownload/ec3a61af-3741-44ef-9b4e-dc051df5721e"
+      ]
+    },
+    {
+      "id": "166445",
+      "name": "高雄市市議員選舉第5選舉區開票統計結果",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4579e5b4-79a7-48d7-a703-47e336a8cda0",
+        "https://data.kcg.gov.tw/File/DirectDownload/4579e5b4-79a7-48d7-a703-47e336a8cda0"
+      ]
+    },
+    {
+      "id": "166366",
+      "name": "年度預算公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bf3a8c00-0334-4aa5-b479-abbc338054a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/bf3a8c00-0334-4aa5-b479-abbc338054a3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1b5bd7d1-6288-4c4c-af16-bee6fd38772c",
+        "https://data.kcg.gov.tw/File/DirectDownload/1b5bd7d1-6288-4c4c-af16-bee6fd38772c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/df9233bc-5744-43e0-b70d-d5129c6b95aa",
+        "https://data.kcg.gov.tw/File/DirectDownload/df9233bc-5744-43e0-b70d-d5129c6b95aa"
+      ]
+    },
+    {
+      "id": "166370",
+      "name": "高雄市國民小學學區劃分一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8ffaa533-6e53-482d-8935-5f6f3b6106a2",
+        "https://data.kcg.gov.tw/File/DirectDownload/8ffaa533-6e53-482d-8935-5f6f3b6106a2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4621ea8c-3bbc-4026-b5f1-7942a83abfbc",
+        "https://data.kcg.gov.tw/File/DirectDownload/4621ea8c-3bbc-4026-b5f1-7942a83abfbc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4194112b-23e4-4a79-b9f2-bd0ea791d93b",
+        "https://data.kcg.gov.tw/File/DirectDownload/4194112b-23e4-4a79-b9f2-bd0ea791d93b"
+      ]
+    },
+    {
+      "id": "166444",
+      "name": "第14任總統副總統選舉鳥松區開票統計結果",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/923bf2fc-b9c5-4dea-af47-c6c4571d75d9",
+        "https://data.kcg.gov.tw/File/DirectDownload/923bf2fc-b9c5-4dea-af47-c6c4571d75d9"
+      ]
+    },
+    {
+      "id": "166415",
+      "name": "中區及南區資源回收廠回饋金收支情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b396d1b5-c581-4e80-803b-092d257ac208",
+        "https://data.kcg.gov.tw/File/DirectDownload/b396d1b5-c581-4e80-803b-092d257ac208",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c42d3609-7223-4d3d-b8d7-15661cbd3284",
+        "https://data.kcg.gov.tw/File/DirectDownload/c42d3609-7223-4d3d-b8d7-15661cbd3284",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/849b270b-2c67-423f-acc6-2b3a5e9937b7",
+        "https://data.kcg.gov.tw/File/DirectDownload/849b270b-2c67-423f-acc6-2b3a5e9937b7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/834890b6-59e4-4edb-a5ef-379386bf72ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/834890b6-59e4-4edb-a5ef-379386bf72ab",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/068e8fae-59f8-46ea-b65c-758dcd364084",
+        "https://data.kcg.gov.tw/File/DirectDownload/068e8fae-59f8-46ea-b65c-758dcd364084",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e0db8c71-8535-45e6-b9b7-7f425586f5b7",
+        "https://data.kcg.gov.tw/File/DirectDownload/e0db8c71-8535-45e6-b9b7-7f425586f5b7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/33632693-7766-4957-a5ad-8136fc238f35",
+        "https://data.kcg.gov.tw/File/DirectDownload/33632693-7766-4957-a5ad-8136fc238f35",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/28f8dc19-5349-478a-9ffb-8d12924a5714",
+        "https://data.kcg.gov.tw/File/DirectDownload/28f8dc19-5349-478a-9ffb-8d12924a5714",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4cba0017-ad79-4fcb-b251-94b9b0fdf488",
+        "https://data.kcg.gov.tw/File/DirectDownload/4cba0017-ad79-4fcb-b251-94b9b0fdf488",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6bc308bd-939f-4cae-8aeb-9f2926c5175b",
+        "https://data.kcg.gov.tw/File/DirectDownload/6bc308bd-939f-4cae-8aeb-9f2926c5175b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ab6742b3-2fe0-403a-894b-ef67e94ab03b",
+        "https://data.kcg.gov.tw/File/DirectDownload/ab6742b3-2fe0-403a-894b-ef67e94ab03b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/afccd886-0f0e-4460-b190-ff21d6fe98f1",
+        "https://data.kcg.gov.tw/File/DirectDownload/afccd886-0f0e-4460-b190-ff21d6fe98f1"
+      ]
+    },
+    {
+      "id": "166426",
+      "name": "高雄市鳥松區公所因應各項災害避難收容處收一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d9e19576-78c0-441c-9eda-35428d46053b",
+        "https://data.kcg.gov.tw/File/DirectDownload/d9e19576-78c0-441c-9eda-35428d46053b"
+      ]
+    }
+  ]
+}

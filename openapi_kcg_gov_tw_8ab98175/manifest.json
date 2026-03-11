@@ -1,0 +1,1769 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府衛生局",
+  "slug": "openapi_kcg_gov_tw_8ab98175",
+  "datasets": [
+    {
+      "id": "47218",
+      "name": "高雄市104年登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d3bb72a5-042f-45b0-a51a-039eb2363543",
+        "https://data.kcg.gov.tw/File/DirectDownload/d3bb72a5-042f-45b0-a51a-039eb2363543",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/414d5124-a2d8-4e47-b0ae-115c71f4dbc8",
+        "https://data.kcg.gov.tw/File/DirectDownload/414d5124-a2d8-4e47-b0ae-115c71f4dbc8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1551470a-3ebf-4f3a-bf61-1424564ab002",
+        "https://data.kcg.gov.tw/File/DirectDownload/1551470a-3ebf-4f3a-bf61-1424564ab002",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e317ba3d-565c-41d4-a274-2d08043aa192",
+        "https://data.kcg.gov.tw/File/DirectDownload/e317ba3d-565c-41d4-a274-2d08043aa192",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/be45b024-4201-4413-a405-30b57c9b355b",
+        "https://data.kcg.gov.tw/File/DirectDownload/be45b024-4201-4413-a405-30b57c9b355b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c6093f68-e5d7-40d5-b9df-64d90f86636b",
+        "https://data.kcg.gov.tw/File/DirectDownload/c6093f68-e5d7-40d5-b9df-64d90f86636b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aacb67d6-8322-49d8-a7b5-66b7bd09b4c7",
+        "https://data.kcg.gov.tw/File/DirectDownload/aacb67d6-8322-49d8-a7b5-66b7bd09b4c7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/26489f5c-3a8c-4486-9dbe-66ebc2a6ba68",
+        "https://data.kcg.gov.tw/File/DirectDownload/26489f5c-3a8c-4486-9dbe-66ebc2a6ba68",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dac658cc-af2e-430c-a3f8-837f3b17ca69",
+        "https://data.kcg.gov.tw/File/DirectDownload/dac658cc-af2e-430c-a3f8-837f3b17ca69",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c1461fd3-dcf4-4214-8e02-843d9b32bd76",
+        "https://data.kcg.gov.tw/File/DirectDownload/c1461fd3-dcf4-4214-8e02-843d9b32bd76",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/de25ab38-9698-4d2a-a528-9d87df164835",
+        "https://data.kcg.gov.tw/File/DirectDownload/de25ab38-9698-4d2a-a528-9d87df164835",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dfe6edd5-d8fe-4e01-873e-d559dda51df3",
+        "https://data.kcg.gov.tw/File/DirectDownload/dfe6edd5-d8fe-4e01-873e-d559dda51df3"
+      ]
+    },
+    {
+      "id": "43821",
+      "name": "高雄市醫療院所資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1b381cc4-7da0-42b6-b9be-b49edf87775d",
+        "https://data.kcg.gov.tw/File/DirectDownload/1b381cc4-7da0-42b6-b9be-b49edf87775d"
+      ]
+    },
+    {
+      "id": "43827",
+      "name": "高雄市心理諮商機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e2ea0bd8-31cf-4fa5-94c8-1f8aa3794ecc",
+        "https://data.kcg.gov.tw/File/DirectDownload/e2ea0bd8-31cf-4fa5-94c8-1f8aa3794ecc"
+      ]
+    },
+    {
+      "id": "43863",
+      "name": "高雄市急救責任醫院",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e77bb340-c3d8-4e10-86b0-647e8ebee8b5",
+        "https://data.kcg.gov.tw/File/DirectDownload/e77bb340-c3d8-4e10-86b0-647e8ebee8b5"
+      ]
+    },
+    {
+      "id": "75746",
+      "name": "高雄市失智相關資源與窗口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/612d62a5-f551-4ca8-869d-37769055f7db",
+        "https://data.kcg.gov.tw/File/DirectDownload/612d62a5-f551-4ca8-869d-37769055f7db",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f32ceadf-bd75-4f07-a12c-872f3f2770b9",
+        "https://data.kcg.gov.tw/File/DirectDownload/f32ceadf-bd75-4f07-a12c-872f3f2770b9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90d4714f-23aa-41ab-aea9-88472f56cd40",
+        "https://data.kcg.gov.tw/File/DirectDownload/90d4714f-23aa-41ab-aea9-88472f56cd40",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0ae9c0b8-8e07-4915-98fc-892ca6f91e51",
+        "https://data.kcg.gov.tw/File/DirectDownload/0ae9c0b8-8e07-4915-98fc-892ca6f91e51",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e93de8f3-f9cc-42f0-8019-96aba955ee40",
+        "https://data.kcg.gov.tw/File/DirectDownload/e93de8f3-f9cc-42f0-8019-96aba955ee40",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/33600a00-d1d2-4c2c-81b8-a37b1bc291fd",
+        "https://data.kcg.gov.tw/File/DirectDownload/33600a00-d1d2-4c2c-81b8-a37b1bc291fd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ac9af794-c651-4670-9df7-bf7ada9609b2",
+        "https://data.kcg.gov.tw/File/DirectDownload/ac9af794-c651-4670-9df7-bf7ada9609b2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ec53db3a-a56c-4ca1-bddd-c3bb109e0959",
+        "https://data.kcg.gov.tw/File/DirectDownload/ec53db3a-a56c-4ca1-bddd-c3bb109e0959",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7c7adab8-f2ae-4390-b12d-d41a3c3d7e01",
+        "https://data.kcg.gov.tw/File/DirectDownload/7c7adab8-f2ae-4390-b12d-d41a3c3d7e01"
+      ]
+    },
+    {
+      "id": "75720",
+      "name": "高雄市哺(集)乳室場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/29505999-1c1a-45fa-a3b6-094cacd312bf",
+        "https://data.kcg.gov.tw/File/DirectDownload/29505999-1c1a-45fa-a3b6-094cacd312bf"
+      ]
+    },
+    {
+      "id": "86402",
+      "name": "高雄市精神護理之家",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ae75f89b-db9e-46bc-91a6-83ca0fcd19b0",
+        "https://data.kcg.gov.tw/File/DirectDownload/ae75f89b-db9e-46bc-91a6-83ca0fcd19b0"
+      ]
+    },
+    {
+      "id": "104563",
+      "name": "高雄市民間救護車設立登記機構聯繫一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90c82f83-7aa6-4332-a108-ec301bbe7a0c",
+        "https://data.kcg.gov.tw/File/DirectDownload/90c82f83-7aa6-4332-a108-ec301bbe7a0c"
+      ]
+    },
+    {
+      "id": "104564",
+      "name": "高雄市預立醫療諮詢醫療機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f4e6e589-4f9d-4caf-8e63-f3c7dbc2c7f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/f4e6e589-4f9d-4caf-8e63-f3c7dbc2c7f3"
+      ]
+    },
+    {
+      "id": "104565",
+      "name": "高雄市醫療觀光機構名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3e6b7d50-25a8-4b1a-9312-031c30295e6e",
+        "https://data.kcg.gov.tw/File/DirectDownload/3e6b7d50-25a8-4b1a-9312-031c30295e6e"
+      ]
+    },
+    {
+      "id": "104572",
+      "name": "高雄市105年10月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63c8651a-b967-428d-abad-f5a0c615475f",
+        "https://data.kcg.gov.tw/File/DirectDownload/63c8651a-b967-428d-abad-f5a0c615475f"
+      ]
+    },
+    {
+      "id": "104704",
+      "name": "高雄市105年4月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ff137279-c25e-4298-bd7a-421b1408fef0",
+        "https://data.kcg.gov.tw/File/DirectDownload/ff137279-c25e-4298-bd7a-421b1408fef0"
+      ]
+    },
+    {
+      "id": "104710",
+      "name": "高雄市潛伏結核感染治療指定醫院暨合作醫師名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ec73bd8d-4b73-4e89-a372-7084b2ccb7ea",
+        "https://data.kcg.gov.tw/File/DirectDownload/ec73bd8d-4b73-4e89-a372-7084b2ccb7ea"
+      ]
+    },
+    {
+      "id": "104721",
+      "name": "高雄市105年登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c0f39a3e-9cf9-44fb-9005-b5c8542f4ad3",
+        "https://data.kcg.gov.tw/File/DirectDownload/c0f39a3e-9cf9-44fb-9005-b5c8542f4ad3"
+      ]
+    },
+    {
+      "id": "104977",
+      "name": "高雄市二代戒菸服務機構(左營區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ce784a34-fea9-4998-90cb-11fb242fc092",
+        "https://data.kcg.gov.tw/File/DirectDownload/ce784a34-fea9-4998-90cb-11fb242fc092"
+      ]
+    },
+    {
+      "id": "104981",
+      "name": "高雄市二代戒菸服務機構(仁武區、大社區、鳥松區、大樹區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f77d1d11-94bd-45e0-a0c1-35eeab693e89",
+        "https://data.kcg.gov.tw/File/DirectDownload/f77d1d11-94bd-45e0-a0c1-35eeab693e89"
+      ]
+    },
+    {
+      "id": "104959",
+      "name": "高雄市110年酒癮合作醫院",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85846ed9-91e7-4668-9c71-24d074ed0679",
+        "https://data.kcg.gov.tw/File/DirectDownload/85846ed9-91e7-4668-9c71-24d074ed0679"
+      ]
+    },
+    {
+      "id": "104965",
+      "name": "高雄市網路成癮治療服務資源表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1a97fcf8-a35c-4dc9-a803-3a390a688bb0",
+        "https://data.kcg.gov.tw/File/DirectDownload/1a97fcf8-a35c-4dc9-a803-3a390a688bb0"
+      ]
+    },
+    {
+      "id": "104967",
+      "name": "高雄市二代戒菸服務機構(鼓山區、旗津區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/685e016f-6ded-4130-9e56-40699985900a",
+        "https://data.kcg.gov.tw/File/DirectDownload/685e016f-6ded-4130-9e56-40699985900a"
+      ]
+    },
+    {
+      "id": "104970",
+      "name": "高雄市二代戒菸服務機構(楠梓區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7778345d-9932-4168-bf67-34be971416be",
+        "https://data.kcg.gov.tw/File/DirectDownload/7778345d-9932-4168-bf67-34be971416be"
+      ]
+    },
+    {
+      "id": "104971",
+      "name": "高雄市二代戒菸服務機構(新興區、前金區、鹽埕區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e63646fa-1b55-4457-9fa5-9f2a1f50b929",
+        "https://data.kcg.gov.tw/File/DirectDownload/e63646fa-1b55-4457-9fa5-9f2a1f50b929"
+      ]
+    },
+    {
+      "id": "104972",
+      "name": "高雄市二代戒菸服務機構(苓雅區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cff84c24-51aa-42e8-8fa2-574c4969bfab",
+        "https://data.kcg.gov.tw/File/DirectDownload/cff84c24-51aa-42e8-8fa2-574c4969bfab"
+      ]
+    },
+    {
+      "id": "104974",
+      "name": "高雄市二代戒菸服務機構(岡山區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3240513c-4a7e-4801-94fd-26de934cde17",
+        "https://data.kcg.gov.tw/File/DirectDownload/3240513c-4a7e-4801-94fd-26de934cde17"
+      ]
+    },
+    {
+      "id": "106014",
+      "name": "105年度高雄市預防接種合約醫療院所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/509da6a0-4428-4e47-beb0-be729b1c8f2a",
+        "https://data.kcg.gov.tw/File/DirectDownload/509da6a0-4428-4e47-beb0-be729b1c8f2a"
+      ]
+    },
+    {
+      "id": "106138",
+      "name": "高雄市107年12月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d3460b1e-0107-447c-8da5-0debb0d6683c",
+        "https://data.kcg.gov.tw/File/DirectDownload/d3460b1e-0107-447c-8da5-0debb0d6683c"
+      ]
+    },
+    {
+      "id": "106141",
+      "name": "高雄市107年9月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/80b066dd-6989-4ff3-8d0b-fb7a7bc8dfb9",
+        "https://data.kcg.gov.tw/File/DirectDownload/80b066dd-6989-4ff3-8d0b-fb7a7bc8dfb9"
+      ]
+    },
+    {
+      "id": "106143",
+      "name": "高雄市107年7月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0935d3ac-9e42-48a9-9cb4-1f3718181d78",
+        "https://data.kcg.gov.tw/File/DirectDownload/0935d3ac-9e42-48a9-9cb4-1f3718181d78"
+      ]
+    },
+    {
+      "id": "106145",
+      "name": "高雄市107年5月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4fb23db6-f19e-4d67-a007-69bf77919c62",
+        "https://data.kcg.gov.tw/File/DirectDownload/4fb23db6-f19e-4d67-a007-69bf77919c62"
+      ]
+    },
+    {
+      "id": "106146",
+      "name": "高雄市107年4月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6f37c054-932c-49c0-924b-220cc568e2d9",
+        "https://data.kcg.gov.tw/File/DirectDownload/6f37c054-932c-49c0-924b-220cc568e2d9"
+      ]
+    },
+    {
+      "id": "106147",
+      "name": "高雄市107年3月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72c7b00d-e096-4db6-8197-7ca20f9bb69a",
+        "https://data.kcg.gov.tw/File/DirectDownload/72c7b00d-e096-4db6-8197-7ca20f9bb69a"
+      ]
+    },
+    {
+      "id": "106149",
+      "name": "高雄市107年1月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bc311202-9660-4af7-bd30-2c9ff0b96aba",
+        "https://data.kcg.gov.tw/File/DirectDownload/bc311202-9660-4af7-bd30-2c9ff0b96aba"
+      ]
+    },
+    {
+      "id": "106151",
+      "name": "高雄市106年11月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6fe8823b-efdb-44ff-a693-cc560e46dd07",
+        "https://data.kcg.gov.tw/File/DirectDownload/6fe8823b-efdb-44ff-a693-cc560e46dd07"
+      ]
+    },
+    {
+      "id": "127759",
+      "name": "2020年高雄市健康便利站-橋頭區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63ddce37-af1a-4aed-9450-1af12c8313ad",
+        "https://data.kcg.gov.tw/File/DirectDownload/63ddce37-af1a-4aed-9450-1af12c8313ad"
+      ]
+    },
+    {
+      "id": "127781",
+      "name": "2020年高雄市健康便利站-杉林區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/69eaa8df-ac4f-4d83-942a-71c5c042ce72",
+        "https://data.kcg.gov.tw/File/DirectDownload/69eaa8df-ac4f-4d83-942a-71c5c042ce72"
+      ]
+    },
+    {
+      "id": "127782",
+      "name": "2020年高雄市健康便利站-甲仙區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a8bf69fe-bf6d-4812-9b52-f4c30dd44063",
+        "https://data.kcg.gov.tw/File/DirectDownload/a8bf69fe-bf6d-4812-9b52-f4c30dd44063"
+      ]
+    },
+    {
+      "id": "127785",
+      "name": "2020年高雄市健康便利站-六龜區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e3d7b483-a0e8-406e-8957-50748cd9f806",
+        "https://data.kcg.gov.tw/File/DirectDownload/e3d7b483-a0e8-406e-8957-50748cd9f806"
+      ]
+    },
+    {
+      "id": "127787",
+      "name": "2020年高雄市健康便利站-小港區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1128e3ad-6637-4822-b628-7c7596bb859c",
+        "https://data.kcg.gov.tw/File/DirectDownload/1128e3ad-6637-4822-b628-7c7596bb859c"
+      ]
+    },
+    {
+      "id": "127788",
+      "name": "2020年高雄市健康便利站-大樹區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d34e2856-e110-4e5e-909a-7cb1cdf72a2c",
+        "https://data.kcg.gov.tw/File/DirectDownload/d34e2856-e110-4e5e-909a-7cb1cdf72a2c"
+      ]
+    },
+    {
+      "id": "127789",
+      "name": "2020年高雄市健康便利站-大寮區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7b81542b-ea0a-4b86-a8b3-6d1709d97092",
+        "https://data.kcg.gov.tw/File/DirectDownload/7b81542b-ea0a-4b86-a8b3-6d1709d97092"
+      ]
+    },
+    {
+      "id": "127765",
+      "name": "2020年高雄市健康便利站-楠梓區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b9bf7368-9e8d-4ac3-ac5a-a084c9399524",
+        "https://data.kcg.gov.tw/File/DirectDownload/b9bf7368-9e8d-4ac3-ac5a-a084c9399524"
+      ]
+    },
+    {
+      "id": "127766",
+      "name": "2020年高雄市健康便利站-新興區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/edc5d6fd-c079-4f11-9417-a71f9bd2e80a",
+        "https://data.kcg.gov.tw/File/DirectDownload/edc5d6fd-c079-4f11-9417-a71f9bd2e80a"
+      ]
+    },
+    {
+      "id": "127769",
+      "name": "2020年高雄市健康便利站-梓官區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cbafd8c5-ac38-40cd-8db7-e414ef11cc3d",
+        "https://data.kcg.gov.tw/File/DirectDownload/cbafd8c5-ac38-40cd-8db7-e414ef11cc3d"
+      ]
+    },
+    {
+      "id": "127770",
+      "name": "2020年高雄市健康便利站-桃源區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/179cc3ca-48db-4593-824a-b3ac8900108a",
+        "https://data.kcg.gov.tw/File/DirectDownload/179cc3ca-48db-4593-824a-b3ac8900108a"
+      ]
+    },
+    {
+      "id": "127771",
+      "name": "2020年高雄市健康便利站-茄萣區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dc16d546-18ed-44cd-9994-d2cf23a079d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/dc16d546-18ed-44cd-9994-d2cf23a079d6"
+      ]
+    },
+    {
+      "id": "127773",
+      "name": "2020年高雄市健康便利站-苓雅區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f66ebccb-154c-4f3b-bb47-5f81d2f51d7e",
+        "https://data.kcg.gov.tw/File/DirectDownload/f66ebccb-154c-4f3b-bb47-5f81d2f51d7e"
+      ]
+    },
+    {
+      "id": "127776",
+      "name": "2020年高雄市健康便利站-阿蓮區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/466b0195-ac51-4b65-9c94-ce285962eacb",
+        "https://data.kcg.gov.tw/File/DirectDownload/466b0195-ac51-4b65-9c94-ce285962eacb"
+      ]
+    },
+    {
+      "id": "128664",
+      "name": "高雄市AED裝設地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/55afa833-a9ba-408d-9ba2-fcc31aa86709",
+        "https://data.kcg.gov.tw/File/DirectDownload/55afa833-a9ba-408d-9ba2-fcc31aa86709"
+      ]
+    },
+    {
+      "id": "101953",
+      "name": "高雄市老人免費裝假牙特約醫療院所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e18e737a-b5ab-4c0e-aaa2-8491eebbd5a0",
+        "https://data.kcg.gov.tw/File/DirectDownload/e18e737a-b5ab-4c0e-aaa2-8491eebbd5a0"
+      ]
+    },
+    {
+      "id": "87265",
+      "name": "高雄市清潔針具自動服務機服務點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/132dda93-fa83-43cb-9a84-e633b3da19cc",
+        "https://data.kcg.gov.tw/File/DirectDownload/132dda93-fa83-43cb-9a84-e633b3da19cc"
+      ]
+    },
+    {
+      "id": "93806",
+      "name": "高雄市公費流感抗病毒藥劑合約醫療院所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e0cef79a-b6ef-49b0-b0d1-76ae515e03b7",
+        "https://data.kcg.gov.tw/File/DirectDownload/e0cef79a-b6ef-49b0-b0d1-76ae515e03b7"
+      ]
+    },
+    {
+      "id": "138205",
+      "name": "高雄市身心障礙鑑定醫院及各區公所承辦窗口聯繫表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c05b5a1d-9547-4135-8d14-7bbbbeb8a379",
+        "https://data.kcg.gov.tw/File/DirectDownload/c05b5a1d-9547-4135-8d14-7bbbbeb8a379",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/39f46e7d-54e9-4064-a409-927f6cf61bff",
+        "https://data.kcg.gov.tw/File/DirectDownload/39f46e7d-54e9-4064-a409-927f6cf61bff"
+      ]
+    },
+    {
+      "id": "143416",
+      "name": "高雄市加水站資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4678f62b-9b17-4159-8278-0f01e922839c",
+        "https://data.kcg.gov.tw/File/DirectDownload/4678f62b-9b17-4159-8278-0f01e922839c"
+      ]
+    },
+    {
+      "id": "161364",
+      "name": "高雄市112年居家復能照護CA07服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ee35c47-9e3e-4fe9-8eb3-d699761eff47",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ee35c47-9e3e-4fe9-8eb3-d699761eff47"
+      ]
+    },
+    {
+      "id": "161343",
+      "name": "高雄市112年日間照顧中心喘息服務(GA03、GA04)特約單位",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/52b314e6-8afe-46c6-87af-2ea568ef360b",
+        "https://data.kcg.gov.tw/File/DirectDownload/52b314e6-8afe-46c6-87af-2ea568ef360b"
+      ]
+    },
+    {
+      "id": "161344",
+      "name": "高雄市112年居家喘息服務(GA09)特約單位",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8e745bbd-6075-458d-af42-0422b05078cf",
+        "https://data.kcg.gov.tw/File/DirectDownload/8e745bbd-6075-458d-af42-0422b05078cf"
+      ]
+    },
+    {
+      "id": "161368",
+      "name": "高雄市112年臥床或長期活動受限照護CB04服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/004e3c77-1c3c-4c48-b470-ede5723a5a06",
+        "https://data.kcg.gov.tw/File/DirectDownload/004e3c77-1c3c-4c48-b470-ede5723a5a06"
+      ]
+    },
+    {
+      "id": "161915",
+      "name": "高雄市110年居家式照顧服務特約單位名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cfae6c50-0092-4e06-8eaf-042b800e1570",
+        "https://data.kcg.gov.tw/File/DirectDownload/cfae6c50-0092-4e06-8eaf-042b800e1570",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d9c1e8e-9bbe-4ce2-837d-5d20afa66370",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d9c1e8e-9bbe-4ce2-837d-5d20afa66370",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7cae6569-26b8-467c-9a63-828470936d8b",
+        "https://data.kcg.gov.tw/File/DirectDownload/7cae6569-26b8-467c-9a63-828470936d8b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c040ce84-dec1-42d5-9be4-82d70b9f5764",
+        "https://data.kcg.gov.tw/File/DirectDownload/c040ce84-dec1-42d5-9be4-82d70b9f5764",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f4a52e90-5649-4fb2-9d29-a9f32f0f82e5",
+        "https://data.kcg.gov.tw/File/DirectDownload/f4a52e90-5649-4fb2-9d29-a9f32f0f82e5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4944955d-e9c2-471b-a187-c479ccaad72f",
+        "https://data.kcg.gov.tw/File/DirectDownload/4944955d-e9c2-471b-a187-c479ccaad72f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0e7d7db2-7137-49a3-843c-d46cd559259a",
+        "https://data.kcg.gov.tw/File/DirectDownload/0e7d7db2-7137-49a3-843c-d46cd559259a"
+      ]
+    },
+    {
+      "id": "161916",
+      "name": "高雄市111年居家護理指導與諮詢CD02服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/49f27eab-9803-4194-8216-20f3dcf7f061",
+        "https://data.kcg.gov.tw/File/DirectDownload/49f27eab-9803-4194-8216-20f3dcf7f061",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b28f08d9-be88-4b8c-b4b4-261aed66e033",
+        "https://data.kcg.gov.tw/File/DirectDownload/b28f08d9-be88-4b8c-b4b4-261aed66e033",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a2bea77a-4f9e-4013-b666-2d29882daf0f",
+        "https://data.kcg.gov.tw/File/DirectDownload/a2bea77a-4f9e-4013-b666-2d29882daf0f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed8b8829-3f4f-409a-bf57-310b96018dee",
+        "https://data.kcg.gov.tw/File/DirectDownload/ed8b8829-3f4f-409a-bf57-310b96018dee",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7727b625-32a7-4146-9007-7069db9dd34d",
+        "https://data.kcg.gov.tw/File/DirectDownload/7727b625-32a7-4146-9007-7069db9dd34d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/57e1f9f6-e0a6-4db5-b0b5-e340e4704fa0",
+        "https://data.kcg.gov.tw/File/DirectDownload/57e1f9f6-e0a6-4db5-b0b5-e340e4704fa0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d06a4cc9-85a7-446e-a7d8-e5eee539241e",
+        "https://data.kcg.gov.tw/File/DirectDownload/d06a4cc9-85a7-446e-a7d8-e5eee539241e"
+      ]
+    },
+    {
+      "id": "161918",
+      "name": "高雄市111年臥床或長期活動受限照護CB04服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4dd148ef-4984-4af8-9133-2a61d6c871a1",
+        "https://data.kcg.gov.tw/File/DirectDownload/4dd148ef-4984-4af8-9133-2a61d6c871a1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dc1bded4-450d-4cdb-b5db-50908a47f7c9",
+        "https://data.kcg.gov.tw/File/DirectDownload/dc1bded4-450d-4cdb-b5db-50908a47f7c9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/333ac72b-5b46-4d9b-a82c-5f2b7a3b76ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/333ac72b-5b46-4d9b-a82c-5f2b7a3b76ff",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/87ebfa15-5a9c-43b7-955a-8020a3b5b92f",
+        "https://data.kcg.gov.tw/File/DirectDownload/87ebfa15-5a9c-43b7-955a-8020a3b5b92f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e1d59050-c0a8-472b-8934-9ac8cd23305c",
+        "https://data.kcg.gov.tw/File/DirectDownload/e1d59050-c0a8-472b-8934-9ac8cd23305c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/473f3667-b6d3-4dd4-b420-af23e0710715",
+        "https://data.kcg.gov.tw/File/DirectDownload/473f3667-b6d3-4dd4-b420-af23e0710715",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/89926955-3247-41ff-9ce8-e920f4b310ee",
+        "https://data.kcg.gov.tw/File/DirectDownload/89926955-3247-41ff-9ce8-e920f4b310ee"
+      ]
+    },
+    {
+      "id": "161923",
+      "name": "高雄市111年小規機夜宿喘息GA06服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c2f8ec93-e240-42f3-aae3-033091c8c503",
+        "https://data.kcg.gov.tw/File/DirectDownload/c2f8ec93-e240-42f3-aae3-033091c8c503",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/386831eb-0d5e-4a4b-ae6c-30e7cd53cf6a",
+        "https://data.kcg.gov.tw/File/DirectDownload/386831eb-0d5e-4a4b-ae6c-30e7cd53cf6a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bbb85d4c-5c47-48a0-89c0-dc2ed236577c",
+        "https://data.kcg.gov.tw/File/DirectDownload/bbb85d4c-5c47-48a0-89c0-dc2ed236577c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/74132f69-6b93-4908-b0fa-e5e6fceec586",
+        "https://data.kcg.gov.tw/File/DirectDownload/74132f69-6b93-4908-b0fa-e5e6fceec586"
+      ]
+    },
+    {
+      "id": "161926",
+      "name": "高雄市111年居家喘息GA09服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/22ef49dc-02ca-4853-ae29-0a16575eecf9",
+        "https://data.kcg.gov.tw/File/DirectDownload/22ef49dc-02ca-4853-ae29-0a16575eecf9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b4e6445d-8e2f-4328-aebd-0f06ea3db80b",
+        "https://data.kcg.gov.tw/File/DirectDownload/b4e6445d-8e2f-4328-aebd-0f06ea3db80b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b6521d8b-9f5f-47cd-9784-3f1145ec0ecd",
+        "https://data.kcg.gov.tw/File/DirectDownload/b6521d8b-9f5f-47cd-9784-3f1145ec0ecd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0660895c-e5dd-441c-8f10-41f73669253f",
+        "https://data.kcg.gov.tw/File/DirectDownload/0660895c-e5dd-441c-8f10-41f73669253f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ad62b9c1-e4e3-46ac-a414-7e2379648c6c",
+        "https://data.kcg.gov.tw/File/DirectDownload/ad62b9c1-e4e3-46ac-a414-7e2379648c6c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ba90eff2-c25c-4952-8955-adf898dac688",
+        "https://data.kcg.gov.tw/File/DirectDownload/ba90eff2-c25c-4952-8955-adf898dac688",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9509675d-6e0c-455b-905c-edd2ec880014",
+        "https://data.kcg.gov.tw/File/DirectDownload/9509675d-6e0c-455b-905c-edd2ec880014"
+      ]
+    },
+    {
+      "id": "160654",
+      "name": "民生醫院醫師簡介",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d600587-6178-4034-bc85-e26316b3899b"
+      ]
+    },
+    {
+      "id": "163861",
+      "name": "108年高雄市健康促進醫院名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e7d612c9-69a9-43eb-817d-56e4b6e39278",
+        "https://data.kcg.gov.tw/File/DirectDownload/e7d612c9-69a9-43eb-817d-56e4b6e39278"
+      ]
+    },
+    {
+      "id": "86397",
+      "name": "高雄市母嬰親善醫療院所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/747e018a-504b-41a1-b3ad-a70a6d052b65",
+        "https://data.kcg.gov.tw/File/DirectDownload/747e018a-504b-41a1-b3ad-a70a6d052b65"
+      ]
+    },
+    {
+      "id": "86400",
+      "name": "高雄市TB接觸者X光免部分負擔醫院",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4845207a-e237-4115-ba29-d90fa139a56c",
+        "https://data.kcg.gov.tw/File/DirectDownload/4845207a-e237-4115-ba29-d90fa139a56c"
+      ]
+    },
+    {
+      "id": "86401",
+      "name": "高雄市心理加油站服務據點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ac02cef-c6f1-4127-9a92-d8d9eda48d17",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ac02cef-c6f1-4127-9a92-d8d9eda48d17"
+      ]
+    },
+    {
+      "id": "86403",
+      "name": "高雄市精神復健機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/303aea8c-0bb1-4682-8875-ed795140f1b3",
+        "https://data.kcg.gov.tw/File/DirectDownload/303aea8c-0bb1-4682-8875-ed795140f1b3"
+      ]
+    },
+    {
+      "id": "86411",
+      "name": "高雄市長照服務申請--長期照顧管理中心",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/35d03aa0-9bef-4320-804f-00ba4b96faa8",
+        "https://data.kcg.gov.tw/File/DirectDownload/35d03aa0-9bef-4320-804f-00ba4b96faa8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e6e4e7d5-cac2-4032-8e6b-2a9f226009f5",
+        "https://data.kcg.gov.tw/File/DirectDownload/e6e4e7d5-cac2-4032-8e6b-2a9f226009f5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e48f10e0-fd3e-48ca-9eeb-5afe4af8d83b",
+        "https://data.kcg.gov.tw/File/DirectDownload/e48f10e0-fd3e-48ca-9eeb-5afe4af8d83b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b567de6c-fef6-4fe1-a305-759de4365bbe",
+        "https://data.kcg.gov.tw/File/DirectDownload/b567de6c-fef6-4fe1-a305-759de4365bbe",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/79a289ac-53f9-4eac-80b0-768c43feb3d1",
+        "https://data.kcg.gov.tw/File/DirectDownload/79a289ac-53f9-4eac-80b0-768c43feb3d1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f76721fd-1fb8-49a9-848d-c87bb689af5d",
+        "https://data.kcg.gov.tw/File/DirectDownload/f76721fd-1fb8-49a9-848d-c87bb689af5d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/48a86d88-b324-4807-986a-f9e525d6ca86",
+        "https://data.kcg.gov.tw/File/DirectDownload/48a86d88-b324-4807-986a-f9e525d6ca86"
+      ]
+    },
+    {
+      "id": "86299",
+      "name": "高雄市老人健檢醫療院所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/776b1e36-0112-4a72-9c89-c3b68eb3990d",
+        "https://data.kcg.gov.tw/File/DirectDownload/776b1e36-0112-4a72-9c89-c3b68eb3990d"
+      ]
+    },
+    {
+      "id": "86304",
+      "name": "高雄市居家護理所名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/33ed17a3-170e-4895-b894-613bd0764614",
+        "https://data.kcg.gov.tw/File/DirectDownload/33ed17a3-170e-4895-b894-613bd0764614"
+      ]
+    },
+    {
+      "id": "43799",
+      "name": "高雄市登革熱整合式醫療照護計畫合約醫療院所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f3c1f8d5-884c-430e-a887-d5861e9dfc0b",
+        "https://data.kcg.gov.tw/File/DirectDownload/f3c1f8d5-884c-430e-a887-d5861e9dfc0b"
+      ]
+    },
+    {
+      "id": "47196",
+      "name": "高雄市歷年登革熱感染分佈資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/180ed0fb-8fbc-4614-8cf3-0e4502d18829",
+        "https://data.kcg.gov.tw/File/DirectDownload/180ed0fb-8fbc-4614-8cf3-0e4502d18829",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6e0e6f29-2ecd-4b2d-9143-eb9d4d01ae29",
+        "https://data.kcg.gov.tw/File/DirectDownload/6e0e6f29-2ecd-4b2d-9143-eb9d4d01ae29",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dc411df7-e9f3-411f-a10d-efe7ba6ce8a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/dc411df7-e9f3-411f-a10d-efe7ba6ce8a3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/36a7e983-6c83-4eaf-b7e1-fceaac10cbc9",
+        "https://data.kcg.gov.tw/File/DirectDownload/36a7e983-6c83-4eaf-b7e1-fceaac10cbc9"
+      ]
+    },
+    {
+      "id": "87718",
+      "name": "高雄市指定藥癮戒治機構及替代治療機構及非鴉片類藥癮治療補助機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fab6f1cc-d2b2-4d48-97be-1a5e68a2607c",
+        "https://data.kcg.gov.tw/File/DirectDownload/fab6f1cc-d2b2-4d48-97be-1a5e68a2607c"
+      ]
+    },
+    {
+      "id": "87259",
+      "name": "高雄市二代戒菸合約機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/111621ba-db29-4fe2-b310-a85125804e27",
+        "https://data.kcg.gov.tw/File/DirectDownload/111621ba-db29-4fe2-b310-a85125804e27"
+      ]
+    },
+    {
+      "id": "87261",
+      "name": "高雄市一般護理之家立案機構名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9074b029-b99c-4e67-89d1-a3c02fcd87d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/9074b029-b99c-4e67-89d1-a3c02fcd87d6"
+      ]
+    },
+    {
+      "id": "87270",
+      "name": "高雄市衛生自主管理標章認證業者名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a418d5f-5562-4dc1-9b0a-f2045bd0f536",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a418d5f-5562-4dc1-9b0a-f2045bd0f536"
+      ]
+    },
+    {
+      "id": "87271",
+      "name": "高雄市優良餐飲認證業者名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/26ebc524-3205-4e48-ae92-8b90434cf35c",
+        "https://data.kcg.gov.tw/File/DirectDownload/26ebc524-3205-4e48-ae92-8b90434cf35c"
+      ]
+    },
+    {
+      "id": "114123",
+      "name": "向網路服務供應者要求提供網路個人資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b45264fc-c635-4398-8a8d-76f3245739b6",
+        "https://data.kcg.gov.tw/File/DirectDownload/b45264fc-c635-4398-8a8d-76f3245739b6"
+      ]
+    },
+    {
+      "id": "104703",
+      "name": "高雄市105年5月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a6a7d4c-95d3-4e10-9930-986883271ce5",
+        "https://data.kcg.gov.tw/File/DirectDownload/5a6a7d4c-95d3-4e10-9930-986883271ce5"
+      ]
+    },
+    {
+      "id": "104705",
+      "name": "高雄市105年3月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a971051-a6b3-42db-b3ff-25e3b3153cf1",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a971051-a6b3-42db-b3ff-25e3b3153cf1"
+      ]
+    },
+    {
+      "id": "104720",
+      "name": "高雄市流感疫苗接種合約醫療院所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c8e64bb7-7f3b-4f42-9ccc-37528b757e23",
+        "https://data.kcg.gov.tw/File/DirectDownload/c8e64bb7-7f3b-4f42-9ccc-37528b757e23"
+      ]
+    },
+    {
+      "id": "104699",
+      "name": "高雄市105年9月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ae157556-3d09-4ed7-9220-938ee263933f",
+        "https://data.kcg.gov.tw/File/DirectDownload/ae157556-3d09-4ed7-9220-938ee263933f"
+      ]
+    },
+    {
+      "id": "104700",
+      "name": "高雄市105年8月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/88c1c3f3-f797-4873-8438-400c61c8b3d8",
+        "https://data.kcg.gov.tw/File/DirectDownload/88c1c3f3-f797-4873-8438-400c61c8b3d8"
+      ]
+    },
+    {
+      "id": "104702",
+      "name": "高雄市105年6月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dcee6e5a-81ef-4977-826c-14f72135f550",
+        "https://data.kcg.gov.tw/File/DirectDownload/dcee6e5a-81ef-4977-826c-14f72135f550"
+      ]
+    },
+    {
+      "id": "104966",
+      "name": "高雄市二代戒菸服務機構(旗山區、美濃區、內門區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/689d7b0c-49f8-4c40-9b57-bc4fa094bd38",
+        "https://data.kcg.gov.tw/File/DirectDownload/689d7b0c-49f8-4c40-9b57-bc4fa094bd38"
+      ]
+    },
+    {
+      "id": "104969",
+      "name": "高雄市二代戒菸服務機構(路竹區、阿蓮區、湖內區、茄萣區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dd4e9c6b-eb75-4220-a89e-b6bed9c4eec9",
+        "https://data.kcg.gov.tw/File/DirectDownload/dd4e9c6b-eb75-4220-a89e-b6bed9c4eec9"
+      ]
+    },
+    {
+      "id": "104976",
+      "name": "高雄市二代戒菸服務機構(田寮區、燕巢區、橋頭區、梓官區、彌陀區、永安區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5feef23e-68f2-4ab0-9735-4c870543cdce",
+        "https://data.kcg.gov.tw/File/DirectDownload/5feef23e-68f2-4ab0-9735-4c870543cdce"
+      ]
+    },
+    {
+      "id": "104982",
+      "name": "高雄市二代戒菸服務機構(三民區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9867ac71-34f8-4c2a-96d9-11e744e1ff32",
+        "https://data.kcg.gov.tw/File/DirectDownload/9867ac71-34f8-4c2a-96d9-11e744e1ff32"
+      ]
+    },
+    {
+      "id": "106140",
+      "name": "高雄市107年10月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a954232e-d92f-4242-8524-bbdfd548614e",
+        "https://data.kcg.gov.tw/File/DirectDownload/a954232e-d92f-4242-8524-bbdfd548614e"
+      ]
+    },
+    {
+      "id": "106165",
+      "name": "高雄市106年1月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f3759f1b-7b48-438e-b35d-99f89e2dd311",
+        "https://data.kcg.gov.tw/File/DirectDownload/f3759f1b-7b48-438e-b35d-99f89e2dd311"
+      ]
+    },
+    {
+      "id": "106142",
+      "name": "高雄市107年8月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/21b9b087-2912-4ffa-b166-9649edc4a191",
+        "https://data.kcg.gov.tw/File/DirectDownload/21b9b087-2912-4ffa-b166-9649edc4a191"
+      ]
+    },
+    {
+      "id": "106150",
+      "name": "高雄市106年12月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fb208117-867e-43aa-bb44-1b8cfae1a4a9",
+        "https://data.kcg.gov.tw/File/DirectDownload/fb208117-867e-43aa-bb44-1b8cfae1a4a9"
+      ]
+    },
+    {
+      "id": "106152",
+      "name": "高雄市106年10月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6776f842-11c7-4bd9-9ae8-3c203cedfe48",
+        "https://data.kcg.gov.tw/File/DirectDownload/6776f842-11c7-4bd9-9ae8-3c203cedfe48"
+      ]
+    },
+    {
+      "id": "106154",
+      "name": "高雄市106年8月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/16d3463c-859d-452c-b563-ed82532bd481",
+        "https://data.kcg.gov.tw/File/DirectDownload/16d3463c-859d-452c-b563-ed82532bd481"
+      ]
+    },
+    {
+      "id": "106159",
+      "name": "高雄市106年3月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c3f3ab5c-3b9b-4d77-9dc2-af542bb9e619",
+        "https://data.kcg.gov.tw/File/DirectDownload/c3f3ab5c-3b9b-4d77-9dc2-af542bb9e619"
+      ]
+    },
+    {
+      "id": "106363",
+      "name": "108年高雄市母嬰親善醫療院所名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4924be63-d804-4872-a67a-0eb24cf9d100",
+        "https://data.kcg.gov.tw/File/DirectDownload/4924be63-d804-4872-a67a-0eb24cf9d100"
+      ]
+    },
+    {
+      "id": "127757",
+      "name": "2020年高雄市健康便利站-彌陀區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9c753e58-e44c-4680-be3d-0cdcb1778568",
+        "https://data.kcg.gov.tw/File/DirectDownload/9c753e58-e44c-4680-be3d-0cdcb1778568"
+      ]
+    },
+    {
+      "id": "127758",
+      "name": "2020年高雄市健康便利站-燕巢區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/13049e7a-3acd-4d24-948e-b158463f506f",
+        "https://data.kcg.gov.tw/File/DirectDownload/13049e7a-3acd-4d24-948e-b158463f506f"
+      ]
+    },
+    {
+      "id": "127761",
+      "name": "2020年高雄市健康便利站-旗津區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/48c830ff-89e4-4daa-bee4-531ee89189fb",
+        "https://data.kcg.gov.tw/File/DirectDownload/48c830ff-89e4-4daa-bee4-531ee89189fb"
+      ]
+    },
+    {
+      "id": "127783",
+      "name": "2020年高雄市健康便利站-田寮區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ec2fa935-a868-4a57-a258-42215ef8fc20",
+        "https://data.kcg.gov.tw/File/DirectDownload/ec2fa935-a868-4a57-a258-42215ef8fc20"
+      ]
+    },
+    {
+      "id": "127784",
+      "name": "2020年高雄市健康便利站-永安區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d0f5aca9-499a-4085-b0cf-b6e5af80410e",
+        "https://data.kcg.gov.tw/File/DirectDownload/d0f5aca9-499a-4085-b0cf-b6e5af80410e"
+      ]
+    },
+    {
+      "id": "127763",
+      "name": "2020年高雄市健康便利站-鼓山區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bcc96728-7b6a-4935-9758-c24be8ff3f25",
+        "https://data.kcg.gov.tw/File/DirectDownload/bcc96728-7b6a-4935-9758-c24be8ff3f25"
+      ]
+    },
+    {
+      "id": "127764",
+      "name": "2020年高雄市健康便利站-路竹區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/951cc79b-a319-4a42-a8e6-c3c245deaf42",
+        "https://data.kcg.gov.tw/File/DirectDownload/951cc79b-a319-4a42-a8e6-c3c245deaf42"
+      ]
+    },
+    {
+      "id": "127767",
+      "name": "2020年高雄市健康便利站-湖內區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/80c54903-7e83-4fee-9205-1e18ed8d6558",
+        "https://data.kcg.gov.tw/File/DirectDownload/80c54903-7e83-4fee-9205-1e18ed8d6558"
+      ]
+    },
+    {
+      "id": "127768",
+      "name": "2020年高雄市健康便利站-鳥松區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f19dae08-2d23-4cb4-aab1-83a24ea7ed2d",
+        "https://data.kcg.gov.tw/File/DirectDownload/f19dae08-2d23-4cb4-aab1-83a24ea7ed2d"
+      ]
+    },
+    {
+      "id": "127774",
+      "name": "2020年高雄市健康便利站-前鎮區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e2e47c65-4ee7-45cd-9f0a-6ec093b6a9a0",
+        "https://data.kcg.gov.tw/File/DirectDownload/e2e47c65-4ee7-45cd-9f0a-6ec093b6a9a0"
+      ]
+    },
+    {
+      "id": "127780",
+      "name": "2020年高雄市健康便利站-那瑪夏區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5e2f489d-f809-45b6-abee-93133ba9f6de",
+        "https://data.kcg.gov.tw/File/DirectDownload/5e2f489d-f809-45b6-abee-93133ba9f6de"
+      ]
+    },
+    {
+      "id": "128321",
+      "name": "2020年高雄市健康便利站-美濃區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8448d75e-da68-43fb-8f83-d1d4e9940d37",
+        "https://data.kcg.gov.tw/File/DirectDownload/8448d75e-da68-43fb-8f83-d1d4e9940d37"
+      ]
+    },
+    {
+      "id": "161927",
+      "name": "高雄市111年居家復能照護CA07服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63d37409-ae95-4ac0-b9c6-2057bbe63474",
+        "https://data.kcg.gov.tw/File/DirectDownload/63d37409-ae95-4ac0-b9c6-2057bbe63474",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/49a5d45f-0e41-4e7a-92c4-2b7ec7a5fefb",
+        "https://data.kcg.gov.tw/File/DirectDownload/49a5d45f-0e41-4e7a-92c4-2b7ec7a5fefb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0182c5d5-ccbb-4d8e-bfd9-318513ff6cf8",
+        "https://data.kcg.gov.tw/File/DirectDownload/0182c5d5-ccbb-4d8e-bfd9-318513ff6cf8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a75d614-13ed-43f0-88e0-3eee61e68f0d",
+        "https://data.kcg.gov.tw/File/DirectDownload/9a75d614-13ed-43f0-88e0-3eee61e68f0d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e4dbedc4-0a67-4010-b79e-72e51da5e385",
+        "https://data.kcg.gov.tw/File/DirectDownload/e4dbedc4-0a67-4010-b79e-72e51da5e385",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d120cf0-e365-45d8-a0fe-bd336315614f",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d120cf0-e365-45d8-a0fe-bd336315614f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/62375f52-5f71-4e79-8e27-d36a308a0b69",
+        "https://data.kcg.gov.tw/File/DirectDownload/62375f52-5f71-4e79-8e27-d36a308a0b69"
+      ]
+    },
+    {
+      "id": "161919",
+      "name": "高雄市111年困擾行為照護CB03服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/46b35d8a-64d6-4961-978f-1bf99583f24c",
+        "https://data.kcg.gov.tw/File/DirectDownload/46b35d8a-64d6-4961-978f-1bf99583f24c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/37802a10-3271-4309-85e8-249621230d50",
+        "https://data.kcg.gov.tw/File/DirectDownload/37802a10-3271-4309-85e8-249621230d50",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c7b2f248-157c-4946-958b-25ae98073034",
+        "https://data.kcg.gov.tw/File/DirectDownload/c7b2f248-157c-4946-958b-25ae98073034",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/332b954e-8765-4a00-9920-4cf69365d06b",
+        "https://data.kcg.gov.tw/File/DirectDownload/332b954e-8765-4a00-9920-4cf69365d06b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/35ed650d-b3cb-4067-92a5-75048e61c328",
+        "https://data.kcg.gov.tw/File/DirectDownload/35ed650d-b3cb-4067-92a5-75048e61c328",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5796ec81-1171-491d-9f2a-e186eafc3ef3",
+        "https://data.kcg.gov.tw/File/DirectDownload/5796ec81-1171-491d-9f2a-e186eafc3ef3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b84400e9-d216-45c0-be64-f9fa2a0bfb5d",
+        "https://data.kcg.gov.tw/File/DirectDownload/b84400e9-d216-45c0-be64-f9fa2a0bfb5d"
+      ]
+    },
+    {
+      "id": "161920",
+      "name": "高雄市111年進食與吞嚥照護CB02服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a0ae392-8209-4bc3-885e-5276ed7bdab9",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a0ae392-8209-4bc3-885e-5276ed7bdab9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7a4f92e-6a34-4a9e-b723-ab2acf575bd1",
+        "https://data.kcg.gov.tw/File/DirectDownload/f7a4f92e-6a34-4a9e-b723-ab2acf575bd1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fb166fd7-e303-4641-9954-af9ca3bfbd29",
+        "https://data.kcg.gov.tw/File/DirectDownload/fb166fd7-e303-4641-9954-af9ca3bfbd29",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e4a952b3-e7ad-4334-9af2-b58a4e447797",
+        "https://data.kcg.gov.tw/File/DirectDownload/e4a952b3-e7ad-4334-9af2-b58a4e447797",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e4d4ca4e-9c8d-419e-b1d1-b67244fa8c46",
+        "https://data.kcg.gov.tw/File/DirectDownload/e4d4ca4e-9c8d-419e-b1d1-b67244fa8c46",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cec30a22-4a27-44c3-9580-d1ff563dacf0",
+        "https://data.kcg.gov.tw/File/DirectDownload/cec30a22-4a27-44c3-9580-d1ff563dacf0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bcbbf998-e26a-4733-87e2-f0069bebab61",
+        "https://data.kcg.gov.tw/File/DirectDownload/bcbbf998-e26a-4733-87e2-f0069bebab61"
+      ]
+    },
+    {
+      "id": "161921",
+      "name": "高雄市111年營養照護CB01服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/05f5edb3-b7ad-4f3c-81cd-0384756c894e",
+        "https://data.kcg.gov.tw/File/DirectDownload/05f5edb3-b7ad-4f3c-81cd-0384756c894e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ea13cc93-cd0b-462a-b54e-0af79e3985f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/ea13cc93-cd0b-462a-b54e-0af79e3985f3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/74e2eebd-5418-4655-9c50-41fdd48c01a5",
+        "https://data.kcg.gov.tw/File/DirectDownload/74e2eebd-5418-4655-9c50-41fdd48c01a5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/76ee2c65-1460-4873-8732-4c553fb8d88a",
+        "https://data.kcg.gov.tw/File/DirectDownload/76ee2c65-1460-4873-8732-4c553fb8d88a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1cebe27f-da3f-4c9f-9750-77580946cbfa",
+        "https://data.kcg.gov.tw/File/DirectDownload/1cebe27f-da3f-4c9f-9750-77580946cbfa",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ec133341-9f18-4d1a-b7b4-9ff7ab41c071",
+        "https://data.kcg.gov.tw/File/DirectDownload/ec133341-9f18-4d1a-b7b4-9ff7ab41c071",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/77b0f421-760c-421c-9232-ef01f7b7900a",
+        "https://data.kcg.gov.tw/File/DirectDownload/77b0f421-760c-421c-9232-ef01f7b7900a"
+      ]
+    },
+    {
+      "id": "161925",
+      "name": "高雄市111年機構住宿喘息GA05服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3a7cb91a-8464-4a56-b300-1539f69928d3",
+        "https://data.kcg.gov.tw/File/DirectDownload/3a7cb91a-8464-4a56-b300-1539f69928d3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9f900509-2246-4e80-bd90-1b272697d111",
+        "https://data.kcg.gov.tw/File/DirectDownload/9f900509-2246-4e80-bd90-1b272697d111",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/895c4eae-9df8-47a3-ac97-453455ea2786",
+        "https://data.kcg.gov.tw/File/DirectDownload/895c4eae-9df8-47a3-ac97-453455ea2786",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/91ebce6c-ebf3-4055-b182-ae4ced68888d",
+        "https://data.kcg.gov.tw/File/DirectDownload/91ebce6c-ebf3-4055-b182-ae4ced68888d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a648b27e-7da9-4fea-ac6a-d1594c20e751",
+        "https://data.kcg.gov.tw/File/DirectDownload/a648b27e-7da9-4fea-ac6a-d1594c20e751",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/658b53fd-d0e7-46d1-853b-fb4b7b1d8a7c",
+        "https://data.kcg.gov.tw/File/DirectDownload/658b53fd-d0e7-46d1-853b-fb4b7b1d8a7c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72758dbd-c042-4e47-a72f-fdcfe9e5a174",
+        "https://data.kcg.gov.tw/File/DirectDownload/72758dbd-c042-4e47-a72f-fdcfe9e5a174"
+      ]
+    },
+    {
+      "id": "163000",
+      "name": "108年高雄市提供新生兒聽力篩檢補助方案服務醫療院所名單",
+      "format": "csv",
+      "urls": [
+        "https://data.kcg.gov.tw/File/DirectDownload/1340e92d-e616-4431-8859-ca9eab2e4be8"
+      ]
+    },
+    {
+      "id": "161342",
+      "name": "高雄市112年機構住宿式喘息服務(GA05)特約單位",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d474c693-2c3a-4776-a594-ff144e4f6270",
+        "https://data.kcg.gov.tw/File/DirectDownload/d474c693-2c3a-4776-a594-ff144e4f6270"
+      ]
+    },
+    {
+      "id": "161367",
+      "name": "高雄市112年困擾行為照護CB03服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a5d759c5-b856-4532-aff8-7de85f4bddcb",
+        "https://data.kcg.gov.tw/File/DirectDownload/a5d759c5-b856-4532-aff8-7de85f4bddcb"
+      ]
+    },
+    {
+      "id": "161369",
+      "name": "高雄市112年進食與吞嚥照護CB02服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0ee5834-01d6-41b3-828b-c0c0e158bfc4",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0ee5834-01d6-41b3-828b-c0c0e158bfc4"
+      ]
+    },
+    {
+      "id": "143427",
+      "name": "高雄市藥局資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90c492ab-cc42-402b-91ea-dfd868015d10",
+        "https://data.kcg.gov.tw/File/DirectDownload/90c492ab-cc42-402b-91ea-dfd868015d10"
+      ]
+    },
+    {
+      "id": "86303",
+      "name": "高雄市愛滋指定醫事機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f077b81a-ea47-4f1e-b0c5-c7a47a416434",
+        "https://data.kcg.gov.tw/File/DirectDownload/f077b81a-ea47-4f1e-b0c5-c7a47a416434"
+      ]
+    },
+    {
+      "id": "86398",
+      "name": "高雄市清潔針具執行點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c03a5092-f916-4dc6-9177-015d319351d4",
+        "https://data.kcg.gov.tw/File/DirectDownload/c03a5092-f916-4dc6-9177-015d319351d4"
+      ]
+    },
+    {
+      "id": "86404",
+      "name": "高雄市精神醫療機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/82129d81-f966-4290-97ed-d9c2d5b4537c",
+        "https://data.kcg.gov.tw/File/DirectDownload/82129d81-f966-4290-97ed-d9c2d5b4537c"
+      ]
+    },
+    {
+      "id": "86405",
+      "name": "高雄市衛生局所資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/21e9ed1b-0819-4d1e-99cc-1e4e5bf94785",
+        "https://data.kcg.gov.tw/File/DirectDownload/21e9ed1b-0819-4d1e-99cc-1e4e5bf94785"
+      ]
+    },
+    {
+      "id": "102105",
+      "name": "高雄市愛滋病匿篩服務點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/73efe5dd-b265-497b-8c0b-b4b3f101a018",
+        "https://data.kcg.gov.tw/File/DirectDownload/73efe5dd-b265-497b-8c0b-b4b3f101a018"
+      ]
+    },
+    {
+      "id": "87260",
+      "name": "高雄市產後護理機構(產後護理之家)名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4baed606-a352-4692-9f44-4d57ec12835e",
+        "https://data.kcg.gov.tw/File/DirectDownload/4baed606-a352-4692-9f44-4d57ec12835e"
+      ]
+    },
+    {
+      "id": "104570",
+      "name": "高雄市105年12月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/22529790-50f8-4323-b718-2d58b16636e0",
+        "https://data.kcg.gov.tw/File/DirectDownload/22529790-50f8-4323-b718-2d58b16636e0"
+      ]
+    },
+    {
+      "id": "104571",
+      "name": "高雄市105年11月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4fa5b6ae-12cd-4625-8f81-0987c85105a4",
+        "https://data.kcg.gov.tw/File/DirectDownload/4fa5b6ae-12cd-4625-8f81-0987c85105a4"
+      ]
+    },
+    {
+      "id": "104978",
+      "name": "高雄市二代戒菸服務機構(六龜區、杉林區、甲仙區、那瑪夏區、桃源區、茂林區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f51d2717-71ed-4102-ac58-f6dca207d0e3",
+        "https://data.kcg.gov.tw/File/DirectDownload/f51d2717-71ed-4102-ac58-f6dca207d0e3"
+      ]
+    },
+    {
+      "id": "104983",
+      "name": "高雄市二代戒菸服務機構(小港區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/22589b84-5322-4565-b33f-548ad06da3d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/22589b84-5322-4565-b33f-548ad06da3d6"
+      ]
+    },
+    {
+      "id": "104984",
+      "name": "高雄市二代戒菸服務機構(大寮區、林園區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/35477266-dbe8-4655-ae4d-502dfc859dca",
+        "https://data.kcg.gov.tw/File/DirectDownload/35477266-dbe8-4655-ae4d-502dfc859dca"
+      ]
+    },
+    {
+      "id": "104964",
+      "name": "高雄市二代戒菸服務機構(鳳山區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a3bafe2-1e9c-4f51-ad8d-483145f29e2c",
+        "https://data.kcg.gov.tw/File/DirectDownload/9a3bafe2-1e9c-4f51-ad8d-483145f29e2c"
+      ]
+    },
+    {
+      "id": "104973",
+      "name": "高雄市二代戒菸服務機構(前鎮區)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3520c807-7aab-479d-a013-6a65c5f35d74",
+        "https://data.kcg.gov.tw/File/DirectDownload/3520c807-7aab-479d-a013-6a65c5f35d74"
+      ]
+    },
+    {
+      "id": "127293",
+      "name": "高雄市西藥廣告申請案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9f579501-ce2e-47a5-bc39-be2338996a38",
+        "https://data.kcg.gov.tw/File/DirectDownload/9f579501-ce2e-47a5-bc39-be2338996a38"
+      ]
+    },
+    {
+      "id": "127743",
+      "name": "2020年高雄市健康便利站-三民區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc3c96bb-ca6d-41b7-98d2-6866ad2cdfeb",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc3c96bb-ca6d-41b7-98d2-6866ad2cdfeb"
+      ]
+    },
+    {
+      "id": "127756",
+      "name": "2020年高雄市健康便利站-鹽埕區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a357857-48a5-41c9-af95-a5c91171dfbf",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a357857-48a5-41c9-af95-a5c91171dfbf"
+      ]
+    },
+    {
+      "id": "127760",
+      "name": "2020年高雄市健康便利站-鳳山區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bbe5d38a-9253-4f59-af6e-be52be181e32",
+        "https://data.kcg.gov.tw/File/DirectDownload/bbe5d38a-9253-4f59-af6e-be52be181e32"
+      ]
+    },
+    {
+      "id": "127762",
+      "name": "2020年高雄市健康便利站-旗山區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ce3a332e-aa68-44a7-9f73-3ddd9d3f9a40",
+        "https://data.kcg.gov.tw/File/DirectDownload/ce3a332e-aa68-44a7-9f73-3ddd9d3f9a40"
+      ]
+    },
+    {
+      "id": "127786",
+      "name": "2020年高雄市健康便利站-內門區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eedba3a7-a918-467d-a10d-1bdc9a6b2833",
+        "https://data.kcg.gov.tw/File/DirectDownload/eedba3a7-a918-467d-a10d-1bdc9a6b2833"
+      ]
+    },
+    {
+      "id": "127790",
+      "name": "2020年高雄市健康便利站-大社區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/31f480d3-18fc-4265-a900-6eba7553340f",
+        "https://data.kcg.gov.tw/File/DirectDownload/31f480d3-18fc-4265-a900-6eba7553340f"
+      ]
+    },
+    {
+      "id": "127772",
+      "name": "2020年高雄市健康便利站-茂林區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/31aab20a-12a9-403c-97bc-d2a4c781a148",
+        "https://data.kcg.gov.tw/File/DirectDownload/31aab20a-12a9-403c-97bc-d2a4c781a148"
+      ]
+    },
+    {
+      "id": "127775",
+      "name": "2020年高雄市健康便利站-前金區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f8962b9c-cee1-4166-a2e9-2f06ab7663eb",
+        "https://data.kcg.gov.tw/File/DirectDownload/f8962b9c-cee1-4166-a2e9-2f06ab7663eb"
+      ]
+    },
+    {
+      "id": "127777",
+      "name": "2020年高雄市健康便利站-林園區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ae408e7c-70a6-44db-86a5-73bf58ad88cd",
+        "https://data.kcg.gov.tw/File/DirectDownload/ae408e7c-70a6-44db-86a5-73bf58ad88cd"
+      ]
+    },
+    {
+      "id": "127779",
+      "name": "2020年高雄市健康便利站-岡山區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a933eaca-295a-4901-a148-ea281a310baa",
+        "https://data.kcg.gov.tw/File/DirectDownload/a933eaca-295a-4901-a148-ea281a310baa"
+      ]
+    },
+    {
+      "id": "127960",
+      "name": "向網路服務供應者要求限制網路內容",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c1ecc5a2-e46c-4c1a-aa60-23956b12999e",
+        "https://data.kcg.gov.tw/File/DirectDownload/c1ecc5a2-e46c-4c1a-aa60-23956b12999e"
+      ]
+    },
+    {
+      "id": "127961",
+      "name": "2020年高雄市健康便利站-左營區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ecc80c8c-bda4-442b-9c48-8dd475111e2a",
+        "https://data.kcg.gov.tw/File/DirectDownload/ecc80c8c-bda4-442b-9c48-8dd475111e2a"
+      ]
+    },
+    {
+      "id": "127962",
+      "name": "2020年高雄市健康便利站-仁武區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ec115dce-8774-4e3c-b0d8-3a4fa8d043a6",
+        "https://data.kcg.gov.tw/File/DirectDownload/ec115dce-8774-4e3c-b0d8-3a4fa8d043a6"
+      ]
+    },
+    {
+      "id": "128219",
+      "name": "高雄市107年公費流感疫苗合約院所名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3f275404-1a23-4520-b007-724036fcff00",
+        "https://data.kcg.gov.tw/File/DirectDownload/3f275404-1a23-4520-b007-724036fcff00"
+      ]
+    },
+    {
+      "id": "161366",
+      "name": "高雄市112年「個別化服務計畫(ISP)擬定與執行」CA08服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/be49e3e6-43d0-4791-85ba-8914222d81a9",
+        "https://data.kcg.gov.tw/File/DirectDownload/be49e3e6-43d0-4791-85ba-8914222d81a9"
+      ]
+    },
+    {
+      "id": "161370",
+      "name": "高雄市112年營養照護CB01服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7e39e26-546b-4525-8a49-99ae33b23ce3",
+        "https://data.kcg.gov.tw/File/DirectDownload/f7e39e26-546b-4525-8a49-99ae33b23ce3"
+      ]
+    },
+    {
+      "id": "161371",
+      "name": "高雄市112年居家環境安全或無障礙空間規劃CC01服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/89e66f76-71fb-478c-95e8-0e59ae12df7c",
+        "https://data.kcg.gov.tw/File/DirectDownload/89e66f76-71fb-478c-95e8-0e59ae12df7c"
+      ]
+    },
+    {
+      "id": "161340",
+      "name": "高雄市112年居家式照顧服務特約單位名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a52ab660-8282-48d4-9592-f41b66abdf6f",
+        "https://data.kcg.gov.tw/File/DirectDownload/a52ab660-8282-48d4-9592-f41b66abdf6f"
+      ]
+    },
+    {
+      "id": "161341",
+      "name": "高雄市112年小規模多機能服務夜間喘息(GA06)特約單位",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/53073c1c-f18f-4d29-9019-7b2de0e6490d",
+        "https://data.kcg.gov.tw/File/DirectDownload/53073c1c-f18f-4d29-9019-7b2de0e6490d"
+      ]
+    },
+    {
+      "id": "161365",
+      "name": "高雄市112年居家護理指導與諮詢CD02服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c436decf-cb81-4955-b055-f0af690c8fe5",
+        "https://data.kcg.gov.tw/File/DirectDownload/c436decf-cb81-4955-b055-f0af690c8fe5"
+      ]
+    },
+    {
+      "id": "161319",
+      "name": "高雄市立民生醫院診間看診進度",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c54aabef-9426-471f-98c3-a99b70568f82"
+      ]
+    },
+    {
+      "id": "104701",
+      "name": "高雄市105年7月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/463b97d3-e7ee-420b-97d3-313c2951e818",
+        "https://data.kcg.gov.tw/File/DirectDownload/463b97d3-e7ee-420b-97d3-313c2951e818"
+      ]
+    },
+    {
+      "id": "104706",
+      "name": "高雄市105年2月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aa2bd3f9-361f-49c4-a79e-aa3efeb4454b",
+        "https://data.kcg.gov.tw/File/DirectDownload/aa2bd3f9-361f-49c4-a79e-aa3efeb4454b"
+      ]
+    },
+    {
+      "id": "104707",
+      "name": "高雄市105年1月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/022badb5-95d9-4bec-9263-53345739600a",
+        "https://data.kcg.gov.tw/File/DirectDownload/022badb5-95d9-4bec-9263-53345739600a"
+      ]
+    },
+    {
+      "id": "104713",
+      "name": "106高雄市政府登革熱個案資訊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dd8b43e8-2ad0-4926-aecf-fa0abe45128f",
+        "https://data.kcg.gov.tw/File/DirectDownload/dd8b43e8-2ad0-4926-aecf-fa0abe45128f"
+      ]
+    },
+    {
+      "id": "104714",
+      "name": "105高雄市政府登革熱個案資訊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/31f4c6c3-1814-4658-9488-4b36a1430062",
+        "https://data.kcg.gov.tw/File/DirectDownload/31f4c6c3-1814-4658-9488-4b36a1430062"
+      ]
+    },
+    {
+      "id": "106362",
+      "name": "108年高雄市產後護理機構名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ac1f4dc-35c6-4d35-8a57-640899d8e1a4",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ac1f4dc-35c6-4d35-8a57-640899d8e1a4"
+      ]
+    },
+    {
+      "id": "106139",
+      "name": "高雄市107年11月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/780eb1be-fc19-4abf-8b6c-2c62c0b8c794",
+        "https://data.kcg.gov.tw/File/DirectDownload/780eb1be-fc19-4abf-8b6c-2c62c0b8c794"
+      ]
+    },
+    {
+      "id": "106144",
+      "name": "高雄市107年6月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d2b7447-e1ed-4bc6-a07e-ba68d5699814",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d2b7447-e1ed-4bc6-a07e-ba68d5699814"
+      ]
+    },
+    {
+      "id": "106148",
+      "name": "高雄市107年2月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/11fc079f-09d8-4b75-9ca9-3c14e82bded3",
+        "https://data.kcg.gov.tw/File/DirectDownload/11fc079f-09d8-4b75-9ca9-3c14e82bded3"
+      ]
+    },
+    {
+      "id": "106153",
+      "name": "高雄市106年9月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/86deeac6-873f-4eb4-8fdd-64f6cf7e287a",
+        "https://data.kcg.gov.tw/File/DirectDownload/86deeac6-873f-4eb4-8fdd-64f6cf7e287a"
+      ]
+    },
+    {
+      "id": "106155",
+      "name": "高雄市106年7月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e4edf2a6-8161-4471-9b86-e907ab7b73e6",
+        "https://data.kcg.gov.tw/File/DirectDownload/e4edf2a6-8161-4471-9b86-e907ab7b73e6"
+      ]
+    },
+    {
+      "id": "106156",
+      "name": "高雄市106年6月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/738fd8c6-5d0d-4c2b-a4d5-7ee4137106cd",
+        "https://data.kcg.gov.tw/File/DirectDownload/738fd8c6-5d0d-4c2b-a4d5-7ee4137106cd"
+      ]
+    },
+    {
+      "id": "106157",
+      "name": "高雄市106年5月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/21b09661-b735-4df6-b63c-3833d84b9dbc",
+        "https://data.kcg.gov.tw/File/DirectDownload/21b09661-b735-4df6-b63c-3833d84b9dbc"
+      ]
+    },
+    {
+      "id": "106158",
+      "name": "高雄市106年4月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c0a99be9-5ae6-4be2-af26-9f1b35d2df4f",
+        "https://data.kcg.gov.tw/File/DirectDownload/c0a99be9-5ae6-4be2-af26-9f1b35d2df4f"
+      ]
+    },
+    {
+      "id": "106160",
+      "name": "高雄市106年2月登革熱緊急防治噴藥資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d59f96e1-d671-4222-8098-a921a8ebab6b",
+        "https://data.kcg.gov.tw/File/DirectDownload/d59f96e1-d671-4222-8098-a921a8ebab6b"
+      ]
+    },
+    {
+      "id": "143417",
+      "name": "高雄市12歲以下身心障礙兒童口腔保健合作院所名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3b622f66-79be-4984-874c-4dcfc3440039",
+        "https://data.kcg.gov.tw/File/DirectDownload/3b622f66-79be-4984-874c-4dcfc3440039"
+      ]
+    },
+    {
+      "id": "143426",
+      "name": "高雄市平價保險套販售地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2b87d9ed-d220-40c1-839d-2b2fab6695ca",
+        "https://data.kcg.gov.tw/File/DirectDownload/2b87d9ed-d220-40c1-839d-2b2fab6695ca",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/acc2d40e-f53d-4b06-866e-3400752e331f",
+        "https://data.kcg.gov.tw/File/DirectDownload/acc2d40e-f53d-4b06-866e-3400752e331f"
+      ]
+    },
+    {
+      "id": "161917",
+      "name": "高雄市111年居家環境安全或無障礙空間規劃CC01服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/00d95523-f0d8-477f-9159-324c1c29c0e6",
+        "https://data.kcg.gov.tw/File/DirectDownload/00d95523-f0d8-477f-9159-324c1c29c0e6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4309c50a-4b79-46e8-9670-3fb54c07c4da",
+        "https://data.kcg.gov.tw/File/DirectDownload/4309c50a-4b79-46e8-9670-3fb54c07c4da",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/09de25f3-4e12-4ec5-abaf-52eb46977099",
+        "https://data.kcg.gov.tw/File/DirectDownload/09de25f3-4e12-4ec5-abaf-52eb46977099",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7277b8ad-2807-4a39-b7d9-535637b06fea",
+        "https://data.kcg.gov.tw/File/DirectDownload/7277b8ad-2807-4a39-b7d9-535637b06fea",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b3a68ec8-f51c-4d20-a2eb-562134eda020",
+        "https://data.kcg.gov.tw/File/DirectDownload/b3a68ec8-f51c-4d20-a2eb-562134eda020",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7b759353-fd09-4314-9b77-8f8eeab6b766",
+        "https://data.kcg.gov.tw/File/DirectDownload/7b759353-fd09-4314-9b77-8f8eeab6b766",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/98245696-f7ef-41cb-a446-e9a36faa93a4",
+        "https://data.kcg.gov.tw/File/DirectDownload/98245696-f7ef-41cb-a446-e9a36faa93a4"
+      ]
+    },
+    {
+      "id": "161922",
+      "name": "高雄市111年巷弄長照站臨托GA07名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/da67037c-497e-474a-8583-5193f5c3f2ec",
+        "https://data.kcg.gov.tw/File/DirectDownload/da67037c-497e-474a-8583-5193f5c3f2ec",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3812fec5-19b7-4871-860f-6c6a05fa6789",
+        "https://data.kcg.gov.tw/File/DirectDownload/3812fec5-19b7-4871-860f-6c6a05fa6789",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8e8c69c7-49ea-401f-90ba-a4d5eaf1791f",
+        "https://data.kcg.gov.tw/File/DirectDownload/8e8c69c7-49ea-401f-90ba-a4d5eaf1791f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9c81d8c8-046c-463e-bdea-b89b3d0fd129",
+        "https://data.kcg.gov.tw/File/DirectDownload/9c81d8c8-046c-463e-bdea-b89b3d0fd129",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f9354685-05c0-4ca9-bce8-ce2b44878635",
+        "https://data.kcg.gov.tw/File/DirectDownload/f9354685-05c0-4ca9-bce8-ce2b44878635",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4d38e93c-577a-4f68-9649-ff3ed800a202",
+        "https://data.kcg.gov.tw/File/DirectDownload/4d38e93c-577a-4f68-9649-ff3ed800a202"
+      ]
+    },
+    {
+      "id": "161924",
+      "name": "高雄市111年日照喘息GA03-GA04服務名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/42b0c8d6-adb7-4241-9fed-095d31369722",
+        "https://data.kcg.gov.tw/File/DirectDownload/42b0c8d6-adb7-4241-9fed-095d31369722",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/13230d31-7a1d-4ea9-b8a0-0c9074617aa3",
+        "https://data.kcg.gov.tw/File/DirectDownload/13230d31-7a1d-4ea9-b8a0-0c9074617aa3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0510cb3a-5916-4e29-82c2-268c92a14170",
+        "https://data.kcg.gov.tw/File/DirectDownload/0510cb3a-5916-4e29-82c2-268c92a14170",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/16e90ecf-e4cb-4a98-a749-6a3bcfaefc94",
+        "https://data.kcg.gov.tw/File/DirectDownload/16e90ecf-e4cb-4a98-a749-6a3bcfaefc94",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ebbadcb8-47fb-4d8f-be8e-870e928b16f6",
+        "https://data.kcg.gov.tw/File/DirectDownload/ebbadcb8-47fb-4d8f-be8e-870e928b16f6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9d69fd71-a6d8-4f4f-9424-d5714d4b19d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/9d69fd71-a6d8-4f4f-9424-d5714d4b19d6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ca3dd661-7554-46f8-8fc4-fc1956e0a45d",
+        "https://data.kcg.gov.tw/File/DirectDownload/ca3dd661-7554-46f8-8fc4-fc1956e0a45d"
+      ]
+    }
+  ]
+}

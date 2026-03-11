@@ -1,0 +1,624 @@
+{
+  "type": "dataset",
+  "provider": "法務部資訊處",
+  "slug": "moj_gov_tw_47ab2028",
+  "datasets": [
+    {
+      "id": "10039",
+      "name": "重要系統簡介 刑事篇",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/172824/"
+      ]
+    },
+    {
+      "id": "14520",
+      "name": "金融帳戶開戶查詢系統-重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=387436&ixCuAttach=158302"
+      ]
+    },
+    {
+      "id": "15794",
+      "name": "法務部電子公布欄",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2818/196186/209180/"
+      ]
+    },
+    {
+      "id": "13138",
+      "name": "刑案資訊整合系統",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=380818&ixCuAttach=158294"
+      ]
+    },
+    {
+      "id": "13193",
+      "name": "主管法規共用系統領用清單",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=380821&ixCuAttach=118530"
+      ]
+    },
+    {
+      "id": "13239",
+      "name": "二審支援檢察官辦案系統 - 重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177314/"
+      ]
+    },
+    {
+      "id": "13241",
+      "name": "檢察書類製作系統 - 重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177303/"
+      ]
+    },
+    {
+      "id": "13862",
+      "name": "電子郵件系統",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=385001&ixCuAttach=158343"
+      ]
+    },
+    {
+      "id": "13966",
+      "name": "法務部資訊的力量-教育訓練",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=385233&ixCuAttach=158301"
+      ]
+    },
+    {
+      "id": "14133",
+      "name": "獄政衛生醫療子系統－重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=387376&ixCuAttach=120560"
+      ]
+    },
+    {
+      "id": "14075",
+      "name": "資訊的力量_全國法規資料庫_重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=385788&ixCuAttach=119959"
+      ]
+    },
+    {
+      "id": "14080",
+      "name": "資訊的力量_主管法規共用系統_重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=385801&ixCuAttach=119963"
+      ]
+    },
+    {
+      "id": "14081",
+      "name": "資訊的力量_全國法規資料庫_資訊活化",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=385804&ixCuAttach=119964"
+      ]
+    },
+    {
+      "id": "13032",
+      "name": "法務部及所屬機關iTaiwan無線網路服務熱點 ",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/public/Data/78810116725.csv"
+      ]
+    },
+    {
+      "id": "13015",
+      "name": "矯正資料庫查詢系統－重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177329/"
+      ]
+    },
+    {
+      "id": "55742",
+      "name": "法務部檢察機關數位卷證系統",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=471423&ixCuAttach=158737"
+      ]
+    },
+    {
+      "id": "24930",
+      "name": "全國法規資料庫網站使用說明",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/176927/"
+      ]
+    },
+    {
+      "id": "24372",
+      "name": "法務部全球資訊網_組織架構-資訊處",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/209206/"
+      ]
+    },
+    {
+      "id": "90938",
+      "name": "2018年法務部及所屬機關iTaiwan服務效益總表(至8月份)",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/dl-34904-1e7fcb844c134e3d83ef16e9606e9a42.html"
+      ]
+    },
+    {
+      "id": "139256",
+      "name": "法務部律師查詢系統",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/109658/"
+      ]
+    },
+    {
+      "id": "159971",
+      "name": "法務部部頒機關代碼表",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/172192/"
+      ]
+    },
+    {
+      "id": "146309",
+      "name": "法務部服務項目表單下載網址資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/122835/"
+      ]
+    },
+    {
+      "id": "146274",
+      "name": "法務部110年資通安全教育訓練資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/122768/"
+      ]
+    },
+    {
+      "id": "132722",
+      "name": "法務部派駐所屬機關資訊人力表",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/74836/"
+      ]
+    },
+    {
+      "id": "170732",
+      "name": "法務部廉政機關服務項目表單下載網址資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/219770/"
+      ]
+    },
+    {
+      "id": "13000",
+      "name": "法務部及所屬機關全球資訊網中文版網址資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=469143&ixCuAttach=158334"
+      ]
+    },
+    {
+      "id": "13002",
+      "name": "法務部及所屬機關全球資訊網英文版網址資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=469143&ixCuAttach=158374"
+      ]
+    },
+    {
+      "id": "13191",
+      "name": "全國法規資料庫法規知識王競賽活動歷屆參賽學生數",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/70868/"
+      ]
+    },
+    {
+      "id": "13195",
+      "name": "全國法規資料庫創意教學競賽歷屆得獎作品",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/203607/"
+      ]
+    },
+    {
+      "id": "13136",
+      "name": "法務資訊活化應用",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177431/"
+      ]
+    },
+    {
+      "id": "13240",
+      "name": "偵查筆錄電腦系統 - 重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177310/"
+      ]
+    },
+    {
+      "id": "13242",
+      "name": "檢察書類檢索系統 - 重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177299/"
+      ]
+    },
+    {
+      "id": "13380",
+      "name": "法務部102-103年舉辦之電腦教育訓練一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=381641&ixCuAttach=118833"
+      ]
+    },
+    {
+      "id": "13864",
+      "name": "設備登錄系統",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/254409/"
+      ]
+    },
+    {
+      "id": "13932",
+      "name": "矯正便民服務系統－重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177292/"
+      ]
+    },
+    {
+      "id": "13937",
+      "name": "無名屍查詢--資訊活化",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=385153&ixCuAttach=158298"
+      ]
+    },
+    {
+      "id": "13957",
+      "name": "單一登入窗口對外連線系統-重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=385174&ixCuAttach=158300"
+      ]
+    },
+    {
+      "id": "13969",
+      "name": "資訊的力量-- 廉政業務管理系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177288/"
+      ]
+    },
+    {
+      "id": "14381",
+      "name": "偵查筆錄數位錄音錄影集中儲存作業-應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=387206&ixCuAttach=120500"
+      ]
+    },
+    {
+      "id": "14521",
+      "name": "資訊的力量-全國公職人員財產申報網路系統",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177400/"
+      ]
+    },
+    {
+      "id": "12463",
+      "name": "法務部資訊安全行政規則體系表",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/180042/"
+      ]
+    },
+    {
+      "id": "10040",
+      "name": "自行開發系統列表",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=374290&ixCuAttach=115569"
+      ]
+    },
+    {
+      "id": "18290",
+      "name": "中文法規_命令資料檔下載",
+      "format": "zip",
+      "urls": [
+        "https://sendlaw.moj.gov.tw/PublicData/GetFile.ashx?DType=XML&AuData=CM"
+      ]
+    },
+    {
+      "id": "24742",
+      "name": "教育訓練管理系統_課程表",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=412937&ixCuAttach=133489"
+      ]
+    },
+    {
+      "id": "27413",
+      "name": "法務部及所屬機關政府資料開放行動方案",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/171024/"
+      ]
+    },
+    {
+      "id": "85684",
+      "name": "法務部全球資訊網目錄樹架構",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/dl-32435-d842c8d3fb5a45e589e8fe0fd723bc02.html"
+      ]
+    },
+    {
+      "id": "77768",
+      "name": "全國法規資料庫歷年收錄法規(含廢止)數量統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/172253/"
+      ]
+    },
+    {
+      "id": "120714",
+      "name": "法務部及所屬機關全球資訊網中文版首長信箱網址資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/209227/"
+      ]
+    },
+    {
+      "id": "122535",
+      "name": "法務部資訊服務系統（網站）網址資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/209491/"
+      ]
+    },
+    {
+      "id": "91911",
+      "name": "法務部資訊處簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/209214/"
+      ]
+    },
+    {
+      "id": "103439",
+      "name": "法務部及所屬機關資料開放統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/171041/"
+      ]
+    },
+    {
+      "id": "134574",
+      "name": "法務部及所屬機關資通安全責任等級分佈統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/172035/"
+      ]
+    },
+    {
+      "id": "161834",
+      "name": "法務部及所屬機關VANS導入教育訓練",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/168965/"
+      ]
+    },
+    {
+      "id": "166220",
+      "name": "法務部及所屬機關個人化資料自主運用(MyData)服務清冊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/189367/"
+      ]
+    },
+    {
+      "id": "168257",
+      "name": "律師公會聯絡資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/203949/"
+      ]
+    },
+    {
+      "id": "168269",
+      "name": "健保就診資料傳送系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/204346/"
+      ]
+    },
+    {
+      "id": "13135",
+      "name": "法務資訊發展歷程摘述",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/180667/"
+      ]
+    },
+    {
+      "id": "13192",
+      "name": "全國法規資料庫智慧查找案例",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=380820&ixCuAttach=118529"
+      ]
+    },
+    {
+      "id": "13194",
+      "name": "法規名稱英譯統一標準",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/176923/"
+      ]
+    },
+    {
+      "id": "13244",
+      "name": "法務部毒品成癮者單一窗口服務系統",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/204717/"
+      ]
+    },
+    {
+      "id": "24373",
+      "name": "法務部全球資訊網_重要措施-資訊處",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/209210/"
+      ]
+    },
+    {
+      "id": "12999",
+      "name": "資訊的力量(第3章)行政支援系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177436/"
+      ]
+    },
+    {
+      "id": "13001",
+      "name": "法務部及所屬機關全球資訊網行動版網址資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=469143&ixCuAttach=158335"
+      ]
+    },
+    {
+      "id": "13013",
+      "name": "獄政管理資訊系統－重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177333/"
+      ]
+    },
+    {
+      "id": "13016",
+      "name": "遠距接見及訊問排程應用系統－重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177323/"
+      ]
+    },
+    {
+      "id": "13023",
+      "name": "一審支援檢察官辦案系統－重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/180254/"
+      ]
+    },
+    {
+      "id": "13934",
+      "name": "自行開發應用系統--重要應用系統簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/HitCounter.asp?xItem=385152&ixCuAttach=158297"
+      ]
+    },
+    {
+      "id": "18289",
+      "name": "中文法規_法律資料檔下載",
+      "format": "zip",
+      "urls": [
+        "https://sendlaw.moj.gov.tw/PublicData/GetFile.ashx?DType=XML&AuData=CF"
+      ]
+    },
+    {
+      "id": "18293",
+      "name": "英譯法規_法律資料檔下載",
+      "format": "zip",
+      "urls": [
+        "https://sendlaw.moj.gov.tw/PublicData/GetFile.ashx?DType=XML&AuData=EF"
+      ]
+    },
+    {
+      "id": "18294",
+      "name": "英譯法規_命令資料檔下載",
+      "format": "zip",
+      "urls": [
+        "https://sendlaw.moj.gov.tw/PublicData/GetFile.ashx?DType=XML&AuData=EM"
+      ]
+    },
+    {
+      "id": "14153",
+      "name": "資訊的力量-行政執行命令無紙化",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/177404/"
+      ]
+    },
+    {
+      "id": "100459",
+      "name": "法務部107年電腦教育訓練課程表",
+      "format": "json",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/172284/",
+        "https://www.moj.gov.tw/2204/2771/2773/172288/"
+      ]
+    },
+    {
+      "id": "139065",
+      "name": "被害人刑事訴訟資訊獲知平台簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/108996/"
+      ]
+    },
+    {
+      "id": "161794",
+      "name": "法務部行政執行機關服務項目表單下載網址資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/168900/"
+      ]
+    },
+    {
+      "id": "166223",
+      "name": "法務部及所屬機關112年度委外電腦教育訓練課程表",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/189385/"
+      ]
+    },
+    {
+      "id": "159976",
+      "name": "「全國法規資料庫競賽活動」簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/158548/"
+      ]
+    },
+    {
+      "id": "108263",
+      "name": "全國法規資料庫創意教學競賽-歷屆得獎教案名稱",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/2204/2771/2773/172330/"
+      ]
+    }
+  ]
+}

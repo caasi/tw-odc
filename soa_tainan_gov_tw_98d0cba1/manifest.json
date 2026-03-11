@@ -1,0 +1,641 @@
+{
+  "type": "dataset",
+  "provider": "人事處",
+  "slug": "soa_tainan_gov_tw_98d0cba1",
+  "datasets": [
+    {
+      "id": "67717",
+      "name": "新竹市政府特約廠商一覽表",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/179/9257cd8f-c353-4be1-8b96-b6b1adaf40ab.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/179/9257cd8f-c353-4be1-8b96-b6b1adaf40ab.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/179/9257cd8f-c353-4be1-8b96-b6b1adaf40ab.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/179/9257cd8f-c353-4be1-8b96-b6b1adaf40ab.json"
+      ]
+    },
+    {
+      "id": "53905",
+      "name": "臺南市政府及其所屬機關職（教）員合計年齡統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f49855d1-98d6-435f-9754-165efa76f043",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f49855d1-98d6-435f-9754-165efa76f043",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b27bc036-4ce8-47cf-b19e-2944db9543f6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b27bc036-4ce8-47cf-b19e-2944db9543f6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/90af99f2-01c3-48a4-b01c-2aeb3e7e5ec6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/90af99f2-01c3-48a4-b01c-2aeb3e7e5ec6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a0baa4a3-8e36-4f67-bd6d-8ccb7cac9836",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a0baa4a3-8e36-4f67-bd6d-8ccb7cac9836",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e2b6eda5-5469-4b40-941f-92e7cd9c022f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e2b6eda5-5469-4b40-941f-92e7cd9c022f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cdd2eaf0-4a20-450f-bdb4-9d96ad8aa036",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cdd2eaf0-4a20-450f-bdb4-9d96ad8aa036",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b33cda03-9e53-4312-bb18-b04f6ee54f9d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b33cda03-9e53-4312-bb18-b04f6ee54f9d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/db369726-1bb7-40dc-ade3-be4addcce3e8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/db369726-1bb7-40dc-ade3-be4addcce3e8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/94baed8d-54d6-474b-9607-caaf8a4edac9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/94baed8d-54d6-474b-9607-caaf8a4edac9"
+      ]
+    },
+    {
+      "id": "107813",
+      "name": "新竹縣政府各年度核定公教人員退休人數",
+      "format": "xls",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/26/16564d14-985c-4f0c-a456-55d743c174e1.xls",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/26/16564d14-985c-4f0c-a456-55d743c174e1.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/26/16564d14-985c-4f0c-a456-55d743c174e1.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/26/16564d14-985c-4f0c-a456-55d743c174e1.json"
+      ]
+    },
+    {
+      "id": "98691",
+      "name": "臺南市所屬機關學校正式職(教)員及其他員工實有員額",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c44fa6de-992d-47f3-a275-0082b996ee1e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c44fa6de-992d-47f3-a275-0082b996ee1e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d0e1a0a2-36e3-4cea-9389-40033b85eead",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d0e1a0a2-36e3-4cea-9389-40033b85eead",
+        "https://soa.tainan.gov.tw/Api/Service/Get/58d04b36-5ec7-476d-b889-42f928b7668d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/58d04b36-5ec7-476d-b889-42f928b7668d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/eb521dbb-e57d-4f81-82ea-8570421c6af8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eb521dbb-e57d-4f81-82ea-8570421c6af8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6c4b472f-a3cb-4775-9d84-c29736f4d78b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6c4b472f-a3cb-4775-9d84-c29736f4d78b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2a34aea5-95c2-49bf-a260-c3a0cce116b3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2a34aea5-95c2-49bf-a260-c3a0cce116b3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9ccef797-2f31-4675-bb0b-c85e50314327",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9ccef797-2f31-4675-bb0b-c85e50314327",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2809b8be-5f14-4394-811c-f1bba73f4709",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2809b8be-5f14-4394-811c-f1bba73f4709",
+        "https://soa.tainan.gov.tw/Api/Service/Get/05832c99-98e4-46e9-aa9f-f9716ce68bbc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/05832c99-98e4-46e9-aa9f-f9716ce68bbc"
+      ]
+    },
+    {
+      "id": "139186",
+      "name": "原住民族進用統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/cce6deaa-619d-4d3c-8e90-51e55c202e98",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cce6deaa-619d-4d3c-8e90-51e55c202e98",
+        "https://soa.tainan.gov.tw/Api/Service/Get/52257aab-fba9-4bf2-b06c-5e2635db17e7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/52257aab-fba9-4bf2-b06c-5e2635db17e7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d401791f-e530-4db3-a72e-65eae3c56838",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d401791f-e530-4db3-a72e-65eae3c56838",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ad2a9945-c1bd-418e-907c-73a31dcd8998",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ad2a9945-c1bd-418e-907c-73a31dcd8998",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8bd27c01-a244-4cb1-8b77-9d1fe8018cda",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8bd27c01-a244-4cb1-8b77-9d1fe8018cda",
+        "https://soa.tainan.gov.tw/Api/Service/Get/efac246b-cfac-414e-a2b7-b6270a767e55",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/efac246b-cfac-414e-a2b7-b6270a767e55",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fa96ae24-52c6-4001-96d2-f36d51793f1c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fa96ae24-52c6-4001-96d2-f36d51793f1c"
+      ]
+    },
+    {
+      "id": "139120",
+      "name": "110年度約聘(僱)人員聘(僱)用計畫書",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7330a28b-44e1-4ef3-90f1-0421cf04fae1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7330a28b-44e1-4ef3-90f1-0421cf04fae1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/57b9133a-42af-4579-bf0b-112e1b5fd890",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/57b9133a-42af-4579-bf0b-112e1b5fd890",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8041d792-e746-492e-ab6d-21b3f430a344",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8041d792-e746-492e-ab6d-21b3f430a344",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6852b1db-bba1-49d0-8e37-249acbde9aed",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6852b1db-bba1-49d0-8e37-249acbde9aed",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8a97a4be-3011-409e-993a-33a121b22b05",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8a97a4be-3011-409e-993a-33a121b22b05",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bf8665ba-4df7-4325-a2bb-3b557ce2da05",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bf8665ba-4df7-4325-a2bb-3b557ce2da05",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cf06cce2-3098-4a1d-ac62-3f12c0c18713",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cf06cce2-3098-4a1d-ac62-3f12c0c18713",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b1853869-67b8-40ba-a986-3fafa2d3e6e5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b1853869-67b8-40ba-a986-3fafa2d3e6e5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8a593dad-5a35-4cda-a65c-4eb981f3f015",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8a593dad-5a35-4cda-a65c-4eb981f3f015",
+        "https://soa.tainan.gov.tw/Api/Service/Get/05c8a6ce-f82b-4605-9227-5adf3acf8739",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/05c8a6ce-f82b-4605-9227-5adf3acf8739",
+        "https://soa.tainan.gov.tw/Api/Service/Get/51c6d39f-ae87-4fa5-9356-84ec2fb31016",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/51c6d39f-ae87-4fa5-9356-84ec2fb31016",
+        "https://soa.tainan.gov.tw/Api/Service/Get/66c7dd8f-0e7c-4504-a119-8dd514140070",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/66c7dd8f-0e7c-4504-a119-8dd514140070",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a669200b-76d7-465a-b0f0-9a5239e1bbab",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a669200b-76d7-465a-b0f0-9a5239e1bbab",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ec1e99cd-dfe3-475d-9912-c2c333eadedf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ec1e99cd-dfe3-475d-9912-c2c333eadedf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1225ad3b-7c83-43ad-a22d-e5639170e0b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1225ad3b-7c83-43ad-a22d-e5639170e0b8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bd68e9a7-4298-4ebf-9b96-e79a998072b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bd68e9a7-4298-4ebf-9b96-e79a998072b8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7707629e-3ae2-413d-a390-eb1ab5f4deb4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7707629e-3ae2-413d-a390-eb1ab5f4deb4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a4a838fe-3244-4ad0-b923-fc65c5f83aad",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a4a838fe-3244-4ad0-b923-fc65c5f83aad"
+      ]
+    },
+    {
+      "id": "160527",
+      "name": "111年新竹縣政府公務人員參訓人數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1940/99a740c7-d754-454c-8abe-b3737fd63adb.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1940/99a740c7-d754-454c-8abe-b3737fd63adb.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1940/99a740c7-d754-454c-8abe-b3737fd63adb.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1940/99a740c7-d754-454c-8abe-b3737fd63adb.json"
+      ]
+    },
+    {
+      "id": "163733",
+      "name": "112年度約聘(僱)人員聘(僱)用計畫書",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/bc5d4fd8-3f9f-4297-b047-1e9f380fccda",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bc5d4fd8-3f9f-4297-b047-1e9f380fccda",
+        "https://soa.tainan.gov.tw/Api/Service/Get/924d9956-f890-4128-9763-3e6e75dba9ea",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/924d9956-f890-4128-9763-3e6e75dba9ea",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6579f2dc-fc04-433d-a8fb-45c013f6eff1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6579f2dc-fc04-433d-a8fb-45c013f6eff1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/eec3047d-d407-4b04-8d94-4cf8a2ec02c7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eec3047d-d407-4b04-8d94-4cf8a2ec02c7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d85d7688-53e9-4d44-a163-5504d4ae67c0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d85d7688-53e9-4d44-a163-5504d4ae67c0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e5a400d2-bb8b-471a-beaa-6240d1f3e537",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e5a400d2-bb8b-471a-beaa-6240d1f3e537",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6bc2250d-9b0e-45d8-b5ab-79f486ea648b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6bc2250d-9b0e-45d8-b5ab-79f486ea648b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5a34812b-c2f4-4340-a7c3-7f83b299d4f1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5a34812b-c2f4-4340-a7c3-7f83b299d4f1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0e2bc17d-0210-46fa-9b25-9bacaaff1678",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0e2bc17d-0210-46fa-9b25-9bacaaff1678",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a2ceb0f4-cd0f-44e8-8311-ac933422b75a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a2ceb0f4-cd0f-44e8-8311-ac933422b75a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2d7830d9-1a88-4960-96f3-afdd06d5e571",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2d7830d9-1a88-4960-96f3-afdd06d5e571",
+        "https://soa.tainan.gov.tw/Api/Service/Get/14abc62a-2306-4391-a257-b51e44288d5c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/14abc62a-2306-4391-a257-b51e44288d5c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9e9a69ac-fd6f-4176-90f4-c48cd3afbf14",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9e9a69ac-fd6f-4176-90f4-c48cd3afbf14",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fb175e7c-ee29-4a51-95e6-cddaa2ca10c1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fb175e7c-ee29-4a51-95e6-cddaa2ca10c1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/eda9d09e-3463-4d36-8ea2-d07f7c2a4514",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eda9d09e-3463-4d36-8ea2-d07f7c2a4514",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ef0ff8a7-5bb5-4495-814e-d86e0a7dc442",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ef0ff8a7-5bb5-4495-814e-d86e0a7dc442",
+        "https://soa.tainan.gov.tw/Api/Service/Get/951f0c9d-0e2b-4a45-9444-e2757e17d400",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/951f0c9d-0e2b-4a45-9444-e2757e17d400",
+        "https://soa.tainan.gov.tw/Api/Service/Get/213f5521-ae0e-4ecd-9481-ea88b43b1592",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/213f5521-ae0e-4ecd-9481-ea88b43b1592",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5376e324-8775-4e06-9fa5-ef02e02a56f3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5376e324-8775-4e06-9fa5-ef02e02a56f3"
+      ]
+    },
+    {
+      "id": "140039",
+      "name": "臺南市政府近5年終身學習訓練人次統計",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bee389e1-473f-45e7-813f-e0d02752a004",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bee389e1-473f-45e7-813f-e0d02752a004"
+      ]
+    },
+    {
+      "id": "165278",
+      "name": "新竹市政府公務人員考試新進人員人數",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1513/ced41769-50b5-4ab1-9686-927b5e4275a7.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1513/ced41769-50b5-4ab1-9686-927b5e4275a7.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1513/ced41769-50b5-4ab1-9686-927b5e4275a7.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1513/ced41769-50b5-4ab1-9686-927b5e4275a7.json"
+      ]
+    },
+    {
+      "id": "8657",
+      "name": "內政部徵才資訊",
+      "format": "xml",
+      "urls": [
+        "https://www.moi.gov.tw/OpenData.aspx?SN=8FA86B3F14EE463B"
+      ]
+    },
+    {
+      "id": "53904",
+      "name": "臺南市政府及其所屬機關職（教）員合計官等統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2070cee5-d396-4816-82d5-25f899aafa79",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2070cee5-d396-4816-82d5-25f899aafa79",
+        "https://soa.tainan.gov.tw/Api/Service/Get/226f34eb-814f-44d2-9be8-45e9dc91e63b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/226f34eb-814f-44d2-9be8-45e9dc91e63b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2d7b4575-473e-48ea-9fc8-625b95eee37c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2d7b4575-473e-48ea-9fc8-625b95eee37c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f49f628b-8620-442a-829e-6bf5cde71fb2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f49f628b-8620-442a-829e-6bf5cde71fb2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0a95348e-fdef-4f9f-adf5-8c6f02c20372",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0a95348e-fdef-4f9f-adf5-8c6f02c20372",
+        "https://soa.tainan.gov.tw/Api/Service/Get/66edba07-f154-42ca-9ae1-a14de10c372c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/66edba07-f154-42ca-9ae1-a14de10c372c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0bc5bb58-84ef-45b5-b35d-c9059fd09819",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0bc5bb58-84ef-45b5-b35d-c9059fd09819",
+        "https://soa.tainan.gov.tw/Api/Service/Get/655e8f01-bafe-4af4-8c40-df16294b409e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/655e8f01-bafe-4af4-8c40-df16294b409e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8d9a1495-e0b7-409e-bcba-e6b7a6e5083d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8d9a1495-e0b7-409e-bcba-e6b7a6e5083d"
+      ]
+    },
+    {
+      "id": "114545",
+      "name": "108年新竹縣政府公務人員參訓人數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/656/cbc5f6b8-7dce-4baf-b9d7-cd8b8d126b7e.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/656/cbc5f6b8-7dce-4baf-b9d7-cd8b8d126b7e.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/656/cbc5f6b8-7dce-4baf-b9d7-cd8b8d126b7e.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/656/cbc5f6b8-7dce-4baf-b9d7-cd8b8d126b7e.json"
+      ]
+    },
+    {
+      "id": "92436",
+      "name": "新竹市政府各機關編制員額一覽表",
+      "format": "csv",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/399/f469afce-3d1b-4227-830b-7f38084f3bc8.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/399/f469afce-3d1b-4227-830b-7f38084f3bc8.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/399/f469afce-3d1b-4227-830b-7f38084f3bc8.json"
+      ]
+    },
+    {
+      "id": "130329",
+      "name": "109年度約聘(僱)人員聘(僱)用計畫書",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c19b6698-08a7-4810-b98b-1aeef41bf2c6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c19b6698-08a7-4810-b98b-1aeef41bf2c6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a40930cd-652d-4787-b7ff-1b794d372411",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a40930cd-652d-4787-b7ff-1b794d372411",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9f6d6d52-0575-424e-9104-242a57486b03",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9f6d6d52-0575-424e-9104-242a57486b03",
+        "https://soa.tainan.gov.tw/Api/Service/Get/69e253d7-f173-468f-8dea-27073e9d256b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/69e253d7-f173-468f-8dea-27073e9d256b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0b50f54e-610d-47d7-8537-28546474cbb2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0b50f54e-610d-47d7-8537-28546474cbb2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5b739cea-b77c-4eeb-a3d7-2af8f28ac34e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5b739cea-b77c-4eeb-a3d7-2af8f28ac34e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d00a11b3-72cf-4a5a-8291-6be47ec6ec71",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d00a11b3-72cf-4a5a-8291-6be47ec6ec71",
+        "https://soa.tainan.gov.tw/Api/Service/Get/22020bdf-dc7c-4366-b8dc-6e8ee7bb9674",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/22020bdf-dc7c-4366-b8dc-6e8ee7bb9674",
+        "https://soa.tainan.gov.tw/Api/Service/Get/62a3fc3e-2906-42c0-bda0-849fd97d8561",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/62a3fc3e-2906-42c0-bda0-849fd97d8561",
+        "https://soa.tainan.gov.tw/Api/Service/Get/31ef8708-7837-4eb8-9dec-874627079df5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/31ef8708-7837-4eb8-9dec-874627079df5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9f1f93d2-b742-4c72-9277-9308c3ba6a06",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9f1f93d2-b742-4c72-9277-9308c3ba6a06",
+        "https://soa.tainan.gov.tw/Api/Service/Get/534344da-d227-47e4-874e-b783ec332b40",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/534344da-d227-47e4-874e-b783ec332b40",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d0c61b3e-b4f5-4a0d-a256-bab8ec65be0d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d0c61b3e-b4f5-4a0d-a256-bab8ec65be0d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b8595060-5267-412f-a0f6-d029fb0e1d4c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b8595060-5267-412f-a0f6-d029fb0e1d4c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ea117b06-26a8-42cd-837f-e502c50f4b81",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ea117b06-26a8-42cd-837f-e502c50f4b81",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8014780a-4d63-4449-b5e6-e6ff30954490",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8014780a-4d63-4449-b5e6-e6ff30954490",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3809c490-1d3b-47aa-9716-f4b30b696386",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3809c490-1d3b-47aa-9716-f4b30b696386",
+        "https://soa.tainan.gov.tw/Api/Service/Get/94c21fbd-aa98-4bc7-8a60-f8546976d522",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/94c21fbd-aa98-4bc7-8a60-f8546976d522"
+      ]
+    },
+    {
+      "id": "109393",
+      "name": "106年新竹縣政府公務人員參訓人數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/401/5ebf004b-765b-4940-af11-ed78f1062bb7.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/401/5ebf004b-765b-4940-af11-ed78f1062bb7.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/401/5ebf004b-765b-4940-af11-ed78f1062bb7.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/401/5ebf004b-765b-4940-af11-ed78f1062bb7.json"
+      ]
+    },
+    {
+      "id": "109394",
+      "name": "107年新竹縣政府公務人員參訓人數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/402/58cb9bed-7ad7-4b47-8685-6a9f3a51a323.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/402/58cb9bed-7ad7-4b47-8685-6a9f3a51a323.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/402/58cb9bed-7ad7-4b47-8685-6a9f3a51a323.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/402/58cb9bed-7ad7-4b47-8685-6a9f3a51a323.json"
+      ]
+    },
+    {
+      "id": "168243",
+      "name": "新竹市政府開課及參訓人次情形一覽表",
+      "format": "xlsx",
+      "urls": [
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1684/c5525964-09ac-4e9b-a649-b4fa3f10e6d0.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1684/dcc15893-b439-4c76-9bf3-eb1a7d174e31.xlsx",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1684/dcc15893-b439-4c76-9bf3-eb1a7d174e31.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1684/c5525964-09ac-4e9b-a649-b4fa3f10e6d0.csv",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1684/c5525964-09ac-4e9b-a649-b4fa3f10e6d0.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1684/dcc15893-b439-4c76-9bf3-eb1a7d174e31.xml",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1684/dcc15893-b439-4c76-9bf3-eb1a7d174e31.json",
+        "https://odws.hccg.gov.tw/001/Upload/25/opendataback/9059/1684/c5525964-09ac-4e9b-a649-b4fa3f10e6d0.json"
+      ]
+    },
+    {
+      "id": "148037",
+      "name": "110年新竹縣政府公務人員參訓人數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1601/d3b71bc1-f8ce-4a79-a269-27849ffdbc84.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1601/d3b71bc1-f8ce-4a79-a269-27849ffdbc84.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1601/d3b71bc1-f8ce-4a79-a269-27849ffdbc84.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1601/d3b71bc1-f8ce-4a79-a269-27849ffdbc84.json"
+      ]
+    },
+    {
+      "id": "139188",
+      "name": "身心障礙人員進用統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8b0fac67-5659-40f5-b4b8-19d3499d5483",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8b0fac67-5659-40f5-b4b8-19d3499d5483",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5a03c5e5-9c16-461c-9d9d-3abdda02e9ee",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5a03c5e5-9c16-461c-9d9d-3abdda02e9ee",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4787a554-5c42-4c88-b4b6-418214a675a1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4787a554-5c42-4c88-b4b6-418214a675a1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b3cd21ae-5eac-404c-890b-4dd6975c32ff",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b3cd21ae-5eac-404c-890b-4dd6975c32ff",
+        "https://soa.tainan.gov.tw/Api/Service/Get/651b6ee4-3c3c-404c-8fbd-8f94bdaa9da9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/651b6ee4-3c3c-404c-8fbd-8f94bdaa9da9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/06118ec6-d3e9-4ccc-add0-c889c2067eae",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/06118ec6-d3e9-4ccc-add0-c889c2067eae",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ed8a7120-a0bd-48ee-8152-f88260a0c9a4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ed8a7120-a0bd-48ee-8152-f88260a0c9a4"
+      ]
+    },
+    {
+      "id": "172245",
+      "name": "113年度約聘(僱)人員聘(僱)用計畫書",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/cd40a149-b75a-4978-8b07-1074ff002c8f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cd40a149-b75a-4978-8b07-1074ff002c8f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/592021e9-fadc-46e0-9d26-16443662702a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/592021e9-fadc-46e0-9d26-16443662702a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/be59c0de-2198-4f92-b91c-285b7122a785",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/be59c0de-2198-4f92-b91c-285b7122a785",
+        "https://soa.tainan.gov.tw/Api/Service/Get/defbcac3-559b-473f-bede-3ac26a2544a0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/defbcac3-559b-473f-bede-3ac26a2544a0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/48724547-299c-4351-aa78-48bef124a187",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/48724547-299c-4351-aa78-48bef124a187",
+        "https://soa.tainan.gov.tw/Api/Service/Get/35d865fa-b91f-4c4a-91a8-5bd9a16971cd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/35d865fa-b91f-4c4a-91a8-5bd9a16971cd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7c84ba77-4d10-430e-8a29-5ef6715e6837",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7c84ba77-4d10-430e-8a29-5ef6715e6837",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9ede90e8-ba12-4934-ba23-6eee067a2fa4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9ede90e8-ba12-4934-ba23-6eee067a2fa4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3c1b56a4-74df-4f71-8c86-706f71b30de5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3c1b56a4-74df-4f71-8c86-706f71b30de5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f9019ee8-3a50-4504-8e32-79bc9ea3fcb8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f9019ee8-3a50-4504-8e32-79bc9ea3fcb8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d36a44f8-b09e-460b-976c-871d7f701df1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d36a44f8-b09e-460b-976c-871d7f701df1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7ff2c085-5099-4cf5-b44a-94e7aaae738f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7ff2c085-5099-4cf5-b44a-94e7aaae738f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7f55ee6c-c84b-4384-8409-9ad4959fc50e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7f55ee6c-c84b-4384-8409-9ad4959fc50e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a3085aa0-c01b-4ea2-9330-9e882e913f1c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a3085aa0-c01b-4ea2-9330-9e882e913f1c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dad6d9bc-00a7-42d3-8c15-b8114882f988",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dad6d9bc-00a7-42d3-8c15-b8114882f988",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ced6b0ee-8af4-48c4-b58d-cc017737f654",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ced6b0ee-8af4-48c4-b58d-cc017737f654",
+        "https://soa.tainan.gov.tw/Api/Service/Get/206b3146-fb65-4e80-af5e-e92628753c34",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/206b3146-fb65-4e80-af5e-e92628753c34",
+        "https://soa.tainan.gov.tw/Api/Service/Get/06cce446-ef6b-4bbb-b0dc-f0f0cdb4cada",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/06cce446-ef6b-4bbb-b0dc-f0f0cdb4cada",
+        "https://soa.tainan.gov.tw/Api/Service/Get/58b8b0a0-6ac3-4169-ab52-f6212d1ecea8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/58b8b0a0-6ac3-4169-ab52-f6212d1ecea8"
+      ]
+    },
+    {
+      "id": "176105",
+      "name": "內政部暨所屬機關各官等性別概況",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A019418E-94C4-4831-AFEA-CD733FE7DE22/resource/019A9E27-E8B4-4465-8B42-DCA9C83897E2/download"
+      ]
+    },
+    {
+      "id": "42468",
+      "name": "104年新竹縣政府公務人員參訓人數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/23/e76cac90-a7fa-4203-86b4-dd2c0240d31c.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/23/e76cac90-a7fa-4203-86b4-dd2c0240d31c.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/23/e76cac90-a7fa-4203-86b4-dd2c0240d31c.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/23/e76cac90-a7fa-4203-86b4-dd2c0240d31c.json"
+      ]
+    },
+    {
+      "id": "98693",
+      "name": "臺南市所屬機關學校公教人員教育程度",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/eca31f50-b8f4-4e09-994b-2fab13943880",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eca31f50-b8f4-4e09-994b-2fab13943880",
+        "https://soa.tainan.gov.tw/Api/Service/Get/22c6cfbe-e43e-4871-befa-44ebef7e502b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/22c6cfbe-e43e-4871-befa-44ebef7e502b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9ac92a8b-93bd-43a5-ba64-72ccb37df92e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9ac92a8b-93bd-43a5-ba64-72ccb37df92e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d52ef5b1-2239-49cd-bab6-78ac98a9d073",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d52ef5b1-2239-49cd-bab6-78ac98a9d073",
+        "https://soa.tainan.gov.tw/Api/Service/Get/90dbc16c-532e-4907-98ac-7d0847aa47d9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/90dbc16c-532e-4907-98ac-7d0847aa47d9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0bee8adf-7cd6-4892-948a-8232969f4b99",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0bee8adf-7cd6-4892-948a-8232969f4b99",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f70f4bed-0be9-4ae4-a6c8-b7da9d22bd3e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f70f4bed-0be9-4ae4-a6c8-b7da9d22bd3e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0b5bc771-9cb9-48fd-9fd4-bdaad024e8e4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0b5bc771-9cb9-48fd-9fd4-bdaad024e8e4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dc198562-c9eb-4e48-af4a-edcac4468e50",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dc198562-c9eb-4e48-af4a-edcac4468e50"
+      ]
+    },
+    {
+      "id": "122756",
+      "name": "臺南市政府模範公務人員核定名冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/16d536ff-3f49-4cdb-951b-01c478f99042",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/16d536ff-3f49-4cdb-951b-01c478f99042",
+        "https://soa.tainan.gov.tw/Api/Service/Get/897e9241-1169-40b9-a4be-186d3f1b81a5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/897e9241-1169-40b9-a4be-186d3f1b81a5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0d1ab529-e357-4b32-ae8b-6f25cd9b18f4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0d1ab529-e357-4b32-ae8b-6f25cd9b18f4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/41888983-ff2b-4531-9a9a-9ff6138b4453",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/41888983-ff2b-4531-9a9a-9ff6138b4453",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f102b6cb-4647-4f18-8122-adcbf89c65cc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f102b6cb-4647-4f18-8122-adcbf89c65cc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c5879ec0-42b4-4678-843b-bf3cf7deb2e7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c5879ec0-42b4-4678-843b-bf3cf7deb2e7"
+      ]
+    },
+    {
+      "id": "109392",
+      "name": "105年新竹縣政府公務人員參訓人數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/399/4b3570ee-89de-485d-9afb-423800ed1b35.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/399/4b3570ee-89de-485d-9afb-423800ed1b35.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/399/4b3570ee-89de-485d-9afb-423800ed1b35.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/399/4b3570ee-89de-485d-9afb-423800ed1b35.json"
+      ]
+    },
+    {
+      "id": "136489",
+      "name": "109年新竹縣政府公務人員參訓人數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1153/e1fbabf8-e3f8-46c6-b77c-ba42935a19b5.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1153/e1fbabf8-e3f8-46c6-b77c-ba42935a19b5.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1153/e1fbabf8-e3f8-46c6-b77c-ba42935a19b5.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1153/e1fbabf8-e3f8-46c6-b77c-ba42935a19b5.json"
+      ]
+    },
+    {
+      "id": "136687",
+      "name": "新竹縣政府各年度公務人員考試新進人員人數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1177/d4859259-91cc-41da-bee2-0f3be4b2e4a1.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1177/d4859259-91cc-41da-bee2-0f3be4b2e4a1.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1177/d4859259-91cc-41da-bee2-0f3be4b2e4a1.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/1177/d4859259-91cc-41da-bee2-0f3be4b2e4a1.json"
+      ]
+    },
+    {
+      "id": "172229",
+      "name": "臺南市政府及所屬機關公務人員獎懲狀況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a3090010-894e-4d36-b34f-a05b1d611095",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a3090010-894e-4d36-b34f-a05b1d611095",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d88b157b-e3f9-48a6-80bf-ebb08ca4aee5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d88b157b-e3f9-48a6-80bf-ebb08ca4aee5"
+      ]
+    },
+    {
+      "id": "167376",
+      "name": "112年新竹縣政府公務人員參訓人數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/2373/50847b1e-8599-467f-a87c-bf7a146c96a6.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/2373/50847b1e-8599-467f-a87c-bf7a146c96a6.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/2373/50847b1e-8599-467f-a87c-bf7a146c96a6.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/2373/50847b1e-8599-467f-a87c-bf7a146c96a6.json"
+      ]
+    },
+    {
+      "id": "109277",
+      "name": "新竹縣政府機關通訊錄",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/230/d45826dc-7f5b-4d76-b336-39d2393f870d.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/230/d45826dc-7f5b-4d76-b336-39d2393f870d.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/230/d45826dc-7f5b-4d76-b336-39d2393f870d.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/230/d45826dc-7f5b-4d76-b336-39d2393f870d.json"
+      ]
+    },
+    {
+      "id": "108279",
+      "name": "臺南市天然災害停止上班上課日數統計一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/951d4766-6b66-4b3c-9694-91bed1f54fd9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/951d4766-6b66-4b3c-9694-91bed1f54fd9"
+      ]
+    },
+    {
+      "id": "130369",
+      "name": "本府暨所屬一級機關近三年職員離職率",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3452f59d-2573-492e-a579-86d63e770717",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3452f59d-2573-492e-a579-86d63e770717"
+      ]
+    },
+    {
+      "id": "152469",
+      "name": "111年度約聘(僱)人員聘(僱)用計畫書",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/848e56cf-a78f-4719-9ee5-02a9ea8bfc82",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/848e56cf-a78f-4719-9ee5-02a9ea8bfc82",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0aa78524-8172-4a38-9dad-043418be2b5b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0aa78524-8172-4a38-9dad-043418be2b5b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a994d45c-341c-40bd-9063-0b5af33de04e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a994d45c-341c-40bd-9063-0b5af33de04e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/277fba15-a170-4161-ae69-199a366b23a6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/277fba15-a170-4161-ae69-199a366b23a6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5df9a8f4-1b1c-4014-a2b2-1f1f6b9e21f6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5df9a8f4-1b1c-4014-a2b2-1f1f6b9e21f6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5ec606e2-f024-4ecf-b21c-2474f70a0f02",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5ec606e2-f024-4ecf-b21c-2474f70a0f02",
+        "https://soa.tainan.gov.tw/Api/Service/Get/85042c31-1f3d-40de-b4ba-349822360785",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/85042c31-1f3d-40de-b4ba-349822360785",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ff92a142-f3ce-4f91-b781-39476eb94b3e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ff92a142-f3ce-4f91-b781-39476eb94b3e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/df4d1d27-8628-4dfe-9b6d-45b87a5cad89",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/df4d1d27-8628-4dfe-9b6d-45b87a5cad89",
+        "https://soa.tainan.gov.tw/Api/Service/Get/607f8b1e-c4e3-443f-b59a-694b32142138",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/607f8b1e-c4e3-443f-b59a-694b32142138",
+        "https://soa.tainan.gov.tw/Api/Service/Get/df3009fa-2cad-491f-beb3-a9e6a7524b01",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/df3009fa-2cad-491f-beb3-a9e6a7524b01",
+        "https://soa.tainan.gov.tw/Api/Service/Get/efc2dc0a-d9c2-4a82-80d5-afda8bf1a8a7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/efc2dc0a-d9c2-4a82-80d5-afda8bf1a8a7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3c416cb3-388d-4ce4-bcfa-b7b6bda65c96",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3c416cb3-388d-4ce4-bcfa-b7b6bda65c96",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8cc51ca4-f274-4e0a-bed9-bb5a6271da39",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8cc51ca4-f274-4e0a-bed9-bb5a6271da39",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1fd473f5-3e37-4a07-993f-cfbf1b08e159",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1fd473f5-3e37-4a07-993f-cfbf1b08e159",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1e5ccb3d-8ce5-46e5-849f-d1946e85fcef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1e5ccb3d-8ce5-46e5-849f-d1946e85fcef",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b4f8f165-4cfc-492b-9a84-dd20e3e7bda1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b4f8f165-4cfc-492b-9a84-dd20e3e7bda1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/781e3803-ab27-4912-8117-fdc4f17c3e81",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/781e3803-ab27-4912-8117-fdc4f17c3e81"
+      ]
+    },
+    {
+      "id": "152471",
+      "name": "臺南市政府人事處暨所屬人事機構人事人員年齡結構",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1b08a149-6045-4213-885e-05f2ab816fdc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1b08a149-6045-4213-885e-05f2ab816fdc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/abe17786-fb17-422b-9a97-0df211d372a6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/abe17786-fb17-422b-9a97-0df211d372a6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/549bf4ef-bde0-470f-843b-dc124320495f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/549bf4ef-bde0-470f-843b-dc124320495f"
+      ]
+    },
+    {
+      "id": "174586",
+      "name": "內政部暨所屬機關各官等性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A598C4B5-1835-400E-9B22-8BAEBDA22A0D/resource/EA78BFCC-9691-471B-AA2E-8B44109074D4/download"
+      ]
+    }
+  ]
+}

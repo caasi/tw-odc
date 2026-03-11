@@ -1,0 +1,1631 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府環境保護局",
+  "slug": "openapi_kcg_gov_tw_4594961e",
+  "datasets": [
+    {
+      "id": "104882",
+      "name": "高雄市土壤及地下水污染控制場址",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ba52417e-6e0d-49bc-b2b8-3fcf7ea48af7",
+        "https://data.kcg.gov.tw/File/DirectDownload/ba52417e-6e0d-49bc-b2b8-3fcf7ea48af7"
+      ]
+    },
+    {
+      "id": "104884",
+      "name": "高雄市土壤及地下水列管資料(已解除列管場址)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2656f79c-5bc5-47c7-93f5-ec7a3e0f5ef9",
+        "https://data.kcg.gov.tw/File/DirectDownload/2656f79c-5bc5-47c7-93f5-ec7a3e0f5ef9"
+      ]
+    },
+    {
+      "id": "104894",
+      "name": "高雄市列管高雄市土壤及地下水污染場址資料(農地場址)-土壤管制區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/54e8d738-d9d3-4969-acee-8b8b269c405c",
+        "https://data.kcg.gov.tw/File/DirectDownload/54e8d738-d9d3-4969-acee-8b8b269c405c"
+      ]
+    },
+    {
+      "id": "104782",
+      "name": "高雄市噪音監測站位置",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9d0e91d9-1047-4072-bdcd-758f9f0d8827",
+        "https://data.kcg.gov.tw/File/DirectDownload/9d0e91d9-1047-4072-bdcd-758f9f0d8827"
+      ]
+    },
+    {
+      "id": "104783",
+      "name": "高雄市空氣品質人工測站監測數值2016-2018年",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c14a46a8-4dcb-4d89-a549-169d88d159c1",
+        "https://data.kcg.gov.tw/File/DirectDownload/c14a46a8-4dcb-4d89-a549-169d88d159c1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed5eacda-ee80-44b4-aa9a-88bbaf054512",
+        "https://data.kcg.gov.tw/File/DirectDownload/ed5eacda-ee80-44b4-aa9a-88bbaf054512",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a6fd13e4-f87a-40a1-815b-8d12d925a150",
+        "https://data.kcg.gov.tw/File/DirectDownload/a6fd13e4-f87a-40a1-815b-8d12d925a150"
+      ]
+    },
+    {
+      "id": "107034",
+      "name": "高雄市苓雅區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6cb25697-b1e3-4dad-9221-3348e42950d2",
+        "https://data.kcg.gov.tw/File/DirectDownload/6cb25697-b1e3-4dad-9221-3348e42950d2"
+      ]
+    },
+    {
+      "id": "107038",
+      "name": "高雄市林園區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/53fa3c3d-19a6-4bed-b864-9ae8e3734f7b",
+        "https://data.kcg.gov.tw/File/DirectDownload/53fa3c3d-19a6-4bed-b864-9ae8e3734f7b"
+      ]
+    },
+    {
+      "id": "107039",
+      "name": "高雄市杉林區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e983ab14-395e-438d-858c-b5da32592c10",
+        "https://data.kcg.gov.tw/File/DirectDownload/e983ab14-395e-438d-858c-b5da32592c10"
+      ]
+    },
+    {
+      "id": "107042",
+      "name": "高雄市甲仙區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/28d23cf4-4b41-43d7-ad2e-57ab1b13470f",
+        "https://data.kcg.gov.tw/File/DirectDownload/28d23cf4-4b41-43d7-ad2e-57ab1b13470f"
+      ]
+    },
+    {
+      "id": "107044",
+      "name": "高雄市左營區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/229f7031-13a9-410b-9586-3ce04539dd62",
+        "https://data.kcg.gov.tw/File/DirectDownload/229f7031-13a9-410b-9586-3ce04539dd62"
+      ]
+    },
+    {
+      "id": "107045",
+      "name": "高雄市田寮區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7392cdeb-d7fe-4913-a528-ff7fea13c031",
+        "https://data.kcg.gov.tw/File/DirectDownload/7392cdeb-d7fe-4913-a528-ff7fea13c031"
+      ]
+    },
+    {
+      "id": "107046",
+      "name": "高雄市北鳳山區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7650abef-10ae-43b8-b584-a678fbfb43cd",
+        "https://data.kcg.gov.tw/File/DirectDownload/7650abef-10ae-43b8-b584-a678fbfb43cd"
+      ]
+    },
+    {
+      "id": "107049",
+      "name": "高雄市大寮區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ef7e61e0-1e88-4b74-bf26-84defbb32917",
+        "https://data.kcg.gov.tw/File/DirectDownload/ef7e61e0-1e88-4b74-bf26-84defbb32917"
+      ]
+    },
+    {
+      "id": "107055",
+      "name": "高雄市旗山區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/11b45c9e-d5ef-4abc-a970-82a03d4fe758",
+        "https://data.kcg.gov.tw/File/DirectDownload/11b45c9e-d5ef-4abc-a970-82a03d4fe758"
+      ]
+    },
+    {
+      "id": "107056",
+      "name": "高雄市鼓山區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/89cdab3d-b395-46cc-a1d3-086b3f195e32",
+        "https://data.kcg.gov.tw/File/DirectDownload/89cdab3d-b395-46cc-a1d3-086b3f195e32"
+      ]
+    },
+    {
+      "id": "127540",
+      "name": "高雄市政府109年度環境水體監測資料(3月份)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2ce0b6f6-9e74-469c-b9a0-cbf0ac48d25a",
+        "https://data.kcg.gov.tw/File/DirectDownload/2ce0b6f6-9e74-469c-b9a0-cbf0ac48d25a"
+      ]
+    },
+    {
+      "id": "128338",
+      "name": "高雄市環保旅店",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2304e515-59ec-4267-ab3b-03b9669adb77",
+        "https://data.kcg.gov.tw/File/DirectDownload/2304e515-59ec-4267-ab3b-03b9669adb77"
+      ]
+    },
+    {
+      "id": "128339",
+      "name": "高雄市環保餐廳",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e6a7a72a-ae73-49fc-b3d8-f149a48e29ef",
+        "https://data.kcg.gov.tw/File/DirectDownload/e6a7a72a-ae73-49fc-b3d8-f149a48e29ef"
+      ]
+    },
+    {
+      "id": "128342",
+      "name": "高雄市綠色商店",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/68103796-8526-4788-b1f3-015141ed7abf",
+        "https://data.kcg.gov.tw/File/DirectDownload/68103796-8526-4788-b1f3-015141ed7abf"
+      ]
+    },
+    {
+      "id": "128461",
+      "name": "高雄市室內空氣品質管理現況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4236f5db-72e8-4a17-924c-1b075c9035b8",
+        "https://data.kcg.gov.tw/File/DirectDownload/4236f5db-72e8-4a17-924c-1b075c9035b8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/289d62ca-caf7-414e-8ddd-e45338f4a202",
+        "https://data.kcg.gov.tw/File/DirectDownload/289d62ca-caf7-414e-8ddd-e45338f4a202"
+      ]
+    },
+    {
+      "id": "107887",
+      "name": "高雄市美濃區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f29ccae-ad8e-405b-9fc0-20895e4670f7",
+        "https://data.kcg.gov.tw/File/DirectDownload/5f29ccae-ad8e-405b-9fc0-20895e4670f7"
+      ]
+    },
+    {
+      "id": "87273",
+      "name": "高雄市清潔隊位置",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b9d47018-b508-43a0-8e7c-fb1e29aa66d1",
+        "https://data.kcg.gov.tw/File/DirectDownload/b9d47018-b508-43a0-8e7c-fb1e29aa66d1"
+      ]
+    },
+    {
+      "id": "87274",
+      "name": "高雄市廢食用油清除機構名單",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/41fdb5fa-74cc-4b87-955e-51b7b5fe4c28",
+        "https://data.kcg.gov.tw/File/DirectDownload/41fdb5fa-74cc-4b87-955e-51b7b5fe4c28"
+      ]
+    },
+    {
+      "id": "87154",
+      "name": "高雄市處理業機構名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/de926a4e-08a4-4bb3-90bf-670f9bc847d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/de926a4e-08a4-4bb3-90bf-670f9bc847d6"
+      ]
+    },
+    {
+      "id": "86856",
+      "name": "高雄市政府107年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eef8ab85-c746-4b3c-b4e2-117e89cfd4ef",
+        "https://data.kcg.gov.tw/File/DirectDownload/eef8ab85-c746-4b3c-b4e2-117e89cfd4ef",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f06123a8-68a5-488a-ac77-15f35b9cb264",
+        "https://data.kcg.gov.tw/File/DirectDownload/f06123a8-68a5-488a-ac77-15f35b9cb264",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1a951dc3-783c-4a02-b583-24d92cea16d3",
+        "https://data.kcg.gov.tw/File/DirectDownload/1a951dc3-783c-4a02-b583-24d92cea16d3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/50f0a799-abba-4fd9-bb65-3c49ca076072",
+        "https://data.kcg.gov.tw/File/DirectDownload/50f0a799-abba-4fd9-bb65-3c49ca076072",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bf12e14f-c28b-4568-8ec5-3efff25b703e",
+        "https://data.kcg.gov.tw/File/DirectDownload/bf12e14f-c28b-4568-8ec5-3efff25b703e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2098df1a-bf25-4c7f-83f0-76c727b657b1",
+        "https://data.kcg.gov.tw/File/DirectDownload/2098df1a-bf25-4c7f-83f0-76c727b657b1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/79275424-0654-4732-a202-8553406efdcc",
+        "https://data.kcg.gov.tw/File/DirectDownload/79275424-0654-4732-a202-8553406efdcc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dc1b794f-a258-4e9c-b3d6-874745707585",
+        "https://data.kcg.gov.tw/File/DirectDownload/dc1b794f-a258-4e9c-b3d6-874745707585",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4df23856-0f0e-447e-82cb-979e65e8dc86",
+        "https://data.kcg.gov.tw/File/DirectDownload/4df23856-0f0e-447e-82cb-979e65e8dc86",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c470ebe2-a0a8-4571-b724-9d0f8614ed3e",
+        "https://data.kcg.gov.tw/File/DirectDownload/c470ebe2-a0a8-4571-b724-9d0f8614ed3e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/05ba52ab-b58a-4294-9d19-9e3929f57cf0",
+        "https://data.kcg.gov.tw/File/DirectDownload/05ba52ab-b58a-4294-9d19-9e3929f57cf0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/19c61aca-cac8-4b80-bbb9-ca80e00a2543",
+        "https://data.kcg.gov.tw/File/DirectDownload/19c61aca-cac8-4b80-bbb9-ca80e00a2543"
+      ]
+    },
+    {
+      "id": "117726",
+      "name": "垃圾車到點時間預估",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/14fe516d-ac62-4905-9325-70daae7616bd"
+      ]
+    },
+    {
+      "id": "138320",
+      "name": "高雄市一般地區環境音量監測不合格情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c84190f7-c812-4699-be1d-0128494e3cf2",
+        "https://data.kcg.gov.tw/File/DirectDownload/c84190f7-c812-4699-be1d-0128494e3cf2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4222fb50-2b2f-4077-9fa9-077abf11ecd1",
+        "https://data.kcg.gov.tw/File/DirectDownload/4222fb50-2b2f-4077-9fa9-077abf11ecd1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0e22a96f-3958-4087-8ab0-1a3c88253ff3",
+        "https://data.kcg.gov.tw/File/DirectDownload/0e22a96f-3958-4087-8ab0-1a3c88253ff3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fbc6b944-c742-441a-b3a7-3123ae66e1d8",
+        "https://data.kcg.gov.tw/File/DirectDownload/fbc6b944-c742-441a-b3a7-3123ae66e1d8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/01ffa9b4-409d-4144-a897-39c0359c1a85",
+        "https://data.kcg.gov.tw/File/DirectDownload/01ffa9b4-409d-4144-a897-39c0359c1a85",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9814f73e-400c-477b-9244-3d0cf0cc4935",
+        "https://data.kcg.gov.tw/File/DirectDownload/9814f73e-400c-477b-9244-3d0cf0cc4935",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/226c9ef3-4894-4842-ac6e-412ae504fe1f",
+        "https://data.kcg.gov.tw/File/DirectDownload/226c9ef3-4894-4842-ac6e-412ae504fe1f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8fe48a3d-fd0a-435f-980c-4d05af164c89",
+        "https://data.kcg.gov.tw/File/DirectDownload/8fe48a3d-fd0a-435f-980c-4d05af164c89",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5af2f786-8a6e-4bea-82f1-5162156c4d1b",
+        "https://data.kcg.gov.tw/File/DirectDownload/5af2f786-8a6e-4bea-82f1-5162156c4d1b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/82226e24-7d8f-4089-bbf8-732d1b8e57e5",
+        "https://data.kcg.gov.tw/File/DirectDownload/82226e24-7d8f-4089-bbf8-732d1b8e57e5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4cad9199-8654-4531-8e12-79d211304955",
+        "https://data.kcg.gov.tw/File/DirectDownload/4cad9199-8654-4531-8e12-79d211304955",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/44b9646f-451e-4832-b08c-80d95111d180",
+        "https://data.kcg.gov.tw/File/DirectDownload/44b9646f-451e-4832-b08c-80d95111d180",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed3312d7-ef70-4714-a7c6-8503bce153be",
+        "https://data.kcg.gov.tw/File/DirectDownload/ed3312d7-ef70-4714-a7c6-8503bce153be",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0ba36ec-055d-4ebf-960d-85399e631bc7",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0ba36ec-055d-4ebf-960d-85399e631bc7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/19555a90-149f-4d27-9aba-9165ab3086cb",
+        "https://data.kcg.gov.tw/File/DirectDownload/19555a90-149f-4d27-9aba-9165ab3086cb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7a22b14c-798f-42cd-aaf5-a4e41e63e4b5",
+        "https://data.kcg.gov.tw/File/DirectDownload/7a22b14c-798f-42cd-aaf5-a4e41e63e4b5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f1524dca-72e9-408e-b1ff-c134f2002070",
+        "https://data.kcg.gov.tw/File/DirectDownload/f1524dca-72e9-408e-b1ff-c134f2002070",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/930658f3-ad23-47d1-969d-c5368232954d",
+        "https://data.kcg.gov.tw/File/DirectDownload/930658f3-ad23-47d1-969d-c5368232954d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4dd044ef-8e7b-47bb-8415-c5a8359cb0a5",
+        "https://data.kcg.gov.tw/File/DirectDownload/4dd044ef-8e7b-47bb-8415-c5a8359cb0a5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f7e7dd2-17b2-4733-9d38-c69897f3160e",
+        "https://data.kcg.gov.tw/File/DirectDownload/0f7e7dd2-17b2-4733-9d38-c69897f3160e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5d214705-1ce5-4b52-a49f-ecd0df1f6523",
+        "https://data.kcg.gov.tw/File/DirectDownload/5d214705-1ce5-4b52-a49f-ecd0df1f6523",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/835b0dab-f5a5-4c41-b53d-f22a5bf70f9c",
+        "https://data.kcg.gov.tw/File/DirectDownload/835b0dab-f5a5-4c41-b53d-f22a5bf70f9c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5c450056-786c-49f5-946b-fdc4a4584d22",
+        "https://data.kcg.gov.tw/File/DirectDownload/5c450056-786c-49f5-946b-fdc4a4584d22"
+      ]
+    },
+    {
+      "id": "136995",
+      "name": "高雄市政府110年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f927839f-853d-4b42-a816-04b61bcbc3c1",
+        "https://data.kcg.gov.tw/File/DirectDownload/f927839f-853d-4b42-a816-04b61bcbc3c1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90495fa1-acba-44f4-a7a8-0d06f34cd3a5",
+        "https://data.kcg.gov.tw/File/DirectDownload/90495fa1-acba-44f4-a7a8-0d06f34cd3a5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/97f9ddfa-5d45-4388-83f3-3809345ae916",
+        "https://data.kcg.gov.tw/File/DirectDownload/97f9ddfa-5d45-4388-83f3-3809345ae916",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/668e639c-927f-48a1-9ee9-7f38b1745a44",
+        "https://data.kcg.gov.tw/File/DirectDownload/668e639c-927f-48a1-9ee9-7f38b1745a44",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2ce3a5d8-dc25-4b6f-b27f-96f4400a91f8",
+        "https://data.kcg.gov.tw/File/DirectDownload/2ce3a5d8-dc25-4b6f-b27f-96f4400a91f8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/92f1f49a-4461-42ee-b0a7-9d06df5b0333",
+        "https://data.kcg.gov.tw/File/DirectDownload/92f1f49a-4461-42ee-b0a7-9d06df5b0333",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ffbc019e-8077-4b04-9852-9d519643455a",
+        "https://data.kcg.gov.tw/File/DirectDownload/ffbc019e-8077-4b04-9852-9d519643455a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1b2e7fdf-4184-498c-bec4-ab589ca58e6c",
+        "https://data.kcg.gov.tw/File/DirectDownload/1b2e7fdf-4184-498c-bec4-ab589ca58e6c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/728af0fe-c821-433e-8ec8-ab6e89c85027",
+        "https://data.kcg.gov.tw/File/DirectDownload/728af0fe-c821-433e-8ec8-ab6e89c85027",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c644efc0-ab50-4acf-9d2e-b863009ad4d5",
+        "https://data.kcg.gov.tw/File/DirectDownload/c644efc0-ab50-4acf-9d2e-b863009ad4d5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a759f8f6-195d-4c2a-8230-cd1da8347e83",
+        "https://data.kcg.gov.tw/File/DirectDownload/a759f8f6-195d-4c2a-8230-cd1da8347e83",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d110a181-d095-470a-9583-d46068241124",
+        "https://data.kcg.gov.tw/File/DirectDownload/d110a181-d095-470a-9583-d46068241124"
+      ]
+    },
+    {
+      "id": "148437",
+      "name": "高雄市空氣品質人工測站監測數值2021年",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a5e0fbc7-c702-45be-b45f-0aaddcb24949",
+        "https://data.kcg.gov.tw/File/DirectDownload/a5e0fbc7-c702-45be-b45f-0aaddcb24949",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f1238f0-5941-4a07-972f-44e87ba3f396",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f1238f0-5941-4a07-972f-44e87ba3f396",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9b6dd95c-a47f-41f4-b484-55a949ff14ed",
+        "https://data.kcg.gov.tw/File/DirectDownload/9b6dd95c-a47f-41f4-b484-55a949ff14ed",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/93d03c13-65ed-461f-ae3b-6636de5fef50",
+        "https://data.kcg.gov.tw/File/DirectDownload/93d03c13-65ed-461f-ae3b-6636de5fef50",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed10c7dc-0a99-4e5d-8a1e-8d3cc71333a3",
+        "https://data.kcg.gov.tw/File/DirectDownload/ed10c7dc-0a99-4e5d-8a1e-8d3cc71333a3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eb290f70-9c13-4707-b8f4-9058127555e1",
+        "https://data.kcg.gov.tw/File/DirectDownload/eb290f70-9c13-4707-b8f4-9058127555e1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f40fe71f-5ff4-43da-8018-9243434952b8",
+        "https://data.kcg.gov.tw/File/DirectDownload/f40fe71f-5ff4-43da-8018-9243434952b8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8d5bed68-5fa9-45d5-825d-caa9e7cc5c66",
+        "https://data.kcg.gov.tw/File/DirectDownload/8d5bed68-5fa9-45d5-825d-caa9e7cc5c66",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a0394ac6-9506-4f3d-a64b-d09482863675",
+        "https://data.kcg.gov.tw/File/DirectDownload/a0394ac6-9506-4f3d-a64b-d09482863675",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bcac23ca-aab3-4cad-80cc-e22bb7bb51d4",
+        "https://data.kcg.gov.tw/File/DirectDownload/bcac23ca-aab3-4cad-80cc-e22bb7bb51d4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/592049e0-18de-42d1-9500-f147f690d6c9",
+        "https://data.kcg.gov.tw/File/DirectDownload/592049e0-18de-42d1-9500-f147f690d6c9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f7d6291-f973-4b33-8fd6-fc4a1844587d",
+        "https://data.kcg.gov.tw/File/DirectDownload/5f7d6291-f973-4b33-8fd6-fc4a1844587d"
+      ]
+    },
+    {
+      "id": "132778",
+      "name": "高雄市民眾檢舉違反廢棄物清理法案件獎勵辦法",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a9e8505-ecca-42e5-9626-72d5cdbeb08a",
+        "https://data.kcg.gov.tw/File/DirectDownload/6a9e8505-ecca-42e5-9626-72d5cdbeb08a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/da8db82e-fc06-4930-8e04-d925482cf4ec",
+        "https://data.kcg.gov.tw/File/DirectDownload/da8db82e-fc06-4930-8e04-d925482cf4ec"
+      ]
+    },
+    {
+      "id": "86419",
+      "name": "高雄市核准身障福利團體設置舊衣回收箱",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f4fc4d6-a4b0-4574-af19-f1f41bf40af5",
+        "https://data.kcg.gov.tw/File/DirectDownload/0f4fc4d6-a4b0-4574-af19-f1f41bf40af5"
+      ]
+    },
+    {
+      "id": "86420",
+      "name": "高雄市ARM自動資源回收機器設置地點、開放時間及回收項目",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/53b3b980-5915-47b1-bce8-cafc26cad3a6",
+        "https://data.kcg.gov.tw/File/DirectDownload/53b3b980-5915-47b1-bce8-cafc26cad3a6"
+      ]
+    },
+    {
+      "id": "86393",
+      "name": "高雄市柴油車輛管理資訊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8aac2f0a-710e-456a-8e2c-b4a1318be173",
+        "https://data.kcg.gov.tw/File/DirectDownload/8aac2f0a-710e-456a-8e2c-b4a1318be173",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0c5596ea-8043-4625-a127-be4ee2c2a0a1",
+        "https://data.kcg.gov.tw/File/DirectDownload/0c5596ea-8043-4625-a127-be4ee2c2a0a1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/34bac472-4041-40c9-8a47-cfbe9460a80a",
+        "https://data.kcg.gov.tw/File/DirectDownload/34bac472-4041-40c9-8a47-cfbe9460a80a"
+      ]
+    },
+    {
+      "id": "87157",
+      "name": "高雄市公廁位置",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/55079b00-e25e-4494-ad2c-30c0ec91d327",
+        "https://data.kcg.gov.tw/File/DirectDownload/55079b00-e25e-4494-ad2c-30c0ec91d327"
+      ]
+    },
+    {
+      "id": "87158",
+      "name": "高雄市回收業機構名冊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1baebfd2-ce88-4f7c-bcc2-1268e05317ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/1baebfd2-ce88-4f7c-bcc2-1268e05317ac"
+      ]
+    },
+    {
+      "id": "87213",
+      "name": "高雄市即時空氣污染物連續自動監測設施(CEMS)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c9f09e48-af86-45c5-a3c8-6d1b68d7df10",
+        "https://data.kcg.gov.tw/File/DirectDownload/c9f09e48-af86-45c5-a3c8-6d1b68d7df10",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3ccfecf-da8c-410a-9efb-e960ee806ed7",
+        "https://data.kcg.gov.tw/File/DirectDownload/a3ccfecf-da8c-410a-9efb-e960ee806ed7"
+      ]
+    },
+    {
+      "id": "101943",
+      "name": "高雄市政府105年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c87481bd-cf0f-478e-8273-95588ef801f9",
+        "https://data.kcg.gov.tw/File/DirectDownload/c87481bd-cf0f-478e-8273-95588ef801f9"
+      ]
+    },
+    {
+      "id": "101944",
+      "name": "高雄市政府104年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3518567f-f343-4abb-b17b-e700a773e55e",
+        "https://data.kcg.gov.tw/File/DirectDownload/3518567f-f343-4abb-b17b-e700a773e55e"
+      ]
+    },
+    {
+      "id": "101945",
+      "name": "高雄市政府103年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4cf8c8ca-ad37-4bdc-9714-24b5f448485a",
+        "https://data.kcg.gov.tw/File/DirectDownload/4cf8c8ca-ad37-4bdc-9714-24b5f448485a"
+      ]
+    },
+    {
+      "id": "101946",
+      "name": "高雄市政府102年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/25e5682f-8760-4fae-98e0-7b8d5d15daf5",
+        "https://data.kcg.gov.tw/File/DirectDownload/25e5682f-8760-4fae-98e0-7b8d5d15daf5"
+      ]
+    },
+    {
+      "id": "101948",
+      "name": "高雄市政府100年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0ba9d7b6-1c4c-4a2b-9cbf-ba116e4d7236",
+        "https://data.kcg.gov.tw/File/DirectDownload/0ba9d7b6-1c4c-4a2b-9cbf-ba116e4d7236"
+      ]
+    },
+    {
+      "id": "104510",
+      "name": "高雄市生物多樣性資料庫",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/13465128-bfde-49b2-b4e1-74e8e94f2c77",
+        "https://data.kcg.gov.tw/File/DirectDownload/13465128-bfde-49b2-b4e1-74e8e94f2c77"
+      ]
+    },
+    {
+      "id": "104723",
+      "name": "高雄市空氣品質自動監測站位置",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85834372-fd8b-4191-8217-8187d89d7b76",
+        "https://data.kcg.gov.tw/File/DirectDownload/85834372-fd8b-4191-8217-8187d89d7b76"
+      ]
+    },
+    {
+      "id": "104575",
+      "name": "高雄市空氣品質人工監測站位置",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8017cdf1-268e-4908-a980-7430acedfcd2",
+        "https://data.kcg.gov.tw/File/DirectDownload/8017cdf1-268e-4908-a980-7430acedfcd2"
+      ]
+    },
+    {
+      "id": "107033",
+      "name": "高雄市前金區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ab01cc5-13f1-435c-b3df-55ba1899f7fc",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ab01cc5-13f1-435c-b3df-55ba1899f7fc"
+      ]
+    },
+    {
+      "id": "107035",
+      "name": "高雄市梓官區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1bbbf953-5758-4d93-97ab-601cac7353b7",
+        "https://data.kcg.gov.tw/File/DirectDownload/1bbbf953-5758-4d93-97ab-601cac7353b7"
+      ]
+    },
+    {
+      "id": "107037",
+      "name": "高雄市茄萣區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f313b733-ce41-40d3-8dab-62145770f763",
+        "https://data.kcg.gov.tw/File/DirectDownload/f313b733-ce41-40d3-8dab-62145770f763"
+      ]
+    },
+    {
+      "id": "107040",
+      "name": "高雄市南鳳山區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/13d70f9a-b426-4b6e-a056-fd611171a645",
+        "https://data.kcg.gov.tw/File/DirectDownload/13d70f9a-b426-4b6e-a056-fd611171a645"
+      ]
+    },
+    {
+      "id": "107043",
+      "name": "高雄市仁武區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9854e42e-f38e-416c-915b-df480a102a12",
+        "https://data.kcg.gov.tw/File/DirectDownload/9854e42e-f38e-416c-915b-df480a102a12"
+      ]
+    },
+    {
+      "id": "107051",
+      "name": "高雄市鹽埕區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc1a20ad-5731-46c2-ae8c-4375e138bf2c",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc1a20ad-5731-46c2-ae8c-4375e138bf2c"
+      ]
+    },
+    {
+      "id": "107052",
+      "name": "高雄市彌陀區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b35ae5f6-c622-4a42-9a7b-08adfc43dea0",
+        "https://data.kcg.gov.tw/File/DirectDownload/b35ae5f6-c622-4a42-9a7b-08adfc43dea0"
+      ]
+    },
+    {
+      "id": "107053",
+      "name": "高雄市橋頭區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0c7c97e7-2b7f-4bec-bc1d-0cbfbff346f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/0c7c97e7-2b7f-4bec-bc1d-0cbfbff346f3"
+      ]
+    },
+    {
+      "id": "107054",
+      "name": "高雄市旗津區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/885c8c43-3c72-4c45-ab9a-8f466ef3ec98",
+        "https://data.kcg.gov.tw/File/DirectDownload/885c8c43-3c72-4c45-ab9a-8f466ef3ec98"
+      ]
+    },
+    {
+      "id": "107058",
+      "name": "高雄市楠梓區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3bf0099f-c848-4983-b238-d99ce9632cec",
+        "https://data.kcg.gov.tw/File/DirectDownload/3bf0099f-c848-4983-b238-d99ce9632cec"
+      ]
+    },
+    {
+      "id": "107869",
+      "name": "高雄市六龜區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f13d89e9-33ee-4f12-b5e7-ac967cfdd410",
+        "https://data.kcg.gov.tw/File/DirectDownload/f13d89e9-33ee-4f12-b5e7-ac967cfdd410"
+      ]
+    },
+    {
+      "id": "107870",
+      "name": "高雄市內門區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6c9776d0-49bf-42b6-8e00-5bb56a407b9c",
+        "https://data.kcg.gov.tw/File/DirectDownload/6c9776d0-49bf-42b6-8e00-5bb56a407b9c"
+      ]
+    },
+    {
+      "id": "107871",
+      "name": "高雄市大社區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/986c3b9a-4784-4972-a54b-22575c0f8d4b",
+        "https://data.kcg.gov.tw/File/DirectDownload/986c3b9a-4784-4972-a54b-22575c0f8d4b"
+      ]
+    },
+    {
+      "id": "107883",
+      "name": "高雄市空氣品質人工測站監測數值2019年",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a401201-51b5-45a3-884a-04da272cfcdd",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a401201-51b5-45a3-884a-04da272cfcdd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f2ae6182-a1af-4570-895a-13f783c12d28",
+        "https://data.kcg.gov.tw/File/DirectDownload/f2ae6182-a1af-4570-895a-13f783c12d28",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f64585a5-6c80-4010-9c33-3bbe29a8e490",
+        "https://data.kcg.gov.tw/File/DirectDownload/f64585a5-6c80-4010-9c33-3bbe29a8e490",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8a4cad4b-2731-4ff4-874d-48632c4d4e8a",
+        "https://data.kcg.gov.tw/File/DirectDownload/8a4cad4b-2731-4ff4-874d-48632c4d4e8a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/caf46970-0dd6-44bd-95fa-5dcbf09fde73",
+        "https://data.kcg.gov.tw/File/DirectDownload/caf46970-0dd6-44bd-95fa-5dcbf09fde73",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/54c12d47-e481-43e5-bee6-9f8a5e30d6ab",
+        "https://data.kcg.gov.tw/File/DirectDownload/54c12d47-e481-43e5-bee6-9f8a5e30d6ab",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3786e7a4-6185-4453-82e9-a13a5132b648",
+        "https://data.kcg.gov.tw/File/DirectDownload/3786e7a4-6185-4453-82e9-a13a5132b648",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/078845e1-88b8-4c9e-bdcf-a6f6cc93486b",
+        "https://data.kcg.gov.tw/File/DirectDownload/078845e1-88b8-4c9e-bdcf-a6f6cc93486b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/07e68398-f914-4ce2-a36c-ab00f71301d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/07e68398-f914-4ce2-a36c-ab00f71301d6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/574f1841-d984-460b-9496-bb218f161fd1",
+        "https://data.kcg.gov.tw/File/DirectDownload/574f1841-d984-460b-9496-bb218f161fd1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/64ce291d-89ba-443c-9804-bbc7c48f4865",
+        "https://data.kcg.gov.tw/File/DirectDownload/64ce291d-89ba-443c-9804-bbc7c48f4865",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/123191d6-a6ca-4ede-8f40-e67c0a0c51aa",
+        "https://data.kcg.gov.tw/File/DirectDownload/123191d6-a6ca-4ede-8f40-e67c0a0c51aa"
+      ]
+    },
+    {
+      "id": "107866",
+      "name": "高雄市前鎮區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f27d99dd-a453-4674-b260-cef29129e194",
+        "https://data.kcg.gov.tw/File/DirectDownload/f27d99dd-a453-4674-b260-cef29129e194"
+      ]
+    },
+    {
+      "id": "107868",
+      "name": "高雄市永安區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c4b6327f-e53a-45d7-ad49-01c1a3358ccc",
+        "https://data.kcg.gov.tw/File/DirectDownload/c4b6327f-e53a-45d7-ad49-01c1a3358ccc"
+      ]
+    },
+    {
+      "id": "127539",
+      "name": "高雄市政府109年度環境水體監測資料(4月份)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e24b72d9-0fcb-4f25-b908-35dff9c26e01",
+        "https://data.kcg.gov.tw/File/DirectDownload/e24b72d9-0fcb-4f25-b908-35dff9c26e01"
+      ]
+    },
+    {
+      "id": "118752",
+      "name": "高雄市空氣品質人工測站監測數值2020年",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/695e42b8-3657-4b1f-b70b-0c71dc27085f",
+        "https://data.kcg.gov.tw/File/DirectDownload/695e42b8-3657-4b1f-b70b-0c71dc27085f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/23df9bdb-865b-45c7-b73b-1a5c52915618",
+        "https://data.kcg.gov.tw/File/DirectDownload/23df9bdb-865b-45c7-b73b-1a5c52915618",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/54937316-1815-4398-9880-24d31cf08d06",
+        "https://data.kcg.gov.tw/File/DirectDownload/54937316-1815-4398-9880-24d31cf08d06",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/06521942-f186-41f4-b810-4c140c14ff4b",
+        "https://data.kcg.gov.tw/File/DirectDownload/06521942-f186-41f4-b810-4c140c14ff4b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/896722d1-7d66-4f5c-ad6b-5dd0f65a455b",
+        "https://data.kcg.gov.tw/File/DirectDownload/896722d1-7d66-4f5c-ad6b-5dd0f65a455b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc7a54d5-9768-4002-a1a7-99557af66bfe",
+        "https://data.kcg.gov.tw/File/DirectDownload/cc7a54d5-9768-4002-a1a7-99557af66bfe",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0b4a6e3a-01d8-40d1-a7a6-b0b41301538d",
+        "https://data.kcg.gov.tw/File/DirectDownload/0b4a6e3a-01d8-40d1-a7a6-b0b41301538d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/906dfcad-6478-4632-a42f-c6129d5b5b0b",
+        "https://data.kcg.gov.tw/File/DirectDownload/906dfcad-6478-4632-a42f-c6129d5b5b0b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3cb8247b-8415-4cd5-9c55-c66fb5027b64",
+        "https://data.kcg.gov.tw/File/DirectDownload/3cb8247b-8415-4cd5-9c55-c66fb5027b64",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/83f2e17b-1e14-4b2a-a04e-e9e4fcd60fd8",
+        "https://data.kcg.gov.tw/File/DirectDownload/83f2e17b-1e14-4b2a-a04e-e9e4fcd60fd8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e68d5880-109d-4408-b879-f5e9ccdc209b",
+        "https://data.kcg.gov.tw/File/DirectDownload/e68d5880-109d-4408-b879-f5e9ccdc209b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7171949b-6402-48f9-975f-fb94c6969ad1",
+        "https://data.kcg.gov.tw/File/DirectDownload/7171949b-6402-48f9-975f-fb94c6969ad1"
+      ]
+    },
+    {
+      "id": "118244",
+      "name": "高雄市政府109年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/79813629-c1b3-4436-a4e9-2a2ec92b278d",
+        "https://data.kcg.gov.tw/File/DirectDownload/79813629-c1b3-4436-a4e9-2a2ec92b278d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ef391c4b-76ac-4ca4-96a0-3c0b19eabae7",
+        "https://data.kcg.gov.tw/File/DirectDownload/ef391c4b-76ac-4ca4-96a0-3c0b19eabae7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a1727e8-8637-4a3f-b4ae-4c0b6e787219",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a1727e8-8637-4a3f-b4ae-4c0b6e787219",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f6c16094-0b68-4f06-8155-5fa231bd76b4",
+        "https://data.kcg.gov.tw/File/DirectDownload/f6c16094-0b68-4f06-8155-5fa231bd76b4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c3499df3-9bea-45e5-b81f-627e38080741",
+        "https://data.kcg.gov.tw/File/DirectDownload/c3499df3-9bea-45e5-b81f-627e38080741",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/931cd468-db21-4a13-9fe6-67bcd6d7ad07",
+        "https://data.kcg.gov.tw/File/DirectDownload/931cd468-db21-4a13-9fe6-67bcd6d7ad07",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5e7696ea-412f-45a6-958f-7d511ca9e1bf",
+        "https://data.kcg.gov.tw/File/DirectDownload/5e7696ea-412f-45a6-958f-7d511ca9e1bf",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0da97343-9346-4eae-9108-b8d2f5d2ff76",
+        "https://data.kcg.gov.tw/File/DirectDownload/0da97343-9346-4eae-9108-b8d2f5d2ff76",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d8cc09b-de82-48eb-a1fc-d2f9b1932f93",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d8cc09b-de82-48eb-a1fc-d2f9b1932f93",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1bf61dc1-5b17-4491-a29a-d6232be157c3",
+        "https://data.kcg.gov.tw/File/DirectDownload/1bf61dc1-5b17-4491-a29a-d6232be157c3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ecfdff1d-3fa3-4bbb-b414-eb23a84fb73d",
+        "https://data.kcg.gov.tw/File/DirectDownload/ecfdff1d-3fa3-4bbb-b414-eb23a84fb73d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0ed3765f-e052-48ac-ba3d-f4b8abea29be",
+        "https://data.kcg.gov.tw/File/DirectDownload/0ed3765f-e052-48ac-ba3d-f4b8abea29be"
+      ]
+    },
+    {
+      "id": "128340",
+      "name": "高雄市環境教育機構",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7044a6e5-68b8-46de-a391-04d60aa7ca70",
+        "https://data.kcg.gov.tw/File/DirectDownload/7044a6e5-68b8-46de-a391-04d60aa7ca70"
+      ]
+    },
+    {
+      "id": "128341",
+      "name": "高雄市環境教育設施場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8f0897af-7df3-42d5-9900-68a406547cfd",
+        "https://data.kcg.gov.tw/File/DirectDownload/8f0897af-7df3-42d5-9900-68a406547cfd"
+      ]
+    },
+    {
+      "id": "132783",
+      "name": "高雄市檢舉違反水污染防治法案件獎勵辦法",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a7156dad-c26d-40cf-a07f-c7cc3137e792",
+        "https://data.kcg.gov.tw/File/DirectDownload/a7156dad-c26d-40cf-a07f-c7cc3137e792"
+      ]
+    },
+    {
+      "id": "161108",
+      "name": "高雄市後勁溪流域廢（污）水氨氮排放總量管制區域",
+      "format": "kml",
+      "urls": [
+        "https://data.kcg.gov.tw/Resource/b9584f44-a194-4b41-b502-5f2761b6124e?fileId=72a6543c-3ecd-4811-861c-8c70319ecbe1&importFileType=Kml&handler=DLGisFile"
+      ]
+    },
+    {
+      "id": "161123",
+      "name": "高雄市政府度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0782791-737d-4355-ab0f-12da75e1cd88",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0782791-737d-4355-ab0f-12da75e1cd88",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5352d159-7327-4ee5-bdb9-286e07be4623",
+        "https://data.kcg.gov.tw/File/DirectDownload/5352d159-7327-4ee5-bdb9-286e07be4623",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/328053aa-9e6d-4d0b-8151-2bcd61c8b29a",
+        "https://data.kcg.gov.tw/File/DirectDownload/328053aa-9e6d-4d0b-8151-2bcd61c8b29a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ce5077b0-b37c-4768-875d-2de8de98d7d8",
+        "https://data.kcg.gov.tw/File/DirectDownload/ce5077b0-b37c-4768-875d-2de8de98d7d8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/65ebaa33-f3d6-4773-ae8e-2e4afee19947",
+        "https://data.kcg.gov.tw/File/DirectDownload/65ebaa33-f3d6-4773-ae8e-2e4afee19947",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eba5582d-3e3d-4357-a010-3058167f168b",
+        "https://data.kcg.gov.tw/File/DirectDownload/eba5582d-3e3d-4357-a010-3058167f168b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/84ae3b5a-959a-47b7-9ab0-386e34540ca7",
+        "https://data.kcg.gov.tw/File/DirectDownload/84ae3b5a-959a-47b7-9ab0-386e34540ca7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e10507bf-ede8-4952-93cb-3cd6dc8bc537",
+        "https://data.kcg.gov.tw/File/DirectDownload/e10507bf-ede8-4952-93cb-3cd6dc8bc537",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5120e16d-0048-4178-94f4-442aadadacdc",
+        "https://data.kcg.gov.tw/File/DirectDownload/5120e16d-0048-4178-94f4-442aadadacdc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d06b4dcf-eeba-4b20-b42d-4a8361f76cf2",
+        "https://data.kcg.gov.tw/File/DirectDownload/d06b4dcf-eeba-4b20-b42d-4a8361f76cf2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/34c59f12-dd9e-4de6-b8e1-4eda282bc323",
+        "https://data.kcg.gov.tw/File/DirectDownload/34c59f12-dd9e-4de6-b8e1-4eda282bc323",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f775198f-d5e9-4a9d-a829-52af265ffcef",
+        "https://data.kcg.gov.tw/File/DirectDownload/f775198f-d5e9-4a9d-a829-52af265ffcef",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c4f8c638-df7a-4e89-b04f-55872da2f5ae",
+        "https://data.kcg.gov.tw/File/DirectDownload/c4f8c638-df7a-4e89-b04f-55872da2f5ae",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ff2e95c7-3ed1-4536-a57b-66132fe9e857",
+        "https://data.kcg.gov.tw/File/DirectDownload/ff2e95c7-3ed1-4536-a57b-66132fe9e857",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a05d005b-22cb-4b07-8246-77426de13698",
+        "https://data.kcg.gov.tw/File/DirectDownload/a05d005b-22cb-4b07-8246-77426de13698",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1d391306-c127-446e-a038-816bad510b66",
+        "https://data.kcg.gov.tw/File/DirectDownload/1d391306-c127-446e-a038-816bad510b66",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/202d181a-9662-4781-89ff-822724bac128",
+        "https://data.kcg.gov.tw/File/DirectDownload/202d181a-9662-4781-89ff-822724bac128",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f65da5de-0c0e-4851-8374-86a107c6595c",
+        "https://data.kcg.gov.tw/File/DirectDownload/f65da5de-0c0e-4851-8374-86a107c6595c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/12b536b2-d83e-41c7-a4b6-a23bc1dc8c64",
+        "https://data.kcg.gov.tw/File/DirectDownload/12b536b2-d83e-41c7-a4b6-a23bc1dc8c64",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dd37213c-25e8-480d-a9f4-a3a11997305e",
+        "https://data.kcg.gov.tw/File/DirectDownload/dd37213c-25e8-480d-a9f4-a3a11997305e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/daf862d1-bc32-450c-91dd-b0249f3aef3e",
+        "https://data.kcg.gov.tw/File/DirectDownload/daf862d1-bc32-450c-91dd-b0249f3aef3e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b6db7c4f-84f0-4806-983e-b4bf24d2e73e",
+        "https://data.kcg.gov.tw/File/DirectDownload/b6db7c4f-84f0-4806-983e-b4bf24d2e73e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/02a4b77e-af41-48b4-8857-b9bed9c0b62e",
+        "https://data.kcg.gov.tw/File/DirectDownload/02a4b77e-af41-48b4-8857-b9bed9c0b62e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c02c5726-6a01-47c9-8ddf-bcc703c42bcc",
+        "https://data.kcg.gov.tw/File/DirectDownload/c02c5726-6a01-47c9-8ddf-bcc703c42bcc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2a68a6ca-95fd-4d30-92dd-c3276d99e423",
+        "https://data.kcg.gov.tw/File/DirectDownload/2a68a6ca-95fd-4d30-92dd-c3276d99e423",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/12819ea9-de4d-4ee7-979e-cc1ad3386517",
+        "https://data.kcg.gov.tw/File/DirectDownload/12819ea9-de4d-4ee7-979e-cc1ad3386517",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f71c4d2-53c5-4c85-866a-d09809d3859b",
+        "https://data.kcg.gov.tw/File/DirectDownload/5f71c4d2-53c5-4c85-866a-d09809d3859b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/820b675d-eece-445c-b4be-d4f3b4e525df",
+        "https://data.kcg.gov.tw/File/DirectDownload/820b675d-eece-445c-b4be-d4f3b4e525df",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/61ee424a-f0c6-48fa-8155-df0de1e926bd",
+        "https://data.kcg.gov.tw/File/DirectDownload/61ee424a-f0c6-48fa-8155-df0de1e926bd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ce2f125-a03a-47a5-85fa-f6ca374ae53a",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ce2f125-a03a-47a5-85fa-f6ca374ae53a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4448202f-15ec-4bee-b88e-faa82d356bcc",
+        "https://data.kcg.gov.tw/File/DirectDownload/4448202f-15ec-4bee-b88e-faa82d356bcc"
+      ]
+    },
+    {
+      "id": "138182",
+      "name": "高雄市VOCs監測資料2020年",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/021da03f-4f2c-46c8-9d44-255e4f6bfaab",
+        "https://data.kcg.gov.tw/File/DirectDownload/021da03f-4f2c-46c8-9d44-255e4f6bfaab",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c453b9df-736c-4444-bd25-3b3423716288",
+        "https://data.kcg.gov.tw/File/DirectDownload/c453b9df-736c-4444-bd25-3b3423716288",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6295fdaf-abb0-432f-9f4d-3b4566b86685",
+        "https://data.kcg.gov.tw/File/DirectDownload/6295fdaf-abb0-432f-9f4d-3b4566b86685",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/74aa2a82-ee03-4949-bfb1-3d7d55674edf",
+        "https://data.kcg.gov.tw/File/DirectDownload/74aa2a82-ee03-4949-bfb1-3d7d55674edf",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/67e5867d-6121-4ff4-a7ec-608e2ff0a4b9",
+        "https://data.kcg.gov.tw/File/DirectDownload/67e5867d-6121-4ff4-a7ec-608e2ff0a4b9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c8638516-d1cb-4e6d-b52e-64f452602a64",
+        "https://data.kcg.gov.tw/File/DirectDownload/c8638516-d1cb-4e6d-b52e-64f452602a64",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/76cdc1dd-6326-40b7-b9d4-671cdfcfb3c3",
+        "https://data.kcg.gov.tw/File/DirectDownload/76cdc1dd-6326-40b7-b9d4-671cdfcfb3c3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8be0f53b-146c-43e1-ba83-7334da6f9784",
+        "https://data.kcg.gov.tw/File/DirectDownload/8be0f53b-146c-43e1-ba83-7334da6f9784",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6183759a-51d4-4329-9e44-a2fcc7ab616a",
+        "https://data.kcg.gov.tw/File/DirectDownload/6183759a-51d4-4329-9e44-a2fcc7ab616a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fa6349ea-b2cb-4d98-809d-b8f88b065e8f",
+        "https://data.kcg.gov.tw/File/DirectDownload/fa6349ea-b2cb-4d98-809d-b8f88b065e8f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a7a0e0df-0873-48f0-b8ce-b9da5f64eb79",
+        "https://data.kcg.gov.tw/File/DirectDownload/a7a0e0df-0873-48f0-b8ce-b9da5f64eb79",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/efb0c518-a3ba-4ffb-a0e4-ea916a0f31f2",
+        "https://data.kcg.gov.tw/File/DirectDownload/efb0c518-a3ba-4ffb-a0e4-ea916a0f31f2"
+      ]
+    },
+    {
+      "id": "138206",
+      "name": "高雄市地下水定期監測",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4594ac61-b309-43f7-b6f7-70437822976b",
+        "https://data.kcg.gov.tw/File/DirectDownload/4594ac61-b309-43f7-b6f7-70437822976b"
+      ]
+    },
+    {
+      "id": "138256",
+      "name": "垃圾車及資源回收車動態資訊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aaf4ce4b-4ca8-43de-bfaf-6dc97e89cac0"
+      ]
+    },
+    {
+      "id": "136885",
+      "name": "高雄市仁大及大發工業區揮發性有機物監測成果",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9f5d4beb-b5cf-4e6e-ab18-0f8b3bf73982",
+        "https://data.kcg.gov.tw/File/DirectDownload/9f5d4beb-b5cf-4e6e-ab18-0f8b3bf73982",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/41c63448-bf44-4aed-951b-1008f0ee73cb",
+        "https://data.kcg.gov.tw/File/DirectDownload/41c63448-bf44-4aed-951b-1008f0ee73cb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ab704a3-fa25-48af-a0f4-11eddd96bd3f",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ab704a3-fa25-48af-a0f4-11eddd96bd3f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3b39780c-a4db-4357-a64b-295be421ebd2",
+        "https://data.kcg.gov.tw/File/DirectDownload/3b39780c-a4db-4357-a64b-295be421ebd2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/49b4a271-24a3-49b4-8fed-36525fb4b4fe",
+        "https://data.kcg.gov.tw/File/DirectDownload/49b4a271-24a3-49b4-8fed-36525fb4b4fe",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a2d28223-4913-4b8a-8c43-476eef02b6dd",
+        "https://data.kcg.gov.tw/File/DirectDownload/a2d28223-4913-4b8a-8c43-476eef02b6dd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ab5644c2-5893-4b2f-b074-5454c0787844",
+        "https://data.kcg.gov.tw/File/DirectDownload/ab5644c2-5893-4b2f-b074-5454c0787844",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0363c7d7-8f6d-48eb-81d8-60ca545b8217",
+        "https://data.kcg.gov.tw/File/DirectDownload/0363c7d7-8f6d-48eb-81d8-60ca545b8217",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/492185ed-4a3f-4bed-981e-62d3364b53cb",
+        "https://data.kcg.gov.tw/File/DirectDownload/492185ed-4a3f-4bed-981e-62d3364b53cb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6495801a-9192-4e91-a499-962c08016e96",
+        "https://data.kcg.gov.tw/File/DirectDownload/6495801a-9192-4e91-a499-962c08016e96",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a1b916e-548e-4dbb-ad38-af71c0b925fa",
+        "https://data.kcg.gov.tw/File/DirectDownload/6a1b916e-548e-4dbb-ad38-af71c0b925fa",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/810d2e2e-9439-4be4-b197-b3d562bf60e0",
+        "https://data.kcg.gov.tw/File/DirectDownload/810d2e2e-9439-4be4-b197-b3d562bf60e0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/796de89a-5700-4734-9b97-ddbe4b078b36",
+        "https://data.kcg.gov.tw/File/DirectDownload/796de89a-5700-4734-9b97-ddbe4b078b36",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5b07a0f3-403f-4ac1-bb98-de769cbb2323",
+        "https://data.kcg.gov.tw/File/DirectDownload/5b07a0f3-403f-4ac1-bb98-de769cbb2323"
+      ]
+    },
+    {
+      "id": "138245",
+      "name": "高雄市電動機車充電站名稱及充電站地址",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/877e2cbe-293f-447d-8e3f-bf32733191ce",
+        "https://data.kcg.gov.tw/File/DirectDownload/877e2cbe-293f-447d-8e3f-bf32733191ce"
+      ]
+    },
+    {
+      "id": "149575",
+      "name": "高雄市VOCs監測資料2022年",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63bfa9ae-d390-4727-be8e-1702121b1770",
+        "https://data.kcg.gov.tw/File/DirectDownload/63bfa9ae-d390-4727-be8e-1702121b1770",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/09c02bad-2a38-470b-a8fb-28acb06b2ffb",
+        "https://data.kcg.gov.tw/File/DirectDownload/09c02bad-2a38-470b-a8fb-28acb06b2ffb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a8b4adb3-bbf7-4a8f-9eb8-32c1f8a6357a",
+        "https://data.kcg.gov.tw/File/DirectDownload/a8b4adb3-bbf7-4a8f-9eb8-32c1f8a6357a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f1e6b4f8-6a15-42aa-b1af-3a57626551e2",
+        "https://data.kcg.gov.tw/File/DirectDownload/f1e6b4f8-6a15-42aa-b1af-3a57626551e2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3a00f162-600b-4626-8fa0-41814dc05830",
+        "https://data.kcg.gov.tw/File/DirectDownload/3a00f162-600b-4626-8fa0-41814dc05830",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/864b7fbf-2d7f-4806-a9b1-5309dc0ac351",
+        "https://data.kcg.gov.tw/File/DirectDownload/864b7fbf-2d7f-4806-a9b1-5309dc0ac351",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b86915ac-bca5-45df-89a9-59a5bd06fbf0",
+        "https://data.kcg.gov.tw/File/DirectDownload/b86915ac-bca5-45df-89a9-59a5bd06fbf0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2aa57ed2-f283-477e-a7e3-7391c79d763e",
+        "https://data.kcg.gov.tw/File/DirectDownload/2aa57ed2-f283-477e-a7e3-7391c79d763e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/70021042-c044-489f-8d2b-98ae49f7f8c4",
+        "https://data.kcg.gov.tw/File/DirectDownload/70021042-c044-489f-8d2b-98ae49f7f8c4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fffbf905-6d13-4df0-8d77-c952bcb58b34",
+        "https://data.kcg.gov.tw/File/DirectDownload/fffbf905-6d13-4df0-8d77-c952bcb58b34",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f88dd228-8af9-4af2-976e-d2c281d04ad4",
+        "https://data.kcg.gov.tw/File/DirectDownload/f88dd228-8af9-4af2-976e-d2c281d04ad4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1a03917d-76bd-43ae-ad1c-ddbc0ab6ea6c",
+        "https://data.kcg.gov.tw/File/DirectDownload/1a03917d-76bd-43ae-ad1c-ddbc0ab6ea6c"
+      ]
+    },
+    {
+      "id": "46943",
+      "name": "高雄市機車排氣檢驗站資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/180d0d48-579f-4689-ba64-4a802d83e301",
+        "https://data.kcg.gov.tw/File/DirectDownload/180d0d48-579f-4689-ba64-4a802d83e301"
+      ]
+    },
+    {
+      "id": "75768",
+      "name": "高雄市政府106年度環境水體監測資料(按月)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/478676da-b737-497c-a0ca-1eb4ecbef445",
+        "https://data.kcg.gov.tw/File/DirectDownload/478676da-b737-497c-a0ca-1eb4ecbef445",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/988e10a0-e6f0-4bc8-9cec-48149e1f6e61",
+        "https://data.kcg.gov.tw/File/DirectDownload/988e10a0-e6f0-4bc8-9cec-48149e1f6e61",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f91a07d8-553e-4e6e-ba81-71ac35fc2dce",
+        "https://data.kcg.gov.tw/File/DirectDownload/f91a07d8-553e-4e6e-ba81-71ac35fc2dce",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e7d69ae5-dbd6-40ee-94dc-804bf722da51",
+        "https://data.kcg.gov.tw/File/DirectDownload/e7d69ae5-dbd6-40ee-94dc-804bf722da51",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a5f7235-5810-4f8d-acde-8c64321f89b9",
+        "https://data.kcg.gov.tw/File/DirectDownload/5a5f7235-5810-4f8d-acde-8c64321f89b9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5903df16-a2f3-4a2d-b3c0-9372a22cc754",
+        "https://data.kcg.gov.tw/File/DirectDownload/5903df16-a2f3-4a2d-b3c0-9372a22cc754",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0e29fa01-fa2e-4615-aadc-bafce0bea2f9",
+        "https://data.kcg.gov.tw/File/DirectDownload/0e29fa01-fa2e-4615-aadc-bafce0bea2f9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f63aa118-fc6a-49e7-a6a1-c8bdbe27e801",
+        "https://data.kcg.gov.tw/File/DirectDownload/f63aa118-fc6a-49e7-a6a1-c8bdbe27e801",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f6b0353b-2fc7-4a0b-be42-cdc3042f4256",
+        "https://data.kcg.gov.tw/File/DirectDownload/f6b0353b-2fc7-4a0b-be42-cdc3042f4256",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/59ee4c28-f235-47c5-b8dc-eee6bbed159e",
+        "https://data.kcg.gov.tw/File/DirectDownload/59ee4c28-f235-47c5-b8dc-eee6bbed159e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1272c86d-4f4e-46f3-8283-f0f7b0ce72bd",
+        "https://data.kcg.gov.tw/File/DirectDownload/1272c86d-4f4e-46f3-8283-f0f7b0ce72bd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2c947f06-9010-4f95-a717-f11e211b374e",
+        "https://data.kcg.gov.tw/File/DirectDownload/2c947f06-9010-4f95-a717-f11e211b374e"
+      ]
+    },
+    {
+      "id": "75731",
+      "name": "高雄市合格病媒防治業",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/010b43ca-8335-46a8-895d-c5c699045b8e",
+        "https://data.kcg.gov.tw/File/DirectDownload/010b43ca-8335-46a8-895d-c5c699045b8e"
+      ]
+    },
+    {
+      "id": "75732",
+      "name": "高雄市環境用藥販賣業",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c6f45157-b23c-436e-b64a-09dc7df9e036",
+        "https://data.kcg.gov.tw/File/DirectDownload/c6f45157-b23c-436e-b64a-09dc7df9e036"
+      ]
+    },
+    {
+      "id": "86413",
+      "name": "高雄市衛生掩埋場位置",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3a87ece9-2296-4d88-bd3c-e2ae21c72c7a",
+        "https://data.kcg.gov.tw/File/DirectDownload/3a87ece9-2296-4d88-bd3c-e2ae21c72c7a"
+      ]
+    },
+    {
+      "id": "86418",
+      "name": "高雄市垃圾焚化廠位置",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/747ad9ca-80a5-4edd-8466-16793e8dbc22",
+        "https://data.kcg.gov.tw/File/DirectDownload/747ad9ca-80a5-4edd-8466-16793e8dbc22"
+      ]
+    },
+    {
+      "id": "104454",
+      "name": "高雄市環境水體監測站設置位置",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ab437027-4724-4818-a6d6-70bf3779df95",
+        "https://data.kcg.gov.tw/File/DirectDownload/ab437027-4724-4818-a6d6-70bf3779df95"
+      ]
+    },
+    {
+      "id": "101172",
+      "name": "高雄市政府108年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/351130cf-ae70-47b2-a32f-32b5d0f822e7",
+        "https://data.kcg.gov.tw/File/DirectDownload/351130cf-ae70-47b2-a32f-32b5d0f822e7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b9639590-9e8f-45be-8e6f-398f7d726ac5",
+        "https://data.kcg.gov.tw/File/DirectDownload/b9639590-9e8f-45be-8e6f-398f7d726ac5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9e61b474-17f4-4c4b-822e-55bbbfe1e3d9",
+        "https://data.kcg.gov.tw/File/DirectDownload/9e61b474-17f4-4c4b-822e-55bbbfe1e3d9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e37db73b-bb30-41bc-8385-5bd830a80af2",
+        "https://data.kcg.gov.tw/File/DirectDownload/e37db73b-bb30-41bc-8385-5bd830a80af2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/15e99355-4562-4523-9ee6-6ffa4e2dc0f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/15e99355-4562-4523-9ee6-6ffa4e2dc0f3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0827b9af-e47c-4189-aa88-a7559e417a50",
+        "https://data.kcg.gov.tw/File/DirectDownload/0827b9af-e47c-4189-aa88-a7559e417a50",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2af282f5-652c-4c3b-9b15-c3637b15b9e3",
+        "https://data.kcg.gov.tw/File/DirectDownload/2af282f5-652c-4c3b-9b15-c3637b15b9e3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0da5f92b-4bae-4da7-bc7e-d510e4d22a53",
+        "https://data.kcg.gov.tw/File/DirectDownload/0da5f92b-4bae-4da7-bc7e-d510e4d22a53",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3d7ea508-dd48-4381-9a63-d85f53307477",
+        "https://data.kcg.gov.tw/File/DirectDownload/3d7ea508-dd48-4381-9a63-d85f53307477",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4e786a44-282a-47ab-9bab-ef1d6f82a19e",
+        "https://data.kcg.gov.tw/File/DirectDownload/4e786a44-282a-47ab-9bab-ef1d6f82a19e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c833587a-dc5d-48a1-8a79-f59ee3427f0e",
+        "https://data.kcg.gov.tw/File/DirectDownload/c833587a-dc5d-48a1-8a79-f59ee3427f0e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f8c45028-a7f7-4326-946a-fd896ad1070c",
+        "https://data.kcg.gov.tw/File/DirectDownload/f8c45028-a7f7-4326-946a-fd896ad1070c"
+      ]
+    },
+    {
+      "id": "101942",
+      "name": "高雄市政府106年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c5764d8f-4635-4a7d-9edb-83d735a764b8",
+        "https://data.kcg.gov.tw/File/DirectDownload/c5764d8f-4635-4a7d-9edb-83d735a764b8"
+      ]
+    },
+    {
+      "id": "101947",
+      "name": "高雄市政府101年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2238f451-a03a-448c-b1be-ea46660acd1e",
+        "https://data.kcg.gov.tw/File/DirectDownload/2238f451-a03a-448c-b1be-ea46660acd1e"
+      ]
+    },
+    {
+      "id": "98147",
+      "name": "高雄市垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a6ba725a-488c-4d40-b5a2-c2fe65d3e134",
+        "https://data.kcg.gov.tw/File/DirectDownload/a6ba725a-488c-4d40-b5a2-c2fe65d3e134"
+      ]
+    },
+    {
+      "id": "104883",
+      "name": "高雄市土壤監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a41a3173-3ac6-437b-9333-4f4dfbb4924b",
+        "https://data.kcg.gov.tw/File/DirectDownload/a41a3173-3ac6-437b-9333-4f4dfbb4924b"
+      ]
+    },
+    {
+      "id": "106982",
+      "name": "高雄市三民西區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ce09ffa-17e1-4f1a-ab72-3d55ca95b2e5",
+        "https://data.kcg.gov.tw/File/DirectDownload/7ce09ffa-17e1-4f1a-ab72-3d55ca95b2e5"
+      ]
+    },
+    {
+      "id": "107047",
+      "name": "高雄市小港區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2e9d826c-756b-47be-8ee0-1406329bc319",
+        "https://data.kcg.gov.tw/File/DirectDownload/2e9d826c-756b-47be-8ee0-1406329bc319"
+      ]
+    },
+    {
+      "id": "107048",
+      "name": "高雄市大樹區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a8ff3de-043e-40c3-8337-8f9d30a82375",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a8ff3de-043e-40c3-8337-8f9d30a82375"
+      ]
+    },
+    {
+      "id": "107050",
+      "name": "高雄市三民東區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a1e813f1-ae52-4b22-9fa7-e15512e41186",
+        "https://data.kcg.gov.tw/File/DirectDownload/a1e813f1-ae52-4b22-9fa7-e15512e41186"
+      ]
+    },
+    {
+      "id": "107057",
+      "name": "高雄市路竹區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/888f41a8-e5cd-4ae5-8855-86e746fa52dc",
+        "https://data.kcg.gov.tw/File/DirectDownload/888f41a8-e5cd-4ae5-8855-86e746fa52dc"
+      ]
+    },
+    {
+      "id": "107059",
+      "name": "高雄市新興區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6bbc7e64-054b-4df0-a7f2-5789d1801496",
+        "https://data.kcg.gov.tw/File/DirectDownload/6bbc7e64-054b-4df0-a7f2-5789d1801496"
+      ]
+    },
+    {
+      "id": "107060",
+      "name": "高雄市湖內區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5888b615-2c27-411f-9153-15e1fae45bb6",
+        "https://data.kcg.gov.tw/File/DirectDownload/5888b615-2c27-411f-9153-15e1fae45bb6"
+      ]
+    },
+    {
+      "id": "107061",
+      "name": "高雄市鳥松區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eb7ef936-6cc3-41f7-9c2f-934fdb503802",
+        "https://data.kcg.gov.tw/File/DirectDownload/eb7ef936-6cc3-41f7-9c2f-934fdb503802"
+      ]
+    },
+    {
+      "id": "107036",
+      "name": "高雄市燕巢區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eb2de68e-6a47-4635-b059-3eab7948d8a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/eb2de68e-6a47-4635-b059-3eab7948d8a7"
+      ]
+    },
+    {
+      "id": "107041",
+      "name": "高雄市岡山區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4c170a24-5124-48a0-ba2f-3d3870a6bfc6",
+        "https://data.kcg.gov.tw/File/DirectDownload/4c170a24-5124-48a0-ba2f-3d3870a6bfc6"
+      ]
+    },
+    {
+      "id": "107867",
+      "name": "高雄市阿蓮區垃圾清運路線及時間",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dad491d5-bd94-4ead-9b42-aad8274741f3",
+        "https://data.kcg.gov.tw/File/DirectDownload/dad491d5-bd94-4ead-9b42-aad8274741f3"
+      ]
+    },
+    {
+      "id": "127538",
+      "name": "高雄市政府109年度環境水體監測資料(5月份)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0103cac3-0333-49fc-a202-23cfb9890de9",
+        "https://data.kcg.gov.tw/File/DirectDownload/0103cac3-0333-49fc-a202-23cfb9890de9"
+      ]
+    },
+    {
+      "id": "127541",
+      "name": "高雄市政府109年度環境水體監測資料(2月份)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b30e18e3-1f59-479e-9b7f-e0ee8d0af5e3",
+        "https://data.kcg.gov.tw/File/DirectDownload/b30e18e3-1f59-479e-9b7f-e0ee8d0af5e3"
+      ]
+    },
+    {
+      "id": "127542",
+      "name": "高雄市政府109年度環境水體監測資料(1月份)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e88038a3-6696-4732-90dd-e902600fb907",
+        "https://data.kcg.gov.tw/File/DirectDownload/e88038a3-6696-4732-90dd-e902600fb907"
+      ]
+    },
+    {
+      "id": "138211",
+      "name": "高雄市VOCs監測資料2019年",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f7e5d6f-c46b-458d-b352-008bd51dfaed",
+        "https://data.kcg.gov.tw/File/DirectDownload/0f7e5d6f-c46b-458d-b352-008bd51dfaed",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4ca6bf3b-4799-4e33-8688-227b6f60c12d",
+        "https://data.kcg.gov.tw/File/DirectDownload/4ca6bf3b-4799-4e33-8688-227b6f60c12d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3e173069-5994-4e98-a494-3b4e1d3d2512",
+        "https://data.kcg.gov.tw/File/DirectDownload/3e173069-5994-4e98-a494-3b4e1d3d2512",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3804cb99-d604-4307-936f-665fe21d9896",
+        "https://data.kcg.gov.tw/File/DirectDownload/3804cb99-d604-4307-936f-665fe21d9896",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/84ee63f7-bb6d-410b-a66e-66788f6c8a33",
+        "https://data.kcg.gov.tw/File/DirectDownload/84ee63f7-bb6d-410b-a66e-66788f6c8a33",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ecf5db9b-559f-4b89-b00c-7cf72b324082",
+        "https://data.kcg.gov.tw/File/DirectDownload/ecf5db9b-559f-4b89-b00c-7cf72b324082",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3fd10bdb-7e9e-41ae-b080-7f4b74560b23",
+        "https://data.kcg.gov.tw/File/DirectDownload/3fd10bdb-7e9e-41ae-b080-7f4b74560b23",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c642509b-1eb1-49a3-9d12-83fba1b630c3",
+        "https://data.kcg.gov.tw/File/DirectDownload/c642509b-1eb1-49a3-9d12-83fba1b630c3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e2130d36-9e48-4ea6-8682-8f677e213ebd",
+        "https://data.kcg.gov.tw/File/DirectDownload/e2130d36-9e48-4ea6-8682-8f677e213ebd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/83849412-c2c8-4a1f-859a-a8a67e04fec3",
+        "https://data.kcg.gov.tw/File/DirectDownload/83849412-c2c8-4a1f-859a-a8a67e04fec3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a31c8b6e-f406-49bd-ae5b-bb8f728fbd7a",
+        "https://data.kcg.gov.tw/File/DirectDownload/a31c8b6e-f406-49bd-ae5b-bb8f728fbd7a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5f3b164-416b-4916-930c-fc0dbba1cdff",
+        "https://data.kcg.gov.tw/File/DirectDownload/e5f3b164-416b-4916-930c-fc0dbba1cdff"
+      ]
+    },
+    {
+      "id": "138315",
+      "name": "高雄市道路交通音量監測不合格情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d44b595f-d9a6-4827-9f45-01dcf7af7dda",
+        "https://data.kcg.gov.tw/File/DirectDownload/d44b595f-d9a6-4827-9f45-01dcf7af7dda",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/22435b6d-ef01-44fb-aa7c-0a28240f652f",
+        "https://data.kcg.gov.tw/File/DirectDownload/22435b6d-ef01-44fb-aa7c-0a28240f652f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d79bc167-c612-42bf-9d2a-4a8c6c93d942",
+        "https://data.kcg.gov.tw/File/DirectDownload/d79bc167-c612-42bf-9d2a-4a8c6c93d942",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/59966faa-83ef-41ca-8aba-4d7f2ccd188b",
+        "https://data.kcg.gov.tw/File/DirectDownload/59966faa-83ef-41ca-8aba-4d7f2ccd188b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d72ff190-e501-4681-b57a-6a214e9c65bc",
+        "https://data.kcg.gov.tw/File/DirectDownload/d72ff190-e501-4681-b57a-6a214e9c65bc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a2b8617-ea62-4c8c-8c38-6d43cd27d4c4",
+        "https://data.kcg.gov.tw/File/DirectDownload/5a2b8617-ea62-4c8c-8c38-6d43cd27d4c4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1a6f3830-2748-4474-89b9-75a82c31fafa",
+        "https://data.kcg.gov.tw/File/DirectDownload/1a6f3830-2748-4474-89b9-75a82c31fafa",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85a82f4f-3279-4329-8eee-75ecc4ab28db",
+        "https://data.kcg.gov.tw/File/DirectDownload/85a82f4f-3279-4329-8eee-75ecc4ab28db",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3e06642a-ee0e-44ad-b49f-8867b1813b8e",
+        "https://data.kcg.gov.tw/File/DirectDownload/3e06642a-ee0e-44ad-b49f-8867b1813b8e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ea743435-1c78-42bb-a469-8f27e2ffac46",
+        "https://data.kcg.gov.tw/File/DirectDownload/ea743435-1c78-42bb-a469-8f27e2ffac46",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/209f1f2f-20a8-409b-a843-a98da2482941",
+        "https://data.kcg.gov.tw/File/DirectDownload/209f1f2f-20a8-409b-a843-a98da2482941",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/576680a6-7073-4c12-9a4a-ab77ee38457c",
+        "https://data.kcg.gov.tw/File/DirectDownload/576680a6-7073-4c12-9a4a-ab77ee38457c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/433e010c-afeb-4a66-8beb-abf329870138",
+        "https://data.kcg.gov.tw/File/DirectDownload/433e010c-afeb-4a66-8beb-abf329870138",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cad277fa-3b20-456c-b922-b55feedadfaa",
+        "https://data.kcg.gov.tw/File/DirectDownload/cad277fa-3b20-456c-b922-b55feedadfaa",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b0d536b9-6d21-4388-b757-bf6f298b470f",
+        "https://data.kcg.gov.tw/File/DirectDownload/b0d536b9-6d21-4388-b757-bf6f298b470f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aaeffaeb-3ca8-4064-a918-c5c233f4c279",
+        "https://data.kcg.gov.tw/File/DirectDownload/aaeffaeb-3ca8-4064-a918-c5c233f4c279",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90cf1423-e9ef-4acc-8350-d530208d091a",
+        "https://data.kcg.gov.tw/File/DirectDownload/90cf1423-e9ef-4acc-8350-d530208d091a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ca745073-0e85-4846-9865-d5fe4d28a63f",
+        "https://data.kcg.gov.tw/File/DirectDownload/ca745073-0e85-4846-9865-d5fe4d28a63f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9f1ef0bb-4a39-4a48-a81f-d867d61c30fd",
+        "https://data.kcg.gov.tw/File/DirectDownload/9f1ef0bb-4a39-4a48-a81f-d867d61c30fd",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8db7fb97-7f87-4896-b8fc-e621d3b65657",
+        "https://data.kcg.gov.tw/File/DirectDownload/8db7fb97-7f87-4896-b8fc-e621d3b65657",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4279eebb-532b-43d5-9781-e9bbe8b25130",
+        "https://data.kcg.gov.tw/File/DirectDownload/4279eebb-532b-43d5-9781-e9bbe8b25130",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03b5353f-9696-4cf2-80cf-f59907600d4f",
+        "https://data.kcg.gov.tw/File/DirectDownload/03b5353f-9696-4cf2-80cf-f59907600d4f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f183ad84-88ca-4dc5-a056-fc67d1a00636",
+        "https://data.kcg.gov.tw/File/DirectDownload/f183ad84-88ca-4dc5-a056-fc67d1a00636",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dec53bf8-3750-4e22-9e39-fef47a4a7e34",
+        "https://data.kcg.gov.tw/File/DirectDownload/dec53bf8-3750-4e22-9e39-fef47a4a7e34"
+      ]
+    },
+    {
+      "id": "161122",
+      "name": "高雄市VOCs監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b8f51b28-2865-41a4-b1bb-187da208dc0a",
+        "https://data.kcg.gov.tw/File/DirectDownload/b8f51b28-2865-41a4-b1bb-187da208dc0a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c783eb1d-23ca-4ca9-9070-24a9bfd104dc",
+        "https://data.kcg.gov.tw/File/DirectDownload/c783eb1d-23ca-4ca9-9070-24a9bfd104dc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/44ca5a38-841a-4236-b6ed-2513b7a0f7d0",
+        "https://data.kcg.gov.tw/File/DirectDownload/44ca5a38-841a-4236-b6ed-2513b7a0f7d0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/00f7b339-2514-4c9d-82d5-260fb1381872",
+        "https://data.kcg.gov.tw/File/DirectDownload/00f7b339-2514-4c9d-82d5-260fb1381872",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d4c5a90a-99f4-43d1-9a35-34e97a28669a",
+        "https://data.kcg.gov.tw/File/DirectDownload/d4c5a90a-99f4-43d1-9a35-34e97a28669a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6e51f7d8-41dd-4af7-997c-37459f21510c",
+        "https://data.kcg.gov.tw/File/DirectDownload/6e51f7d8-41dd-4af7-997c-37459f21510c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b9139447-d945-4d17-a7cf-3859b5b475eb",
+        "https://data.kcg.gov.tw/File/DirectDownload/b9139447-d945-4d17-a7cf-3859b5b475eb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/badbe565-4327-4125-83c8-3cc954057590",
+        "https://data.kcg.gov.tw/File/DirectDownload/badbe565-4327-4125-83c8-3cc954057590",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2fa0734f-c34c-4591-a9a0-45b4c17f4c63",
+        "https://data.kcg.gov.tw/File/DirectDownload/2fa0734f-c34c-4591-a9a0-45b4c17f4c63",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/04196b4a-9c33-4148-a981-45ccd80f0c9a",
+        "https://data.kcg.gov.tw/File/DirectDownload/04196b4a-9c33-4148-a981-45ccd80f0c9a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d6b960cf-9030-4ae5-8364-4758e8382d83",
+        "https://data.kcg.gov.tw/File/DirectDownload/d6b960cf-9030-4ae5-8364-4758e8382d83",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/029e6024-832b-4061-b807-4933cb3674e2",
+        "https://data.kcg.gov.tw/File/DirectDownload/029e6024-832b-4061-b807-4933cb3674e2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9824245f-a11f-4e3d-9055-5d7539f3ac2f",
+        "https://data.kcg.gov.tw/File/DirectDownload/9824245f-a11f-4e3d-9055-5d7539f3ac2f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b900af2c-e192-41ef-9493-663d2e7cc92d",
+        "https://data.kcg.gov.tw/File/DirectDownload/b900af2c-e192-41ef-9493-663d2e7cc92d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2aa06366-4e85-4680-aa0a-67340c0e2754",
+        "https://data.kcg.gov.tw/File/DirectDownload/2aa06366-4e85-4680-aa0a-67340c0e2754",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d850d690-1067-43d1-bd2f-69d25ad957de",
+        "https://data.kcg.gov.tw/File/DirectDownload/d850d690-1067-43d1-bd2f-69d25ad957de",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4ea1945a-1b24-4e71-a30c-76304fc900cb",
+        "https://data.kcg.gov.tw/File/DirectDownload/4ea1945a-1b24-4e71-a30c-76304fc900cb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0b36a00b-b33b-4331-a16f-921f9dacb3d4",
+        "https://data.kcg.gov.tw/File/DirectDownload/0b36a00b-b33b-4331-a16f-921f9dacb3d4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c5371e7f-4c9c-40c8-80c5-a0f846d2e1a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/c5371e7f-4c9c-40c8-80c5-a0f846d2e1a7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/77c92e64-c609-4286-a903-a68d0a8f63ec",
+        "https://data.kcg.gov.tw/File/DirectDownload/77c92e64-c609-4286-a903-a68d0a8f63ec",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2c89bb2b-6cde-4c9b-b4bc-b4473beb7e63",
+        "https://data.kcg.gov.tw/File/DirectDownload/2c89bb2b-6cde-4c9b-b4bc-b4473beb7e63",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/179b8530-a955-4f56-b356-ba93c46b0249",
+        "https://data.kcg.gov.tw/File/DirectDownload/179b8530-a955-4f56-b356-ba93c46b0249",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8093f360-8198-4702-9085-c3dc49e41a3a",
+        "https://data.kcg.gov.tw/File/DirectDownload/8093f360-8198-4702-9085-c3dc49e41a3a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a3f6c1a-0fd5-4b98-bb82-d3ff5d60289d",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a3f6c1a-0fd5-4b98-bb82-d3ff5d60289d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/14c12048-512b-49c0-9a18-dc809f80ce00",
+        "https://data.kcg.gov.tw/File/DirectDownload/14c12048-512b-49c0-9a18-dc809f80ce00",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c797aea3-73a0-41d2-b555-ea3c0157687f",
+        "https://data.kcg.gov.tw/File/DirectDownload/c797aea3-73a0-41d2-b555-ea3c0157687f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/468a1fea-caa5-469a-bd06-f5689de85ee9",
+        "https://data.kcg.gov.tw/File/DirectDownload/468a1fea-caa5-469a-bd06-f5689de85ee9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c1cba0f2-b1b4-4862-9f67-f9bf6fbaf535",
+        "https://data.kcg.gov.tw/File/DirectDownload/c1cba0f2-b1b4-4862-9f67-f9bf6fbaf535"
+      ]
+    },
+    {
+      "id": "161242",
+      "name": "高雄市空氣品質人工測站監測數值",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b7d4dd6d-ac40-47b2-a281-0e06620f73d6",
+        "https://data.kcg.gov.tw/File/DirectDownload/b7d4dd6d-ac40-47b2-a281-0e06620f73d6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b6a2ddc1-6fce-4d8b-aa8f-0e5cd1ba3c0a",
+        "https://data.kcg.gov.tw/File/DirectDownload/b6a2ddc1-6fce-4d8b-aa8f-0e5cd1ba3c0a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/074b2c2d-e79e-42c1-9e8c-0fc0ae72f470",
+        "https://data.kcg.gov.tw/File/DirectDownload/074b2c2d-e79e-42c1-9e8c-0fc0ae72f470",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8310a844-bcb4-45da-a7c5-1a24593ec725",
+        "https://data.kcg.gov.tw/File/DirectDownload/8310a844-bcb4-45da-a7c5-1a24593ec725",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/367049f6-514f-4c37-bc55-1b49e93de196",
+        "https://data.kcg.gov.tw/File/DirectDownload/367049f6-514f-4c37-bc55-1b49e93de196",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d2802b5b-184d-472c-81e4-1ece6e382d15",
+        "https://data.kcg.gov.tw/File/DirectDownload/d2802b5b-184d-472c-81e4-1ece6e382d15",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6b5dd36c-27b8-4d09-b99d-4b6c83bcc052",
+        "https://data.kcg.gov.tw/File/DirectDownload/6b5dd36c-27b8-4d09-b99d-4b6c83bcc052",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3fe2ed15-f467-4593-a671-4b81fd1153cf",
+        "https://data.kcg.gov.tw/File/DirectDownload/3fe2ed15-f467-4593-a671-4b81fd1153cf",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/80fa8d6d-4a2b-4922-95d2-68a1aaf12281",
+        "https://data.kcg.gov.tw/File/DirectDownload/80fa8d6d-4a2b-4922-95d2-68a1aaf12281",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/50c30dc2-e6a0-4595-9fe2-7462a6b5c717",
+        "https://data.kcg.gov.tw/File/DirectDownload/50c30dc2-e6a0-4595-9fe2-7462a6b5c717",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/94489cbc-f599-4ff0-876d-7803b9d80296",
+        "https://data.kcg.gov.tw/File/DirectDownload/94489cbc-f599-4ff0-876d-7803b9d80296",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e003b9ff-1de2-4b3f-90d0-7b2db173ad87",
+        "https://data.kcg.gov.tw/File/DirectDownload/e003b9ff-1de2-4b3f-90d0-7b2db173ad87",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/27fa5c6f-e4b2-423c-a32d-8346e48f5b1f",
+        "https://data.kcg.gov.tw/File/DirectDownload/27fa5c6f-e4b2-423c-a32d-8346e48f5b1f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/643ef7f1-a38a-42fb-a02c-8eb49cb117bb",
+        "https://data.kcg.gov.tw/File/DirectDownload/643ef7f1-a38a-42fb-a02c-8eb49cb117bb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7a7fce3f-c2af-4109-b9ed-8ff9f356c593",
+        "https://data.kcg.gov.tw/File/DirectDownload/7a7fce3f-c2af-4109-b9ed-8ff9f356c593",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d1a4db87-ce73-4ca2-bb59-9be93a0e2b6d",
+        "https://data.kcg.gov.tw/File/DirectDownload/d1a4db87-ce73-4ca2-bb59-9be93a0e2b6d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ad8adad4-1b1c-423b-a3a1-a3447766b24e",
+        "https://data.kcg.gov.tw/File/DirectDownload/ad8adad4-1b1c-423b-a3a1-a3447766b24e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c67d212c-b841-4329-b138-b11bba72f724",
+        "https://data.kcg.gov.tw/File/DirectDownload/c67d212c-b841-4329-b138-b11bba72f724",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cbfaefb5-c2f9-4039-85ff-c9e9595fa24f",
+        "https://data.kcg.gov.tw/File/DirectDownload/cbfaefb5-c2f9-4039-85ff-c9e9595fa24f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b8d023c3-153d-4196-bebf-d0622c2dcc9c",
+        "https://data.kcg.gov.tw/File/DirectDownload/b8d023c3-153d-4196-bebf-d0622c2dcc9c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e6613719-bdc1-441e-b87e-ddde996e577d",
+        "https://data.kcg.gov.tw/File/DirectDownload/e6613719-bdc1-441e-b87e-ddde996e577d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5d2655a3-7f73-4cdf-8dec-de7c7bca001d",
+        "https://data.kcg.gov.tw/File/DirectDownload/5d2655a3-7f73-4cdf-8dec-de7c7bca001d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/613dc3a6-6e2f-4357-8ddf-e4dd7d757af6",
+        "https://data.kcg.gov.tw/File/DirectDownload/613dc3a6-6e2f-4357-8ddf-e4dd7d757af6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e0caf7fc-9359-4a9b-8387-ec49beeb0827",
+        "https://data.kcg.gov.tw/File/DirectDownload/e0caf7fc-9359-4a9b-8387-ec49beeb0827",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d73d799c-5000-40c0-84af-f7da6cf89775",
+        "https://data.kcg.gov.tw/File/DirectDownload/d73d799c-5000-40c0-84af-f7da6cf89775",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4588986e-1c6b-4071-b076-facc164bf983",
+        "https://data.kcg.gov.tw/File/DirectDownload/4588986e-1c6b-4071-b076-facc164bf983",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ef8ce191-d4f2-4dda-9533-fd0df1db874a",
+        "https://data.kcg.gov.tw/File/DirectDownload/ef8ce191-d4f2-4dda-9533-fd0df1db874a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c06d6593-8a1b-416e-b26e-fdd9a6683b83",
+        "https://data.kcg.gov.tw/File/DirectDownload/c06d6593-8a1b-416e-b26e-fdd9a6683b83"
+      ]
+    },
+    {
+      "id": "104803",
+      "name": "高雄市VOCs監測資料2018年",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bf7da97d-a604-4fd8-bdcb-176daf17effc",
+        "https://data.kcg.gov.tw/File/DirectDownload/bf7da97d-a604-4fd8-bdcb-176daf17effc",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2a2f2e23-f42e-4d29-8eb1-1fbabddcc4cb",
+        "https://data.kcg.gov.tw/File/DirectDownload/2a2f2e23-f42e-4d29-8eb1-1fbabddcc4cb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6fdc6d16-c5b2-4d8e-83de-2be2203c26c8",
+        "https://data.kcg.gov.tw/File/DirectDownload/6fdc6d16-c5b2-4d8e-83de-2be2203c26c8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eb5e9e4f-cbaf-49a0-a2e2-39ffa6eb9426",
+        "https://data.kcg.gov.tw/File/DirectDownload/eb5e9e4f-cbaf-49a0-a2e2-39ffa6eb9426",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/97fc156f-6223-426d-9155-45bfee46382a",
+        "https://data.kcg.gov.tw/File/DirectDownload/97fc156f-6223-426d-9155-45bfee46382a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/678d163f-d54c-4535-9fc0-7238fce90f19",
+        "https://data.kcg.gov.tw/File/DirectDownload/678d163f-d54c-4535-9fc0-7238fce90f19",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dee41035-1ba6-429f-8bde-87f02e741c8d",
+        "https://data.kcg.gov.tw/File/DirectDownload/dee41035-1ba6-429f-8bde-87f02e741c8d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d533c7ba-c8a1-4f38-b27e-897d9e93e64e",
+        "https://data.kcg.gov.tw/File/DirectDownload/d533c7ba-c8a1-4f38-b27e-897d9e93e64e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a0f3869a-7697-4b03-acf7-a0fb26918cf6",
+        "https://data.kcg.gov.tw/File/DirectDownload/a0f3869a-7697-4b03-acf7-a0fb26918cf6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/18d6f2b6-849a-4bff-8563-a8e74d9b7e8d",
+        "https://data.kcg.gov.tw/File/DirectDownload/18d6f2b6-849a-4bff-8563-a8e74d9b7e8d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aaba55e8-b9ba-41d9-8710-deb2a192e523",
+        "https://data.kcg.gov.tw/File/DirectDownload/aaba55e8-b9ba-41d9-8710-deb2a192e523",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cb7f898b-6f32-420a-b237-e5f338704fdc",
+        "https://data.kcg.gov.tw/File/DirectDownload/cb7f898b-6f32-420a-b237-e5f338704fdc"
+      ]
+    },
+    {
+      "id": "128462",
+      "name": "高雄市一般空氣品質測站監測統計資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ac930ce1-c181-4add-9a1b-b88da29a5a02",
+        "https://data.kcg.gov.tw/File/directDownload/ac930ce1-c181-4add-9a1b-b88da29a5a02"
+      ]
+    },
+    {
+      "id": "128343",
+      "name": "高雄市飲用水資訊",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/afc888a7-c0ab-4201-99d2-2adc5e0dc21c",
+        "https://data.kcg.gov.tw/File/DirectDownload/afc888a7-c0ab-4201-99d2-2adc5e0dc21c"
+      ]
+    },
+    {
+      "id": "128471",
+      "name": "高雄市航空噪音管制區",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/46f17e4b-e21e-48fb-b669-2024f781778a",
+        "https://data.kcg.gov.tw/File/DirectDownload/46f17e4b-e21e-48fb-b669-2024f781778a"
+      ]
+    },
+    {
+      "id": "147955",
+      "name": "高雄市政府111年度環境水體監測資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0dba081a-8657-4b37-89a8-026f26a35896",
+        "https://data.kcg.gov.tw/File/DirectDownload/0dba081a-8657-4b37-89a8-026f26a35896",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2941c979-5382-44fd-88be-0795dc5d935a",
+        "https://data.kcg.gov.tw/File/DirectDownload/2941c979-5382-44fd-88be-0795dc5d935a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f43f682d-c762-4b04-ab88-23de5070df5e",
+        "https://data.kcg.gov.tw/File/DirectDownload/f43f682d-c762-4b04-ab88-23de5070df5e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f49065a2-e528-4208-92e3-38c4d6bea5ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/f49065a2-e528-4208-92e3-38c4d6bea5ac",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fb76ece3-be17-4a45-aee4-46a25a9a527e",
+        "https://data.kcg.gov.tw/File/DirectDownload/fb76ece3-be17-4a45-aee4-46a25a9a527e",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b98fddd6-a8d7-43fa-a479-6e2700712b59",
+        "https://data.kcg.gov.tw/File/DirectDownload/b98fddd6-a8d7-43fa-a479-6e2700712b59",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8a4705b3-ce20-468c-9e6e-9642ec8416b8",
+        "https://data.kcg.gov.tw/File/DirectDownload/8a4705b3-ce20-468c-9e6e-9642ec8416b8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4151b43a-5220-48aa-8785-b5196f3c433b",
+        "https://data.kcg.gov.tw/File/DirectDownload/4151b43a-5220-48aa-8785-b5196f3c433b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f86e4493-7df6-4755-80a9-da83b34a950b",
+        "https://data.kcg.gov.tw/File/DirectDownload/f86e4493-7df6-4755-80a9-da83b34a950b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b341216e-ae0c-49e9-8722-db1456718d05",
+        "https://data.kcg.gov.tw/File/DirectDownload/b341216e-ae0c-49e9-8722-db1456718d05",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a8c0749-b928-4eda-be4a-dcccf91371e6",
+        "https://data.kcg.gov.tw/File/DirectDownload/6a8c0749-b928-4eda-be4a-dcccf91371e6",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2e6ca348-895c-4eca-8ecb-e19a0ed75262",
+        "https://data.kcg.gov.tw/File/DirectDownload/2e6ca348-895c-4eca-8ecb-e19a0ed75262"
+      ]
+    },
+    {
+      "id": "147956",
+      "name": "高雄市VOCs監測資料2021年",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f05d8e94-7af7-4524-9729-0b915a727df2",
+        "https://data.kcg.gov.tw/File/DirectDownload/f05d8e94-7af7-4524-9729-0b915a727df2",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/becc6cd6-6a5a-462e-a910-4114f0059990",
+        "https://data.kcg.gov.tw/File/DirectDownload/becc6cd6-6a5a-462e-a910-4114f0059990",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0cb6a560-faf5-4d73-a56e-47d1fc4a2f9b",
+        "https://data.kcg.gov.tw/File/DirectDownload/0cb6a560-faf5-4d73-a56e-47d1fc4a2f9b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/646f6767-d2ea-454d-ad2b-47e5a5ae27be",
+        "https://data.kcg.gov.tw/File/DirectDownload/646f6767-d2ea-454d-ad2b-47e5a5ae27be",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/45458b11-ad6f-40dd-80b3-5aa318c35ab8",
+        "https://data.kcg.gov.tw/File/DirectDownload/45458b11-ad6f-40dd-80b3-5aa318c35ab8",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c6903a43-4291-420d-9dc3-64c53b76d2f4",
+        "https://data.kcg.gov.tw/File/DirectDownload/c6903a43-4291-420d-9dc3-64c53b76d2f4",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a36a1d1-58fd-4c6f-8e91-9be95ce5faab",
+        "https://data.kcg.gov.tw/File/DirectDownload/9a36a1d1-58fd-4c6f-8e91-9be95ce5faab",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/15d55cc2-0cbb-4fd3-97b6-9f403b200ee5",
+        "https://data.kcg.gov.tw/File/DirectDownload/15d55cc2-0cbb-4fd3-97b6-9f403b200ee5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7cc99d76-e622-4690-9199-d07b57dc4ebb",
+        "https://data.kcg.gov.tw/File/DirectDownload/7cc99d76-e622-4690-9199-d07b57dc4ebb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/089feb16-b300-49b2-b5d6-d115895c7e61",
+        "https://data.kcg.gov.tw/File/DirectDownload/089feb16-b300-49b2-b5d6-d115895c7e61",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/216f378e-e75e-4557-9f90-db514f57fa0f",
+        "https://data.kcg.gov.tw/File/DirectDownload/216f378e-e75e-4557-9f90-db514f57fa0f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/175cfbed-ffef-49ae-98a7-e5e6d62dbc9e",
+        "https://data.kcg.gov.tw/File/DirectDownload/175cfbed-ffef-49ae-98a7-e5e6d62dbc9e"
+      ]
+    },
+    {
+      "id": "150847",
+      "name": "高雄市空氣品質人工測站監測數值2022年",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/87379418-d618-4e9f-b262-0f3bb313e4a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/87379418-d618-4e9f-b262-0f3bb313e4a7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/92fcbe0f-1473-4444-8e62-33be03708b2f",
+        "https://data.kcg.gov.tw/File/DirectDownload/92fcbe0f-1473-4444-8e62-33be03708b2f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5d6c460d-fc66-42ee-8c6b-4062377395e9",
+        "https://data.kcg.gov.tw/File/DirectDownload/5d6c460d-fc66-42ee-8c6b-4062377395e9",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b6bb29b0-6398-4d47-8a1c-455a91fb6762",
+        "https://data.kcg.gov.tw/File/DirectDownload/b6bb29b0-6398-4d47-8a1c-455a91fb6762",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/459bd1e9-ca55-447a-8840-6002f22b8aff",
+        "https://data.kcg.gov.tw/File/DirectDownload/459bd1e9-ca55-447a-8840-6002f22b8aff",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a7d410b7-3585-424e-be43-7013c82da858",
+        "https://data.kcg.gov.tw/File/DirectDownload/a7d410b7-3585-424e-be43-7013c82da858",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7cb36b8-a359-4cba-9844-7c260e407693",
+        "https://data.kcg.gov.tw/File/DirectDownload/f7cb36b8-a359-4cba-9844-7c260e407693",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/068f3758-6cc9-443d-aa3b-9b8cf2e00dd5",
+        "https://data.kcg.gov.tw/File/DirectDownload/068f3758-6cc9-443d-aa3b-9b8cf2e00dd5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/54d5227e-f08f-4ebb-9251-a86cab24f028",
+        "https://data.kcg.gov.tw/File/DirectDownload/54d5227e-f08f-4ebb-9251-a86cab24f028",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/49e14ec1-6d3c-4931-bcba-dc93a2119c9d",
+        "https://data.kcg.gov.tw/File/DirectDownload/49e14ec1-6d3c-4931-bcba-dc93a2119c9d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/86569e16-0420-41bc-b39d-f7a57dd63d83",
+        "https://data.kcg.gov.tw/File/DirectDownload/86569e16-0420-41bc-b39d-f7a57dd63d83",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9fc7f76e-63b2-4272-81cd-fcfe49498166",
+        "https://data.kcg.gov.tw/File/DirectDownload/9fc7f76e-63b2-4272-81cd-fcfe49498166"
+      ]
+    }
+  ]
+}

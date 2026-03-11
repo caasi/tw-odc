@@ -1,0 +1,654 @@
+{
+  "type": "dataset",
+  "provider": "臺北市政府工務局",
+  "slug": "data_taipei_82e8495f",
+  "datasets": [
+    {
+      "id": "157704",
+      "name": "臺北市公共管線圖資_供氣系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/beeea759-4af8-4a5d-96af-aabd6de3c4cf/resource/e8ffb2df-1094-478a-bb08-deeb0c5444a7/download"
+      ]
+    },
+    {
+      "id": "146009",
+      "name": "臺北市公共管線圖資_輸電系統人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/8996d975-4b2c-4220-80c2-6a1b426920aa/resource/7ad57843-dd56-48f0-867c-b19b29a9c755/download"
+      ]
+    },
+    {
+      "id": "146018",
+      "name": "臺北市公共管線圖資_有線電視系統人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/a7a59733-4f39-42ed-b94a-c2d386080baf/resource/5fe91779-7c07-4131-a83a-3bf1e1b9f4ac/download"
+      ]
+    },
+    {
+      "id": "146022",
+      "name": "臺北市公共管線圖資_一般電信系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/9557a843-5c9b-49b3-980c-889c10a32f70/resource/b252ca30-01bf-41bd-bc9a-6b32aa5b06c1/download"
+      ]
+    },
+    {
+      "id": "146023",
+      "name": "臺北市公共管線圖資_一般電信系統電桿",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/35a72367-eb2e-4bc1-a66b-fe855457a5d8/resource/ffe47bc4-5c0a-4b55-bf68-11ccf9affea6/download"
+      ]
+    },
+    {
+      "id": "156855",
+      "name": "臺北市公共管線圖資_路燈電力系統電桿",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/754ee591-7349-4276-8be5-ac25651cce0b/resource/4f539d2c-d271-46a4-8f9a-943fa7842ae0/download"
+      ]
+    },
+    {
+      "id": "156856",
+      "name": "臺北市公共管線圖資_路燈電力系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/e3108d23-7f62-4f1f-af5e-ac930739ca42/resource/8b90992b-39a5-415d-a3c4-51de103c9b25/download"
+      ]
+    },
+    {
+      "id": "156864",
+      "name": "臺北市公共管線圖資_自來水系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/af167303-0e5f-45dd-b624-a01f541565ce/resource/30056122-21c3-4a6d-9f90-274509a08e7a/download",
+        "https://data.taipei/api/dataset/af167303-0e5f-45dd-b624-a01f541565ce/resource/aeeaa0cd-38f0-45f1-9849-762642fb77be/download",
+        "https://data.taipei/api/dataset/af167303-0e5f-45dd-b624-a01f541565ce/resource/07946ee4-3537-49c7-a964-606c995e02fe/download",
+        "https://data.taipei/api/dataset/af167303-0e5f-45dd-b624-a01f541565ce/resource/650ab113-454c-45ba-a8b5-32066265b1a2/download",
+        "https://data.taipei/api/dataset/af167303-0e5f-45dd-b624-a01f541565ce/resource/540545ed-5d58-43b3-b1c7-3f6d6e3c73c1/download"
+      ]
+    },
+    {
+      "id": "156868",
+      "name": "臺北市公共管線圖資_雨水系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/97b82d58-faba-4ee4-9488-dd5d04a79efd/resource/5240223d-5187-454e-b323-63443a195639/download"
+      ]
+    },
+    {
+      "id": "156870",
+      "name": "臺北市公共管線圖資_供氣系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/0a648f1e-e014-42e8-9438-7e1cd6efe34c/resource/aff15afb-3aab-4a3c-b482-a17de70a7304/download",
+        "https://data.taipei/api/dataset/0a648f1e-e014-42e8-9438-7e1cd6efe34c/resource/716f7796-f52f-44bf-b1eb-cce49a494418/download"
+      ]
+    },
+    {
+      "id": "156871",
+      "name": "臺北市公共管線圖資_灌排系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/0f57cecb-51c3-4aa6-86f2-45e94a9c9c45/resource/6da33f6e-5acf-458a-a8b2-ee6f639c5efb/download"
+      ]
+    },
+    {
+      "id": "156873",
+      "name": "臺北市公共管線圖資_共同管道",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/f370b184-519a-4198-b0ff-6197b5319123/resource/67a3ea98-1b23-49de-8901-344ddc84f500/download"
+      ]
+    },
+    {
+      "id": "156875",
+      "name": "臺北市公共管線圖資_連接管管道",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/57b6e4ad-eca7-4047-8266-1da28b942fe6/resource/de2a1efb-b78f-46b1-b13a-7cc36e730765/download"
+      ]
+    },
+    {
+      "id": "156876",
+      "name": "臺北市公共管線圖資_連接管人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/100360d5-9bc3-44d0-8a6d-91b95d375d2d/resource/209b7036-723e-4681-bddd-5a05823d82f8/download"
+      ]
+    },
+    {
+      "id": "156886",
+      "name": "臺北市公共管線圖資_配電系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/7ac8c754-f747-4d09-89c8-f6e64134fcfe/resource/a4749634-8488-4c5c-a067-45034196bc1c/download",
+        "https://data.taipei/api/dataset/7ac8c754-f747-4d09-89c8-f6e64134fcfe/resource/5ce471d3-3eb1-41a4-9e01-3cd67c2e7955/download",
+        "https://data.taipei/api/dataset/7ac8c754-f747-4d09-89c8-f6e64134fcfe/resource/33244c58-14a2-4a72-857f-367ef12661d6/download"
+      ]
+    },
+    {
+      "id": "156888",
+      "name": "臺北市公共管線圖資_路燈電力系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/d6000baf-e38f-4e04-b46a-bcecfa3e9f67/resource/158546eb-6d4b-4c72-88d2-990f9c9f5425/download"
+      ]
+    },
+    {
+      "id": "156890",
+      "name": "臺北市公共管線圖資_污水系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/9b25821a-c0d0-438d-a027-4a09f4640813/resource/7d82d9c9-8d89-4058-b845-f86698aee70f/download",
+        "https://data.taipei/api/dataset/9b25821a-c0d0-438d-a027-4a09f4640813/resource/bb299d68-e7e8-46c6-b187-5ff04c6ed00c/download"
+      ]
+    },
+    {
+      "id": "145619",
+      "name": "臺北市今日即時施工影像",
+      "format": "json",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/Appwork.json"
+      ]
+    },
+    {
+      "id": "145613",
+      "name": "臺北市道路申請活動使用管制圖資",
+      "format": "json",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/ExtRest/ExtRest.json"
+      ]
+    },
+    {
+      "id": "145614",
+      "name": "臺北市 今日施工資訊",
+      "format": "json",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/Todaywork.json"
+      ]
+    },
+    {
+      "id": "132508",
+      "name": "臺北市政府工務局採購案件",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/2be36284-8463-495c-bcff-fc45d403efac/resource/a064da04-bfe4-4677-a04e-fe95eeb81fa3/download"
+      ]
+    },
+    {
+      "id": "136359",
+      "name": "臺北市政府工務局工程範圍圖",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/f8cd393c-3fb4-453a-852f-fb8ab77ebef2/resource/690fb291-77c0-484c-bbe8-d6babf45bc9b/download"
+      ]
+    },
+    {
+      "id": "144029",
+      "name": "臺北市政府公共工程卓越獎獲獎工程名單",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/26d574cf-95fe-40b9-ab19-99e91e457f36/resource/cf8053d8-59e9-4430-b05b-0292c6c32ee5/download"
+      ]
+    },
+    {
+      "id": "128226",
+      "name": "臺北市土壤液化潛勢圖",
+      "format": "geojson",
+      "urls": [
+        "https://soil.taipei/Taipei2019/Main/pages/TPLiquid_97.GeoJSON",
+        "https://soil.taipei/Taipei2019/Main/pages/TPLiquid_84.GeoJSON"
+      ]
+    },
+    {
+      "id": "131199",
+      "name": "臺北市工務統計資料",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/b60ae44f-2c0e-4b9f-b76c-914db5213c78/resource/4b29a286-c7a5-4707-8f2e-530dd5777238/download"
+      ]
+    },
+    {
+      "id": "145594",
+      "name": "臺北市政府施工查核情形一覽表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/c7915cf9-4447-4e67-be53-e5cfb3332dd2/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/d92a6660-f191-4f8b-a6a0-72aaf34f42b6/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/37bbbbca-7c4b-48e6-a4b8-eb6148a72ba8/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/a3000173-e9de-483b-9444-1aecf871352c/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/6b0aeb3b-4c85-4f87-8883-8e00a76d048c/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/85d40c22-582c-4460-bde1-a3f68378a8f6/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/d9f61a32-ecd0-4922-8b2a-96153f8c869c/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/41d45f54-d743-4128-bea0-6eeb2fc4e0e6/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/8ce9817e-8da1-4029-ae50-47b300956c53/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/e47f31bf-edbe-4a43-89f6-cdb806c82ee1/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/7dc94cca-a178-4b82-b736-4e633c665b4a/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/c8a63edb-8188-4e62-bca1-f92a1d881949/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/677dada8-b711-4c80-8de7-f9a5381afc27/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/6654d618-1bc4-4007-8aee-8ee41bc7345c/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/96ef61bc-606d-4fab-8c33-9cbde1ddf258/download",
+        "https://data.taipei/api/dataset/a8104214-5416-48d3-8006-c22c18a90283/resource/3835ea9d-2bd5-4d25-a621-29b1b209f3cd/download"
+      ]
+    },
+    {
+      "id": "146010",
+      "name": "臺北市公共管線圖資_路燈電力系統人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/4bef5d6a-ca5d-4ab7-afed-4ea6c24e6d58/resource/99b2f1b0-4da6-4985-9f8b-c182b2fb4cf6/download"
+      ]
+    },
+    {
+      "id": "146011",
+      "name": "臺北市公共管線圖資_配電系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/42599405-e217-4433-aa45-fcc84f99eb89/resource/82f3f379-b17c-41ff-aff2-1f3c0d16bb28/download"
+      ]
+    },
+    {
+      "id": "146012",
+      "name": "臺北市公共管線圖資_配電系統電桿",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/c21bba2a-9019-4fb4-8f85-ca2449a90044/resource/ca07a743-2d62-4cbb-85f0-10880773adf0/download"
+      ]
+    },
+    {
+      "id": "146013",
+      "name": "臺北市公共管線圖資_配電系統人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/94343c2e-604c-4b98-804e-37b9a6461e46/resource/7039cd1a-7d6e-4410-8c28-143659b0ca40/download"
+      ]
+    },
+    {
+      "id": "146014",
+      "name": "臺北市公共管線圖資_交通號誌系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/e6e26880-4631-4d98-b226-f8f3d4646739/resource/8b183fa5-61e3-4fc7-8426-ae906e7d64fb/download"
+      ]
+    },
+    {
+      "id": "146016",
+      "name": "臺北市公共管線圖資_有線電視系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/80ca5832-5f43-4983-b70d-fa46fa17b64d/resource/8a8da04a-8b36-40e0-bb46-a8057ed49e3b/download"
+      ]
+    },
+    {
+      "id": "146000",
+      "name": "臺北市公共管線圖資_供氣系統場站",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/e52276f1-db1a-4684-a86c-58ade31ca35a/resource/82057f7d-c8aa-45e6-a7a8-aeddb8f209a9/download"
+      ]
+    },
+    {
+      "id": "146002",
+      "name": "臺北市公共管線圖資_供氣系統人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/67301fc6-af58-4ddb-891c-cb4012702839/resource/c307e1f4-e9fb-4856-951a-5209a56c415e/download"
+      ]
+    },
+    {
+      "id": "146003",
+      "name": "臺北市公共管線圖資_雨水系統人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/dbbf48bd-80ad-40d1-93d0-67458e9893bf/resource/9506587d-65ec-433c-a7c5-f6d461f23c33/download"
+      ]
+    },
+    {
+      "id": "146004",
+      "name": "臺北市公共管線圖資_自來水系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/17e83011-e472-4a4c-b5d9-3dcc45dca0f8/resource/0511dea3-2d41-400a-beb6-8cbf095d14b3/download"
+      ]
+    },
+    {
+      "id": "156851",
+      "name": "臺北市公共管線圖資_一般電信系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/89e4e1e3-b174-4b67-9073-7eb273e4f711/resource/04f0c092-4580-4e4e-afd9-9c1ec364bbb4/download",
+        "https://data.taipei/api/dataset/89e4e1e3-b174-4b67-9073-7eb273e4f711/resource/ffef3e3b-83d0-4d64-a661-26f015dcb239/download",
+        "https://data.taipei/api/dataset/89e4e1e3-b174-4b67-9073-7eb273e4f711/resource/1f685ec9-9e71-4442-b5f7-5b5750608569/download"
+      ]
+    },
+    {
+      "id": "156878",
+      "name": "臺北市公共管線圖資_纜線管路人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/ae3cae5b-5d65-4f69-9c3a-5206d2ceee4d/resource/4889abf4-7df2-48ab-8279-4b7f9b1c8720/download"
+      ]
+    },
+    {
+      "id": "156881",
+      "name": "臺北市公共管線圖資_有線電視系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/f0bddd58-5c15-45ac-8f3a-bcc66a6d2f7f/resource/1d2e03ab-c363-4965-a108-b8e9ae93c038/download"
+      ]
+    },
+    {
+      "id": "156887",
+      "name": "臺北市公共管線圖資_配電系統場站",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/f042429c-2080-4f68-ada8-037b15901fbb/resource/a3ebe64c-25ea-4ddb-8280-350d90a6434f/download"
+      ]
+    },
+    {
+      "id": "156889",
+      "name": "臺北市公共管線圖資_路燈電力系統開關",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/c98e8454-4bc1-485d-a4ad-e7a9fe00a8e5/resource/f9dfe406-aa85-4eff-90d5-02cccc728869/download"
+      ]
+    },
+    {
+      "id": "156859",
+      "name": "臺北市公共管線圖資_交通號誌電力系統電桿",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/0d137dab-e4ae-4c19-8149-7a8f47c333ac/resource/08a5bfe4-1805-4ce8-a68c-abf9160c6a63/download"
+      ]
+    },
+    {
+      "id": "156861",
+      "name": "臺北市公共管線圖資_輸電系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/d506226a-a236-4b05-850f-d656ef53162d/resource/e02cc7b9-1918-4f49-9441-3de5e669c868/download"
+      ]
+    },
+    {
+      "id": "156866",
+      "name": "臺北市公共管線圖資_污水系統陰井",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/ffdebeff-4bed-4e49-a22e-c212d0ad4347/resource/12ef0a57-b727-4b63-b1bd-c15ec01f64c9/download"
+      ]
+    },
+    {
+      "id": "128222",
+      "name": "臺北市土壤液化分析鑽井圖層資料",
+      "format": "geojson",
+      "urls": [
+        "https://soil.taipei/Taipei2019/Main/pages/Taipei_hole_97.GeoJSON",
+        "https://soil.taipei/Taipei2019/Main/pages/Taipei_hole_84.GeoJSON"
+      ]
+    },
+    {
+      "id": "166231",
+      "name": "臺北市水綠地圖集",
+      "format": "geojson",
+      "urls": [
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/3bdb0dd5-e994-496e-b9a5-f615399ad956/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/e7a72835-fc02-436a-9a07-2ea1c1070b14/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/7d6fd95f-b7a8-4baf-b743-9ce792fd2c97/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/3b3b262b-843d-4f6f-95de-5445dcc3830c/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/ab55a961-562e-4d1b-93d3-5d59f3b10c79/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/9849f543-f707-4d76-8156-190b3f5af95b/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/9f9205e5-fa3e-42b1-b059-02def57f8f37/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/9e895ea7-8a73-48b0-8882-2ca3cd48115f/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/c50b43ea-d927-492c-a828-06a06389c3ee/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/7eb15e5a-0532-41f0-8d3e-f756d797c293/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/97d2bea0-eedf-47ec-b286-5229cf99f558/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/89fe1553-6c19-4e10-be23-fc8027d27c71/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/d449e232-51ff-4404-b730-8f9a2d9106cf/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/ad507d2e-5850-4cd3-836e-e36697a716dd/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/e4e04b63-a1ec-4720-bfab-e2dd645f25ed/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/17d0e560-cec7-4677-82f0-162302f56f95/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/9c9021cd-a1d5-4283-ab9f-4a006729fcec/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/51a153d5-dca0-4a55-a8e9-264ae97bb19c/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/39c92b54-69c5-46b1-8f90-5483a1b08247/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/b58cf500-64a0-4935-8f7d-82872746d96f/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/4ed15638-2301-4e62-9e65-46adc3b38a35/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/f29890f4-d703-410e-88e2-9d53cf91003d/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/9bb49a8f-c198-4d20-b4f2-d034a577b7d7/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/f3ce4bb6-712a-41ae-902b-f8a6099eac85/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/e20676c6-0535-4175-b682-9a04be3cd125/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/2f3d27cf-3f03-4438-ac38-da5986195cfc/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/fe4cdaf5-2882-489b-bb2f-a3b6947b3ca1/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/0dcb0d33-3fe6-419e-98f6-c23181f2ad27/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/1dda6370-6631-46a8-a47b-6e2d577b6f35/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/615d504f-0194-4ccd-88bb-36232e579b09/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/79227ab6-9d03-4c49-82f8-4f5b0d02e642/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/9c546342-0ab6-49c7-bd78-559fc4c9be2c/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/551bdca9-0701-4854-a9be-8d5826fb6170/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/5dd9a664-c175-478d-a83a-7a33567d163b/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/e4170672-9ab9-43c9-bb08-2a01a800f2ed/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/c28fcf89-ca10-498e-93a9-02f95c1dbbeb/download",
+        "https://data.taipei/api/dataset/5b277432-f534-4d09-a24c-d3f6b514e042/resource/c92de9d2-01a7-46ca-8c8e-dd9667e515d0/download"
+      ]
+    },
+    {
+      "id": "132271",
+      "name": "臺北市政府工務局代辦工程",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/68a49b4a-b68c-4aae-98bb-aca9cd8a0f6c/resource/11ad78d9-b854-48cd-bd1b-303513168cf7/download"
+      ]
+    },
+    {
+      "id": "145612",
+      "name": "臺北市明日道路施工預約資訊",
+      "format": "json",
+      "urls": [
+        "https://tpnco.blob.core.windows.net/blobfs/Reserve.json"
+      ]
+    },
+    {
+      "id": "146001",
+      "name": "臺北市公共管線圖資_供氣系統開關",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/0267f967-9a97-4901-b614-ed91bb57f83f/resource/8b5a78c0-9842-4127-baac-78bcf2911176/download"
+      ]
+    },
+    {
+      "id": "146005",
+      "name": "臺北市公共管線圖資_自來水系統閥類",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/44c6fb09-8f51-403a-95a8-99a2387c2f05/resource/2046c65f-024f-4ded-ad25-5349b66a41ed/download"
+      ]
+    },
+    {
+      "id": "146006",
+      "name": "臺北市公共管線圖資_自來水系統消防栓",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/75e76c74-1934-431a-8831-690f0a254784/resource/84e6bdc0-f5ce-4b43-adb0-e5d0ed0ea9e1/download"
+      ]
+    },
+    {
+      "id": "146007",
+      "name": "臺北市公共管線圖資_自來水系統人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/7b1b2262-eb9e-4faf-a7d1-01c0ec29328f/resource/0195f686-0be6-4244-9940-988f78903587/download"
+      ]
+    },
+    {
+      "id": "146015",
+      "name": "臺北市公共管線圖資_交通號誌系統號誌",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/5818c0cf-6cd1-4ddf-84a8-9aff0196dd73/resource/8d3ebc2d-8a7d-4089-8f21-4cc51c70fafe/download"
+      ]
+    },
+    {
+      "id": "146019",
+      "name": "臺北市公共管線圖資_警訊系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/e71017c8-8706-40e7-b230-283f274c468f/resource/bc0daadc-695b-455a-a6d5-71eda2c1da6a/download"
+      ]
+    },
+    {
+      "id": "146020",
+      "name": "臺北市公共管線圖資_警訊系統電桿",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/0c01a7da-c332-496d-a5d9-a6c57287183e/resource/73800621-8ead-4767-b977-316122a9ea8e/download"
+      ]
+    },
+    {
+      "id": "146021",
+      "name": "臺北市公共管線圖資_警訊系統人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/3b78ff1c-fa3c-4878-a18e-5e3249f55a5a/resource/8a73d0f6-8040-4829-a775-e40de6d219e1/download"
+      ]
+    },
+    {
+      "id": "146024",
+      "name": "臺北市公共管線圖資_一般電信系統人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/946bdf64-1515-4d32-8ad2-7fd5ce492d28/resource/58a0fb08-5d97-4456-8f3e-5078d39469b6/download"
+      ]
+    },
+    {
+      "id": "156794",
+      "name": "臺北市政府工務局自行開發系統列表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/d89c97e9-6914-4eb3-ab0e-fa12fb6bcbbf/resource/4802dbec-3fa2-4e9a-82b1-24c93c312045/download"
+      ]
+    },
+    {
+      "id": "156852",
+      "name": "臺北市公共管線圖資_警訊系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/a0fbe437-f457-4873-9278-7bd61471ac47/resource/bc6606f8-f84b-48e8-9b8b-f8b92765f8c4/download"
+      ]
+    },
+    {
+      "id": "156853",
+      "name": "臺北市公共管線圖資_交通號誌系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/a2ffb08f-c088-42e6-83a7-053d8b804442/resource/13d56cd0-b441-46a7-8fd7-f16c382a18ad/download"
+      ]
+    },
+    {
+      "id": "156854",
+      "name": "臺北市公共管線圖資_交通號誌系統電桿",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/050ecdaa-d477-4d1e-a019-639f537a3eb1/resource/2952f283-0e46-4dc5-b299-63052faa0ee5/download"
+      ]
+    },
+    {
+      "id": "156874",
+      "name": "臺北市公共管線圖資_共同管道人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/7bc2f936-cb8c-4034-a331-a94a7472100e/resource/6d6eabe8-0dfb-48ea-9736-d840a2cbd17d/download"
+      ]
+    },
+    {
+      "id": "156877",
+      "name": "臺北市公共管線圖資_纜線管路管道",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/a6c6fd6c-aca7-4ec1-af79-8b059ba5f8da/resource/9e9f6078-39dd-4365-88e0-f374c5dcb7e7/download"
+      ]
+    },
+    {
+      "id": "156883",
+      "name": "臺北市公共管線圖資_廣播系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/69906609-aa2b-4661-9b66-d98c381f6611/resource/2cdc0f29-bd76-4de4-9402-27f75ceccf98/download"
+      ]
+    },
+    {
+      "id": "156884",
+      "name": "臺北市公共管線圖資_廣播系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/d9766a89-1ee8-4898-bb15-2cf0427da6b1/resource/94ac781e-9ead-4497-8f07-5de1a2c58cff/download"
+      ]
+    },
+    {
+      "id": "156885",
+      "name": "臺北市公共管線圖資_廣播系統場站",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/60af881d-e490-484e-bb33-ef00a74ec007/resource/c59369af-40eb-4b67-ba32-684bcb824dff/download"
+      ]
+    },
+    {
+      "id": "156860",
+      "name": "臺北市公共管線圖資_交通號誌電力系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/a152b158-2bec-44a0-9ae3-c4440c2ebc2b/resource/e6fb924d-5aa3-48c2-8aee-957230c010df/download"
+      ]
+    },
+    {
+      "id": "156862",
+      "name": "臺北市公共管線圖資_輸電系統其他設施",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/7e5fb23d-7ef6-430c-8dcc-d9c1763d98d1/resource/f6f85569-76d7-4b9d-8e1b-01780059bcec/download"
+      ]
+    },
+    {
+      "id": "156863",
+      "name": "臺北市公共管線圖資_輸電系統場站",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/f2d95aa3-671e-4ff6-97d4-d21953311957/resource/6b62553d-74c7-4e01-8736-6111afab4052/download"
+      ]
+    },
+    {
+      "id": "156865",
+      "name": "臺北市公共管線圖資_污水系統人手孔及清除孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/30a55e32-0535-43e1-9a62-cf21a9df216d/resource/a173bae9-a449-44fc-bab2-af985230d884/download"
+      ]
+    },
+    {
+      "id": "156869",
+      "name": "臺北市公共管線圖資_雨水側溝管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/c4c424ba-7a9b-4348-9b80-740426afcab9/resource/1e1d0005-f133-45b0-80bc-4058fe18c04e/download"
+      ]
+    },
+    {
+      "id": "156857",
+      "name": "臺北市公共管線圖資_交通號誌電力系統管線",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/77b9588d-ff7c-472e-8548-cf92ab2bad52/resource/45a1f2aa-cc9d-42fb-ad84-203df4fd7358/download"
+      ]
+    },
+    {
+      "id": "156858",
+      "name": "臺北市公共管線圖資_交通號誌電力系統人手孔",
+      "format": "xml",
+      "urls": [
+        "https://data.taipei/api/dataset/a134c666-28c0-4dac-9db6-074798ba8aed/resource/d6c8d981-2a61-4f8b-824e-d3b835ea884e/download"
+      ]
+    }
+  ]
+}

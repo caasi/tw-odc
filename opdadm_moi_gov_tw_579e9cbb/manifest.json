@@ -1,0 +1,780 @@
+{
+  "type": "dataset",
+  "provider": "役政司",
+  "slug": "opdadm_moi_gov_tw_579e9cbb",
+  "datasets": [
+    {
+      "id": "11048",
+      "name": "內政部役政署單位預算",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/7FA0ED8C-4FFD-45CB-9B47-017331D2DFE3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/BDFD9B56-8898-4097-894D-0B7FDD4B75AC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/45D263A9-1A19-4CE0-AC74-0C3B0D03F8FB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/D577CCD0-8348-497C-9193-391A1A2CD415/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/4EB6E03F-5F91-4258-899D-4552985065A1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/C9AC2371-B4C9-4AAC-A7CD-51BE4F1125A4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/AACCAC46-19A7-4299-B177-974524F2C11D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/C38CEADE-A486-4212-A557-A4D239E2F106/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/B0071D46-3853-4270-A16E-AB441E67E4D3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/0A5880AE-C606-435C-86EC-C264A1A6B421/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/A9A4E2FF-20AC-4EE5-93B7-C889285EF03F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/24B03386-8D04-4545-B59D-E27E456C6704/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/956C2C86-0178-49A9-925F-D206A24498A9/resource/8EDC1402-8E40-4095-AE42-E6F9479B321D/download"
+      ]
+    },
+    {
+      "id": "8218",
+      "name": "全國役政單位資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0442E5F2-C415-457A-9CE0-107448FFFDF9/resource/27E0686F-9CCE-41BE-9861-A4A911D313ED/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0442E5F2-C415-457A-9CE0-107448FFFDF9/resource/EA28418E-8956-4790-BAF4-C2D3988266CC/download"
+      ]
+    },
+    {
+      "id": "38332",
+      "name": "內政部役政署職(教)員考試統計報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C6E483E6-E914-4408-9964-D564CA40D361/resource/0B44F457-325B-4D25-9A42-BD158BF377D1/download"
+      ]
+    },
+    {
+      "id": "68661",
+      "name": "內政部役政署辦理生活扶(慰)助戶數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EDAA386A-42A6-4962-977F-077238B71EC6/resource/03D0F5B8-C9C6-4EBB-B963-02D3CFF978A4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EDAA386A-42A6-4962-977F-077238B71EC6/resource/ABC180C3-FA47-4231-AC19-426027E3112D/download"
+      ]
+    },
+    {
+      "id": "23039",
+      "name": "廉政會報會議紀錄",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F85D90A-9821-40C6-8DF0-67548D611270/resource/832DA056-CA90-4FF8-9CF2-48B0EC225DAD/download"
+      ]
+    },
+    {
+      "id": "23801",
+      "name": "發放義務役傷殘退伍(役)人員三節慰問金及安養津貼人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7E30812D-7683-4D1B-8797-2F457DC17692/resource/BA852D19-AF2A-4A3A-A675-5925B85E3D21/download"
+      ]
+    },
+    {
+      "id": "24379",
+      "name": "內政部役政署最新消息",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BB7C8120-7589-4CD5-8A0D-6010D1024777/resource/66470F83-87D6-44F5-9A71-32FECD2663C8/download"
+      ]
+    },
+    {
+      "id": "23784",
+      "name": "役男因家庭因素申請服補充兵役及管理情形清查統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CB2F3743-D8A8-42C6-AC92-66019B779528/resource/056E11EE-8234-4AE9-9999-50770A9E3A49/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CB2F3743-D8A8-42C6-AC92-66019B779528/resource/D9DDCCB8-0831-4B9D-BC76-9DF80F2B95AB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CB2F3743-D8A8-42C6-AC92-66019B779528/resource/B81A24A0-F67F-42A9-A7D0-A79AA98D67EE/download"
+      ]
+    },
+    {
+      "id": "23790",
+      "name": "二階段常備兵役軍事訓練統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F90F7175-A7CC-4BA9-80F2-87577AA42323/resource/38CA4016-55BE-4ADF-BD10-8FA29B084822/download"
+      ]
+    },
+    {
+      "id": "23795",
+      "name": "替代役役男提前退役人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F25AAFFD-8F2E-4515-81B1-C069EF89AF67/resource/BBC34499-195C-4B20-AADA-05D74F6D82A1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F25AAFFD-8F2E-4515-81B1-C069EF89AF67/resource/B6782D7E-9485-4743-9DE5-C5E34410DD29/download"
+      ]
+    },
+    {
+      "id": "130322",
+      "name": "役男因病停役免予回役人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B1472073-CD06-45A0-8C8F-18671ACB0DAC/resource/58A6AD42-3528-47E0-A365-EA9223FED1F0/download"
+      ]
+    },
+    {
+      "id": "160047",
+      "name": "一般替代役役男提前退役核定人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EB8FEC92-9C13-4EC8-9858-CC7162F75C53/resource/58F9B8F3-2D2A-4EBD-ADAD-72756B9FBCE4/download"
+      ]
+    },
+    {
+      "id": "136511",
+      "name": "發放義務役身心障礙退伍人員生活輔助器具費用補助",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F7797A20-06C9-4459-BCB0-3EC0F0181625/resource/D47B489F-F709-48D8-B57E-18E80DFAC232/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F7797A20-06C9-4459-BCB0-3EC0F0181625/resource/2759C97B-CED5-41A0-A666-9FA7E39C5C28/download"
+      ]
+    },
+    {
+      "id": "136438",
+      "name": "各縣市役男申請複檢人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B5949131-3ACF-45AF-82C9-A1A22E2BCE6A/resource/4F2A6E0D-B75E-4AB4-BE08-2715B2B25A3E/download"
+      ]
+    },
+    {
+      "id": "136440",
+      "name": "徵兵及齡男子轉錄人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/967ACEBF-AC7C-4BDA-B541-B4B95B64C6FB/resource/6E8E466B-8C8C-4D6F-AA0A-B2C6A028CF17/download"
+      ]
+    },
+    {
+      "id": "170257",
+      "name": "77年次至94年次出境就學役男人數表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/615B6097-15A9-4779-8791-1C8FF05658EB/resource/F8EA56F6-FCCE-4737-96E7-327C3CFC7534/download"
+      ]
+    },
+    {
+      "id": "170249",
+      "name": "112年辦理役男家屬生活扶慰助補助經費統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/81FDD749-0311-4E18-A934-A4D7220F864D/resource/AE8F6940-A012-4899-A38B-22D4E48EA51C/download"
+      ]
+    },
+    {
+      "id": "170251",
+      "name": "112年役男體位審查委員會審查案件統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/20375D42-5D53-4A14-97FF-8D6CF26CB790/resource/EE2EF02B-A7AC-42AC-8E13-39E0693563A4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/20375D42-5D53-4A14-97FF-8D6CF26CB790/resource/9793D155-3251-43BE-BC72-712A528E7126/download"
+      ]
+    },
+    {
+      "id": "174669",
+      "name": "延期徵集各類原因統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5B21BE51-2479-4803-B10C-57BBEE1AF979/resource/E1F08C55-3584-4795-8421-4E8CCBF9EAE4/download"
+      ]
+    },
+    {
+      "id": "174957",
+      "name": "體育競技服補充兵統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EB3DB08D-C257-43B4-AC3C-41EC98CFBF54/resource/FB2CD5A7-6D75-4903-B392-8E0348389ACC/download"
+      ]
+    },
+    {
+      "id": "11049",
+      "name": "役政署補助地方政府明細表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A0FF97A1-EB3F-455B-8E6E-86D692809B41/resource/B105F9CB-74D4-4BBF-BB94-C3265396B3FC/download"
+      ]
+    },
+    {
+      "id": "11050",
+      "name": "內政部役政署會計月報",
+      "format": "xml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/D4F54765-6FCF-4B37-941F-02054E2E392F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/902A57F7-9429-4AE0-9CD0-0A1845679E46/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/29B13FCC-58B1-4B81-BEF6-0E120EB9EE36/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/73A863E7-C8D3-449E-8DC2-12E61A721A77/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/D7B50692-F468-4EA3-B74A-151761F82F8B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/E6ADD0D6-0119-4393-98F9-1774D488CFD4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/7AD2DC2F-13A5-4431-90A2-1A830CD626F8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/3E31BE99-3FCC-494F-99CF-1BD9F7AE1BAA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/74E45FEC-6312-4AE6-AD99-1F9172E906CA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/2D88C6B6-9D09-4645-A2C6-1FA31BB0012F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/71FF94AA-B6CC-44BF-B3E9-1FAA0C1091A9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/D46D09AE-2750-4F18-95EA-1FAEA418FB46/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/9F9C386B-F374-4210-A106-24F8B1D5B4AE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/B76DD59F-633F-491F-932E-254BBDAE1EC2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/0756680C-AAE1-4D33-89E7-2CDBC9673CFC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/C6F7B61C-EAF6-483A-B6D7-2F4350B944FF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/33C3CF67-F1BF-485E-A5CA-3140AB603579/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/80116D6B-B0B3-4E35-9063-328B8710C5CC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/AA92053D-4655-4AD1-9622-351BDF9C2AED/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/D64BCE22-90F2-4D08-894C-356673D11CB7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/E3EC1DA5-DD22-43D4-A284-37BDEF9B4AF3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/4A854240-7D30-4133-99D7-37C88C92AB91/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/522A98E2-FD2A-4764-ACCA-3B82D33AA4FE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/BF3D1794-7638-48BB-85C9-3B9E25E4861B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/816C9D46-2473-465F-88C4-3D09A09FF719/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/EA8A1DBD-2ED3-456F-BEA9-400F0239DB5A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/B6AEC7BA-09A6-47AE-B669-40F49D4BF54A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/0647F0A7-8811-4CA8-AB4E-43B34DFACE5E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/F8891D67-1255-4D03-9565-443715876096/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/90AB4A13-D42B-4FCC-824D-4609C547A368/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/AF506686-642A-4134-9B79-48894FCB9CBA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/9D12EBEE-7D83-4033-AF6F-48D7364FD38A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/A3F17153-3092-42F2-A894-49521834ED9A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/D8385424-446F-4D1C-9DDA-4C68DEB2267D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/6F143FD9-238E-45CF-ABA0-5057C84363EB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/FB171399-D7B1-4A58-8DFB-522A8BDE3528/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/910F08DC-A547-4586-B3D5-5291FEFA6D33/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/70B0CD36-1667-4878-AD01-567E959D9BA3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/9EA602DB-4FC2-4293-A275-56D22FA95FE8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/CDF78E21-FE60-471D-8145-5F515D947817/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/EF6F5385-4FEC-4B77-B1F6-62DFAC8535AA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/3150B32E-D1D2-43E0-BBD5-69E9431C978D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/ECB565E1-651F-4D40-ABFC-70331D0BCEA6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/E219F800-877A-41F6-9171-7278021D2738/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/7D0F6EB1-E22C-4D3C-9FDC-7422869AA443/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/4BA45B31-41F2-4F0F-B373-775F4FA0370B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/7C2C284E-D6DA-4AB7-B7D7-77F56761086E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/13D8557E-9745-473E-B91A-78ADBB289AF4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/1C31499B-2217-44BD-94E6-78C73F3BD8C2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/8B6412AC-23F8-4769-B1B4-7C5B3B73E0D5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/BE2A9751-0FBC-48D2-9A85-7D18C2546289/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/790572C5-1A9C-4A85-84BD-87ABCE753206/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/D1688164-15F0-4FA2-8CF8-87FB23A38992/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/25263554-77D2-4D5C-933C-88D000CCDCB9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/31F57706-D746-4846-890A-895D507F6C25/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/84B3315D-48CE-460B-8F3F-8AC8E44BADD5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/7B385E57-EF27-4894-82BA-8D976FF3C4AE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/D24E1383-0D95-40B6-A128-900D81B5DDCB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/72AC41DE-AAA6-4DF2-9ACD-91190ADEA98C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/B9D1D255-0E2E-40A5-A531-977229670BEE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/40A11AE4-0BDF-430D-AA59-996D99D470A4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/8586FDE2-BA34-43A1-9E31-9D3FDD95EDCE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/0B1483FA-BEB3-4A2C-AE98-9D90F2774CA1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/4506A929-2364-4392-9739-9E498646B6CD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/15AE14CB-917F-4AE4-94C3-9F38943644A4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/D9326030-D73D-4B18-8660-9F4736597817/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/29CE1138-CD18-42FB-A974-A14C99EB3745/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/8AF7B72B-6F8E-462F-AD69-A1F56B4F3366/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/305A1C1D-25A7-4B3F-A9DE-A6D6E1D30F48/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/83631E99-DE3E-416D-8C17-A78EEA20F496/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/CA68E3D6-756B-447A-B89B-A7A6B48EEC23/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/BE507B50-FE15-4980-834A-A8831DFC9B6E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/7169BFB9-768E-45AA-AA58-B03600F8F224/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/DFAABDA3-4BAE-4C0B-B42D-B06A541E5F21/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/664657AD-2EBF-4EE3-A24C-B1FBE9B39547/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/3EA343D0-D022-4470-A9AC-B2B9C9E86D63/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/10751FA2-4EAA-4FBF-8EF6-B48C0CCB9981/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/1793C109-93AF-4614-B33A-B52BB4A40266/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/CCD09D34-4ADD-40DD-8460-B7C9BC3F8C53/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/B2D710E8-7E37-47C0-8A7F-B805AE890809/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/7CD2AB2A-B7DD-47D9-9130-BB92E96C3014/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/7FE5BB9C-4242-49D7-9B45-BDCBD9B30362/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/3947DA6A-87AE-4080-B522-BE7B1A613118/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/5421E233-5FF1-4E03-8FC6-C141E0FCA22D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/0D30217F-D1B4-4B2C-B5F4-C4C9EE089838/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/1E85A034-E4E4-4B7F-AB1A-C5E0F65EDC3A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/C18C7B8C-B5CC-454C-897B-C7D264A9DB35/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/29DAA6FF-8F14-42D8-9F44-CCA4BD4C8211/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/13CEFCB1-3425-4C2C-93CD-D096C1CF2B59/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/30B3E6DB-BA8B-4416-A98D-D2724AA0012B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/869D3F5E-D229-4806-A175-D4062340AE86/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/E790DCCE-86AF-467A-8BDB-D44B10C17455/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/9B3641A0-85EE-47DA-9F51-D4FD6270035A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/B23FC1CA-7B9A-4391-985C-D8B0F82BE18D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/0CD49053-6C38-46FE-9B30-DB0775F46E91/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/0FA9A4DE-FE0C-486D-8B3D-DB1E0C891881/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/F06C9D4C-45B0-4548-99FF-DC1C60E0E855/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/4169E823-A0A6-4585-A4C7-E6B681DF4263/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/5236B847-DFEC-4519-8BF9-E8BA19F7F55E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/5389CD7A-082D-438D-BF01-E8F190E530B4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/56AAB7C9-4651-4506-B1F3-EAA79728C1B7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/F9703B5B-F17D-4777-A505-EBD2734D1128/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/76064A71-3E08-4886-B966-EBEA891768F4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/40B1B4E1-0206-439F-BF00-EC2E07A92080/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/AC3380F8-BBF8-4984-BF8A-EF606D574263/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/00545A7E-66A5-4642-829D-EFB2110B9E47/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/B0775410-E4BC-44D3-AE4C-F264B28D6E6C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/4B6B0ADE-7336-49E7-BF2E-F56FFCD6FE2E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/B6322D31-3BB1-4655-81B7-F6F92FE74411/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/B58786FF-A77A-4373-B709-F767E20E21CE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/67DE4F16-8522-4D4E-B466-F89DCE826A4A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AF64940C-4AFB-4C8C-83F4-44980E884501/resource/4DA9A096-B710-470C-BA14-FE008A55A137/download"
+      ]
+    },
+    {
+      "id": "39180",
+      "name": "役男徵兵檢查及身心障礙與重大傷病書面審核人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/265840B8-A87E-49A6-961C-7965368C3BD5/resource/ECB504DD-87F3-492F-A35F-E9971796D940/download"
+      ]
+    },
+    {
+      "id": "39188",
+      "name": "宗教因素服替代役核定人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9BB2C6EB-5E3D-4B51-A077-68675C86D67F/resource/20A9BEB0-670C-41D9-BB1A-B07B32F68285/download"
+      ]
+    },
+    {
+      "id": "39191",
+      "name": "妨害兵役案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B120087E-0A87-4D64-9D60-69EF7DFF97DB/resource/11345813-4E1F-4139-82A1-347260DD80F1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B120087E-0A87-4D64-9D60-69EF7DFF97DB/resource/5BC7A8CE-3FD8-4B67-8989-AB6DFB5BAA25/download"
+      ]
+    },
+    {
+      "id": "23840",
+      "name": "辦理生活扶（慰）助成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11ADE4B7-AF49-4126-8BB7-0191E6DE3CC5/resource/4C0EC44B-1E09-4647-B9B5-47699E025834/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11ADE4B7-AF49-4126-8BB7-0191E6DE3CC5/resource/40ED12B7-CB4B-47C9-BA46-51A8D7A47E32/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11ADE4B7-AF49-4126-8BB7-0191E6DE3CC5/resource/9F1485BB-10C2-4B21-85E2-6E31BAC36663/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11ADE4B7-AF49-4126-8BB7-0191E6DE3CC5/resource/8CFFA22C-74D0-43C0-9F93-7FBAE1D62A9A/download"
+      ]
+    },
+    {
+      "id": "23841",
+      "name": "補助各級地方政府計畫經費結報表(經常門)、補助各級地方政府計畫經費結報表(資本門)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CA86662A-1528-4C98-9767-B4B709199F5E/resource/5BBA83F7-B914-482D-B8FB-502285BB0707/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CA86662A-1528-4C98-9767-B4B709199F5E/resource/9A3180BA-1309-420B-88E8-83BE9B3BC3A7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CA86662A-1528-4C98-9767-B4B709199F5E/resource/C2A676CE-3D7F-4303-B604-8B4B6B1B50F0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CA86662A-1528-4C98-9767-B4B709199F5E/resource/0A7D4C9C-D0B3-430A-98B9-8B779EE161FC/download"
+      ]
+    },
+    {
+      "id": "20438",
+      "name": "役男免役禁役緩徵處理情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EE7A06F1-1DE7-4F87-8D88-7E24C29B500E/resource/AD79D852-D207-4F13-882E-1E76E08C51FC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EE7A06F1-1DE7-4F87-8D88-7E24C29B500E/resource/A0A178D8-E732-4CBB-A292-D91D63DCB88C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EE7A06F1-1DE7-4F87-8D88-7E24C29B500E/resource/FDF4A13E-2360-4359-8956-D9DB9CB5A5A1/download"
+      ]
+    },
+    {
+      "id": "68637",
+      "name": "應徵入營役男延期徵集人次統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6479B20A-5CAA-485E-93BD-B76989B7AD4D/resource/7C6B088F-4511-4B5C-81B6-5DAA3AB6E80A/download"
+      ]
+    },
+    {
+      "id": "68643",
+      "name": "役男申請家庭因素服補充兵役核定人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B9A64BBB-0F37-4D2E-A67A-BFDC9B539A4C/resource/8097AF8D-29FC-490E-8BB8-136EF86E51C6/download"
+      ]
+    },
+    {
+      "id": "68655",
+      "name": "代辦役男徵兵檢查人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E529E6F0-A48C-4A14-A40D-656DB64C0B5C/resource/7968C1A2-8B6A-4635-A9B6-425E3370285D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E529E6F0-A48C-4A14-A40D-656DB64C0B5C/resource/73911276-31FD-4E48-BBD0-91D938818C23/download"
+      ]
+    },
+    {
+      "id": "94971",
+      "name": "僑民役男列管情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/821E211E-9D31-44C4-AA43-5D07EDD84EA0/resource/C722A3A8-D0AE-4040-BDE5-4D98AB16047A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/821E211E-9D31-44C4-AA43-5D07EDD84EA0/resource/3BE525E7-56DF-4C5A-95DC-932E65DEEB71/download"
+      ]
+    },
+    {
+      "id": "95206",
+      "name": "役男申請複檢常見病症人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FF52E33C-1C3E-45AD-B54F-73CD195F57E7/resource/57435B82-161D-4B56-81C1-4B7BC000CA09/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FF52E33C-1C3E-45AD-B54F-73CD195F57E7/resource/DD67ED39-AFBF-4562-9FC3-58A5B0042A03/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FF52E33C-1C3E-45AD-B54F-73CD195F57E7/resource/1618EDFB-1CF1-4DF4-B2A2-8A310039C230/download"
+      ]
+    },
+    {
+      "id": "130363",
+      "name": "暑期分階段常備兵役軍事訓練中籤人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2C46D398-363D-457C-8A68-54C334C5C6C1/resource/8D3CE199-0D81-45D5-BB49-0513225675D4/download"
+      ]
+    },
+    {
+      "id": "130364",
+      "name": "役男出境就學人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A70439A-0E76-4905-BD88-0536C738901B/resource/C3468AA4-9C23-422A-8B0F-22EFA6246B7F/download"
+      ]
+    },
+    {
+      "id": "130548",
+      "name": "108年各縣市徵兵檢查判定體位人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/385050E7-AFFC-41D1-8CCD-9A51D8F29BA4/resource/57385D45-64DF-4044-B425-004009DB8030/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/385050E7-AFFC-41D1-8CCD-9A51D8F29BA4/resource/9DAD6BB0-4333-4D62-A0B0-07852CFB0363/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/385050E7-AFFC-41D1-8CCD-9A51D8F29BA4/resource/B0915690-60B5-4617-8168-1FB5BB17B4EE/download"
+      ]
+    },
+    {
+      "id": "145861",
+      "name": "替代役役男傷病停役病症人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54EBAED4-1605-4653-8182-CA4DDDCAFAEC/resource/FA253F4B-174A-4CB1-81AD-A6C5826712F9/download"
+      ]
+    },
+    {
+      "id": "145947",
+      "name": "替代役役男提前退役核定人數表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1AE72D20-81C6-46A1-9F67-CC1DA043B327/resource/09D6B3E8-38DD-4062-8E09-12A37FEBB9ED/download"
+      ]
+    },
+    {
+      "id": "145959",
+      "name": "內政部役政署內部控制聲明書",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/606C141F-8D21-4FA6-8932-A90B12E02053/resource/FFC9A340-597B-4573-ACDB-32598D95C581/download"
+      ]
+    },
+    {
+      "id": "136427",
+      "name": "內政部役政署駕駛技工工友性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1E5973C7-D7C5-4FD6-BA7D-23DBA8FAEA7C/resource/B388544A-1E7D-44FE-AA29-7B801049D673/download"
+      ]
+    },
+    {
+      "id": "159954",
+      "name": "役男徵兵檢查後需專科檢查之病症及人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/910C2617-1D94-491F-B0CA-45B63878B020/resource/F71F9ECE-4D74-41E2-BFF5-495CA8F279A0/download"
+      ]
+    },
+    {
+      "id": "170248",
+      "name": "兵役節表揚之績優役男體(複)檢醫院",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AC7C169C-5B68-46D7-9428-585AD6DBD990/resource/A530442B-2AAA-48FA-8CC8-D210431B9008/download"
+      ]
+    },
+    {
+      "id": "170270",
+      "name": "112年役男出境未歸移送案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BF419AF4-D876-47BE-876B-941D4E19E6B9/resource/6FBCB1F4-6727-4175-B65A-CB56B92BD3EC/download"
+      ]
+    },
+    {
+      "id": "174668",
+      "name": "役齡男子規避徵兵處理案件起訴情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E68E685C-5A5F-4254-9BA6-A701D5A20E6F/resource/0386AA9F-3855-40C9-926C-841880F6DA21/download"
+      ]
+    },
+    {
+      "id": "174697",
+      "name": "役政人員研習班各班別辦理情形",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/91FC6A79-DAE9-4578-B7EE-01F906227A24/resource/5A0AF169-2BE0-44D7-8950-251D90E4C165/download"
+      ]
+    },
+    {
+      "id": "174951",
+      "name": "兵役節獎勵績優直轄市、縣(市)政府役政單位統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8FBC8D14-BA94-49D0-A263-C6AB645ECAB3/resource/C14D2228-3198-4B06-93E3-06CE1E15DC69/download"
+      ]
+    },
+    {
+      "id": "174956",
+      "name": "技能競賽服補充兵統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8FF39048-9B63-4B00-9CAB-97307BB4801F/resource/8C4BEF62-1BD3-433C-82EC-E38D7F1A694A/download"
+      ]
+    },
+    {
+      "id": "8219",
+      "name": "役男體檢、複檢醫院資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7A192A25-BDF4-4A70-B49F-702DDB8E12E1/resource/C6D3BAC5-0592-4A04-9282-5D4F936CD087/download"
+      ]
+    },
+    {
+      "id": "23785",
+      "name": "內政部役政署職(教)員學歷統計報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/57E3D526-3246-4586-A77E-C93D1A3755D5/resource/83F79300-1573-4B37-B366-E6E32E45DBAF/download"
+      ]
+    },
+    {
+      "id": "23786",
+      "name": "役男體(複)檢人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CC8DB5F6-08F7-495E-94A0-7FD98CE2EFFF/resource/1367D740-86A6-4624-A84B-0109318BAD18/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CC8DB5F6-08F7-495E-94A0-7FD98CE2EFFF/resource/10A633AA-3A3F-4EDD-80BE-AD2A2E8CBE7A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CC8DB5F6-08F7-495E-94A0-7FD98CE2EFFF/resource/532666EB-0FD9-4986-9AB8-C4EBC1773B5C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CC8DB5F6-08F7-495E-94A0-7FD98CE2EFFF/resource/F8E17024-8A58-420F-A54C-D33A726AC4CB/download"
+      ]
+    },
+    {
+      "id": "23794",
+      "name": "行政院核定替代役役別人數分析統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/108D39B5-984B-49FA-BA19-5CB1044E1415/resource/C3417770-CA70-4703-AC9F-29B94ED77BEA/download"
+      ]
+    },
+    {
+      "id": "20437",
+      "name": "徵兵及齡男子兵籍調查統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/94303125-193F-4837-896A-05CA7256B810/resource/596F5824-EC01-4484-8555-F3F5DD3E22BC/download"
+      ]
+    },
+    {
+      "id": "11047",
+      "name": "內政部役政署單位決算",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE7A0036-4D78-4CA4-A568-6D995DD47D79/resource/A6068507-5C6A-4F45-AC8E-4D006CE5ED15/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE7A0036-4D78-4CA4-A568-6D995DD47D79/resource/1905B8DB-65CE-4EEC-8B31-55B37932FF3F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE7A0036-4D78-4CA4-A568-6D995DD47D79/resource/3BBD994D-1DA1-4F0B-BBD5-8F673F363DED/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE7A0036-4D78-4CA4-A568-6D995DD47D79/resource/3D47521A-8D87-4F34-B873-904298B40FA6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE7A0036-4D78-4CA4-A568-6D995DD47D79/resource/57150F33-0167-4985-8588-AFE5875B3419/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE7A0036-4D78-4CA4-A568-6D995DD47D79/resource/93E97A9F-CE9A-4B3C-A157-CEB0F7A8AFE6/download"
+      ]
+    },
+    {
+      "id": "39181",
+      "name": "緩徵人數統計表（年次別）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/376D8600-7CB5-450B-BE1E-15840746AD89/resource/0CCD008F-5577-4CF4-9757-66CE77C7A8FF/download"
+      ]
+    },
+    {
+      "id": "68634",
+      "name": "全國軍人忠靈祠位址",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EC43742-6FA9-4860-A901-146448287F62/resource/CEC464DE-32D1-4E6C-A8E0-3034167F0F15/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EC43742-6FA9-4860-A901-146448287F62/resource/96F225FB-2378-430B-9981-EAA431A529E9/download"
+      ]
+    },
+    {
+      "id": "68644",
+      "name": "替代役提供袍澤生活協助計畫成果表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C0EE7B96-699E-4D8A-9237-D0134A585ED6/resource/2521E3B7-C367-4047-B8A9-0B5FF631FBB9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C0EE7B96-699E-4D8A-9237-D0134A585ED6/resource/58B96D5A-1C6A-46AF-8551-3DCB5FFC5C20/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C0EE7B96-699E-4D8A-9237-D0134A585ED6/resource/7E928D98-936C-4AF8-8E18-BEF9CC81F127/download"
+      ]
+    },
+    {
+      "id": "68649",
+      "name": "內政部役政署職(教)員官等性別統計報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DD164ABA-B1FB-4DE5-8343-8A04F54DB721/resource/E68860A1-F5D6-4AC7-8576-B15C7D15D9D2/download"
+      ]
+    },
+    {
+      "id": "95073",
+      "name": "內政部役政署大事記",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BD802351-E726-4E92-A760-0C1F3B3B658A/resource/18DE543F-C7DE-42A0-A1CF-F6A04D948D02/download"
+      ]
+    },
+    {
+      "id": "94977",
+      "name": "參與役路相伴-袍澤情深座談活動人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F12B920B-5EFA-49CC-B5CD-A8FA18EA2B18/resource/D2265C3E-2049-4193-868B-BC83271BFED4/download"
+      ]
+    },
+    {
+      "id": "94997",
+      "name": "106年役政人員培訓計畫辦理情形",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F346A5A1-B6D8-42AB-A897-4D9030AEBFDD/resource/99403071-ECEB-45A1-AE3D-0A94E95AA8C8/download"
+      ]
+    },
+    {
+      "id": "95045",
+      "name": "國軍常備兵軍種兵科抽籤人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C8DACC0D-8D4C-41F6-998F-82789CAE2EF2/resource/DEBDE628-F70B-47E1-9D8C-A91D46F19080/download"
+      ]
+    },
+    {
+      "id": "136441",
+      "name": "申請分階段接受常備兵役軍事訓練役男就讀地區人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/96EC5CB6-CA00-40E7-9D39-4AAA02CF697C/resource/75378D4B-2DE9-415C-AFE1-B236DFE6C59B/download"
+      ]
+    },
+    {
+      "id": "159951",
+      "name": "替代役提供袍澤生活協助服務專業訓練",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CF1E082D-CD98-4A5A-8F25-0C54F872275E/resource/5B47A09E-4E62-43F8-878C-1F45D172E330/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CF1E082D-CD98-4A5A-8F25-0C54F872275E/resource/A79D2E5E-B6CB-48CF-B8DF-90954F709CB9/download"
+      ]
+    },
+    {
+      "id": "159953",
+      "name": "各縣市分階段接受常備兵役軍事訓練申請人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8566B0E8-AAE1-4148-BF30-F3DF77219C4F/resource/466A4475-5F4D-416F-A463-0DEB7BBA5FE0/download"
+      ]
+    },
+    {
+      "id": "159955",
+      "name": "各縣市核定因家庭因素服補充兵役人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BFB9F7FE-057B-4EAE-ADE0-F4BBC249728F/resource/0B6AD6D5-71A1-4508-97BE-D0D60392D573/download"
+      ]
+    },
+    {
+      "id": "146553",
+      "name": "歷年各縣市優先入營申請人統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E304462-82E8-4D45-ACFA-1DF1531CCA58/resource/A17342E5-065E-466D-ABF3-D513ECC0CD77/download"
+      ]
+    },
+    {
+      "id": "146554",
+      "name": "歷年徵兵及齡男子轉錄人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3B3A2A0D-5EF1-49B5-B35A-CA2A7C386863/resource/8FC0D74C-147D-4F8B-A474-D5934EB7991E/download"
+      ]
+    },
+    {
+      "id": "170244",
+      "name": "112年妨害兵役案件起訴情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/68C1DDD2-FD32-4E12-AD20-19E6F320BB7E/resource/43327DE5-312B-4394-BCBF-FDE6E072FEA9/download"
+      ]
+    },
+    {
+      "id": "170252",
+      "name": "替代役提供袍澤生活協助服務成效統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/614DE8FF-826E-46D8-A7CD-EFDF8C16598E/resource/7D76D10A-0F69-4556-9856-3AA6F92B30BA/download"
+      ]
+    },
+    {
+      "id": "170253",
+      "name": "112年役政人員培訓計畫辦理情形",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A64AF316-42BB-4129-9FE8-13DAB5805BC3/resource/F76FC218-81C1-43AD-8F98-F973E72DDB8A/download"
+      ]
+    },
+    {
+      "id": "170254",
+      "name": "112年妨害兵役案件判刑統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8EB3B6AE-877F-48C9-96C7-E3A7B9A17891/resource/68A813DF-2A38-427C-862C-EF72CC8E8646/download"
+      ]
+    },
+    {
+      "id": "170256",
+      "name": "108年至112年短期出境役男人次表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F0DD0B10-BFF7-43AC-9ABC-AF7115715AFA/resource/70881BE6-D482-497A-9825-364FB3C76FCC/download"
+      ]
+    },
+    {
+      "id": "174695",
+      "name": "役男各類體位人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/07696038-8DAA-408A-A6FD-01E7E50AADAF/resource/8CED2804-AB1E-41FC-B17C-63191076CE31/download"
+      ]
+    },
+    {
+      "id": "174637",
+      "name": "大陸地區來臺設籍役男徵集軍種統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/218E57F4-4679-4FAD-9D9B-C8A9598521D4/resource/4C923DD1-BC83-4D7B-B3E6-84A4BB545D02/download"
+      ]
+    },
+    {
+      "id": "176286",
+      "name": "警專冊報回役件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B9A5E459-7B37-4B8C-BAE2-08BAA839CC92/resource/3F5D3DFC-765F-4B49-8613-16EC966F163A/download"
+      ]
+    },
+    {
+      "id": "174958",
+      "name": "跨縣市申請代辦體檢人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EBD921B0-4EF3-4EF8-9278-1DB01B123324/resource/4CCDC74F-703C-495A-B72A-E938E26239BF/download"
+      ]
+    },
+    {
+      "id": "174959",
+      "name": "高年次未役役男人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E55946CB-6811-451B-A7AE-E97B7554C898/resource/9E380625-5509-49FC-92D0-839AFD1514BA/download"
+      ]
+    }
+  ]
+}

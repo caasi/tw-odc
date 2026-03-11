@@ -1,0 +1,81 @@
+{
+  "type": "dataset",
+  "provider": "新竹縣政府文化局",
+  "slug": "ws_hsinchu_gov_tw_a049eb5b",
+  "datasets": [
+    {
+      "id": "109308",
+      "name": "新竹縣文化局活動資訊",
+      "format": "json",
+      "urls": [
+        "https://www.hchcc.gov.tw/WebApi/ActivityApi"
+      ]
+    },
+    {
+      "id": "109310",
+      "name": "新竹縣古蹟、歷史建築清冊",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/267/26aab9a2-ca06-4aa6-a878-979c9d32c59b.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/267/26aab9a2-ca06-4aa6-a878-979c9d32c59b.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/267/26aab9a2-ca06-4aa6-a878-979c9d32c59b.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/267/26aab9a2-ca06-4aa6-a878-979c9d32c59b.json"
+      ]
+    },
+    {
+      "id": "109353",
+      "name": "新竹縣文化局表演活動",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/314/88bf3892-ba77-4d98-a15c-48d76a59f95a.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/314/88bf3892-ba77-4d98-a15c-48d76a59f95a.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/314/88bf3892-ba77-4d98-a15c-48d76a59f95a.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/314/88bf3892-ba77-4d98-a15c-48d76a59f95a.json"
+      ]
+    },
+    {
+      "id": "99290",
+      "name": "新竹縣文化藝術財團法人基本資訊",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/270/cacf39dc-da6d-416f-8bf8-b3a8a247211f.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/270/cacf39dc-da6d-416f-8bf8-b3a8a247211f.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/270/cacf39dc-da6d-416f-8bf8-b3a8a247211f.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/270/cacf39dc-da6d-416f-8bf8-b3a8a247211f.json"
+      ]
+    },
+    {
+      "id": "109309",
+      "name": "新竹縣地方文化館",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/266/9d3769bb-d005-4571-b181-304603f87201.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/266/9d3769bb-d005-4571-b181-304603f87201.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/266/9d3769bb-d005-4571-b181-304603f87201.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/266/9d3769bb-d005-4571-b181-304603f87201.json"
+      ]
+    },
+    {
+      "id": "109312",
+      "name": "新竹縣演藝團體",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/269/30496bad-792b-4a32-a8a9-6d07a5004e05.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/269/30496bad-792b-4a32-a8a9-6d07a5004e05.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/269/30496bad-792b-4a32-a8a9-6d07a5004e05.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/269/30496bad-792b-4a32-a8a9-6d07a5004e05.json"
+      ]
+    },
+    {
+      "id": "109311",
+      "name": "新竹縣街頭藝人展演資訊",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/268/84bc0ab0-2da4-4e88-882d-5e9ab10b0809.xlsx",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/268/84bc0ab0-2da4-4e88-882d-5e9ab10b0809.csv",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/268/84bc0ab0-2da4-4e88-882d-5e9ab10b0809.xml",
+        "https://ws.hsinchu.gov.tw/001/Upload/1/opendata/8774/268/84bc0ab0-2da4-4e88-882d-5e9ab10b0809.json"
+      ]
+    }
+  ]
+}

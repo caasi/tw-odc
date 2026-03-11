@@ -1,0 +1,701 @@
+{
+  "type": "dataset",
+  "provider": "臺南市政府觀光旅遊局",
+  "slug": "data_tainan_gov_tw_5b2242a9",
+  "datasets": [
+    {
+      "id": "122526",
+      "name": "109年台南市主要觀光遊憩據點遊客人數",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3b1689a4-021c-4495-b6ef-55b1fe1ee818",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8ac26dc1-17b5-4600-a6f1-b4f74d5fe3ba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0470bc2f-1410-493b-9565-87a97e02db82",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b6305c1e-f275-4919-940b-7a9e5bf7e8c5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/15a12cfa-5e9e-48b3-87d0-5693b40689a2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fdbca31f-440a-4d2d-a5ef-13f104d86f05",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fdbca31f-440a-4d2d-a5ef-13f104d86f05",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/878e3213-098e-47ec-b9a1-668e1582a01b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7017d667-d2b4-4a6b-8b7c-b6e831fc6e0a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8ac26dc1-17b5-4600-a6f1-b4f74d5fe3ba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/742458e3-9b69-4967-896a-d650ed0096fa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bf4067c5-855d-491a-873d-602e51355eb4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b6305c1e-f275-4919-940b-7a9e5bf7e8c5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ea19e1e6-26c1-4dc6-b7c7-eb1dc34d6db4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/742458e3-9b69-4967-896a-d650ed0096fa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3b1689a4-021c-4495-b6ef-55b1fe1ee818",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bf4067c5-855d-491a-873d-602e51355eb4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/878e3213-098e-47ec-b9a1-668e1582a01b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ea19e1e6-26c1-4dc6-b7c7-eb1dc34d6db4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0470bc2f-1410-493b-9565-87a97e02db82",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5eba62ef-79ec-437e-82d3-ccb55d1e74c1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5eba62ef-79ec-437e-82d3-ccb55d1e74c1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/15a12cfa-5e9e-48b3-87d0-5693b40689a2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7017d667-d2b4-4a6b-8b7c-b6e831fc6e0a"
+      ]
+    },
+    {
+      "id": "122693",
+      "name": "臺南市水域遊憩限制或禁止活動範圍",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ae78a3ad-3597-427e-9949-0fc9c5f05830",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ae78a3ad-3597-427e-9949-0fc9c5f05830"
+      ]
+    },
+    {
+      "id": "128682",
+      "name": "臺南市違規旅宿業裁罰名單(105年至107年)",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/904ffded-c670-4444-9284-4c25a3fc5e4e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/59431167-1ede-4dc6-9bd2-8c8f35aecf94",
+        "https://soa.tainan.gov.tw/Api/Service/Get/904ffded-c670-4444-9284-4c25a3fc5e4e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/59431167-1ede-4dc6-9bd2-8c8f35aecf94",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a64c90c3-1fc0-4f02-bd9d-ae256ea04ea7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a64c90c3-1fc0-4f02-bd9d-ae256ea04ea7"
+      ]
+    },
+    {
+      "id": "128680",
+      "name": "108年度臺南市違規旅宿業裁罰名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ba2f0080-9a86-4746-ae7c-e720a4426d64",
+        "https://soa.tainan.gov.tw/Api/Service/Get/75cf7b52-ff85-4a29-998b-b41c346dd141",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ba2f0080-9a86-4746-ae7c-e720a4426d64",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1d9287c5-4db4-49a4-90c9-625fcccd7e80",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9156acfa-0868-4941-8f66-286eb24cf198",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1d9287c5-4db4-49a4-90c9-625fcccd7e80",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9156acfa-0868-4941-8f66-286eb24cf198",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/75cf7b52-ff85-4a29-998b-b41c346dd141"
+      ]
+    },
+    {
+      "id": "98800",
+      "name": "107年台南市主要觀光遊憩據點遊客人數",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6930884a-135f-4686-a642-6e112a63cbb4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/95096f70-aea1-4f46-84f6-87b8c987092e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2af4caea-4496-471e-96f7-864ffc8faf0b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/66ee95e2-07a8-4c06-aa01-4821df36fcaa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/66ee95e2-07a8-4c06-aa01-4821df36fcaa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/95036dce-05f9-4e58-9ff4-e56458b1b9c2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/95096f70-aea1-4f46-84f6-87b8c987092e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/86d07444-81cf-4180-beb0-ed8af1f6bb5c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/89dc9916-0bfa-426e-8f67-fdf65755ec3b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/02908c79-e6f0-4d27-940b-7f1235b84e87",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a429a1c3-d2c5-40da-9c35-0b215365f632",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6930884a-135f-4686-a642-6e112a63cbb4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fcbd5b87-9f3e-499d-8adb-8910190d7de2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a429a1c3-d2c5-40da-9c35-0b215365f632",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3abdf179-9ad3-4cf5-ace3-686941396383",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/89dc9916-0bfa-426e-8f67-fdf65755ec3b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/73fd4519-1124-439a-b94f-385f55f4d898",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fcbd5b87-9f3e-499d-8adb-8910190d7de2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/95036dce-05f9-4e58-9ff4-e56458b1b9c2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3abdf179-9ad3-4cf5-ace3-686941396383",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/02908c79-e6f0-4d27-940b-7f1235b84e87",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2af4caea-4496-471e-96f7-864ffc8faf0b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/86d07444-81cf-4180-beb0-ed8af1f6bb5c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/73fd4519-1124-439a-b94f-385f55f4d898"
+      ]
+    },
+    {
+      "id": "143155",
+      "name": "臺南市旅館家數統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c60dab0e-647e-46ff-be13-135c0e1d3296",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c60dab0e-647e-46ff-be13-135c0e1d3296",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b143e1d0-3118-43e6-a634-26071e435f1e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b143e1d0-3118-43e6-a634-26071e435f1e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b3a415df-95d1-419d-9092-311d899f0efa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b3a415df-95d1-419d-9092-311d899f0efa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b341107d-4cb2-44fe-8488-a450d3817328",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b341107d-4cb2-44fe-8488-a450d3817328",
+        "https://soa.tainan.gov.tw/Api/Service/Get/46077804-6843-40c4-94c2-fb793cf20392",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/46077804-6843-40c4-94c2-fb793cf20392"
+      ]
+    },
+    {
+      "id": "161399",
+      "name": "111年臺南市查獲擴大營業遭裁罰之旅宿業名單",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2188d74d-b8ec-41ab-a685-dbd174dac870",
+        "https://soa.tainan.gov.tw/Api/Service/Get/006b3a53-099d-4f23-bc2a-0fbb40995223",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2188d74d-b8ec-41ab-a685-dbd174dac870",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/006b3a53-099d-4f23-bc2a-0fbb40995223"
+      ]
+    },
+    {
+      "id": "163912",
+      "name": "112年台南市主要觀光遊憩據點遊客人數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0a52565d-efd1-4868-97ce-2555ba8bba4f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0a52565d-efd1-4868-97ce-2555ba8bba4f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/87275834-9ff4-4744-a6be-2c9f6fdf208b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/87275834-9ff4-4744-a6be-2c9f6fdf208b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c8586d3b-eafb-4eb4-8360-3c70f742f552",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c8586d3b-eafb-4eb4-8360-3c70f742f552",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f648f70b-ae9a-4b43-bc4f-5e3a423033f1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f648f70b-ae9a-4b43-bc4f-5e3a423033f1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/57bf452a-fc57-44d9-bd98-64bc4606419f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/57bf452a-fc57-44d9-bd98-64bc4606419f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/70486274-1288-4b79-9c36-8258fb4a7b12",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/70486274-1288-4b79-9c36-8258fb4a7b12",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3cfe06c0-b5bd-4a7c-9f79-8934e7f5f9bb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3cfe06c0-b5bd-4a7c-9f79-8934e7f5f9bb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e245deef-01ac-400d-945c-99bde9470e68",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e245deef-01ac-400d-945c-99bde9470e68",
+        "https://soa.tainan.gov.tw/Api/Service/Get/05d2ea9b-cd67-4a82-b00d-bbbdfb6b7650",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/05d2ea9b-cd67-4a82-b00d-bbbdfb6b7650",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d2019bc5-ef1e-4255-9a66-c03af840219a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d2019bc5-ef1e-4255-9a66-c03af840219a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/26bcb6e7-356b-4dbb-830c-dd712df67fce",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/26bcb6e7-356b-4dbb-830c-dd712df67fce",
+        "https://soa.tainan.gov.tw/Api/Service/Get/06844f34-a0db-4b7e-94a7-f0afecffc88c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/06844f34-a0db-4b7e-94a7-f0afecffc88c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3466e6a4-846a-40bf-af4a-f6d7187faec1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3466e6a4-846a-40bf-af4a-f6d7187faec1"
+      ]
+    },
+    {
+      "id": "163915",
+      "name": "台南市多國語言菜單翻譯資料庫-日式餐點類",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f955fdb2-4dd0-400a-8745-30f0678b19d9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f955fdb2-4dd0-400a-8745-30f0678b19d9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0ebd7b05-5671-4b54-acf7-be97c31f2829",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0ebd7b05-5671-4b54-acf7-be97c31f2829",
+        "https://soa.tainan.gov.tw/Api/Service/Get/12d76dc2-9451-44fb-9d4c-c86e66fe3fc4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/12d76dc2-9451-44fb-9d4c-c86e66fe3fc4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ed4bc400-264e-4c22-86a3-e782fe08344c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ed4bc400-264e-4c22-86a3-e782fe08344c"
+      ]
+    },
+    {
+      "id": "163916",
+      "name": "台南市多國語言菜單翻譯資料庫-西式餐點類",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ae5c85d2-b6a8-41c0-91b0-0491b30dcc71",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ae5c85d2-b6a8-41c0-91b0-0491b30dcc71",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8dbe51c4-36a8-447c-a361-4ebbca336468",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8dbe51c4-36a8-447c-a361-4ebbca336468",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ba314965-5f99-4291-b77b-57be3c679bca",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ba314965-5f99-4291-b77b-57be3c679bca",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ffa80b15-6720-4c8d-be5b-5b364be5d063",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ffa80b15-6720-4c8d-be5b-5b364be5d063"
+      ]
+    },
+    {
+      "id": "139967",
+      "name": "臺南登山步道",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d6c6ff7b-c9d1-4e81-ada5-43d3650921c5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d6c6ff7b-c9d1-4e81-ada5-43d3650921c5"
+      ]
+    },
+    {
+      "id": "140156",
+      "name": "臺南市觀光旅館統計資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c356d3a1-24c6-45e6-84a7-3d863935a3b6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c356d3a1-24c6-45e6-84a7-3d863935a3b6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3492cd7d-f2ff-4440-b1a7-497da6fdeaee",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3492cd7d-f2ff-4440-b1a7-497da6fdeaee",
+        "https://soa.tainan.gov.tw/Api/Service/Get/24410a6b-b334-4036-8f8a-4db47f552b6b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/24410a6b-b334-4036-8f8a-4db47f552b6b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1c3f1b01-3684-4ff1-8b83-5a3c4f24b5b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1c3f1b01-3684-4ff1-8b83-5a3c4f24b5b8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e01e2209-5410-4e55-a4fd-76a1bc061395",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e01e2209-5410-4e55-a4fd-76a1bc061395",
+        "https://soa.tainan.gov.tw/Api/Service/Get/00e147d0-82f6-4829-af10-a0aa77c1c590",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/00e147d0-82f6-4829-af10-a0aa77c1c590",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a855dc8a-57e1-4072-a2a8-c2be60ebb91b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a855dc8a-57e1-4072-a2a8-c2be60ebb91b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1c724a23-f51e-4706-88b7-d2ae03ea9127",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1c724a23-f51e-4706-88b7-d2ae03ea9127",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c1c17ff8-86e8-4eed-9c1c-ee1319773465",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c1c17ff8-86e8-4eed-9c1c-ee1319773465",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9aae605d-a71e-435c-8a92-ee5ea004455b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9aae605d-a71e-435c-8a92-ee5ea004455b"
+      ]
+    },
+    {
+      "id": "6183",
+      "name": "臺南景點",
+      "format": "json",
+      "urls": [
+        "https://www.twtainan.net/data/attractions_ja.json",
+        "https://www.twtainan.net/data/attractions_ko.json",
+        "https://www.twtainan.net/data/attractions_zh-tw.json",
+        "https://www.twtainan.net/data/attractions_en.json"
+      ]
+    },
+    {
+      "id": "79965",
+      "name": "臺南市溫泉標章取得業者",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/348794ab-e53e-44f5-932d-2aaaea5688c1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/348794ab-e53e-44f5-932d-2aaaea5688c1"
+      ]
+    },
+    {
+      "id": "53322",
+      "name": "臺南旅宿",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/bb1ac526-2d74-474e-98bd-eb122ebd0a48",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bb1ac526-2d74-474e-98bd-eb122ebd0a48"
+      ]
+    },
+    {
+      "id": "163739",
+      "name": "112年臺南市查獲擴大營業遭裁罰之旅宿業名單",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8b7b0642-ec16-4a45-b12e-2562d017be87",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fb5a2f4e-cc39-4012-8fea-e448faeced15",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fb5a2f4e-cc39-4012-8fea-e448faeced15",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3fc2238c-8e05-4378-8520-9cc7f431c463",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bbd388c4-5cff-4c50-a1a3-f4ab1381230c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bbd388c4-5cff-4c50-a1a3-f4ab1381230c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3fc2238c-8e05-4378-8520-9cc7f431c463",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8c1263db-1305-421c-8343-b6881c855e8c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8c1263db-1305-421c-8343-b6881c855e8c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8b7b0642-ec16-4a45-b12e-2562d017be87"
+      ]
+    },
+    {
+      "id": "163918",
+      "name": "台南市多國語言菜單翻譯資料庫-點心類",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/566e0a17-88b4-4b36-a5bb-0ce3a4e66e41",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/566e0a17-88b4-4b36-a5bb-0ce3a4e66e41",
+        "https://soa.tainan.gov.tw/Api/Service/Get/98adb2c9-71bb-4b4a-98a9-4418977646d2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/98adb2c9-71bb-4b4a-98a9-4418977646d2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/102a76fe-6b25-46e4-84d8-8fca5bdf9c03",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/102a76fe-6b25-46e4-84d8-8fca5bdf9c03",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b029e4cd-00ec-49e2-ac99-9a0e7134343c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b029e4cd-00ec-49e2-ac99-9a0e7134343c"
+      ]
+    },
+    {
+      "id": "163919",
+      "name": "台南市多國語言菜單翻譯資料庫-飲料類",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/354dd8a7-98dc-4b14-8b6f-25d2f35a4112",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/354dd8a7-98dc-4b14-8b6f-25d2f35a4112",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1c4dc67f-71eb-4fe6-a278-4b4a35ba3226",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1c4dc67f-71eb-4fe6-a278-4b4a35ba3226",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9c167816-2075-4ec7-b242-9f99fa9d30b3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9c167816-2075-4ec7-b242-9f99fa9d30b3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9af61179-99c7-4dc3-a0ac-eff2b1b94bb3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9af61179-99c7-4dc3-a0ac-eff2b1b94bb3"
+      ]
+    },
+    {
+      "id": "156299",
+      "name": "臺南市-海域遊憩景點",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5767e748-f68b-4b96-809a-19d68c0d450a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5767e748-f68b-4b96-809a-19d68c0d450a"
+      ]
+    },
+    {
+      "id": "156281",
+      "name": "111年度臺南市違規旅宿業裁罰名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/073bdf8d-565f-401f-b31a-5bb0f56300b4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a1ce189e-ce43-4992-a2da-a63b23a8d45c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6213b928-5e6c-4326-a5e9-156d3213d915",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/878d4904-d636-49e2-8e41-c0236066cb1f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/878d4904-d636-49e2-8e41-c0236066cb1f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/312b9088-61be-41a8-9699-bbf7d8bb9629",
+        "https://soa.tainan.gov.tw/Api/Service/Get/312b9088-61be-41a8-9699-bbf7d8bb9629",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/073bdf8d-565f-401f-b31a-5bb0f56300b4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a1ce189e-ce43-4992-a2da-a63b23a8d45c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6213b928-5e6c-4326-a5e9-156d3213d915"
+      ]
+    },
+    {
+      "id": "140155",
+      "name": "臺南市一般旅宿統計資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e2e3eb2d-9ada-4070-bf95-156318f5dfa3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e2e3eb2d-9ada-4070-bf95-156318f5dfa3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/96562613-02ae-43f6-8dac-1ada410226aa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/96562613-02ae-43f6-8dac-1ada410226aa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3b5ba075-742c-4cf2-b44b-569422ddbc8c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3b5ba075-742c-4cf2-b44b-569422ddbc8c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c7935b82-d10e-45b7-8f82-581af0ff4a35",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c7935b82-d10e-45b7-8f82-581af0ff4a35",
+        "https://soa.tainan.gov.tw/Api/Service/Get/87de155d-deff-4d74-85b8-5f42c5a36042",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/87de155d-deff-4d74-85b8-5f42c5a36042",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f94fa0c3-d1d3-4d9b-ba10-8191ac894fbb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f94fa0c3-d1d3-4d9b-ba10-8191ac894fbb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/efe0bc0f-5e04-49be-a6d0-83243051a239",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/efe0bc0f-5e04-49be-a6d0-83243051a239",
+        "https://soa.tainan.gov.tw/Api/Service/Get/811c59b1-3c56-4fc0-b1a1-ea7de0a10965",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/811c59b1-3c56-4fc0-b1a1-ea7de0a10965",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3de29c7d-806c-4c42-beef-ec0afaabdd63",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3de29c7d-806c-4c42-beef-ec0afaabdd63",
+        "https://soa.tainan.gov.tw/Api/Service/Get/69ccb3b1-7371-4c34-8113-f29499ae32b4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/69ccb3b1-7371-4c34-8113-f29499ae32b4"
+      ]
+    },
+    {
+      "id": "53401",
+      "name": "本局轄管水域遊憩警告標示牌及救生設備",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7eae812a-dade-499d-90c6-076a66cb5b66",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7eae812a-dade-499d-90c6-076a66cb5b66"
+      ]
+    },
+    {
+      "id": "53361",
+      "name": "臺南市觀光摺頁文宣",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/562aed0b-36e8-4635-ab4b-b1aaee3319f3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/562aed0b-36e8-4635-ab4b-b1aaee3319f3"
+      ]
+    },
+    {
+      "id": "53362",
+      "name": "臺南問路店",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/578068db-3f19-4184-8800-33d2d9456252",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/578068db-3f19-4184-8800-33d2d9456252"
+      ]
+    },
+    {
+      "id": "88399",
+      "name": "臺南市轄管旅遊服務中心",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c742316d-bd62-46a8-93a3-2b55e7b84022",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c742316d-bd62-46a8-93a3-2b55e7b84022"
+      ]
+    },
+    {
+      "id": "122531",
+      "name": "108年台南市主要觀光遊憩據點遊客人數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c436f071-d5e9-4e0b-9db6-67a3f52025ee",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f057d02a-cf6f-41b9-b84f-3128eaf071e1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/135022e3-d3d2-4d59-9abd-34f5d32d0720",
+        "https://soa.tainan.gov.tw/Api/Service/Get/11b474f5-180a-4fea-aadb-273c23f53856",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f057d02a-cf6f-41b9-b84f-3128eaf071e1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/81f5fd6a-912a-444e-9eae-d7ef569ce32f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/29ae55cb-d3a5-4f66-8f45-d801fcbdc2e2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/81f5fd6a-912a-444e-9eae-d7ef569ce32f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5a5ed222-a9cc-4a8d-a498-2cd46b33f812",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ace2e53c-da84-492e-bf73-700cbef034ae",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/11b474f5-180a-4fea-aadb-273c23f53856",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8deac44b-149d-483f-b963-4dc491d40b5e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fa889eff-0bab-4235-91df-9ff9505b9e9a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3c89374c-f69f-4e15-bd2b-6a38b365631c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8deac44b-149d-483f-b963-4dc491d40b5e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fba13b91-8dff-4984-9520-b3041af2d455",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/135022e3-d3d2-4d59-9abd-34f5d32d0720",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fa889eff-0bab-4235-91df-9ff9505b9e9a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3c89374c-f69f-4e15-bd2b-6a38b365631c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5a5ed222-a9cc-4a8d-a498-2cd46b33f812",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/29ae55cb-d3a5-4f66-8f45-d801fcbdc2e2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ace2e53c-da84-492e-bf73-700cbef034ae",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fba13b91-8dff-4984-9520-b3041af2d455",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c436f071-d5e9-4e0b-9db6-67a3f52025ee"
+      ]
+    },
+    {
+      "id": "139054",
+      "name": "110年度臺南市違規旅宿業裁罰名單",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d886298a-8527-457b-987c-4482aec66d2c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c4597e2c-fd67-45da-a453-61b52c4ab74a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8701ad7d-56d6-45c8-9b7d-09b46c7c89df",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c4597e2c-fd67-45da-a453-61b52c4ab74a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8701ad7d-56d6-45c8-9b7d-09b46c7c89df",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4552bc66-1147-4d34-a02e-041a3c9aadba",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d886298a-8527-457b-987c-4482aec66d2c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4552bc66-1147-4d34-a02e-041a3c9aadba"
+      ]
+    },
+    {
+      "id": "139966",
+      "name": "臺南市用地合法露營區",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/252d8081-e42b-484f-b311-9fea2fef3b95",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/252d8081-e42b-484f-b311-9fea2fef3b95"
+      ]
+    },
+    {
+      "id": "137552",
+      "name": "110年台南市主要觀光遊憩據點遊客人數",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b3b77779-b8f7-4c43-991a-9edd2ee74930",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b3b77779-b8f7-4c43-991a-9edd2ee74930",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/40959d4d-586a-4357-a8cb-e11abeb8d03d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cacbf4a7-6851-4c90-8c8f-206524750eda",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cacbf4a7-6851-4c90-8c8f-206524750eda",
+        "https://soa.tainan.gov.tw/Api/Service/Get/09722318-4143-416d-89cb-4b1a7eb94d5f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/40959d4d-586a-4357-a8cb-e11abeb8d03d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e3da71ba-7d82-4c37-a9a0-13dd94fa7f89",
+        "https://soa.tainan.gov.tw/Api/Service/Get/827b8766-4de5-4e4d-a767-93da19b88c3b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/60fc8fd5-534f-46f8-ba1d-587d83c8a930",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fe8c90e0-0ce6-4669-9518-df07589f5d7c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e3da71ba-7d82-4c37-a9a0-13dd94fa7f89",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fe8c90e0-0ce6-4669-9518-df07589f5d7c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2a647de8-3514-41d0-a04a-cda4a158b358",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/09db191c-df18-4f5b-9094-ccfe93c8d816",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d10e6cc9-4dad-4f03-9912-e60117517300",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b0886a2d-3b90-434b-8ed4-0212b2d625fd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/09722318-4143-416d-89cb-4b1a7eb94d5f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/60fc8fd5-534f-46f8-ba1d-587d83c8a930",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/827b8766-4de5-4e4d-a767-93da19b88c3b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b0886a2d-3b90-434b-8ed4-0212b2d625fd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/09db191c-df18-4f5b-9094-ccfe93c8d816",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d10e6cc9-4dad-4f03-9912-e60117517300",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2a647de8-3514-41d0-a04a-cda4a158b358"
+      ]
+    },
+    {
+      "id": "172203",
+      "name": "113年台南市主要觀光遊憩據點遊客人數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f3959f0f-54e2-4fac-b944-16fbdac42216",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f3959f0f-54e2-4fac-b944-16fbdac42216",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e04eec27-ec70-4c54-96af-27401aa6d443",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e04eec27-ec70-4c54-96af-27401aa6d443",
+        "https://soa.tainan.gov.tw/Api/Service/Get/743ce1ed-cd7b-4d19-a598-29942e9d3557",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/743ce1ed-cd7b-4d19-a598-29942e9d3557",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d5c17efe-6a1a-40e4-874c-2a40f5790579",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d5c17efe-6a1a-40e4-874c-2a40f5790579",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9cfde1da-e1ef-47bf-b37f-53980b873d7b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9cfde1da-e1ef-47bf-b37f-53980b873d7b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/48d0effa-f671-4cb5-b607-7b32a7b61e1e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/48d0effa-f671-4cb5-b607-7b32a7b61e1e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bae96dad-aaee-4b07-9664-814049be5abb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bae96dad-aaee-4b07-9664-814049be5abb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/142f6100-fa0b-4e86-b134-b68855df4b7c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/142f6100-fa0b-4e86-b134-b68855df4b7c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cf568eee-5e22-4132-8889-c8c1ed367aa7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cf568eee-5e22-4132-8889-c8c1ed367aa7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3d9eb233-ed50-4a28-8279-cd3b619050aa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3d9eb233-ed50-4a28-8279-cd3b619050aa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5b662630-f66b-4846-81f5-e3f5dcb3b4c6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5b662630-f66b-4846-81f5-e3f5dcb3b4c6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0dab57f1-d66c-4bb2-9715-f01bb9bf149c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0dab57f1-d66c-4bb2-9715-f01bb9bf149c"
+      ]
+    },
+    {
+      "id": "172221",
+      "name": "113年臺南市查獲擴大營業遭裁罰之旅宿業名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e8d6f088-60e7-4cf2-b3c8-09d11b1e1761",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e8d6f088-60e7-4cf2-b3c8-09d11b1e1761",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c0442a2e-3f2c-4b43-a8ee-4e347807eaaf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c0442a2e-3f2c-4b43-a8ee-4e347807eaaf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d457b7b8-63c6-4d37-bd95-519a75dde4e4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d457b7b8-63c6-4d37-bd95-519a75dde4e4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ef263575-b806-49ca-9150-7f51d753fe40",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ef263575-b806-49ca-9150-7f51d753fe40",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9a8336ac-abfe-47d7-b0a1-c2798a69ce9d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9a8336ac-abfe-47d7-b0a1-c2798a69ce9d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c27be04d-116a-44a6-a66f-e28b025ae79a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c27be04d-116a-44a6-a66f-e28b025ae79a"
+      ]
+    },
+    {
+      "id": "172230",
+      "name": "113年度臺南市違規旅宿業裁罰名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1d34e4c9-e4b0-4968-8f1d-0477d204c87b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1d34e4c9-e4b0-4968-8f1d-0477d204c87b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ed7fea7e-8cea-455f-9405-0f5a11ced339",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ed7fea7e-8cea-455f-9405-0f5a11ced339",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2dc1fb0f-544c-461c-8ed2-101f264f5f86",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2dc1fb0f-544c-461c-8ed2-101f264f5f86",
+        "https://soa.tainan.gov.tw/Api/Service/Get/204d54a4-b61c-4b26-964f-1027f83b8094",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/204d54a4-b61c-4b26-964f-1027f83b8094",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1dbdc7a6-5deb-4bca-b98f-48ff65e8cd2f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1dbdc7a6-5deb-4bca-b98f-48ff65e8cd2f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/74182a22-4b41-4e55-bcee-4c5db3d08661",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/74182a22-4b41-4e55-bcee-4c5db3d08661",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2fbb1523-8746-4e81-af40-62dd65265086",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2fbb1523-8746-4e81-af40-62dd65265086",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4435343e-161c-4d52-a72e-75eb77dd60f3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4435343e-161c-4d52-a72e-75eb77dd60f3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9cd11b58-c65d-4bf9-b62c-982531eea616",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9cd11b58-c65d-4bf9-b62c-982531eea616",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a1f69e82-90fd-4ad2-9877-9f2c7e04ca46",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a1f69e82-90fd-4ad2-9877-9f2c7e04ca46",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4564914e-6480-4ca3-82a3-d4c057e94833",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4564914e-6480-4ca3-82a3-d4c057e94833",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ae94a832-e615-4bad-ab74-febce5e0f6ea",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ae94a832-e615-4bad-ab74-febce5e0f6ea"
+      ]
+    },
+    {
+      "id": "173739",
+      "name": "臺南市政府觀光旅遊局人民申請案件項目暨處理期限表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2f70f3e2-8d7e-4e95-8239-4ecf4ad894ce",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2f70f3e2-8d7e-4e95-8239-4ecf4ad894ce"
+      ]
+    },
+    {
+      "id": "128681",
+      "name": "109年度臺南市違規旅宿業裁罰名單",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/462c516f-75a9-448f-ac46-2bb8b967cd93",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/38aef7f1-6c31-47b9-a9b4-93cd21fb9683",
+        "https://soa.tainan.gov.tw/Api/Service/Get/38aef7f1-6c31-47b9-a9b4-93cd21fb9683",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fccc12a6-dcd6-44c1-a50a-3ceeca89be20",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fccc12a6-dcd6-44c1-a50a-3ceeca89be20",
+        "https://soa.tainan.gov.tw/Api/Service/Get/462c516f-75a9-448f-ac46-2bb8b967cd93",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c38d6c2f-a040-49dc-8b8e-33feebebd219",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c38d6c2f-a040-49dc-8b8e-33feebebd219"
+      ]
+    },
+    {
+      "id": "144629",
+      "name": "臺南市政府觀光旅遊局對民間團體補(捐)助經費明細表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e0b162fb-fd8f-48ed-9699-52016314e914",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e0b162fb-fd8f-48ed-9699-52016314e914",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3f713e4e-cfd5-43b6-8933-a2acedc242df",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3f713e4e-cfd5-43b6-8933-a2acedc242df",
+        "https://soa.tainan.gov.tw/Api/Service/Get/082bb73b-5e9d-4930-9bcc-bbe04488b128",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/082bb73b-5e9d-4930-9bcc-bbe04488b128",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6773cada-0992-48a3-87c5-e1568f703cac",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6773cada-0992-48a3-87c5-e1568f703cac"
+      ]
+    },
+    {
+      "id": "163917",
+      "name": "台南市多國語言菜單翻譯資料庫-中式餐點類",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/17a8fb8d-f468-476f-94db-210fe47bcc5c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/17a8fb8d-f468-476f-94db-210fe47bcc5c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cf6852cc-89f4-49dc-9c18-26f8bf86c746",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cf6852cc-89f4-49dc-9c18-26f8bf86c746",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9634ad5c-3ed9-4ebb-9d1a-9e70b6abc948",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9634ad5c-3ed9-4ebb-9d1a-9e70b6abc948",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9ee00887-e46e-44f9-98dd-b319771bae4c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9ee00887-e46e-44f9-98dd-b319771bae4c"
+      ]
+    },
+    {
+      "id": "163738",
+      "name": "112年度臺南市違規旅宿業裁罰名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e08f10ab-2a17-4364-b40c-94efb64e82ab",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fdcc2ce9-45c7-4b06-ad6f-0116ed0eb823",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/edf46ebf-e3a2-4727-9fd3-e1c33f0dd50e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e08f10ab-2a17-4364-b40c-94efb64e82ab",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fcf92606-4dcb-4cd5-8035-6f3e2cb88b92",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5a9f3008-ef81-4056-be97-7f9b0dc59b9c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c06b2474-bc43-408a-8f61-20c3cf832766",
+        "https://soa.tainan.gov.tw/Api/Service/Get/887eb705-974d-43aa-8188-37db09fe281b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/edf46ebf-e3a2-4727-9fd3-e1c33f0dd50e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8ef4a9b5-0bff-429c-bb1e-e0d7d7ace4b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8ef4a9b5-0bff-429c-bb1e-e0d7d7ace4b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/887eb705-974d-43aa-8188-37db09fe281b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/76caeb8f-517c-4582-b877-715f0484864f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ea4da990-f291-4765-8d60-a54bc2fcfaa1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fdcc2ce9-45c7-4b06-ad6f-0116ed0eb823",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7d5e1049-0eab-42c0-8655-db5244318430",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fcf92606-4dcb-4cd5-8035-6f3e2cb88b92",
+        "https://soa.tainan.gov.tw/Api/Service/Get/76caeb8f-517c-4582-b877-715f0484864f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ea4da990-f291-4765-8d60-a54bc2fcfaa1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c06b2474-bc43-408a-8f61-20c3cf832766",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7d5e1049-0eab-42c0-8655-db5244318430",
+        "https://soa.tainan.gov.tw/Api/Service/Get/63e12541-504a-4877-b9b3-4b8d901b44d1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5a9f3008-ef81-4056-be97-7f9b0dc59b9c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/63e12541-504a-4877-b9b3-4b8d901b44d1"
+      ]
+    },
+    {
+      "id": "156914",
+      "name": "111年台南市主要觀光遊憩據點遊客人數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7acf3c21-4d83-460f-a1d8-24b19a95ef51",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7acf3c21-4d83-460f-a1d8-24b19a95ef51",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3b09e127-17a4-4718-8b78-6251174d83ea",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3b09e127-17a4-4718-8b78-6251174d83ea",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aaad40a3-8324-4f77-aa89-654fa2a6d541",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aaad40a3-8324-4f77-aa89-654fa2a6d541",
+        "https://soa.tainan.gov.tw/Api/Service/Get/46756c33-46ec-49bd-801f-7adbd5f3fded",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/46756c33-46ec-49bd-801f-7adbd5f3fded",
+        "https://soa.tainan.gov.tw/Api/Service/Get/686f067e-3598-4cfa-8035-9507eec8a077",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/686f067e-3598-4cfa-8035-9507eec8a077",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0c55c6e3-a58d-404c-b5ec-99b020893431",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0c55c6e3-a58d-404c-b5ec-99b020893431",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9dfabf8d-c43c-4144-a6a3-a9e1aac7f5e3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9dfabf8d-c43c-4144-a6a3-a9e1aac7f5e3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/24d66604-69ea-4b03-b721-cd1538757bff",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/24d66604-69ea-4b03-b721-cd1538757bff",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3d844d0f-743b-424e-bd78-d4174a190872",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3d844d0f-743b-424e-bd78-d4174a190872",
+        "https://soa.tainan.gov.tw/Api/Service/Get/24cda23e-ab28-4d82-b4b0-d58b77f6ab7c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/24cda23e-ab28-4d82-b4b0-d58b77f6ab7c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/03334e24-c55c-46b4-b09a-ed7789ce2d42",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/03334e24-c55c-46b4-b09a-ed7789ce2d42",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9f87c568-86cd-4138-89ba-f39c8d49c039",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9f87c568-86cd-4138-89ba-f39c8d49c039",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b9b22bf4-ea06-43a4-aa0b-fa1abf83053e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b9b22bf4-ea06-43a4-aa0b-fa1abf83053e"
+      ]
+    },
+    {
+      "id": "176859",
+      "name": "115年臺南市查獲擴大營業遭裁罰之旅宿業名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c34af3c4-ab96-479e-a8de-3f34bcd78a06",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c34af3c4-ab96-479e-a8de-3f34bcd78a06"
+      ]
+    },
+    {
+      "id": "176860",
+      "name": "115年度臺南市違規旅宿業裁罰名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2058800d-10af-42f6-8c07-289a42965042",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2058800d-10af-42f6-8c07-289a42965042"
+      ]
+    }
+  ]
+}

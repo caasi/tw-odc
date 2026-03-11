@@ -1,0 +1,560 @@
+{
+  "type": "dataset",
+  "provider": "臺南市政府文化局",
+  "slug": "soa_tainan_gov_tw_2fc6fadd",
+  "datasets": [
+    {
+      "id": "53370",
+      "name": "臺南市歷史名人資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/189bcaf3-25e5-4ee9-baf3-57dbdf22b594",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/189bcaf3-25e5-4ee9-baf3-57dbdf22b594"
+      ]
+    },
+    {
+      "id": "53646",
+      "name": "臺南市文史工作室登記資料表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/cbb91e08-885e-4762-ad8f-02319d10bed3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cbb91e08-885e-4762-ad8f-02319d10bed3"
+      ]
+    },
+    {
+      "id": "53906",
+      "name": "臺南市旅遊人數明細表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/bedf8239-5346-4006-b265-3c750336650b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bedf8239-5346-4006-b265-3c750336650b"
+      ]
+    },
+    {
+      "id": "106263",
+      "name": "臺南市財團法人名冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f5c2150a-2135-4aee-8bb8-1fc865bab54d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f5c2150a-2135-4aee-8bb8-1fc865bab54d"
+      ]
+    },
+    {
+      "id": "85871",
+      "name": "臺南市街頭藝人開放表演場所",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d509ab5b-ed02-402d-9e5e-569d397b5f86",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d509ab5b-ed02-402d-9e5e-569d397b5f86"
+      ]
+    },
+    {
+      "id": "139627",
+      "name": "臺南市歷史建築清冊",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5e965359-a44a-42f7-9fb2-4780d5c5cd42",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5e965359-a44a-42f7-9fb2-4780d5c5cd42"
+      ]
+    },
+    {
+      "id": "172991",
+      "name": "臺南市文化局每月藝文活動",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d6fc3d1b-4b5b-4205-9014-5118e37f0971"
+      ]
+    },
+    {
+      "id": "7543",
+      "name": "臺南市公共圖書館聯絡資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/34ed6d09-7d3f-4f5d-96d6-888a819d5bd0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/34ed6d09-7d3f-4f5d-96d6-888a819d5bd0"
+      ]
+    },
+    {
+      "id": "7544",
+      "name": "臺南市古蹟資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/18edeca4-20cc-4d11-a673-b8f97a8ce371",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/18edeca4-20cc-4d11-a673-b8f97a8ce371"
+      ]
+    },
+    {
+      "id": "53571",
+      "name": "臺南市公共圖書館讀書會辦理情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3c77e869-8bdf-47ce-8942-3bc50b755684",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3c77e869-8bdf-47ce-8942-3bc50b755684",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2ed8c995-9e1c-4e95-84b5-49b15c93b4ba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2ed8c995-9e1c-4e95-84b5-49b15c93b4ba",
+        "https://soa.tainan.gov.tw/Api/Service/Get/82545979-116f-44e1-8d6d-78aad5e9b173",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/82545979-116f-44e1-8d6d-78aad5e9b173",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5e0a83df-56bd-47ba-9581-a03dcd389284",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5e0a83df-56bd-47ba-9581-a03dcd389284",
+        "https://soa.tainan.gov.tw/Api/Service/Get/adce3fbc-52d5-4765-bfa2-c7bed67e51ee",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/adce3fbc-52d5-4765-bfa2-c7bed67e51ee",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c1208331-96f0-4d31-b852-f075237a24ec",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c1208331-96f0-4d31-b852-f075237a24ec"
+      ]
+    },
+    {
+      "id": "53314",
+      "name": "臺南市社區營造經費表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8dd03a69-6543-489f-a670-3835cfae6b00",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8dd03a69-6543-489f-a670-3835cfae6b00",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c888fda0-bb4c-4f50-954d-6f0f77612f02",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c888fda0-bb4c-4f50-954d-6f0f77612f02",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b8984dae-3e86-48e7-8e59-78cf97c00899",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b8984dae-3e86-48e7-8e59-78cf97c00899",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1a2f3bbf-39e3-4578-aa17-97dbd586e4c9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1a2f3bbf-39e3-4578-aa17-97dbd586e4c9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/15612967-faab-432e-9db1-a5153fc656b6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/15612967-faab-432e-9db1-a5153fc656b6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f3114216-021c-48f8-88fe-b1e26a57c5a6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f3114216-021c-48f8-88fe-b1e26a57c5a6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b7454a4f-5e68-4ccc-b490-bab3e6fa074c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b7454a4f-5e68-4ccc-b490-bab3e6fa074c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/04b50c51-9638-4fda-8d08-f0aef6e24b15",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/04b50c51-9638-4fda-8d08-f0aef6e24b15",
+        "https://soa.tainan.gov.tw/Api/Service/Get/18396653-5a3a-4a23-9014-f75ceb0abe5b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/18396653-5a3a-4a23-9014-f75ceb0abe5b"
+      ]
+    },
+    {
+      "id": "53395",
+      "name": "臺南文化中心、歸仁文化中心、台江文化中心、新化演藝廳-各廳館開放時間一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/38f83db8-35e2-4858-86ab-aba2233fbcdd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/38f83db8-35e2-4858-86ab-aba2233fbcdd"
+      ]
+    },
+    {
+      "id": "87294",
+      "name": "臺南市公共藝術資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/20fc49c1-0c68-4b01-a037-4ad708c83414"
+      ]
+    },
+    {
+      "id": "120733",
+      "name": "臺南市立公共圖書館各大類圖書借閱排行",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/03ef3336-1db2-4b6e-9869-2ef4d63432ec",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/03ef3336-1db2-4b6e-9869-2ef4d63432ec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ebe0354c-dc26-480f-9b99-486244ee5cc1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ebe0354c-dc26-480f-9b99-486244ee5cc1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b68c740f-59b9-4782-81fc-4b9554e78d47",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b68c740f-59b9-4782-81fc-4b9554e78d47",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8182696a-58b8-4859-9871-589bade0d5d5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8182696a-58b8-4859-9871-589bade0d5d5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/80d4280e-749f-417f-b9a3-5b37ac42f170",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/80d4280e-749f-417f-b9a3-5b37ac42f170",
+        "https://soa.tainan.gov.tw/Api/Service/Get/12ba77bd-6576-417c-88ec-60c719b2269d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/12ba77bd-6576-417c-88ec-60c719b2269d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1ba571fb-4b0e-46b2-baba-63bacee17303",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1ba571fb-4b0e-46b2-baba-63bacee17303",
+        "https://soa.tainan.gov.tw/Api/Service/Get/413aadf1-4f70-4d26-8a45-87e05a5263ad",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/413aadf1-4f70-4d26-8a45-87e05a5263ad",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9799398a-a08f-494c-8707-cf568bfa51bb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9799398a-a08f-494c-8707-cf568bfa51bb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5883fcd4-3e50-438c-b100-e639f1708cbc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5883fcd4-3e50-438c-b100-e639f1708cbc"
+      ]
+    },
+    {
+      "id": "120735",
+      "name": "臺南市立公共圖書館相關統計資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/22a7fe2e-dbd4-4f13-874f-1f941558d0a6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/22a7fe2e-dbd4-4f13-874f-1f941558d0a6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1934745f-dd70-4461-86de-30bb3f999cff",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1934745f-dd70-4461-86de-30bb3f999cff",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0d96c9c7-060f-424f-b467-56700ee9b94c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0d96c9c7-060f-424f-b467-56700ee9b94c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6ca7fa59-3852-4d39-becd-5f97f3545b47",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6ca7fa59-3852-4d39-becd-5f97f3545b47",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d2892b99-aef2-478d-a6f0-a4054b48f24e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d2892b99-aef2-478d-a6f0-a4054b48f24e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cbae9beb-5089-4a3c-9ca3-b680489c2b22",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cbae9beb-5089-4a3c-9ca3-b680489c2b22",
+        "https://soa.tainan.gov.tw/Api/Service/Get/79e42382-0382-4001-9a54-b8307061bba7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/79e42382-0382-4001-9a54-b8307061bba7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3cb35236-7218-4926-aa90-ef6df630c8cc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3cb35236-7218-4926-aa90-ef6df630c8cc"
+      ]
+    },
+    {
+      "id": "129982",
+      "name": "蕭壠文化園區年度展覽資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/53d277c4-5691-49e5-94ed-ece18436e6a5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/53d277c4-5691-49e5-94ed-ece18436e6a5"
+      ]
+    },
+    {
+      "id": "129983",
+      "name": "蕭壠文化園區駐村藝術家資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/141ce07e-83ff-46c1-98e3-bd82ed2b45fa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/141ce07e-83ff-46c1-98e3-bd82ed2b45fa"
+      ]
+    },
+    {
+      "id": "130029",
+      "name": "台南賽鴿笭統計資料",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/efc3d568-c622-41eb-908a-4b64946db425",
+        "https://soa.tainan.gov.tw/Api/Service/Get/efc3d568-c622-41eb-908a-4b64946db425"
+      ]
+    },
+    {
+      "id": "130054",
+      "name": "新營文化中心畫廊展覽檔期表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1acc3b26-c529-4acd-9f7f-210016be2e1a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1acc3b26-c529-4acd-9f7f-210016be2e1a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b4bdf133-5be1-4291-a081-38c59b4aa5dd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b4bdf133-5be1-4291-a081-38c59b4aa5dd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/825c16fc-e15f-4bc1-b684-4a00ef88047d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/825c16fc-e15f-4bc1-b684-4a00ef88047d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ce937327-d44c-4943-9715-4accd4738e0f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ce937327-d44c-4943-9715-4accd4738e0f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f230afad-5c67-4cc4-8b06-5f7678b3a60a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f230afad-5c67-4cc4-8b06-5f7678b3a60a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/20c72a46-5b07-44cd-a3a2-b816819f7dbf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/20c72a46-5b07-44cd-a3a2-b816819f7dbf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/903565b8-3ca3-4a3d-b363-b8fefa607217",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/903565b8-3ca3-4a3d-b363-b8fefa607217"
+      ]
+    },
+    {
+      "id": "129943",
+      "name": "臺南研究獎學金得獎名單與論文題目",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/efbdc37c-0c5e-4190-ba86-186080bd06c2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/efbdc37c-0c5e-4190-ba86-186080bd06c2"
+      ]
+    },
+    {
+      "id": "130152",
+      "name": "新營文化中心演藝廳節目表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/43541594-deff-4f46-a6be-2aae23231c17",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/43541594-deff-4f46-a6be-2aae23231c17",
+        "https://soa.tainan.gov.tw/Api/Service/Get/947a663c-f787-4564-97fa-2ceeebe5f251",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/947a663c-f787-4564-97fa-2ceeebe5f251",
+        "https://soa.tainan.gov.tw/Api/Service/Get/65eafd97-bb3f-4887-bc56-35e5e59a74b5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/65eafd97-bb3f-4887-bc56-35e5e59a74b5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/830e6072-86b8-4987-a21b-38817d0dc860",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/830e6072-86b8-4987-a21b-38817d0dc860",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f25bf673-78cb-45df-8b3c-530fb20afa78",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f25bf673-78cb-45df-8b3c-530fb20afa78",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e765be88-5e13-48ef-892c-793e41ebbe22",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e765be88-5e13-48ef-892c-793e41ebbe22",
+        "https://soa.tainan.gov.tw/Api/Service/Get/23ae6789-0c07-46f2-a9f3-9918ed5ee0f9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/23ae6789-0c07-46f2-a9f3-9918ed5ee0f9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7d4cee40-8189-4067-82ab-dc8ee282ae96",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7d4cee40-8189-4067-82ab-dc8ee282ae96",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c1165f75-af5d-4d6e-a8db-fde5e0baa9f1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c1165f75-af5d-4d6e-a8db-fde5e0baa9f1"
+      ]
+    },
+    {
+      "id": "135718",
+      "name": "臺南市歷史街區振興活化老屋案例",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1d4ea096-a12f-4855-b1f1-0efd101244bc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1d4ea096-a12f-4855-b1f1-0efd101244bc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3c0ecb59-fce0-4c1a-83dc-25df7807cf37",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3c0ecb59-fce0-4c1a-83dc-25df7807cf37",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fc1bd4ca-4c8f-4f48-b43b-50184d934daf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fc1bd4ca-4c8f-4f48-b43b-50184d934daf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8663d9d4-b6eb-4666-a053-593fce073116",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8663d9d4-b6eb-4666-a053-593fce073116",
+        "https://soa.tainan.gov.tw/Api/Service/Get/36b683ef-f0b2-4d8f-a96a-76d059a38647",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/36b683ef-f0b2-4d8f-a96a-76d059a38647",
+        "https://soa.tainan.gov.tw/Api/Service/Get/77e305c1-4df8-44b7-a047-7b752b4ef0fd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/77e305c1-4df8-44b7-a047-7b752b4ef0fd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3cb900fb-f285-4eb2-bfb2-cfac11a4bc81",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3cb900fb-f285-4eb2-bfb2-cfac11a4bc81",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8b7afd57-ded3-4985-bdc1-d181ab468b2d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8b7afd57-ded3-4985-bdc1-d181ab468b2d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/982f430e-bc32-4351-921b-df3115bae08f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/982f430e-bc32-4351-921b-df3115bae08f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/572d08d5-0282-4202-87e6-ff96a84d1351",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/572d08d5-0282-4202-87e6-ff96a84d1351"
+      ]
+    },
+    {
+      "id": "140116",
+      "name": "臺南市國外藝文團體或個人來臺展演活動統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/6acb3f4e-c9d8-4bdc-9aeb-1cbeda59f218",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6acb3f4e-c9d8-4bdc-9aeb-1cbeda59f218",
+        "https://soa.tainan.gov.tw/Api/Service/Get/961ebdff-eb8b-42fd-b720-4e9ee9922bfd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/961ebdff-eb8b-42fd-b720-4e9ee9922bfd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a22c9742-d9fa-4fec-81cd-75ee9b0e82d5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a22c9742-d9fa-4fec-81cd-75ee9b0e82d5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5eaebf27-f461-4e33-a85b-77bbbd86c090",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5eaebf27-f461-4e33-a85b-77bbbd86c090",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2d4e88ee-9fd4-4047-acb7-81bde4c8958b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2d4e88ee-9fd4-4047-acb7-81bde4c8958b"
+      ]
+    },
+    {
+      "id": "139053",
+      "name": "臺南市公共圖書館借閱人次及借閱冊數統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/050fdcf9-0f73-425f-8f2c-8748890d9bd6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/050fdcf9-0f73-425f-8f2c-8748890d9bd6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/82b7d393-beea-4d3f-a129-7d12d87bf751",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a1fc9cf6-41f9-4f0a-90ad-ffc8d57d0a3d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3f532ddc-9048-4a06-9ae5-02869fdaac1e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c536b71e-f5f7-4a38-a9d4-24810f94c6b6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/82b7d393-beea-4d3f-a129-7d12d87bf751",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3f532ddc-9048-4a06-9ae5-02869fdaac1e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/20ffdd4d-eb7d-47a2-8c56-aa477a85ef80",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a1fc9cf6-41f9-4f0a-90ad-ffc8d57d0a3d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/20ffdd4d-eb7d-47a2-8c56-aa477a85ef80"
+      ]
+    },
+    {
+      "id": "79604",
+      "name": "臺南市地方文化館相關資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/9bddca11-50ac-40be-910d-d10bbb516b54",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9bddca11-50ac-40be-910d-d10bbb516b54"
+      ]
+    },
+    {
+      "id": "97979",
+      "name": "臺南市遺址資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/729fc175-38e9-41b6-b609-b282e4a4ba0a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7de613d4-76f9-4e94-a181-70aebb08b7a6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9444e509-620d-4eee-8672-80cea8f2dd2d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8a21a0e4-d722-47c9-b4b6-cb3eb89b1709",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c251e971-13e1-44b1-9afb-6724b14d8ac8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1fd47839-35df-4e0e-9bfb-3cb22dd3b42b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dc33c1d5-5008-40c8-825b-a0a43f6e20d8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d11b9bca-1914-4484-8bbc-2d5221518a77",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/691118e3-af93-466c-a6d4-579bf959bcab",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b8705e5e-5c2a-4a8f-813c-001a8aeddc69",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/22ab1048-b149-4c3d-a27d-9792dc1165d1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5f0d4628-b8aa-47cd-afe7-b8675f18714c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1eb8afd1-f5fa-400c-ae07-b02a57ab90e5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/08ae7b3c-0f21-4a24-88f6-40935b740394",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/62334041-0638-440d-a1e8-326c5aa85bc3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/98424249-0576-4867-a239-8930fbb207b4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/60442e8e-a7d8-4e67-a57e-fa7c6654a413",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cc4c2b4a-e07a-4c5a-bccf-a0bed1952445",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7c969886-d9f4-4ff2-b7cd-84f6ec1bf79a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1207f2b4-6c15-4987-a0ab-b44ac1222418",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0ac36dec-6871-4454-b03b-309404851030",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ef2fe629-5efb-4728-9fd6-300a6513117f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ee492f8d-5759-4df9-ac3e-c42293f5f5a9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8a382837-6088-4957-b73e-4e7719ac5bab",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/968642f8-7c22-4887-987f-6387f1c05d44",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f085dbc6-3eb3-40db-9902-3c569078a0d3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4ee72f1c-ff06-42b7-8ca0-571ba07ed78d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/03b98da0-6c3d-4779-ad40-8956dee7bc41",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0c3df481-847c-4163-98d9-f21443027366",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/48d224db-982b-4c21-be5e-b07bdfb25468",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/15c8edbc-64ba-452a-a3e3-c84315f6f46a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7de613d4-76f9-4e94-a181-70aebb08b7a6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c251e971-13e1-44b1-9afb-6724b14d8ac8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/691118e3-af93-466c-a6d4-579bf959bcab",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5f0d4628-b8aa-47cd-afe7-b8675f18714c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8a21a0e4-d722-47c9-b4b6-cb3eb89b1709",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7c969886-d9f4-4ff2-b7cd-84f6ec1bf79a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/968642f8-7c22-4887-987f-6387f1c05d44",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4ee72f1c-ff06-42b7-8ca0-571ba07ed78d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9444e509-620d-4eee-8672-80cea8f2dd2d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ef2fe629-5efb-4728-9fd6-300a6513117f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8a382837-6088-4957-b73e-4e7719ac5bab",
+        "https://soa.tainan.gov.tw/Api/Service/Get/98424249-0576-4867-a239-8930fbb207b4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cc4c2b4a-e07a-4c5a-bccf-a0bed1952445",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1eb8afd1-f5fa-400c-ae07-b02a57ab90e5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/08ae7b3c-0f21-4a24-88f6-40935b740394",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1207f2b4-6c15-4987-a0ab-b44ac1222418",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0ac36dec-6871-4454-b03b-309404851030",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f085dbc6-3eb3-40db-9902-3c569078a0d3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/729fc175-38e9-41b6-b609-b282e4a4ba0a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ee492f8d-5759-4df9-ac3e-c42293f5f5a9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1fd47839-35df-4e0e-9bfb-3cb22dd3b42b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dc33c1d5-5008-40c8-825b-a0a43f6e20d8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d11b9bca-1914-4484-8bbc-2d5221518a77",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b8705e5e-5c2a-4a8f-813c-001a8aeddc69",
+        "https://soa.tainan.gov.tw/Api/Service/Get/22ab1048-b149-4c3d-a27d-9792dc1165d1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/62334041-0638-440d-a1e8-326c5aa85bc3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/60442e8e-a7d8-4e67-a57e-fa7c6654a413",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0c3df481-847c-4163-98d9-f21443027366",
+        "https://soa.tainan.gov.tw/Api/Service/Get/48d224db-982b-4c21-be5e-b07bdfb25468",
+        "https://soa.tainan.gov.tw/Api/Service/Get/15c8edbc-64ba-452a-a3e3-c84315f6f46a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/03b98da0-6c3d-4779-ad40-8956dee7bc41"
+      ]
+    },
+    {
+      "id": "100193",
+      "name": "臺南市社區營造點資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/9efbdbb1-8e1b-4252-8884-66b75d1c75b5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9efbdbb1-8e1b-4252-8884-66b75d1c75b5"
+      ]
+    },
+    {
+      "id": "139052",
+      "name": "臺南市公共圖書館館藏數量統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f702b173-a8c9-4e7d-ad5e-4185da3602a6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f702b173-a8c9-4e7d-ad5e-4185da3602a6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f1f3bbd3-fb9f-4459-a55c-815e7a66afdd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f1f3bbd3-fb9f-4459-a55c-815e7a66afdd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/32917b91-e8e5-47a4-b75b-c3de1c6514e5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/32917b91-e8e5-47a4-b75b-c3de1c6514e5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/57fefee1-a5c5-46f2-8d5c-e4f4a71547fe",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/57fefee1-a5c5-46f2-8d5c-e4f4a71547fe",
+        "https://soa.tainan.gov.tw/Api/Service/Get/06536666-a3aa-403d-b2c6-ea1720f874a8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/06536666-a3aa-403d-b2c6-ea1720f874a8"
+      ]
+    },
+    {
+      "id": "138673",
+      "name": "臺南文化獎得主名冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2ad32d49-5743-4e65-974c-1558b1ec0cc7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2ad32d49-5743-4e65-974c-1558b1ec0cc7"
+      ]
+    },
+    {
+      "id": "138674",
+      "name": "臺南文學獎得獎名冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/04b6b45e-8cf6-4520-8fb5-436d859910ca",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/04b6b45e-8cf6-4520-8fb5-436d859910ca"
+      ]
+    },
+    {
+      "id": "140115",
+      "name": "臺南市藝文活動展演活動統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b0f7c0a4-d8db-45ef-b14d-1aff13408a50",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b0f7c0a4-d8db-45ef-b14d-1aff13408a50",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7a650e1c-62ea-4e72-a5bd-231e547538b7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7a650e1c-62ea-4e72-a5bd-231e547538b7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5bd80d1b-82e5-4ba3-9992-67e275626675",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5bd80d1b-82e5-4ba3-9992-67e275626675",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e73fc662-74e3-4b7c-b41a-88a5f9e65375",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e73fc662-74e3-4b7c-b41a-88a5f9e65375",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9024cb1a-7d96-44c1-9608-b045455397f5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9024cb1a-7d96-44c1-9608-b045455397f5"
+      ]
+    },
+    {
+      "id": "129944",
+      "name": "臺南市獲獎助臺南研究出版作品目錄",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d38eb766-94d2-4562-bba9-ab8f86f67cb9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d38eb766-94d2-4562-bba9-ab8f86f67cb9"
+      ]
+    },
+    {
+      "id": "129981",
+      "name": "總爺藝文中心機關團體預約導覽登記表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3eb504e6-6f00-4904-a3d8-31a14395b01f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3eb504e6-6f00-4904-a3d8-31a14395b01f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fed5ff45-9993-438e-ae25-33dba5ad4cc6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fed5ff45-9993-438e-ae25-33dba5ad4cc6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/462bb142-17b7-49c2-be6a-4b9624454c84",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/462bb142-17b7-49c2-be6a-4b9624454c84",
+        "https://soa.tainan.gov.tw/Api/Service/Get/64c1cb8a-1812-4592-9590-4bed241d8261",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/64c1cb8a-1812-4592-9590-4bed241d8261",
+        "https://soa.tainan.gov.tw/Api/Service/Get/99921d8a-176f-4679-a5a5-a91c2e1c637c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/99921d8a-176f-4679-a5a5-a91c2e1c637c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/91c30ed8-0f64-4c0e-9fdb-b57825237b4b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/91c30ed8-0f64-4c0e-9fdb-b57825237b4b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1d4b19d5-0613-4a6f-9225-e204f5fe1d76",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1d4b19d5-0613-4a6f-9225-e204f5fe1d76",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e003fd2e-9326-432f-a9b8-e7c959d201be",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e003fd2e-9326-432f-a9b8-e7c959d201be"
+      ]
+    },
+    {
+      "id": "129417",
+      "name": "臺南美展近三年徵件資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f568e1e3-a4dd-4e77-b25a-c0c8653dae29",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f568e1e3-a4dd-4e77-b25a-c0c8653dae29"
+      ]
+    },
+    {
+      "id": "129429",
+      "name": "臺南市文化資產管理處每年各類文化資產維護經費統計資料",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/80561b95-7acd-4f24-b7d6-54ffb4410b72",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e6a1d50a-2279-4ceb-afdb-d42261c7c392",
+        "https://soa.tainan.gov.tw/Api/Service/Get/80561b95-7acd-4f24-b7d6-54ffb4410b72",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e6a1d50a-2279-4ceb-afdb-d42261c7c392"
+      ]
+    },
+    {
+      "id": "145525",
+      "name": "臺南市街頭藝人名冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dd4b6fc2-9b36-4688-a7ae-0a07e145f87b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dd4b6fc2-9b36-4688-a7ae-0a07e145f87b"
+      ]
+    },
+    {
+      "id": "147063",
+      "name": "臺南市立案藝文團隊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7aae312b-c40c-49cd-b947-2ef4dfa93518",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7aae312b-c40c-49cd-b947-2ef4dfa93518"
+      ]
+    },
+    {
+      "id": "167047",
+      "name": "臺南市文化資產管理處補助私有古物保存維護一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a1fc1372-9d20-4628-a5df-e7d88fa43234",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a1fc1372-9d20-4628-a5df-e7d88fa43234"
+      ]
+    }
+  ]
+}

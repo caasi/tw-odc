@@ -1,0 +1,802 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府數位發展局",
+  "slug": "newdatacenter_taichung_gov_tw_de87c89e",
+  "datasets": [
+    {
+      "id": "83551",
+      "name": "臺中市政府全球資訊中文網市政新聞",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/10cd8680-41c6-4c8a-8102-c9945be40216",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/468e6de0-80e4-48dd-a20d-a714b9b91be7"
+      ]
+    },
+    {
+      "id": "83840",
+      "name": "臺中市公眾區免費無線上網熱點資料",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=da3264fc-9033-4ebc-b62e-6e2bb91e3a0a"
+      ]
+    },
+    {
+      "id": "106666",
+      "name": "臺中市91年正射航照影像",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/55aa7392-fecf-4572-94c6-a8abcebed739"
+      ]
+    },
+    {
+      "id": "106667",
+      "name": "臺中市94年正射航照影像",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/23888d8f-35c9-4e83-8db3-0f793ba88030"
+      ]
+    },
+    {
+      "id": "123745",
+      "name": "臺中市85年區里界",
+      "format": "zip",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6fd15286-5b04-4998-8c98-7741f9863231"
+      ]
+    },
+    {
+      "id": "128650",
+      "name": "臺中市政府各機關扣繳統一編號資料",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=233da2d9-d027-4bfe-8a4f-2634e9c42eaa"
+      ]
+    },
+    {
+      "id": "84941",
+      "name": "臺中市政府全球資訊中文網機關訊息",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0ec9393f-cc2e-44e0-998b-0e6577ac8a1f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d953ef84-87d1-43bb-953c-7353a2f60568"
+      ]
+    },
+    {
+      "id": "126587",
+      "name": "臺中市地標_TWD97(108年)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5b4b2b20-377b-4774-843d-a33bfbe224ef"
+      ]
+    },
+    {
+      "id": "126731",
+      "name": "臺中市地標_TWD67(108年)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/62b26216-02da-4baf-8638-1b3f0c324bd6"
+      ]
+    },
+    {
+      "id": "126735",
+      "name": "臺中市公告類加值應用圖輯(TCGIS)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bb2d0cdf-19ee-4f63-8ac7-a92d3feaf44e"
+      ]
+    },
+    {
+      "id": "114521",
+      "name": "30280-07-01-2 臺中市政府公文電子交換及線上簽核統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8258e2d2-707b-4ce9-abee-56dc9134fc8c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cef284d5-ba7d-4729-8f66-ac7c856e6a97",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a6f822f3-1eea-4bba-ba98-183fbef585e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ed310ad6-82b3-4e11-8c0b-925d36da16db",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d14dab98-b4fd-4ea0-a8f2-0a77749e1da0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7996fa5b-b652-4d4d-842d-7568b3cfbdec",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5f74aecf-ed77-40d5-bbcf-563bf08a3523",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ecb20cc-c3a2-4912-a95c-e7a0e6681dde",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c1889edd-0322-4a9e-a053-00d9bb3e037b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3fd155f8-6188-455b-ac30-65452f0a825c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=386bc7b5-0d46-4342-8476-3ee85d745771",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eeb14467-7d8c-4486-952e-a1a61afd35bc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ed72395-0462-4b42-a649-2bf823b3091f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=331cb6c4-119d-4bb2-aeee-d6094b5367a5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=20d18bd8-254e-4178-9d84-4faefdf8ca7f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=727dbc8f-93eb-49a8-ac65-0ae9e9b239bf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ee879c8-7570-4d0e-8208-5a3cfb3588b0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=035267b5-1ff1-4037-b4cb-82316beaac15"
+      ]
+    },
+    {
+      "id": "131597",
+      "name": "臺中市行動應用軟體資訊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/19c03f0f-97d7-456f-801e-d99756a85640"
+      ]
+    },
+    {
+      "id": "137884",
+      "name": "臺中市110年2月空間地圖查詢地區統計",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e871d701-30c4-4486-ba7a-876df96edda7"
+      ]
+    },
+    {
+      "id": "144397",
+      "name": "臺中市確診足跡地圖covid19圖資位置標示資訊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/df54b9bc-b5b7-4c59-af4b-2d57d8deb08d"
+      ]
+    },
+    {
+      "id": "162894",
+      "name": "臺中市都市計畫圖(110年版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2cb3086e-057b-489c-83e3-72f2fffc9a43"
+      ]
+    },
+    {
+      "id": "162895",
+      "name": "臺中市都市計畫圖GIS檔案(85年度典藏版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2f9c2872-bd11-4b3a-9757-acaf646e2dd1"
+      ]
+    },
+    {
+      "id": "158889",
+      "name": "臺中市建物TWD97(110年版本)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/767cc7f1-2d20-4ffc-9b3b-ab092d999ea6"
+      ]
+    },
+    {
+      "id": "146377",
+      "name": "臺中市九二一震災後地形圖重製(含正射影像)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7863398b-5753-4c42-a318-0f468337f6f5"
+      ]
+    },
+    {
+      "id": "146519",
+      "name": "臺中市政府數位局110年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7f8b950e-776f-4009-b3f2-f6b8f6caccbc"
+      ]
+    },
+    {
+      "id": "136320",
+      "name": "臺中市109年12月空間地圖查詢地區統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bbbce785-e328-4660-b15a-b3689ee2f0ff"
+      ]
+    },
+    {
+      "id": "155669",
+      "name": "臺中市政府數位局保有及管理個人資料",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=559c8e74-f408-4c0a-8665-0eb8366714a4"
+      ]
+    },
+    {
+      "id": "164660",
+      "name": "臺中市111年空間地圖首頁瀏覽次數",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0329a4f1-7254-47da-a91a-a1f3ce6884ad"
+      ]
+    },
+    {
+      "id": "164661",
+      "name": "臺中市資料開放平臺查詢關鍵字排名統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/461f0abe-63da-4616-aec6-d5fbe418c9bd"
+      ]
+    },
+    {
+      "id": "164664",
+      "name": "臺中市108年空間地圖首頁瀏覽次數",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/04b5d081-f5a6-42fd-a54e-ba54ddc2c830"
+      ]
+    },
+    {
+      "id": "164665",
+      "name": "臺中市政府數位局訂定相關法規一覽表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c3ae8a68-4764-4e26-a675-b14dd5a77386"
+      ]
+    },
+    {
+      "id": "164667",
+      "name": "開放資料集詮釋資料標準規範",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7923714f-7a73-4cff-891f-c1837f4461b5"
+      ]
+    },
+    {
+      "id": "164973",
+      "name": "臺中市千分之一航測地形圖(111年版本)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/43145207-94d0-4686-968a-af25fd3de419"
+      ]
+    },
+    {
+      "id": "173385",
+      "name": "臺中市地標圖(113年最新版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2849ff9-45b3-4013-8ec5-37d10b5dcec3"
+      ]
+    },
+    {
+      "id": "176033",
+      "name": "臺中市主要自行車道",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=35bbe493-6c1e-49e6-addd-bad50b08c201"
+      ]
+    },
+    {
+      "id": "176155",
+      "name": "臺中市政府數位局115年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ce3bb93-cf33-45e5-8975-f8f5809c9b88"
+      ]
+    },
+    {
+      "id": "172751",
+      "name": "臺中市政府數位局114年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/abb23b5d-4892-48be-8ef6-8a4166b369a4"
+      ]
+    },
+    {
+      "id": "84940",
+      "name": "臺中市政府全球資訊中文網活動訊息",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/266e4d71-d636-4a90-b7f3-69e0600f2c8f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c5157cc-34ed-45fb-ba03-34e6cbbfc9d8"
+      ]
+    },
+    {
+      "id": "83822",
+      "name": "臺中市道路寬度",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c807c4ef-1942-4341-abbc-883fde09f8b2"
+      ]
+    },
+    {
+      "id": "103092",
+      "name": "21312-90-02-2 臺中市政府網站服務情形統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=418abf7c-fdb4-48c5-ba18-a74ab89db7b8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b6b872d8-0967-43b9-9962-f0e2baba62e9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=294a092a-7fed-4824-8f65-d70f1ed5f1ce",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=74311ae3-6185-47eb-90da-11a40f15b422",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=10dab12f-8b30-4d07-802a-ec5a14c4ec1f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9c2817dd-56ec-4eb4-b4eb-b0acb70aea23",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b9ab1ddd-06e3-455b-a151-78fe0e8f8dcf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5fa39828-f0f1-4e8a-909d-c4b33774915a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b8a4c076-4bad-41c8-b64b-9610dcbb6a95",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1a41af41-8d94-4ce1-9eb9-e6e17f471a9d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=269c4b42-aef8-4b95-ae7d-8c8538d471d2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=83dc861c-d3dd-4296-8e8f-848628b60366",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=05e37560-3227-4ac9-b8fc-fd409e17f5ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=70f4b7c0-4381-4e4f-abda-055bf800ea4e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab682935-f008-4727-aa56-e56191b59f57",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4e7625e-5ae9-4259-9208-31772b970ad3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1104c62e-9fed-4f4b-bdf4-54145cbbe9fc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c686aa29-7bfe-40a1-9108-7ba934df9890"
+      ]
+    },
+    {
+      "id": "126769",
+      "name": "臺中市地標_WGS84(110年)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/25516cb2-e337-45b2-8e89-e353ac34b879"
+      ]
+    },
+    {
+      "id": "123742",
+      "name": "臺中市常用-地形-建物-門牌-道路-都市計畫地理資訊資料集_最新版",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4b575fdc-20dd-424f-a21f-eebf877cdff2"
+      ]
+    },
+    {
+      "id": "162898",
+      "name": "臺中市道路中心線(111年版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/67d2bf3a-eb6a-4f7c-981a-133020e4254b"
+      ]
+    },
+    {
+      "id": "162904",
+      "name": "臺中市道路中心線交叉點(111年版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8c343689-4032-4335-96cd-72d014d41e46"
+      ]
+    },
+    {
+      "id": "164662",
+      "name": "臺中市109年空間地圖首頁瀏覽次數",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec07c879-1b42-44d4-bec1-f245230275cf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fcfb9d54-0fa0-4e88-9a87-66bf68f12ec2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=71231941-6a5f-4015-9ceb-b67a8bbd0334"
+      ]
+    },
+    {
+      "id": "164663",
+      "name": "臺中口罩地圖藥局詳細資料與查詢量資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8d8f11fe-2027-4697-a94b-239af041ed69"
+      ]
+    },
+    {
+      "id": "164666",
+      "name": "臺中市政府開放資料清單",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=797ce4a6-31c0-4af3-ae1e-1f656cc79107"
+      ]
+    },
+    {
+      "id": "164972",
+      "name": "臺中市地形圖地標分類代碼表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/85939585-8fb6-4da4-acf7-c83836877ae2"
+      ]
+    },
+    {
+      "id": "164976",
+      "name": "臺中市政府數位發展局法規一覽表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1af25e7c-bef8-4500-9758-414d5f75c911"
+      ]
+    },
+    {
+      "id": "164998",
+      "name": "臺中市97年正射航照影像",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e3575637-d67e-420f-9184-d8bc78b585ed"
+      ]
+    },
+    {
+      "id": "143266",
+      "name": "臺中市110年6月空間地圖查詢地區統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5b1e20d7-1c25-4598-b22f-ba98f5b9a27f"
+      ]
+    },
+    {
+      "id": "155650",
+      "name": "臺中市都市計畫圖(113年最新版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5ca59c23-ff9d-4de0-8627-d7cab3342d25"
+      ]
+    },
+    {
+      "id": "144588",
+      "name": "臺中市地形圖之公用事業網路資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/817824c1-cdd2-4dee-8159-740cdd6180d8"
+      ]
+    },
+    {
+      "id": "144589",
+      "name": "臺中市110年8月空間地圖查詢地區統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d6c49077-bc1b-46e5-8aac-ba31d29cff1d"
+      ]
+    },
+    {
+      "id": "144986",
+      "name": "臺中市政府數位局採購招標案件一覽表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/949ad823-85c6-40f1-89f6-f94ec3551880"
+      ]
+    },
+    {
+      "id": "144595",
+      "name": "臺中市90年(2001)GIS門牌號碼_初版",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9aed2651-e64e-4a5e-bbb8-eac5f06e2d12"
+      ]
+    },
+    {
+      "id": "150964",
+      "name": "臺中市政府數位局111年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/09d59544-e2c3-455e-91d5-307c06c1a33b"
+      ]
+    },
+    {
+      "id": "158887",
+      "name": "臺中市千分之一航測地形圖_TWD97(110年版本)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6aaec47a-904e-49c9-9e91-ff7aabd0fe89"
+      ]
+    },
+    {
+      "id": "158891",
+      "name": "臺中市道路中心線TWD97(110年版本)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0b92dee7-85d5-422a-af2e-a3b2f7d947a4"
+      ]
+    },
+    {
+      "id": "158892",
+      "name": "臺中市特殊道路TWD97(110年版本)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/336b3360-f0fb-4087-8b0b-ec52e8a6eefa"
+      ]
+    },
+    {
+      "id": "158893",
+      "name": "臺中市道路面TWD97(110年版本)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ae08a278-b141-4709-8a24-a83e58b1de10"
+      ]
+    },
+    {
+      "id": "173412",
+      "name": "臺中市地標圖(112年版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/38d04000-15b1-4157-9021-2df844c0a1b4"
+      ]
+    },
+    {
+      "id": "171244",
+      "name": "臺中市110年7月空間地圖查詢地區統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/40fb499f-242c-401f-a0bf-f3a48d985a86"
+      ]
+    },
+    {
+      "id": "169805",
+      "name": "臺中市各類道路圖(113年最新版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/692ea9e9-01a1-4844-88ed-af0541a1b7be"
+      ]
+    },
+    {
+      "id": "176023",
+      "name": "臺中市無人機航照模型大里區",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4f418cc-732b-47cd-b86f-b45436f2844b"
+      ]
+    },
+    {
+      "id": "176899",
+      "name": "臺中市防災公園地圖",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=67d7a6e1-c672-4e5c-8d34-6a702ae7143f"
+      ]
+    },
+    {
+      "id": "84888",
+      "name": "21312-90-01-2 臺中市政府各機關免書證免謄本系統查詢統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3518b390-05a2-48b9-a02f-2dd97ee64424",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=82e30b13-7d86-4ea5-a36e-8d4a26e0afb7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=483f336f-6b0c-4edd-b93c-7e55450172e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1cbb9ae0-8512-42cd-b82f-787a9ffbad19",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec67a8c8-50fc-435b-913d-41201ce0484e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=92e6daa9-459c-4f1c-b9fc-0131a73508ee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6e4b0f2e-62d3-45dc-bab9-cc61103366a5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=39643f47-f3e7-47ad-9d55-ac35e8419089",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b16e6cd0-4fdc-4a83-a1c3-ad205a8092a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a3a45c7c-548b-4756-a068-c7c59ada0d20",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c9a133b2-ce32-430a-aa1a-5f7f038fee8f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0768c22a-7e89-421f-a76f-c2d96374e248",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=339d6ea6-ac9e-4c6c-9a79-722fbdcdf8b5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8b20909d-4f18-46e4-b845-939e0e7ef84f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a43a5551-8dfb-4442-b9f3-369edd81f6ee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1348e32c-170a-4750-88c2-99be89685e0c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1bce45f8-7ac2-4815-b64b-be5cc989bee3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e49be8b2-f187-4bb5-a85f-179044faf024"
+      ]
+    },
+    {
+      "id": "106638",
+      "name": "臺中市航照正射影像(歷年彙整版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a7b8e004-81aa-4462-9e0b-ed70ff410b30"
+      ]
+    },
+    {
+      "id": "139429",
+      "name": "臺中市110年4月空間地圖查詢地區統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3eafe43b-3293-4acf-9602-173d9412cc62"
+      ]
+    },
+    {
+      "id": "158890",
+      "name": "臺中市道路交叉點TWD97(110年版本)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0e03d2af-c8ef-43aa-8274-55ab1ff12400"
+      ]
+    },
+    {
+      "id": "171246",
+      "name": "臺中市110年3月空間地圖查詢地區統計",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f1c7e1a6-755e-4cec-9f56-6e6c8cfbc806"
+      ]
+    },
+    {
+      "id": "171243",
+      "name": "臺中市110年1月空間地圖查詢地區統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2561284c-4964-4e4c-a1d6-eac91c8b7461"
+      ]
+    },
+    {
+      "id": "171580",
+      "name": "臺中市政府數位局113年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/31ca1c35-e5b0-47bb-afcc-c76f7454501b"
+      ]
+    },
+    {
+      "id": "160162",
+      "name": "臺中市政府數位局112年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1dab34f9-05e6-4c77-a7b2-b3f6f98f7d34"
+      ]
+    },
+    {
+      "id": "144406",
+      "name": "臺中市都市計畫區千分之一地形圖與行政區",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3b186cfe-0dd1-4779-a140-13d71853201b"
+      ]
+    },
+    {
+      "id": "144169",
+      "name": "臺中市開放資料數量與分類資訊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1c8982a2-34bf-45bf-aa15-bde3b0f12d2d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a449df33-0558-47e0-922b-635c26f8c5ce"
+      ]
+    },
+    {
+      "id": "144590",
+      "name": "臺中市植物覆蓋圖資訊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/aa5f39e3-b9e6-4d56-90c9-fe6e9d348167"
+      ]
+    },
+    {
+      "id": "144591",
+      "name": "臺中市三千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b99ce22e-8ecc-4a72-86dc-4a9d6e56eeaf"
+      ]
+    },
+    {
+      "id": "144245",
+      "name": "臺中市千分之一地形圖暨正射影像(歷年各區總彙整)",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bdc53c69-0a24-4933-b5f2-da7eee327374"
+      ]
+    },
+    {
+      "id": "144246",
+      "name": "臺中市地形圖層欄位說明與成果檢查說明報告",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0c627024-c024-42d2-9750-0acde79d32aa"
+      ]
+    },
+    {
+      "id": "146982",
+      "name": "21312-90-04-2 臺中市政府免費無線網路服務統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a181366c-558b-4c2e-9aaf-6df8246c4d74",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cf125349-4152-46cb-a056-48a38b9282a7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3339b521-f270-4c7b-8f81-0c78caa8567e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6bfad68e-b27f-439f-aef9-d3ddd28f8ad1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a01050a6-0ac2-4a55-ae1f-544aa37979a2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=365a24a7-dcba-4121-9e10-37f3173e03ed",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=452a7ce7-6e59-48eb-8f64-264c0fdcc24e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=18718167-ae79-4129-9cd0-9e32a6add33f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2b62e8d4-8ee1-4917-9212-c27c08d09f43"
+      ]
+    },
+    {
+      "id": "162896",
+      "name": "臺中市建物TWD67(109年版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/515cee82-8b39-4bcd-bd95-6a953bf329e5"
+      ]
+    },
+    {
+      "id": "162897",
+      "name": "臺中市區里界(112年)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2c0f74b3-0d12-478e-b44c-fb5e8a1cb58b"
+      ]
+    },
+    {
+      "id": "162899",
+      "name": "臺中市都市計畫圖(111年版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3e9ad5f6-18f5-4c55-82d4-5f789dfcd642"
+      ]
+    },
+    {
+      "id": "162900",
+      "name": "臺中市建物圖(111年版本)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5e3290d9-56cf-4076-8e6a-7f2118e1e1c7"
+      ]
+    },
+    {
+      "id": "162901",
+      "name": "臺中市道路面(111年版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0f072a93-a38c-4d0e-870c-013c62eac207"
+      ]
+    },
+    {
+      "id": "162902",
+      "name": "臺中市特殊道路面(111年版)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/18451c57-187e-4a0b-96dd-65af7a6c5911"
+      ]
+    },
+    {
+      "id": "155640",
+      "name": "臺中市政府數位發展局政府資訊公開",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1e054a80-ca88-4f4b-8cde-007607b2044a"
+      ]
+    },
+    {
+      "id": "164659",
+      "name": "臺中市110年空間地圖首頁瀏覽次數",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/19b95093-8837-4e41-b919-ab9ad4d779cc"
+      ]
+    },
+    {
+      "id": "164977",
+      "name": "臺中市政府地理資訊相關法規",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f268aa45-c20b-465a-9217-6d37092ed96b"
+      ]
+    },
+    {
+      "id": "166614",
+      "name": "30910-01-01-2 臺中市政府數位治理局現有職員概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc264f38-ad3f-4df8-a364-eb3b87553041",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6a6a9b88-1b9c-4442-b7c8-06d5d1912c69"
+      ]
+    },
+    {
+      "id": "150848",
+      "name": "臺中市110年11月空間地圖查詢地區統計",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0afd6e51-1d9d-491b-88fa-23cef44c2964",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=af0c4d1a-9248-4780-aa18-3c422d680b09"
+      ]
+    },
+    {
+      "id": "150849",
+      "name": "臺中市110年12月空間地圖查詢地區統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/75aae030-af53-40dc-8090-f2be23a370f7"
+      ]
+    },
+    {
+      "id": "152106",
+      "name": "臺中市建物圖(含113年及114年最新版)",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e6d2c344-3463-40d4-9fad-be907db8d9d5"
+      ]
+    },
+    {
+      "id": "169806",
+      "name": "臺中市空間資訊建物及門牌號碼位置新版本資料",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=42350484-812f-4c08-a06f-45783904fe88"
+      ]
+    },
+    {
+      "id": "175183",
+      "name": "臺中市地形圖幅索引GIS及圖式規格表報告",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=16dc5413-eb82-4acb-b3a3-ea35f495a79a"
+      ]
+    },
+    {
+      "id": "176024",
+      "name": "臺中市帝國糖廠三維模型",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ad0ba26d-5dd6-4d3f-a115-4372c989bf9c"
+      ]
+    }
+  ]
+}

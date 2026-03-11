@@ -1,0 +1,742 @@
+{
+  "type": "dataset",
+  "provider": "交通部公路局",
+  "slug": "motc_gov_tw_3a934878",
+  "datasets": [
+    {
+      "id": "6937",
+      "name": "全國大客車行駛應特別注意路段",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317052578814496768.csv&filedisplay=縣鄉道等行駛應特別注意路段.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317052578810302464.csv&filedisplay=省道大客車應注意路段調查表.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "16193",
+      "name": "一級監控路段",
+      "format": "xml",
+      "urls": [
+        "https://bobe168.tw/api/motcthb/opendata/getRoadInfoManagementEvent?monitor_type=%E4%B8%80%E7%B4%9A%E7%9B%A3%E6%8E%A7%E8%B7%AF%E6%AE%B5"
+      ]
+    },
+    {
+      "id": "16194",
+      "name": "二級監控路段",
+      "format": "xml",
+      "urls": [
+        "https://bobe168.tw/api/motcthb/opendata/getRoadInfoManagementEvent?monitor_type=%E4%BA%8C%E7%B4%9A%E7%9B%A3%E6%8E%A7%E8%B7%AF%E6%AE%B5"
+      ]
+    },
+    {
+      "id": "15795",
+      "name": "交通部公路局國家賠償事件收結情形表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317049047759982592.csv&filedisplay=交通部公路局國家賠償事件收結情形表.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "14205",
+      "name": "蘇花改工程標案位置",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317050808914677760.csv&filedisplay=蘇花改工程標案位置.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "14208",
+      "name": "機動車輛登記數統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1479309231868874752.csv&filedisplay=機動車輛107-11501.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "6052",
+      "name": "客運時刻",
+      "format": "csv",
+      "urls": [
+        "https://www.taiwanbus.tw/TimeTableExport/timetable.csv"
+      ]
+    },
+    {
+      "id": "33691",
+      "name": "機車駕照性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1354661243545194496.csv&filedisplay=機車駕照性別統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "33700",
+      "name": "酒駕、吸毒駕駛等(35條)性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1354755968038080512.csv&filedisplay=酒駕、吸毒駕駛等（35條）性別統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "31411",
+      "name": "交通部公路局轄區道路認養統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1402484046038044672.csv&filedisplay=交通部公路局轄區道路認養統計表(1140805更新).csv&flag=doc"
+      ]
+    },
+    {
+      "id": "29817",
+      "name": "省道交控路側設備資料",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317047187246419968.csv&filedisplay=省道交控路側設備資料.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "68180",
+      "name": "公路監理資料有償利用服務收費基準",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317027539943690240.csv&filedisplay=公路監理資料有償利用服務收費基準.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "46754",
+      "name": "省道交通量調查資料",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/OpenData.aspx?SN=E6FB4E1C49DCBEB0"
+      ]
+    },
+    {
+      "id": "21812",
+      "name": "高風險路段示警",
+      "format": "kml",
+      "urls": [
+        "https://bobe168.tw/api/motcthb/opendata/getDPAWS"
+      ]
+    },
+    {
+      "id": "26801",
+      "name": "臺灣公路博物館展示物資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317047547130286080.csv&filedisplay=臺灣公路博物館展示物資訊.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "80015",
+      "name": "遊覽車公司資料",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=470&format=1"
+      ]
+    },
+    {
+      "id": "108268",
+      "name": "省道常見樹種",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317013888344002560.csv&filedisplay=省道常見樹種.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "107483",
+      "name": "省道管制路段",
+      "format": "xml",
+      "urls": [
+        "https://bobe168.tw/api/motcthb/opendata/getControlEvent"
+      ]
+    },
+    {
+      "id": "99940",
+      "name": "省道緊急停駐空間",
+      "format": "xml",
+      "urls": [
+        "https://bobe168.tw/api/motcthb/opendata/getResourceEmergency?year=111"
+      ]
+    },
+    {
+      "id": "96649",
+      "name": "幼童車資料",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=589&format=1"
+      ]
+    },
+    {
+      "id": "96736",
+      "name": "道安講習資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=569&format=1"
+      ]
+    },
+    {
+      "id": "102885",
+      "name": "公路客運站牌資料",
+      "format": "xml",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317016907852812288.xml&filedisplay=InterCity.xml&flag=doc"
+      ]
+    },
+    {
+      "id": "146233",
+      "name": "省道車輛高度限制圖資",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476386810631294976.csv&filedisplay=省道車輛高度限制圖資11502.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "169931",
+      "name": "省道當心行人標誌",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476388033602260992.csv&filedisplay=省道當心行人標誌11502.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "174164",
+      "name": "交通部公路局112年年報",
+      "format": "pdf",
+      "urls": [
+        "https://ws.thb.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDM2L3JlbGZpbGUvMTMwNzgvMjQ4NzEzLzM2ZmY0YzRjLTY0NGYtNGE2NC05MTQwLTE1ZGU5NGZiYzYzZS5wZGY%3d&n=5YWs6Lev5bGAMTEy5bm05aCxLnBkZg%3d%3d&icon=.pdf"
+      ]
+    },
+    {
+      "id": "14206",
+      "name": "政府出版品目錄",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1463416649238450176.csv&filedisplay=交通部公路局出版品目錄11501.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "14207",
+      "name": "領有駕駛執照人數",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317049711525367808.csv&filedisplay=領有駕駛執照人數.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "7040",
+      "name": "省道里程坐標(里程牌標誌)",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476403783444467712.csv&filedisplay=省道里程坐標(里程牌標誌)11502.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "16195",
+      "name": "一級監控橋梁",
+      "format": "xml",
+      "urls": [
+        "https://bobe168.tw/api/motcthb/opendata/getRoadInfoManagementEvent?monitor_type=%E4%B8%80%E7%B4%9A%E7%9B%A3%E6%8E%A7%E6%A9%8B%E6%A2%81"
+      ]
+    },
+    {
+      "id": "43096",
+      "name": "計程車無線電台名稱及電話一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317029184668700672.csv&filedisplay=計程車無線電台名稱及電話一覽表2.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "33692",
+      "name": "汽車所有人性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1354759619783692288.csv&filedisplay=汽車所有人性別統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "33694",
+      "name": "機車所有人性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1354748498288840704.csv&filedisplay=機車所有人性別統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "33698",
+      "name": "未繫安全帶、未戴安全帽等(31條)性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1354761304383950848.csv&filedisplay=未繫安全帶、未戴安全帽等（31條）性別統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "33699",
+      "name": "高速公路超速等(33條)性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1354754679908601856.csv&filedisplay=高速公路超速等（33條）性別統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "33689",
+      "name": "汽車駕照性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1354758154847522816.csv&filedisplay=汽車駕照性別統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "20588",
+      "name": "交通部公路局及所屬會計月報",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/OpenData.aspx?SN=7FFB5EF8BAB4496F"
+      ]
+    },
+    {
+      "id": "30201",
+      "name": "車輛檢驗數",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1479308803697545216.csv&filedisplay=車輛檢驗數107-11501.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "30392",
+      "name": "公路汽車客運概況",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1479299105866911744.csv&filedisplay=公路汽車客運概況0226.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "86156",
+      "name": "遊覽車客運業評鑑",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1425751780339224576.csv&filedisplay=遊覽車客運業評鑑1009.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "114548",
+      "name": "隧道空氣品質監測資料",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317011854131728384.csv&filedisplay=八卦山資料.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317011854177865728.csv&filedisplay=東澳隧道-m.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317011854257557504.csv&filedisplay=草埔隧道-m.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "111989",
+      "name": "省道彎路標誌圖資",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476385397914210304.csv&filedisplay=省道彎路標誌圖資11502.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "105021",
+      "name": "省道速限圖資",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476385098457681920.csv&filedisplay=省道速限圖資11502.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "94226",
+      "name": "公路客運公司列表",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=457&format=1"
+      ]
+    },
+    {
+      "id": "98064",
+      "name": "公路養護鋪面檢測資料",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317018530482229248.csv&filedisplay=公路養護鋪面檢測資料.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "127632",
+      "name": "交通部公路局-振興三倍券通訊交易適用業者名單",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1164032566164983808.csv&filedisplay=振興三倍券通訊交易適用業者名單.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "133503",
+      "name": "遊覽車車輛資料",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=450&format=1"
+      ]
+    },
+    {
+      "id": "133504",
+      "name": "遊覽車駕駛資料",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=524&format=1"
+      ]
+    },
+    {
+      "id": "167869",
+      "name": "道路交通違規罰鍰收入各縣市分配金額",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1404358157672648704.csv&filedisplay=道路交通違規罰鍰收入各縣市分配金額.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "169929",
+      "name": "省道測速取締圖資",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476387511277195264.csv&filedisplay=省道測速取締圖資11502.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "174163",
+      "name": "臺灣公路工程期刊",
+      "format": "pdf",
+      "urls": [
+        "https://ws.thb.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDM2L3JlbGZpbGUvMTQ2NzUvMjQ0NTE1Lzc4NmY5OTNiLTdiY2ItNDk5MC1iNWEzLWJmZDhlOTFlNzU3MS5wZGY%3D&n=NTAwMVdFQi5wZGY%3D&icon=.pdf"
+      ]
+    },
+    {
+      "id": "174165",
+      "name": "永續提升人行安全計畫",
+      "format": "pdf",
+      "urls": [
+        "https://ws.thb.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDM2L3JlbGZpbGUvMTIyNzEvMzg3Ny83MzQ1ZTljMS04MThlLTRmOGQtOWNlYy01NzRiODEwNmRjYWUucGRm&n=5rC457qM5o%2bQ5Y2H5Lq66KGM5a6J5YWo6KiI55WrICjmoLjlrprniYgpLnBkZg%3d%3d&icon=.pdf"
+      ]
+    },
+    {
+      "id": "6794",
+      "name": "全國大客車禁行路段",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317053050128437248.csv&filedisplay=省道大客車禁行路段調查表.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1475315883860561920.csv&filedisplay=縣鄉道等禁行路段1150213.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "26370",
+      "name": "危險物品車輛限定或禁止或建議行駛路段",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317048242961125376.csv&filedisplay=危險物品車輛限定或禁止或建議行駛路段-11202-FINAL.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "26376",
+      "name": "快速公路通車情形與速限統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317047923975917568.csv&filedisplay=省道通車情形與速限統計表.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "12461",
+      "name": "交通部公路局及所屬法定預算",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/OpenData.aspx?SN=F68F1BD83EF5860B"
+      ]
+    },
+    {
+      "id": "30197",
+      "name": "車輛管理概況",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1479308453347332096.csv&filedisplay=車輛管理概況107-11501.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "30198",
+      "name": "駕駛人管理概況",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1404368809027964928.csv&filedisplay=駕駛人管理概況_11406.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "30393",
+      "name": "國道汽車客運概況",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1479298532622995456.csv&filedisplay=國道汽車客運概況0226.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "30394",
+      "name": "一般公路汽車客運概況",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1479297970040999936.csv&filedisplay=一般公路汽車客運概況0226.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "30305",
+      "name": "公路局監理服務歷年筆試題庫",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317044321697927168.csv&filedisplay=公路局監理服務歷年筆試題庫.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "30199",
+      "name": "公路人員訓練中心受訓班數及人數",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317046040620175360.csv&filedisplay=公路人員訓練中心受訓班數及人數.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "30202",
+      "name": "新車領牌數",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1479307863816933376.csv&filedisplay=新車新領牌107-11501.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "14203",
+      "name": "監理所、駕訓班、代檢廠",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317051144815513600.csv&filedisplay=監理所及轄站基本資料.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317051144828096512.csv&filedisplay=駕訓班基本資料.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317051144823902208.csv&filedisplay=代檢廠基本資料.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "33695",
+      "name": "公路汽車客運駕駛員性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1354762612839026688.csv&filedisplay=公路汽車客運駕駛員性別統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "33696",
+      "name": "無照駕駛等(21條)性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1354750854640439296.csv&filedisplay=無照駕駛等(21條)性別統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "33697",
+      "name": "無故不參加道安講習等(24條)性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1354752862097248256.csv&filedisplay=無故不參加道安講習等（24條）性別統計.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "31020",
+      "name": "道路(橋梁)歷史災情",
+      "format": "kml",
+      "urls": [
+        "https://bobe168.tw/api/motcthb/opendata/GetAllControlEvent"
+      ]
+    },
+    {
+      "id": "40314",
+      "name": "交通部公路局及所屬單位預算案",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/OpenData.aspx?SN=035C64ABF23D7BCB"
+      ]
+    },
+    {
+      "id": "58997",
+      "name": "交通部公路局及所屬決算書表",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/OpenData.aspx?SN=8B814E9513FBEB86"
+      ]
+    },
+    {
+      "id": "86153",
+      "name": "符合適性打造遊覽車",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317025790889562112.csv&filedisplay=符合適性打造遊覽車.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "86565",
+      "name": "監理所站等候人數",
+      "format": "zip",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317023698133192704.zip&filedisplay=監理所站等候人數.zip&flag=doc"
+      ]
+    },
+    {
+      "id": "86571",
+      "name": "監理自助無人櫃台",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317022717148401664.csv&filedisplay=監理自助無人櫃台.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "86521",
+      "name": "監理機關轄區",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317024350922084352.csv&filedisplay=監理機關轄區.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "94225",
+      "name": "運輸業缺員訊息",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=553&format=1"
+      ]
+    },
+    {
+      "id": "96581",
+      "name": "公路客運無肇事公司列表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1375374262407270400.csv&filedisplay=年度無肇事公路客運公司.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "96623",
+      "name": "標牌公告",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=506&format=1"
+      ]
+    },
+    {
+      "id": "96508",
+      "name": "交通部公路局養護工程分局轄區",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317020366182289408.csv&filedisplay=公路局養護工程分局轄區範圍.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "96510",
+      "name": "省道易淹水泥流水瀑路段",
+      "format": "xml",
+      "urls": [
+        "https://bobe168.tw/api/motcthb/opendata/getRoadInfoManagementEvent?monitor_type=%E7%9C%81%E9%81%93%E6%98%93%E6%B7%B9%E6%B0%B4%E6%B3%A5%E6%B5%81%E6%B0%B4%E7%80%91%E8%B7%AF%E6%AE%B5"
+      ]
+    },
+    {
+      "id": "96513",
+      "name": "交通部公路局公路申挖系統資料",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317019914636103680.csv&filedisplay=交通部公路總局公路申挖系統資料.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "105020",
+      "name": "省道公路路線圖資",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476384678033231872.csv&filedisplay=省道公路路線表11502.csv&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476384691685691392.zip&filedisplay=省道公路路線圖資.zip&flag=doc"
+      ]
+    },
+    {
+      "id": "111982",
+      "name": "省道險坡標誌",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476402094708625408.csv&filedisplay=省道險坡標誌11502.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "137618",
+      "name": "交通部公路局政策宣導廣告刊登明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/OpenData.aspx?SN=CE17E958FBF73D15"
+      ]
+    },
+    {
+      "id": "166879",
+      "name": "全國電動公車運行車輛數與廠牌資料",
+      "format": "xml",
+      "urls": [
+        "https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=734&format=2"
+      ]
+    },
+    {
+      "id": "159945",
+      "name": "快速公路交流道里程及通往地名",
+      "format": "json",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476387232779603968.json&filedisplay=快速公路交流道里程及通往地名.json&flag=doc"
+      ]
+    },
+    {
+      "id": "160128",
+      "name": "省道應開頭燈路段",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317007716614410240.csv&filedisplay=省道應開頭燈路段.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "117697",
+      "name": "交通部公路局支付及接受補助明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.thb.gov.tw/OpenData.aspx?SN=471D89D4347126A1"
+      ]
+    },
+    {
+      "id": "106313",
+      "name": "全國專用公路路線表",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1317014229361889280.csv&filedisplay=全國專用公路路線表.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "130488",
+      "name": "快速公路交流道名稱標誌",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476386499615264768.csv&filedisplay=快速公路交流道名稱標誌11502.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "168489",
+      "name": "省道當心兒童標誌",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476388254025519104.csv&filedisplay=省道當心兒童標誌11502.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "169930",
+      "name": "省道車輛重量限制標誌",
+      "format": "csv",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1476387807806099456.csv&filedisplay=省道車輛重量限制標誌11502.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "174166",
+      "name": "環島自行車道升級暨多元路線整合推動計畫第二期",
+      "format": "pdf",
+      "urls": [
+        "https://www.thb.gov.tw/FileResource.axd?path=html%252Fdoc%252F%25E7%2592%25B0%25E5%25B3%25B6%25E8%2587%25AA%25E8%25A1%258C%25E8%25BB%258A%25E9%2581%2593%25E5%258D%2587%25E7%25B4%259A%25E6%259A%25A8%25E5%25A4%259A%25E5%2585%2583%25E8%25B7%25AF%25E7%25B7%259A%25E6%2595%25B4%25E5%2590%2588%25E6%258E%25A8%25E5%258B%2595%25E8%25A8%2588%25E7%2595%25AB%2528%25E4%25BF%25AE%25E6%25AD%25A3%25E8%25A8%2588%25E7%2595%25AB%2529.pdf"
+      ]
+    }
+  ]
+}

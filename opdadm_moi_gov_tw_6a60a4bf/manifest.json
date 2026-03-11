@@ -1,0 +1,845 @@
+{
+  "type": "dataset",
+  "provider": "消防署",
+  "slug": "opdadm_moi_gov_tw_6a60a4bf",
+  "datasets": [
+    {
+      "id": "7067",
+      "name": "滅火器藥劑更換及充填合格廠商",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BAD81AFE-818A-45D0-854D-5D3FA37920C3/resource/9FAF528F-CAE2-4FE9-99EB-0F9EAA5D6239/download"
+      ]
+    },
+    {
+      "id": "7069",
+      "name": "消防安全檢查重大不合格場所",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C955F9D4-0984-4F5B-8D89-880B3A9BBB46/resource/53EE89BC-DAC7-436E-80B5-48C07CEB3861/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C955F9D4-0984-4F5B-8D89-880B3A9BBB46/resource/F9B259C4-DD1A-4BD6-B73B-709431C19F68/download"
+      ]
+    },
+    {
+      "id": "7070",
+      "name": "爆竹煙火製造儲存場所一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E9419A8-046C-4D9C-9D8E-0879ADAB8883/resource/0244571E-DFAF-498C-BE47-8BF54963B3F3/download"
+      ]
+    },
+    {
+      "id": "12849",
+      "name": "避難收容處所開設情形",
+      "format": "xml",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/EEA2/OpenData/Shelter.xml"
+      ]
+    },
+    {
+      "id": "12851",
+      "name": "災情案件資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/066CCEC3-24ED-4E1C-AFC7-A60B80AD0CE5/resource/91293170-D03F-47C9-9EB9-035445EEA60C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/066CCEC3-24ED-4E1C-AFC7-A60B80AD0CE5/resource/28A56E22-1E0B-4768-B7B3-2F50134E346A/download",
+        "https://portal2.emic.gov.tw/Pub/DIM2/OpenData/Disaster.xml"
+      ]
+    },
+    {
+      "id": "9615",
+      "name": "防火管理人訓練專業機構通訊錄",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/419457F0-A50B-4927-904C-58408FF9824E/resource/865C05AA-7054-4033-BA63-6A3BAE799321/download"
+      ]
+    },
+    {
+      "id": "11169",
+      "name": "消防署消防月刊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0D7154C6-D99E-4435-97E4-0B40712EF93E/resource/90ECDC6C-50D0-49FF-9E11-5EC5A479A512/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0D7154C6-D99E-4435-97E4-0B40712EF93E/resource/E054E128-5CA3-425C-86F8-BEE4EEBD092F/download"
+      ]
+    },
+    {
+      "id": "46749",
+      "name": "全國義消人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/201DB7BD-DB8C-4572-834E-783E88ABED45/resource/6552C2FD-1B99-417A-ACB0-598240CED061/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/201DB7BD-DB8C-4572-834E-783E88ABED45/resource/102F3BCA-4E22-4287-A6C2-A9505B796AEF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/201DB7BD-DB8C-4572-834E-783E88ABED45/resource/808808DF-E596-44B9-B16D-E3FE922133E2/download"
+      ]
+    },
+    {
+      "id": "73242",
+      "name": "避難收容處所點位檔",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ED6CF735-6C03-4573-A882-72C1BEC799CB/resource/54550E2F-4567-4C8F-BD2E-E54E9D0386B8/download"
+      ]
+    },
+    {
+      "id": "73254",
+      "name": "消防安全設備查察處理",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4FEC8B4D-B320-40D7-85AB-AA66CB9419F7/resource/4E5C514D-D346-4D21-A0E2-3A31D7C9BAD8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4FEC8B4D-B320-40D7-85AB-AA66CB9419F7/resource/39041E9C-FA2B-4390-AD8C-5BD15ACCFA39/download"
+      ]
+    },
+    {
+      "id": "21370",
+      "name": "內政部消防署年度決算",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/588A2B9F-9B7D-4806-800A-3B7853E38363/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/AD37F45C-6283-4FFE-9F59-3FC85636BA10/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/BF824FCF-A5DA-4001-9A23-5029DCDA1C3D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/7BAAB0E1-361D-4292-9A75-531F28F0804B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/826F3FD7-C9D1-449C-842F-7CC4CCAD928C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/2B0A3CD0-6960-4429-BE42-9548EC5CEDDA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/9083A3E0-A560-4CB7-B1D9-C6E5E40B68CE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/9A467203-938A-44A4-8D74-CF25A3DC65BE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/32E0FF7A-75DC-4896-8D2E-CF6308D7411B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/4967F8D3-D183-4684-B62C-DB99930697A0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/1CC25F3E-4DC1-405C-98EA-FB99A9101011/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A10624BC-F0C5-491D-9BEC-630D56F9C029/resource/03758B21-F58C-477B-8A9D-FDC55E7CD22E/download"
+      ]
+    },
+    {
+      "id": "77130",
+      "name": "醫療機構災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_D1.json"
+      ]
+    },
+    {
+      "id": "77133",
+      "name": "各直轄市縣市政府避難收容處所開設通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_D3.json"
+      ]
+    },
+    {
+      "id": "77136",
+      "name": "災區志工人力志工服務通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_D4.json"
+      ]
+    },
+    {
+      "id": "77862",
+      "name": "救災資源資料清單",
+      "format": "json",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9753248E-B03F-4F0F-A199-C38667D29836/resource/11B45264-FB54-4B85-925A-5A71F71E5D39/download"
+      ]
+    },
+    {
+      "id": "77346",
+      "name": "電信事業災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_J1.json"
+      ]
+    },
+    {
+      "id": "77352",
+      "name": "交通災情通報表（郵政部分）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_F6.json"
+      ]
+    },
+    {
+      "id": "77357",
+      "name": "交通災情通報表（航空部分）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_F3.json"
+      ]
+    },
+    {
+      "id": "77358",
+      "name": "交通災情通報表（觀光部分）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_F5.json"
+      ]
+    },
+    {
+      "id": "77340",
+      "name": "國家搜救指揮中心支援空中救援勤務通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_H1.json"
+      ]
+    },
+    {
+      "id": "77165",
+      "name": "台灣電力公司災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_E2.json"
+      ]
+    },
+    {
+      "id": "77175",
+      "name": "自來水相關機構災情通報表（受損用戶）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_E4.json"
+      ]
+    },
+    {
+      "id": "77176",
+      "name": "災情通報表（水庫或堰壩）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_E5.json"
+      ]
+    },
+    {
+      "id": "77179",
+      "name": "工業區災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_E7.json"
+      ]
+    },
+    {
+      "id": "77181",
+      "name": "商業災損災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_E9.json"
+      ]
+    },
+    {
+      "id": "158106",
+      "name": "111年6月至12月內政部消防署高雄港務消防隊會計月報",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7CBA8D9D-3C58-4BAA-A01E-B838CC31D4FC/resource/4E9A9776-3E67-4873-8205-229A9FA68201/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7CBA8D9D-3C58-4BAA-A01E-B838CC31D4FC/resource/815D0FD0-0CDE-4B01-8687-EB7DED5B4D64/download"
+      ]
+    },
+    {
+      "id": "152101",
+      "name": "111年內政部消防署高雄港務消防隊會計月報",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B693E4B-C178-491A-91AD-72F64B3485AF/resource/0ED55AA9-C231-4884-9831-41032A83D2A1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B693E4B-C178-491A-91AD-72F64B3485AF/resource/F073214E-F5B8-4CA9-BBC2-77A974F252F2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B693E4B-C178-491A-91AD-72F64B3485AF/resource/E9219BEB-ECEA-4C51-8CE6-93E426DB1E53/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B693E4B-C178-491A-91AD-72F64B3485AF/resource/E4B0FC91-78BA-43BF-A026-B7EFADA1ED16/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B693E4B-C178-491A-91AD-72F64B3485AF/resource/6EBDDCF9-8ACC-447C-A249-C29C15B6C647/download"
+      ]
+    },
+    {
+      "id": "173985",
+      "name": "內政部消防署113年採購案件決標資料一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3F710902-E218-4409-AA43-DA9FC4742C39/resource/3C51D37D-C710-4F0C-AD88-9746D57E3037/download"
+      ]
+    },
+    {
+      "id": "173936",
+      "name": "113年中央災害應變中心開設期間災情案件資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9FC24793-15B3-496F-86EE-7E752E4EF74B/resource/7D3AC174-223B-4CDF-930F-964C699F18D2/download"
+      ]
+    },
+    {
+      "id": "13764",
+      "name": "火災事件資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/F79BD315-0286-4EE6-9B4C-1277B0CEF98A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/2EAD2714-8A08-4311-A46B-3A4B30CDDEE3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/DABCD323-037C-479B-AE2E-4C7B87D3256C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/619E49F7-171A-449B-A1E7-7E0FAD36DF6C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/DD2327E9-E650-447B-8D11-80FC74DEA955/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/997BB7A7-92AB-4433-BAA1-8A677A25F749/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/C2A3DCF0-7D51-44D2-AD51-AB9A76F9C2F3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/DDF0B6E5-A31A-4BF6-912C-D1628F5A8152/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/E259820D-8BCD-4292-8EEC-D232148B4B0D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/553CA892-D539-4D5B-B28F-DC835E071740/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/B9C10E44-AAEF-4D7C-8A24-E549976863F5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0621C600-0BF9-44F3-8D7B-529E2BAC12CD/resource/4E416C67-E73F-4F11-80D7-F8A2C3093BE1/download"
+      ]
+    },
+    {
+      "id": "12469",
+      "name": "消防署年度預算",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EB6813E-449E-4289-9D4B-24E9F299FA77/resource/4C75B349-462E-4C50-8A6A-0AC539F7F227/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EB6813E-449E-4289-9D4B-24E9F299FA77/resource/B70DA294-441A-468A-BEED-475380196086/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EB6813E-449E-4289-9D4B-24E9F299FA77/resource/0E977C0E-0C0A-49A0-B147-5105C1C521BA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EB6813E-449E-4289-9D4B-24E9F299FA77/resource/D95CB57F-9E79-465C-8EC7-51C8711ABD88/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EB6813E-449E-4289-9D4B-24E9F299FA77/resource/01D08ED1-695D-4B95-B309-7AEF19CB99D7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EB6813E-449E-4289-9D4B-24E9F299FA77/resource/A23EC27B-6334-45F2-B391-A89329F33076/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EB6813E-449E-4289-9D4B-24E9F299FA77/resource/7DF2FC24-0972-4FA6-82DF-B735F33F6A46/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EB6813E-449E-4289-9D4B-24E9F299FA77/resource/76C48480-1C16-4504-9BCF-BD5E69481290/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EB6813E-449E-4289-9D4B-24E9F299FA77/resource/634A8443-469E-4061-80E6-E475541FE838/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EB6813E-449E-4289-9D4B-24E9F299FA77/resource/B730A7AE-807D-4C2C-B065-FCA685C1BCA1/download"
+      ]
+    },
+    {
+      "id": "11095",
+      "name": "消防署年度白皮書",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A08E6942-7261-45BF-8012-72D7D0199F77/resource/809B10FC-DD93-4313-A419-5C637DDEC3FF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A08E6942-7261-45BF-8012-72D7D0199F77/resource/9D98AFE0-DAA7-425F-A8D9-CE6FF97F4C8F/download"
+      ]
+    },
+    {
+      "id": "11096",
+      "name": "消防署年度施政計畫",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/92C4E6B7-F192-424A-B7AB-3C4958DA5712/resource/05395E89-59CA-4C38-B18C-045866C426C3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/92C4E6B7-F192-424A-B7AB-3C4958DA5712/resource/29BF38F8-5557-49C3-97BC-5FDF51E7EEDA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/92C4E6B7-F192-424A-B7AB-3C4958DA5712/resource/5205FBEC-18D5-43F4-BF65-613B9AA6597B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/92C4E6B7-F192-424A-B7AB-3C4958DA5712/resource/2280538F-5289-4EE0-A0BB-A37E3DDD3C18/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/92C4E6B7-F192-424A-B7AB-3C4958DA5712/resource/D8595E4C-5ED4-4990-A3BB-A94B94A9DC24/download"
+      ]
+    },
+    {
+      "id": "7065",
+      "name": "消防機關水域救援統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/82F367C7-3075-4548-872C-05150F281649/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/7897C715-857E-4003-A46A-0CBDA85D3D46/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/14B82D3A-8200-46BD-AC5C-1411F53E336F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/840EAD8A-4184-4194-BB44-33F012ED04E4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/1FC968FB-A724-4928-9E53-37F68D326ADF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/F03E6F7E-52FD-4AB7-9F6F-3FE6D87057B4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/4A3F7C71-8A15-47CA-B3FC-49E087A9FBEB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/E4836F11-22C1-492D-980A-62097C40C5C5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/210FE3F8-0D8E-4594-B3B6-832C2B2EC082/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/3B043886-0A4F-48E0-A472-8619D594BF43/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/5DEA16EA-1267-4860-A47C-89D52DC86F68/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/53568F68-8166-4C85-96A2-B676D3DA755E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/4114D530-0EFE-462E-AE0E-BBE85CE3BC35/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/4F14FC7D-14C8-46CD-AC98-CE0A3063A485/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/3B3EB36B-7D23-4D7F-A142-CF9920B65000/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/1CAC8523-A771-40A3-997D-F4E234F4CF7D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/831F6FAE-8B16-484B-B40E-ADF93CE6C558/resource/3C1D7A36-ABE8-4D81-A648-F66782611DE9/download"
+      ]
+    },
+    {
+      "id": "7917",
+      "name": "119聽語障人士簡訊及傳真報案專線",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7FB25717-874A-44D6-BCD5-E314EB1C969E/resource/D3B880FB-CC15-45BD-AB2D-E09A4C2BEB0F/download"
+      ]
+    },
+    {
+      "id": "8562",
+      "name": "全國火災次數起火原因及火災損失統計資料表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/27BE989E-16E5-437E-B1F4-F9468B0758AE/resource/CCD1D4E5-1E06-4E1B-B654-1B7830DE2E95/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/27BE989E-16E5-437E-B1F4-F9468B0758AE/resource/8ECB21EE-FFD4-4CB4-B5EA-1D32A565EC83/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/27BE989E-16E5-437E-B1F4-F9468B0758AE/resource/5A404CF8-A18E-4F4B-8143-228764EE5818/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/27BE989E-16E5-437E-B1F4-F9468B0758AE/resource/56CED425-124D-40E4-B495-4EF8F5036360/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/27BE989E-16E5-437E-B1F4-F9468B0758AE/resource/93DA4501-38C2-481A-8FF1-544CAD524352/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/27BE989E-16E5-437E-B1F4-F9468B0758AE/resource/89D6490F-4826-4951-8BEB-D59EFA550548/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/27BE989E-16E5-437E-B1F4-F9468B0758AE/resource/BF768DCA-BC64-42D4-82A7-EA4682EBDE6E/download"
+      ]
+    },
+    {
+      "id": "77174",
+      "name": "環境保護工程設施災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_B1.json"
+      ]
+    },
+    {
+      "id": "77177",
+      "name": "災情通報表（河川、海岸、區域排水）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_E6.json"
+      ]
+    },
+    {
+      "id": "77183",
+      "name": "交通災情通報表（鐵路部分）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_F2.json"
+      ]
+    },
+    {
+      "id": "77201",
+      "name": "各直轄市縣市政府災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_A1.json"
+      ]
+    },
+    {
+      "id": "77131",
+      "name": "颱風過境大陸船員進港或上岸避風通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_C3.json"
+      ]
+    },
+    {
+      "id": "47226",
+      "name": "內政部消防署-補助縣市政府、團體及個人之獎補助經費季報表",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/6A0FA367-025E-49FE-9AB9-023BC7BB8640/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/CD1D9402-C89B-4A00-AF4F-0642FF123F78/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/990AD62D-50D3-4EA9-AF50-183E27B1F923/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/8BE5A136-32D4-42F9-8FF6-198C3733981B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/4A0E2B6A-19CF-4BC3-ABB1-20B00CC16158/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/3B5AB0D0-146B-4FAF-A1EB-25606B058C4E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/3391E4D2-7E57-49E4-A299-301B212383BF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/4427E93E-F8A1-4243-871E-402CF6D2FF66/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/935D671E-CA61-429E-A69E-4950772566FB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/FD47B6AD-8EB8-4E19-949D-4A20AD1645DF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/A45A387F-D974-47D9-AA81-5C1E7D120BCC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/10EA66DC-21DA-40AE-A79E-69E4F7A4BB3F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/B5529949-345F-4C84-A3D6-720B46B74B80/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/C1CA34F8-A2AD-4BEE-8BE0-7762D0701FDF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/AE445BE3-EB9F-4F65-AE17-872E79DE120F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/9D04C765-C763-4952-B9A8-889A13B5FAD9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/08B7EE9D-1D86-4AF2-9825-8B256ECF18EB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/652516ED-BFBC-48FD-87DF-905086025F84/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/54657495-0CD3-4E0A-822E-93B1BEF343EC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/B9C4C4BA-8C49-4333-B7CD-9A38DDCF4282/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/1BE66AA9-4C06-4A23-BC6B-A539B9F11617/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/520F7ABE-A94D-4040-97E6-BAA2498BFB98/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/CDDA646B-AAC0-4664-84D9-C1B7DB6397B1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/24ECD85E-085E-4A75-A4E9-C8B11CA69821/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/85ADA954-9E7D-4D99-9643-D3210AB5F358/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/60687F78-BC7E-4A6E-96F1-D7878693294E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/A2DF19D8-6B6F-44C4-AC78-E1D3B878AB97/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/E6C43043-732B-49C9-9497-E1FAC71CEC3D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/176E3526-17C1-4809-B4FA-E79F9661026C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/262BFBC1-C12F-4AA5-9AFD-ECCC0F63C90A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/1F8372FC-7D4D-402C-B5BE-EF58D69C27C3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/EE93E06F-403D-48C0-919C-F149190B09F3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C3A356C-B8F8-4869-8713-0EAE774CDD6B/resource/CF43717B-FAC2-4682-A844-F5A1648A2B0D/download"
+      ]
+    },
+    {
+      "id": "77859",
+      "name": "農林漁牧產物及民間設施災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_C1.json"
+      ]
+    },
+    {
+      "id": "77860",
+      "name": "各直轄市縣市政府撤離人數通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_A4.json"
+      ]
+    },
+    {
+      "id": "77345",
+      "name": "電信事業災情通報表（受損用戶-市話）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_J2.json"
+      ]
+    },
+    {
+      "id": "77347",
+      "name": "電信事業災情通報表（受損基地台-行動電話）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_J3.json"
+      ]
+    },
+    {
+      "id": "77353",
+      "name": "交通災情通報表（施工中工程災害及其他）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_F7.json"
+      ]
+    },
+    {
+      "id": "173935",
+      "name": "112年中央災害應變中心開設期間災情案件資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/08B2CE43-26E9-45A2-B07C-884B9D228E4D/resource/780DCB77-956C-4A67-A4C2-87D7058DF177/download"
+      ]
+    },
+    {
+      "id": "173972",
+      "name": "消防人力(年別)按官等分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DC3A2D1C-A77B-4747-AEC3-E569549346C6/resource/105D9F1F-B733-40AF-9735-45CB9F8B73D0/download"
+      ]
+    },
+    {
+      "id": "173974",
+      "name": "消防人力(年別)按學歷分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/651B168E-7877-4468-87E3-A25F50C353C7/resource/CB178B04-4E73-4629-B5D9-58E160460FAC/download"
+      ]
+    },
+    {
+      "id": "5969",
+      "name": "救援與應變單位點位",
+      "format": "kml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/57F3DD1D-A40E-49A6-8410-57303B2FF87E/resource/65BACB15-EBB7-4B79-B85C-5AB05221DF75/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/57F3DD1D-A40E-49A6-8410-57303B2FF87E/resource/C38B7AC2-E7F3-4DD5-A3F3-88E623B55924/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/57F3DD1D-A40E-49A6-8410-57303B2FF87E/resource/A570EB3B-AF83-41F2-9E38-D114B0AB1F32/download"
+      ]
+    },
+    {
+      "id": "7066",
+      "name": "消防安全設備檢修專業機構",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2FAD0D69-AF81-4CF1-AEDF-E2006F27E66B/resource/019E938E-3A2F-4A61-85C9-B244AF242CBE/download"
+      ]
+    },
+    {
+      "id": "7068",
+      "name": "消防專業技術人員",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/212F1FD3-73A3-4B4C-AA61-E81CA94714C7/resource/55E336A4-326D-4C38-A700-5576CF7EE3E6/download"
+      ]
+    },
+    {
+      "id": "12848",
+      "name": "中央災害應變中心目前開設的專案及成立情形",
+      "format": "xml",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/EEM2/OpenData/CEOCopen.json"
+      ]
+    },
+    {
+      "id": "21369",
+      "name": "內政部消防署會計月報",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/5BDF46D4-D2CB-4263-AB8D-001518CA03FA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/61116263-79F2-4EF6-990A-0D4F1315AF57/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/B2F2D9FE-148D-4433-AD7A-0F2E9942276B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/AE03D4C0-76A3-442B-BBC3-0F7AA4216C66/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/AE7C7B3B-47F8-45E3-80B9-1237BF01B618/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/7F34B50E-5162-42BF-948A-12F5CF6C1F56/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/357D16D2-BEC0-45E2-BD8F-14C379F603C3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/FACC58BD-45F6-4687-9211-15C5FDBD9D12/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/4B081715-131C-4969-9D4E-1614248FD37F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/EB30B8A8-0DE4-46AB-BB15-176D5B98B2FB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/BEE442B3-D196-49A8-BA53-1775D39726FB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/EC6D54F9-CAA5-45D4-9CC0-1909C39B2ACF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/722D24D9-5383-4983-8777-194940B7526E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/53286784-8A4C-4211-8BD3-23705FC1AE47/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/BF47BF9B-6D3D-4297-97FB-2689E2761FA3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/2BA29B1D-E0A6-4AAB-BD84-298D326F1FE0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/F45EAA4A-4CAC-4BF7-A641-2BD0AE0AB9C2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/9407A6AA-E485-41F0-9AFB-2CC659800AA2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/757AD8E7-1C39-4455-A2A3-30F7876644B7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/AA56F176-4906-4225-9353-3107D40BF61B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/69C83206-7C47-4CEF-9C87-37FF164A182B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/3A0A2614-5D88-41E1-A7AA-385D751493E2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/E0C88FD5-771B-4BC4-82D5-3E769AAD2193/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/7A33313A-630D-4562-9C23-3FA56A86D040/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/3A9DB918-6204-4DE2-8C35-458245B496BC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/B6170CDF-1589-49D4-BFAE-459EA80EC886/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/65A11151-C679-4BEA-BC45-4782400B7142/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/7F08AB8E-DB1E-4950-AC49-53F82E939772/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/943E68D2-2404-4740-ABEE-5B411EDDC046/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/F56EF3CD-7550-44D0-9DD3-5C0B23761015/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/AEFDFFFA-9D61-4DBD-8251-5D3D13F389EE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/C8A03AF0-911D-4DC2-AC50-5D7826041DF8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/9EBC9D1D-08EF-4215-BF95-5E6E4B9A57B6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/7084C43B-6190-4A16-B1D6-62800CA883B1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/0E72DC1B-CD9B-4AF4-8CC2-633C2F2E4683/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/9F1A4965-3E4D-4C21-9EDF-693422424212/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/AB4936ED-3B1B-4B0A-91CB-6AF271614A28/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/999B9A1B-6BA3-464C-BE50-6C9BEC3561FA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/342AFFCC-E41A-418F-B5BA-6CD7BAFACC2A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/62327B12-6BD9-44CB-838D-6DADBEE008F3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/9EB41D9C-5693-46F4-8A28-733817981FB7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/1D1E6DF5-553E-47AC-8FC0-782381A7563D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/445139C1-FF99-437E-8358-8008E8336B2C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/8463E48F-B0E2-4A35-8AD6-813BB1A40BBA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/9D7521D8-0D39-4DA8-BC74-82B602119633/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/E5DC90EA-7D99-4B57-9661-8330B7F2F300/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/6B76D59E-3E55-43CF-9CC8-8BB4B578B525/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/467604E2-5A4B-4186-9266-8D4906AADAED/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/11D27CA4-ECC5-4044-9F7F-8F00F34660C8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/0EB2CBE6-887D-4EE0-AA6E-91542347D701/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/32C09130-5BB5-4E24-9E92-9A43D666815C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/B25BB636-6243-47AF-9A25-9B2F18443EB7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/84A35E78-80C2-4F6D-957D-A6083E55BC37/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/5EFB8D08-A991-44EC-B046-A61ABE1FCF4A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/3F2DB374-210B-4A81-9BF7-A9C4E0D48C55/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/C87810DD-1403-427C-9171-AAE6AD7EFD2D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/B6F6270D-8CFC-4727-9C0A-AB16DCE19C9F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/AB89C687-D99C-4547-B247-AF361A9D81A4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/3F3F7F14-664B-4217-A175-AF548E945696/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/60D972E1-35AC-4622-8A82-B763679EFE5E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/1BD93C3E-67E4-4B91-B283-B931554FB532/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/E49630BF-1898-4D92-AFBC-BDD512665B2A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/C75CF487-9F68-48C2-B1DA-BF25D1033FE3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/7DF32B3F-2922-47FF-8B29-C19A55EEA4D4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/ECB6B0DA-B965-40F4-ACE9-C95521AAD7C5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/358A2CFD-31C0-487D-B72D-CC7D7B9E4606/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/4C3FCB3E-2B84-4750-A4C8-CFC339E75E8B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/9987D605-FE2E-4DF7-BD0F-D06321BBDA29/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/3FF783D2-5FB1-440E-8EE3-D29F2C3C5CBB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/8E389F51-B704-499E-AE2C-D4464019E646/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/0436FAC1-B238-4454-92EB-D671BE8A9EDA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/A268A3A2-0130-46ED-9550-D6C9E3138A3C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/0C675DE2-D0CB-4BF2-B5F6-D8EE49301B90/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/C4796D27-D677-45C1-8AE5-DB0070B31680/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/2E29B1CF-D8D4-45DD-B9C6-DC8FE6079C88/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/72852D60-DD6F-48D2-BCE6-DD92C704B4D1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/007373EE-4391-47B5-8BFD-DD98AA681847/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/9CAC902B-19F8-4050-BFB8-DF164FA83CF7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/D56B5B7B-EE25-4EC7-9FCC-E34E607BDC4B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/5778E2F9-19C6-4DF0-BF87-F091AD63E143/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/09F243C3-728F-47C3-B807-F1B480014C2E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/39338B8F-FEA7-46A6-9A04-F4A4C629F352/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/B2F821AC-F98D-42CB-B6C7-F548AB4353FD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/AA0F1A8A-2F3D-463E-B3AA-F816FC5A84D6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/203F5DB7-C8E0-48A4-909B-05609F0A40A3/resource/033DBC44-A68B-4A2C-8ED4-F860C72302DB/download"
+      ]
+    },
+    {
+      "id": "8659",
+      "name": "消防安全設備審核認可產品",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D45FC864-4B06-4CFD-B4AC-37BEBB5D9893/resource/C0F9A40C-C30A-4042-B9F3-B705DF0A255B/download"
+      ]
+    },
+    {
+      "id": "31979",
+      "name": "避難收容處所點位圖資檔(台中、台東、澎湖)",
+      "format": "kml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/11006F2F-12AB-443C-8B2C-BB44B1A17EC3/resource/8E28B0DD-EA24-4D53-BE79-818679A47EDD/download"
+      ]
+    },
+    {
+      "id": "77141",
+      "name": "自來水相關機構災情通報表（災損部分）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_E3.json"
+      ]
+    },
+    {
+      "id": "77142",
+      "name": "土石流警戒區發布情形通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_C4.json"
+      ]
+    },
+    {
+      "id": "77143",
+      "name": "警戒區域劃定通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_A2.json"
+      ]
+    },
+    {
+      "id": "77164",
+      "name": "公用天然氣事業災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_E1.json"
+      ]
+    },
+    {
+      "id": "77137",
+      "name": "緊急醫療救護通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_D2.json"
+      ]
+    },
+    {
+      "id": "77180",
+      "name": "加工出口區災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_E8.json"
+      ]
+    },
+    {
+      "id": "77182",
+      "name": "交通災情通報表（道路、橋梁部分）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_F1.json"
+      ]
+    },
+    {
+      "id": "77200",
+      "name": "農林漁牧業產物公共設施災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_C2.json"
+      ]
+    },
+    {
+      "id": "77343",
+      "name": "災情通用通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_K1.json"
+      ]
+    },
+    {
+      "id": "77351",
+      "name": "交通災情通報表（港埠及海運部分）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_F4.json"
+      ]
+    },
+    {
+      "id": "77354",
+      "name": "教育部各級學校、社教館所災情通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_G1.json"
+      ]
+    },
+    {
+      "id": "77356",
+      "name": "交通災情通報表（救災準備之人力、機具）",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_F8.json"
+      ]
+    },
+    {
+      "id": "77861",
+      "name": "出動救災人員及裝備通報表",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/ERA2/OpenData/ERA2_A3.json"
+      ]
+    },
+    {
+      "id": "77863",
+      "name": "撤離區域劃定清單",
+      "format": "json",
+      "urls": [
+        "https://portal2.emic.gov.tw/Pub/EEA2/OpenData/EvaculateArea.json"
+      ]
+    },
+    {
+      "id": "170544",
+      "name": "山域意外事故救援案件",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/418AD2A1-5EFE-46C3-A741-23685A4C1321/resource/4F7AE69E-F9C6-4136-B580-167B53D93B50/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/418AD2A1-5EFE-46C3-A741-23685A4C1321/resource/0E5B297E-B1D6-43E7-9074-3C4EC8886E32/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/418AD2A1-5EFE-46C3-A741-23685A4C1321/resource/97D01EDC-6E6D-45D9-85BA-578A10F04E23/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/418AD2A1-5EFE-46C3-A741-23685A4C1321/resource/BA813B98-9B20-4CFB-8A0F-647022D1C894/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/418AD2A1-5EFE-46C3-A741-23685A4C1321/resource/F6C49495-24D8-4E1A-8408-8F30F9FE6424/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/418AD2A1-5EFE-46C3-A741-23685A4C1321/resource/821C0A00-6ECE-41F9-8A60-9E52EF92CDB6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/418AD2A1-5EFE-46C3-A741-23685A4C1321/resource/22871F28-B503-40A2-AB18-FE5C074E59BB/download"
+      ]
+    },
+    {
+      "id": "145037",
+      "name": "內政部消防署高雄港務消防隊會計月報",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/69C4D846-C657-4771-9C4F-D76C9D6B60A0/resource/FA6C31E4-59BF-4C3F-8700-0097B2E22F63/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/69C4D846-C657-4771-9C4F-D76C9D6B60A0/resource/16E5E517-E7F3-4598-8757-01B5C369C11A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/69C4D846-C657-4771-9C4F-D76C9D6B60A0/resource/4743C736-D9ED-48AE-A9F8-71B76F0BFC30/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/69C4D846-C657-4771-9C4F-D76C9D6B60A0/resource/D8BFD73E-D4CC-4F6B-BA5A-C60D8362DC81/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/69C4D846-C657-4771-9C4F-D76C9D6B60A0/resource/0F83A87C-B980-4BEE-B4B0-E0BB2EB097C0/download"
+      ]
+    },
+    {
+      "id": "147055",
+      "name": "108年至110年山域意外事故救援案件清冊",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F567A3DE-7662-4C4D-A819-F3F4CF3491AA/resource/5FAC61EB-44EB-42F1-9BBA-D184D6C6346C/download"
+      ]
+    },
+    {
+      "id": "175654",
+      "name": "114年鳳凰颱風中央災害應變中心_工作會報暨情資研判會議新聞稿",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C45A99F5-3F08-4949-8660-C3332831E2AC/resource/C3A8C018-B64F-4B0A-9E2F-5D8DAD67EB56/download"
+      ]
+    },
+    {
+      "id": "173934",
+      "name": "111年中央災害應變中心開設期間災情案件資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1BF4AAF7-FF67-451D-849C-7DEF64E35C3E/resource/642C41B9-C68E-4C34-9FAB-094866B6CD81/download"
+      ]
+    },
+    {
+      "id": "173984",
+      "name": "全國消防機關員額統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FE0A2926-E851-43A5-B705-A81E8C10CC8F/resource/00FBFD4D-E618-40E9-96C4-AFC2998A3916/download"
+      ]
+    },
+    {
+      "id": "173970",
+      "name": "消防人力(年別)按年齡分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E53CF3F0-2435-4EE6-957B-BE5B00BBFAA5/resource/77093324-EEAD-4EFC-9B2F-17AA5142F7C4/download"
+      ]
+    },
+    {
+      "id": "173971",
+      "name": "消防人力(年別)按考試及任用分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EE89649D-B981-4068-9B81-F368619CFA01/resource/08B1A9CD-89CA-4E42-8CCB-B1964C29734C/download"
+      ]
+    },
+    {
+      "id": "173973",
+      "name": "消防人力(年別)按性別分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/80B5252A-D67A-4F5A-BC33-A4418CA710B2/resource/83101DC5-112D-4154-AAA6-EA9392B864EF/download"
+      ]
+    }
+  ]
+}

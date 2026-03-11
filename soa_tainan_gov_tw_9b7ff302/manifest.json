@@ -1,0 +1,379 @@
+{
+  "type": "dataset",
+  "provider": "臺南市政府交通局",
+  "slug": "soa_tainan_gov_tw_9b7ff302",
+  "datasets": [
+    {
+      "id": "9531",
+      "name": "大台南公車站牌資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ca24af4a-872d-46b2-8e14-dee731c6147b"
+      ]
+    },
+    {
+      "id": "53305",
+      "name": "臺南市車輛委外拖吊路段與件數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/af473e30-9b38-4c5b-846a-c46a3aaa3828",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/af473e30-9b38-4c5b-846a-c46a3aaa3828"
+      ]
+    },
+    {
+      "id": "53365",
+      "name": "臺南市計程車業者資料清單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d4251d0e-d6e6-4ab7-9b10-ae17142aa6b2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d4251d0e-d6e6-4ab7-9b10-ae17142aa6b2"
+      ]
+    },
+    {
+      "id": "53592",
+      "name": "臺南市各行政區現有認養及代管空地設置停車場明細表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2949d6be-4a40-4ac1-af2c-945fd634a5c2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2949d6be-4a40-4ac1-af2c-945fd634a5c2"
+      ]
+    },
+    {
+      "id": "53555",
+      "name": "臺南市大客車行駛應特別注意路段",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f0b80a54-c614-4ded-bd21-19ded9470cab",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f0b80a54-c614-4ded-bd21-19ded9470cab"
+      ]
+    },
+    {
+      "id": "53568",
+      "name": "臺南市車輛行車事故鑑定覆議案件分類統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3249837c-fdf5-4a60-abf5-d7b8ea53c366",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3249837c-fdf5-4a60-abf5-d7b8ea53c366"
+      ]
+    },
+    {
+      "id": "85849",
+      "name": "大台南公車定時定位資料（A1）",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d1a86b51-4424-4ca1-b630-3d9b4d571bb0"
+      ]
+    },
+    {
+      "id": "85852",
+      "name": "大台南公車路線站序",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5211bd3d-4a45-4b1d-bcb0-60ca7fecb797"
+      ]
+    },
+    {
+      "id": "98697",
+      "name": "臺南市拖吊保管場資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c561ec43-6de6-4add-a34b-bb2fef5e4dbd"
+      ]
+    },
+    {
+      "id": "102305",
+      "name": "臺南市行人專用時相位置與實施時間一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/fce53714-0761-41e5-9c84-7e86b1250713",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fce53714-0761-41e5-9c84-7e86b1250713"
+      ]
+    },
+    {
+      "id": "102306",
+      "name": "臺南市機(慢)車優先道",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c4d54a25-2e82-4492-a50c-f95c7f643737",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c4d54a25-2e82-4492-a50c-f95c7f643737"
+      ]
+    },
+    {
+      "id": "102771",
+      "name": "臺南市路邊身障格位資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/395af808-6e7a-45e4-a27f-be4222d0a1bc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/395af808-6e7a-45e4-a27f-be4222d0a1bc"
+      ]
+    },
+    {
+      "id": "102773",
+      "name": "臺南市公有收費停車場",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/24b8d897-7971-45f9-8489-b4918ee41ed7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/24b8d897-7971-45f9-8489-b4918ee41ed7"
+      ]
+    },
+    {
+      "id": "102777",
+      "name": "臺南市禁止遊動廣告車輛停放路段",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/149989e6-ab67-49a6-b52e-d44097dd9cf8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/149989e6-ab67-49a6-b52e-d44097dd9cf8"
+      ]
+    },
+    {
+      "id": "149377",
+      "name": "臺南市市區汽車客運業營運概況",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3999560a-d2e0-43f7-b95a-1f1ea6ca9eb1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3999560a-d2e0-43f7-b95a-1f1ea6ca9eb1"
+      ]
+    },
+    {
+      "id": "138807",
+      "name": "臺南市卸貨車格明細表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d19cff8d-12b5-48ba-b45f-ad8bcf745290",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d19cff8d-12b5-48ba-b45f-ad8bcf745290"
+      ]
+    },
+    {
+      "id": "166138",
+      "name": "臺南市車輛偵測器(VD)位置資料(靜態)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dc2fc7c5-7ecb-479a-b46d-708d31bbf468",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dc2fc7c5-7ecb-479a-b46d-708d31bbf468"
+      ]
+    },
+    {
+      "id": "176787",
+      "name": "臺南市行穿線圖資",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0217cb6c-f96d-4a77-9b75-9f75fb2c057f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0217cb6c-f96d-4a77-9b75-9f75fb2c057f"
+      ]
+    },
+    {
+      "id": "172565",
+      "name": "臺南市交通管制公告",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f3407828-55c5-4116-9040-8f5740d55fd9"
+      ]
+    },
+    {
+      "id": "79979",
+      "name": "臺南市計程車業者叫車資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/79c3f6a9-3ba5-426d-96f1-c16891d408fb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/79c3f6a9-3ba5-426d-96f1-c16891d408fb"
+      ]
+    },
+    {
+      "id": "85855",
+      "name": "大台南公車路線資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/affec63b-2a59-4cb7-af89-87f0b9b5fe50"
+      ]
+    },
+    {
+      "id": "53570",
+      "name": "大台南公車轉運站資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/14f91fad-b600-41e5-b077-64b00701617b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/14f91fad-b600-41e5-b077-64b00701617b"
+      ]
+    },
+    {
+      "id": "53584",
+      "name": "臺南市自行車道資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ee496500-6027-4837-b63a-c4e65d66a55c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ee496500-6027-4837-b63a-c4e65d66a55c"
+      ]
+    },
+    {
+      "id": "53402",
+      "name": "大台南公車運量資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d3e854e6-8c5d-4091-a09c-efccf4fb1c8a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d3e854e6-8c5d-4091-a09c-efccf4fb1c8a"
+      ]
+    },
+    {
+      "id": "53594",
+      "name": "臺南市自行車停車架設置資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dd07b034-0859-4ccd-9635-c23a85306f52",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dd07b034-0859-4ccd-9635-c23a85306f52"
+      ]
+    },
+    {
+      "id": "102770",
+      "name": "臺南市路邊停車收費路段格位資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7e2b9b87-6d0a-472b-8de2-d3db3c60177f"
+      ]
+    },
+    {
+      "id": "102772",
+      "name": "臺南市停車場即時剩餘車位資訊",
+      "format": "json",
+      "urls": [
+        "https://parkweb.tainan.gov.tw/api/parking.php"
+      ]
+    },
+    {
+      "id": "102774",
+      "name": "臺南市民營停車場",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3d9abc60-8192-4e8a-9c75-3d14ec979ddf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3d9abc60-8192-4e8a-9c75-3d14ec979ddf"
+      ]
+    },
+    {
+      "id": "102775",
+      "name": "臺南市公有免費停車場",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d7349de7-2260-436f-afcb-6699373f0460",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d7349de7-2260-436f-afcb-6699373f0460"
+      ]
+    },
+    {
+      "id": "166139",
+      "name": "臺南市車輛偵測器(VD)位置資料(動態)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3959182e-1d45-4f6f-9467-6530e8680855"
+      ]
+    },
+    {
+      "id": "166141",
+      "name": "臺南市資訊可變標誌(CMS)面板資訊(靜態)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1a51af9b-f6e3-43f1-9189-9157cba32356",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1a51af9b-f6e3-43f1-9189-9157cba32356"
+      ]
+    },
+    {
+      "id": "53593",
+      "name": "臺南市車輛行車事故鑑定案件分類統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f7091743-fae3-42dd-93fb-03d662a280d9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f7091743-fae3-42dd-93fb-03d662a280d9"
+      ]
+    },
+    {
+      "id": "53589",
+      "name": "大台南公車業者資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a5477e9-65fe-46fb-8d93-7f0f605615e2"
+      ]
+    },
+    {
+      "id": "53554",
+      "name": "臺南市大客車禁行路段",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/400acb2e-bd37-40f3-9365-0ec906c1eff3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/400acb2e-bd37-40f3-9365-0ec906c1eff3"
+      ]
+    },
+    {
+      "id": "103149",
+      "name": "臺南市交通意外30天內死亡人數及受傷人數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ecb76358-b20e-49d2-8bd4-a65822670c0d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ecb76358-b20e-49d2-8bd4-a65822670c0d"
+      ]
+    },
+    {
+      "id": "85846",
+      "name": "大台南公車車輛基本資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d2c419a4-bda5-4efc-a9b5-aa8eb3b48880"
+      ]
+    },
+    {
+      "id": "85847",
+      "name": "大台南公車預估到站時間資料（N1）",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dc7f0dc8-88e1-4cad-981f-a95668f21d95"
+      ]
+    },
+    {
+      "id": "85853",
+      "name": "大台南公車每日營運時刻表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/05258cbc-5f5b-4f1e-b8b9-9a58db6bc1b3"
+      ]
+    },
+    {
+      "id": "79978",
+      "name": "臺南市交通號誌(路口紅綠燈)4G_WiFi點位資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3bf1de50-11d9-455b-9fc7-9f1bc6dcd9b8?limit=1000",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3bf1de50-11d9-455b-9fc7-9f1bc6dcd9b8"
+      ]
+    },
+    {
+      "id": "149375",
+      "name": "臺南市計程車招呼站設置地點",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8553237e-2a04-4e26-b479-66ba98da4f74",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8553237e-2a04-4e26-b479-66ba98da4f74"
+      ]
+    },
+    {
+      "id": "166140",
+      "name": "臺南市路況攝影機(CCTV)位置資料",
+      "format": "json",
+      "urls": [
+        "https://trafficopendata.tainan.gov.tw/opendata/json/cctv/latest"
+      ]
+    },
+    {
+      "id": "109911",
+      "name": "臺南市電動公車資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dcef6d36-12ff-4eeb-8fdd-7290095e06bb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dcef6d36-12ff-4eeb-8fdd-7290095e06bb"
+      ]
+    },
+    {
+      "id": "175044",
+      "name": "臺南市資訊可變標誌(CMS)面板資訊(動態)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ccd2b402-2987-4143-85fa-7b4e533cb661"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府新聞局",
+  "slug": "newdatacenter_taichung_gov_tw_9888ca1b",
+  "datasets": [
+    {
+      "id": "85742",
+      "name": "臺中市有線廣播電視基本頻道收視費用上限",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/087b3976-d17f-4c9d-9064-09d1d3cb13c6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e4344678-64a7-43cd-a4d9-60c97cd1b8e2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e5bbf14b-aed5-46a2-8cfd-14b2c92924b5"
+      ]
+    },
+    {
+      "id": "84998",
+      "name": "臺中市各電影院名冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/90fb5160-2b41-4a26-abc0-5422c1954ffe"
+      ]
+    },
+    {
+      "id": "84997",
+      "name": "臺中市轄內各有線電視系統經營者資料",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/35f061ee-a32a-4cb4-b8dc-1b79287e587e"
+      ]
+    },
+    {
+      "id": "89198",
+      "name": "11041-90-01-2 臺中市電影片映演業查察統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6da918c4-6d0f-48d3-a281-d1ea14d0aa81",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=afcca320-940d-4370-a747-ad58798c68ab",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d0bf232c-20f0-466e-9755-2adbc284d52f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aaf077e9-5087-4b87-b6f7-b4421a87d897",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ebb3e544-caa0-477c-a2e2-e8f993c045cd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1267df45-fd2d-4154-ac66-ff3fb689696e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=371b0d86-b81c-46e7-80b3-b9dbd909a3c5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3a7702c7-6d0f-411c-aeaf-a2c216f24728"
+      ]
+    },
+    {
+      "id": "89199",
+      "name": "11042-05-01-2 臺中市錄影節目帶查察取締統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ab618ae-0a1d-470a-999e-33cf2d5ecd42",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4c62d03e-f9c3-4cee-a23c-88fc99c96d16",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=29bc8b7f-5b9c-446f-8215-99ed2a9dd22e"
+      ]
+    },
+    {
+      "id": "84939",
+      "name": "臺中市有線廣播電視系統分期(擴增)營運收視費用標準",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/19cbf645-859b-4690-8887-e190b0df4278",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/58870bce-bee5-42dd-9e42-6fce48685f0f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f9e61660-56a3-4dc3-8fc4-688129980624",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/57e2c81e-623a-499a-a317-d66a30ad231b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6f5a31b9-0da0-4d3b-aa45-f7d7c058e02e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dee481f7-0047-4c15-9f7e-511df76bbf7e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/672d8425-0e5e-4091-906b-81547d94125c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b9cf7fea-d25c-4add-a9c8-a6341c88f5c8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e13eb229-8d80-4b74-9162-251f4a3745d2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/87ef86b1-5ad9-4b25-8edc-8d6fcc56b985",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b34802e7-658f-4d14-abf4-08df066778cd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b9656aad-7c45-4077-af0e-1cee36d05cc7"
+      ]
+    },
+    {
+      "id": "94118",
+      "name": "11049-00-01-2 臺中市平面媒體廣告與新聞管理統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a6e8d2f2-bfe7-4713-8108-3a3abb26ccbf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8d48c303-2e85-49e9-9e5d-031962999881",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b89dc97-6aaa-44b2-9861-2dddee680e46",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d6e26c1-ac3e-4026-a62b-5aa5c8daf225",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=546d6ca3-efc8-448f-b57d-12cf5ea5cc0b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8c8843b0-cd8c-4e48-8067-a3595dd916b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b2934538-f453-4a00-8ff3-8ab2efdf7618"
+      ]
+    },
+    {
+      "id": "117370",
+      "name": "30280-90-01-2 臺中市政府新聞局發布新聞稿則數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9bdaef37-28dd-4fa9-b539-288ef1c71ed1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=60fc2061-d849-4a15-aa9b-a8ecff7bc08c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1739851d-e792-4616-b247-668e436e58dc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c83f2d75-09b9-4fb4-bb5f-9113280935cc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=10c11913-f64c-4a77-bf6a-6fc4758e8e4e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=202c4c3a-bd86-463f-8876-8173ecfd75a1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=719f5e26-b2d8-4014-875d-69ced54d153b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=91598588-918d-4c64-b092-174be69b1ab1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f32717a2-328b-48e3-85a3-5b2ba8ce08a7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fa7afc57-f8b4-4d90-8403-a04b1b7e532b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec417a23-b41c-4e29-8e13-6f3c198abe03",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=93694d7c-a45b-4133-b99b-3135db8c69c5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1e7bbb6a-b088-4bae-924b-d45251cd79d6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9512f68a-d35f-4ddf-abb6-b65da674660d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9703facb-604c-48bd-baa1-984058a3b791",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=84264ba2-097c-4768-a2cf-148b9bc9b8e8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d08ee1f6-0226-49f8-a595-40f90a36cb43",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11240af5-113d-426c-8c5a-25a30a084f71"
+      ]
+    },
+    {
+      "id": "146979",
+      "name": "11049-00-02-2 臺中市政府新聞局協拍成果概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=58edbe83-ef63-4938-960e-f85bfedb34e9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=22e3d965-5384-403c-95c1-d682029f3a2c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=31f8488b-837c-407b-826d-c1d732d42542",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fb31e4a9-41b6-4612-8e9f-acc0e4c00583",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fb645d19-5629-467d-a279-b1eb7da4925a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e0059f5c-7acd-4735-bf2b-686d1fefc665",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e94c9d65-4bbb-47d6-a839-eb076cea5feb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e75926e-d216-47e2-8695-fe4ea10f6903",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d6659451-17bb-4012-ad12-1f4f5ed1400b"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "type": "dataset",
+  "provider": "桃園市政府衛生局",
+  "slug": "opendata_tycg_gov_tw_061b8bc0",
+  "datasets": [
+    {
+      "id": "33751",
+      "name": "桃園市登革熱確診個案分布",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/04606196-26f9-4e50-b33e-0ad664201604/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/4c9388bf-8875-408f-849e-c482f7149683/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/6b85a74b-0ea2-47e3-9b23-492f45fb8c59/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/948c8e74-964a-4ca2-9a65-5e8f808323b6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/2bd2d972-41ab-4466-9f37-ebe7919a8abb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/09aad107-46c7-491d-ab7d-7cd205b263ea/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/251a75e9-ff93-4bbc-ae1c-e7e781ca02c9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/38fa0260-606f-4f1f-8e55-c1ae3371c513/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/6b98e87e-54d8-4ec0-9c7a-2e3813e70cd6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/f3199f90-ab95-499d-a478-407d0dbd459c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00405ad6-f02a-4bf5-85ac-dca2fdac822e/resource/c4fb0d5e-0ed0-4d10-9d92-10e8a097c021/download"
+      ]
+    },
+    {
+      "id": "33753",
+      "name": "桃園市13區衛生所精神照護聯絡窗口",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/86e31be1-df9e-4c5b-a764-6173003a7be9/resource/f4607602-73fd-488d-9b1e-3be5b7e9dd7b/download"
+      ]
+    },
+    {
+      "id": "33870",
+      "name": "桃園市友善特色藥局名單",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/7c80a48f-a3eb-446f-8d20-50d5b7a1e0da/resource/2cb206f2-3fb2-42d9-9820-f3291f6bc35c/download"
+      ]
+    },
+    {
+      "id": "46327",
+      "name": "桃園市失智症相關資源轉介窗口",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/aaa4e4bb-0891-4164-8fd1-f17f63c8c344/resource/11708620-e54a-472a-9be7-e4f3ba8b747b/download"
+      ]
+    },
+    {
+      "id": "76742",
+      "name": "(桃園市)捐血中心固定捐血點",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/8ace9245-d02f-42f4-90cf-b3dea948c1e4/resource/0d2aff6f-0ebb-4834-ae90-50a87ed90f12/download"
+      ]
+    },
+    {
+      "id": "127365",
+      "name": "桃園市藥物廣告審查件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/d463663d-bfc8-437c-ac59-1988176be6c2/resource/94ff5b53-4554-4bf5-b544-1941b68dc4ae/download"
+      ]
+    },
+    {
+      "id": "128335",
+      "name": "桃園市身心障礙類別、向度之鑑定醫院名冊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/628c2789-10f8-4c73-bafc-58dac276fa6f/resource/a2b6559b-9265-4854-b1be-97c0f8cde3a6/download"
+      ]
+    },
+    {
+      "id": "128336",
+      "name": "桃園市身心障礙者醫療輔具評估機構一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/ad674512-04d1-4efc-aaa1-982bdd86abea/resource/c0e3e19a-22b2-43ef-b28a-c4c0b9d0f919/download"
+      ]
+    },
+    {
+      "id": "94332",
+      "name": "桃園市喘息服務提供單位",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/7ae18138-74f9-4ebb-8b7d-f03d9ddb1ef5/resource/0b949cb1-bfc3-4d02-8474-35e42a932643/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7ae18138-74f9-4ebb-8b7d-f03d9ddb1ef5/resource/b7c16660-f7ac-4bb6-b639-9c795581f160/download"
+      ]
+    },
+    {
+      "id": "94368",
+      "name": "桃園市居家護理所",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/fe4cda8c-181c-48e2-958e-4c9b2d75729c/resource/5886d976-c08e-4afd-8c87-46e47ed60261/download"
+      ]
+    },
+    {
+      "id": "142700",
+      "name": "桃園市精神復健機構暨精神護理機構",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/e548e121-a696-4fbf-b92d-a7108c8f1d31/resource/de704913-1f8a-49dc-9c3a-b01a151d544f/download"
+      ]
+    },
+    {
+      "id": "149640",
+      "name": "桃園市身心障礙者健康檢查補助計畫醫療院所名單",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/c8edf32c-107b-4bce-8980-04c633f0365e/resource/0fd2f7b2-68f2-49cd-bdf7-f84c4d154488/download"
+      ]
+    },
+    {
+      "id": "140059",
+      "name": "桃園市心理諮詢面談服務據點",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/c8e38836-4db7-4e43-917c-2b321c993995/resource/52971494-6607-4398-9d82-5e7b1e28596c/download"
+      ]
+    },
+    {
+      "id": "168537",
+      "name": "桃園市政府衛生局食品標示違規案件調查結果每月統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/2b427f2c-6fae-410c-876c-769ab3ac3832/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/dd36ac18-5669-435d-a085-2359afa47b25/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/b1b05b00-dccb-412a-8251-f0567b4b6132/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/8a05ac25-8440-476a-81cd-13d12c8ee207/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/0d64bbe1-c6d0-479e-b51b-1a46cdce9c7c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/3eaf0edc-cae8-476e-8076-fc0df614fe6f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/c16ca69f-445e-4260-9645-007afde8dff3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/817490d0-893f-4319-bab8-f85d11254b85/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/4d2e881a-ab2b-477b-8e84-0a6c6c60b558/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/b6a44809-36b3-4af4-99a9-b29cf692496a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/23f2f6c1-10c5-4456-b6e5-dddbc52f3f0b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/95a931cf-4bb2-45cb-b62c-f8105b10915b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/4a3f2da6-fd3c-4790-98ef-29a5a1f726e0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/6de42566-a653-4978-87bd-633b23af97d8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/485b620e-2f48-4b90-84ec-2d4d2d86188e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/1e44948e-fdd9-486f-adb3-c7a6f850b911/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/cb8c0de6-d2d9-4bf8-ab77-2a96923eb6c8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/65b0681a-0075-430f-9708-b86c31ca6310/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/41acfc53-30a3-4229-a118-967960d44a2d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/35073f80-3722-4a62-b1df-75336e42ce24/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/c64a0fe0-a493-4b0f-b70b-2038ba79c21b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/5254fb71-5d6b-491e-a454-a05acc2ea970/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/0eecc3ac-c2a0-4ba4-8926-4ce2a7d339c2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/0337f0d3-7dbc-4147-9f0d-bfd56f27a96e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/88ced8fa-8b76-491f-be5d-aeb5de8295b8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/b0891e10-c531-4913-9cac-34d70d6b527b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/7b1697b8-599f-4504-9452-d71b6f95a463/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/e4ce25df-775f-42ae-88e5-93f36de3795b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/ff5cb27f-9b51-4af0-b0a8-66c6c1e6555a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/4435eee9-2715-4e61-9650-6f816a5c44bb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/73497ecc-1312-4096-8e3f-6f94cf3e64e8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/6736a8e9-84f1-459b-83f1-7c14e3fb2ebf/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/67f932e2-1456-4a3f-8dd9-f7bfde9dafba/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/fad4548b-2c26-4d62-b7d9-efe99170d573/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/f8e09d07-f123-46cd-a03d-32dcb580cada/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/d1ebe878-c747-4043-ae8d-13343c7ee397/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/6cd16e44-cdb9-4c6c-bea1-26db052818c1/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/e684a530-c02d-4cb8-a8ef-fee002a8a4b0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/d5cfc233-3c9f-4054-9582-47646b662e37/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/ef7419dc-21ff-4a0a-ab0e-dd3a4c390a7a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/13f62dcb-cda7-4bbc-8d12-5d4f8310faa9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/8f25cd51-4a26-4c88-9b7d-52832ea2ac37/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/b60227ec-111e-4b18-90ec-5a32bd6deda2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/3f853ef4-1219-42e7-8f30-caeb6bbdd602/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/a8f65126-3d79-4e18-ad74-ca72c5544a97/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/f3a9c8fe-562a-4ba2-8437-a698e7b52a78/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/ed7d47ca-fd1c-47a1-bbfa-571d5df30ae9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/fd412f5c-d738-42ea-948f-5cddb68e8557/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/6b08a1b1-bcdc-402c-92b2-3f8bdc54d149/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/3d1d7c29-f1ff-4f13-b8fb-9c5833b9c0bf/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/9234c8b9-2531-4043-aa90-228a687298dc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/5bef7b47-516a-4321-bb54-0c6f8879bacc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/e9583e46-b28e-4f7c-880e-ee30182ccc6f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/8c943dbc-9dc5-4ec0-9f03-e4983ce1a4cf/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/1897eefe-3779-40af-bcd9-89e3d7076411/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/dcca610c-d736-49eb-a733-6f5390188a01/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/86cbd917-5a5c-4380-8d32-c34a6ecec4eb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/6cbc4808-5431-4e15-bb40-95b4d0dbfbe3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/56f76f25-9ac8-4e6a-a06e-7b5e11f04408/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/532db55c-b100-4750-ab43-18894c4ca27f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/e789142f-ebe3-4cf8-bfef-31b1e9239e80/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/602fc6cf-e667-4b20-8bb9-bc0ae79d58ee/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/952132ca-7e02-4b10-9372-184dce761120/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/7865f54c-91a2-4462-a634-c8f0352be524/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/a59eb1af-d37f-490c-8251-d3edc6a66e93/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/e93b211f-84cd-4d49-9ec1-b0f7840210f9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/b3c78fb1-8801-44bb-9c83-d16cbdc2087b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/1c3a6a8b-21ee-42f9-a29b-9789b397e353/resource/62cb22ea-d582-4d96-a185-c1e837bf4261/download"
+      ]
+    },
+    {
+      "id": "168539",
+      "name": "桃園市政府衛生局食品廣告違規案件調查結果每月統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/f8aa1e62-7dc9-4a72-9713-c0d419f29754/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/637764d5-c613-4598-80b4-ff896ce941d0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/caa9c4fa-084c-4046-bb47-69137394f017/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/be57f84f-fdb8-431c-be01-7987230c5ab2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/45527675-6624-4c4e-b0ea-e136a5e243fd/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/5328e7bd-cc43-4784-a443-085a607583b9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/a278e8eb-674b-4611-baa5-88055875a7e5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/9aae2a61-9cc1-4f33-87c8-972c786d074a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/7e3a7d1a-1f58-4799-a3a4-d30f1d4d3bdf/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/16c3e602-0162-4738-942d-6605a31e3a4a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/bb71d6c6-385e-42e1-bb15-4be6fe6de483/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/dc56124b-9540-4082-82b3-d1cce4abd794/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/2184871a-2639-455b-8eb6-d4630236773c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/421bd332-0e25-43bb-b8c9-5cd735a8c6ff/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/9a923ccf-6b8c-41d5-b010-ebd349de8feb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/4221c070-5c27-44f1-96a3-68f3d3701f75/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/03233f2b-8524-4022-b7d5-0bdbcc579422/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/3e23a1a5-6c99-4ff3-9e6a-81d19afb7e1e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/133a71ad-6519-4f20-ada6-21ae06d01908/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/027fae7c-a25d-4c9f-833f-33d11b0d9a9c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/fb876258-0dbf-40f6-8c49-58ac48fe6c7e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/fb97866c-6c1e-4429-9967-2452e47a605d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/637938e9-54fe-4d99-8e72-aeb8967ed4bd/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/25112268-7c9d-4166-bd0f-ce5db0b8d669/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/c7acd3ea-d866-4be0-975b-7a5174494be7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/6a3568c1-93dc-4fef-b820-6c490402ae9d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/fb3376c9-059c-4750-ae67-d2c2f0d43ba5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/bdd16a9e-a6dc-4763-8995-c1a86d381c05/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/472ffebb-8ce8-4f02-b956-8e983d0a8e4c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/7086ace2-cf0a-4452-af8d-fbe9eb21554a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/22db8a3f-6db3-44be-aa52-ce6e770b9dc7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/fbac2826-d3fd-4731-8494-7a9ad5dd73dc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/574f5edd-26ed-4b60-b9ab-6172d3012a2d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/a16a2c1c-df05-4438-8f27-7e92513f2c7e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/c2ffa6dd-1407-47e2-9e09-723805492734/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/e1f7070a-b93a-4247-a8f9-1ebb424b762a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/0103b729-4d4c-4fb9-91e4-49e810b7640e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/01186509-ea0f-4436-845b-ad632f31621e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/0bcba879-2ce9-49b9-bd30-27a3781c6b83/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/1ef8c6f8-4ce9-40ba-a95b-9035ff48e1a6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/475adc54-a340-46ee-a20f-75541e83f60a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/61d3b5d2-349b-4fac-a68e-cd757b146438/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/13517362-02c2-4dab-adc2-44819f821be8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/5ba8d0d9-2bc2-41f1-9b92-846e0aa4c899/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/c8dda0b1-939e-4332-9bc2-92119bc6401f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/4d0c3001-67bb-41a2-84ab-7e8b2caef563/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/40e9119d-7773-4460-a8fe-f2fd594744a3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/22432da1-5874-4220-aef3-da82ef6ff2e3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/bc20c4e8-60c3-460d-8cd7-ef14fb457a5e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/e418987d-0078-4ce8-a6d4-2f188c489125/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/ad2b368b-4430-4d24-89f9-def01bb7d6ab/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/a640d383-4632-4af0-824e-a664d9375bbd/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/160b8e70-d485-47a8-9fab-6b29e3615b63/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/47fa4641-a589-4509-a8c0-3ea5d5c17690/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/f6a2101d-c93a-411f-98b4-a8e83c89b601/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/d38d403e-3454-4704-9ee1-e781ceab5686/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7944f131-fc96-43ff-a920-adbf3cef3977/resource/1165e6a6-f7db-4243-a543-af9ee1bc6f44/download"
+      ]
+    },
+    {
+      "id": "168689",
+      "name": "桃園市政府衛生局食品抽驗不合格名單每月統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/6e9d57f4-aa6c-4b01-9d7f-2f7059e4e645/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/3f652de9-9f5f-4807-af24-d81246b5535a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/935cefc3-3b09-421f-8dce-798a8dc5b350/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/41f5fea9-fffa-4589-b552-bd158bb9b462/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/8e98fce7-2b5d-4537-8237-af3b1b4d9b74/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/f18e07a4-3990-49c5-a031-805a38d7f8af/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/692b1373-332c-439b-ae9d-d93a0978a7e9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/9f090173-14f6-4643-b5d4-6d23188a4a9a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/897b6e92-f4f7-407a-b9b1-1b4d1add5b5b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/6e982ee7-8ac2-4784-ba2d-1593aeffc94e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/dd4cd7c0-0d12-4616-a48c-d7ce21a0d111/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/768ecb28-c8c6-4f5d-83f0-686f0ac0ca80/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/18bc3ea5-3aaf-4f20-82ba-e57d900aa21c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/0cf9c7fa-713c-48c9-a69e-63905d49889e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/ee358ee0-ef89-4fcb-8290-4567bc24c494/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/52d400e7-49d4-4c35-a112-b754bb06069f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/02bbf143-0229-4d2e-9f19-e01ac71e4330/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/fcd6e391-8c31-4fd4-b695-15c4297bd8f2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/8d388dc2-501a-4195-a1e8-c15d52ffe721/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/e5c72b07-c88f-4323-949c-c5aea15a2a6b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/0cb00ea9-5051-44cf-9cb7-ee59069ac04c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/61325b79-2458-41cc-8f00-e81f2899691d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/ea542139-82bd-4b44-b04b-68da010ac303/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/043180b4-9e71-4bab-97f3-8fcd3fe68b1e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/052860fd-3d82-4b02-950e-936f95395397/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/c63d4520-fe03-4664-a6e8-761a1950323b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/10fd4aac-125c-4522-bf09-c5cc78f7870b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/668a66b9-23b7-49a0-a889-2a44e2d7782e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/6ff6e411-d029-41fe-8303-5c4feedae75e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/e1c3cb31-06e2-49da-a712-990ee293fe3d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/667fa1b1-29be-41a4-b2c1-382029edc4b8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/7236e8e9-6901-4b52-8614-5058d0266d88/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/e749b9cb-6ea8-40f9-9c8d-98443d91dee0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/ef76dc2d-c821-4308-9809-7ce0e6f14250/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/a92e9e6b-b200-4513-8c2e-eb5339d8850e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/49358dda-ff9f-4db3-a67a-37f9823b405f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/2919f77c-6f47-4187-be66-5e4f9a6ef22e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/5e03e22a-de6e-4cc4-9d9f-a658af19aae9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/eaefeaaf-505e-4180-bcc9-55908a7c140a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/da1fcb52-5181-411d-8c86-db6edf34ddb9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/a1306f7f-e381-4a4d-a1c2-f0c5a013780c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/9622771e-5f59-4a61-b6bb-59ce1ade0017/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/ad484d76-14d4-41b2-8c6b-63a45d4d0ca2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/f0c9ba47-b0ee-4e84-9c85-eb89cd33933d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/59dbc153-17b7-489a-8bf2-851a8647a0a8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/206fc1c8-600b-49ac-b423-c870144e53f8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/7e3a509b-c8d4-4d00-999a-cbc782e36dcb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/01028aac-a20d-40e8-bca4-b37b025de575/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/550c4c8c-fc62-4ec7-881a-e0fcfd7c2fcb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/7f33840e-4025-4a53-aed8-d22ca83b6a36/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/17cf4f4b-6d39-4af1-91a9-3e10e9769dd6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/4f73cb43-3262-4f28-af9a-61f67a13dd4b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/46883790-330e-4b24-8a06-1e9f94c0f55f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8834c6c9-92ac-4733-a861-91408b7611dc/resource/13984432-33e4-47f5-9243-0c5e5d8afc48/download"
+      ]
+    },
+    {
+      "id": "168690",
+      "name": "桃園市政府衛生局食品抽驗合格名單每月統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/2a51261c-0988-43ae-a6eb-840070376f73/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/a0f4d568-dcf4-4822-ae3d-448aed4a7a23/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/9b39a122-29dc-478d-976b-490146d30ccf/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/2a8277ee-0472-4a66-abfc-5a7ab825334d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/72e63b0a-20cf-40fa-8d30-d38fddeeec4c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/0317ceb2-d16b-4274-96ee-0a363eb2f0c2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/3faa13c2-e23f-4cfa-bb07-972ce88a7b6c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/f314bd3e-7878-4e31-8d79-461d01d99f51/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/6f9e1c6f-3b13-42c5-bfb7-ba582e3ec819/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/92e3fb28-496a-4746-b669-5d33ecc9d71f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/4b15f542-8332-41ae-b1b7-6c23099cb71c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/42f69fed-9edb-4b9c-a8a1-442745f6f6b2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/4813668b-e2d6-4923-946d-4ae0738f923a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/2ff670e4-1d88-4007-ad88-544f9bf121bc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/b99c639e-b9e7-48b1-ad27-9bd9ead89e7c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/0e4470e8-897e-4207-bd99-e5f89520218c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/6cf881ca-5603-41ae-8b03-eda2ac78b062/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/875a73e7-8a20-436b-a15b-de050451ad50/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/6f4d84ff-4261-457f-964d-34437d6aaf1e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/537c742d-bc51-4029-b34c-c238e541bf5b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/be2770c6-f666-48e0-b5b8-4341aff58028/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/65194f20-8750-41d7-b1a1-af263b84a0d9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/3b80ed14-fb47-4e05-9489-2a3e2cc95a8b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/b8397621-722f-4a79-984d-b34ec066e880/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/43207bee-241e-4007-abbb-e94d81cbcd81/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/b16807da-ba1d-4fa3-abba-89d31d7bdd5c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/816b135c-5faf-4538-9e3a-b2828f33cb08/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/781e8226-c72f-4068-b20b-7f915012d21c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/b6a708de-5eaa-4e6f-ba24-24874d6a56d2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/fcae9e0a-4a3d-4beb-8432-a476de7da018/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/d956114f-deef-4db2-8ad9-fb3e21eeb9f6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/65cf4281-9e0d-4dd0-a32b-3f7546738cc1/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/038397e9-39d3-4272-8475-ebf611f6913a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/16a50537-539a-4202-9d12-0e2d049a53a7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/a8820cd3-c2d0-4eb5-b986-0f27bf65a0c9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/438ff514-4db9-416f-81dd-b282678b64f9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/fd016dbe-aa11-4eb7-9782-9fbc66ade5aa/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/73fc1e03-a947-4f5d-8ea1-fb1af48f24d5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/0cdbc07f-445e-418b-999b-3d8d5582788c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/1fa69a35-8956-4a21-a5bf-2a4affafc2c4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/ddde9620-38da-427c-9cbc-65072a432039/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/3c16ca35-89c8-476a-b628-3506247086c5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/b72e84ae-3f68-4b78-af77-59ff7df8a5f0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/02dc0da5-d45c-4d60-b8e7-fed1c41d4003/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/caeb06fa-7c41-4f79-a112-0f767e9a05fb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/70b308fe-bade-456b-9f91-fcd6bc757e88/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/1136e0b2-a565-45a2-8534-277eb01e401b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/9412ddd1-4cbe-4639-ad34-0e7efc57270a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/a7786016-c1aa-4842-8565-ee1136df52d0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/3e03b606-66a0-4d60-b2b9-48b08b1f6604/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/7e0a5629-fb3e-4e07-8ed7-7aa7824cc78c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/b4011d59-6f02-442a-a733-a947c0bdaafc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/692ac1dc-bd6c-402a-b02c-8a7fefa04b4e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/7d27b60f-921e-4450-8fd4-5dc451e0b285/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/59a48ebf-7650-46d0-a1c6-0cd7e1cfca7b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/a748d980-703c-4392-ab15-63528df080e8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/520914a0-73ad-4d2a-8e1b-1edf1541513d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/92270529-338a-4d3b-bb89-bf337ea68e9a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/e9d38608-7d29-4700-83ad-f12d4cfb96fa/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/8107e2ed-a044-4ede-bff7-7ae9c3066093/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b27513db-9988-4b6a-aa50-4b76f69207d3/resource/fcabd4b5-b2a3-4896-ae84-8b50cdbe8ad3/download"
+      ]
+    },
+    {
+      "id": "26091",
+      "name": "桃園市藥商家數",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/f752ce71-5939-4798-8c9b-d9351a9f3921/resource/e6423ef9-9f4d-4e73-8558-f9ead1ab608b/download"
+      ]
+    },
+    {
+      "id": "33872",
+      "name": "桃園市二代戒菸合約醫療院所(藥局)名單",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/ff49141d-7479-4763-8572-4fcee238cf18/resource/5cdc1e84-01d9-4e19-a4c6-0713454cbbea/download"
+      ]
+    },
+    {
+      "id": "33876",
+      "name": "桃園市社區藥局",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/450769ff-1479-4de2-9c8e-3ad9a6b9ae8a/resource/030b91ac-508a-4add-b50c-7971ce498fc1/download"
+      ]
+    },
+    {
+      "id": "34162",
+      "name": "桃園市維持治療執行機構門診時間",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/57007749-9913-4ea6-90cc-6062548a322b/resource/8bcdeca7-6196-41d5-a521-fa74449e1a2f/download"
+      ]
+    },
+    {
+      "id": "46356",
+      "name": "桃園市糖尿病共同照護網醫療院所名單",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/cdc8ad4f-fd4d-43bc-a8b0-24d166cf87a8/resource/971362b1-387e-4e09-a4ef-609a7422b263/download"
+      ]
+    },
+    {
+      "id": "46414",
+      "name": "桃園市愛滋病指定醫事機構",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/f12f9918-29d4-4d9f-b8d6-396ab384d7e1/resource/a4de3ada-625a-431e-92c0-d5f73082eb01/download"
+      ]
+    },
+    {
+      "id": "76748",
+      "name": "桃園市毒蛇血清供給表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/e64b491a-3e9f-4598-bc1f-f9c8e3ca4c93/resource/f8baf9b1-7ce6-4f69-a8ad-32990dd80003/download"
+      ]
+    },
+    {
+      "id": "76751",
+      "name": "桃園市精神醫療院所",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/fabdf5d4-cf29-4f55-b3e3-756346d336a7/resource/ce01540b-7344-40ef-b67f-a1ab1d601fa8/download"
+      ]
+    },
+    {
+      "id": "127363",
+      "name": "桃園市照顧者支持團體活動",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/094cfef2-1c55-4e16-bbc5-00074474e6a4/resource/1a62bbaf-baad-43cc-a945-21cfe2fa9455/download"
+      ]
+    },
+    {
+      "id": "128389",
+      "name": "桃園市一般護理之家基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/6458397c-bf18-48f7-a49f-73f55fccbc5b/resource/d714850d-bf6f-4f75-9901-91df1a878633/download"
+      ]
+    },
+    {
+      "id": "147670",
+      "name": "桃園市急救責任醫院名冊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/3939cc79-9ac6-4110-8b94-6da091c53835/resource/05a3a9c2-9a8f-465a-8be9-05daadde66c5/download"
+      ]
+    },
+    {
+      "id": "142681",
+      "name": "桃園市藥癮戒治及維持治療機構執行機構名單",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/e380fdb6-3964-4483-b29a-092e136f9537/resource/38187219-b5c3-42b8-87a4-be9b19630e1b/download"
+      ]
+    },
+    {
+      "id": "149246",
+      "name": "桃園市提供臼齒窩溝封填牙科院所每年統計名單",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/55310386-21a9-4f96-9776-caf0eb443466/resource/45645d05-5066-430a-aca7-dad5fbeb0f25/download"
+      ]
+    },
+    {
+      "id": "149602",
+      "name": "如何申請長期照護服務",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/5851ceae-d7d8-41c2-9a90-4a3ffedbc239/resource/ccb0f6ef-6c17-4234-904c-f4b49d249fdf/download"
+      ]
+    },
+    {
+      "id": "46235",
+      "name": "桃園市13區衛生所(含診療科別)",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/05586f68-cf21-4d67-aec0-c331b779397f/resource/c46947b4-2853-4bf6-afe0-d2002515e785/download"
+      ]
+    },
+    {
+      "id": "26349",
+      "name": "桃園市遠距健康量測據點",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/952d4f99-1d83-4af4-9a2b-dde0863a711f/resource/3afca674-932c-4879-aa93-1c941709c5b8/download"
+      ]
+    },
+    {
+      "id": "26030",
+      "name": "桃園市長者裝置活動假牙合約醫療院所",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/c0c21e97-fc4a-4b65-aa31-0550b4a007b6/resource/43b2cb7d-5773-48ab-bdff-d81b1a1dee03/download"
+      ]
+    },
+    {
+      "id": "32256",
+      "name": "桃園市轄區內醫療院所診療科別",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/775ba9cc-c711-4a3d-badf-a23aafe7c49f/resource/283a5dfa-44e9-4300-8a7f-22e58ecdf7b1/download"
+      ]
+    },
+    {
+      "id": "33875",
+      "name": "桃園市兒童常規疫苗合約醫療院所名單",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/b6c36fbc-0a2c-4469-b2e9-0301c4e71575/resource/38a8742c-e1cc-4eb0-9df7-0659bed1e94b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b6c36fbc-0a2c-4469-b2e9-0301c4e71575/resource/f1a9c737-f0a5-410e-b81a-e4dd3265cf36/download"
+      ]
+    },
+    {
+      "id": "48985",
+      "name": "桃園市腎臟病健康促進機構醫院名單",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/bc82ae2d-61be-487c-b66c-462f7c311704/resource/a2caa663-50be-48fb-a0a1-74e27b5ac008/download"
+      ]
+    },
+    {
+      "id": "46350",
+      "name": "桃園市長照A級單位(社區整合型服務中心)",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/c41983be-ea11-467d-9f20-141abb607b62/resource/8a2921e9-42cb-4f88-ad08-7c1c91d08ad5/download"
+      ]
+    },
+    {
+      "id": "46276",
+      "name": "桃園市病媒蚊密度調查結果",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/478c61be-ab91-418a-9a63-5b48d50fac01/download",
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/92c7aa81-da6d-4d4d-bc95-46978ca58094/download",
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/9a02030c-f310-4d23-b2a0-1503f3a57a7e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/d2aad1c7-162b-41b4-8c93-804b77df31d7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/f458b7b3-4167-4944-ab4c-36fa4db69e0b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/20656a14-53e9-4645-99fa-467146d648ff/download",
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/92bacf1b-b8c2-4a05-9904-5d283fbf6b5d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/046763b7-304f-4605-bc59-4d49c8ce5a4c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/4653590a-09c7-40ab-b188-4bd27bbd0972/download",
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/81da8103-e6b6-4544-a931-e08d0497b26a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/339a42db-2392-4a94-a710-da942fc5efad/resource/1add333a-55e8-475e-a9ab-78026f3cca46/download"
+      ]
+    },
+    {
+      "id": "45675",
+      "name": "桃園市社區安寧療護資源一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/7d03add1-aef5-4bbf-9b1b-7d601abd43a4/resource/5e7907b0-5418-4c36-9723-b6f786ad5871/download"
+      ]
+    },
+    {
+      "id": "76745",
+      "name": "(桃園市)呼吸照護資源(政府呼吸照護資源醫院清冊)",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/c57f35d2-dd4e-4aa2-b5c9-f74f0a2f50a3/resource/a3a0e03c-3148-477b-8ca1-155584f6374c/download"
+      ]
+    },
+    {
+      "id": "94306",
+      "name": "桃園市長期照護專業服務特約單位",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/2e087011-3a3d-4ae1-9038-19b2f3f43a9a/resource/cc33a2eb-c1cf-47f1-b6f7-d4b37ba4c797/download"
+      ]
+    },
+    {
+      "id": "95645",
+      "name": "桃園市流感疫苗合約醫療院所名冊",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/bf15ff76-10d1-477c-a1ae-baca615c5ca9/resource/9f726ed4-e096-4b4d-9c41-f38d501bca3b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/bf15ff76-10d1-477c-a1ae-baca615c5ca9/resource/3b814ba5-1178-45df-8f3e-06187ad4a8fd/download"
+      ]
+    },
+    {
+      "id": "134543",
+      "name": "(桃園市)桃園市政府衛生局食品衛生檢驗收費基準表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/613a54e0-e478-41b2-9874-26825a83e490/resource/904c938a-1f27-4847-bf20-8d676e6f1753/download"
+      ]
+    },
+    {
+      "id": "149253",
+      "name": "桃園市提供6歲以下兒童牙齒塗氟牙科院所名單",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/80a73ea9-6c1c-47f9-96fa-230ed696c4f5/resource/9b4d363c-df10-4164-8f38-5151965a2f03/download"
+      ]
+    },
+    {
+      "id": "128395",
+      "name": "桃園市產後護理之家基本資料",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/c32c6c5c-8299-4a77-a630-c2e0f93a235e/resource/b2a58c91-9c6a-4c62-b754-76eb29a681d3/download"
+      ]
+    },
+    {
+      "id": "147710",
+      "name": "桃園市提供失智症診療服務醫院一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/9c47f483-3f6d-4b1a-9a7e-7398d609d646/resource/e04e10b7-d27a-4480-9489-ab109f928d7f/download"
+      ]
+    }
+  ]
+}

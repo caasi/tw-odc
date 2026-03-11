@@ -1,0 +1,525 @@
+{
+  "type": "dataset",
+  "provider": "雲林縣政府勞工處",
+  "slug": "ws_yunlin_gov_tw_61add560",
+  "datasets": [
+    {
+      "id": "165883",
+      "name": "雲林縣政府核備勞動基準法第84條之1約定案件數",
+      "format": "xls",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/ff6fefde-fa1b-49a4-8936-a966d124884b.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/fb76c4e0-ac37-4fa4-b2ce-22ba70fc677f.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/bd0d2f6b-fe41-49c2-96d8-0e2f74fcabc6.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/ddfc324b-2159-4bb9-b821-50a6550f1c22.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/41b40ca8-78ad-48cc-b1e5-65ea79283959.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/29e5ad84-2b01-4ac7-a65b-fc87db2e2468.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/d1ff49ca-4694-42d9-8bac-60f42f6d82fe.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/48a0bd11-2a83-4482-98eb-b76d75fb46a6.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/86836e53-15a2-4428-b9ff-e314da8196b7.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/cf3dd239-3076-4411-8913-11dff7f3fa8f.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/dc3bff19-9603-451f-aff3-81c3870eda37.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/fb2de1e1-9285-49af-966c-e0983c988c75.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/10e8695c-5de8-4fac-851f-3146c1076e00.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/f63e824f-7162-49f8-9d87-9c4b54749702.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/f63e824f-7162-49f8-9d87-9c4b54749702.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/10e8695c-5de8-4fac-851f-3146c1076e00.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/fb2de1e1-9285-49af-966c-e0983c988c75.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/dc3bff19-9603-451f-aff3-81c3870eda37.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/cf3dd239-3076-4411-8913-11dff7f3fa8f.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/86836e53-15a2-4428-b9ff-e314da8196b7.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/48a0bd11-2a83-4482-98eb-b76d75fb46a6.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/d1ff49ca-4694-42d9-8bac-60f42f6d82fe.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/29e5ad84-2b01-4ac7-a65b-fc87db2e2468.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/41b40ca8-78ad-48cc-b1e5-65ea79283959.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/ddfc324b-2159-4bb9-b821-50a6550f1c22.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/bd0d2f6b-fe41-49c2-96d8-0e2f74fcabc6.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/fb76c4e0-ac37-4fa4-b2ce-22ba70fc677f.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/ff6fefde-fa1b-49a4-8936-a966d124884b.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/ff6fefde-fa1b-49a4-8936-a966d124884b.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/fb76c4e0-ac37-4fa4-b2ce-22ba70fc677f.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/bd0d2f6b-fe41-49c2-96d8-0e2f74fcabc6.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/ddfc324b-2159-4bb9-b821-50a6550f1c22.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/41b40ca8-78ad-48cc-b1e5-65ea79283959.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/29e5ad84-2b01-4ac7-a65b-fc87db2e2468.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/d1ff49ca-4694-42d9-8bac-60f42f6d82fe.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/48a0bd11-2a83-4482-98eb-b76d75fb46a6.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/86836e53-15a2-4428-b9ff-e314da8196b7.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/cf3dd239-3076-4411-8913-11dff7f3fa8f.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/dc3bff19-9603-451f-aff3-81c3870eda37.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/fb2de1e1-9285-49af-966c-e0983c988c75.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/10e8695c-5de8-4fac-851f-3146c1076e00.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/10e8695c-5de8-4fac-851f-3146c1076e00.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/f63e824f-7162-49f8-9d87-9c4b54749702.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/fb2de1e1-9285-49af-966c-e0983c988c75.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/dc3bff19-9603-451f-aff3-81c3870eda37.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/cf3dd239-3076-4411-8913-11dff7f3fa8f.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/86836e53-15a2-4428-b9ff-e314da8196b7.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/48a0bd11-2a83-4482-98eb-b76d75fb46a6.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/d1ff49ca-4694-42d9-8bac-60f42f6d82fe.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/29e5ad84-2b01-4ac7-a65b-fc87db2e2468.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/41b40ca8-78ad-48cc-b1e5-65ea79283959.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/ddfc324b-2159-4bb9-b821-50a6550f1c22.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/bd0d2f6b-fe41-49c2-96d8-0e2f74fcabc6.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/fb76c4e0-ac37-4fa4-b2ce-22ba70fc677f.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1726/ff6fefde-fa1b-49a4-8936-a966d124884b.json"
+      ]
+    },
+    {
+      "id": "165884",
+      "name": "雲林縣政府處分違反勞動基準法案件家數",
+      "format": "xls",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/cce16539-a24f-4e6d-822e-935527744795.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/747d6c29-0bc6-4905-9317-9ff21dc1a67d.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/6dc0a14a-bf05-4d58-b0bb-0bd5af11f776.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/51127f83-7877-402b-b08f-f91d4b2cdd23.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/f93bcd41-19bf-4aba-894e-b52b499aa68b.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/06abe0a0-48ba-48c1-a7f9-e1296900d9a0.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/8bfbf2c2-90ea-4341-883c-5e6451c51582.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/5f4c7f78-c871-451f-9723-5c326bd68e9d.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/2263e4e5-f592-428a-bd7d-b6a6e7cee194.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/f889e956-b08c-405d-b4af-d2756ed94d08.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/1de9b86c-c6f6-436c-a1df-d11b4578bca1.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/494629f5-de30-417f-abb6-87e1fbd5434f.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/0c6bdf8c-48fe-4ec8-b03e-64ac1f0f5d25.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/3635c3c7-af61-4fd9-9e31-eff202b46135.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/3635c3c7-af61-4fd9-9e31-eff202b46135.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/0c6bdf8c-48fe-4ec8-b03e-64ac1f0f5d25.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/494629f5-de30-417f-abb6-87e1fbd5434f.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/1de9b86c-c6f6-436c-a1df-d11b4578bca1.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/f889e956-b08c-405d-b4af-d2756ed94d08.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/2263e4e5-f592-428a-bd7d-b6a6e7cee194.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/5f4c7f78-c871-451f-9723-5c326bd68e9d.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/8bfbf2c2-90ea-4341-883c-5e6451c51582.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/06abe0a0-48ba-48c1-a7f9-e1296900d9a0.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/f93bcd41-19bf-4aba-894e-b52b499aa68b.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/51127f83-7877-402b-b08f-f91d4b2cdd23.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/6dc0a14a-bf05-4d58-b0bb-0bd5af11f776.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/747d6c29-0bc6-4905-9317-9ff21dc1a67d.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/cce16539-a24f-4e6d-822e-935527744795.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/cce16539-a24f-4e6d-822e-935527744795.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/747d6c29-0bc6-4905-9317-9ff21dc1a67d.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/6dc0a14a-bf05-4d58-b0bb-0bd5af11f776.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/51127f83-7877-402b-b08f-f91d4b2cdd23.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/f93bcd41-19bf-4aba-894e-b52b499aa68b.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/06abe0a0-48ba-48c1-a7f9-e1296900d9a0.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/8bfbf2c2-90ea-4341-883c-5e6451c51582.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/5f4c7f78-c871-451f-9723-5c326bd68e9d.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/2263e4e5-f592-428a-bd7d-b6a6e7cee194.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/f889e956-b08c-405d-b4af-d2756ed94d08.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/1de9b86c-c6f6-436c-a1df-d11b4578bca1.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/494629f5-de30-417f-abb6-87e1fbd5434f.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/0c6bdf8c-48fe-4ec8-b03e-64ac1f0f5d25.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/3635c3c7-af61-4fd9-9e31-eff202b46135.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/3635c3c7-af61-4fd9-9e31-eff202b46135.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/0c6bdf8c-48fe-4ec8-b03e-64ac1f0f5d25.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/494629f5-de30-417f-abb6-87e1fbd5434f.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/1de9b86c-c6f6-436c-a1df-d11b4578bca1.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/f889e956-b08c-405d-b4af-d2756ed94d08.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/2263e4e5-f592-428a-bd7d-b6a6e7cee194.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/5f4c7f78-c871-451f-9723-5c326bd68e9d.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/8bfbf2c2-90ea-4341-883c-5e6451c51582.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/06abe0a0-48ba-48c1-a7f9-e1296900d9a0.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/f93bcd41-19bf-4aba-894e-b52b499aa68b.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/51127f83-7877-402b-b08f-f91d4b2cdd23.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/6dc0a14a-bf05-4d58-b0bb-0bd5af11f776.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/747d6c29-0bc6-4905-9317-9ff21dc1a67d.json",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1727/cce16539-a24f-4e6d-822e-935527744795.json"
+      ]
+    },
+    {
+      "id": "169203",
+      "name": "雲林縣政府處分違反性別平等工作法及就業服務法(就業歧視)案件家數",
+      "format": "ods",
+      "urls": [
+        "https://labor.yunlin.gov.tw/cp.aspx?n=6333"
+      ]
+    },
+    {
+      "id": "175379",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-10月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2310/a8b396a9-cb66-4a6d-ab23-f61907808c22.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2310/a8b396a9-cb66-4a6d-ab23-f61907808c22.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2310/a8b396a9-cb66-4a6d-ab23-f61907808c22.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2310/a8b396a9-cb66-4a6d-ab23-f61907808c22.json"
+      ]
+    },
+    {
+      "id": "171308",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-10月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2098/4cc6868c-5661-46ce-8c45-ce73d9dc5e6e.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2098/4cc6868c-5661-46ce-8c45-ce73d9dc5e6e.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2098/4cc6868c-5661-46ce-8c45-ce73d9dc5e6e.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2098/4cc6868c-5661-46ce-8c45-ce73d9dc5e6e.json"
+      ]
+    },
+    {
+      "id": "168645",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-4月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1975/fa8d0dce-a4bc-40cc-8df5-7d9e59cd0f94.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1975/fa8d0dce-a4bc-40cc-8df5-7d9e59cd0f94.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1975/fa8d0dce-a4bc-40cc-8df5-7d9e59cd0f94.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1975/fa8d0dce-a4bc-40cc-8df5-7d9e59cd0f94.json"
+      ]
+    },
+    {
+      "id": "173459",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-4月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2189/3d1b4fee-4f06-475b-b156-9e755b16acb8.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2189/3d1b4fee-4f06-475b-b156-9e755b16acb8.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2189/3d1b4fee-4f06-475b-b156-9e755b16acb8.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2189/3d1b4fee-4f06-475b-b156-9e755b16acb8.json"
+      ]
+    },
+    {
+      "id": "173362",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-1月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2160/ae0ae8a4-5c25-468a-b924-c5a9781a3df2.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2160/ae0ae8a4-5c25-468a-b924-c5a9781a3df2.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2160/ae0ae8a4-5c25-468a-b924-c5a9781a3df2.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2160/ae0ae8a4-5c25-468a-b924-c5a9781a3df2.json"
+      ]
+    },
+    {
+      "id": "174369",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-7月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2213/0f677a43-563e-4b47-9da9-964932924211.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2213/0f677a43-563e-4b47-9da9-964932924211.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2213/0f677a43-563e-4b47-9da9-964932924211.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2213/0f677a43-563e-4b47-9da9-964932924211.json"
+      ]
+    },
+    {
+      "id": "175011",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-9月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2291/46cdcaf3-1572-413d-b408-c2f93614477b.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2291/46cdcaf3-1572-413d-b408-c2f93614477b.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2291/46cdcaf3-1572-413d-b408-c2f93614477b.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2291/46cdcaf3-1572-413d-b408-c2f93614477b.json"
+      ]
+    },
+    {
+      "id": "174995",
+      "name": "銀髮人才服務據點求職人次",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2287/ac081631-dddd-4ca6-90b7-fa8b90f95e8c.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2287/ac081631-dddd-4ca6-90b7-fa8b90f95e8c.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2287/ac081631-dddd-4ca6-90b7-fa8b90f95e8c.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2287/ac081631-dddd-4ca6-90b7-fa8b90f95e8c.json"
+      ]
+    },
+    {
+      "id": "174988",
+      "name": "雲林縣職務再設計服務受理件數",
+      "format": "xls",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2284/dcf97598-92e7-4794-8121-5cd81bbe25b7.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2284/dcf97598-92e7-4794-8121-5cd81bbe25b7.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2284/dcf97598-92e7-4794-8121-5cd81bbe25b7.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2284/dcf97598-92e7-4794-8121-5cd81bbe25b7.json"
+      ]
+    },
+    {
+      "id": "165897",
+      "name": "雲林縣政府112年度青年社團發展補助計畫補助名單",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1735/c3fb9290-5190-4fd1-b546-1a7988c20a64.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1735/c3fb9290-5190-4fd1-b546-1a7988c20a64.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1735/c3fb9290-5190-4fd1-b546-1a7988c20a64.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1735/c3fb9290-5190-4fd1-b546-1a7988c20a64.json"
+      ]
+    },
+    {
+      "id": "168996",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-5月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2003/4d0d1e05-80a6-40d0-a82e-70d1e957dc51.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2003/4d0d1e05-80a6-40d0-a82e-70d1e957dc51.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2003/4d0d1e05-80a6-40d0-a82e-70d1e957dc51.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2003/4d0d1e05-80a6-40d0-a82e-70d1e957dc51.json"
+      ]
+    },
+    {
+      "id": "168643",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-2月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1973/54216532-cfdc-4ebe-b0c4-573cb35450d8.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1973/54216532-cfdc-4ebe-b0c4-573cb35450d8.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1973/54216532-cfdc-4ebe-b0c4-573cb35450d8.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/1973/54216532-cfdc-4ebe-b0c4-573cb35450d8.json"
+      ]
+    },
+    {
+      "id": "168644",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-3月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1974/1fe25b8d-d08a-49a4-aede-47a81282daa7.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1974/1fe25b8d-d08a-49a4-aede-47a81282daa7.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1974/1fe25b8d-d08a-49a4-aede-47a81282daa7.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1974/1fe25b8d-d08a-49a4-aede-47a81282daa7.json"
+      ]
+    },
+    {
+      "id": "168542",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-1月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1972/6ff6fd89-6457-46d2-8473-1d00cc78de8e.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1972/6ff6fd89-6457-46d2-8473-1d00cc78de8e.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1972/6ff6fd89-6457-46d2-8473-1d00cc78de8e.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/1972/6ff6fd89-6457-46d2-8473-1d00cc78de8e.json"
+      ]
+    },
+    {
+      "id": "171141",
+      "name": "雲林縣政府第2屆青年事務諮詢委員會委員",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2076/7e86a352-7d9a-448c-81a4-c2e451caa8c5.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2076/7e86a352-7d9a-448c-81a4-c2e451caa8c5.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2076/7e86a352-7d9a-448c-81a4-c2e451caa8c5.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2076/7e86a352-7d9a-448c-81a4-c2e451caa8c5.json"
+      ]
+    },
+    {
+      "id": "173062",
+      "name": "114年度青創事業參展補助計畫每月受理件數(1-2月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2148/cec8b147-4017-4957-b9af-bef16af79c72.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2148/cec8b147-4017-4957-b9af-bef16af79c72.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2148/cec8b147-4017-4957-b9af-bef16af79c72.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2148/cec8b147-4017-4957-b9af-bef16af79c72.json"
+      ]
+    },
+    {
+      "id": "174368",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-6月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2212/f9cc18ec-b257-4588-a7f3-64af3ebc6153.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2212/f9cc18ec-b257-4588-a7f3-64af3ebc6153.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2212/f9cc18ec-b257-4588-a7f3-64af3ebc6153.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2212/f9cc18ec-b257-4588-a7f3-64af3ebc6153.json"
+      ]
+    },
+    {
+      "id": "173360",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-11月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2158/caed705b-89d8-431e-a083-4da515e45b01.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2158/caed705b-89d8-431e-a083-4da515e45b01.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2158/caed705b-89d8-431e-a083-4da515e45b01.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2158/caed705b-89d8-431e-a083-4da515e45b01.json"
+      ]
+    },
+    {
+      "id": "174774",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-8月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2264/3ee2cf07-3ff8-405b-b592-e5938b90cb65.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2264/3ee2cf07-3ff8-405b-b592-e5938b90cb65.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2264/3ee2cf07-3ff8-405b-b592-e5938b90cb65.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2264/3ee2cf07-3ff8-405b-b592-e5938b90cb65.json"
+      ]
+    },
+    {
+      "id": "174991",
+      "name": "職工福利委員會成立家數",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2286/ca576dc7-e2f8-4e0d-a901-0b46d49638a2.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2286/ca576dc7-e2f8-4e0d-a901-0b46d49638a2.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2286/ca576dc7-e2f8-4e0d-a901-0b46d49638a2.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2286/ca576dc7-e2f8-4e0d-a901-0b46d49638a2.json"
+      ]
+    },
+    {
+      "id": "174986",
+      "name": "身心障礙礙者公職考試汽車駕照及技術士證明補助",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2281/97816c11-dfa6-4949-8740-f705a6a220d2.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2281/97816c11-dfa6-4949-8740-f705a6a220d2.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2281/97816c11-dfa6-4949-8740-f705a6a220d2.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2281/97816c11-dfa6-4949-8740-f705a6a220d2.json"
+      ]
+    },
+    {
+      "id": "174987",
+      "name": "雲林縣身心障礙者支持性就業服務人數",
+      "format": "xls",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2282/3859b856-3c4b-4c84-ae5b-b7fc480d38e7.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2282/3859b856-3c4b-4c84-ae5b-b7fc480d38e7.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2282/3859b856-3c4b-4c84-ae5b-b7fc480d38e7.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2282/3859b856-3c4b-4c84-ae5b-b7fc480d38e7.json"
+      ]
+    },
+    {
+      "id": "175938",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-11月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2317/e4cb2832-0b59-4153-9750-ac242590bc94.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2317/e4cb2832-0b59-4153-9750-ac242590bc94.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2317/e4cb2832-0b59-4153-9750-ac242590bc94.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2317/e4cb2832-0b59-4153-9750-ac242590bc94.json"
+      ]
+    },
+    {
+      "id": "169172",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-6月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2013/cae5d658-f811-44cd-afa6-01795a0e0c72.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2013/cae5d658-f811-44cd-afa6-01795a0e0c72.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2013/cae5d658-f811-44cd-afa6-01795a0e0c72.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2013/cae5d658-f811-44cd-afa6-01795a0e0c72.json"
+      ]
+    },
+    {
+      "id": "169201",
+      "name": "歷年勞資爭議調解統計表",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2029/72c77c34-5e4e-4a55-88b6-b67cfe632748.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2029/72c77c34-5e4e-4a55-88b6-b67cfe632748.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2029/72c77c34-5e4e-4a55-88b6-b67cfe632748.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2029/72c77c34-5e4e-4a55-88b6-b67cfe632748.json"
+      ]
+    },
+    {
+      "id": "169208",
+      "name": "雲林縣政府處分違反就業服務法裁罰案件數",
+      "format": "xls",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2034/f4fe1e7c-9b2a-45b2-842d-70982fe7132e.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2034/f4fe1e7c-9b2a-45b2-842d-70982fe7132e.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2034/f4fe1e7c-9b2a-45b2-842d-70982fe7132e.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2034/f4fe1e7c-9b2a-45b2-842d-70982fe7132e.json"
+      ]
+    },
+    {
+      "id": "169652",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-7月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2035/75450686-4b43-4cad-8892-8adc4a3c257d.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2035/75450686-4b43-4cad-8892-8adc4a3c257d.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2035/75450686-4b43-4cad-8892-8adc4a3c257d.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2035/75450686-4b43-4cad-8892-8adc4a3c257d.json"
+      ]
+    },
+    {
+      "id": "173361",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-12月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2159/d9c032d2-eb35-4429-aab1-475bd7babf24.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2159/d9c032d2-eb35-4429-aab1-475bd7babf24.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2159/d9c032d2-eb35-4429-aab1-475bd7babf24.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2159/d9c032d2-eb35-4429-aab1-475bd7babf24.json"
+      ]
+    },
+    {
+      "id": "173363",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-2月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2161/c31a6764-7b8c-4ee7-9ef7-09a15411389a.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2161/c31a6764-7b8c-4ee7-9ef7-09a15411389a.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2161/c31a6764-7b8c-4ee7-9ef7-09a15411389a.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2161/c31a6764-7b8c-4ee7-9ef7-09a15411389a.json"
+      ]
+    },
+    {
+      "id": "173364",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-3月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2162/340229df-33f6-4cd4-a048-4881d40bcc7f.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2162/340229df-33f6-4cd4-a048-4881d40bcc7f.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2162/340229df-33f6-4cd4-a048-4881d40bcc7f.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2162/340229df-33f6-4cd4-a048-4881d40bcc7f.json"
+      ]
+    },
+    {
+      "id": "170337",
+      "name": "雲林縣政府113年度青年社團發展補助計畫補助名單(按月份分-8月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2052/28457d31-32c7-43e7-ad0f-a13d0d3bad38.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2052/28457d31-32c7-43e7-ad0f-a13d0d3bad38.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2052/28457d31-32c7-43e7-ad0f-a13d0d3bad38.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2052/28457d31-32c7-43e7-ad0f-a13d0d3bad38.json"
+      ]
+    },
+    {
+      "id": "176536",
+      "name": "雲林縣政府114年度青年社團發展補助計畫補助名單(按月份分-12月)",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2361/8c50ba54-8456-4476-a837-54994ef3e0b5.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2361/8c50ba54-8456-4476-a837-54994ef3e0b5.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2361/8c50ba54-8456-4476-a837-54994ef3e0b5.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2361/8c50ba54-8456-4476-a837-54994ef3e0b5.json"
+      ]
+    },
+    {
+      "id": "174974",
+      "name": "雲林縣政府第3屆青年事務諮詢委員會委員",
+      "format": "xlsx",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2269/ae9d992e-83ed-4738-878c-e81492b12918.xlsx",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2269/ae9d992e-83ed-4738-878c-e81492b12918.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2269/ae9d992e-83ed-4738-878c-e81492b12918.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2269/ae9d992e-83ed-4738-878c-e81492b12918.json"
+      ]
+    },
+    {
+      "id": "174982",
+      "name": "就業服務法薪資揭示抽查及宣導結果統計表",
+      "format": "xls",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2273/3efaa3d2-aaaa-4876-ada6-416f70ab87ab.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2273/3efaa3d2-aaaa-4876-ada6-416f70ab87ab.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2273/3efaa3d2-aaaa-4876-ada6-416f70ab87ab.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/15369/2273/3efaa3d2-aaaa-4876-ada6-416f70ab87ab.json"
+      ]
+    },
+    {
+      "id": "174984",
+      "name": "雲林縣照顧服務員結訓人數統計",
+      "format": "xls",
+      "urls": [
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2275/5ace8b7f-9549-49de-9cb6-1b06923b3a61.xls",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2275/5ace8b7f-9549-49de-9cb6-1b06923b3a61.csv",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2275/5ace8b7f-9549-49de-9cb6-1b06923b3a61.xml",
+        "https://ws.yunlin.gov.tw/001/Upload/539/opendata/0/2275/5ace8b7f-9549-49de-9cb6-1b06923b3a61.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "type": "dataset",
+  "provider": "臺北市政府資訊局",
+  "slug": "data_taipei_eb36cca8",
+  "datasets": [
+    {
+      "id": "129332",
+      "name": "pay.taipei支援無卡進出停車場清單",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/f4ec54ba-32d1-402c-966f-78624b56f31e/resource/c0408caa-b6ae-47e7-b4e9-1d806afd69c2/download"
+      ]
+    },
+    {
+      "id": "166492",
+      "name": "臺北市YouBike起訖站點統計",
+      "format": "geojson",
+      "urls": [
+        "https://data.taipei/api/dataset/c7dbdb7c-6bbd-495a-bd23-49b22defd83e/resource/a1b54bc5-02f9-4f82-accf-61b4105227d0/download",
+        "https://data.taipei/api/dataset/c7dbdb7c-6bbd-495a-bd23-49b22defd83e/resource/61c37572-4eab-43d9-a786-ccdea631b871/download",
+        "https://data.taipei/api/dataset/c7dbdb7c-6bbd-495a-bd23-49b22defd83e/resource/bb00cae4-2f06-484d-9b97-26fc9221757d/download",
+        "https://data.taipei/api/dataset/c7dbdb7c-6bbd-495a-bd23-49b22defd83e/resource/4b71676f-f52b-4125-ac2b-dd794d2e8501/download",
+        "https://data.taipei/api/dataset/c7dbdb7c-6bbd-495a-bd23-49b22defd83e/resource/4b7341cf-22c2-4dd1-9121-9a916d46e6d1/download",
+        "https://data.taipei/api/dataset/c7dbdb7c-6bbd-495a-bd23-49b22defd83e/resource/0a875ec8-c974-49ac-bbfc-887f220f403a/download"
+      ]
+    },
+    {
+      "id": "127496",
+      "name": "Maps.Taipei圖磚(WMTS)服務",
+      "format": "xml",
+      "urls": [
+        "https://maps.taipei/wmts/"
+      ]
+    },
+    {
+      "id": "121222",
+      "name": "臺北市公眾區免費無線上網熱點資料(新版)",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/6aa6532d-652f-4c1b-814a-4646b75407af/resource/549b3a9b-eb6c-4cb1-848b-8c238735e2db/download"
+      ]
+    },
+    {
+      "id": "121339",
+      "name": "臺北市市政網站整合平台之最新消息",
+      "format": "json",
+      "urls": [
+        "https://www.gov.taipei/OpenData.aspx?SN=78702647C7A5B61B"
+      ]
+    },
+    {
+      "id": "121340",
+      "name": "臺北市市政網站整合平台之熱門活動",
+      "format": "json",
+      "urls": [
+        "https://www.gov.taipei/OpenData.aspx?SN=DD102593FDB1A032"
+      ]
+    },
+    {
+      "id": "158117",
+      "name": "臺北市民免費數位課程情形",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/8cc19f6f-d5ab-4bfc-8cf7-ae46ccd4d228/resource/07fdc506-4811-43fe-99eb-90c9aaac9821/download"
+      ]
+    },
+    {
+      "id": "157739",
+      "name": "臺北市政府APP下載量",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/8d37460f-a6cd-48fe-8b73-0618e40e92d5/resource/6c494282-7f15-4c48-99df-30a7471c9198/download"
+      ]
+    },
+    {
+      "id": "128337",
+      "name": "臺北市市政網站整合平台之新聞稿",
+      "format": "json",
+      "urls": [
+        "https://www.gov.taipei/OpenData.aspx?SN=ABBF62618F53F8DE"
+      ]
+    },
+    {
+      "id": "129074",
+      "name": "臺北市市政網站整合平台之常見問答",
+      "format": "json",
+      "urls": [
+        "https://www.gov.taipei/OpenData.aspx?SN=8E47DBEDAB8AE0D9"
+      ]
+    },
+    {
+      "id": "145353",
+      "name": "臺北市開放資料集清單",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/dbcbaa29-fae0-4430-b2b3-46490fb843aa/resource/875ea014-3ad0-4c79-93d3-049adb813c47/download"
+      ]
+    },
+    {
+      "id": "166491",
+      "name": "臺北市YouBike見車率統計",
+      "format": "geojson",
+      "urls": [
+        "https://data.taipei/api/dataset/ba0dafae-043c-4730-b97e-2defd7af766c/resource/fa4562df-ff9c-4156-b74f-f94c8710e08c/download",
+        "https://data.taipei/api/dataset/ba0dafae-043c-4730-b97e-2defd7af766c/resource/55a1ce30-7c99-497c-bdcd-bb88b848c803/download",
+        "https://data.taipei/api/dataset/ba0dafae-043c-4730-b97e-2defd7af766c/resource/8827f8ee-8bbd-4626-8880-e5497ebc065a/download"
+      ]
+    },
+    {
+      "id": "166493",
+      "name": "臺北市YouBike潛在需求預測",
+      "format": "geojson",
+      "urls": [
+        "https://data.taipei/api/dataset/1aae7069-cb8d-4e6e-a0e3-83dd296d29b8/resource/fba5035b-38f4-451f-9854-7eb475041abf/download",
+        "https://data.taipei/api/dataset/1aae7069-cb8d-4e6e-a0e3-83dd296d29b8/resource/1eab16c9-1b74-4f97-bad1-0cc4c37ac975/download"
+      ]
+    },
+    {
+      "id": "166494",
+      "name": "臺北市YouBike區域互補站點",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/fe8a0ddd-6f70-4e63-92a1-a3463c790a1b/resource/6d38ddf5-ae05-4dab-ac24-1e05f5841b01/download"
+      ]
+    },
+    {
+      "id": "174976",
+      "name": "臺北市YouBike見位率統計",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/65f4c67c-56c8-4b52-abda-5b58946dfecd/resource/d969e222-7fb3-49f1-95f7-3894a8b9f2bb/download",
+        "https://data.taipei/api/dataset/65f4c67c-56c8-4b52-abda-5b58946dfecd/resource/5aba9d7e-5594-4281-97bf-a2a9c11ab684/download"
+      ]
+    },
+    {
+      "id": "174977",
+      "name": "臺北市YouBike電輔車起訖站點統計",
+      "format": "geojson",
+      "urls": [
+        "https://data.taipei/api/dataset/2bd98881-744c-46e7-970e-4d06f420e14b/resource/14919ece-8c2f-4f19-b074-0d2255e6c13e/download",
+        "https://data.taipei/api/dataset/2bd98881-744c-46e7-970e-4d06f420e14b/resource/7cec1c75-7ee2-4bb8-bc02-84eb31fd8a01/download",
+        "https://data.taipei/api/dataset/2bd98881-744c-46e7-970e-4d06f420e14b/resource/4e3c9efd-a53c-497d-8eb1-5e8b1e31e79d/download",
+        "https://data.taipei/api/dataset/2bd98881-744c-46e7-970e-4d06f420e14b/resource/15c3a2aa-4bac-4862-8ce6-998e42ab25f0/download"
+      ]
+    }
+  ]
+}

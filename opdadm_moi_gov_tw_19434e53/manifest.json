@@ -1,0 +1,1915 @@
+{
+  "type": "dataset",
+  "provider": "內政部移民署",
+  "slug": "opdadm_moi_gov_tw_19434e53",
+  "datasets": [
+    {
+      "id": "19874",
+      "name": "內政部移民署年度決算書",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/0F4BF6B6-015C-4BDC-A72A-0275DDCB6B73/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/772C698B-CA8C-4DBB-8AEF-0D1B6BDB9547/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/C27F4A35-960B-400C-A71E-2EA1C3711B20/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/8E11BCDF-1227-4E65-B9AF-361005FFE389/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/9868D3AD-37B3-4B81-9D06-3A94DB2FB81E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/AA1275AF-4CC7-4ADE-BCF2-499B4C772180/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/C1DAF839-FE6D-4251-815E-51832FC953D4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/4BA99165-8B61-4CD1-9101-97CDA118F616/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/EEE6C16B-5D08-40EE-87FA-CAEB75D6957D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/4A8CC44B-332A-4395-9D2D-DF16656ADB93/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/25369D63-01F9-459B-8128-82FD226EB25E/resource/C139116C-B660-4300-89AC-FC800B5CB434/download"
+      ]
+    },
+    {
+      "id": "40133",
+      "name": "內政部移民署行政公告",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9043B81D-5C90-4419-B35E-36D9A83913B2/resource/444D0CB6-16AD-41D8-B391-8F1CDC9908A0/download"
+      ]
+    },
+    {
+      "id": "39361",
+      "name": "內政部移民署駐外據點",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/80E6D219-F050-4971-BF8A-AC2397A74489/resource/D4E177B5-223F-46CE-89C9-C5BA3CE46E36/download"
+      ]
+    },
+    {
+      "id": "45003",
+      "name": "內政部移民署獎補助經費季報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/5E448EE3-A9EC-4735-941D-0118AA4B4667/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/83E47DC2-7E40-434E-9227-0337C845E94F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/46096D01-D610-4107-8A35-086388164ABB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/48C2370A-81F7-44A0-B136-096A71A63C13/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/59905D82-1E6A-45DA-B009-0B95C6B9E5E5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/A7F56BCC-F587-4C4D-90C6-0CBE4C79BC0B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/812A2242-B128-433F-BB62-0DC36AD333AC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/01EBCB25-45BE-4673-B00B-1440C9E25C1D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/C699F99B-4E1D-4C16-A4DE-144B093861AD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/A4CD90AB-2156-4EDF-87EB-1F13540E0E35/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/E11F9982-B6DF-4245-AD0E-2A87E54B6D5C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/5A8C056F-0888-4864-B0AD-3113B1C4AB48/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/938652FD-9776-4D3B-BD1D-3316404F8273/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/78568C04-6AD2-4295-95F3-3A7A4A88C525/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/33FA3B5A-F4AF-43DC-AA6E-400DFB296FFB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/C1330669-4734-4007-8B1F-46586A6EC009/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/B0D8F8DD-68D4-4BE7-B3D7-4EC3F6FB9405/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/6E9AC27B-0576-462F-9389-55DA8351CD6C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/88A55820-3A13-4833-BE10-5C63924EF9C1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/38EA3354-E156-4C75-A14B-62749CC9AEAA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/D3EDAA09-28B7-46E7-BABB-65F647ED3161/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/DCAAB516-00EF-433E-AA10-66C9A99BDBCD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/DC891EC2-AF01-4ABC-A62C-672BB55058FE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/C268BD0A-854B-46AE-84C8-78A4179AC775/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/2FA4376A-1EDA-412E-BFC5-7DF8F9356D96/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/CE4C7A3A-9105-4A22-999A-81CE17836194/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/C7945E60-6538-47CE-8175-84018AC989F6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/7750871F-8767-4565-B08B-8442C8191DDB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/AAD5E810-044A-4A0A-97F5-911F59A3AC3C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/D88B5A04-E4C7-471B-BFE2-9491F3AB29DE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/AD296EE8-C510-4EEE-BD3F-966FD2AFC41D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/148F6637-6392-4845-9443-99172A7139E2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/664FD6FB-023B-4020-988E-99F35F26B537/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/E066B1EE-79E9-4AED-88D9-9A4B2B5DDBA5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/FDE5120A-8A9F-4E72-AD5E-A183944AFC3B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/BAF423E3-876B-46E3-9C24-A41F9CD17F88/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/FF7CA08E-A5AF-4CC6-B3CA-B53DFF5CB83A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/AEC1D200-9511-4735-BE28-B5EE8C6A8585/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/696E37E0-6B47-44B3-AB29-B66AFC143783/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/6DC042F3-B1CE-44A3-AB2B-C48C928AFA10/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/9FF46BC2-A09A-4819-9A86-C8B7BAD3E469/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/CF1BFED9-A3D6-4841-8B46-CC2DF722F387/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/FB8E2BB6-7659-4238-8956-CC86E2E134FC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/ACC377EC-E202-42C3-8A97-D4F2E2C8B56A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/6079D9AD-C202-479D-AD63-D7BB866A2375/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/70056291-27AE-49C7-893E-DBC3AEC8C5AE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/B7DD0D75-72CC-4C92-987A-DEA01D5E4704/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/0DA943C1-18A0-4496-86BD-EB0ADA95544C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/7A2BE11D-6ACD-45F2-A2AF-EC7E1A56EB89/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/BFB53507-357D-428A-AD6F-F71A56B87D2A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0ACABE34-F6B5-4C6C-982D-B871EA9FAD5E/resource/EEC51F60-4F0A-4BE8-BED0-F77497341A69/download"
+      ]
+    },
+    {
+      "id": "85590",
+      "name": "入出國日期證明書查詢下載年報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/20EC13D5-A291-42D0-9C94-2E3F58550337/resource/BA35C2FB-B8E1-4163-BE1D-461E6EFEC7D4/download"
+      ]
+    },
+    {
+      "id": "85685",
+      "name": "有戶籍國民以自然人憑證查詢有無被限制出國年報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5C82846F-B7C3-4800-847B-E3ABEFD9161E/resource/C8B5A36E-8305-4061-8D29-BD57419FA834/download"
+      ]
+    },
+    {
+      "id": "88856",
+      "name": "桃園機場出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TPE5"
+      ]
+    },
+    {
+      "id": "88857",
+      "name": "台中機場出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/RMQ5"
+      ]
+    },
+    {
+      "id": "104817",
+      "name": "內政部(移民署)與各國簽署有關移民事務、防制人口販運或互惠使用自動通關合作瞭解備忘錄(協定)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E5A0585B-A81D-4508-AA97-66E5F4A4CC03/resource/CC4F563C-8D2B-4845-BBF1-F9F4F674CD60/download"
+      ]
+    },
+    {
+      "id": "104819",
+      "name": "韓國籍人士註冊我國自動通關人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9FDF5E50-1017-4D2B-93C1-E51256B1EB9D/resource/454114D9-9FA1-41EA-A11D-6E493C060E68/download"
+      ]
+    },
+    {
+      "id": "106324",
+      "name": "各機場及港口自動查驗通關閘道數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D6FFF3BE-7BCA-41ED-9DDD-CDD2A9DBC193/resource/AA6A2909-2669-4D43-AC83-17A0713E2C25/download"
+      ]
+    },
+    {
+      "id": "127462",
+      "name": "協緝遣返外逃通緝犯",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C8559521-AE2B-4DD6-BBC4-69421AAE14AF/resource/6FE40DF9-28A1-4B92-A626-EDBB7C24D850/download"
+      ]
+    },
+    {
+      "id": "127463",
+      "name": "嘉義機場入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/CYI1"
+      ]
+    },
+    {
+      "id": "127723",
+      "name": "有效永久居留證外僑統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/44DBFD19-3FE6-4022-9781-16FA631BAFEA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/DB688BA5-2981-4A0C-82C8-1CBF9744C631/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/4FF64CE4-CF8D-4229-BD8A-2790B275DD43/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/CC1CF520-F5E2-4799-B208-34A75CED52A6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/1092F33B-C48E-461B-A0B2-5B9BE683EAA3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/370CE235-D65B-45F2-9A2D-726A408ED055/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/85492EFB-75ED-41C1-AD37-85766FD93CA3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/9A3250AB-DCB1-48DF-A628-8F5767D3DE8E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/E659BD1F-5F75-4F9E-B4C5-A822227A6A87/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/25AEC60A-3E09-454D-BF40-B4F2F414E15B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/A64C53C9-D064-4401-BC15-DCBBF4902073/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/B1C1D593-C12D-4DA3-BB4D-E241D4850308/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C82AC83-947E-448D-A6BF-158BF525F27D/resource/BC160CB7-2C11-4BD0-8053-FF5279763892/download"
+      ]
+    },
+    {
+      "id": "103052",
+      "name": "高雄港出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TWKHH5"
+      ]
+    },
+    {
+      "id": "103053",
+      "name": "高雄港入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TWKHH1"
+      ]
+    },
+    {
+      "id": "103054",
+      "name": "花蓮港入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TWHUN1"
+      ]
+    },
+    {
+      "id": "103056",
+      "name": "臺北港入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TWTPE1"
+      ]
+    },
+    {
+      "id": "126795",
+      "name": "臺南機場入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TNN1"
+      ]
+    },
+    {
+      "id": "126802",
+      "name": "澎湖馬公機場出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/MZG5"
+      ]
+    },
+    {
+      "id": "86262",
+      "name": "內政部移民署各式線上申請平台客服諮詢問題類別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B83E516A-3AAC-4ABD-929B-46885F3AE947/resource/08F65C34-495D-4EC1-8814-BBA07CAEF1D9/download"
+      ]
+    },
+    {
+      "id": "139752",
+      "name": "桃園機場轉機人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TPE3"
+      ]
+    },
+    {
+      "id": "139750",
+      "name": "屏東機場出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/PIF5"
+      ]
+    },
+    {
+      "id": "139751",
+      "name": "臺中機場轉機人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/RMQ3"
+      ]
+    },
+    {
+      "id": "139455",
+      "name": "大陸地區人民來臺從事商務活動交流入出境人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/758CEFC3-A4BA-4B80-B231-C4813E90B32E/resource/A07F8A48-203A-427D-9927-7371A6D9421A/download"
+      ]
+    },
+    {
+      "id": "139533",
+      "name": "外來人口停留人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3347AA43-FDDC-4696-AB30-847B4CA1B21A/resource/99392CCE-7700-4119-B542-E577D411987B/download"
+      ]
+    },
+    {
+      "id": "162190",
+      "name": "內政部移民署111年度場地租金收入統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7DC30E92-EC37-4BA5-A468-A95CF10A7FCD/resource/054D5E64-19A9-4366-AB10-95851AF538BD/download"
+      ]
+    },
+    {
+      "id": "158817",
+      "name": "新住民發展基金預算",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/DBFFDA87-614B-4A79-81C0-05733728BA19/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/889C59B4-6119-4FE3-A8F9-0FDA2325F54D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/01371AA3-ECB5-49F6-8AE4-1825A3AF3D5E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/C8022A93-375F-408F-8704-194FB11555D0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/049B4D3A-16CA-4615-AD7E-19FD85E3109C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/C59A8FA6-CE88-4321-A384-2B759531B49A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/F1ABF28E-2188-487F-A2F6-377389EB83B9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/623DF0AF-EE28-4B06-9C28-37D51AE07C36/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/FE7FEE30-2BE7-4007-A2FC-424B65AEB425/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/230A648E-2D26-4BF5-B003-4A1AC739C992/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/7673FE11-AC27-4427-8663-5594E77A6C4C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/2B7B328D-7737-48E8-8874-615E00D4029C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/6832763B-4129-497F-A827-783636B20B19/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/E7E7F53B-4466-429B-B02F-7D67CD276D44/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/D8D718DA-A7FA-4F30-BAFC-81759B9FEF8D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/1BB9D78E-1FF7-4D7E-976E-8ABEAC4840F9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/47AE38A6-0739-4E19-BA95-AA502553693D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/48E58341-D7A0-40A6-B22A-AD15CD3AB199/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/C09F86F6-EA2C-4677-8B1E-B04643031FD7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/026D2250-70A2-4321-86E0-BE975118BBB4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/A72BD576-EA6F-4B37-AC13-D3086142F6B1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/BFB5A41B-A09A-4C9D-8000-D7D952805A54/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E2EA2EB5-F89C-45DA-8482-4DCC1C9F8D58/resource/CEF61977-B032-46CD-B546-F34DC4CDC3C3/download"
+      ]
+    },
+    {
+      "id": "136582",
+      "name": "內政部移民署工程採購案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AC9B95F4-1287-466D-9D85-99C2E3A0D95B/resource/F78B658B-7EE3-4AA6-ADA1-178CD5B17501/download"
+      ]
+    },
+    {
+      "id": "136324",
+      "name": "內政部移民署109年度國家賠償事件收結統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/585EBEEB-0630-46B3-A0F5-AA52C8B1F14A/resource/CBF878D2-23FF-4A46-A224-D693DA890762/download"
+      ]
+    },
+    {
+      "id": "136303",
+      "name": "移民署製發卡數量統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ADAAC793-E39C-41B3-B890-F3EF8E1BEFC8/resource/88D06127-33D0-4776-9A77-8978F974B99D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ADAAC793-E39C-41B3-B890-F3EF8E1BEFC8/resource/75AD1AF5-E161-49E2-BCA1-925C450EE7F4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ADAAC793-E39C-41B3-B890-F3EF8E1BEFC8/resource/CB2424E0-CFB9-4DBA-915E-FDA396216E2B/download"
+      ]
+    },
+    {
+      "id": "136346",
+      "name": "內政部移民署辦理人民申請提供政府資訊案件統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/94FE3415-4EE8-4266-B01A-5B7FDDDC6754/resource/ACDCB7F5-0564-42AE-88D1-5CB5B357BBFF/download"
+      ]
+    },
+    {
+      "id": "136545",
+      "name": "內政部移民署勞務採購案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/422A5B4F-BEE0-4897-BF7D-381AFE7C6AE0/resource/04DB0D52-B2BB-4DEB-9B4A-7A27AD9D8C42/download"
+      ]
+    },
+    {
+      "id": "139433",
+      "name": "內政部移民署年度歸檔案件數量統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7C380AB0-573E-4528-AA2E-9732AB634BEA/resource/564FFF73-5985-43A5-8679-755C50AAE73C/download"
+      ]
+    },
+    {
+      "id": "139977",
+      "name": "外來人口換發新式統一證號案件數按性別分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ACE93BC1-702B-48FA-9F5A-9D546AF86EE5/resource/C4467BD3-9BFB-4CAB-B43F-DB58855A875C/download"
+      ]
+    },
+    {
+      "id": "140034",
+      "name": "110年有效居留證外僑統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/4307D002-0763-4184-9108-0F57F64368E9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/A9473839-3510-4D6E-8C86-168857F404F3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/6BE6B838-53FA-4AB4-B20A-252677175D55/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/B29503CF-D19C-47A0-B85D-38FF71F462C9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/5803E04E-03C0-4F56-B9B0-5F5BB94A65D6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/0DA91D07-B3BF-43B0-BB9E-630ED56F7326/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/21BC4F31-5F7A-45C7-B6BD-6C6DAB547181/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/C055A227-40A2-4F77-9990-76D0AAB527BF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/A70C5301-E1D0-4182-94F9-7D7FC471D464/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/6B347052-0A50-4CA7-B02E-99762EDBCC1A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/B8D08358-3057-49F1-8670-CC9F8155BFAF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3DF913CC-BB08-4FF1-8B1F-900C913FA4A5/resource/2F12A779-FA35-402D-8782-F6B433BB0FD4/download"
+      ]
+    },
+    {
+      "id": "140036",
+      "name": "110年有效外僑居留證外籍配偶統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/11AF39D2-9A52-48FF-9A73-16966F81CC7F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/B8762FB5-9234-4C76-9D5A-280B1EA79003/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/D847D8F4-91B4-4021-A5C3-2F697FCC9C78/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/D4FF9334-F8A2-409F-A1F9-7A6770611A32/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/416DE4B5-24A3-4C23-B4DF-7FD42CD29E85/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/2441D45D-E2D9-43F1-9ABC-A22692BDB4D8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/05726863-FE88-484B-B01B-B6A624262B9F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/AA760864-0ADD-45D0-A842-D0B72E967AF5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/AB5E9619-305D-42D7-9BFD-D3F19E478AA2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/EFD7CDF6-1A3B-463A-894F-DA7C0C98F5CD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/6A0EC399-9036-411B-8634-E79161F928DB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/48CEF1F2-6906-46BF-A131-FBA28D99DC09/resource/48506D83-4B02-41D4-B808-F388552E00C0/download"
+      ]
+    },
+    {
+      "id": "155748",
+      "name": "各機場、港口入出境人數統計資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/A0DDB25A-1D4B-48F0-9A08-05604433DFDB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/9F854022-3978-4F3C-B5FA-08CDCC8ED0D7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/E36C4A6F-058E-4E9E-8D13-2FF97B62DA9D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/3BC4DFB8-7D94-4273-9282-40E3A4780F83/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/9B038229-571F-4F42-A0C3-5C35865871A8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/DC0FFC67-01CB-4509-AA4A-A2D69D367E97/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/DE4404D6-20DB-407B-BAD8-ACF0AEE4AACE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/26BF1032-842B-4D4D-85DD-AD6CEE3DF46A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/41F04EA2-61F4-4A51-9FF4-B7F259411CD0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/D47F4359-5BAB-429D-A919-C6CEEE1E5616/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/7652FDCB-DAFA-4A97-8995-D5B5A9ADC999/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F4FD706-1C4F-4D3A-8679-D41B53069542/resource/DD78FC34-837F-4EC7-8CDA-ED5DC7A70076/download"
+      ]
+    },
+    {
+      "id": "155911",
+      "name": "香港澳門居民有入出境紀錄停留境內未滿183天依年齡、性別分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5E6E901D-483B-4C37-8FCE-C436921E9435/resource/7BF210DD-840E-4CE0-A814-45B9DCB4238A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5E6E901D-483B-4C37-8FCE-C436921E9435/resource/46813C96-B2E7-4051-A9E4-CC5765F9C944/download"
+      ]
+    },
+    {
+      "id": "172923",
+      "name": "113年有效居留證外僑統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/E6A87D8B-80E4-4861-B740-25DD790DACB7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/E4A2CD8C-5DBA-4AD7-A05C-36F9DFF548C1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/97C21F2D-662C-476A-8D8F-4792DA716B70/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/CB5F4EEA-6EAB-4C96-86AD-537B465DA012/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/FF4D330A-6FF9-4230-B754-666F1F42616D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/A8F1B3F6-EA66-4C19-8616-813FB07F5F87/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/8F522A84-1ECC-4DE6-87C6-84A3FC9C0D1C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/64ABB2E4-F0DC-4D68-B19B-A74A0BF10518/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/BE680485-7674-4B18-92DA-A7EB3EC4F126/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/F6FD2EFF-18E4-438E-93ED-A900E45B776E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/F8D3E642-262A-4A67-921D-B30677A31213/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/993E2821-DFF2-4257-BF75-674A87D85DF1/resource/704ECE9D-4A9A-40E8-9F92-DA43B8A4A589/download"
+      ]
+    },
+    {
+      "id": "172925",
+      "name": "112年有效永久居留證外僑統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/8BCB927C-D928-4050-BDBC-14F395F446EE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/212F2E35-9BDC-42E6-B924-370CA76AF379/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/63BB22E0-B392-4372-BCD0-384F2D012B22/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/101B9A90-D861-4494-B83B-3A428E8380CC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/49B838C2-8B19-4E3E-B8C9-4A3213F94914/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/A7C3F18A-422B-493F-96C3-5CA32CB5C073/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/C74B19B0-9156-41AA-B33F-A0B08D07FBB4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/A743FD08-D365-4107-A966-A3F30C5AFB60/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/14DF0A0E-4172-48CD-811F-ABD41BDBF644/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/F1AEB01F-E871-44A4-9A19-C07F8FBC2C7D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/2806A59E-8B6D-433E-A32F-D48CEF8E1D94/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41F393D6-A537-429E-8769-E09904C2CEB7/resource/BDF4ADEF-2874-4A26-AC31-EF6569591976/download"
+      ]
+    },
+    {
+      "id": "172927",
+      "name": "112年有效外僑居留證外籍配偶統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/369BB432-EBDA-457E-9A49-19E56EB69DCD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/F61C5158-7E1B-4C5A-97B6-28DDAAC41620/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/2481C1F2-2C91-43A0-9366-36D7611C5B32/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/B88BC26F-8684-4891-BB38-3FCA82544D3A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/E9F6CA8F-DD48-4F4B-AACA-4FEA04B395E9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/02C29E4B-B4A0-4331-8B8A-5AF92EF0D754/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/B5E8BA7C-ABDD-467E-8EEF-5D773E980509/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/EA6ACE11-B357-4A6F-8C22-8EEE588B948C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/76CCBAF9-FDD6-44F5-B2E4-8FC4E877F88B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/0C2AF409-AB95-47D0-A797-AD7C04B17F2F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/2E1F58ED-BDBD-4D09-91D5-B121D90AFFC1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/504BD3D2-2754-42E4-860A-0575E1D5E54A/resource/D3FA5FE2-8623-4F3C-931D-C6FD8F61AD5F/download"
+      ]
+    },
+    {
+      "id": "172928",
+      "name": "113年有效外僑居留證外籍配偶統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/5C162BA9-1B5E-4FFB-83B4-0957EB2D0A07/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/A9C79016-089C-4E55-BDD9-1A03BE086E02/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/28EB7363-9D2C-4A16-96B6-37ABA84FCD79/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/A26C84A1-1A80-4E11-8BEA-5C443B18DE60/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/E633B139-0E6A-46A5-A319-6024450F4234/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/C673B9B3-5C54-41F5-B387-71C7A7622E5B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/B3A75E8A-EEB7-46A1-9FA9-7E6A4654A82F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/B002C016-2D1B-4945-BA46-9B023C0304F1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/47054458-018F-4346-9D22-C0B23CC0A189/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/6BAF6781-CE48-4070-8B83-CB69B964064D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/99458164-D2C2-4FAE-848B-DE42DCA28A6B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/83337120-C625-4E84-B0FB-69949B3CFBBB/resource/D7A706E6-530A-40EE-B5D3-EEDBA774B3A0/download"
+      ]
+    },
+    {
+      "id": "167548",
+      "name": "桃園機場第二航廈入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TPE12"
+      ]
+    },
+    {
+      "id": "167815",
+      "name": "新住民數位資訊E網會員新增會員數(111年)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A38FC762-1AC8-4901-965D-18BAB296BF6B/resource/05F603FB-36B4-4A7E-975F-86B41D52ADBF/download"
+      ]
+    },
+    {
+      "id": "167820",
+      "name": "內政部移民署112年度場地租金收入統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0E93AB52-2B26-46B7-8BB6-67A32D052F3A/resource/AF7913CD-FFAA-4EFA-A717-DC25E9A88CAC/download"
+      ]
+    },
+    {
+      "id": "167893",
+      "name": "大陸地區人民許可在臺居留、定居人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D99E30A9-77E5-4CF6-ABEA-E31D53E39EDC/resource/7B64EE93-735F-4005-A693-8EF4CDE8E3D3/download"
+      ]
+    },
+    {
+      "id": "167906",
+      "name": "內政部移民署歷年人權教材主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B7E807E8-167C-450E-81B7-065DEC3E2E4D/resource/80D4D8D6-F381-4DCB-82EF-5D3209E7E651/download"
+      ]
+    },
+    {
+      "id": "168897",
+      "name": "德國籍人士註冊我國自動通關人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9A823109-5BC2-4E05-8C4E-8C7FBC28ED37/resource/ED3221D0-A03C-4599-8BC6-3DEECA5B29A9/download"
+      ]
+    },
+    {
+      "id": "168898",
+      "name": "義大利籍人士註冊我國自動通關人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE79BFE3-9AC9-4174-A8BC-8095CEF1C124/resource/3BC456AA-4EDF-4707-988F-79FE1B78058A/download"
+      ]
+    },
+    {
+      "id": "168924",
+      "name": "內政部移民署112年採購案件決標資料一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/936ACBD3-9564-490B-B07C-1CB9FD6EFAF4/resource/AE1C3934-AB16-4BE4-B229-C0634E0ED7D3/download"
+      ]
+    },
+    {
+      "id": "168009",
+      "name": "新住民數位應用資訊計畫培訓種子講師人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F0AD1845-8236-424A-B842-A406E20B7C8C/resource/47FBDD0C-0ABE-48E9-BCDA-EF62611B1FC7/download"
+      ]
+    },
+    {
+      "id": "168487",
+      "name": "內政部移民署中區事務大隊所屬服務站112年度辦理新住民家庭教育及法令宣導方案成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/52C84654-4CA3-4941-B7D3-77BDC67BBD76/resource/C7AF5A25-D867-4EB2-9D70-206F6EE42D4B/download"
+      ]
+    },
+    {
+      "id": "168332",
+      "name": "111年有效居留證外僑統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/C8892407-DE1A-4E03-980D-03E72DCA60FE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/BB397CDA-0428-4100-A4B5-057D9B754A9D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/393CA7CA-9AC9-488C-9500-2232ED4FE6AC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/DE53E4F9-9BE6-4E3B-A178-4F334C83AC7C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/CE182555-D7F7-48B1-9ACE-6F82C70065CF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/7EF38D34-5DB8-47F3-B0BC-7EC3DD0FD5DF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/1E78C140-E8EE-4D2A-93FE-890A6D73789B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/68D2D47B-07DE-415C-BB47-ABEEA23C5B72/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/BAEA197E-5DBB-4BA9-9DA2-BA895E259587/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/A2DAA158-41DB-479F-BA4F-D65A3AD0716A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/3E7AE128-35EF-41DD-BDDE-DC59D7995BF2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15C7BEE4-A098-45DE-B92F-F56AD3A21B16/resource/DB147C74-138C-49ED-ACAA-E54C3D114F2F/download"
+      ]
+    },
+    {
+      "id": "174235",
+      "name": "113年新住民數位資訊e網會員數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/582EE259-6691-4056-AAED-B789A44C9E66/resource/73707E0D-9771-430F-A69C-E38D94C8338A/download"
+      ]
+    },
+    {
+      "id": "40126",
+      "name": "內政部移民署常見問題",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EE0BCF43-066B-4D82-99D1-F10204F868DA/resource/BCBB33F1-97CD-40B2-B0D4-4E615C762D5B/download"
+      ]
+    },
+    {
+      "id": "40128",
+      "name": "內政部移民署業務內容",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/23073610-0CF6-450B-970F-421DE4577E01/resource/6145F4E3-52AE-4D5F-AF0B-61498DF5727D/download"
+      ]
+    },
+    {
+      "id": "40129",
+      "name": "內政部移民署出版品一覽",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/292DBD22-3F00-4ED9-9A23-5EF98B563D1B/resource/F5A465D3-C176-4000-B28A-B6F8F9042001/download"
+      ]
+    },
+    {
+      "id": "40130",
+      "name": "內政部移民署移民特考考情資訊",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/44242251-8FEC-4A90-BF29-F40B7DDBCA4B/resource/F2FB37A3-C58B-4B29-84D9-D2828AA0DED8/download"
+      ]
+    },
+    {
+      "id": "40132",
+      "name": "內政部移民署徵才專區",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7EABDBDE-5FEB-42FE-81D0-4CD01B665279/resource/098FB51A-562E-4DB6-BC9D-089EA8AAE991/download"
+      ]
+    },
+    {
+      "id": "40135",
+      "name": "內政部移民署組織架構",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA76A66C-D0D2-4EB7-8EDA-C621644628F1/resource/4B8D18E8-9475-4326-B464-A9F86ACA4CFB/download"
+      ]
+    },
+    {
+      "id": "86169",
+      "name": "對民間團體或個人之補捐助經費執行情形檢核表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/E6BD6D75-AEAA-4A31-AADF-3A692E2B7158/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/CF741ED8-E1FB-48A3-856E-45FABAD08D5F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/49B55B40-947A-44D7-87B3-4DD03DC782D4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/AC4B61BA-9656-4CF2-9FA2-525BE3193AC3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/105D22EC-4790-4F9F-8461-62752FE97139/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/74E75F48-7719-4602-99C4-93C984A0B825/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/9ED8A8EC-83F6-4A13-A514-9B614527E149/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/C11D07CA-840C-426F-9F32-9BDFCAF678DC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/76F9B7ED-12D6-44D9-BA8D-9FB077C27C64/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/F924FB5C-3425-4518-820E-A8A000C1A97B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/317B9071-BF72-4560-82D4-C8BF42AB979C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/E6C696AB-4642-4435-9202-C965E475AA3C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/33B0592F-1C0E-4AB0-BE9F-D2494182B75A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47E32CB7-B74A-4DC1-BE20-2FD1779B99C9/resource/ED6609D4-96BC-433C-98DD-F4C9B2BEEFF4/download"
+      ]
+    },
+    {
+      "id": "88854",
+      "name": "台中機場入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/RMQ1"
+      ]
+    },
+    {
+      "id": "88855",
+      "name": "高雄機場出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/KHH5"
+      ]
+    },
+    {
+      "id": "88852",
+      "name": "松山機場出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TSA5"
+      ]
+    },
+    {
+      "id": "104820",
+      "name": "國人申請美國「全球入境計畫Global  Entry」人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/76C8B19C-AA56-4C4B-B6FF-DF580412841B/resource/727EE765-30E3-45EC-9BBD-3B9E6776C1C3/download"
+      ]
+    },
+    {
+      "id": "104777",
+      "name": "澳洲籍人士註冊我國自動通關人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/46C8F87F-A508-47CF-9C58-88BEEA744842/resource/5B7368AC-E93A-4CDC-B039-0F5351B937B0/download"
+      ]
+    },
+    {
+      "id": "103048",
+      "name": "基隆港入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TWKEL1"
+      ]
+    },
+    {
+      "id": "103051",
+      "name": "基隆港出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TWKEL5"
+      ]
+    },
+    {
+      "id": "103055",
+      "name": "花蓮港出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TWHUN5"
+      ]
+    },
+    {
+      "id": "103058",
+      "name": "金門港出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TW1ST5"
+      ]
+    },
+    {
+      "id": "103059",
+      "name": "馬祖港出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TW1FO5"
+      ]
+    },
+    {
+      "id": "103060",
+      "name": "金門港入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TW1ST1"
+      ]
+    },
+    {
+      "id": "103062",
+      "name": "臺中港入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TWTXG1"
+      ]
+    },
+    {
+      "id": "106326",
+      "name": "新南向目標國家人民以停留簽證及免簽證來臺之入境統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B6017E68-E0AA-4BAF-9582-455605B5F11F/resource/191466A1-05A0-4D0D-94AC-9E5E6A76488A/download"
+      ]
+    },
+    {
+      "id": "106227",
+      "name": "大陸地區人民以小三通來臺入出境人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1F932E70-9B77-4330-9DBD-89B5A3D32878/resource/2AF72C3F-896B-4C4A-B9DD-49BEC51A2AEA/download"
+      ]
+    },
+    {
+      "id": "126788",
+      "name": "花蓮機場入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/HUN1"
+      ]
+    },
+    {
+      "id": "127465",
+      "name": "大陸地區人民自國外或香港澳門線上申請來臺觀光人數統計資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E1CB2431-3539-4BDD-B8AE-2402893E3CBE/resource/9F974E8A-C987-443B-8141-1809696F5A08/download"
+      ]
+    },
+    {
+      "id": "127459",
+      "name": "香港澳門居民線上申請來臺短期停留入境許可人數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A6DC4693-39D3-4837-9390-966D3DF4A315/resource/51D1AC92-E68F-465E-BECE-7254F1D5057A/download"
+      ]
+    },
+    {
+      "id": "127659",
+      "name": "查處違法外來人口",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DAE5585E-8C19-486B-8FDF-F3E3D454667D/resource/F13EDF6B-95EF-4358-A076-D493D2BD181C/download"
+      ]
+    },
+    {
+      "id": "127721",
+      "name": "有效外僑居留證外籍配偶統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/409961D5-627F-471A-AB54-2A6BE0BA7E53/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/947EA101-3452-48F5-BC39-3C7DA4BBB3D6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/7D9DA030-1714-49A0-A695-480B2922D51A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/67E3C752-02CE-4805-9A36-50D2D2391FB5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/35BBC3B9-EDDB-4B34-B0CE-60B2CB8A2655/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/80653A62-1958-44A0-AD69-72C6015FC7F6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/381CB6C6-9DF7-4314-BF33-C1BA66D2CA02/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/DFFC1CDB-5376-45C3-BF20-CE680A60857A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/264FC8A6-BC20-4B70-ABBC-DCBBEB8FF432/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/A369173D-BD95-4BEF-A521-DEE40415628A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/A4B2C0BE-4493-4218-8ED4-E98363C85974/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/37138794-9455-4585-87FE-5C52AA434B51/resource/E7F16532-2AF5-41CA-8BD3-FC5F4C5C6D71/download"
+      ]
+    },
+    {
+      "id": "160935",
+      "name": "內政部移民署111年公文線上簽核績效",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C505C70C-5DA8-4099-96F7-40308D85619E/resource/FFB39E04-68B9-41F0-A891-57B81A584BB2/download"
+      ]
+    },
+    {
+      "id": "167537",
+      "name": "桃園機場第一航廈入境人次預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TPE11"
+      ]
+    },
+    {
+      "id": "167549",
+      "name": "桃園機場第二航廈出境人次預報",
+      "format": "api",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TPE52"
+      ]
+    },
+    {
+      "id": "167829",
+      "name": "大陸地區人民、港澳居民、無戶籍國民來臺居留及定居人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6FE5F180-470E-45E8-B5AC-8CF453F54FAF/resource/0B0CCB09-2E52-485A-8A69-49D814DF8D4A/download"
+      ]
+    },
+    {
+      "id": "167894",
+      "name": "香港澳門居民許可在臺居留、定居人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2880F247-91C9-482A-BBDE-5B053A5F36EA/resource/947D781B-A4BB-4860-A0AF-CB5B1DD0C293/download"
+      ]
+    },
+    {
+      "id": "168340",
+      "name": "111年有效永久居留證外僑統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/673D287D-72CA-42E7-8D5A-00D3315D499F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/99802DF1-6392-4DA6-B469-48B58B895F5A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/45AFB560-5926-44EE-BCE8-4AF8EDFF69EA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/46019FE7-82AE-42A0-8A14-69D18F5079FF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/3FD6D97F-1E65-417C-ABF2-7E545AC6EBB2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/8FE2DF89-DB89-4944-BF58-A094B7CAEF8B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/25EFB7D5-5E1D-4DD4-A409-C80FE89F37A5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/4860CE9E-D22D-49D9-8BA3-C9EF3E1FD0FD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/445C3F29-34EB-4F03-AF67-C9F94D015800/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/0C9CA542-E0BB-4D57-8283-D315C78F651E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/B8A3AFB1-E8C6-464B-B349-EA3198388CF4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/877E210F-E8E9-420E-B674-5707D71DF0AB/resource/F2E10CD7-A11B-42FE-AED9-FF770B26D208/download"
+      ]
+    },
+    {
+      "id": "168343",
+      "name": "111年有效外僑居留證外籍配偶統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/2129636A-1A9E-4D51-A8A5-09A63208E087/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/566D8783-44C1-40D9-87FC-3AD30A4F3424/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/078413EA-2E30-47ED-A8FC-4D313FD51B69/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/E5BC587E-57C9-4B2C-9543-66D24CF58CBB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/7E00DFD4-A282-4CF6-AA1D-871BC17D15BC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/EE5BCA22-4B9B-4FB6-8209-8B48E7346385/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/3121D96B-10D1-4381-A56B-907FD8AF41BC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/6BF3D08D-A424-477F-B6B3-9171F241289D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/768FDA2F-47B1-4986-91EB-A895FBF89D26/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/E4B739B9-948E-4AA7-84E9-C6DFED9275D6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/ACA43CBA-CCE5-40F6-8A52-E43AE179B0D3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2012D894-2BB1-4399-98BA-C0388AC3FB8B/resource/3379DFA9-8B14-4196-BD5F-EA46FD7A743F/download"
+      ]
+    },
+    {
+      "id": "138698",
+      "name": "內政部移民署零用金支付統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F6A845AF-97CB-47DD-B7E3-8CC9940CD388/resource/12237EED-23F5-47DD-91FB-8CB273F9162C/download"
+      ]
+    },
+    {
+      "id": "155952",
+      "name": "外國人有入出紀錄停留境內未滿183天依年齡、性別分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CB15BC86-B140-447E-81F8-98031977ADC6/resource/3DE1AD2F-1761-4B51-BA68-6FE4F5DD849B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CB15BC86-B140-447E-81F8-98031977ADC6/resource/9293515A-0263-4C10-A253-C45E9F363E01/download"
+      ]
+    },
+    {
+      "id": "156047",
+      "name": "內政部移民署110年度場地租金收入統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD95AA5A-E41A-44C4-9E5A-C2E379D36A22/resource/18A7EF3C-0479-4EDE-B296-1B57F3724053/download"
+      ]
+    },
+    {
+      "id": "156061",
+      "name": "新式統號申請件數依身分別分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6CE9FD52-9545-467C-A2E7-7762E99EA3AC/resource/5C4F2F0C-9A5D-4612-B98D-75C77AB84477/download"
+      ]
+    },
+    {
+      "id": "139768",
+      "name": "大陸地區人民申請進入臺灣地區各類交流許可人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/43A7E3AD-547A-405F-B1E6-A16EF81EACD8/resource/D9130BAC-A856-48AA-A4C3-B9CB6365068F/download"
+      ]
+    },
+    {
+      "id": "140035",
+      "name": "110年有效永久居留證外僑統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/86FE973B-080A-4BE8-B78E-317A84229DD0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/C06C87B4-F837-4B11-924B-358870D97E9E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/434E0C76-D373-4DCF-B936-5D68E5309E7F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/14D296F2-16CA-4385-B4AE-7490497A8227/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/2C5135B8-B328-4FBC-9313-7EF39AC374A1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/EFAC5226-504B-4DA0-ACB7-9AB4687FB56B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/7F292486-3DA9-427F-A911-AC7C6CDA2F27/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/B53DD53E-DD20-4E71-A48C-ACC7D753E498/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/AA1F9DA2-FCE0-4C57-AF07-B9C62787754E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/784AF6A0-877A-4D5B-8552-D8CECCB3015B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/FD9F4B9C-6ED3-48D5-9E0C-DDF8C5FD784A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C383168F-8102-4F40-BA9A-C601689E47F8/resource/210A9B5F-21F4-4353-8B50-E4E43B1BF948/download"
+      ]
+    },
+    {
+      "id": "158542",
+      "name": "新住民發展基金年度決算書表",
+      "format": "xml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/99C2474C-2C1E-46A9-B891-0BC4CDB660B3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/107EFAFE-E7DE-4816-A9DA-14B88C2631D0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/D5672FCA-47A9-42CA-AD5C-267B3DE13780/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/7B19FC1D-89F0-4B4F-87A5-48CBAE07B6CB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/79D58449-9427-4637-A007-4A184F2060D1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/325001E3-E620-45C8-A284-778A2F2BB343/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/070A8F4D-88A8-45DE-BDDF-85236B0A0D15/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/23541BE3-5819-4BE6-A839-901CD772948A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/6DE30DF1-5B11-4DE0-81D3-BBC075C0FD0A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/44E3911A-19AD-4EAA-A6CD-E2AB168FD8FF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7679A64-08D8-4524-BCB8-A5BADF7CB6A2/resource/3E2935BD-B3B5-4201-BC7B-ED0E92203508/download"
+      ]
+    },
+    {
+      "id": "158660",
+      "name": "新住民發展基金會計月報",
+      "format": "xml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/5399F742-7A9D-489D-845A-00CE311FD9BE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/0DD4F201-533D-4272-80E9-0132093377B5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/78503353-3185-44E3-BC16-013A10C01883/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/A4072B7F-B3C8-4E88-B3CE-11B8F3C89C88/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/379370C2-C69A-4702-AECF-28E469329CCF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/E8B9669D-898C-4536-B5D5-2A5894D816E9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/2D6F21AD-62CA-4717-92D8-44D93693D7E7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/BF804416-DE3A-405B-8694-465E0C0E29CC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/2A9EFDE7-595F-44A7-BCE5-553AEC2AB68C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/223343B6-ACCE-437D-AEAD-5F765F70DB87/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/F5503785-4801-4727-93E5-6579729E72F5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/563769A6-179F-423C-8FDD-76EBDE136B55/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/175E4D00-6F94-4252-8620-797EFBB9878D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/25EC171A-AED9-4FBB-B036-862EF359FAC4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/54E64328-2B30-4FC9-9631-985C3B1AE463/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/D60B4DD2-4F8D-4402-8F32-B45FD9E295D8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/1A69E523-BE0C-43B3-9ACF-B9191C60C46A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/7EB8B572-9BB1-4876-917E-B9F8AC8ABACE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/314818DA-D2A8-4BE9-8EA7-C3CEB1D11C5D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/83622C1B-D4DA-4043-9E5B-C5549657FC54/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/C3477BBF-E8CE-4C63-AFE2-C9FB116106DC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/A28A207B-D732-47F4-8B02-D104FE7FAF16/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/3BB1F464-F5EB-4A1F-AA74-E6CB51C3E120/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/61674A45-B5E8-4154-86D2-E96EB5F4DE01/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AA922C5-3C5E-4B2C-8151-79CF39DEE2E3/resource/95AB1896-FEFE-4BD0-8149-EE1979BEC37F/download"
+      ]
+    },
+    {
+      "id": "136544",
+      "name": "內政部移民署財物採購案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9B5F774E-56C9-410E-BE17-58297A926113/resource/EAC5E3AD-0B63-4545-8370-25B38A735457/download"
+      ]
+    },
+    {
+      "id": "168492",
+      "name": "內政部移民署自行研究主題一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DFB61CF5-6A80-4A28-B024-959D8E9C6BA4/resource/DE29F7E6-9AF1-44CF-923F-665D926ACFA8/download"
+      ]
+    },
+    {
+      "id": "168514",
+      "name": "內政部移民署112年度國家賠償事件處理情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DFE479BD-546C-48D3-8785-3A7E21C3E05F/resource/F62ABA83-31CD-470D-9519-B5E61C31588D/download"
+      ]
+    },
+    {
+      "id": "168515",
+      "name": "內政部移民署112年公文線上簽核績效",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CCD4B020-9F4B-4E02-9970-16CB13C05FB6/resource/58CF55A2-99E5-4BDB-B144-71EC3E9BD6F7/download"
+      ]
+    },
+    {
+      "id": "172941",
+      "name": "113年補助地方政府辦理新住民生活適應輔導補助要點成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5DF91DAF-9A0C-4A3C-8F55-2892B1DB1773/resource/34B735BB-1DED-4AD6-A3FC-149F19EDFA67/download"
+      ]
+    },
+    {
+      "id": "172926",
+      "name": "113年有效永久居留證外僑統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/04AF2986-D705-4482-A249-3A193AC73C55/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/E4C4A978-1723-4551-ABA1-5C48DF9A4592/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/806CC954-6529-4E8F-BF8D-81CCCEE8BE6C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/6544B43B-28AB-4C38-B2D5-865001D64E4C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/C9342A74-BA03-48CD-B092-88D0F10C2204/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/21EBD6C3-DF0E-4DFF-8177-9CCD47B737FF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/5E932453-4839-4457-9953-9E3BFFB26BBD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/81EE60CE-BFC2-4617-B7BF-B28F0FC5C051/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/F60F0F01-7FAD-4F92-8F83-B2DA1393B37E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/CA4375DD-3666-4E35-9A86-B64B7228E78E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/5FA772FC-C764-4C85-9FF9-E7747D5FE6D4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E60F607-9587-4A0B-BE92-5AB739ACCCD8/resource/5A08D204-3BBC-46ED-8CFE-F2FF960CA57A/download"
+      ]
+    },
+    {
+      "id": "172929",
+      "name": "113年度補助地方政府辦理新住民生活適應輔導經費執行彙整表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3C0A9EE4-6DC4-47D6-8F5F-C2BFF7C55FC7/resource/8B4ABC6E-662F-4892-89AE-2AF71ACCE061/download"
+      ]
+    },
+    {
+      "id": "169891",
+      "name": "各機場、港口入出境人數統計資料(歷史資料)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/876DD737-AF86-46C3-ADF3-1F8ECDE8214B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/0AD6853F-1F04-407D-AB50-4A4C4E96BFB0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/4B3EFADE-FD02-4E96-B419-520C9852F2A2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/61FDE8D6-A8AC-4C2F-961A-551542906503/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/F9A5AD0F-415F-4225-BEDD-56F09514F27F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/4BE0DB56-2A32-49CE-B8C1-66789EC52DA1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/F1BA31A5-38C7-4064-A503-95F620D43D2B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/BBC40B2A-1969-4A11-A1A5-99EDF66D143E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/C1E06195-88AF-4887-AF49-9E96382D78F3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/EE8BED6F-C870-41C8-88BA-9E99BDA5A48E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A367B6D-97DF-4145-9451-492FCAD8189A/resource/CFBDE85E-C96F-4A6F-854A-F4C9996C1633/download"
+      ]
+    },
+    {
+      "id": "173656",
+      "name": "內政部移民署113年新聞露出統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/86EC77E5-DA29-4C4E-AA92-615ADF0932CC/resource/5A231CAF-BA7F-49ED-98C7-CE8CDECDC981/download"
+      ]
+    },
+    {
+      "id": "174232",
+      "name": "111年新住民資訊應用種子講師培訓統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CFE6123B-6C14-4EDC-B965-7F51BC0660C6/resource/217C46F6-9B45-4EBD-9FE3-07CB7F0224F5/download"
+      ]
+    },
+    {
+      "id": "174233",
+      "name": "112年新住民資訊應用種子講師培訓統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F565261E-17A6-4AAC-8330-20EBF0AC9538/resource/7643EFD7-4022-49E1-AEAD-3D12B209F284/download"
+      ]
+    },
+    {
+      "id": "174234",
+      "name": "113年新住民資訊應用種子講師培訓統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/76A208C4-7762-4BD4-8798-DEBF1C7D03D5/resource/F0613006-6C6F-4ADD-98BC-92CC86870C43/download"
+      ]
+    },
+    {
+      "id": "174238",
+      "name": "新住民數位應用培力計畫摘要",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3909D50F-F014-40A6-953C-577A62B2C0C4/resource/337B2A75-0544-41C8-A61F-9B4718747463/download"
+      ]
+    },
+    {
+      "id": "174239",
+      "name": "移民署全球資訊網瀏覽人次",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C97FB032-A0FC-481C-AD37-BFE6964E5BF6/resource/657C898D-9E48-4033-AE3E-9661C3171167/download"
+      ]
+    },
+    {
+      "id": "173370",
+      "name": "內政部移民署113年度國家賠償事件處理情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F5A80642-A81E-400D-A2A4-17CADD66D9E3/resource/51105224-9873-4759-89B7-6BB01994FCA1/download"
+      ]
+    },
+    {
+      "id": "173740",
+      "name": "內政部移民署113年採購案件決標資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F2A6250B-9EC7-4DBE-BC86-747088127EC8/resource/3654B915-FA63-4CE1-9EB2-2162B3F5D3FF/download"
+      ]
+    },
+    {
+      "id": "173743",
+      "name": "內政部移民署113年度歸檔案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9CDA1F7A-9598-49CF-955D-0C2ED30CD803/resource/FAC429A3-0F18-4B6D-9DA5-87EB4ADAE7DA/download"
+      ]
+    },
+    {
+      "id": "173896",
+      "name": "內政部移民署中區事務大隊所屬服務站113年度辦理新住民家庭教育及法令宣導方案成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DC4376A3-05D9-4F28-9596-4D6365A2685B/resource/18636A31-8F05-467D-A8BF-9B61B3744A81/download"
+      ]
+    },
+    {
+      "id": "173897",
+      "name": "內政部移民署中區事務大隊所屬服務站113年擴大關懷宅配愛便民行動服務列車成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/63FDD06E-DF6A-4FDA-92E7-1A1F377E57F9/resource/7D6BF657-3931-4D91-A895-6BA014567361/download"
+      ]
+    },
+    {
+      "id": "175600",
+      "name": "內政部移民署南區事務大隊所屬服務站擴大關懷宅配愛便民行動服務列車成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5452E255-37A2-491C-BCE5-1B9E928B28D5/resource/56209BE0-4843-46A2-BC15-7FFD60E42FB1/download"
+      ]
+    },
+    {
+      "id": "12417",
+      "name": "移民署年度預算書",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/A2A8C174-4F34-412C-9F2F-1B1B086AF0CD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/2FA45474-DDA1-4596-B578-283B9E379E7B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/85B767B0-4B3D-45EE-B762-2DB9C8C014D1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/E95E36D9-BE87-40DC-A119-336969F1CE24/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/AC2367D9-3818-478B-9668-33DF85FF7EC9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/559999FF-ED8C-42B9-B045-37F89D3BFAF3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/3F64B19F-81E7-4F31-8393-4035D7E62090/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/C46CD198-3C72-49EF-A1E4-4973A3175087/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/C0E9D03D-929A-4846-9708-57E2B95DA457/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/BE41CC9A-6FCB-4CCA-B57E-5C27C30A0FEE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/8A83F785-23E5-4D87-8269-5DD9A58D11DF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/062DEA75-9730-46E3-8683-628806B22586/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/03492EC0-8267-4726-8521-67DFDA9B9B06/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/1A3AED78-DDA2-4B9C-8145-6DC5999F744E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/7039F1D8-DE3B-47D4-8915-7B3C73BABE99/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/151A1BE5-61C1-4BC9-8A76-8043CFD931FF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/DE2A6614-CF81-4D28-B3BA-8DAD0361063B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/F8A0CE7B-498A-4C75-A216-AA2393A834E6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/FD6959BD-9ABA-4816-BF25-ADB95BAC8BEF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/F26D1C28-79DD-4671-9617-B1AFDB0E54E0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/D795772A-5E32-4AB2-BE31-EA80ED7834FC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E635D30-2DF0-4EBE-AAEC-33516C7EE845/resource/D8CD00D6-8D51-48F4-B574-F49356B5F8F7/download"
+      ]
+    },
+    {
+      "id": "19873",
+      "name": "內政部移民署會計月報",
+      "format": "xml",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/BE1B7E9C-AA1F-4617-B0E3-0011EC87C619/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/E31F0663-E4DC-466B-9C36-02A6CEBEA982/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/0C2280C5-D094-42DE-AE5D-03AA86485637/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/48F4C378-EAD8-4BFB-B63F-089B0F93DB1C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/0F02F2CF-53A1-4D9C-9071-0ADE36FD11B5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/370984C1-7088-4605-9D7B-0BD5F47BFD31/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/E96E3336-EB47-4A41-AD0F-0D1C1959AD3B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/DBF74E64-7A54-47AE-9315-0DE533F7D0B1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/2B1BE0B5-D184-453C-B819-10283AB7ADB4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/A5F9F970-45A7-44A7-BD22-169010582A39/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/C20321C6-6475-46E8-88E8-17B69C0AB111/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/5D1A046D-A3B4-44D3-BF4C-1A5FF034A134/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/12411F32-B87F-419A-9D34-1AC36DE2F1C3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/B10B7B39-472D-4032-9FBE-1ACD9A0710CF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/D7919E53-9210-4AA5-B64E-200190AB6970/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/77452241-C8B4-41A6-8D6B-209DA7108813/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/D7CA22C8-FA17-41AC-87D6-21257F42D465/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/DD9B3DBC-2E05-4438-B96F-2C1FB3461F09/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/7CB896C7-F3C4-4867-821F-2CEFADE273ED/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/D53198EA-0B4B-4D67-94B6-2E81EA5FD249/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/37B07BB9-E3DA-49B5-BEB6-2F78FE7A4F5B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/9DDE5D52-1F82-4F22-91A4-2F82B054238B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/17066D57-435A-4B2A-A035-3007AA1B8599/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/436F26A9-2F66-4934-BABC-33FCFB8EC6FA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/4856F637-AE0F-4012-B06A-345001A28902/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/5F2250D8-1319-45BE-AA90-36ABE4D68BEB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/CFEAD0CA-ED3B-4A1B-93D5-387FDA65031D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/9DB6E128-07FA-4C4A-8052-38C91D0CD50F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/7AF2F34E-FF88-412A-AAD8-39ACB6EA19B6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/A159BE39-AB86-43A2-8A8C-3B25B91DB4B0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/47832C3E-8CB7-460E-BDB7-3B931E9F4E1F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/BE0E3308-B05C-43E1-A885-3DB5DDB28551/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/CB6CD849-CA79-43CB-8F7E-3FBA14FC8CDC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/04541F0C-E7CC-4D5B-BE3B-4255A1DA7154/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/A3302F2C-D05E-469F-87B4-456B7B904DD4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/ED89C53B-2601-4B82-B894-4949E1D0FDC6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/AB14E4A1-BD70-45D3-94DA-4AEDAC507E77/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/29911835-C0C6-4ED3-9FDA-4AFFECD1BF54/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/841F04BF-97DC-44C6-A8C9-4D26006C7E71/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/FC3DE3F1-2016-408A-9861-4D45D93CFC6E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/E58BCCDD-9A51-4131-8FC2-4D8B6A9071A8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/21266E8C-3959-43C6-8833-4F189F012E95/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/6EF25249-B110-4EE3-95AD-511100EC98A5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/B839F2E6-0276-4843-89E6-51D973823215/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/C5E3A2BE-6E2F-4908-98BC-52ED8CE317DB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/7350DFD0-4C07-43C0-8D07-54FD50D248A7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/DCB93281-26D7-4C55-98EB-55D3F7378BE8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/88FE41A7-C078-4913-8BCC-587681431FC5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/CECA58DE-C733-47D8-9AC1-5A5B064DBD49/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/33561C7A-FDA6-45E4-9E88-5AE1028D77A9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/89F1729F-E740-410A-8CDF-5DC4D4AEEA44/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/1B5A6F71-9175-44FB-8E6F-63B0F27CB4C5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/E2D08D3C-C090-44A7-AD30-66ED800C21EC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/A401F67C-78DB-495B-8AA0-677F6A993042/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/73CBEC7B-65F5-4BAB-9040-689C71F72043/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/D68532BB-0338-4ABF-B833-69FEC266FBD2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/65070CDC-1B5C-4BBD-B030-6AD04B4DB313/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/04A3E53C-F487-488E-A467-6BB844C13F80/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/4A99A819-59AA-4849-8367-6C26CEF2FD09/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/922FF373-77D8-4C8F-B554-6C325F49F5AD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/73E369F7-051D-46A1-A110-6F6E67766271/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/90F82A93-61D3-4394-B3FC-702BA54CFB57/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/7ADC1CC5-67C8-4EAC-9FA0-70D9D4D86DDB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/4E378997-A932-4F32-94D4-723DDC557DD6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/4424BCD9-AC07-42F4-BAA1-7273E2AA3BCE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/E633C0C0-39A0-45BD-A47E-72FE14DE265E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/177F3F5E-FAA3-4BAA-996F-7343DECFA220/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/748410FD-6530-43E3-B55D-7376B0169008/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/A89CD8D3-19E8-4D40-922A-74681A3C1BDC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/8F2B08CE-E82C-44CF-9ACB-7AECFFE08788/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/58138912-68F3-417B-BF42-7F801C32A1BE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/300F48BE-B200-4670-BE1E-81B68EC63B2B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/E564BF96-707A-4B35-9C67-828212B93788/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/7A927B83-AF95-4708-A8CC-82CD9DB45D50/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/CEC5E4C8-65E2-49A3-939B-83B9E3916C9A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/4FB90A1C-F555-4AFE-9D51-84319512CCEB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/9A296BDB-6336-4159-B551-89C181FF2961/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/F040B92A-9FE3-45AF-958E-8AFF036953DB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/78D04187-62DB-4EE6-B30A-8CB6FBE8C36F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/9A3CA102-F49E-4A1D-BB44-8FE7E68A97AF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/C635B096-1BD2-4E50-84D7-90CD65B019CF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/7B35FC2E-77BD-4F22-8182-928E06CB2145/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/D687087E-86EF-42B6-BC37-93F6EE34AD35/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/1D130BBA-D738-4C85-9776-93FB23A426E8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/A4A4ED88-B07E-4C63-AC0F-943F07B5B17C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/545ECEA2-EA0F-4733-AD69-9483298CA9ED/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/88BCB4E6-53F6-4FE0-8739-94DA0573F995/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/EC0337E4-8842-4AB4-BB3D-970C6C291CEA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/31B177CC-2642-44AF-946E-9C753CC497EF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/73063A2E-38D0-4EE0-A38E-9CE2732CF0A7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/41B1A148-6A26-4922-BD8A-A2F95EF1331D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/D148FF30-EEE8-4928-96DA-A6EBBD6A3636/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/B5028D56-39AF-424B-A3C3-A81B05A7CD83/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/F4BCB53B-ABD8-469C-959F-A8D9BB7954E5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/B9A81B0B-4359-48CD-A2B5-A940119F8182/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/68EC784C-CC5A-4536-9054-AAB41729C225/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/C91B3E1C-F349-4248-8BBF-AEEF0AE2B7E3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/70A40DB2-0A90-4F0B-8359-B75CB1CC5B92/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/C37431AF-28D0-4856-88AB-B847D20F2597/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/8AEA0013-5CBA-4AB2-A8B9-B8BAF0291A32/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/770B21F2-82FF-41B8-AB1C-B96BB1521660/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/05D3CA04-FB17-4050-BEE2-B9E55658516F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/69F2A72A-EEAC-4A1A-9325-BBE6DF437D12/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/B6D921B7-A09D-4A76-9E1B-BE0ADAE6C5C9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/8ACE08DD-9859-48A0-A82C-BEC858FDD943/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/4151F857-E62B-437F-A367-C9662810689B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/71846243-C6B7-49AA-AC8D-CB17E6A89D28/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/C2837917-553A-4E2A-8450-CCA60486D63D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/7C8C7A2A-81FD-4874-A88A-CDBBC8684FEE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/9B8D8161-2594-40EB-B9EC-D109D1EDF904/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/EDC90F5D-6C38-40F0-9418-D3566A493512/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/47F89209-551D-450D-969E-D988D9E1B3C7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/DDC79990-2709-4505-A9CA-DC9D133B9A9C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/E87DD484-4743-4514-AC11-DCEA0D093BB7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/83A9AAAC-A076-4D41-8851-DE320A6AB584/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/31E8AB61-89B8-46DC-96D3-DE4E88FD5B6D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/055BF4A2-6A74-47BF-A6F8-E0CB4F8E3758/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/07AB9978-1A7F-4C86-8B09-E52454D3E9DA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/D478369A-6EDD-4FBB-9BED-E824E59A74F5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/0143C0D7-ED7F-4565-8BB0-E856E93A5E3F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/7B755DEE-D1BB-4C6B-9AF0-E949FD4104CA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/928CB5E6-C132-4403-9452-EC3AB93D54E6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/5E569FBD-ABAA-4D9A-A0CF-ED8185DAC02C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/1DBDD22C-FBC7-4411-B60B-EF0D7748AC0E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/E41E533C-7D1B-46F6-AC9D-F08F4613A3CC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/B3C90C37-E5E0-4249-A2F2-F32FD9C435CD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/7E5EC73F-9E60-4FE6-B6D7-F3467D14B215/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/3F3AAA4A-EAD0-474A-B5C5-F3FD4DA6D401/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/90CD869B-DE07-4B08-BDE1-F5364CE436E8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/BD49A768-10FB-41F4-BB5A-F6978940F55D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/80C4FF9A-6BB7-466C-AFF1-FBD0A3605316/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/DA0F328D-AD33-4B6C-8808-FC4295D47875/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/36E7FBE9-D7CC-447D-BEF9-FF2E38B692BA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0339D3DB-A664-465C-815C-41A5C3E3B04A/resource/6AA46EAF-7494-4248-8601-FF58FE250032/download"
+      ]
+    },
+    {
+      "id": "15458",
+      "name": "內政部移民署業務-申請須知",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/82A7B0D6-3348-4EF3-A3A2-7F6EC98B0BB0/resource/6FE49157-09BE-499C-AF94-1646EFF41745/download"
+      ]
+    },
+    {
+      "id": "40127",
+      "name": "內政部移民署業務職掌",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/19255563-9B01-4CDA-A6AB-4117EFCF7D0B/resource/66BB0301-F813-45E0-9546-4246942FCFD1/download"
+      ]
+    },
+    {
+      "id": "40131",
+      "name": "內政部移民署活動訊息",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47CB4521-DB58-4894-A9AE-B06092A5B928/resource/1F895BAC-EA2C-493D-9D05-6D9D2CC8E6F3/download"
+      ]
+    },
+    {
+      "id": "40136",
+      "name": "內政部移民署新聞訊息",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FC9002C6-E652-4764-BEDA-74695EEDA430/resource/A7DA5995-90DD-4361-94E5-38E69317A164/download"
+      ]
+    },
+    {
+      "id": "53678",
+      "name": "自動查驗通關數據",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D4A96528-E663-4670-AB65-38B7D4449D18/resource/47134E51-84C6-48EA-858D-C3DC45EDB2C3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D4A96528-E663-4670-AB65-38B7D4449D18/resource/67C8116C-2FC0-4D58-BECE-D5B64D4FCA89/download"
+      ]
+    },
+    {
+      "id": "73239",
+      "name": "本署服務站地點一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/04CE23CE-2092-40BA-9BAF-0EA32C111D48/resource/490AAF24-7D3C-4CD2-BEFC-37E00B6573DD/download"
+      ]
+    },
+    {
+      "id": "86171",
+      "name": "新住民發展基金獎補助經費季報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/96D55501-4A07-42B4-BD36-0CC0D0FC5A72/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/8BCF954B-2BF5-438D-836B-0D944449ED3C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/2DD3B27F-E399-4EA5-9751-116639704842/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/68C30E52-6518-4944-854B-125555B364EB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/24B62A84-9054-4B69-A5EA-14E72A76A8AE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/30057683-43D6-4402-BD85-1743629E81FD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/34BC8F8B-5E49-4E1B-A874-1F8D19A43E52/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/345D177E-4F79-443D-8626-208BB49E0277/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/3B8D8CF0-6FB8-4FB1-B1C7-2116D0EC710F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/F9877CB4-180A-4407-953A-21286469FBF2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/49BDED03-6270-4468-8B25-21892AFB6D1D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/47788217-3CEE-4D0A-A66C-24100A6EA6B5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/5C805F19-4DC1-4377-8B85-2928CD844D98/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/60F8EC17-36A2-49B1-8813-29E8346EEA68/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/A7857631-84A9-4DFB-AB71-30AAED340197/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/92154F9B-5FAA-4289-A3C4-33E2AC0AC4D0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/E2D7FA9B-8FCC-44BF-A1FE-35E9C13E452C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/9BED9C38-0B87-4845-892B-4272F04152C4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/941FE9A6-94F1-4CB8-B819-4432822B7BA1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/A7AE26CF-46DD-4C35-9049-47BAC3081D47/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/A2C626F3-6331-430C-9855-4CB68B3279D0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/C03AA48E-A6B8-4860-ACFC-5ECDBBDBC1BA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/779CC513-1BBA-46CA-A2EA-5F4A49B39399/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/F2E3046E-DBF7-479B-9202-60E211C3C431/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/95D51BFF-852C-4952-8A1D-6841A21E57D7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/00B30733-ACBF-4491-B2D3-6CFC32C1B08E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/C7A5E513-56C2-42DF-8537-75231A8C6F4E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/7F8EDEED-7913-42EA-82B5-7CF5D73DC5AC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/32CE1213-5694-4A37-B941-7E8DC614879A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/1DB48772-2674-408D-B6AB-8482BD9C5159/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/89666DFF-DD29-440F-8810-87422C5CE7AA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/B83053FA-5679-4FEE-82CF-89F38DE096BE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/8BB58F51-6D35-4FA5-9555-8AB13C7D358D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/641BFFCA-363E-4AEA-B1D6-95446278DC37/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/6820AE21-1453-4E7B-8062-A551EFA756DD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/50A5538B-C854-441C-B7D1-A6DB1D105E81/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/DEC2FFB3-8E0E-44B4-9813-A7085C783199/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/8B45C674-7207-4042-9696-B165EDB5273D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/4B272F5B-1F32-4931-9224-BD9AE5AB99C3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/A47A6A79-369A-437C-93A8-C563C71F7D91/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/A9FC3017-5680-4F59-A843-C58C04611DD4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/CE963695-C2B2-4764-8FC5-C6F21D9B2795/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/48284AF0-FEA0-449A-92D3-DCB700BBA8DA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/0C70A2E7-9C16-49AA-AF7A-DD949B35FBB2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/3C867893-7BE0-4DBB-9B30-E28B8CBA3DC9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/45288DAE-18ED-469E-B5F8-E7CE7EDF8302/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/0365FE87-F1F0-4952-8921-E8F7D82CCD41/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/9AB42E86-215F-4B5D-A889-EADA6F891FB3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/AFB8505E-99BB-434B-ABD0-ED046E8AB169/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/CA1F5ADD-98C7-4DCD-AEA3-ED13AAC15C2E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/39B57BFD-2856-4586-8F9C-F3A99FAC1D78/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E244FC12-D9E0-4E98-82F0-1DE984A9B753/resource/D01B6E18-8202-4471-B547-FB46B73322FC/download"
+      ]
+    },
+    {
+      "id": "103057",
+      "name": "臺北港出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TWTPE5"
+      ]
+    },
+    {
+      "id": "103061",
+      "name": "臺中港出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TWTXG5"
+      ]
+    },
+    {
+      "id": "103063",
+      "name": "馬祖港入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TW1FO1"
+      ]
+    },
+    {
+      "id": "88853",
+      "name": "高雄機場入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/KHH1"
+      ]
+    },
+    {
+      "id": "85650",
+      "name": "港澳居民網路申請入臺證年報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/13D48134-3BBC-4964-A188-8419FCA94257/resource/8E266774-6696-4C97-863E-107298D2BCF0/download"
+      ]
+    },
+    {
+      "id": "85652",
+      "name": "僑民役男網路申請出國核准年報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/97D377A3-E9F4-4C99-86A6-85159FC5AB8D/resource/6F5ABC87-BE23-449E-9D8F-EAD1EF7B2088/download"
+      ]
+    },
+    {
+      "id": "85653",
+      "name": "赴國國外(或大陸地區)就學役男網路申請出國(境)核准年報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E0DF5DBA-C138-43A7-ABB1-3C996D213502/resource/40D34725-2139-4148-A5FB-76D6B024611C/download"
+      ]
+    },
+    {
+      "id": "88851",
+      "name": "桃園機場入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TPE1"
+      ]
+    },
+    {
+      "id": "88769",
+      "name": "松山機場入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TSA1"
+      ]
+    },
+    {
+      "id": "126775",
+      "name": "臺東機場入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TTT1"
+      ]
+    },
+    {
+      "id": "126780",
+      "name": "嘉義機場出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/CYI5"
+      ]
+    },
+    {
+      "id": "126783",
+      "name": "澎湖馬公機場入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/MZG1"
+      ]
+    },
+    {
+      "id": "126790",
+      "name": "花蓮機場出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/HUN5"
+      ]
+    },
+    {
+      "id": "126796",
+      "name": "臺南機場出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TNN5"
+      ]
+    },
+    {
+      "id": "126803",
+      "name": "臺東機場出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TTT5"
+      ]
+    },
+    {
+      "id": "127457",
+      "name": "海外為民服務與輔導照顧",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3C72C91A-4506-4240-BE0A-B86727256D55/resource/CA599FAA-23B6-4E3C-93A4-AE413B2E1E24/download"
+      ]
+    },
+    {
+      "id": "127458",
+      "name": "協助遣返境外涉案國人",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/41493DD6-DBAD-461A-9C0A-9AE02E751D66/resource/DD142A9E-476F-4CC7-8568-77516EF78108/download"
+      ]
+    },
+    {
+      "id": "127657",
+      "name": "外來人口逾期停留人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6870CCCA-A60A-4F92-A8DC-96AE202AE455/resource/B886784C-F16B-4162-9E0B-AB8966A22761/download"
+      ]
+    },
+    {
+      "id": "127658",
+      "name": "外來人口逾期居留人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/9AC35AA7-2A8B-4D7D-8A0B-042ABEA0401E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/018BF7F4-C04D-4CE4-ADFA-255F1C46F557/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/0F0DAA35-3A5D-4F60-AC0A-3578115A73C2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/ECC4FFCD-A88A-4BAB-A21E-638C259C9B11/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/073C7CB0-ADD2-478E-AF45-993EFD1F89CA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/98C2C36D-BCFC-455E-830C-A0E64FDCE9B9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/9F83ED7F-D15D-44CB-A41B-A7487A43BEA9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/FABC418D-2690-474F-9C42-B9740690EC91/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/B176B9BE-951C-4990-AD69-D4F9A17FCD3A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/6353E765-EFBD-4D10-8379-E1116641A4EB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/711266F2-86A4-432A-AE31-E9801A11B878/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/8FA139B5-47A7-40DB-83B1-EEDCD260629B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/777860EC-02ED-4546-ADE9-1ED2ED69620E/resource/A70400E3-6C10-48ED-B6F7-FD020A301364/download"
+      ]
+    },
+    {
+      "id": "127660",
+      "name": "失聯移工人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9D76417E-91A2-43D2-82A5-3190B1470874/resource/45A1815F-AB56-4157-B50A-D26B7240C225/download"
+      ]
+    },
+    {
+      "id": "127722",
+      "name": "有效居留證外僑統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/B0848F1B-075F-4A00-986F-2F5A0A826C4C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/201EC0EE-95D9-42C1-A626-397DA944552D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/26B743C6-1D0C-4F81-A0E0-460B0686C82B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/ADE0DA06-BC89-409F-A3E5-54805C6D58E0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/3A2F0117-674B-4ED5-9A47-719E319F705B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/9FE54D97-C852-432F-9841-77836A98A3C5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/858087B7-0148-4F13-931C-8BD86C4F2A96/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/89A16EDB-2793-44F7-BB3A-933E7DD23984/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/1F35CC02-4666-402A-9594-AE29ADE86A23/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/4F4F0517-661C-4990-B7A2-C50752B697A0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/8A3630E4-2F7E-4326-BCC9-C6FF683A3181/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/374C0E54-590B-4FDD-8CF4-8E0C67AC60BE/resource/34B7F5D9-B53B-4173-A42A-D18D29AB4C62/download"
+      ]
+    },
+    {
+      "id": "136514",
+      "name": "內政部移民署109年公文線上簽核績效",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F4A2BB01-AF09-4A59-88D3-7B1169D74B1C/resource/0E4AE798-F65E-4F73-9D90-0AF793B0EA11/download"
+      ]
+    },
+    {
+      "id": "139447",
+      "name": "大陸地區專業人士來臺從事專業交流入出境人數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B27641BF-B37E-43E8-94CE-65937F538083/resource/3EA05F44-A785-4C04-AAB4-7ECD063F5BE9/download"
+      ]
+    },
+    {
+      "id": "139749",
+      "name": "屏東機場入境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/PIF1"
+      ]
+    },
+    {
+      "id": "136304",
+      "name": "內政部移民署新聞露出統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BC2273F7-1722-4326-AB9B-C0B2A65A3CDC/resource/4838E8DC-6146-489D-9016-10F4F6D15558/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BC2273F7-1722-4326-AB9B-C0B2A65A3CDC/resource/42E850F7-021C-499E-BCF4-36CA45FA1B90/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BC2273F7-1722-4326-AB9B-C0B2A65A3CDC/resource/3744456C-81DD-4C7C-BC31-E2013ECA537E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BC2273F7-1722-4326-AB9B-C0B2A65A3CDC/resource/494824B1-94CA-48F9-85E8-EADC3D552154/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BC2273F7-1722-4326-AB9B-C0B2A65A3CDC/resource/854F6C98-0BBC-4539-8E0C-FA233445496E/download"
+      ]
+    },
+    {
+      "id": "138689",
+      "name": "內政部移民署歲入收入收據件數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/624BE1EC-20DD-4AB4-98D6-F99047124F3D/resource/ADBC8611-90B0-4573-A1C8-46842292F592/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/624BE1EC-20DD-4AB4-98D6-F99047124F3D/resource/4BEDC153-05EF-455E-A033-61B6D7164413/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/624BE1EC-20DD-4AB4-98D6-F99047124F3D/resource/7D8BEBC1-7CCB-4AE4-9229-7C957CB826F7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/624BE1EC-20DD-4AB4-98D6-F99047124F3D/resource/5C2FE509-ED61-43AE-9EF0-954ADFA05A3C/download"
+      ]
+    },
+    {
+      "id": "161850",
+      "name": "內政部移民署111年度國家賠償事件處理情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0D00DCE5-112D-4FF4-BBE3-8A3CFF679ECA/resource/3374B45E-A2A7-41DC-8027-A2874515A430/download"
+      ]
+    },
+    {
+      "id": "172924",
+      "name": "112年有效居留證外僑統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/250BB419-DF4A-45FC-B856-144A309587AE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/DEC2CD05-C7E3-487C-B525-15804E9375E7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/508C8C1A-B0DD-4223-9149-29A7C21FC436/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/014F222D-59A7-40A8-980E-2B1F9CB23AB1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/36DE1303-5D0B-477C-A31E-46D0AF920247/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/95A127CE-53F1-4127-922F-7CB4108ECC59/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/21728F94-095C-4EE1-92FD-C04020568DB2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/B95E2E09-D670-443B-B9EE-C5710B8490B5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/BFF4F1CC-D90B-4BAF-9AE5-C58DBA19A26F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/B6AF5C37-7DE1-4EE7-A5C7-CA2CF2DF3EA4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/D73A3CFB-1B06-4802-A520-EB188E91CABE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5AF23C87-71F9-454E-B86D-3616B7ADD4C3/resource/FC07739D-9CB1-44DF-A641-F22991B7EFCB/download"
+      ]
+    },
+    {
+      "id": "167538",
+      "name": "桃園機場第一航廈出境人次預報",
+      "format": "json",
+      "urls": [
+        "https://opendata.immigration.gov.tw/APIS/TPE51"
+      ]
+    },
+    {
+      "id": "167818",
+      "name": "112年度補助地方政府辦理新住民生活適應輔導補助要點成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9212412F-C462-467E-B0DC-29FE3BE557AB/resource/09F31EDE-6F33-4B66-B453-C3FCA1EB39D9/download"
+      ]
+    },
+    {
+      "id": "167819",
+      "name": "112年度補助地方政府辦理新住民生活適應輔導經費執行彙整表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F27F7D9D-66DA-4D66-A074-75EE44312E90/resource/17A40653-1D7E-4166-BE8E-37EBC77FFEAD/download"
+      ]
+    },
+    {
+      "id": "168946",
+      "name": "經許可從事跨國(境)婚姻媒合團體數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/55466959-02A5-41B3-8067-F717925F3DAE/resource/09C5C976-C90F-4FAA-92D7-5BEBBFB3E63F/download"
+      ]
+    },
+    {
+      "id": "168947",
+      "name": "違反跨國(境)婚姻媒合裁處情形",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/49E33D78-485C-4A54-A5E7-84ED46297D7B/resource/D47B32D8-319B-4668-A09D-3B26C71FD703/download"
+      ]
+    },
+    {
+      "id": "173597",
+      "name": "內政部移民署113年公文線上簽核績效",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AC66B534-A0B6-4DEB-848F-D518488B7423/resource/BB90A30B-0508-4BD3-B5AD-D103EC637EBD/download"
+      ]
+    },
+    {
+      "id": "173741",
+      "name": "內政部移民署113年度辦理人民申請提供政府資訊案件統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/164BFC53-C6EF-4BD6-B3FA-FDFF4444B62D/resource/6EB477FC-DA5C-4B59-BBD9-DA6F43A432CA/download"
+      ]
+    },
+    {
+      "id": "173624",
+      "name": "內政部移民署113年度報廢公務車輛及資訊設備變賣案公開標售決標資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/73EB8B86-162C-47CB-9CB3-CD115A854EC7/resource/B69ECFBE-F0F2-4CE5-BF33-F0E4B1E35F88/download"
+      ]
+    },
+    {
+      "id": "155771",
+      "name": "有戶籍國民有入(出)境紀錄者停留境內未滿183天依年齡、性別分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B4454964-BB82-43EF-8D95-AD1793486A4A/resource/A7E67936-C8A6-46BA-BE7A-C7ED6DB914F5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B4454964-BB82-43EF-8D95-AD1793486A4A/resource/97286764-2904-4448-98AD-E86F79B73F15/download"
+      ]
+    },
+    {
+      "id": "155936",
+      "name": "無戶籍國民有入出境紀錄停留境內未滿183天依年齡、性別分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CA4A0FB3-F8E3-47E3-8B00-1C617B027EDA/resource/FB822DF4-185D-480D-A5AA-3A2552B7FF1B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CA4A0FB3-F8E3-47E3-8B00-1C617B027EDA/resource/EEE7C05B-0B33-4762-B31F-925BE538A70E/download"
+      ]
+    },
+    {
+      "id": "155802",
+      "name": "大陸地區人民有入出境紀錄者停留境內未滿183天依年齡、性別分",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/100A2E90-C9EE-459E-AD6A-E9CB67504023/resource/61D1A601-AF48-4C25-B5D6-7239E2E92C34/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/100A2E90-C9EE-459E-AD6A-E9CB67504023/resource/74367F25-F302-4A8D-8A83-8197803B10B7/download"
+      ]
+    },
+    {
+      "id": "155791",
+      "name": "內政部移民署110年度國家賠償事件收結情形表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F6B49B3B-157F-42D2-B8A2-1236DD8A27AF/resource/392BB3EE-9048-420C-8AB5-7F2FB95877E4/download"
+      ]
+    },
+    {
+      "id": "147634",
+      "name": "內政部移民署110年公文線上簽核績效",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F081CC58-7637-49E3-93E9-6A70C732FD2B/resource/C879A928-EB44-408E-9C01-A02E5DA1D205/download"
+      ]
+    },
+    {
+      "id": "174231",
+      "name": "112年新住民數位資訊e網會員數統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E1FC9743-9969-4BC7-9196-07B2C0FEC9B0/resource/387B08F9-CA28-42E1-83E9-F2C50BE8399B/download"
+      ]
+    },
+    {
+      "id": "174236",
+      "name": "建構新世代國境查驗服務計畫摘要",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CBB1912B-8B3C-491C-9E9B-81EAB6B181A4/resource/24A86A2B-766D-475B-A785-B470C5E55A7D/download"
+      ]
+    },
+    {
+      "id": "174237",
+      "name": "移民署業務諮詢專線",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A5DA9C7C-235C-43F1-A5E6-ADD8F7410D52/resource/46F5F08B-5456-44C5-8EDA-1928B22F53C4/download"
+      ]
+    },
+    {
+      "id": "175601",
+      "name": "內政部移民署南區事務大隊所屬服務站辦理新住民家庭教育及法令宣導方案成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AFB622DC-A3F4-40E8-9B2C-C34241DB30D0/resource/AF1FBF83-0FF7-4621-A858-DA1E8EF085B1/download"
+      ]
+    }
+  ]
+}

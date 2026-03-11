@@ -1,0 +1,1087 @@
+{
+  "type": "dataset",
+  "provider": "內政部空中勤務總隊",
+  "slug": "opdadm_moi_gov_tw_449fbcbf",
+  "datasets": [
+    {
+      "id": "18548",
+      "name": "空中勤務總隊會計月報",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/EC5BF363-30E7-41EB-8F87-0A85F4581171/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/8EF56E3E-EB77-4C0A-B501-17E29EFAAE97/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/4ED1F06E-39D9-470F-BE3F-28679B7AEF06/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/C6CB57CE-506C-4E1C-9746-2CA08C1E1A97/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/1D69B30F-72E1-45C1-861C-3419B1C71378/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/5006BE89-EDD2-4585-A1E5-34523B5468BF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/47171EAC-5D5F-4B26-8EA7-4532752CE2F3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/662FD69F-8A97-47CE-B229-493C18B74B2E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/B229C784-ED96-4C32-9A8C-4C68B1525093/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/FD5F03FC-97C5-44F3-9399-509D73FFBB22/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/66F551F5-B52E-46BA-B04E-57E5E5DBE124/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/91C2CE7B-C611-470E-B2BF-71081DED1A0D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/7D967D75-0042-4EA4-A12D-A6CCFF1BE2E9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/848E19AB-0DA6-404F-AB46-B6D8D055F9BD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/DAA93FF0-D55A-460E-8D6F-BEAFF78CF138/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/04ACD0EE-AB20-4DFA-B26B-C104F6514BDB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/F5F69D49-3447-45C1-B890-C2CF9F50CF8F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/93CAB629-297C-4333-80F9-C49B2C30D328/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/A50F4350-D55C-454C-8FD2-C8F8546B3986/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/7FF547FC-59FE-4833-9301-CD69D5AD6161/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/7315F2AC-B7E8-42A9-B4BE-EBAE62BD004A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/7D4825B8-F50E-4CB7-8BFC-F06F146B4515/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B034AD29-DE40-49E9-84D2-F07760BE3C06/resource/35823796-C735-41F3-9A0D-FECF27F0A1DF/download"
+      ]
+    },
+    {
+      "id": "7454",
+      "name": "空中勤務總隊位址",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C3041E2C-EBED-4120-A8FA-9E3B1867E24C/resource/10D06316-B2D7-4058-AF7A-3057E3F062F9/download"
+      ]
+    },
+    {
+      "id": "19666",
+      "name": "內政部空中勤務總隊決算書表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/06475FEE-76F0-4292-9A50-356DF8FE2C7D/resource/6D09F142-1DEF-443E-977F-056AE6FF93A9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/06475FEE-76F0-4292-9A50-356DF8FE2C7D/resource/31FB0A0E-7D2D-445D-8707-0C9915E1432A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/06475FEE-76F0-4292-9A50-356DF8FE2C7D/resource/8FCBFE50-525F-4BCF-9512-29B412FCB0A1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/06475FEE-76F0-4292-9A50-356DF8FE2C7D/resource/D018585E-B66F-46D7-BA51-2AE43A27CDF7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/06475FEE-76F0-4292-9A50-356DF8FE2C7D/resource/D7AE5964-1930-4A66-B21F-33F9D0D67C5D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/06475FEE-76F0-4292-9A50-356DF8FE2C7D/resource/764B1C4E-5176-4517-9076-5C61A8684663/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/06475FEE-76F0-4292-9A50-356DF8FE2C7D/resource/227DC641-1BE3-473F-A383-8713C0539E1C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/06475FEE-76F0-4292-9A50-356DF8FE2C7D/resource/31B45F0E-4FAF-41D4-8BD5-9AEC08E9B57C/download"
+      ]
+    },
+    {
+      "id": "106564",
+      "name": "內政部主管辦理政策宣導之執行情形表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/84879C26-212E-4E38-AB95-030CAAFAB422/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/C3D1D183-5ABF-4029-8E4B-22FF8708876A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/77F721EC-C4CA-4C51-9CCB-25952164ABF2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/8FB4CD0B-C861-4009-9645-268B49543114/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/6DF95CAE-A5C3-486B-9215-2D441C9003DD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/E901760C-4FD2-49F8-BD7E-64FA9D80DA96/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/BBA631B6-0829-4E9F-A074-6DD1F66981BF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/A0B48DD5-F029-4A80-9305-747D77893A37/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/DA23C4E8-25AF-4955-8920-CEC91A913A6F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/826902D9-7319-4495-8960-D54EB7101360/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/4BD0E756-6849-47B9-AEDE-F2ECB7DD75D7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DDD73AE-96CD-426F-A58F-1DEA6B782561/resource/433BBA5A-1E84-4588-A22A-FB3D97956200/download"
+      ]
+    },
+    {
+      "id": "112221",
+      "name": "近五年內政部空中勤務總隊執行火災搶救任務績效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03AA056A-934F-4CB4-8CE0-80116E97A5A9/resource/58421F74-402E-413D-BFE8-0219D25DBD29/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03AA056A-934F-4CB4-8CE0-80116E97A5A9/resource/8DCD3646-CCFE-4D6E-94CE-07EDDE160813/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03AA056A-934F-4CB4-8CE0-80116E97A5A9/resource/4386030C-F21A-4D42-8AC0-5A7F6AA8F05C/download"
+      ]
+    },
+    {
+      "id": "97589",
+      "name": "內政部空中勤務總隊各勤務隊執行分項勤務飛行時數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/65DE7BC7-92D3-4D34-B264-BBFA47729EDC/resource/37760984-4A8F-44B4-B1E4-874D59499A12/download"
+      ]
+    },
+    {
+      "id": "97630",
+      "name": "內政部空中勤務總隊勤務第一大隊任務執行成效",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/58E9A506-4F5C-47CC-8F19-0AA7046F4A9B/resource/8FE4A77D-954D-4ADF-874E-FBD837271ED7/download"
+      ]
+    },
+    {
+      "id": "97631",
+      "name": "內政部空中勤務總隊勤務第二大隊任務執行成效",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E74785F-69A4-415A-9C5B-90064479C79E/resource/276C512C-E01E-48A2-B185-84865C42CE91/download"
+      ]
+    },
+    {
+      "id": "97823",
+      "name": "內政部空中勤務總隊執行山難任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A367AA79-C793-4223-842A-7B004FF7764E/resource/DD22F1BD-CBB1-4666-A5E9-5C6AA3A59569/download"
+      ]
+    },
+    {
+      "id": "98014",
+      "name": "內政部空中勤務總隊執行重大意外事故搶救任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FAFD9D0A-6327-4BCE-9E4E-87CD0EADA95C/resource/5081214D-E37B-464E-8695-B35B5608827C/download"
+      ]
+    },
+    {
+      "id": "98019",
+      "name": "內政部空中勤務總隊執行水上救溺任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EE6CA8B0-8445-45A1-B492-2BF3A84486D3/resource/8D1985C9-B45E-4ADA-9FD7-65F706759DD2/download"
+      ]
+    },
+    {
+      "id": "97904",
+      "name": "內政部空中勤務總隊執行風災搶救任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/18826220-B903-4AC2-A22B-2E9C45718FB8/resource/1656D16D-F0A7-432E-8D20-4956C48CC36C/download"
+      ]
+    },
+    {
+      "id": "98258",
+      "name": "內政部空中勤務總隊執行演習（練）成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6DF9605E-F66D-4756-9A01-A8431EA905DD/resource/1B293187-87AC-4EBE-AD30-FEE8DDA51FE3/download"
+      ]
+    },
+    {
+      "id": "98261",
+      "name": "內政部空中勤務總隊執行維護飛行架次統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6BF3BBBD-31A2-44B6-ABA2-B8EF92C9D365/resource/D36AA54B-F703-4D27-8713-D10573F7060C/download"
+      ]
+    },
+    {
+      "id": "98057",
+      "name": "內政部空中勤務總隊執行海上救難任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A03DF4AA-35DF-46FC-814C-A408B911B81C/resource/48BDA015-9259-46F6-900E-FC842522F136/download"
+      ]
+    },
+    {
+      "id": "98059",
+      "name": "內政部空中勤務總隊執行犯罪空監追緝任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BD7338C6-6911-4284-B5A6-0B43F0C0CF8B/resource/0C4213AC-0C66-4BD3-BEAA-5CE33422D9EA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BD7338C6-6911-4284-B5A6-0B43F0C0CF8B/resource/3A98A5B0-069C-42DC-940F-7119265AC2EF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BD7338C6-6911-4284-B5A6-0B43F0C0CF8B/resource/FFC88F21-8519-48ED-949E-7613B4F8CB63/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BD7338C6-6911-4284-B5A6-0B43F0C0CF8B/resource/406EA0E9-B4F8-458C-A17C-B5E39C262267/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BD7338C6-6911-4284-B5A6-0B43F0C0CF8B/resource/170D1D5E-A7C1-407E-B8C4-DA76EC400B71/download"
+      ]
+    },
+    {
+      "id": "98060",
+      "name": "內政部空中勤務總隊執行器官移植任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B46FF9D3-1FAC-4221-95F0-1ECF59D5AA90/resource/579CD9D4-2056-4068-9A54-C40B6854F31B/download"
+      ]
+    },
+    {
+      "id": "100323",
+      "name": "內政部空中勤務總隊空勤模範人員",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/96696BDE-8828-4F29-A925-37A1DDCF0D91/resource/0FD02392-9EA7-4FB2-8E40-56FA566A9255/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/96696BDE-8828-4F29-A925-37A1DDCF0D91/resource/50118B39-5A21-4B8D-B5BF-A35924116A66/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/96696BDE-8828-4F29-A925-37A1DDCF0D91/resource/A7A64646-9466-4D1C-8A20-FA4CD3259632/download"
+      ]
+    },
+    {
+      "id": "163060",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行水上救溺任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/62E2C75D-67E6-44B7-B000-820A98C4E3F5/resource/CC222646-502F-49BF-BB57-414A19D40533/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/62E2C75D-67E6-44B7-B000-820A98C4E3F5/resource/94EB0FD1-812B-4712-9722-E83AEE8402FD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/62E2C75D-67E6-44B7-B000-820A98C4E3F5/resource/352F2270-DF40-42D9-8DA5-FDF06C39BF57/download"
+      ]
+    },
+    {
+      "id": "163061",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行海上救難任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/251A80AD-3A19-4704-8240-5A6EAE4192EA/resource/802A86A1-E502-4139-A1FC-2AD610B6020B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/251A80AD-3A19-4704-8240-5A6EAE4192EA/resource/297D3E5D-2A3C-4FFB-9494-CEF0BAADA6D1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/251A80AD-3A19-4704-8240-5A6EAE4192EA/resource/1C5BC076-F452-476C-951E-EDB8815FAEDF/download"
+      ]
+    },
+    {
+      "id": "163063",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行醫療轉診任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DC224DB-E09D-456E-80A9-923390FD5AB5/resource/5E5E7572-D048-4765-A6FF-67D78FF0737E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DC224DB-E09D-456E-80A9-923390FD5AB5/resource/356007CA-58BB-4D2D-A230-F282D25DF841/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0DC224DB-E09D-456E-80A9-923390FD5AB5/resource/8D5FE231-4D5A-4865-8CCE-FF54856C021F/download"
+      ]
+    },
+    {
+      "id": "161594",
+      "name": "內政部空中勤務總隊AS-365型機年度執行山難救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DA45C1EE-A6A5-45E4-AA0A-EC007C24A5D5/resource/A0C1B316-9D9F-400C-9C36-507AFE7E893B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DA45C1EE-A6A5-45E4-AA0A-EC007C24A5D5/resource/B78C5344-DD33-414C-ADE0-7EC983549526/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DA45C1EE-A6A5-45E4-AA0A-EC007C24A5D5/resource/19036680-7AA8-49B7-8AEA-BDBD46351387/download"
+      ]
+    },
+    {
+      "id": "161598",
+      "name": "內政部空中勤務總隊AS-365型機年度執行水上救溺救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DEBBC59D-41CE-4420-857E-A770154F3B28/resource/A52A7FD2-14DB-4E73-951F-85A4508DFBD9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DEBBC59D-41CE-4420-857E-A770154F3B28/resource/1B6F781C-B6B1-47F1-AF31-CE8645023300/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DEBBC59D-41CE-4420-857E-A770154F3B28/resource/9CF6C201-3ADE-44E0-B288-DAAEF1B132CB/download"
+      ]
+    },
+    {
+      "id": "152102",
+      "name": "內政部空中勤務總隊年度執行五大任務救援性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2C05A3E5-44BE-4ACA-B963-E9AC189C70B9/resource/EE72E979-8D1A-4343-85EC-3026D1C04409/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2C05A3E5-44BE-4ACA-B963-E9AC189C70B9/resource/069C8B7A-D769-4121-B41E-4A61350D618A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2C05A3E5-44BE-4ACA-B963-E9AC189C70B9/resource/E6CE5391-A56F-4829-BD16-A23E6BDC1D47/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2C05A3E5-44BE-4ACA-B963-E9AC189C70B9/resource/EB4ED9E5-BD02-48A6-B8F9-EBD98A62319D/download"
+      ]
+    },
+    {
+      "id": "152354",
+      "name": "內政部空中勤務總隊年度執行山難救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/175E99B6-BEF4-44F9-92EA-823C36AAB0D0/resource/7FD2F2A2-82C5-4EED-91FF-477CDAFA9679/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/175E99B6-BEF4-44F9-92EA-823C36AAB0D0/resource/E095290E-F185-4CE3-AC17-7043CB927AC1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/175E99B6-BEF4-44F9-92EA-823C36AAB0D0/resource/D66E490A-F66A-41B4-9130-95BC4B23166F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/175E99B6-BEF4-44F9-92EA-823C36AAB0D0/resource/6678808B-56AA-446B-BD16-C9EC31B7B8DA/download"
+      ]
+    },
+    {
+      "id": "152359",
+      "name": "內政部空中勤務總隊年度執行醫療轉診救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B86D6FB-4771-4C90-AC55-56774174954E/resource/1C42E736-5C2F-4058-B156-5848FC37BF91/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B86D6FB-4771-4C90-AC55-56774174954E/resource/D35E180C-734B-4850-B8BF-A323A2C7A948/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B86D6FB-4771-4C90-AC55-56774174954E/resource/EBEC60C0-DA4B-491E-BD4C-C3411C2604ED/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7B86D6FB-4771-4C90-AC55-56774174954E/resource/118CA178-318F-4081-8C13-D5434261A12E/download"
+      ]
+    },
+    {
+      "id": "152360",
+      "name": "內政部空中勤務總隊年度執行水災搶救救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03421C46-7487-4C93-9373-C6E39444F227/resource/A2643E9B-3AB9-4C61-B3AE-0D145C07F51D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03421C46-7487-4C93-9373-C6E39444F227/resource/42FB5A7F-16C0-4CB7-B332-678715944FD4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03421C46-7487-4C93-9373-C6E39444F227/resource/CF5BA8B9-5ED4-4EFE-8159-7CA6732D1F1B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03421C46-7487-4C93-9373-C6E39444F227/resource/902907FA-643A-4ED2-8733-86863DDAFD34/download"
+      ]
+    },
+    {
+      "id": "152361",
+      "name": "內政部空中勤務總隊年度執行震災搶救救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E2737F0-B29F-4BA4-BC39-8220A5535785/resource/DA9C646B-2836-4B82-B687-094BB3159AD4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E2737F0-B29F-4BA4-BC39-8220A5535785/resource/CA161A49-0D80-4A6E-8BEF-177F7DA5D326/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E2737F0-B29F-4BA4-BC39-8220A5535785/resource/06640295-2730-452C-9C61-4401879014B5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E2737F0-B29F-4BA4-BC39-8220A5535785/resource/D2F6F0A5-A5C1-443E-9AE3-F1F090433351/download"
+      ]
+    },
+    {
+      "id": "173348",
+      "name": "內政部空中勤務總隊AS-365型機年度執行海洋(岸)空偵巡護運載任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DA70DD66-A850-46A4-9A82-317DBA76E81B/resource/1FE9EF03-C85F-4FC8-B57C-D00296D2321C/download"
+      ]
+    },
+    {
+      "id": "173357",
+      "name": "內政部空中勤務總隊AS-365型機年度執行演習(練)運載任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/91A1389C-A8C8-44DC-950F-509613D56A41/resource/4E1255EA-0586-4BC4-B227-1C6E034413D9/download"
+      ]
+    },
+    {
+      "id": "173358",
+      "name": "內政部空中勤務總隊AS-365型機年度執行空中運輸運載任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9A31554C-1862-4AAE-B59B-55ADACA99FB7/resource/56D2CD67-2CBD-496E-8C96-8503CB8C804E/download"
+      ]
+    },
+    {
+      "id": "167094",
+      "name": "內政部空中勤務總隊AS-365型機年度執行火災搶救任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/59DB0093-88B9-4790-98B7-AB1EC1A27C10/resource/133863CD-DD83-46BF-BF15-29AEF7FCEBFC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/59DB0093-88B9-4790-98B7-AB1EC1A27C10/resource/FADFBB61-7E6D-464A-A226-AFCD6A821D45/download"
+      ]
+    },
+    {
+      "id": "167140",
+      "name": "內政部空中勤務總隊AS-365型機年度執行重大意外事故搶救任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4CC1C823-826C-488C-8845-F23155E0804B/resource/FEEB4052-9792-4987-BC67-47308A5186B9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4CC1C823-826C-488C-8845-F23155E0804B/resource/6A54C2E3-EE65-406D-84BA-8621C83983EA/download"
+      ]
+    },
+    {
+      "id": "167141",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行火災搶救任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7C1BD7BD-4A55-4772-B35F-508860FF1BF8/resource/738E3C73-2439-472F-B94F-FBD2B3149BF4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7C1BD7BD-4A55-4772-B35F-508860FF1BF8/resource/B57A4830-2431-4456-B6B6-FDE4A3FF615D/download"
+      ]
+    },
+    {
+      "id": "167142",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行水災搶救任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AAAEF93B-517C-4F08-AD17-FBEDF93AB949/resource/CD3A4C7B-ED1E-43D5-B78E-12E4F5607276/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AAAEF93B-517C-4F08-AD17-FBEDF93AB949/resource/087CCC7D-F1D7-498A-B3FF-E4569908AB62/download"
+      ]
+    },
+    {
+      "id": "167144",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行震災搶救任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0B36E4CF-D74A-49C9-B3C4-847A5CD2B2DB/resource/B1B718F2-CB9E-49A7-ABD6-97FE888826E8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0B36E4CF-D74A-49C9-B3C4-847A5CD2B2DB/resource/0C9EE663-F82E-46DB-B4D1-BB14C20B5CD3/download"
+      ]
+    },
+    {
+      "id": "12473",
+      "name": "內政部空中勤務總隊年度法定預算",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/19F24EF4-697B-48FE-A6BE-2AFA2DBE7A2F/resource/F8970D7B-0E42-41A3-8600-537CBE31EB3E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/19F24EF4-697B-48FE-A6BE-2AFA2DBE7A2F/resource/1561652E-6568-4751-985D-7D03165FA3FC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/19F24EF4-697B-48FE-A6BE-2AFA2DBE7A2F/resource/E836E3BF-037F-4C44-BC13-A2669596B7BF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/19F24EF4-697B-48FE-A6BE-2AFA2DBE7A2F/resource/B7AF0FFD-7A54-4233-AB06-A8B66AF5E47E/download"
+      ]
+    },
+    {
+      "id": "22330",
+      "name": "內政部空勤三勇士子女生活照顧基金年度預算書",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/425DB165-DBEA-413E-AFBC-4A1BF5D4C452/resource/0202117C-B427-4AD5-B8BC-37D2301C1AF8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/425DB165-DBEA-413E-AFBC-4A1BF5D4C452/resource/57DE4E4B-B3A2-4F33-ACCB-3B3D39433C4F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/425DB165-DBEA-413E-AFBC-4A1BF5D4C452/resource/987D7E5E-C558-4DC8-92E9-9C2EE06A2766/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/425DB165-DBEA-413E-AFBC-4A1BF5D4C452/resource/5827A79F-28FA-4F01-98C7-A04A787789C9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/425DB165-DBEA-413E-AFBC-4A1BF5D4C452/resource/F2174B48-01F1-4B43-B514-A3F625FD02D7/download"
+      ]
+    },
+    {
+      "id": "53683",
+      "name": "內政部空中勤務總隊-主管補助縣市政府、團體及個人之獎補助經費季報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CA157EDD-8A1D-4071-9C24-8660AF96CFEE/resource/349F16A0-844E-4541-BBF4-D08BADDCB527/download"
+      ]
+    },
+    {
+      "id": "98218",
+      "name": "內政部空中勤務總隊執行國土綜合規劃空勘航攝任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0581E8CE-3C86-4F1B-83B9-2C8C07510E34/resource/2752B4A1-5D77-433E-AC7C-BAF0F57D50BB/download"
+      ]
+    },
+    {
+      "id": "98166",
+      "name": "內政部空中勤務總隊執行環境汙染調查任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4038B369-317D-4DC9-9B3F-28E8306B47AF/resource/9815EBBA-3FCF-48D2-9653-1FC39AC5DDF1/download"
+      ]
+    },
+    {
+      "id": "98150",
+      "name": "內政部空中勤務總隊執行海洋(岸)空偵巡護任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F71FA25B-B3C9-424C-A778-050ACB8A026D/resource/FF510A7B-1CA6-4063-A075-5D14692347A2/download"
+      ]
+    },
+    {
+      "id": "111756",
+      "name": "內政部空中勤務總隊勤務隊飛行績效分析表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5BE0B835-FE6D-472E-B989-A6967AAA42AC/resource/59D17398-4111-4A8F-841B-D326B897991E/download"
+      ]
+    },
+    {
+      "id": "112223",
+      "name": "內政部空中勤務總隊各型機種年度五大任務績效分析",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5B437BC1-BC28-49F3-85B8-0868AC4AF478/resource/5DF889E5-D396-4A63-A7D8-339D69A55AE3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5B437BC1-BC28-49F3-85B8-0868AC4AF478/resource/C90639C7-F094-41B6-ADB3-5E68EAFA1390/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5B437BC1-BC28-49F3-85B8-0868AC4AF478/resource/9676AD90-C3B0-4096-B004-B1D68B0CAF2A/download"
+      ]
+    },
+    {
+      "id": "112559",
+      "name": "近五年內政部空中勤務總隊執行五大任務績效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA404AED-F936-4F1A-B974-15F0068F0AE4/resource/D6A843FD-8A99-45A3-B211-6C9795FB1B5C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA404AED-F936-4F1A-B974-15F0068F0AE4/resource/B24E70F5-6B30-473D-AAEA-6F4FEBE040A6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA404AED-F936-4F1A-B974-15F0068F0AE4/resource/F6896DAA-87B6-4F98-AF07-738DFB618F4F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA404AED-F936-4F1A-B974-15F0068F0AE4/resource/FD9E2F6D-F695-42F9-9167-97205E41F5E9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA404AED-F936-4F1A-B974-15F0068F0AE4/resource/87AD9BBE-776E-491D-A4B4-AECA20EC78D9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA404AED-F936-4F1A-B974-15F0068F0AE4/resource/EAD43FB9-AF17-4214-A948-B5C135C0A2CB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA404AED-F936-4F1A-B974-15F0068F0AE4/resource/A7A651D7-C642-4C4F-9C42-E24804737507/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA404AED-F936-4F1A-B974-15F0068F0AE4/resource/ADB6B7CC-C14D-4D34-BFED-F793557D3B7C/download"
+      ]
+    },
+    {
+      "id": "97890",
+      "name": "內政部空中勤務總隊執行水災搶救任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/58DB1EC2-B687-49E4-AB38-3EFF896DE0E1/resource/A2D9146B-00B8-4997-9F20-373257194D27/download"
+      ]
+    },
+    {
+      "id": "98055",
+      "name": "內政部空中勤務總隊執行災情觀測任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5DFC09C7-D9F1-4177-9B12-C9106D164675/resource/D1D409B2-34A7-45CE-9DCF-55C106B1D3EF/download"
+      ]
+    },
+    {
+      "id": "98056",
+      "name": "內政部空中勤務總隊執行醫療轉診任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09954ACE-5CD1-4D38-86D6-8AAC8A987CC1/resource/DF86234F-B68C-4318-9016-9809159B2BD8/download"
+      ]
+    },
+    {
+      "id": "100171",
+      "name": "內政部空中勤務總隊執行試車架次統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B88046D0-758D-41ED-AC98-2960105D984C/resource/460B5970-4AFB-4B8C-A953-0FB17F19A0A7/download"
+      ]
+    },
+    {
+      "id": "117987",
+      "name": "內政部空中勤務總隊UH-60M機型年度五大任務績效分析",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DC26F593-D070-4115-A731-940AF955EAB1/resource/D5CE2063-2751-49AB-8774-6926CA546BD0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DC26F593-D070-4115-A731-940AF955EAB1/resource/2A0DA7AA-3446-47FA-9561-73E14A3172E8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DC26F593-D070-4115-A731-940AF955EAB1/resource/31AEA5E9-9F32-4BD2-9FC2-F9CCC0706A51/download"
+      ]
+    },
+    {
+      "id": "117985",
+      "name": "內政部空中勤務總隊Beech定翼機機型年度五大任務績效分析",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8DC55255-5C48-4741-810A-E615D601FD05/resource/D4032A85-F143-4432-A446-198F2AF3B594/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8DC55255-5C48-4741-810A-E615D601FD05/resource/0F4EC4F4-CD78-4A90-B1FC-4820B0EE159B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8DC55255-5C48-4741-810A-E615D601FD05/resource/5FC1283B-2359-44F3-9B84-A9464BD0B6A8/download"
+      ]
+    },
+    {
+      "id": "100543",
+      "name": "內政部空中勤務總隊各型機種執行分項勤務飛行時數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9762D57F-8525-478B-801A-45F734248292/resource/6F63433B-2B08-4A10-87CE-0B046394988A/download"
+      ]
+    },
+    {
+      "id": "163059",
+      "name": "內政部空中勤務總隊AS-365型機年度執行醫療轉診任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/97D6A4AE-71C1-4D3C-8B60-48D344157EBD/resource/6616D5F6-8C3E-4A15-A618-05472543D864/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/97D6A4AE-71C1-4D3C-8B60-48D344157EBD/resource/B2AD1D64-F22B-4D8D-9A10-50F1202A4AFA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/97D6A4AE-71C1-4D3C-8B60-48D344157EBD/resource/6402A01F-CAF6-4092-A20B-E473E7222FE7/download"
+      ]
+    },
+    {
+      "id": "163062",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行緊急救護任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CDC842C0-DB5B-4397-8D23-56E7B8A321FF/resource/CB8C4EE7-E001-421B-ADD8-941CF161BEAF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CDC842C0-DB5B-4397-8D23-56E7B8A321FF/resource/D2D28590-440C-47C8-B470-FA5E98236ABD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CDC842C0-DB5B-4397-8D23-56E7B8A321FF/resource/34029E33-A3BE-48C5-B772-FB4353A2CB1B/download"
+      ]
+    },
+    {
+      "id": "167139",
+      "name": "內政部空中勤務總隊AS-365型機年度執行震災搶救任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/73F71DAF-3E90-465E-BA40-D8D8703D24F5/resource/26C63EC9-D042-4B5C-BAF5-00A6520F7482/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/73F71DAF-3E90-465E-BA40-D8D8703D24F5/resource/88EE4B1C-64D9-49B0-9BB1-1F046CC30309/download"
+      ]
+    },
+    {
+      "id": "167145",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行重大意外事故搶救任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/105CA597-B256-47F4-B605-4A0AC362A6D7/resource/F0446C3E-B08D-4DF0-8613-A330A8C0DB77/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/105CA597-B256-47F4-B605-4A0AC362A6D7/resource/B6A44D31-4529-42B5-ACB1-E21EFB1072EE/download"
+      ]
+    },
+    {
+      "id": "167130",
+      "name": "內政部空中勤務總隊AS-365型機年度執行風災搶救任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E84512B9-E01D-4C9C-BC3A-0EC0270FA5F0/resource/BA0FC0A2-71FF-4E15-B22E-0BF47F362580/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E84512B9-E01D-4C9C-BC3A-0EC0270FA5F0/resource/19FB50F8-50CE-49F9-8489-1CD6A01C8AA0/download"
+      ]
+    },
+    {
+      "id": "163058",
+      "name": "內政部空中勤務總隊AS-365型機年度執行緊急救護任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/80D80C7D-52D3-4527-BE71-9022FA73EF31/resource/F8DAE496-6F14-4DAE-9E84-626365A4DB86/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/80D80C7D-52D3-4527-BE71-9022FA73EF31/resource/C5391A46-B46D-410B-A011-7E46A2959880/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/80D80C7D-52D3-4527-BE71-9022FA73EF31/resource/4835675D-B28E-4F8D-B054-86A7692D6DA9/download"
+      ]
+    },
+    {
+      "id": "138783",
+      "name": "內政部空中勤務總隊AS-365型機執行攀降、救生吊掛訓練項目統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/42C22494-E589-41F7-989E-82EABCE5923C/resource/997C9422-7C18-440B-8380-B36CC07C30DF/download"
+      ]
+    },
+    {
+      "id": "138786",
+      "name": "內政部空中勤務總隊AS-365型機執行高高度起降訓練項目統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/73F51FE0-3F0D-4004-836A-FBF77CABD0F2/resource/24607B42-D890-43AA-9B0D-703292FBD09D/download"
+      ]
+    },
+    {
+      "id": "138787",
+      "name": "內政部空中勤務總隊AS-365型機執行日間海上搜救訓練項目統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/861C8D33-5159-4ECB-A426-E86B40C0F533/resource/D24D0778-9E4A-4853-AD3B-1890CF2D5A84/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/861C8D33-5159-4ECB-A426-E86B40C0F533/resource/8010EC52-1490-4984-98CA-7E221B91DF8C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/861C8D33-5159-4ECB-A426-E86B40C0F533/resource/6AC8F483-3643-47B4-A161-AD8C88029E75/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/861C8D33-5159-4ECB-A426-E86B40C0F533/resource/E50FF3D8-8FDE-475F-8CEA-F0AA03D7A778/download"
+      ]
+    },
+    {
+      "id": "138797",
+      "name": "內政部空中勤務總隊AS-365型機執行維護飛行訓練項目統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/02789833-E627-44FD-AC48-B24AA0992E7E/resource/94856092-17D2-4BE6-AEA9-E1D265D2C594/download"
+      ]
+    },
+    {
+      "id": "138671",
+      "name": "內政部空中勤務總隊AS-365型機執行落艦訓練項目統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/770F9A97-40B0-48C1-B087-49C4551C8EE4/resource/7D9A38F8-6D54-4FE0-8E55-4EF44876EBF3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/770F9A97-40B0-48C1-B087-49C4551C8EE4/resource/4EDA2A2B-7C83-4CFA-9E5D-77ADA6EE1DB5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/770F9A97-40B0-48C1-B087-49C4551C8EE4/resource/307F5860-73B3-4159-97F4-8C7932AC2803/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/770F9A97-40B0-48C1-B087-49C4551C8EE4/resource/F4D9874D-E04A-4D1B-84AC-EA844FA2135D/download"
+      ]
+    },
+    {
+      "id": "152356",
+      "name": "內政部空中勤務總隊年度執行水上救溺救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD0AD616-9108-4646-B1E2-3D438BBBA542/resource/C401B6DC-1703-4DF0-AF3C-282E3A3ED044/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD0AD616-9108-4646-B1E2-3D438BBBA542/resource/6C47EAF8-4347-4195-8C38-3C9F6FEF9FA7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD0AD616-9108-4646-B1E2-3D438BBBA542/resource/122991A8-748D-443B-8DDE-472221EDCA8C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD0AD616-9108-4646-B1E2-3D438BBBA542/resource/885FBA36-6FFA-4638-BBC1-9A6C31DA10D9/download"
+      ]
+    },
+    {
+      "id": "173345",
+      "name": "內政部空中勤務總隊AS-365型機年度執行犯罪空監追緝運載任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3353699D-752D-4B6D-8F85-26E1BCA6D801/resource/FC42FDBD-E218-4A72-A459-2C0C542314C4/download"
+      ]
+    },
+    {
+      "id": "173351",
+      "name": "內政部空中勤務總隊AS-365型機年度執行環境污染調查運載任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/10239BBA-B00C-47F1-A5A1-5CBBD3426E60/resource/3E1A8B44-EFCD-4CCA-8A35-4F32E13C3155/download"
+      ]
+    },
+    {
+      "id": "173359",
+      "name": "內政部空中勤務總隊AS-365型機年度執行國土綜合規劃空勘航攝運載任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A803A05C-28CC-479B-B9FB-AFB632742950/resource/C6A22530-A6AF-4DCA-ACE7-742CA2D00B8F/download"
+      ]
+    },
+    {
+      "id": "20348",
+      "name": "內政部空勤三勇士子女生活照顧基金會計報告",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/DDEF3BC9-C40E-4F29-95F4-013CE087A979/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/EF059929-EDE1-4598-8752-0495B19947EA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/48A047AD-3980-40A8-BFBA-051BF8335749/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/666C26D8-C1F4-4CFD-AFF4-082B1943EC30/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/7FFE0347-02AA-4096-BA89-1049F5EF38FB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/BEBF6DDB-770D-4B3B-841F-12C484BCEBCC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/980DA465-5328-437F-9AD0-15C0C6A493AE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/B5329400-99DD-41F6-B59E-16902BA7131B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/4EBD5D36-A196-43DD-83B9-2445A312E4B7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/17406672-0A6D-404C-9C70-257BED4448A7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/BDFC3A72-4297-4322-A1EA-296E48A21644/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/482F0912-6A4B-44C9-90C4-3D6B15A397FD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/356DB8E8-C6AC-4958-A212-46BD10DE875B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/D2D60573-443E-4F85-B767-57CFDFB9BA90/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/89B0E100-FB40-4BCC-89D1-5A59F6DA9C03/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/DC26CAD3-F275-49C7-B891-5E7963188B10/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/A95D8D29-4F73-4BEF-9900-5E7BCEE88045/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/EE602460-3CBF-4373-A783-65FB7A1D842B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/D8777658-0674-4DD4-A89B-66C2891DAAFD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/8459DDBE-6BC5-431C-97C6-6A7A8FE5314A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/86A53F65-3755-4EBA-A949-78D21BA42A60/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/D0DB011F-7C3D-4E64-8912-800326E614F3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/CDFB729E-7268-443B-BFB5-890323FA53BA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/0C21436C-1478-4E09-9D40-91254F80A271/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/878FBF8D-BBDE-47F8-B617-9B229A3BF859/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/BD0FAFE9-86B4-4816-AA72-9CBCBF148FFD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/5D6F3039-FEA8-4817-81E9-A505C993DBC2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/ADDEF7EB-6473-488E-BF08-AB54B38D3A0C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/BEEDB3B1-8058-41CD-A08E-AD8BC7621F14/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/0799424E-EDB1-4DD2-A917-B1198B7899E6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/1E17793B-C23A-47D2-8123-B11EDFEECD2B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/082D434B-ABA2-45A6-80D4-B1AD758D2B43/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/E153539A-BD99-4523-8D42-B40A6C0238E5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/B58E11E6-88CC-4E16-A6B2-B4FE64C2E628/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/97EFBC36-5700-41F6-B8DF-BE75E2FCB6C2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/060F3474-47A5-4C7B-B71D-C50D718F9E0F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/A979ABA2-9D7E-44DE-9ACB-C9D6BCACD2C1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/6B7A59A4-334F-45A3-B871-CDEBE3AA6C19/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/7AD701BA-A9CC-4066-8860-CF77653F619D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/E26C3996-EEA8-4B22-B81B-D42AFD082B37/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/2B6E96F3-E45A-44F8-A59D-D8784906211E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/5BCDCEF9-CFA7-48C3-89F4-D97EE37154F7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/AC303651-146B-42BB-B4D3-DADB5EFF861E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/881ADD91-34BC-453C-B2CC-DD17B2F9299D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/ADD0CC44-2B41-4F5B-A486-E04EF6402E4D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/E407651E-6EAC-4434-A46F-E0DF75327761/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/65A821AE-63A8-4B2F-9FA9-E48F0E0585B2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/84BDAEE7-6457-4E6B-B474-E4FCCE6820F1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/7EEBB54B-EE0E-4C5F-AD62-E865171FA4E4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/EF0B58A6-7A2A-4742-9C78-EA2BDDA31440/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/ACC71E0C-CF17-4D54-99C8-EE2AC3B9CA9D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/19F1D2E9-C51E-4804-A703-EE890E9E5BF2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/DC5C04AB-289A-40B6-9C62-EE94A48EAD31/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BE760F07-0FB1-4FA6-813F-1CDF13C0F4EF/resource/31CF92A5-E870-4810-BDC7-EF67358E5222/download"
+      ]
+    },
+    {
+      "id": "15628",
+      "name": "內政部空勤三勇士子女生活照顧基金決算書",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7FF68F7F-A80F-4040-BA03-702C67D24FBC/resource/3E8B14A6-C509-4D8D-A1B2-0FDD74387A9C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7FF68F7F-A80F-4040-BA03-702C67D24FBC/resource/AE7F3493-34ED-4B46-B736-6535C3B6AD36/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7FF68F7F-A80F-4040-BA03-702C67D24FBC/resource/C7E612E3-C1E4-4FE6-A3FC-9A37D9A89EC5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7FF68F7F-A80F-4040-BA03-702C67D24FBC/resource/3EE93CA6-3812-4C5A-9E18-9BFB48903C0D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7FF68F7F-A80F-4040-BA03-702C67D24FBC/resource/7F9A42BA-CA02-4F64-A2F9-C0B9169E6939/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7FF68F7F-A80F-4040-BA03-702C67D24FBC/resource/B4917EA6-8E72-406A-A83C-C436A70DB7BC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7FF68F7F-A80F-4040-BA03-702C67D24FBC/resource/29A5DAA9-4E23-4225-8732-FC8D5EA6003B/download"
+      ]
+    },
+    {
+      "id": "31961",
+      "name": "內政部空中勤務總隊執行勤務統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6312E04A-89D8-4981-B1D2-2C34E102C733/resource/4474764B-C13A-42D1-BF00-27C4F4F34780/download"
+      ]
+    },
+    {
+      "id": "97874",
+      "name": "內政部空中勤務總隊執行火災搶救任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B87390C6-BEBF-4280-83BC-649A6DD27256/resource/7CA69792-4F27-48F5-AE27-DED68A7986D1/download"
+      ]
+    },
+    {
+      "id": "97921",
+      "name": "內政部空中勤務總隊執行震災搶救任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D8FA809D-FC25-4B1E-B83F-267121A0D156/resource/27E26172-55C7-4212-B3F3-441F974CDC5C/download"
+      ]
+    },
+    {
+      "id": "100325",
+      "name": "內政部空中勤務總隊各型機種飛行時數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/929A11F7-1A5C-4DBE-8008-D82B1B21B09C/resource/42EE2ADA-F883-4DE0-A58F-AE3837EB97B7/download"
+      ]
+    },
+    {
+      "id": "100541",
+      "name": "內政部空中勤務總隊搜救有功人員",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D848686B-CF72-4B05-8CD9-1FCD4F4D7449/resource/59F3F3B8-FE19-498F-A40E-2472171609AB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D848686B-CF72-4B05-8CD9-1FCD4F4D7449/resource/8B275B5F-974A-45F9-B6BD-6D411A444D11/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D848686B-CF72-4B05-8CD9-1FCD4F4D7449/resource/CBB9CFF3-86EF-4E40-8043-884EF0FA4B78/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D848686B-CF72-4B05-8CD9-1FCD4F4D7449/resource/690DB790-2DB7-489C-94E8-B978AC97159E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D848686B-CF72-4B05-8CD9-1FCD4F4D7449/resource/F879090F-6F2D-4BD3-B727-C6C366C3954F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D848686B-CF72-4B05-8CD9-1FCD4F4D7449/resource/220D5AB7-8726-46F2-96C2-DCD959D5F87B/download"
+      ]
+    },
+    {
+      "id": "101097",
+      "name": "內政部空中勤務總隊近一年執行火災任務飛行架次較多區域",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AC27F023-B91A-4A3C-A4FE-B188C63C42B1/resource/9B8CB963-7BF5-4F59-9A32-9B35DC1D9D99/download"
+      ]
+    },
+    {
+      "id": "101119",
+      "name": "內政部空中勤務總隊近一年執行山難任務飛行架次較多區域報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4FB2B179-7876-4CDF-AE4E-327AE5CC14DE/resource/9BEF882D-4901-4463-92D3-1989AD624A49/download"
+      ]
+    },
+    {
+      "id": "101121",
+      "name": "內政部空中勤務總隊近一年執行緊急救護任務飛行架次較多區域報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/787BF361-D9FD-447E-A023-B049C8954CAE/resource/F0772A85-2E57-41F0-811F-8DE8E24A83D6/download"
+      ]
+    },
+    {
+      "id": "97632",
+      "name": "內政部空中勤務總隊勤務第三大隊任務執行成效",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C8C970AD-51A8-4CD2-90D5-0CD1D2DFA36E/resource/CA7E824C-9FEE-4930-BB7B-00EFDA102BCF/download"
+      ]
+    },
+    {
+      "id": "97634",
+      "name": "內政部空中勤務總隊執行緊急任務飛行架次及飛行時數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EF5AD1B9-E48B-468C-AC58-9AE21C387BA6/resource/EA2DD94A-ADB6-4FDE-9147-1F444355E910/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EF5AD1B9-E48B-468C-AC58-9AE21C387BA6/resource/581B229E-9220-4826-8C29-35DFA48D95BC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EF5AD1B9-E48B-468C-AC58-9AE21C387BA6/resource/6C4B0CC7-3507-496A-A023-5311F60F5D9C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EF5AD1B9-E48B-468C-AC58-9AE21C387BA6/resource/1FB4FB2D-AD06-4AF0-B260-74EC612D3CEB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EF5AD1B9-E48B-468C-AC58-9AE21C387BA6/resource/23FF2317-FE50-42B3-8E87-B17929EBC549/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EF5AD1B9-E48B-468C-AC58-9AE21C387BA6/resource/7BD92A5B-9D24-4534-997B-D66603FAD946/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EF5AD1B9-E48B-468C-AC58-9AE21C387BA6/resource/269F4424-6163-40AF-AB6B-DD8B65F3FE6C/download"
+      ]
+    },
+    {
+      "id": "97561",
+      "name": "內政部空中勤務總隊五大任務執行比例",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/98CB92CC-77E7-4907-9AF4-2AE3D7882904/resource/87AA1325-5018-4D01-A5F6-0737F0A96F99/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/98CB92CC-77E7-4907-9AF4-2AE3D7882904/resource/D8C25DDD-03F7-4539-9C5A-2BEB8FD2A24F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/98CB92CC-77E7-4907-9AF4-2AE3D7882904/resource/C01ADD0F-9D6C-42E3-AD2A-89A96847C81E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/98CB92CC-77E7-4907-9AF4-2AE3D7882904/resource/7348AAA4-2080-40C5-A684-8FC4DA06D183/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/98CB92CC-77E7-4907-9AF4-2AE3D7882904/resource/68BD4FEF-2C22-4F63-B62D-9AEB455705ED/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/98CB92CC-77E7-4907-9AF4-2AE3D7882904/resource/2642837E-7AD9-4755-8CF5-D69F2E53D44A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/98CB92CC-77E7-4907-9AF4-2AE3D7882904/resource/A331F71D-9D47-4D28-BCC9-D813C2FB1197/download"
+      ]
+    },
+    {
+      "id": "97671",
+      "name": "內政部空中勤務總隊近五年任務執行成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1E45AAF1-709D-4CBB-B424-C793313CE758/resource/410EE462-9BA3-43F7-9BB1-4605A5542593/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1E45AAF1-709D-4CBB-B424-C793313CE758/resource/A39DC2A9-D4F9-43A1-890B-75FCBBF361AF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1E45AAF1-709D-4CBB-B424-C793313CE758/resource/AC230700-0DA4-41BC-B036-AE3FD3618E40/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1E45AAF1-709D-4CBB-B424-C793313CE758/resource/F6E5AA0E-7B20-4734-9D49-B03AC18B33A7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1E45AAF1-709D-4CBB-B424-C793313CE758/resource/BD0F7BD3-44EB-4A8B-A3D7-B8D59100D9C0/download"
+      ]
+    },
+    {
+      "id": "98058",
+      "name": "內政部空中勤務總隊執行緊急救護任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D4777B78-5BB1-46B5-A1B4-19F250CC51E0/resource/D1D2FE02-5923-4EA5-97D2-D649E1CECB3D/download"
+      ]
+    },
+    {
+      "id": "98151",
+      "name": "內政部空中勤務總隊執行國土安全空巡任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FA3632F7-3429-4E56-B9EB-90F2C34F205F/resource/3FDF0664-F71F-4D37-B461-09AF9530B95C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FA3632F7-3429-4E56-B9EB-90F2C34F205F/resource/5A45EE78-B0C9-4784-94C3-2E20A7B92466/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FA3632F7-3429-4E56-B9EB-90F2C34F205F/resource/847D49B6-0AA8-4550-93D3-4DCC3ACC4697/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FA3632F7-3429-4E56-B9EB-90F2C34F205F/resource/6B9251F1-719B-48D2-959F-74BA375B2196/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FA3632F7-3429-4E56-B9EB-90F2C34F205F/resource/282B8458-4EA2-4C8D-AD66-F6BD6F7EB429/download"
+      ]
+    },
+    {
+      "id": "98259",
+      "name": "內政部空中勤務總隊執行訓練飛行架次統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9D39F10B-4C47-4D53-BD8C-B95D8BF44705/resource/6847E8CA-9583-4EDE-8D42-CC5974FA04E7/download"
+      ]
+    },
+    {
+      "id": "98260",
+      "name": "內政部空中勤務總隊執行共勤訓練飛行架次統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FABCC53A-8D04-49E8-8FF2-03DA897E0C35/resource/6C382311-8B5B-405B-AB44-204BFF923DF0/download"
+      ]
+    },
+    {
+      "id": "98221",
+      "name": "內政部空中勤務總隊執行空中運輸任務成效統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2B922B3E-2EA2-4167-A41F-0EBF7F6403B5/resource/58599592-D524-455C-9762-3E3482527144/download"
+      ]
+    },
+    {
+      "id": "106562",
+      "name": "對民間團體及個人補(捐)助經費彙總表",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/776E2906-E235-4DA6-9CBA-EFFE5620C6C6/resource/CF5B14FF-61DB-4C4C-83D6-347B92CF56BE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/776E2906-E235-4DA6-9CBA-EFFE5620C6C6/resource/C80FB885-D87E-4F17-B60E-3C9F28446C3E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/776E2906-E235-4DA6-9CBA-EFFE5620C6C6/resource/31DD98A8-A3F3-4534-97E0-79C09906B778/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/776E2906-E235-4DA6-9CBA-EFFE5620C6C6/resource/804705C8-A891-4F16-ADDB-B036D7DA3562/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/776E2906-E235-4DA6-9CBA-EFFE5620C6C6/resource/D372EFE3-F8EF-4D7E-B82A-B2621E8D3772/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/776E2906-E235-4DA6-9CBA-EFFE5620C6C6/resource/787F780E-A9B2-4CEE-A929-BA86E12C614C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/776E2906-E235-4DA6-9CBA-EFFE5620C6C6/resource/46C836CC-D2FA-4656-AD09-F55E75BB2B02/download"
+      ]
+    },
+    {
+      "id": "117984",
+      "name": "內政部空中勤務總隊AS-365N機型年度五大任務績效分析",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1204367F-12A8-4EA4-8E59-927AE134BBDF/resource/0E84B1B0-51AF-4EEC-8BCF-1C67D9B52C69/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1204367F-12A8-4EA4-8E59-927AE134BBDF/resource/89A03B3D-FD36-423B-ABFE-7A17CBC5BA30/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1204367F-12A8-4EA4-8E59-927AE134BBDF/resource/40F7CF1B-A6E9-452B-8157-EAE6D639EE98/download"
+      ]
+    },
+    {
+      "id": "139393",
+      "name": "內政部空中勤務總隊AS-365型機執行夜間海上搜救訓練項目統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2C5AD26D-5BD6-4388-9845-0CD355761882/resource/38BC9002-5A9D-4091-86D2-4A163C128F81/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2C5AD26D-5BD6-4388-9845-0CD355761882/resource/CFC5D51B-28B0-49C2-89F6-7682BB1E5F4A/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2C5AD26D-5BD6-4388-9845-0CD355761882/resource/5247451C-AB7F-4515-920C-891A9051FC11/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2C5AD26D-5BD6-4388-9845-0CD355761882/resource/35A51457-64C1-48D8-A0B4-D2A85E26715B/download"
+      ]
+    },
+    {
+      "id": "139444",
+      "name": "內政部空中勤務總隊AS-365型機執行年度檢定訓練項目統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B01DD812-9A1D-41A9-B01D-8DD8C0035FF8/resource/53B7887F-7B1B-49CB-98CB-0E76D51EF5FF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B01DD812-9A1D-41A9-B01D-8DD8C0035FF8/resource/6C07F0A0-88F9-4E17-99CF-1217B35A2475/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B01DD812-9A1D-41A9-B01D-8DD8C0035FF8/resource/DA5A978A-8C21-42FE-B397-BE28E95D9105/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B01DD812-9A1D-41A9-B01D-8DD8C0035FF8/resource/53D12D82-73F0-4315-B22D-EA1DAE435F55/download"
+      ]
+    },
+    {
+      "id": "138754",
+      "name": "內政部空中勤務總隊AS-365型機執行儀器訓練項目統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C5D504A6-23CE-44A9-9B22-B141FEFDD325/resource/019B0BC1-B770-494F-A882-C476B487999B/download"
+      ]
+    },
+    {
+      "id": "138690",
+      "name": "內政部空中勤務總隊AS-365型機執行性能、緊急程序訓練項目統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9C44D960-671A-4D9B-BE66-C915BF99CB5E/resource/4CD50A16-AFD0-46DD-943F-4687B1919907/download"
+      ]
+    },
+    {
+      "id": "138796",
+      "name": "內政部空中勤務總隊AS-365型機執行訓練檢定訓練項目統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4633B261-3F9D-4CD2-951C-9D137E20C3A5/resource/64FEEB4F-7D1B-471B-A0C4-20C0375E19CF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4633B261-3F9D-4CD2-951C-9D137E20C3A5/resource/FAAC8F61-FC63-4D1D-93EB-6D1352A82600/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4633B261-3F9D-4CD2-951C-9D137E20C3A5/resource/FB429C22-B50C-483B-B05E-A1CC0A82FEA4/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4633B261-3F9D-4CD2-951C-9D137E20C3A5/resource/F8531956-A53F-487F-BB8F-C34E93072743/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4633B261-3F9D-4CD2-951C-9D137E20C3A5/resource/29BDFD97-A0B3-4B18-8AAE-E741A989E9F5/download"
+      ]
+    },
+    {
+      "id": "161599",
+      "name": "內政部空中勤務總隊AS-365型機年度執行海上救難救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/272167D8-139D-469A-8AA6-99B74F17167E/resource/6B5EA535-5294-4AF3-85AA-0920BD8E11A7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/272167D8-139D-469A-8AA6-99B74F17167E/resource/84B1A2A1-36D0-4FC4-AAED-94A74C0EFE74/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/272167D8-139D-469A-8AA6-99B74F17167E/resource/4A539558-F395-4F33-BDDC-C5D03FD267EF/download"
+      ]
+    },
+    {
+      "id": "167090",
+      "name": "內政部空中勤務總隊AS-365型機年度執行水災搶救任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D9D372D0-8B9F-4462-B2E9-4C36A1050E40/resource/960B8CC2-2B63-4FFB-9E55-0E315A284768/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D9D372D0-8B9F-4462-B2E9-4C36A1050E40/resource/B818FF8A-7F30-48E5-AEB3-113237C84A0C/download"
+      ]
+    },
+    {
+      "id": "167143",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行風災搶救任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A858CDF5-C7CC-4551-A440-D6CDDF146B83/resource/70D4A10D-69C2-4DA8-90E3-3E94E35CCD4D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A858CDF5-C7CC-4551-A440-D6CDDF146B83/resource/25ADDD50-DB00-4254-8DD0-7D7C1687E282/download"
+      ]
+    },
+    {
+      "id": "173344",
+      "name": "內政部空中勤務總隊AS-365型機年度執行災情觀測運載任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/433E2784-1E32-41A3-A610-8202994BDBD9/resource/D40CB092-FC06-4837-9B70-11AB03575CAC/download"
+      ]
+    },
+    {
+      "id": "173349",
+      "name": "內政部空中勤務總隊AS-365型機年度執行國土安全空巡運載任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2672AE60-5D08-4676-B05C-AA2F609D70E0/resource/1FBB2EC3-632F-411A-A1DA-BC9308B62141/download"
+      ]
+    },
+    {
+      "id": "173355",
+      "name": "內政部空中勤務總隊AS-365型機年度執行共勤訓練運載任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3A959587-673E-4734-A090-9CC648E0F19B/resource/4BF8CDAC-3EB9-42D0-8A27-13CFF369C6AC/download"
+      ]
+    },
+    {
+      "id": "173356",
+      "name": "內政部空中勤務總隊AS-365型機年度執行訓練飛行運載任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E6235E5-F038-43A1-BE34-12C18052E7A5/resource/443523F2-B4E0-4A8D-B565-D6A096D4B6BC/download"
+      ]
+    },
+    {
+      "id": "109895",
+      "name": "內政部空中勤務總隊執行水災搶救任務飛行架次較多區域報表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D6D12ECD-C6D9-4275-9DA1-57BC63248C86/resource/F9ED49B6-E5BA-4CC9-B682-84AB6E3B2631/download"
+      ]
+    },
+    {
+      "id": "163057",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行山難救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9BD13BC7-5B24-4BD9-AA49-F50BD2AFE6F3/resource/579B871C-4385-4953-AD06-344D1CFB5587/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9BD13BC7-5B24-4BD9-AA49-F50BD2AFE6F3/resource/045C66D3-2A6A-4BF9-A3DC-81F309DE1B90/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9BD13BC7-5B24-4BD9-AA49-F50BD2AFE6F3/resource/1BAD3010-1752-42A9-80A3-D10966F3F92E/download"
+      ]
+    },
+    {
+      "id": "152352",
+      "name": "內政部空中勤務總隊AS-365型機年度執行五大任務救援性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FBFC4131-2144-4448-869E-2603A7EBB57A/resource/3BC14AC6-6DB9-434E-8856-38F41051C6A6/download"
+      ]
+    },
+    {
+      "id": "152353",
+      "name": "內政部空中勤務總隊UH-60M型機年度執行五大任務救援性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A74DCBEB-BDEF-4893-B4AB-D4261D8A9D91/resource/0BE2C4D5-BF14-4AA6-AA15-3042E1A07EC3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A74DCBEB-BDEF-4893-B4AB-D4261D8A9D91/resource/09D2FF5C-060A-4B56-907C-5C5F3A2C2913/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A74DCBEB-BDEF-4893-B4AB-D4261D8A9D91/resource/79779F96-8998-4019-A87B-85229C1E1278/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A74DCBEB-BDEF-4893-B4AB-D4261D8A9D91/resource/D5373A2D-24FC-49F1-ABF9-8D46EF12D6ED/download"
+      ]
+    },
+    {
+      "id": "152357",
+      "name": "內政部空中勤務總隊年度執行海上救難救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9AF06338-8465-4337-B31D-9371A90D5A42/resource/C386946F-228A-4172-B126-8EFFC56BA1AA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9AF06338-8465-4337-B31D-9371A90D5A42/resource/E8AC2433-3D37-4E3D-9C3E-9009B9098CA6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9AF06338-8465-4337-B31D-9371A90D5A42/resource/D184675F-5B04-44F2-AD27-E7C2D0F0496E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9AF06338-8465-4337-B31D-9371A90D5A42/resource/A8EA6AF4-5152-40F3-9B72-F3716C12E553/download"
+      ]
+    },
+    {
+      "id": "152358",
+      "name": "內政部空中勤務總隊年度執行緊急救護救援任務性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6B1390C9-397A-4DF9-83CE-7872A3666FE4/resource/D4F9665C-D550-4180-A214-067AE5BCC8B3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6B1390C9-397A-4DF9-83CE-7872A3666FE4/resource/583C137A-FC36-4398-B5E3-14AF1AE47A43/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6B1390C9-397A-4DF9-83CE-7872A3666FE4/resource/CE04D8C5-7220-4416-BD71-3F4750F46731/download"
+      ]
+    }
+  ]
+}

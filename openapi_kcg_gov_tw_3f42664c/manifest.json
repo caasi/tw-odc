@@ -1,0 +1,31 @@
+{
+  "type": "dataset",
+  "provider": "高雄市杉林區公所",
+  "slug": "openapi_kcg_gov_tw_3f42664c",
+  "datasets": [
+    {
+      "id": "166410",
+      "name": "106年杉林區基本資料表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0124d7f8-af82-4b4e-a50f-26bee4417905",
+        "https://data.kcg.gov.tw/File/directDownload/0124d7f8-af82-4b4e-a50f-26bee4417905",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/830c051c-c1bb-475c-9002-3468580dc5bb",
+        "https://data.kcg.gov.tw/File/directDownload/830c051c-c1bb-475c-9002-3468580dc5bb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e7cbc994-2dc9-434e-9506-b412c0cda939",
+        "https://data.kcg.gov.tw/File/directDownload/e7cbc994-2dc9-434e-9506-b412c0cda939",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ad125fa4-8d2c-4f5f-abfc-fa6b5f3c268a",
+        "https://data.kcg.gov.tw/File/directDownload/ad125fa4-8d2c-4f5f-abfc-fa6b5f3c268a"
+      ]
+    },
+    {
+      "id": "169160",
+      "name": "杉林區公所106年提升服務品質執行計畫",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/14f585e0-dfc4-49c3-af14-c930096fa5ef",
+        "https://data.kcg.gov.tw/File/directDownload/14f585e0-dfc4-49c3-af14-c930096fa5ef"
+      ]
+    }
+  ]
+}

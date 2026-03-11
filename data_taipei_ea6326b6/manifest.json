@@ -1,0 +1,31 @@
+{
+  "type": "dataset",
+  "provider": "臺北市勞動檢查處",
+  "slug": "data_taipei_ea6326b6",
+  "datasets": [
+    {
+      "id": "137804",
+      "name": "臺北市勞動檢查概況",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/cd3ad198-0d43-4bda-a2c2-97e57e178038/resource/994ae420-fb5b-4e3e-8160-723777bdedaf/download"
+      ]
+    },
+    {
+      "id": "173443",
+      "name": "臺北市停復工公開資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/49802349-ad4e-4551-be78-668e247f4d16/resource/4d5627ca-17ac-4da9-9464-9e72cef1ee4a/download"
+      ]
+    },
+    {
+      "id": "145812",
+      "name": "臺北市重大職災資訊集",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/4ab16be1-17eb-43bc-8009-abce6c60a2a7/resource/ab4ddbe2-90f5-49a6-a7ad-45e5b6d14871/download"
+      ]
+    }
+  ]
+}

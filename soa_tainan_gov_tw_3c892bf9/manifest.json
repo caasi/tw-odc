@@ -1,0 +1,47 @@
+{
+  "type": "dataset",
+  "provider": "客家事務委員會",
+  "slug": "soa_tainan_gov_tw_3c892bf9",
+  "datasets": [
+    {
+      "id": "143071",
+      "name": "臺南市客家會館名冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ff8c1194-7b48-4f5e-bae3-4bef31b6169f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ff8c1194-7b48-4f5e-bae3-4bef31b6169f"
+      ]
+    },
+    {
+      "id": "143192",
+      "name": "臺南市推廣客家文化補助申請情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/46385f68-e15d-4700-b0e1-4a5ce492c158",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/46385f68-e15d-4700-b0e1-4a5ce492c158"
+      ]
+    },
+    {
+      "id": "135071",
+      "name": "臺南市客家社團名冊",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f0a3f5af-b663-4401-9d95-ec8737ab2ccb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7c6e5468-f16a-4aec-8d29-b3c3a34dd563",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f0a3f5af-b663-4401-9d95-ec8737ab2ccb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ebe0d7f5-d5cd-49ac-a6a8-2575e5619118",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7c6e5468-f16a-4aec-8d29-b3c3a34dd563",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ebe0d7f5-d5cd-49ac-a6a8-2575e5619118"
+      ]
+    },
+    {
+      "id": "143076",
+      "name": "臺南市客語能力認證通過人數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/15d46153-70de-40ca-ae0f-2a3b5e06d983",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/15d46153-70de-40ca-ae0f-2a3b5e06d983"
+      ]
+    }
+  ]
+}

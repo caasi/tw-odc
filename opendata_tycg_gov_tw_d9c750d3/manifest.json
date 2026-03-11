@@ -1,0 +1,918 @@
+{
+  "type": "dataset",
+  "provider": "桃園市政府地方稅務局",
+  "slug": "opendata_tycg_gov_tw_d9c750d3",
+  "datasets": [
+    {
+      "id": "28094",
+      "name": "桃園市累進起點地價及課稅級距表每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/22ef9d49-ce8e-4b75-b706-97c830993073/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/5333c310-4d5d-483a-a6cb-ba670fb02c73/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/f6bf8d21-2797-4dde-8154-0c0821529f75/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/cea367ef-5349-484a-9d52-b061a8a87e89/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/395a80c1-b22d-43a6-9ccc-17346dd3c4cc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/87c276db-a902-47aa-8217-ee2c04d71aa6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/47484d2e-e7c1-4eac-8ee2-336d998f1c1b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/c75fd7a5-efec-4636-974f-97b2889ebd35/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/568205be-3756-48dc-993f-9183a3756c2c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/d34fdfcd-f618-4a9b-b123-c962df601896/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/68d40480-8e1c-4594-a314-b3288b39f425/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/dcd453eb-4524-4180-92e8-d26c386cd47f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/8592ac83-45a9-4a7e-ac7a-a8b1562fcd67/resource/9adb42a3-24c1-4ba6-96de-d421cecd8324/download"
+      ]
+    },
+    {
+      "id": "27684",
+      "name": "桃園市房屋標準單價調整情形",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/b09bbad5-0d56-4cb4-9567-3326557858e8/resource/15f693c3-c661-4b7c-bb93-9f1aa943500e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b09bbad5-0d56-4cb4-9567-3326557858e8/resource/b98c8b67-8438-43d1-a386-ee926058e095/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b09bbad5-0d56-4cb4-9567-3326557858e8/resource/14748862-bc27-41d7-9257-3d15dfb1460d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b09bbad5-0d56-4cb4-9567-3326557858e8/resource/2e419905-f0bd-4183-8661-f2d0dc24f38c/download"
+      ]
+    },
+    {
+      "id": "31303",
+      "name": "桃園市政府地方稅務局滿意度調查情形每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/b380cfbb-fc28-4a81-8195-30477c27ac04/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/8676a24b-54d5-4f3c-bb36-f28fb4ed8562/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/6fcbd642-f165-4d57-8c97-bd449aa9a813/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/872bbc96-d7df-4d83-977e-2e61c9eeb795/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/8fca7823-893a-4345-8a45-12aaea4e76c4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/a10e437a-e3cc-4f98-a374-a749c410735a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/6c71654a-c5d1-410e-a88b-c92667a2ab3c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/e27e1eb4-d6db-4863-a4f9-1fb4b0a2701a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/b25871e7-34ea-40d7-a8c7-a01b3e2e89be/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/8f5d4430-c4d7-4ee2-95e9-52d6c2028dd8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/b24bb6a0-6650-41c8-a813-b654ae15d0ca/resource/fd0e1b5a-43b5-494e-b4f2-22792a62448b/download"
+      ]
+    },
+    {
+      "id": "31304",
+      "name": "桃園市政府地方稅務局稅務秘書執行成果每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/26cc4d08-cc8e-41ce-954b-f7de442d8a1f/resource/01527411-5ec9-48c8-8d5e-41a5fc32bb3a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/26cc4d08-cc8e-41ce-954b-f7de442d8a1f/resource/0794d138-0537-4527-8c56-e94960dcad03/download",
+        "https://opendata.tycg.gov.tw/api/dataset/26cc4d08-cc8e-41ce-954b-f7de442d8a1f/resource/000517fa-a517-4f4b-bad6-27329b050166/download",
+        "https://opendata.tycg.gov.tw/api/dataset/26cc4d08-cc8e-41ce-954b-f7de442d8a1f/resource/348faaff-e7b5-4312-91a1-7a16ca6bc51d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/26cc4d08-cc8e-41ce-954b-f7de442d8a1f/resource/64e810b1-8d27-4f82-8feb-c4c80d219c50/download",
+        "https://opendata.tycg.gov.tw/api/dataset/26cc4d08-cc8e-41ce-954b-f7de442d8a1f/resource/48fbe68d-b2e2-4b8c-8afe-2513c99b4dc9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/26cc4d08-cc8e-41ce-954b-f7de442d8a1f/resource/e1777eb6-b539-44f8-97d1-0b970a31b7b4/download"
+      ]
+    },
+    {
+      "id": "49043",
+      "name": "桃園市房屋構造別代號暨折舊率對照表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/95b10da5-2784-42de-aa33-7c6881984b09/resource/5f9dc375-280c-4484-abe4-3359592eb70c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/95b10da5-2784-42de-aa33-7c6881984b09/resource/59ac6c1f-16a0-4728-bb59-17c8ad0e364c/download"
+      ]
+    },
+    {
+      "id": "46337",
+      "name": "桃園市小客車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/b73feb39-9193-478f-ac6d-0f323dc3f309/resource/fd7364ad-f941-4c81-bc5e-5a0f1cc9830b/download"
+      ]
+    },
+    {
+      "id": "45886",
+      "name": "桃園市完全以電能為動力之電動小客車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/8df0a4b7-2fb2-47cc-a92b-6c3bd505f62b/resource/d4934654-23b4-4b6a-af87-e8d524f7ffa5/download"
+      ]
+    },
+    {
+      "id": "25992",
+      "name": "桃園市房屋街道等級調整率",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/64b5d7be-68c9-4c3b-a1b0-dcf9caa96219/resource/d7b50430-03e9-455a-b25e-950353814218/download",
+        "https://opendata.tycg.gov.tw/api/dataset/64b5d7be-68c9-4c3b-a1b0-dcf9caa96219/resource/2ad99570-c752-461b-b107-4a5456e1d13e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/64b5d7be-68c9-4c3b-a1b0-dcf9caa96219/resource/7c39cbef-3ab1-4482-b80c-d15ddec55f46/download",
+        "https://opendata.tycg.gov.tw/api/dataset/64b5d7be-68c9-4c3b-a1b0-dcf9caa96219/resource/1e0f8206-b4d2-41b1-b4cb-d1c400c6241f/download"
+      ]
+    },
+    {
+      "id": "76858",
+      "name": "桃園市政府地方稅務局稅務申請案件按性別每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/7f53fd45-4110-4523-a104-6319e7a3a04b/resource/b5b88306-bfd9-4434-a97d-6bce20fb227d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7f53fd45-4110-4523-a104-6319e7a3a04b/resource/72d4db49-f264-4771-a9bf-24d89c15a7b3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7f53fd45-4110-4523-a104-6319e7a3a04b/resource/f2b9eb17-2e47-42bb-b2af-3c8336a60673/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7f53fd45-4110-4523-a104-6319e7a3a04b/resource/fc383bdf-ed22-411c-8fd9-d5f77abd5ff1/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7f53fd45-4110-4523-a104-6319e7a3a04b/resource/aa051caa-624d-48f4-a67b-248581295df9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7f53fd45-4110-4523-a104-6319e7a3a04b/resource/8ac47085-5da4-4db4-82b6-8bc7de60c210/download",
+        "https://opendata.tycg.gov.tw/api/dataset/7f53fd45-4110-4523-a104-6319e7a3a04b/resource/f61577ec-59aa-4cd1-a257-142f94f63d4f/download"
+      ]
+    },
+    {
+      "id": "76863",
+      "name": "桃園市政府地方稅務局稅務志工推展服務成果每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/9f4a40d8-e70f-4923-ad19-1b2f4813fd84/resource/35134f60-66fb-426f-9390-8514b81fc3bb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9f4a40d8-e70f-4923-ad19-1b2f4813fd84/resource/6e77f9da-74d1-47a4-80f7-9bd5d84a6e7a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9f4a40d8-e70f-4923-ad19-1b2f4813fd84/resource/a50aca73-3c51-40a1-bae6-7a9e9a1ac84d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9f4a40d8-e70f-4923-ad19-1b2f4813fd84/resource/fe777033-2046-47b3-ad07-cf3c0adc65e6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9f4a40d8-e70f-4923-ad19-1b2f4813fd84/resource/8b112103-3bc7-481b-a370-2019e8e496ea/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9f4a40d8-e70f-4923-ad19-1b2f4813fd84/resource/4c15645a-8e3a-412e-9ae3-1ac6f16428de/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9f4a40d8-e70f-4923-ad19-1b2f4813fd84/resource/8069300b-7fb8-4881-82f8-4f75583d7f89/download"
+      ]
+    },
+    {
+      "id": "76868",
+      "name": "桃園市房屋稅稅源按性別每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/dd86f6ac-85b3-490a-bdba-7fbde64196dc/resource/47c4310f-8d82-4445-8f3f-a58ef5536296/download",
+        "https://opendata.tycg.gov.tw/api/dataset/dd86f6ac-85b3-490a-bdba-7fbde64196dc/resource/0843f701-3b74-4356-89c8-8a075cb3f196/download",
+        "https://opendata.tycg.gov.tw/api/dataset/dd86f6ac-85b3-490a-bdba-7fbde64196dc/resource/4662a72d-e67b-4cf0-af3a-d3ae28a3a586/download",
+        "https://opendata.tycg.gov.tw/api/dataset/dd86f6ac-85b3-490a-bdba-7fbde64196dc/resource/e6700efa-9672-46e4-a584-dce861193d56/download",
+        "https://opendata.tycg.gov.tw/api/dataset/dd86f6ac-85b3-490a-bdba-7fbde64196dc/resource/83826250-65ab-42c0-a3c7-8f6a1cecbcd3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/dd86f6ac-85b3-490a-bdba-7fbde64196dc/resource/6f6a471e-ebed-46b3-bb08-59cc0bea93d7/download"
+      ]
+    },
+    {
+      "id": "94324",
+      "name": "桃園市完全以電能為動力之電動大客車及貨車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/6125a4db-8d7f-4f48-8021-025f21e26971/resource/a42c7dc6-1b13-4759-acde-27433f9a93ce/download"
+      ]
+    },
+    {
+      "id": "94275",
+      "name": "桃園市使用牌照稅稅源按性別每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/32b4a952-367a-4be1-b4f4-06a4513f69fa/resource/f6c9f453-5c9a-408f-8348-db8f3e041724/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32b4a952-367a-4be1-b4f4-06a4513f69fa/resource/b1822c2d-1edc-485d-bd23-ab762755d05b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32b4a952-367a-4be1-b4f4-06a4513f69fa/resource/c762d186-04f1-4e55-bc1b-a4c544a6d385/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32b4a952-367a-4be1-b4f4-06a4513f69fa/resource/ec17c185-b25a-4285-9c57-e270fba54211/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32b4a952-367a-4be1-b4f4-06a4513f69fa/resource/d503621c-5a24-49c3-8fa8-f5d0f00d4eae/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32b4a952-367a-4be1-b4f4-06a4513f69fa/resource/3bb8c509-2ea6-4334-a627-a35a78be979f/download"
+      ]
+    },
+    {
+      "id": "101266",
+      "name": "桃園市完全以電能為動力之電動機車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/78e8a643-fd78-4c31-86d3-30b6ff48f773/resource/ecb74e37-7271-49e9-b910-6447e3a28377/download"
+      ]
+    },
+    {
+      "id": "101279",
+      "name": "桃園市機車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/c1981f67-29b1-49bf-8695-a556f69c6c52/resource/f06d0ecd-cf87-41b6-b1d5-92d9270c13f2/download"
+      ]
+    },
+    {
+      "id": "152839",
+      "name": "桃園市契稅稅源每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/74900a4f-db23-4e3f-88cd-ad6b68512d7b/resource/b15d3a27-9c1d-4de8-a447-2340fdd61e1d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/74900a4f-db23-4e3f-88cd-ad6b68512d7b/resource/148e108b-e778-450f-a559-25ffa36d4992/download",
+        "https://opendata.tycg.gov.tw/api/dataset/74900a4f-db23-4e3f-88cd-ad6b68512d7b/resource/fb7dd682-62c0-4a76-99d5-473138e1a28e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/74900a4f-db23-4e3f-88cd-ad6b68512d7b/resource/20dbae19-ca95-4824-9466-96e2f4274f55/download",
+        "https://opendata.tycg.gov.tw/api/dataset/74900a4f-db23-4e3f-88cd-ad6b68512d7b/resource/46c7e8b0-fa3b-4748-baac-21530414cdf4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/74900a4f-db23-4e3f-88cd-ad6b68512d7b/resource/b651562a-860d-4c7e-8027-72ba3fcc51d5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/74900a4f-db23-4e3f-88cd-ad6b68512d7b/resource/b31c6158-62eb-4b6f-af3b-61c05d1065a8/download"
+      ]
+    },
+    {
+      "id": "152948",
+      "name": "桃園市土地增值稅一般用地及自用住宅用地查定數每季統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/40dad8f8-e7b9-4ead-ac2b-92b1371698dc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/dce697c8-06b5-49ec-8df9-828561d49e4a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/2740f7e2-2c93-44e8-8023-2ec06c1c6a23/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/09373e62-3843-4b18-be2d-71cfe6bed96e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/3cfa17ff-de29-4341-af17-347ae16cf4aa/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/2bc753ac-8c9f-4556-9cdb-22cf7f432302/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/5c7344b3-fbc5-4b9a-af75-98673fc2816d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/a7eda2b4-8912-43e3-94e4-095ed08e7138/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/292dbddb-a350-4043-ad30-3a154bab0879/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/a4e83299-50e4-4567-9534-ff224390b194/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/eaf3fe6f-1104-46ca-837a-fd67477a5206/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/93d21910-b404-4f33-a468-eaddd4d65797/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/6512666b-8580-4591-a4f0-96fb2aa45f00/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/9c8204b0-de1d-430e-9aed-5ee4dd50ebb4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/cf918445-2356-4182-92de-e027a59ba8ca/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/237c6058-a334-4cb9-9b91-12c6b1d0f68c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/bf5a1430-e57f-4610-9879-0b6f0c0bdab7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/e840a205-29ee-4d06-9feb-8327a2c3fba9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/24e5eb25-6be3-4d4b-aa4c-4d4e41e89095/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/2874192a-6766-43b2-b88a-1a3f90d3c0db/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/8d999817-7419-49db-8abc-0c99c1b27036/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/580c2019-54b2-43f9-add8-86edff0e40fd/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/a295bbd8-bff7-49c4-b92c-baf5cb654e36/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/e6ed4b0d-947a-495e-9275-a59ce9bd7bcc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/eba1a4a6-a7af-44ec-8755-296ced43a8e7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/6dd0178d-6945-4531-a74c-4903eafb563d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/067c6225-5d04-4277-8a96-bd5071480db1/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ad38a842-c8ed-46ff-841e-eff55edc799e/resource/c69afd17-d9a0-47c6-bc84-330a5e10b7dc/download"
+      ]
+    },
+    {
+      "id": "153024",
+      "name": "桃園市政府地方稅務局民眾線上申辦案件每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/bdcea91f-698b-41b9-a620-7b01e3cab1a6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/9ca01b71-3efc-4907-8ee0-f271ea6104a3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/ab766774-c122-4f9d-ae60-58ebc81fe47a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/231e3ec1-83da-4cba-8f44-ab57ccc1a53f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/13ec0f92-9311-4560-b6a1-eef7baf82a0f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/ce9f4009-ff12-41a7-ab6e-08b50f7a958c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/962f6c8c-f830-41be-bce9-f57d2d0e4034/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/7914c4aa-0225-470a-a6ed-aa4058234a1f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/0e389d7e-a725-4f78-9ba0-bd8d387a650d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/f8717352-2261-4a3b-a12e-a8f25a08115e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/8f1067d2-ec7b-40ea-a2d9-e875f12759df/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/9d94173d-d083-4fbb-83ab-d75d7349dcb7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa408e3d-c646-422a-9567-ac01c75f0e22/resource/dac34a5a-f50a-47b1-99e5-de38a19d744b/download"
+      ]
+    },
+    {
+      "id": "152991",
+      "name": "桃園市娛樂稅稅源每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/00977c9a-9e05-4d61-97cb-8072fb0b8749/resource/33125be2-7e07-447c-991f-6e618bf5ac11/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00977c9a-9e05-4d61-97cb-8072fb0b8749/resource/a68d48b2-22c5-4f26-a467-b886d3d23b2c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00977c9a-9e05-4d61-97cb-8072fb0b8749/resource/694a2bd8-bb4b-450b-bd82-de0522446d3b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00977c9a-9e05-4d61-97cb-8072fb0b8749/resource/6fb1ae5e-a2e1-43f1-9840-878fa9c84844/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00977c9a-9e05-4d61-97cb-8072fb0b8749/resource/8c4d759f-3716-4576-8954-ff1d4d6afd18/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00977c9a-9e05-4d61-97cb-8072fb0b8749/resource/7099dd8b-529b-4851-bf6f-9eae378944fe/download",
+        "https://opendata.tycg.gov.tw/api/dataset/00977c9a-9e05-4d61-97cb-8072fb0b8749/resource/9f8b358f-ce06-4747-8132-c8822722721e/download"
+      ]
+    },
+    {
+      "id": "147356",
+      "name": "桃園市政府地方稅務局復查案件處理情形每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/01d7d4ee-77ad-4290-a8b3-fb6aee567021/resource/0e2301ee-8709-4bd0-8da9-15549c6e41c7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/01d7d4ee-77ad-4290-a8b3-fb6aee567021/resource/44b46112-e9d6-469b-b9c5-1cb351b23ae6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/01d7d4ee-77ad-4290-a8b3-fb6aee567021/resource/60c51948-7f39-4487-902f-4dfb350da424/download",
+        "https://opendata.tycg.gov.tw/api/dataset/01d7d4ee-77ad-4290-a8b3-fb6aee567021/resource/575b9864-0e7b-4455-a80a-b703218d5923/download",
+        "https://opendata.tycg.gov.tw/api/dataset/01d7d4ee-77ad-4290-a8b3-fb6aee567021/resource/51f8d961-d1a9-4275-9892-caa467a6e162/download",
+        "https://opendata.tycg.gov.tw/api/dataset/01d7d4ee-77ad-4290-a8b3-fb6aee567021/resource/cb8ac911-a317-4f8a-a4ae-799cbc3de457/download",
+        "https://opendata.tycg.gov.tw/api/dataset/01d7d4ee-77ad-4290-a8b3-fb6aee567021/resource/8f0db175-7bf4-4837-bfa2-84b9b80857f6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/01d7d4ee-77ad-4290-a8b3-fb6aee567021/resource/e88f19af-b06e-4afa-a0dc-870faeb244b3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/01d7d4ee-77ad-4290-a8b3-fb6aee567021/resource/5b473cc8-28da-4a97-887f-eb0387a2f28c/download"
+      ]
+    },
+    {
+      "id": "168904",
+      "name": "桃園市政府地方稅務局駐點區公所服務受理案件每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/0e914a9d-1892-4a6b-a611-23dd9c590e6e/resource/70ed2cb3-d783-40d9-9aca-769bfc2690bc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e914a9d-1892-4a6b-a611-23dd9c590e6e/resource/9c4c5324-fe7d-403b-bed2-1510e4af2dbd/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e914a9d-1892-4a6b-a611-23dd9c590e6e/resource/fea851a8-e783-4dc4-bf0e-d1b58de01543/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e914a9d-1892-4a6b-a611-23dd9c590e6e/resource/6c8d515c-cc09-41ee-ba27-3e9c7c7a0ea9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e914a9d-1892-4a6b-a611-23dd9c590e6e/resource/a6a920bf-f49b-49ea-808c-d7fd6aaeb7c0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e914a9d-1892-4a6b-a611-23dd9c590e6e/resource/9905d200-1f34-4dbf-8dc7-8327067c21c9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e914a9d-1892-4a6b-a611-23dd9c590e6e/resource/5a235c09-9f4b-4b9c-a178-ee89b206fffb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e914a9d-1892-4a6b-a611-23dd9c590e6e/resource/3f7a3413-9c7f-4135-a1a1-1612ac75f1eb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e914a9d-1892-4a6b-a611-23dd9c590e6e/resource/49826209-a72d-4051-b051-7a74a3ca50be/download"
+      ]
+    },
+    {
+      "id": "76860",
+      "name": "桃園市與其他直轄市地方稅稅捐徵收情形比較每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/85f4ed22-e268-4f01-9da2-1e8757d9ea47/resource/62bcf8e6-de5b-489f-a817-11ddbe1a6116/download",
+        "https://opendata.tycg.gov.tw/api/dataset/85f4ed22-e268-4f01-9da2-1e8757d9ea47/resource/7f2ed166-8dc6-4481-b143-ddf0f993c75e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/85f4ed22-e268-4f01-9da2-1e8757d9ea47/resource/c3f50bb8-11c9-43e7-8c8c-0a1156bc225e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/85f4ed22-e268-4f01-9da2-1e8757d9ea47/resource/1431ab16-63e2-4316-b20f-31013bca8ce3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/85f4ed22-e268-4f01-9da2-1e8757d9ea47/resource/4f50b28c-6993-4ad2-a10e-5269b0db8dfe/download",
+        "https://opendata.tycg.gov.tw/api/dataset/85f4ed22-e268-4f01-9da2-1e8757d9ea47/resource/8ec01675-b321-4999-b165-54959ec9f35e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/85f4ed22-e268-4f01-9da2-1e8757d9ea47/resource/98c13f3e-37e8-4794-9721-b5cd3aec0e0f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/85f4ed22-e268-4f01-9da2-1e8757d9ea47/resource/5d580fd5-68d0-44a9-8232-effd95dd967b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/85f4ed22-e268-4f01-9da2-1e8757d9ea47/resource/a5b8ff16-95fb-4a03-986b-268bad22b113/download"
+      ]
+    },
+    {
+      "id": "101286",
+      "name": "桃園市政府地方稅務局歲入預算表每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/e48262ad-72f3-49c9-a6c4-2999c7d78396/resource/e4892208-aad0-4bf0-b008-9bd38fe2a4f6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e48262ad-72f3-49c9-a6c4-2999c7d78396/resource/164cc48e-28eb-4bf9-867f-505cff45fb95/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e48262ad-72f3-49c9-a6c4-2999c7d78396/resource/977c8845-278b-45a5-904d-8f30dc3bd889/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e48262ad-72f3-49c9-a6c4-2999c7d78396/resource/4489346e-ef02-4b8a-a203-ff344e515ea5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e48262ad-72f3-49c9-a6c4-2999c7d78396/resource/6997c78b-207f-4c4f-a55c-e03543020848/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e48262ad-72f3-49c9-a6c4-2999c7d78396/resource/1ca9cdd4-5c34-477f-ba8e-41e0bcd356d3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e48262ad-72f3-49c9-a6c4-2999c7d78396/resource/29012214-00a9-40cf-bd75-a7c87b892ba4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e48262ad-72f3-49c9-a6c4-2999c7d78396/resource/ac158415-3b96-4392-a415-dfcb4e0b80b1/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e48262ad-72f3-49c9-a6c4-2999c7d78396/resource/6708c297-d525-43f5-8488-ef14a3d1c039/download"
+      ]
+    },
+    {
+      "id": "43280",
+      "name": "桃園市契稅應稅免稅案件每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/83df947f-21a0-4a40-97a3-f7c116811fe9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/ab3ccee3-d860-41eb-a924-c7abd698a85b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/537682c3-65bf-49f6-8758-357a11464f48/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/4a6a25f7-b244-473f-b562-4eb5b6de3c9c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/1f3322ff-bc3f-4f34-bd22-509a3ed987a2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/6cd93133-89f9-4343-b0c6-1387a30b9730/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/f78bb33c-2d9f-4a64-88be-bd6fd4498de4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/a8266f68-2ece-457c-a0e0-f2f0fde61ece/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/f0dedd08-6cfb-4528-a835-bc0bff0e04e9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/8c947eb1-ea92-4872-a919-9b926d251f2e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/01203099-d8d7-4186-a835-190d9426d86b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/32d8e91f-f3fa-410b-b840-484f14e0708f/resource/a8a9b6a9-c0bf-4d1a-aa90-086aba033d3b/download"
+      ]
+    },
+    {
+      "id": "43232",
+      "name": "桃園市稅務機關資訊位置",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/36fa9391-3fa5-44e7-9bf6-e7874d0fa20a/resource/5d6ba1f3-6643-4c40-9e2b-573b3e0b6883/download"
+      ]
+    },
+    {
+      "id": "46245",
+      "name": "桃園市大客車及貨車使用牌照稅稅額表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/1c6304e9-d2b4-46b3-82df-cf86cd999c6b/resource/7661a90d-acf5-4851-9e36-7be1050048ab/download"
+      ]
+    },
+    {
+      "id": "46360",
+      "name": "桃園市地方稅稅籍數及實徵稅額按各行政區每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/cf6d5604-cf29-4547-8e52-b27211970684/resource/0563a212-0ef6-45ce-8fda-1700500e0e3b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/cf6d5604-cf29-4547-8e52-b27211970684/resource/69c183e7-5ad0-4b47-8732-4b6305e59eea/download",
+        "https://opendata.tycg.gov.tw/api/dataset/cf6d5604-cf29-4547-8e52-b27211970684/resource/1ec79b73-e722-439c-806d-443f6a6f2bc9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/cf6d5604-cf29-4547-8e52-b27211970684/resource/39699a03-1845-41ec-9a43-2d9d71f846d3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/cf6d5604-cf29-4547-8e52-b27211970684/resource/ea056c36-4204-4473-86c3-85d1157db994/download"
+      ]
+    },
+    {
+      "id": "48711",
+      "name": "桃園市政府地方稅務局受理行政救濟情形每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/e52d7e2f-8d7b-4518-8179-8d0a7625a8e3/resource/41bc90a5-aaa0-4f15-a733-39fbb456f46a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e52d7e2f-8d7b-4518-8179-8d0a7625a8e3/resource/bacab4a4-22b3-4f43-924e-afc1a731ad47/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e52d7e2f-8d7b-4518-8179-8d0a7625a8e3/resource/2fcaf2e5-f699-4cad-adad-67a2c7719e27/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e52d7e2f-8d7b-4518-8179-8d0a7625a8e3/resource/8449895c-437d-42be-8d98-fd687fe298e5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e52d7e2f-8d7b-4518-8179-8d0a7625a8e3/resource/6ba24bfd-8a75-4998-b277-278a249880ff/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e52d7e2f-8d7b-4518-8179-8d0a7625a8e3/resource/e81b8c80-41cb-4af4-95e9-a8522f653044/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e52d7e2f-8d7b-4518-8179-8d0a7625a8e3/resource/2946bc0b-04c1-44d9-823b-017d4c304dcd/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e52d7e2f-8d7b-4518-8179-8d0a7625a8e3/resource/717208be-58d7-4ce6-b6e8-a6aab6e9f65e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e52d7e2f-8d7b-4518-8179-8d0a7625a8e3/resource/f61365c6-eea9-4719-b632-8d420ad0e6d5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e52d7e2f-8d7b-4518-8179-8d0a7625a8e3/resource/d61221e2-2c77-4cee-8cd2-dddae181a74a/download"
+      ]
+    },
+    {
+      "id": "76856",
+      "name": "桃園市各行政區房屋稅籍住宅戶數按樓層別每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/584ed2f2-e383-4217-b618-d16d8e5e61eb/resource/6b355956-e869-446a-85f7-ebed7dae53c6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/584ed2f2-e383-4217-b618-d16d8e5e61eb/resource/f77936d4-2816-46b0-81f9-e1d7ef906ac1/download",
+        "https://opendata.tycg.gov.tw/api/dataset/584ed2f2-e383-4217-b618-d16d8e5e61eb/resource/a2cb67ab-cda6-40ee-9a49-e6093ee3497d/download"
+      ]
+    },
+    {
+      "id": "76862",
+      "name": "桃園市政府地方稅務局稅務志工人數按性別每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/97824fb7-e34a-4975-bb96-35c609e84661/resource/d31621a4-2df2-44f3-8b95-08e8809c198d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/97824fb7-e34a-4975-bb96-35c609e84661/resource/4125fc98-e70f-4bf3-b812-a8ea9fed9f6d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/97824fb7-e34a-4975-bb96-35c609e84661/resource/302dee7a-d3ea-4243-836f-e211f4a939db/download",
+        "https://opendata.tycg.gov.tw/api/dataset/97824fb7-e34a-4975-bb96-35c609e84661/resource/ab35c804-9fd1-48e5-8994-b3d190dee5cf/download",
+        "https://opendata.tycg.gov.tw/api/dataset/97824fb7-e34a-4975-bb96-35c609e84661/resource/7ecc4f31-7f95-465b-a2d7-b14ae7e7ffe3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/97824fb7-e34a-4975-bb96-35c609e84661/resource/65849127-657a-4b1f-93fa-ccd3eb52a4d7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/97824fb7-e34a-4975-bb96-35c609e84661/resource/9bee0de7-65a4-4c86-862d-945371cff527/download"
+      ]
+    },
+    {
+      "id": "76869",
+      "name": "桃園市地價稅稅源按性別每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/e54f0159-224a-4a4f-bafd-0a5d3f0d2ab3/resource/444dd73d-c404-4a56-a5df-849e0be2de53/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e54f0159-224a-4a4f-bafd-0a5d3f0d2ab3/resource/072053a4-b7e5-4fd1-95ba-baaec7edd124/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e54f0159-224a-4a4f-bafd-0a5d3f0d2ab3/resource/b1096895-8b61-4dcd-84ca-4be44eb7dd0a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e54f0159-224a-4a4f-bafd-0a5d3f0d2ab3/resource/0ae72aae-1649-46fe-bde9-217e747f8c92/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e54f0159-224a-4a4f-bafd-0a5d3f0d2ab3/resource/ef4c9868-74ee-4a6e-b51b-40e29bc22cb2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/e54f0159-224a-4a4f-bafd-0a5d3f0d2ab3/resource/547aeef8-5ec5-468d-901c-2eb9b5f4da6a/download"
+      ]
+    },
+    {
+      "id": "76852",
+      "name": "桃園市各行政區房屋稅籍住宅戶數按面積每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/49d4cabc-7902-4c97-90cc-3f4cb715702b/resource/5e7ef114-3c60-4971-b4aa-8a5261b546a9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/49d4cabc-7902-4c97-90cc-3f4cb715702b/resource/49aa24ae-7546-4461-836d-6cb715e38501/download",
+        "https://opendata.tycg.gov.tw/api/dataset/49d4cabc-7902-4c97-90cc-3f4cb715702b/resource/d8820fdb-59f9-4d51-b2d3-25a388e214c6/download"
+      ]
+    },
+    {
+      "id": "94350",
+      "name": "桃園市地方稅納稅義務人欠稅情形按性別每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/a9f1433f-b99e-49fb-9f60-98a20d06fd74/resource/ff5cf069-ec8e-4a83-97f9-2d5e3293383b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/a9f1433f-b99e-49fb-9f60-98a20d06fd74/resource/3f2c0984-745a-4c2e-83df-8331cef39ae0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/a9f1433f-b99e-49fb-9f60-98a20d06fd74/resource/c0b49b72-4b39-4786-9a5b-8e342a80b4ae/download",
+        "https://opendata.tycg.gov.tw/api/dataset/a9f1433f-b99e-49fb-9f60-98a20d06fd74/resource/6dde07d0-6b53-4020-baa8-f890137f7f07/download",
+        "https://opendata.tycg.gov.tw/api/dataset/a9f1433f-b99e-49fb-9f60-98a20d06fd74/resource/b56f545c-5d4a-4273-bb2d-437929387f82/download",
+        "https://opendata.tycg.gov.tw/api/dataset/a9f1433f-b99e-49fb-9f60-98a20d06fd74/resource/003639d8-93d1-414c-8ad5-0a09de34bde7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/a9f1433f-b99e-49fb-9f60-98a20d06fd74/resource/4ff951a8-2618-4a21-9229-cb3f01b61be7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/a9f1433f-b99e-49fb-9f60-98a20d06fd74/resource/bb09a5d0-1959-4c02-aaaa-eca960efcd72/download",
+        "https://opendata.tycg.gov.tw/api/dataset/a9f1433f-b99e-49fb-9f60-98a20d06fd74/resource/e364ba64-4cda-4b83-9562-ee4e04b9c7cf/download"
+      ]
+    },
+    {
+      "id": "94309",
+      "name": "桃園市政府地方稅務局各項稅收稽徵成本每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/399cc301-99de-4a89-9473-ea9466979dec/resource/737410c2-5bdf-4319-9842-a026208aff0e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/399cc301-99de-4a89-9473-ea9466979dec/resource/d7d57f7e-0509-46d0-853c-4dec8e57bb5f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/399cc301-99de-4a89-9473-ea9466979dec/resource/61543548-65e2-416b-95e6-a8e499f9ada1/download",
+        "https://opendata.tycg.gov.tw/api/dataset/399cc301-99de-4a89-9473-ea9466979dec/resource/d7ad7c7a-60a7-4995-bb3f-38604573df55/download",
+        "https://opendata.tycg.gov.tw/api/dataset/399cc301-99de-4a89-9473-ea9466979dec/resource/e71be190-493a-429e-aa94-57b97c22f9aa/download",
+        "https://opendata.tycg.gov.tw/api/dataset/399cc301-99de-4a89-9473-ea9466979dec/resource/be80b399-9a21-463c-838f-d94c9cae1312/download",
+        "https://opendata.tycg.gov.tw/api/dataset/399cc301-99de-4a89-9473-ea9466979dec/resource/b710f3ef-4ac2-491c-bc09-52884663bb9a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/399cc301-99de-4a89-9473-ea9466979dec/resource/881bda2b-b294-4292-9ef2-297f25f562ce/download"
+      ]
+    },
+    {
+      "id": "94318",
+      "name": "桃園市使用牌照稅稽徵每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/54607d0f-e13c-4648-8ca6-2685323c482f/resource/e883b71c-9ef4-4789-a67a-7f3fb5d1512e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/54607d0f-e13c-4648-8ca6-2685323c482f/resource/57d5675f-66b1-4d4f-88ae-85e9cc90df93/download",
+        "https://opendata.tycg.gov.tw/api/dataset/54607d0f-e13c-4648-8ca6-2685323c482f/resource/2f1f11a7-eb3e-4c3c-967a-54a7e78b96c4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/54607d0f-e13c-4648-8ca6-2685323c482f/resource/dc1e3601-f5e1-4cd3-8e10-9a46740a05bf/download",
+        "https://opendata.tycg.gov.tw/api/dataset/54607d0f-e13c-4648-8ca6-2685323c482f/resource/2c4730a8-a868-47fc-95a5-d02adbafb7ff/download",
+        "https://opendata.tycg.gov.tw/api/dataset/54607d0f-e13c-4648-8ca6-2685323c482f/resource/a1c976ef-65c7-48a4-99e8-141febc7d0b6/download"
+      ]
+    },
+    {
+      "id": "147410",
+      "name": "桃園市地方稅違章漏稅案件處理及財務罰鍰執行情形每半年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/d86396c9-9ed4-4b1a-9537-22e65f6305a0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/3db1d220-3162-44cc-adc8-bcfe21d5c8cb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/14b3f650-3b40-4ce0-b934-ab51c99205cb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/87ec72e7-809e-4b61-a8a9-c0baa5c2c56b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/e3508fe2-9c53-4e46-90db-a460a9724663/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/cc76d560-9d8d-4149-a32d-d43154ed5893/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/d4bed50c-8d05-4b8e-8115-f314fdc7a839/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/cb7e795a-cf6f-4c71-875d-32c7e0d5bf94/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/02974f6d-4793-493e-97a3-f64392d97f81/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/d77cf508-dd53-4112-b347-22689762a03d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/403672d9-db5b-463e-b459-8b8e7a943ce6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/9186f700-7fbc-4b55-adf9-5615e2e1328c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/994cd6a7-c598-4819-9cc9-a035eab90bf0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/6f69341f-6fa2-4eae-a743-de6744c91bc2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/79a51c26-64e3-42a2-afda-b816a2f8ff3c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/5b8b79d5-dfe5-4625-999e-f3e139d39391/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/eed50d19-c933-4389-b0f5-ae36f8f76d4f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/43b96e78-3811-47ab-8a76-8b926018b959/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/3639c0fa-daf6-4132-ba3e-e6539fa75ab7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/714ddbd3-632c-469c-bbf7-e4f3dc23043f/resource/ef00009d-b823-4ad5-a135-3712fbbcbe69/download"
+      ]
+    },
+    {
+      "id": "146641",
+      "name": "桃園市政府地方稅務局多元繳納方式每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/3ba4f232-f3a9-4e32-9963-42fc8fef3900/resource/a6487691-9932-48a9-beef-47e8b8cffde2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/3ba4f232-f3a9-4e32-9963-42fc8fef3900/resource/f425d174-ad93-442b-a884-139edea73503/download",
+        "https://opendata.tycg.gov.tw/api/dataset/3ba4f232-f3a9-4e32-9963-42fc8fef3900/resource/6f703870-ded7-43d2-9d90-1a48beb72d49/download",
+        "https://opendata.tycg.gov.tw/api/dataset/3ba4f232-f3a9-4e32-9963-42fc8fef3900/resource/3d70de0c-6295-48e9-b466-b5a6c6e7bfb9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/3ba4f232-f3a9-4e32-9963-42fc8fef3900/resource/35bc2094-43ff-4f86-b0ee-a288ea9d735c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/3ba4f232-f3a9-4e32-9963-42fc8fef3900/resource/7b0fbdf8-b333-40ed-91eb-78ab56f7dbe6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/3ba4f232-f3a9-4e32-9963-42fc8fef3900/resource/ff5ab262-d751-44e6-9a37-01e01299c783/download",
+        "https://opendata.tycg.gov.tw/api/dataset/3ba4f232-f3a9-4e32-9963-42fc8fef3900/resource/795bcbac-1809-4017-88c3-8fc1dd3682d4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/3ba4f232-f3a9-4e32-9963-42fc8fef3900/resource/64fce311-845b-4592-9bc9-e156ec913cd6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/3ba4f232-f3a9-4e32-9963-42fc8fef3900/resource/c593aadb-68f1-4f87-82c5-8f713196cb80/download"
+      ]
+    },
+    {
+      "id": "146614",
+      "name": "桃園市政府地方稅務局退稅情形每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/d7e76e0f-bed9-4b73-b2b6-02b1014a562c/resource/a8ec5088-9d95-4298-bef8-4e2ebed6fdce/download",
+        "https://opendata.tycg.gov.tw/api/dataset/d7e76e0f-bed9-4b73-b2b6-02b1014a562c/resource/9ae422a7-a6ff-4d2b-9d02-cdbef4693a34/download",
+        "https://opendata.tycg.gov.tw/api/dataset/d7e76e0f-bed9-4b73-b2b6-02b1014a562c/resource/7f7ba26f-0797-41b0-8dd1-74f98003e203/download",
+        "https://opendata.tycg.gov.tw/api/dataset/d7e76e0f-bed9-4b73-b2b6-02b1014a562c/resource/49d2aef4-ad31-4385-931d-9ac2b042b846/download",
+        "https://opendata.tycg.gov.tw/api/dataset/d7e76e0f-bed9-4b73-b2b6-02b1014a562c/resource/0d4ccc49-9167-45ce-bd6d-ff06a1b4540e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/d7e76e0f-bed9-4b73-b2b6-02b1014a562c/resource/6234408e-e1bb-4da0-ba5e-f49203c617c5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/d7e76e0f-bed9-4b73-b2b6-02b1014a562c/resource/cbae7082-61db-4c52-af9f-f3da4aed8151/download"
+      ]
+    },
+    {
+      "id": "152862",
+      "name": "桃園市印花稅徵收情形每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/fa05fc29-9496-4a25-9f0f-5e28bf19d49e/resource/a1c6864b-5b74-478d-aaa4-7ecf7fe07b97/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa05fc29-9496-4a25-9f0f-5e28bf19d49e/resource/9beb45b2-3408-4bef-9e72-8ce539802083/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa05fc29-9496-4a25-9f0f-5e28bf19d49e/resource/aafe8d34-2c8c-48aa-b09f-e914fff40499/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa05fc29-9496-4a25-9f0f-5e28bf19d49e/resource/142fd5a9-cca4-4158-98c6-39e9616a46b7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa05fc29-9496-4a25-9f0f-5e28bf19d49e/resource/f3ca80da-846d-45a2-b8ec-a8ebc7e5ea06/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa05fc29-9496-4a25-9f0f-5e28bf19d49e/resource/41a2ce32-22b7-4ab4-841a-f542559aba46/download",
+        "https://opendata.tycg.gov.tw/api/dataset/fa05fc29-9496-4a25-9f0f-5e28bf19d49e/resource/f6f161ff-40cb-4cc5-8839-9bd9c00821ff/download"
+      ]
+    },
+    {
+      "id": "152940",
+      "name": "桃園市房屋稅應稅免稅案件每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/24d3d89d-b344-4743-bc66-91ba47c01605/download",
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/375e6653-8725-4d8b-bf24-d98b9ae8bf71/download",
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/b66c5415-f234-4154-8c60-6151e14326ce/download",
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/9ab07f3b-bca5-4bb2-800f-51cd7f75df73/download",
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/ca97285b-d51b-45d5-b951-f4f63ffb5682/download",
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/e68fc7f8-eecc-4415-92f5-1751357a18ce/download",
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/bada2f87-80e5-4401-9c0d-601427816ffb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/2a428400-7a98-42f4-a772-2d9e47f03a0f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/fe0163a8-f8e5-443f-ae4a-96c3f3dcbaec/download",
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/841ef6a0-66dc-4d93-85e1-1bf6874fc1ae/download",
+        "https://opendata.tycg.gov.tw/api/dataset/40d98ba2-e20f-4fc1-a9fe-e7e2c302f0ac/resource/3e6a8ef7-4dd7-4412-9d75-74d3aa06c79c/download"
+      ]
+    },
+    {
+      "id": "152931",
+      "name": "桃園市政府地方稅務局員工在職情形每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/cd52bcf3-3433-4620-95ed-47f74ee177ce/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/43fd9fd9-12c6-4530-93fd-93fe7fbcde0b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/994296cf-19f7-4935-83eb-fe725793236b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/6a4797fb-c564-4dc0-9e75-54913d66cafb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/778a60e5-0fb7-4f32-9c23-3a5e4c435591/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/6fddb82c-fa4d-4416-b628-223a864f8bcc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/5030d1fd-389e-460d-9195-3456f59708c7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/e611dd24-3d18-4c16-850c-1de96bc16981/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/56d451eb-6676-47a5-8c9b-9c6e4469eda1/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/3997b4cf-0751-458e-a880-233a13c18f96/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/4215beb5-636a-4550-aa73-f080fb7ff141/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/e9776f56-24d1-4e97-a409-e02f31a97028/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/36b9ad76-d39d-4931-a470-ddecac166432/download",
+        "https://opendata.tycg.gov.tw/api/dataset/0e113baf-a675-4e68-bcf8-9faebff164c8/resource/48219547-06b2-40d1-9344-986110307287/download"
+      ]
+    },
+    {
+      "id": "176833",
+      "name": "桃園市政府地方稅務局e觸即發跨域稅務通(含更址)滿意度每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/52fbeaea-83ce-4eac-bbda-36958e161364/resource/33881b50-7113-44d3-8d6a-7138089d2329/download"
+      ]
+    },
+    {
+      "id": "176835",
+      "name": "桃園市政府地方稅務局e觸即發跨域稅務通(含更址)件數每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/bd69c26d-74d3-46de-9bc5-099c96903ed0/resource/d85563bc-16be-424f-bf56-ce2364f71ac7/download"
+      ]
+    },
+    {
+      "id": "169578",
+      "name": "桃園市地方稅各項稅捐未徵數每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/43265c70-648f-48a4-ba41-4027a403372b/resource/ad9a935d-80fa-4f40-89e4-5d6c82e3f09b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/43265c70-648f-48a4-ba41-4027a403372b/resource/be6aa946-a8d3-4ea3-8639-5e98a1ce9f30/download",
+        "https://opendata.tycg.gov.tw/api/dataset/43265c70-648f-48a4-ba41-4027a403372b/resource/6ee66086-ad42-4ec5-99ce-af075c4680c4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/43265c70-648f-48a4-ba41-4027a403372b/resource/9d2752b0-01c1-46b7-89ae-ae62f3e52918/download",
+        "https://opendata.tycg.gov.tw/api/dataset/43265c70-648f-48a4-ba41-4027a403372b/resource/2f2b391f-34ba-472f-b8b2-465ced678301/download",
+        "https://opendata.tycg.gov.tw/api/dataset/43265c70-648f-48a4-ba41-4027a403372b/resource/907acfee-899f-4f50-9d61-a8d341aa0070/download",
+        "https://opendata.tycg.gov.tw/api/dataset/43265c70-648f-48a4-ba41-4027a403372b/resource/b1f9252e-2b1e-44bd-bbb1-8855a17a6a07/download",
+        "https://opendata.tycg.gov.tw/api/dataset/43265c70-648f-48a4-ba41-4027a403372b/resource/2e3f7897-397d-4ab0-a15d-ef00302b9da7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/43265c70-648f-48a4-ba41-4027a403372b/resource/c39c1a37-d427-43b4-bc22-82f72531c38c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/43265c70-648f-48a4-ba41-4027a403372b/resource/7a1470e2-07b3-4341-99e3-8059506d7060/download"
+      ]
+    },
+    {
+      "id": "169647",
+      "name": "桃園市各行政區房屋稅籍住宅戶數按屋齡每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/ec073bf0-892b-4a81-bb2a-dc49c70310f4/resource/c959b77d-06b0-4218-b817-f00dd390600f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ec073bf0-892b-4a81-bb2a-dc49c70310f4/resource/ef74337d-691d-423d-8ddc-7d50057948e2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/ec073bf0-892b-4a81-bb2a-dc49c70310f4/resource/6238d28d-2f65-4c89-b817-bb881a0bb973/download"
+      ]
+    },
+    {
+      "id": "172635",
+      "name": "桃園市土地增值稅稅源每年統計(110年以後)",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/72e95922-f955-46af-b99d-8471eb0626cc/resource/afb1a538-19b1-43f2-80e1-6ee10aba1747/download",
+        "https://opendata.tycg.gov.tw/api/dataset/72e95922-f955-46af-b99d-8471eb0626cc/resource/f6ffcbf1-7759-43f3-a998-fb01b138ab86/download",
+        "https://opendata.tycg.gov.tw/api/dataset/72e95922-f955-46af-b99d-8471eb0626cc/resource/345511c1-272b-4af1-be51-0c1fa3173f10/download",
+        "https://opendata.tycg.gov.tw/api/dataset/72e95922-f955-46af-b99d-8471eb0626cc/resource/6baecc30-f1f5-47d3-8cd3-3e9836884722/download",
+        "https://opendata.tycg.gov.tw/api/dataset/72e95922-f955-46af-b99d-8471eb0626cc/resource/e14f61a1-f5d8-4bc8-91b1-3f3d78a8e413/download"
+      ]
+    },
+    {
+      "id": "26037",
+      "name": "桃園市房屋地段率等級表",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/6c81cc24-4d81-4964-893d-2b89b216cfbc/resource/2fbd3156-5e11-4ddd-accb-fb6035fbc674/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6c81cc24-4d81-4964-893d-2b89b216cfbc/resource/d0653cc4-0c89-437d-8faf-2902183a1e01/download"
+      ]
+    },
+    {
+      "id": "31302",
+      "name": "桃園市政府地方稅務局跨機關單一窗口服務績效每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/efce8614-10a4-4118-a50a-27f42ebf24d0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/7e458b9a-9e3e-4e8f-81d3-74f552ded66a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/cff7702c-23c0-4bfd-b62e-820d4e04d2f2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/d0faba02-061b-4026-aea5-a32fe05c57e9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/eb0e57f6-365d-41b3-ba7c-bfd3cef8fcd5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/aa47b7f3-b5f9-4e27-8d45-7e1ba1445126/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/76d4f33e-2262-4cf2-a6b6-e4057b548a6c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/7cd50e3b-029c-40fe-a111-22b5227e23b2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/6c4e40b8-500d-45fc-9a0a-aea7f716a7b6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/f92457d1-4d6c-4a08-8be1-0bedb38678ac/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/6340739d-9ab4-43ca-a770-13c350864a21/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6/resource/49c4622c-8564-48ec-99b1-fb6b6a022766/download"
+      ]
+    },
+    {
+      "id": "49047",
+      "name": "桃園市政府地方稅務局全功能服務櫃臺受理稅務案件每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/f882e68a-e0ba-4d95-843f-426850f00088/resource/673c8f0c-632c-4f1d-be0b-ed8fc1be3a27/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f882e68a-e0ba-4d95-843f-426850f00088/resource/5b5a2ea0-4921-4cf0-bc34-2365b6cf43f1/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f882e68a-e0ba-4d95-843f-426850f00088/resource/ed1c585e-d22d-49f5-920a-63d62eac02fa/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f882e68a-e0ba-4d95-843f-426850f00088/resource/1ccf5710-b6e8-4ff2-8de4-18904534d6c2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f882e68a-e0ba-4d95-843f-426850f00088/resource/0e78a320-7a5e-43a8-9641-319b439578ae/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f882e68a-e0ba-4d95-843f-426850f00088/resource/7fe946ad-848e-4f8a-ada5-aebcb65d3855/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f882e68a-e0ba-4d95-843f-426850f00088/resource/09b0ee1b-b29f-454e-8d7e-367ce081b1f3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f882e68a-e0ba-4d95-843f-426850f00088/resource/400714cc-b54e-4260-94f6-3878bf8b4ce0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f882e68a-e0ba-4d95-843f-426850f00088/resource/b6725930-e577-4df3-a678-9fbfaf23e85b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f882e68a-e0ba-4d95-843f-426850f00088/resource/6cf8be87-ff68-4685-8f29-cd3d2c0d81c0/download"
+      ]
+    },
+    {
+      "id": "48708",
+      "name": "桃園市政府地方稅務局代發他轄稅務案件每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/5218ff94-bfae-4ca7-bd7c-a86239619325/resource/51a00fab-4dbc-4fa0-8ec6-0f44f9cf420a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5218ff94-bfae-4ca7-bd7c-a86239619325/resource/af8985a0-ef94-4b6a-998d-dbe3d4602056/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5218ff94-bfae-4ca7-bd7c-a86239619325/resource/78109313-deac-49b5-aa9a-9a7992342e10/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5218ff94-bfae-4ca7-bd7c-a86239619325/resource/73d6ddd0-7b3b-4e37-a34b-84db261e49db/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5218ff94-bfae-4ca7-bd7c-a86239619325/resource/b486a0e4-8733-402f-bbce-826b6f1c599d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5218ff94-bfae-4ca7-bd7c-a86239619325/resource/7e715581-977a-4854-ab3f-20e6d8de7619/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5218ff94-bfae-4ca7-bd7c-a86239619325/resource/d0775d98-57c3-4677-8ee4-4385325e8940/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5218ff94-bfae-4ca7-bd7c-a86239619325/resource/bf2a4e83-3fdb-4d07-8831-679982820845/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5218ff94-bfae-4ca7-bd7c-a86239619325/resource/a0eee98f-f02e-486a-8fac-417b7333afa8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5218ff94-bfae-4ca7-bd7c-a86239619325/resource/f9ad4f4f-fe1c-41f6-b09d-3c184d65175e/download"
+      ]
+    },
+    {
+      "id": "46359",
+      "name": "桃園市土地增值稅稅源每年統計(109年以前)",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/cf5abb08-7be7-47e7-84ce-4c21ec557157/resource/6f9c5cc9-a6a9-4c0f-b88b-e836caa5f2bf/download",
+        "https://opendata.tycg.gov.tw/api/dataset/cf5abb08-7be7-47e7-84ce-4c21ec557157/resource/c9956b2a-e502-48d4-8743-ccd378a04e9e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/cf5abb08-7be7-47e7-84ce-4c21ec557157/resource/268c51f2-3b1f-48de-a43f-ed935c6bc0d0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/cf5abb08-7be7-47e7-84ce-4c21ec557157/resource/e405d43c-c7cd-442b-a8f4-15f362b697ab/download",
+        "https://opendata.tycg.gov.tw/api/dataset/cf5abb08-7be7-47e7-84ce-4c21ec557157/resource/4940e8a1-eb3c-4bb4-b351-71d3c3db038f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/cf5abb08-7be7-47e7-84ce-4c21ec557157/resource/25d9a48d-628b-4aea-92b7-b581b9413d58/download",
+        "https://opendata.tycg.gov.tw/api/dataset/cf5abb08-7be7-47e7-84ce-4c21ec557157/resource/71c2ed80-9c35-4c4d-82ae-8261ce238c73/download"
+      ]
+    },
+    {
+      "id": "43320",
+      "name": "桃園市地價稅稅源每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/34538e5d-bb3a-4008-944a-08f7aa963916/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/3ab2157c-70bb-4bb2-ba4a-4ac9118914e4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/ebc542e7-9dda-4021-b9d5-789bb06c5c74/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/11ab4f9d-b32e-4f6f-b417-a8ca521c8018/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/f5bb3aaf-1637-48b9-9bac-65f2d2376792/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/b2037904-00e0-4bf2-acb2-622ef2ecee1e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/210c4049-6401-4369-81a7-fb306d8fbe11/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/831ffc47-5d7c-4c5b-acb0-aaa8eb39ef00/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/fa89c03e-73a4-4470-84e5-f7bd398ef9f9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/0ea8421c-2eb4-4aea-b10a-f9dad5f1be00/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/aba5fb39-c286-4d85-ae69-ccccc5b6e8cb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/384d26b8-3222-4d13-8e55-8fef32a57b80/resource/45f9eec8-5502-46e3-9605-2e7dab282ff4/download"
+      ]
+    },
+    {
+      "id": "45688",
+      "name": "桃園市地方稅各項稅捐查核定開徵數每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/871db550-1b6f-4606-9381-3e1d241f20f4/resource/8357c77f-145d-4f26-9525-1e1a66bd448f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/871db550-1b6f-4606-9381-3e1d241f20f4/resource/fac4cd00-d7f1-426f-a508-1577f13c3595/download",
+        "https://opendata.tycg.gov.tw/api/dataset/871db550-1b6f-4606-9381-3e1d241f20f4/resource/169f0056-f700-4dfe-8c50-51949481998d/download",
+        "https://opendata.tycg.gov.tw/api/dataset/871db550-1b6f-4606-9381-3e1d241f20f4/resource/1174c59b-a21e-4def-9190-9b5d1ddf1773/download",
+        "https://opendata.tycg.gov.tw/api/dataset/871db550-1b6f-4606-9381-3e1d241f20f4/resource/d3f99f2f-d8f9-4a60-b2b2-64b106a5982b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/871db550-1b6f-4606-9381-3e1d241f20f4/resource/2df934d1-233b-4529-aafb-e61ff7e0638b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/871db550-1b6f-4606-9381-3e1d241f20f4/resource/f99a54df-485a-4cbe-97c7-2d1404a113eb/download",
+        "https://opendata.tycg.gov.tw/api/dataset/871db550-1b6f-4606-9381-3e1d241f20f4/resource/e2a2efbe-2fd9-4216-8c6a-86dd8a11f4c0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/871db550-1b6f-4606-9381-3e1d241f20f4/resource/6a6a3f9c-f4c6-48c0-a7ad-27f4932c1694/download",
+        "https://opendata.tycg.gov.tw/api/dataset/871db550-1b6f-4606-9381-3e1d241f20f4/resource/e644d0ae-e5bf-46a0-bdda-0b6f5c3efa92/download"
+      ]
+    },
+    {
+      "id": "76855",
+      "name": "桃園市各行政區房屋稅籍住宅戶數按構造別每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/4fe430a7-7890-49d8-969a-80e420eb68f6/resource/5cddb7c0-9d0d-4621-8cf7-0d644fbfb73c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/4fe430a7-7890-49d8-969a-80e420eb68f6/resource/8c597592-e4b6-4d0b-bc0a-038c64658bbc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/4fe430a7-7890-49d8-969a-80e420eb68f6/resource/95e9bfc6-5044-4027-8145-643a22ed312f/download"
+      ]
+    },
+    {
+      "id": "94314",
+      "name": "桃園市政府地方稅務局各項稅收稽徵人力每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/4ca414c6-c2bf-49f8-a8ee-47fa85cd2b67/resource/de715f4f-8f26-4571-87ac-0cd171a7a39c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/4ca414c6-c2bf-49f8-a8ee-47fa85cd2b67/resource/6b64f8a0-bec8-4626-a375-10787da80412/download",
+        "https://opendata.tycg.gov.tw/api/dataset/4ca414c6-c2bf-49f8-a8ee-47fa85cd2b67/resource/a5b3a4c4-ccde-4382-af90-447720502f66/download",
+        "https://opendata.tycg.gov.tw/api/dataset/4ca414c6-c2bf-49f8-a8ee-47fa85cd2b67/resource/388f6fb8-20a8-4f9a-90cc-813ff3c751c7/download",
+        "https://opendata.tycg.gov.tw/api/dataset/4ca414c6-c2bf-49f8-a8ee-47fa85cd2b67/resource/3507d7a6-0570-41d4-9d35-654678ac6414/download",
+        "https://opendata.tycg.gov.tw/api/dataset/4ca414c6-c2bf-49f8-a8ee-47fa85cd2b67/resource/5236f245-e12a-4078-a105-5f82c5c8d4a5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/4ca414c6-c2bf-49f8-a8ee-47fa85cd2b67/resource/432a0bd0-83f8-4596-b9db-53fd4bc1d269/download",
+        "https://opendata.tycg.gov.tw/api/dataset/4ca414c6-c2bf-49f8-a8ee-47fa85cd2b67/resource/d86ec2f9-2491-48d8-83a2-06b617dc027c/download"
+      ]
+    },
+    {
+      "id": "101258",
+      "name": "桃園市政府地方稅務局歲出預算表每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/311f0e58-5655-44a5-b10c-8d0ed1791727/resource/1bc28455-f25d-4cb2-8153-fe0ebef72573/download",
+        "https://opendata.tycg.gov.tw/api/dataset/311f0e58-5655-44a5-b10c-8d0ed1791727/resource/e859cb7b-6e18-41c8-8ec5-3eee1c417339/download",
+        "https://opendata.tycg.gov.tw/api/dataset/311f0e58-5655-44a5-b10c-8d0ed1791727/resource/8f87478d-cdd9-4619-925b-c68ebf6c47e1/download",
+        "https://opendata.tycg.gov.tw/api/dataset/311f0e58-5655-44a5-b10c-8d0ed1791727/resource/2bb38748-4a23-45f3-b5e4-987af6627173/download",
+        "https://opendata.tycg.gov.tw/api/dataset/311f0e58-5655-44a5-b10c-8d0ed1791727/resource/2a7b4e16-95af-49eb-b3a2-2ede23f49193/download",
+        "https://opendata.tycg.gov.tw/api/dataset/311f0e58-5655-44a5-b10c-8d0ed1791727/resource/3d91a72e-0182-4c66-95b4-bb7abc8ca543/download",
+        "https://opendata.tycg.gov.tw/api/dataset/311f0e58-5655-44a5-b10c-8d0ed1791727/resource/3a7d43bd-60a8-4d7b-819c-253620e604b0/download",
+        "https://opendata.tycg.gov.tw/api/dataset/311f0e58-5655-44a5-b10c-8d0ed1791727/resource/adb65162-04d8-4feb-b699-32355621862f/download"
+      ]
+    },
+    {
+      "id": "152841",
+      "name": "桃園市土地增值稅徵收情形每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/f7992732-0b5d-4e6d-a1c8-283f901c1c19/resource/848cad48-9ad4-4f99-adcf-fcf6483b6e06/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f7992732-0b5d-4e6d-a1c8-283f901c1c19/resource/176a0b18-2b4d-4764-a798-e9740c9a8263/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f7992732-0b5d-4e6d-a1c8-283f901c1c19/resource/3f4f4a44-67ac-4465-83b3-f534014b92cc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f7992732-0b5d-4e6d-a1c8-283f901c1c19/resource/5ba13885-93c7-4da6-a690-81f469925162/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f7992732-0b5d-4e6d-a1c8-283f901c1c19/resource/07852687-c9e6-47bf-9313-23d7f4bb313a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f7992732-0b5d-4e6d-a1c8-283f901c1c19/resource/9bcd1eb1-cb3c-4c99-bfa7-e66b9343a7fc/download",
+        "https://opendata.tycg.gov.tw/api/dataset/f7992732-0b5d-4e6d-a1c8-283f901c1c19/resource/8c98c885-b995-414d-ad6d-4b8154b583de/download"
+      ]
+    },
+    {
+      "id": "147936",
+      "name": "桃園市地方稅各項稅捐實徵淨額與預算數及上年同期比較每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/bbc837d6-049b-4a63-aac9-a24a1dbaa137/resource/c1721d9f-17cc-482a-9096-7bf247e4a69f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/bbc837d6-049b-4a63-aac9-a24a1dbaa137/resource/f7a62b36-00f4-4fec-985e-66af43a7b2f9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/bbc837d6-049b-4a63-aac9-a24a1dbaa137/resource/11248d0d-7884-407e-ba41-ef32bfea0a0b/download",
+        "https://opendata.tycg.gov.tw/api/dataset/bbc837d6-049b-4a63-aac9-a24a1dbaa137/resource/944b7b56-cde7-485c-a67e-95c7004d71b5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/bbc837d6-049b-4a63-aac9-a24a1dbaa137/resource/1461eb8e-3fd0-49a9-8eaf-75e183e5f1d6/download",
+        "https://opendata.tycg.gov.tw/api/dataset/bbc837d6-049b-4a63-aac9-a24a1dbaa137/resource/4b47e358-b071-4479-afe4-9e49bf1417ea/download",
+        "https://opendata.tycg.gov.tw/api/dataset/bbc837d6-049b-4a63-aac9-a24a1dbaa137/resource/bc76180a-0b53-4f48-bb66-f5c636f78c7d/download"
+      ]
+    },
+    {
+      "id": "169667",
+      "name": "桃園市地方稅務局各項稅捐退還以前年度收入數每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/9c614347-ab98-4aab-8a13-d30db6250f8a/resource/3018f9e1-fc37-46c0-a02b-47282b374522/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9c614347-ab98-4aab-8a13-d30db6250f8a/resource/0e2128cc-08a1-43ce-a352-9828cbf5d623/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9c614347-ab98-4aab-8a13-d30db6250f8a/resource/d4f0519f-1dd1-464a-afc2-3743e5f7e756/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9c614347-ab98-4aab-8a13-d30db6250f8a/resource/4c5138db-83da-4a19-a628-474bf0342890/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9c614347-ab98-4aab-8a13-d30db6250f8a/resource/723ebdb1-3e12-4fd8-a1e7-02a30fdac69f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9c614347-ab98-4aab-8a13-d30db6250f8a/resource/20608eb1-a0d7-4749-a3fd-65e0e2585f3a/download",
+        "https://opendata.tycg.gov.tw/api/dataset/9c614347-ab98-4aab-8a13-d30db6250f8a/resource/4f0df538-7bdc-4109-bf3a-16796a6234a9/download"
+      ]
+    },
+    {
+      "id": "146678",
+      "name": "桃園市使用牌照稅稅源每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/c1079cf7-1275-47e9-b6d3-d83add66ede7/resource/48f9db10-73b5-4852-9000-961477580054/download",
+        "https://opendata.tycg.gov.tw/api/dataset/c1079cf7-1275-47e9-b6d3-d83add66ede7/resource/4f350939-1dbb-44f8-8cec-4fcdf3166a15/download",
+        "https://opendata.tycg.gov.tw/api/dataset/c1079cf7-1275-47e9-b6d3-d83add66ede7/resource/91d59b55-df4c-4e22-9ae3-820a92e9eaa8/download",
+        "https://opendata.tycg.gov.tw/api/dataset/c1079cf7-1275-47e9-b6d3-d83add66ede7/resource/080681b5-5b86-40ba-82ea-590b9a57129e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/c1079cf7-1275-47e9-b6d3-d83add66ede7/resource/ebbb7f8b-5ee8-4f94-ac85-1a475bd0b75e/download",
+        "https://opendata.tycg.gov.tw/api/dataset/c1079cf7-1275-47e9-b6d3-d83add66ede7/resource/e36cba86-3bd9-437d-ae9b-caedf937f2fc/download"
+      ]
+    },
+    {
+      "id": "147122",
+      "name": "桃園市地方稅各項稅捐解庫每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/5c108bee-e77e-4bc3-941d-b582f5ba2ed2/resource/5c718c57-b383-4dd8-9cd3-5175e2329d7c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5c108bee-e77e-4bc3-941d-b582f5ba2ed2/resource/182e8b16-8b00-4e01-8675-9b5c3a954cf4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5c108bee-e77e-4bc3-941d-b582f5ba2ed2/resource/71953555-12a9-4090-9939-e5fbb82d59d9/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5c108bee-e77e-4bc3-941d-b582f5ba2ed2/resource/986e8f0a-b631-4891-8928-2d4ede96f676/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5c108bee-e77e-4bc3-941d-b582f5ba2ed2/resource/65257d92-a3be-40a8-887b-08946a22df4f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5c108bee-e77e-4bc3-941d-b582f5ba2ed2/resource/8f137f6f-89c6-4cd0-b374-2d2e1ad3c271/download",
+        "https://opendata.tycg.gov.tw/api/dataset/5c108bee-e77e-4bc3-941d-b582f5ba2ed2/resource/805c9e91-8a31-4096-97c8-99cee1099db8/download"
+      ]
+    },
+    {
+      "id": "147123",
+      "name": "桃園市政府地方稅務局歲入決算表每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/863e5e70-eb79-4b20-8c57-87b18a3235e8/resource/7b614436-8110-4020-bed8-517a9683018f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/863e5e70-eb79-4b20-8c57-87b18a3235e8/resource/30f4cc31-079d-4066-86d6-76d313becbc4/download",
+        "https://opendata.tycg.gov.tw/api/dataset/863e5e70-eb79-4b20-8c57-87b18a3235e8/resource/e1491fae-10b3-4703-84e6-420a9b2a00f2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/863e5e70-eb79-4b20-8c57-87b18a3235e8/resource/47a33578-2827-4052-ab9f-283d82f05c78/download",
+        "https://opendata.tycg.gov.tw/api/dataset/863e5e70-eb79-4b20-8c57-87b18a3235e8/resource/27644c64-2fab-4160-8c63-405a59b56cad/download",
+        "https://opendata.tycg.gov.tw/api/dataset/863e5e70-eb79-4b20-8c57-87b18a3235e8/resource/f4b8359c-b1bd-4b85-9645-26c26963b2c2/download",
+        "https://opendata.tycg.gov.tw/api/dataset/863e5e70-eb79-4b20-8c57-87b18a3235e8/resource/cdb9a696-ee90-47f1-8ed1-b49d3b7b6b84/download"
+      ]
+    },
+    {
+      "id": "146621",
+      "name": "桃園市政府地方稅務局歲出決算表每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/6fcf1f83-5710-469a-a6b4-adada37bdfeb/resource/2599dc36-965c-4a52-8dcc-fafbe4b6e346/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6fcf1f83-5710-469a-a6b4-adada37bdfeb/resource/1afa1d46-2199-43bd-ab01-18daba6c737c/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6fcf1f83-5710-469a-a6b4-adada37bdfeb/resource/4657985c-6c01-4cb3-8bef-b1b33a350e56/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6fcf1f83-5710-469a-a6b4-adada37bdfeb/resource/8f7146b3-017a-49d4-ad61-73720447c8ea/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6fcf1f83-5710-469a-a6b4-adada37bdfeb/resource/6623b34f-7c3a-43b3-98af-4a711628d0dd/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6fcf1f83-5710-469a-a6b4-adada37bdfeb/resource/ad1e2712-b974-41b4-a6d9-ad5fcdd5acd3/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6fcf1f83-5710-469a-a6b4-adada37bdfeb/resource/6e1f6768-6bd5-4ccb-8bc1-b3bcfcb3f4cf/download",
+        "https://opendata.tycg.gov.tw/api/dataset/6fcf1f83-5710-469a-a6b4-adada37bdfeb/resource/6dd78004-f0a2-42f8-82dd-fdf8bf015937/download"
+      ]
+    },
+    {
+      "id": "149326",
+      "name": "桃園市地方稅稅收徵績按各行政區每年統計",
+      "format": "csv",
+      "urls": [
+        "https://opendata.tycg.gov.tw/api/dataset/2b50d1d2-1e72-4006-b9bf-7a478c220627/resource/2263a43e-a810-441f-bba4-db6ba8426243/download",
+        "https://opendata.tycg.gov.tw/api/dataset/2b50d1d2-1e72-4006-b9bf-7a478c220627/resource/00738b2b-328b-4655-a1f5-c73990ee5cbd/download",
+        "https://opendata.tycg.gov.tw/api/dataset/2b50d1d2-1e72-4006-b9bf-7a478c220627/resource/349d2cd7-07b8-4f15-8167-e057247febed/download",
+        "https://opendata.tycg.gov.tw/api/dataset/2b50d1d2-1e72-4006-b9bf-7a478c220627/resource/3028694c-3630-4843-ab9b-d64b6fbf2a54/download",
+        "https://opendata.tycg.gov.tw/api/dataset/2b50d1d2-1e72-4006-b9bf-7a478c220627/resource/0ce42d69-4b82-4e7a-9f1e-6b0d3f0b9b3f/download",
+        "https://opendata.tycg.gov.tw/api/dataset/2b50d1d2-1e72-4006-b9bf-7a478c220627/resource/9a31551c-8969-4831-8a8d-3afe24896695/download",
+        "https://opendata.tycg.gov.tw/api/dataset/2b50d1d2-1e72-4006-b9bf-7a478c220627/resource/8fb492e9-bbb5-46cc-a98d-4f9e916cdfb5/download",
+        "https://opendata.tycg.gov.tw/api/dataset/2b50d1d2-1e72-4006-b9bf-7a478c220627/resource/5416998b-d28a-4eaa-a607-0cf6e380b238/download",
+        "https://opendata.tycg.gov.tw/api/dataset/2b50d1d2-1e72-4006-b9bf-7a478c220627/resource/9ea13860-f642-483c-a40f-92945b44a10b/download"
+      ]
+    }
+  ]
+}

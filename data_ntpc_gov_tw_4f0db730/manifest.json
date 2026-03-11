@@ -1,0 +1,39 @@
+{
+  "type": "dataset",
+  "provider": "新北市政府原住民族行政局",
+  "slug": "data_ntpc_gov_tw_4f0db730",
+  "datasets": [
+    {
+      "id": "124724",
+      "name": "新北市原民團體資料",
+      "format": "csv",
+      "urls": [
+        "https://data.ntpc.gov.tw/api/datasets/7718c478-8c01-4570-8b12-643da2285dec/csv/file"
+      ]
+    },
+    {
+      "id": "124888",
+      "name": "新北市各區區公所原住民服務窗口",
+      "format": "csv",
+      "urls": [
+        "https://data.ntpc.gov.tw/api/datasets/e5bef801-73f7-4074-82df-2df430a08af6/csv/file"
+      ]
+    },
+    {
+      "id": "124568",
+      "name": "新北市原住民族別人數排行榜統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.ntpc.gov.tw/api/datasets/22ecd1e6-842b-419b-b78a-c60482af298a/csv/file"
+      ]
+    },
+    {
+      "id": "124962",
+      "name": "新北市各區原住民人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.ntpc.gov.tw/api/datasets/0de9326d-22ed-4ac7-8491-65bec2758af9/csv/file"
+      ]
+    }
+  ]
+}

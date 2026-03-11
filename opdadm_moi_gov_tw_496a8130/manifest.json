@@ -1,0 +1,1412 @@
+{
+  "type": "dataset",
+  "provider": "地政司",
+  "slug": "opdadm_moi_gov_tw_496a8130",
+  "datasets": [
+    {
+      "id": "7064",
+      "name": "地名譯寫資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4FECC3B1-4E35-49A5-BB46-C49A19B5B1D3/resource/82C14CCA-2531-402D-B7AC-66DF8355E154/download"
+      ]
+    },
+    {
+      "id": "34315",
+      "name": "公有土地資料(土地屬性資訊)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7EFCAF0A-F102-4E85-9B79-6B4F4A70B0A7/resource/F74E54DB-74BD-4C88-832A-84DD94CF61C4/download"
+      ]
+    },
+    {
+      "id": "40254",
+      "name": "內政部土地徵收審議小組審議申請收回案件准予發還統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A8CEDB9D-D620-41C2-96E1-5F33C79A4273/resource/FD372F53-FF6D-421F-A65F-127BFDC9B456/download"
+      ]
+    },
+    {
+      "id": "73240",
+      "name": "內政部土地徵收審議小組審議廢止徵收案件准予廢止徵收統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6EB4B000-5341-4BE3-9C08-E9E415E88976/resource/73F8891E-C0BA-4AF3-BAB1-9D5CC398FB2E/download"
+      ]
+    },
+    {
+      "id": "25111",
+      "name": "地政士開業資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/862A6771-490E-43C1-BAF5-857E1E36D714/resource/241C0789-4D86-4AA5-BCC1-DD43BC97AF59/download"
+      ]
+    },
+    {
+      "id": "25113",
+      "name": "非都市土地使用分區及使用地類別代碼",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F4BD7A0F-43EC-4452-8ABA-81C871B72548/resource/6D725A34-F4C5-4715-84B8-DB2241A40907/download"
+      ]
+    },
+    {
+      "id": "25094",
+      "name": "農村社區土地重劃建設地區一覽表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/59488C5D-E781-471A-A8C3-252702F38250/resource/B0E93EC7-5D51-4C6C-A057-7B9F7073132F/download"
+      ]
+    },
+    {
+      "id": "25096",
+      "name": "各縣市已辦理完成區段徵收成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CA9FAD4B-4EEE-4A81-B226-4F0056C56C7A/resource/AB9BAA75-3CD0-45F2-8418-F04FDA4EE5F8/download"
+      ]
+    },
+    {
+      "id": "25082",
+      "name": "地籍清理土地現值統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AD17F141-0F99-4A2A-9034-7F1A3BD43C7D/resource/72888E41-A609-49C9-B1A4-80D79C0733D5/download"
+      ]
+    },
+    {
+      "id": "25085",
+      "name": "縣市別地籍清理土地筆數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A33F8A5C-2D79-4C98-B3EC-48E6B2E35DC1/resource/D0D1DAE5-3244-4D81-B45B-E480C64C155E/download"
+      ]
+    },
+    {
+      "id": "25092",
+      "name": "全國完成農地重劃地區數及面積",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AD2225B-8623-49FF-9121-F120D044239A/resource/8E207595-0B4F-4095-924F-55D99CF46815/download"
+      ]
+    },
+    {
+      "id": "104776",
+      "name": "建物主要建材代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryMaterials"
+      ]
+    },
+    {
+      "id": "106243",
+      "name": "建物分層或附屬建物用途代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery.ashx?mode=QueryAccessoryUsage"
+      ]
+    },
+    {
+      "id": "106244",
+      "name": "他項權利檔其他擔保範圍約定類別代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryGuarantees"
+      ]
+    },
+    {
+      "id": "112828",
+      "name": "連江縣標準地名",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9D12E2E0-6212-423C-9A97-1E7DBE0CCBB8/resource/1248E0E1-FB09-47D2-9D11-CACA363D4413/download"
+      ]
+    },
+    {
+      "id": "112824",
+      "name": "區徵案件土徵召開專案小組會議統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/548FDE35-4721-42EC-BA93-FC46367BC62C/resource/C23AA1CB-1D36-4A6F-A239-135EA66C6D3A/download"
+      ]
+    },
+    {
+      "id": "112825",
+      "name": "主動通知繼承人申辦繼承登記統計數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E17AB9C9-63F7-4004-9E7E-61D7CB3187B6/resource/BE1CCCF8-D3C0-4C3F-8071-BE060566A510/download"
+      ]
+    },
+    {
+      "id": "122675",
+      "name": "非都市使用地類別代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryZoneDetail"
+      ]
+    },
+    {
+      "id": "127646",
+      "name": "地政貢獻獎評選委員名單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/BC75AD71-A032-41BC-B9D6-F423D96A89CE/resource/0B27C0D7-0149-4D92-90DE-F6440A9581FC/download"
+      ]
+    },
+    {
+      "id": "103185",
+      "name": "都市使用分區代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryZoneDetail"
+      ]
+    },
+    {
+      "id": "103186",
+      "name": "非都市使用分區代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryZone"
+      ]
+    },
+    {
+      "id": "103174",
+      "name": "他項權利檔利息_地租類別及遲延利息類別_違約金類別代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryRTOGH"
+      ]
+    },
+    {
+      "id": "103177",
+      "name": "其他登記事項代碼API",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery.ashx?mode=QueryRGALLCode"
+      ]
+    },
+    {
+      "id": "103182",
+      "name": "權利人類別代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryObligeeType"
+      ]
+    },
+    {
+      "id": "103884",
+      "name": "2019年全臺灣及部分離島20公尺網格DTM資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/311BDE94-7054-437C-962F-62EA805969B3/resource/CAF15B7D-0154-4C2D-B9BC-E0008158DC6F/download"
+      ]
+    },
+    {
+      "id": "142856",
+      "name": "臺中市地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=B"
+      ]
+    },
+    {
+      "id": "142857",
+      "name": "宜蘭縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=G"
+      ]
+    },
+    {
+      "id": "142859",
+      "name": "新北市地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=F"
+      ]
+    },
+    {
+      "id": "142860",
+      "name": "高雄市地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=E"
+      ]
+    },
+    {
+      "id": "142861",
+      "name": "臺南市地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=D"
+      ]
+    },
+    {
+      "id": "142910",
+      "name": "苗栗縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=K"
+      ]
+    },
+    {
+      "id": "144501",
+      "name": "金門縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=W"
+      ]
+    },
+    {
+      "id": "144503",
+      "name": "花蓮縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=U"
+      ]
+    },
+    {
+      "id": "144505",
+      "name": "屏東縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=T"
+      ]
+    },
+    {
+      "id": "144508",
+      "name": "雲林縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=P"
+      ]
+    },
+    {
+      "id": "144510",
+      "name": "彰化縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=N"
+      ]
+    },
+    {
+      "id": "163012",
+      "name": "中華民國24浬鄰接區外界線",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/TGOS/VirtualDir/Product/f0615a2b-dcaa-4b72-be19-3408662f7eff/mapdata202307030953.zip",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0B62D0ED-D732-4673-AA40-2724631BEFEC/resource/637A7B8A-0BB3-4662-9605-E747CCE05D78/download"
+      ]
+    },
+    {
+      "id": "163001",
+      "name": "主動通知繼承人申辦繼承登記分年統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F4BC4CA8-24DF-444A-85E1-957BB02C2043/resource/44C66797-073D-42E2-AFDB-95AA4E22EF7B/download"
+      ]
+    },
+    {
+      "id": "163142",
+      "name": "臺中市公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=B&SEC=0001"
+      ]
+    },
+    {
+      "id": "163151",
+      "name": "高雄市公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=E&SEC=0030"
+      ]
+    },
+    {
+      "id": "152226",
+      "name": "深度基準及深度系統相關成果",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6DF49783-F1A9-42D3-9B74-F2715037F63D/resource/E888A688-DD8C-4F84-B79D-0F128BE37337/download"
+      ]
+    },
+    {
+      "id": "155450",
+      "name": "中華民國第一批領海基線",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CD5D64F2-7091-4FA7-A2F8-2A3729608276/resource/F12A4D03-3BF5-4D50-82A3-06329F7E9A45/download",
+        "https://www.tgos.tw/TGOS/VirtualDir/Product/a0d26d15-cdd2-45ce-85e9-8ba81eae16b3/mapdata202306300551.zip"
+      ]
+    },
+    {
+      "id": "170127",
+      "name": "新竹市公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=O&SEC=0001"
+      ]
+    },
+    {
+      "id": "170126",
+      "name": "彰化縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=N&SEC=0001"
+      ]
+    },
+    {
+      "id": "168869",
+      "name": "新竹縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=J&SEC=0500"
+      ]
+    },
+    {
+      "id": "168871",
+      "name": "基隆市公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=C&SEC=0001"
+      ]
+    },
+    {
+      "id": "176927",
+      "name": "2025年版全臺灣20公尺網格數值地形模型DTM資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A964612F-0D64-4C81-BFE5-6C1F2BA61DED/resource/A0B94F67-8ADF-48A1-8DF0-C60719AD2B28/download"
+      ]
+    },
+    {
+      "id": "175240",
+      "name": "全臺灣20公尺網格數值地形模型DSM資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F4E758B6-5037-4632-83F9-E01B6009B161/resource/1DCB23FC-F6CE-46FC-8903-6725C48870F5/download"
+      ]
+    },
+    {
+      "id": "173650",
+      "name": "嘉義縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=Q&SEC=0500"
+      ]
+    },
+    {
+      "id": "172556",
+      "name": "全國已登記非都市土地農業用地權屬公告土地現值總額性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ECE91CAD-3691-4BD8-90A6-9F780E3CF403/resource/D87478B9-8B79-4A41-A698-6ACC90367D1D/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ECE91CAD-3691-4BD8-90A6-9F780E3CF403/resource/0F3D6E40-563E-4942-9DF3-BBB224311734/download"
+      ]
+    },
+    {
+      "id": "173221",
+      "name": "土地建物參考資訊",
+      "format": "csv",
+      "urls": [
+        "https://moiref.land.moi.gov.tw/pubref/OpendataDownloadServlet?data=ref"
+      ]
+    },
+    {
+      "id": "6215",
+      "name": "本期發布之預售屋買賣實價登錄批次資料",
+      "format": "zip",
+      "urls": [
+        "https://plvr.land.moi.gov.tw/opendata/lvr_landBxml.zip",
+        "https://plvr.land.moi.gov.tw/opendata/lvr_landBcsv.zip"
+      ]
+    },
+    {
+      "id": "18703",
+      "name": "非本期發布之實價批次資料　",
+      "format": "csv",
+      "urls": [
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=112S2&type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=113S1&type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=112S3&type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=114S2&type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=112S1&type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=113S2&type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=114S1&type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=114S3&type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=113S3&type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=112S4&type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=113S4&type=zip&fileName=lvr_landcsv.zip"
+      ]
+    },
+    {
+      "id": "7507",
+      "name": "內政部100公尺網格數值地形模型資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE15E53E-3C32-495E-AE0E-308991A36B46/resource/CE6FC5E0-FD77-427E-8EEE-5FA248DB1FA9/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE15E53E-3C32-495E-AE0E-308991A36B46/resource/1F2DFAA7-F277-4103-892F-B104D245AC78/download"
+      ]
+    },
+    {
+      "id": "7620",
+      "name": "地政機關通訊錄",
+      "format": "xml",
+      "urls": [
+        "https://www.land.moi.gov.tw/chhtml/moicontact"
+      ]
+    },
+    {
+      "id": "25093",
+      "name": "早期農地重劃區農水路更新改善計畫實施成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8D5A53DC-30D8-4E7A-818F-6D5A85E86906/resource/61794D21-5E3E-4671-B089-BBD0B746BF3A/download"
+      ]
+    },
+    {
+      "id": "25095",
+      "name": "全國已辦理完成區段徵收成果統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D583AE27-91D5-4266-A611-817288233EAE/resource/F5999EF9-1094-4418-86A1-A39079515A28/download"
+      ]
+    },
+    {
+      "id": "25097",
+      "name": "各縣市正在辦理中區段徵收區統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2EC50337-F7B0-4066-BB74-65EE12A118DC/resource/7D8F169F-27E3-4686-84F3-A5C27FE0FF23/download"
+      ]
+    },
+    {
+      "id": "25114",
+      "name": "不動產經紀業備查資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7EBDF5C8-58E7-4393-8C7B-018CFE00642A/resource/82E55624-4C44-4975-BCB7-6280E4A7AA44/download"
+      ]
+    },
+    {
+      "id": "25116",
+      "name": "地政士訓練機構",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/020BAAF7-8AA1-476E-9FC0-B63E26F6606F/resource/E0D41BB5-4644-48DD-B268-2D0046CFEB71/download"
+      ]
+    },
+    {
+      "id": "25118",
+      "name": "本期發布之不動產租賃實價登錄批次資料",
+      "format": "zip",
+      "urls": [
+        "https://plvr.land.moi.gov.tw/opendata/lvr_landCcsv.zip",
+        "https://plvr.land.moi.gov.tw/opendata/lvr_landCxml.zip"
+      ]
+    },
+    {
+      "id": "25087",
+      "name": "縣市別地籍清理申報或申請登記土地面積統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C0807EE3-D549-4C98-8663-A5D2B08C55B9/resource/3F6962E8-D34A-4D8F-8F1E-A038DED77155/download"
+      ]
+    },
+    {
+      "id": "25088",
+      "name": "縣市地籍清理申報或申請登記土地現值統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/15BA8BF5-629D-4FB8-9DAC-15B83218070F/resource/01B4E8B1-A0A0-4B9D-94EA-48ED667F991B/download"
+      ]
+    },
+    {
+      "id": "40253",
+      "name": "內政部土地徵收審議小組審議申請收回案件不准予發還統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/97E58E3F-0F30-4048-B1A7-BDB8D71849A9/resource/BB6692EC-742D-4856-9B5D-2FEE7A2CDDD1/download"
+      ]
+    },
+    {
+      "id": "40281",
+      "name": "臺灣地區地名資料_行政區域類",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C8DB1578-7554-4DBA-82AD-AD0105992C68/resource/83911F2D-F552-4E6B-99D0-6267FC9CD0E5/download"
+      ]
+    },
+    {
+      "id": "37835",
+      "name": "私有出租耕地租約期滿處理工作績效績優之鄉(鎮、市、區)公所",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/23683A25-6F68-4E5E-81B1-F60EF3111E23/resource/BBB29F94-11A0-40AD-8041-7A277A112279/download"
+      ]
+    },
+    {
+      "id": "40456",
+      "name": "臺灣地區地名資料_自然地理實體類",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/50ACF0B4-D215-463F-8813-5164027D59D3/resource/39945B0D-14A0-4612-9E7A-2DA48616B811/download"
+      ]
+    },
+    {
+      "id": "25247",
+      "name": "不動產經紀營業員訓練機構",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7074652D-E955-4988-A49A-1313BE76AB74/resource/3670E2CE-072A-46D8-AF8E-6E44F17B8FFF/download"
+      ]
+    },
+    {
+      "id": "24812",
+      "name": "歷年公告地價調幅統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A1D45782-F511-4FAD-B544-170D2B801B56/resource/2C957225-5A6A-4452-A858-23B5EE0035E3/download"
+      ]
+    },
+    {
+      "id": "24813",
+      "name": "代擬代判行政院函核准撥用地方公有房地統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/87EA8F8B-B8BC-46D5-A273-DE68585C2285/resource/394A8CA7-65DD-483E-B15A-3A72E36CC57E/download"
+      ]
+    },
+    {
+      "id": "85475",
+      "name": "臺灣全圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AFBE582E-22BE-4C0E-B01E-B8238E230522/resource/CC044917-F32B-4510-B0FF-A3EF2473EB67/download"
+      ]
+    },
+    {
+      "id": "46766",
+      "name": "本部土地徵收審議小組審議廢止徵收案件不准予廢止徵收統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/33CE1783-22F9-42D6-8FA1-F40A03D14C12/resource/DB053F8A-36E1-4DC2-BEA8-5E50F3E5BEF5/download"
+      ]
+    },
+    {
+      "id": "53685",
+      "name": "臺灣地區地名資料_街道類",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/076663CB-6E77-4AA4-AD4C-FCFA357CE257/resource/097771C5-CE15-41A1-971F-8CECB54AAB9A/download"
+      ]
+    },
+    {
+      "id": "112827",
+      "name": "地籍異動即時通累計申請數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/474E72DD-6980-44C0-AB00-CB0921296337/resource/BD3FDADE-2DA5-45B9-BDC6-69A12DD62CDC/download"
+      ]
+    },
+    {
+      "id": "112822",
+      "name": "公有耕地三七五租約件數資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/20439365-C732-48C8-BA8E-7669B8749A0D/resource/30FDEE1C-CF6B-46A0-912A-27630E98A361/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/20439365-C732-48C8-BA8E-7669B8749A0D/resource/60275700-BB1F-4DA3-9243-6BA774DE8D7E/download"
+      ]
+    },
+    {
+      "id": "112823",
+      "name": "全國地區市地重劃成果統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0AF84EA3-12EF-4B9F-AD2F-2C778EB03F8A/resource/D6C4085D-9736-43A2-80F8-F49F31D25AAB/download"
+      ]
+    },
+    {
+      "id": "112826",
+      "name": "全國地區辦理中市地重劃統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C30F4103-735C-4B41-A232-B0E038A29871/resource/09B934B6-9FDE-41EA-9170-D4716AF8BF37/download"
+      ]
+    },
+    {
+      "id": "98062",
+      "name": "公有土地資料(土地位置資訊)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0AE593BA-CC09-49B6-AB84-7F5E17C897DB/resource/6E840BA9-6C9F-419A-936C-74AE04029B2A/download"
+      ]
+    },
+    {
+      "id": "102865",
+      "name": "租賃住宅服務業登記資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/62DDDD1B-D673-486C-9A8D-C95527A475C8/resource/719894D3-AF04-4C3D-B249-DB131538CD5F/download"
+      ]
+    },
+    {
+      "id": "106240",
+      "name": "登記原因代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery.ashx?mode=QueryReason&UNIT=AA"
+      ]
+    },
+    {
+      "id": "106242",
+      "name": "他項權利檔擔保債權確定期日類別代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryLoanDate"
+      ]
+    },
+    {
+      "id": "127644",
+      "name": "不動產經紀業設立分處所資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FB2CD39C-E39B-4CB8-92FF-FAACDD6F8FD0/resource/935DC855-A552-4B23-9323-20A3A789EFF7/download"
+      ]
+    },
+    {
+      "id": "127668",
+      "name": "全國已公告區段徵收案件統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA593D4C-8574-4FCD-9048-F0D43E6C95F9/resource/ADF5DB7A-282A-4E68-BF36-98D0C12970B8/download"
+      ]
+    },
+    {
+      "id": "127667",
+      "name": "全國已核定區段徵收地區統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FFADA672-9E7B-42A9-B093-51C548B61269/resource/7E138870-D595-49D5-901C-E004DB56A3D1/download"
+      ]
+    },
+    {
+      "id": "122674",
+      "name": "土地段名代碼（ＡＰＩ）",
+      "format": "json",
+      "urls": [
+        "https://lisp.land.moi.gov.tw/MoiMMSv2/SectionList.ashx"
+      ]
+    },
+    {
+      "id": "103184",
+      "name": "全國地政事務所之收件字代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery.ashx?mode=QueryReceiptNumber"
+      ]
+    },
+    {
+      "id": "103173",
+      "name": "他項權利檔擔保債權種類及範圍類別代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryLoanAndRange"
+      ]
+    },
+    {
+      "id": "103176",
+      "name": "他項權利檔清償日期類別代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryTermination"
+      ]
+    },
+    {
+      "id": "103180",
+      "name": "他項權利檔權利價值類別代碼",
+      "format": "json",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FCFF9AEF-B403-4D2E-BD6E-8321531F0BDB/resource/6A510F57-DDFD-4F0A-B82C-1B4FE2FBD730/download"
+      ]
+    },
+    {
+      "id": "103181",
+      "name": "權利範圍類別代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryRights"
+      ]
+    },
+    {
+      "id": "162961",
+      "name": "租賃住宅服務業設立分處所資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9FD2FD48-80AD-4059-92DF-A5F9BF17469A/resource/83BAC536-59FE-43E6-B2FB-C5A1B51740AA/download"
+      ]
+    },
+    {
+      "id": "163138",
+      "name": "臺北市公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=A&SEC=0001"
+      ]
+    },
+    {
+      "id": "163150",
+      "name": "臺南市公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=D&SEC=1501"
+      ]
+    },
+    {
+      "id": "166046",
+      "name": "臺灣多感測器整合導航系統開放資料集",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA52B141-EEE2-4D55-859B-5AD783F5480F/resource/E663B537-A541-4513-AE35-08B332EFBE82/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA52B141-EEE2-4D55-859B-5AD783F5480F/resource/8E3BA734-7C38-445A-A600-3BAD10C0591F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA52B141-EEE2-4D55-859B-5AD783F5480F/resource/220DF850-27BD-407C-84AA-4246ACAAC557/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA52B141-EEE2-4D55-859B-5AD783F5480F/resource/2C9FD31B-5C49-456E-9A99-73218AFE71B0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA52B141-EEE2-4D55-859B-5AD783F5480F/resource/1B98B816-0DBE-4D62-AE31-D2CB322ABE5C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EA52B141-EEE2-4D55-859B-5AD783F5480F/resource/9BBDA4AE-8CB8-4A56-A9E9-E79D2CA48337/download"
+      ]
+    },
+    {
+      "id": "142911",
+      "name": "新竹縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=J"
+      ]
+    },
+    {
+      "id": "142912",
+      "name": "新竹市地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=O"
+      ]
+    },
+    {
+      "id": "142858",
+      "name": "桃園市地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=H"
+      ]
+    },
+    {
+      "id": "142862",
+      "name": "基隆市地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=C"
+      ]
+    },
+    {
+      "id": "155451",
+      "name": "中華民國第一批領海基線坐標表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F908E577-36DD-436E-90C0-925EEE2388EC/resource/06506494-556F-43ED-9E77-A64DC8D19A0C/download"
+      ]
+    },
+    {
+      "id": "160361",
+      "name": "2022年版全臺灣及部分離島20公尺網格數值地形模型DTM資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C1D107C8-6A0A-433F-BAE9-1D1DF55F1165/resource/B0CDC6EE-A9DB-4B51-8866-3E523E928CF0/download"
+      ]
+    },
+    {
+      "id": "144498",
+      "name": "全國已登記土地權屬筆數人次性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0860B028-0E68-4D73-859E-B07708809B53/resource/B272C3D3-18E1-4CDF-A27C-0D9B76224DB6/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0860B028-0E68-4D73-859E-B07708809B53/resource/C188D91A-BBA0-49AB-A08B-550BFFB43223/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0860B028-0E68-4D73-859E-B07708809B53/resource/8431AA4A-C494-48BF-9102-64E5D0A28A35/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0860B028-0E68-4D73-859E-B07708809B53/resource/B00D018F-FB2D-4DF8-BD58-B4F9FA96E035/download"
+      ]
+    },
+    {
+      "id": "144506",
+      "name": "嘉義市地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=I"
+      ]
+    },
+    {
+      "id": "144509",
+      "name": "南投縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=M"
+      ]
+    },
+    {
+      "id": "138563",
+      "name": "2020年版全臺灣及部分離島20公尺網格數值地形模型DTM資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FB3A0002-2651-4490-97AF-DA0918B0F0E3/resource/BE1AD315-99F3-4A8F-91D6-33C7F208A49F/download"
+      ]
+    },
+    {
+      "id": "169807",
+      "name": "2024年版全臺灣20公尺網格數值地形模型DTM資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/91C8DD53-6D5C-48DB-A548-FB27683FBC4B/resource/9F4010ED-4EDD-4347-93EE-A3445AE4AF0D/download"
+      ]
+    },
+    {
+      "id": "169808",
+      "name": "2024年版全臺灣20公尺網格數值地形模型DSM資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C21C19A3-1282-4B89-AB69-942CF2124D73/resource/0756460A-0983-4506-B1A9-6078768C3B2B/download"
+      ]
+    },
+    {
+      "id": "170124",
+      "name": "苗栗縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=K&SEC=0001"
+      ]
+    },
+    {
+      "id": "170125",
+      "name": "南投縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=M&SEC=0001"
+      ]
+    },
+    {
+      "id": "172464",
+      "name": "全國已登記非都市土地農業用地權屬面積性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3066EDC1-9432-40C3-844F-C82D9FA68B7F/resource/AF75763D-EC73-45F1-9B36-AF319DB6D2D5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3066EDC1-9432-40C3-844F-C82D9FA68B7F/resource/16CEEA2A-3653-4BBF-903F-B4434300F1E7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3066EDC1-9432-40C3-844F-C82D9FA68B7F/resource/34B1D733-957F-4105-8A0E-B501B779C141/download"
+      ]
+    },
+    {
+      "id": "173975",
+      "name": "花蓮縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=U&SEC=0500"
+      ]
+    },
+    {
+      "id": "173976",
+      "name": "澎湖縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=X&SEC=0001"
+      ]
+    },
+    {
+      "id": "173979",
+      "name": "臺東縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=V&SEC=0001"
+      ]
+    },
+    {
+      "id": "24814",
+      "name": "歷年公告土地現值調幅統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6AD589DB-BBC9-4793-AD3F-C9FB9D814BCA/resource/476A03CE-0E5E-4463-942E-A021EF886C28/download"
+      ]
+    },
+    {
+      "id": "26479",
+      "name": "臺灣地區一等三角點",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2253379D-D53E-41C0-8172-6C4FEA1662D8/resource/C0ABE79D-370D-46DA-BC5A-C06D93D8D4D9/download"
+      ]
+    },
+    {
+      "id": "26483",
+      "name": "臺灣地區二等三角點",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6FB68EA9-F3E4-470B-8905-A9400AC69CC5/resource/26A7204C-4416-4DB9-893F-9458174385FC/download"
+      ]
+    },
+    {
+      "id": "26485",
+      "name": "臺灣地區三等三角點",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C4B25E17-FE57-4879-87E0-4C7BBEA16EB5/resource/EB54A84E-54A9-4D68-9457-4BD82E4854B4/download"
+      ]
+    },
+    {
+      "id": "25074",
+      "name": "歷年土地筆數面積公告地價統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ECC2F1DE-BBAA-48B3-9171-46A3339AA25D/resource/36A6892D-BC41-42E4-AB80-4EE47FF766DB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ECC2F1DE-BBAA-48B3-9171-46A3339AA25D/resource/701365AC-8C8B-4897-90BF-6433D5B214A0/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ECC2F1DE-BBAA-48B3-9171-46A3339AA25D/resource/C3C65844-1996-436A-8301-7E27F095887F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ECC2F1DE-BBAA-48B3-9171-46A3339AA25D/resource/979651EA-C5EB-4040-936A-84C05F50E12F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ECC2F1DE-BBAA-48B3-9171-46A3339AA25D/resource/2B626C45-1BF3-4D1E-80E5-D9C7946A85DA/download"
+      ]
+    },
+    {
+      "id": "25076",
+      "name": "代擬代判行政院函核准處分地方公有房地統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/040A0DB1-420E-43CD-9262-6E4A0FB8B42F/resource/C5EDD02F-782F-46B3-9E08-3DE20DC7D7D0/download"
+      ]
+    },
+    {
+      "id": "25078",
+      "name": "地籍清理代為標售及保管款專戶統計表　",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/96BFD917-351B-4E65-93C2-5D84EE9ECF82/resource/51901679-346D-4F0F-84B5-1A28284420D2/download"
+      ]
+    },
+    {
+      "id": "25081",
+      "name": "地籍清理土地面積統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9FF5C2F0-0B0C-4819-874C-FC5D3098D0CF/resource/2B4F48F0-6F43-4A93-9B21-152DF9384038/download"
+      ]
+    },
+    {
+      "id": "25084",
+      "name": "地籍清理土地筆數統計表",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/35079872-1A47-4D17-A718-6CB3A2C14A43/resource/91182186-EAC5-4AD8-A80F-B4DD38A824F1/download"
+      ]
+    },
+    {
+      "id": "25089",
+      "name": "各縣市已許可陸資取得不動產件數資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/978472C2-6312-4029-AA89-B79A2D73D10A/resource/938EF653-93E5-4DB6-8D55-4A541E06C255/download"
+      ]
+    },
+    {
+      "id": "25090",
+      "name": "私有出租耕地租約期滿處理工作績效績優之直轄市、縣(市)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A1335E96-3936-40E4-A820-86112236F933/resource/4CB993D4-CC50-4894-A870-55D6DC5FD380/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A1335E96-3936-40E4-A820-86112236F933/resource/E99E44A6-D5F0-4883-93F7-9B66AFD1794C/download"
+      ]
+    },
+    {
+      "id": "25091",
+      "name": "歷年地政貢獻獎得獎人名單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FC6E4035-2865-4A24-97EE-5EE87679033C/resource/A6B1849A-E229-4B21-A37E-1EA03CB1F320/download"
+      ]
+    },
+    {
+      "id": "25070",
+      "name": "歷年土地筆數面積公告土地現值統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7F884D5B-9636-4367-B72C-BD7A10ADBDB9/resource/F27A8BE9-9399-49D3-8E2C-3D6AB4385AE1/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7F884D5B-9636-4367-B72C-BD7A10ADBDB9/resource/DDE7B142-0A29-4BA1-A317-513E81120C44/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7F884D5B-9636-4367-B72C-BD7A10ADBDB9/resource/4B12B095-3210-4F73-96FD-6C2B22536122/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7F884D5B-9636-4367-B72C-BD7A10ADBDB9/resource/16270A0E-74C3-4AB8-A31A-6F429D42B3A5/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7F884D5B-9636-4367-B72C-BD7A10ADBDB9/resource/37D1FA47-DCB4-4530-8FAA-71C436E6C846/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7F884D5B-9636-4367-B72C-BD7A10ADBDB9/resource/A6885EAD-BDCB-47FC-B4A5-79574DD8ACFF/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7F884D5B-9636-4367-B72C-BD7A10ADBDB9/resource/BA8D3128-21CC-4EB4-A2FF-8E67A1618F9E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7F884D5B-9636-4367-B72C-BD7A10ADBDB9/resource/D4507A19-21F7-436F-BA81-A202DC8811FB/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7F884D5B-9636-4367-B72C-BD7A10ADBDB9/resource/027AF761-DC9A-416E-8322-A333B9ACADCD/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7F884D5B-9636-4367-B72C-BD7A10ADBDB9/resource/679F83B6-7A3B-4E91-9F45-F30852614471/download"
+      ]
+    },
+    {
+      "id": "25099",
+      "name": "土地登記其他登記事項類別",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9A07AA1D-64BD-4D2B-B736-4388EB168827/resource/6314A99F-732F-4619-8257-5B18A5C21114/download"
+      ]
+    },
+    {
+      "id": "25100",
+      "name": "土地登記原因代碼",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D100B8B1-1607-480B-82F9-055E95AEE1C8/resource/3A26DF48-32AE-4350-A18C-E15C856D5D63/download"
+      ]
+    },
+    {
+      "id": "25102",
+      "name": "土地權利種類與權利標的",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4F45965F-268F-4E0A-B547-03EEAC455C25/resource/09992E6F-3565-4AEC-BB3E-B2E80BDB63C9/download"
+      ]
+    },
+    {
+      "id": "25117",
+      "name": "不動產經紀人訓練機構",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A2ABA024-379F-4155-B63F-A909784E3057/resource/241BC94A-9307-4DFA-9C03-E3ED939414DD/download"
+      ]
+    },
+    {
+      "id": "25119",
+      "name": "本期發布之不動產買賣實價登錄批次資料",
+      "format": "zip",
+      "urls": [
+        "https://plvr.land.moi.gov.tw/opendata/lvr_landAcsv.zip",
+        "https://plvr.land.moi.gov.tw/opendata/lvr_landAxml.zip"
+      ]
+    },
+    {
+      "id": "35430",
+      "name": "內政部20公尺網格數值地形模型資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/84CF211B-4788-4FEF-B296-0F292C1DCBB8/resource/279E125C-24C9-41C5-ABE4-B4E8EE506748/download"
+      ]
+    },
+    {
+      "id": "40252",
+      "name": "內政部土地徵收審議小組審議撤銷徵收案件不准予撤銷徵收統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/946AFDDB-B997-4527-8230-7615F497B748/resource/E18DB148-FCEA-4EFD-9F87-C9C30890FA46/download"
+      ]
+    },
+    {
+      "id": "40454",
+      "name": "臺灣地區地名資料_具有地標意義公共設施類",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/ADE629B4-0A35-418B-A623-E54281140BCB/resource/24A5E613-4F84-436E-A20F-79708E11E339/download"
+      ]
+    },
+    {
+      "id": "53686",
+      "name": "內政部土地徵收審議小組審議撤銷徵收案件准予撤銷徵收統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D784E398-34E1-4993-A93E-905AF89E0B72/resource/51110C33-47FD-416F-B7E1-33FB737FA342/download"
+      ]
+    },
+    {
+      "id": "53677",
+      "name": "臺灣地區地名資料_聚落類",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A5AB0C9-0395-4B04-AE50-02624075516F/resource/AE5B85B6-0895-4D32-8027-1713F018A649/download"
+      ]
+    },
+    {
+      "id": "77051",
+      "name": "本期發布之不動產實價登錄批次資料",
+      "format": "zip",
+      "urls": [
+        "https://plvr.land.moi.gov.tw/Download?type=zip&fileName=lvr_landcsv.zip",
+        "https://plvr.land.moi.gov.tw/Download?type=zip&fileName=lvr_landxml.zip"
+      ]
+    },
+    {
+      "id": "102817",
+      "name": "建物主要用途代碼資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryMainUsage"
+      ]
+    },
+    {
+      "id": "103183",
+      "name": "債權權利範圍類別代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryLoanRightsRange"
+      ]
+    },
+    {
+      "id": "103188",
+      "name": "全國地政事務所代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery.ashx?mode=QueryUnit"
+      ]
+    },
+    {
+      "id": "103178",
+      "name": "他項權利檔存續期間類別代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryDuration"
+      ]
+    },
+    {
+      "id": "103179",
+      "name": "權利種類及標的種類代碼",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandQuery/QueryObligeeType"
+      ]
+    },
+    {
+      "id": "88733",
+      "name": "新版臺灣本島20公尺網格DTM資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8600CF99-A6EF-4335-947D-D26C9992EDD1/resource/F0628AF7-C1CB-4803-8746-7492FD90271A/download"
+      ]
+    },
+    {
+      "id": "170564",
+      "name": "全國已登記土地權屬公告土地現值總額性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2DB717AA-83AC-4C0C-98BE-699307692B26/resource/945C4091-7872-463B-8D3E-18B08950C21F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2DB717AA-83AC-4C0C-98BE-699307692B26/resource/AED16ECF-C1D1-4018-8B61-1A892D5CD36F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2DB717AA-83AC-4C0C-98BE-699307692B26/resource/D385CDEE-3B93-4BB7-B7E3-91B871BC2DBE/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2DB717AA-83AC-4C0C-98BE-699307692B26/resource/EFEE87A5-56F3-4618-AFE2-C948559336C3/download"
+      ]
+    },
+    {
+      "id": "172465",
+      "name": "全國已登記非都市土地農業用地權屬筆數人次性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/958E2301-DDB2-4D17-835C-E8572CFE3E93/resource/DFCC22C7-6DFF-4837-924B-5516FDFBA16E/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/958E2301-DDB2-4D17-835C-E8572CFE3E93/resource/72AE5539-A39D-4724-A381-81C3E44177D2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/958E2301-DDB2-4D17-835C-E8572CFE3E93/resource/7C0D8721-91FB-41DC-93F1-BD84D093317C/download"
+      ]
+    },
+    {
+      "id": "167387",
+      "name": "2018年版全臺灣及澎湖地區20公尺網格DTM資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/34BB863D-0756-403D-B00B-1F6F4031BBDE/resource/45683399-EF4A-41A3-AE42-039A636B084F/download"
+      ]
+    },
+    {
+      "id": "168868",
+      "name": "嘉義市公告地價與公告土地現值資料服務",
+      "format": "csv",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=I&SEC=0001"
+      ]
+    },
+    {
+      "id": "168870",
+      "name": "宜蘭縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=G&SEC=0500"
+      ]
+    },
+    {
+      "id": "173651",
+      "name": "屏東縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=T&SEC=0500"
+      ]
+    },
+    {
+      "id": "130549",
+      "name": "村里界歷史圖資(TWD97經緯度)",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/16ACD8E3-6A33-4245-95B7-16819EE74DD0/resource/EBEA474C-65C2-4F5C-8B9C-023DF53C5717/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/16ACD8E3-6A33-4245-95B7-16819EE74DD0/resource/923454AB-F2CA-4AA2-BC59-1920215F1ADC/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/16ACD8E3-6A33-4245-95B7-16819EE74DD0/resource/F9B46555-ABB3-4BEF-AD32-1F7717E24207/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/16ACD8E3-6A33-4245-95B7-16819EE74DD0/resource/D6FFAEA7-A237-45CB-AC2B-355368C71628/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/16ACD8E3-6A33-4245-95B7-16819EE74DD0/resource/BA94E40E-F4DD-483B-9BD1-A87D3369F6A7/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/16ACD8E3-6A33-4245-95B7-16819EE74DD0/resource/BD77E162-29C6-4D87-84E6-B982265F8D06/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/16ACD8E3-6A33-4245-95B7-16819EE74DD0/resource/8DD537B2-2E16-4B3F-919B-E61037646698/download"
+      ]
+    },
+    {
+      "id": "142848",
+      "name": "臺北市地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=A"
+      ]
+    },
+    {
+      "id": "144499",
+      "name": "全國已登記土地權屬面積性別統計",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C1CBB61C-A703-41CA-97F3-EF3520FE149F/resource/5EFDBB5B-6499-4DD0-A457-1D279FCB9BC3/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C1CBB61C-A703-41CA-97F3-EF3520FE149F/resource/71B84FB8-4CE1-4DF8-9684-AAA174C6C8D8/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C1CBB61C-A703-41CA-97F3-EF3520FE149F/resource/881A2361-FE17-448C-8C1B-AE651D67D270/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C1CBB61C-A703-41CA-97F3-EF3520FE149F/resource/E48B34CD-517D-4E46-AD3B-E21C3D1F9103/download"
+      ]
+    },
+    {
+      "id": "144500",
+      "name": "連江縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=Z"
+      ]
+    },
+    {
+      "id": "144502",
+      "name": "澎湖縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=X"
+      ]
+    },
+    {
+      "id": "144504",
+      "name": "臺東縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=V"
+      ]
+    },
+    {
+      "id": "144507",
+      "name": "嘉義縣地政罕用字查詢服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/Rarewords.ashx?CITY=Q"
+      ]
+    },
+    {
+      "id": "142756",
+      "name": "測繪業登記資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A125F581-F01A-4F98-8F78-2AEF50F5ABB6/resource/AC638475-8D80-4930-8DEA-4770CDA2922D/download"
+      ]
+    },
+    {
+      "id": "162996",
+      "name": "非本期發布之實價批次XML格式資料",
+      "format": "zip",
+      "urls": [
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=114S2&type=zip&fileName=lvr_landxml.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=112S4&type=zip&fileName=lvr_landxml.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=113S4&type=zip&fileName=lvr_landxml.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=113S2&type=zip&fileName=lvr_landxml.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=113S1&type=zip&fileName=lvr_landxml.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=112S3&type=zip&fileName=lvr_landxml.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=112S1&type=zip&fileName=lvr_landxml.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=114S3&type=zip&fileName=lvr_landxml.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=113S3&type=zip&fileName=lvr_landxml.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=112S2&type=zip&fileName=lvr_landxml.zip",
+        "https://plvr.land.moi.gov.tw//DownloadSeason?season=114S1&type=zip&fileName=lvr_landxml.zip"
+      ]
+    },
+    {
+      "id": "163140",
+      "name": "新北市公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=F&SEC=0001"
+      ]
+    },
+    {
+      "id": "163141",
+      "name": "桃園市公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=H&SEC=0001"
+      ]
+    },
+    {
+      "id": "155954",
+      "name": "跨縣市收辦土地登記案件數",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3EA7D431-1EC6-406F-B0C5-357DC21EBCF5/resource/072E9C9F-4D0D-4625-BD26-030278AEC115/download"
+      ]
+    },
+    {
+      "id": "165890",
+      "name": "內政部100公尺網格數值地形模型資料-DEM",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8E1FE5AC-24FA-4E6D-8FA3-D03D8DA54912/resource/FCBD989A-0A87-4B9A-BA3E-C5A4EE5E0D7B/download"
+      ]
+    },
+    {
+      "id": "155452",
+      "name": "中華民國12浬領海外界線",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DE466003-A5A6-442D-8C55-552A0451D0B5/resource/F78DBCE4-4CB3-42DA-8A8C-13281A1ECF51/download",
+        "https://www.tgos.tw/TGOS/VirtualDir/Product/5ae70d06-ccd8-4a56-806f-272a28a6cfa3/mapdata202307030936.zip"
+      ]
+    },
+    {
+      "id": "170128",
+      "name": "雲林縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=P&SEC=0001"
+      ]
+    },
+    {
+      "id": "175239",
+      "name": "全臺灣20公尺網格數值地形模型DTM資料",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/80E9C878-8674-4BBA-A17D-DE4C5CA3FF26/resource/BCFFC898-20CE-4F9F-8325-23DBAA60061F/download"
+      ]
+    },
+    {
+      "id": "176351",
+      "name": "本期預售屋建案備查資料",
+      "format": "zip",
+      "urls": [
+        "https://plvr.land.moi.gov.tw/opendata/lvr_buildcasexml.zip",
+        "https://plvr.land.moi.gov.tw/opendata/lvr_buildcasecsv.zip"
+      ]
+    },
+    {
+      "id": "173980",
+      "name": "金門縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=W&SEC=0001"
+      ]
+    },
+    {
+      "id": "173981",
+      "name": "連江縣公告地價與公告土地現值資料服務",
+      "format": "json",
+      "urls": [
+        "https://openapi.land.moi.gov.tw/WEBAPI/LandPrice/Lastest?CITY=Z&SEC=0001"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1746 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府研究發展考核委員會",
+  "slug": "datacenter_taichung_gov_tw_f6946d14",
+  "datasets": [
+    {
+      "id": "84485",
+      "name": "臺中市政府105年1999進線統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2166cac7-5d36-41ca-b715-624bfc901cd0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2a908e7f-0f8c-4037-bee3-d34f04831bf1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/547c872a-ad3c-4dac-84a0-5aff37926a08"
+      ]
+    },
+    {
+      "id": "84404",
+      "name": "臺中市市政會議專案報告提案及頒獎資訊(CSV)",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=899d4542-afaf-483c-a5ff-dcc58204cc75"
+      ]
+    },
+    {
+      "id": "84907",
+      "name": "臺中市政府106年1999進線統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/15e23f96-ad4a-4f76-b022-26b97fab7da1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2c8285ff-5b47-414d-a488-3c7c1b61c14a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/606fea0d-f901-460c-a65b-584f98bd2af6"
+      ]
+    },
+    {
+      "id": "84506",
+      "name": "臺中市民眾常見問答點閱率統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4ba8fa7d-9d02-49e3-adc2-e064e8beac8c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c78ad31-47a6-40e9-b824-1aad666b3586",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/89315326-156a-409d-b5a3-ab3fd65f6a59"
+      ]
+    },
+    {
+      "id": "115985",
+      "name": "30280-04-05-2 臺中市政府1999話務中心受理人民陳情案件統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=efc5561e-da9e-45de-bec9-1ecfe1c6786b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4c3b53be-02d9-4862-bd15-d21a55f10f67",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b360a546-7acd-4a1e-998d-2e23a5f792f2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fd96e536-2bc2-492b-9fd5-65897dfc6a55",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=da1027f4-6cfa-4e4f-af9d-f96a990cf36e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a101fdd0-7605-4139-97aa-bf7baab77a9a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ef2731ba-1628-4659-9955-6d46c3743d6d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7c116b57-08c1-4610-8d88-4287a667eef8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d8048fbd-8750-4341-803f-fca22cc16c15",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9499c51d-db94-492d-9e01-579bee42702f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eba5f85a-018d-4f53-a6fd-76487f760105",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e31735af-e699-426f-a4bd-19daa4f424b5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fa4c16e7-2ff4-4a7c-99aa-241c2f26a679",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a30c4042-1ec1-4ca4-8b1c-d1238f5ffa51",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=310325b3-a4d3-4ed2-8800-f041db098bb0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bde73eaa-6fd7-464d-9048-f060b142e2f7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2dae479a-5cf3-45e3-996e-e5149f1a34bb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5573bfa1-7acd-4807-a6ca-382e53b87ff2"
+      ]
+    },
+    {
+      "id": "114701",
+      "name": "30280-05-01-2 臺中市政府各機關中程施政計畫項數—機關別統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bcf1743d-dac9-4850-accf-7524b941f137",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff265df1-9d2f-4eb7-b431-39612c2271ab",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9e95ba95-aabb-4943-bdf0-82bc1a75d9df"
+      ]
+    },
+    {
+      "id": "114711",
+      "name": "30280-05-02-2 臺中市政府各機關發包預算一百萬元以上標案施工進度統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4be1bd37-777c-48c2-847c-6a4fa6fce1a0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c91b62cf-4a72-4dca-a70c-eaa0d31e29c7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=afa97ff5-0b69-492d-8cca-89bb84665b17",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=640bb57c-c960-49c2-b417-0a651953d26e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=86cbe549-440b-49b5-aa67-7ab461d8b70b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8ff78bb7-93cb-44a6-84ba-30574446f5bd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0d6cd919-b6f5-457f-b925-db9db006699f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=27712fe1-abce-4e50-91da-5aae932d0d69",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7b8654df-bc78-47c1-a693-109570a37ed5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8fd30576-8375-4e24-8d21-9c33bf28c451",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a6968879-dcbe-47c0-8588-a7809f832292",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=60113889-33fb-4496-9c27-8254eed5c047",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dc72a9b4-ebe4-4e13-81d1-687ef6869781",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6e915a52-adeb-4ce7-ba69-005bd80411cb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b27a571-4cc6-40b2-8deb-7838323c080d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3bab86bf-739b-479d-adec-888f90299e10",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7d7cfca3-5c5b-4bba-a280-734edeb0847f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3166d30c-36b5-4f9c-be30-312f50741eef"
+      ]
+    },
+    {
+      "id": "131567",
+      "name": "臺中市109年10月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/490a8eb6-cec3-4c58-8bb8-05d3a2bbf8c0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8145d433-db63-43c9-8974-1fb0ba9e748e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c5b89eff-c74c-4217-9dd6-8fa16e33a106"
+      ]
+    },
+    {
+      "id": "143352",
+      "name": "臺中市110年7月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/19de650e-2e66-4cd2-8570-78435ec2b4ee",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7d2bd8ff-5f06-432e-96f8-f8980260e83a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d9fb3d59-2e5f-417a-8e7e-5d197ebd344f"
+      ]
+    },
+    {
+      "id": "148688",
+      "name": "臺中市111年2月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/afbf9d19-4e0b-4fe7-b8d9-33fca2af8350",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c15c2239-7b5b-4f09-9227-0dccfb5cff6e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dadaa958-298c-4d27-9268-818be30f92b1"
+      ]
+    },
+    {
+      "id": "144174",
+      "name": "臺中市110年8月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2a6487d6-410b-4e09-bcaf-804f16f88d0e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b715ab87-2432-4970-84b1-1793eddde1f7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d5b8ba60-a8f3-44a0-89e1-8c0ba0e7f9d7"
+      ]
+    },
+    {
+      "id": "152735",
+      "name": "臺中市111年5月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/000e5a5f-0e54-44cc-b2e6-108f19e04eee",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0811d74f-934e-462e-be49-55c65acd6153",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/aa7e12c5-4238-4726-bd8a-205ed65a7fa2"
+      ]
+    },
+    {
+      "id": "162604",
+      "name": "臺中市112年5月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6263b712-e769-425c-bc41-8a06fde9f5fd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/78a609a3-3bae-414c-8cd1-9ebe8eeb6ed3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b4863e05-3cf2-4a74-b09f-840948e86e68"
+      ]
+    },
+    {
+      "id": "159689",
+      "name": "臺中市111年11月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/054e5f23-36d6-486c-84c8-287ee6263789",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0995f005-0f3d-482e-afbb-4aad87e45fe6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8aa87938-2e8b-4e3c-99c1-9e5305548f6c"
+      ]
+    },
+    {
+      "id": "159690",
+      "name": "臺中市111年11月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/65dfc0fb-d387-4ecb-a476-77f7ada2cd1e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/79e0a1ef-f290-4f55-bb4d-cc641598dabc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ad676794-da59-421d-8520-66ac8f3ab8e3"
+      ]
+    },
+    {
+      "id": "161814",
+      "name": "臺中市112年1月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/485b376b-83ec-4d37-88f6-af2b25ee0b01",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9bac2326-e20c-4739-8b95-8a7c2516337f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c911c205-4f32-44a7-8172-563f2ea257cf"
+      ]
+    },
+    {
+      "id": "160504",
+      "name": "臺中市112年1月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6310a61b-ab6f-428e-9810-f55cc80d7075",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ac82d4a6-fd99-4e3d-9131-770705b6b072",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bf301043-55c8-4f3e-94eb-7ea43e488d65"
+      ]
+    },
+    {
+      "id": "158962",
+      "name": "臺中市111年10月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/196164dc-3f80-4cae-8e65-4494111d766d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6a7eae41-054d-40ea-8ca2-eacd01c4c246",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c46b7e8b-5c78-4815-b38e-a197f4f09771"
+      ]
+    },
+    {
+      "id": "161247",
+      "name": "臺中市112年3月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0bf8f30d-4779-4765-96e1-465b8c2a0bb0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/215dfb3b-a039-4c6a-a88b-aa885e9ed7a9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fc650aa2-8f17-4157-847b-8165300817af"
+      ]
+    },
+    {
+      "id": "161248",
+      "name": "臺中市112年3月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/06ec7a99-8313-495c-b3dc-f179ad4c7a15",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5470a212-3f46-4979-9772-ac5001f22e36",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/760adfd3-1492-46a5-b784-a2876b5012ee"
+      ]
+    },
+    {
+      "id": "163854",
+      "name": "臺中市112年7月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0c254c99-880a-4713-94f5-738e6ef11b2f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7556b800-11ec-473b-9ec9-2b361fdc61b1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e07b6e10-4592-4dfa-b4ad-08176106bdad"
+      ]
+    },
+    {
+      "id": "145677",
+      "name": "臺中市110年10月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/34844e5f-b89a-4db0-9634-d6e43eb4fe72",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/576218cd-0416-4ea9-b2ce-1c09d9970698",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f70b320a-f5b3-4818-a127-a13c414fb4a5"
+      ]
+    },
+    {
+      "id": "135219",
+      "name": "臺中市109年12月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a04f898d-9e62-49f1-ab07-f46369c18f3c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a0a1129a-90a9-4b4d-b547-c83cf6f7fee6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c9309128-01ab-4da9-809f-9bdd8ba0f709"
+      ]
+    },
+    {
+      "id": "137353",
+      "name": "臺中市110年2月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0456ce27-07ed-4ff7-aa99-bfdbda420280",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a22ad33c-8713-479a-9545-142febee4b20",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ef3e774d-333f-4884-b9a7-a0b6d0e8770f"
+      ]
+    },
+    {
+      "id": "132736",
+      "name": "臺中市109年11月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/61821f86-3e00-4174-8bec-f10ef2ed8240",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a55a74a6-a775-4cdf-aaed-a71aecbcd494",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a5671651-a402-48b6-9d02-05574c77456d"
+      ]
+    },
+    {
+      "id": "140052",
+      "name": "臺中市110年4月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0fd9a60a-5f07-41e7-8ed6-57074bda2a6a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2e308743-6680-4fa1-91aa-892889d8afa1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a696b098-d38c-466b-8b9f-53c460f024cd"
+      ]
+    },
+    {
+      "id": "155644",
+      "name": "臺中市111年6月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7231c40d-4c64-4f1c-a418-38a558209094",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7aa6b89f-331e-452d-a453-1ff6d0887ad7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a1b5c17e-1a0a-4819-bcaf-3d0eea4e046a"
+      ]
+    },
+    {
+      "id": "165998",
+      "name": "臺中市112年10月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1195b494-7669-491a-968d-11ea786af301",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/205e0d90-aa55-47da-a432-6da0653b104e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7c68845f-ceea-4fc4-bdd2-71d43e9186e7"
+      ]
+    },
+    {
+      "id": "173284",
+      "name": "臺中市114年4月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4b88af2c-bd66-419a-a0c3-ec2c663b6f57"
+      ]
+    },
+    {
+      "id": "173285",
+      "name": "臺中市114年4月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d37beda-966c-43c4-ab17-f65e013b90f3"
+      ]
+    },
+    {
+      "id": "166667",
+      "name": "臺中市112年12月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/095ec09d-7d62-40ce-9fa7-98fc25fe73c5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/45b9cd51-d96b-482f-8398-ee8a9ac51440",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b49e37c9-c80b-4916-b338-46230bed768b"
+      ]
+    },
+    {
+      "id": "167958",
+      "name": "臺中市113年3月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/012c5633-a81f-4c4c-8327-9f869b15d68f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/080da76d-6491-4758-9f07-35dafb246c06",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2da2e44a-1624-4a15-8d49-a2725eae8612"
+      ]
+    },
+    {
+      "id": "169460",
+      "name": "臺中市113年7月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3c5b15b7-26cc-4df4-83a0-44925474822a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5e9805d4-9d69-418a-8940-e665720bcf56",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/defad3fa-242b-473a-be0a-a8a8913d35f8"
+      ]
+    },
+    {
+      "id": "176544",
+      "name": "臺中市115年1月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6480409b-205b-4b37-98ef-c4875324f979"
+      ]
+    },
+    {
+      "id": "176817",
+      "name": "臺中市115年2月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=153df2ec-faca-4ae4-9716-769fbde5670e"
+      ]
+    },
+    {
+      "id": "176939",
+      "name": "臺中市114年7月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5620900c-7730-4896-b223-1c4afc6bf84f"
+      ]
+    },
+    {
+      "id": "167723",
+      "name": "臺中市113年2月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5dc86018-386c-492b-8582-268e79461d4a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8ac3e88f-d1ac-41fc-afa6-af4d1960cb52",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ff2e9b90-59e2-45bd-87c9-bf90d24dd573"
+      ]
+    },
+    {
+      "id": "173035",
+      "name": "臺中市114年3月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eea725ad-056b-416b-ac84-4e386be0a311"
+      ]
+    },
+    {
+      "id": "175969",
+      "name": "臺中市114年12月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e055dee9-5fae-4abc-8329-03c90a72ae16"
+      ]
+    },
+    {
+      "id": "171728",
+      "name": "臺中市113年12月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=60c31845-edbc-4c9a-9671-4f1642d417c3"
+      ]
+    },
+    {
+      "id": "168698",
+      "name": "臺中市113年5月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/049dc813-808e-4e2a-bdd2-f5c80e88b0b8"
+      ]
+    },
+    {
+      "id": "171086",
+      "name": "臺中市113年10月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3ef9b6c0-329b-4229-857a-ed673353164e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/643261b7-6dc1-434a-8060-0c93d4da323b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c3babe68-1c19-4f0b-a79c-08154c600d7f"
+      ]
+    },
+    {
+      "id": "173496",
+      "name": "臺中市114年5月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8d57a24d-738d-4eae-83d0-7feb24be582e"
+      ]
+    },
+    {
+      "id": "174114",
+      "name": "臺中市114年7月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2f8b9813-ddf2-4fb3-8e22-e1bb9751c40e"
+      ]
+    },
+    {
+      "id": "174918",
+      "name": "臺中市114年9月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9af635c6-a9fa-4249-bce8-24735319a577"
+      ]
+    },
+    {
+      "id": "175179",
+      "name": "臺中市114年10月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0c83bffe-12ac-462d-9ea1-ae76fdf936ed"
+      ]
+    },
+    {
+      "id": "84523",
+      "name": "臺中市派工案件資料開放集",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6030a48b-36e9-4b8d-945d-206228406c54",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=af6a114a-5610-4573-b015-89e99b95e4f6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a311cacf-9367-49dd-8d72-1712b56c46ec",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4286a938-4f5d-4d7d-ada8-2e8f64497fbd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b66fa33f-da3c-42c1-a56e-cc85643b2115",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e9610710-a6fd-41be-8046-90f2c38b688f"
+      ]
+    },
+    {
+      "id": "100164",
+      "name": "臺中市政府108年1999進線統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/08f64348-a72c-4364-90a0-bdb7c667fae5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a72b1237-8508-4247-9fce-fff2b1db5941",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dcfa547f-9c11-4073-8049-f014e89c972d"
+      ]
+    },
+    {
+      "id": "117375",
+      "name": "30280-07-03-2 臺中市政府二級機關一般公文統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=74219fc5-a109-4177-ab23-484c02adf01b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=de0ae5bf-8505-46b6-96ce-8221e0a771f0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab0c8dd4-9ece-403c-a41e-ecae97481477",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8182f307-b752-418f-8bda-af037c8e3612",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=13cd1fcb-3695-48f7-b578-608009e98340",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=02bd3a2b-b4ed-4f24-9cd3-e57c709be49b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ce25a93-3d6b-4751-af0a-803de4513fe2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4e25194e-757a-4c22-a603-2d966215cea8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=579b9918-df7d-474d-80cb-c36ace523dc1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac038b95-49f6-42c4-92bc-29ac6e70bec5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=865d286d-6bd8-489f-afec-fcc7bb6268b4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=59261bfc-6d2b-4776-a4c4-ed4e8ab721b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=55aa1d04-bc9f-42dc-b8dd-0368206907db",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5edb9678-b3a3-411e-a241-076bb241a718",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=35a9a14d-5797-472d-bf3c-ee306b896746",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fad03969-c02f-4fef-b6ae-e34c7f988b03",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b54b0e1-ec2e-4b66-ac39-6ea71f4a6d04",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3727326a-9e6f-4d31-bc20-6d6d892538e5"
+      ]
+    },
+    {
+      "id": "117402",
+      "name": "30280-04-07-2 臺中市政府二級機關人民申請案件統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=58538723-929f-4b01-8d1e-74d7d8bc9cb8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e896d7ea-5de6-460f-84f0-7c8d624828fc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3aae22f5-470b-4039-b8f0-2e7117aa4b80",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=58980cf9-bbbc-462c-9fc0-9fd848401840",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=34666658-5377-475b-9ecc-01b6cf5da9f0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d68c51fa-1eb7-41a1-a81c-b3896a7c9c4c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1acc9808-7967-4c9a-a72a-f118a61b845a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8217d067-ec99-41e0-8beb-a906a6e2de7b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8f430b65-b6f5-4baf-bd9c-4400423ff74e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=21e1f895-df94-4631-9dd0-31ec695a1d97",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=64812ffd-12a6-470d-9fd4-a6a897d82f06",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=126228d6-6e76-427b-bb8b-a74c90e15c75",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dfb7eb40-c539-4cad-8b13-817f832aa79d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c2786a55-109d-4720-aff8-c969f44bc180",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=674081aa-a6d9-434a-af06-b205fd634c98",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=baaef2b0-0808-4abf-aafc-23cfe2b1d718",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a2ecc961-c4cd-4bc7-9777-9701587eeee3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=28b7af4a-4e46-456e-b0ef-daf3b6d71646"
+      ]
+    },
+    {
+      "id": "118605",
+      "name": "30280-04-03-2 臺中市政府市長室受理人民陳情案件統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=104aeac6-403c-4f49-ae5a-8707ffe6eefb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dd99bebb-60e3-452e-a146-aa7423605f98",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e445c97b-aa8f-47eb-a1ab-9ac15c15cf7e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2cae9322-27eb-4098-af83-2cd60e55999a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a07b22a2-14f7-4d4c-a788-c0bf8584f17d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d2e814dd-d5b7-4023-b9e6-9377e81ea53d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=09d84ba1-2c60-4655-93cb-dd7b9789f62f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f24f6873-d22b-4619-af1e-246715936bee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3e9c6bdd-299e-4c0d-a97c-768af8dd712d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a9759e5f-9d8b-4229-9a9f-9b22bfbc95df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=69dc3f64-3cfa-4de0-873d-740a33b5f769",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cb0d3f4e-0ccc-4643-85b9-6a3aadbf39b0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f75f96b7-a51a-43fc-8a30-68a70529c984",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c18950fa-e2b7-4a9d-baac-adaf5c7cc5c4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0840f1d0-a78a-4d5a-80df-d81650e346ce",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=517ef54e-1489-4464-8b31-7cdfe755dd0a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=00aa49f3-b568-4b1c-9e48-c2ad47732f0b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=21ebf3e7-21a7-4da1-a181-5a901bcd8c82"
+      ]
+    },
+    {
+      "id": "120053",
+      "name": "臺中市政府109年1999進線統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9f7b355b-80a0-4940-b6ed-9e940ea165e0"
+      ]
+    },
+    {
+      "id": "115982",
+      "name": "30280-04-04-2 臺中市政府服務中心受理人民陳情案件統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14daad3f-1fbb-454a-baf9-71e9063563f9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0348f8ee-5776-46fe-8248-37dd378770aa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1ff35657-d936-460d-bedd-3a47acfd45c2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bcba2deb-d6bd-49a1-aaa1-23c75ea32962",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b4f793a-f0fa-48e8-8c55-f3d50a576da9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d8f4f289-97ac-40ac-bc6c-155e5f69d1bc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ee01d5e3-618f-4e6f-8a3e-54aaf57a66c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8a30616d-23be-4cfd-83f0-a1689da7ae2f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7cdba7ae-5bb5-4692-8af8-cb9019f1ab6d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3c60f696-9407-4973-ad76-1105c68f0884",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=113e74b8-e156-46bb-8a26-ceda0928b35a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5159a95e-6395-4ec6-a002-1d0ead3ef0f0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e01ecbad-f8a7-43b3-b95c-fc08e19c3044",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f4a9fc32-0824-4663-bf27-473a43c7ee36",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=569d84e7-dac8-49af-8209-d484e41ea64f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=99aa029e-2c4f-4be0-9485-f9e7bfb4017f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=763cb093-cb65-41cc-8936-29481b7c961f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=41e43db2-d0a8-4d68-b360-f8beda63faf4"
+      ]
+    },
+    {
+      "id": "132737",
+      "name": "臺中市109年11月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6fd1ecb7-fdd3-4798-8de7-5f04b7abf5f4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a3a856ea-e7ef-4f6d-94c3-2081b59b7770",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fb7bffde-e96a-44a2-8487-0cf6006d8c8f"
+      ]
+    },
+    {
+      "id": "135220",
+      "name": "臺中市109年12月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/386b28e1-1e9e-42bc-8e86-d1111e81e7cf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/41a2b184-51d7-4857-8a25-04ef2cb96ee2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d673eca7-c475-4deb-b907-755d93220cf5"
+      ]
+    },
+    {
+      "id": "161835",
+      "name": "臺中市112年4月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4761e4c0-e5b0-4ea4-a92f-bdd095aca1c3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9e667cf7-0743-455e-a7c2-51eab36bffd3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e8443d5a-501b-44cb-950b-314fc48d1465"
+      ]
+    },
+    {
+      "id": "161836",
+      "name": "臺中市112年4月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8f26e1c2-a491-4410-8e78-7e95a2559857",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/95c7c948-cf27-455c-919e-506eac193548",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d5ef5190-114b-447d-b550-69f3f24dd607"
+      ]
+    },
+    {
+      "id": "162887",
+      "name": "臺中市112年6月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/24197def-8c3f-4932-b64a-c7b879c69642",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a8099eab-076e-4c12-912c-e2845a2d92c5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e3332ebd-38ee-4c09-be47-434c71ebd73a"
+      ]
+    },
+    {
+      "id": "166665",
+      "name": "臺中市112年12月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e442c957-fb19-4d40-a9e4-63899c8b726d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e5a2c665-5497-4c7b-8e95-77daa8d79b5f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e7833555-4598-4fd0-8a35-a275f6c49e13"
+      ]
+    },
+    {
+      "id": "167111",
+      "name": "臺中市113年1月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2d2ceda8-b296-464f-bd4a-fd9bd62405d8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/91eb0e9c-13d7-4478-8cbf-fe3f95afc369",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9c695bce-c290-4013-ad8a-ae34562c6fb5"
+      ]
+    },
+    {
+      "id": "152077",
+      "name": "臺中市111年4月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/01266f00-0ad2-42e5-a479-c141ada0a729",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/46c02eaa-a444-4f3b-91fc-64d69f33e3ee",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d0a80619-a0bc-4520-a895-1de9850e0f4b"
+      ]
+    },
+    {
+      "id": "162607",
+      "name": "臺中市112年5月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1fa52f5c-e6a7-4cfb-a42a-fc3ab0a3ca43",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a6c80899-5583-47fb-a1bd-f846247c193f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d832727e-4ba7-4441-a53b-b0501cde3bfe"
+      ]
+    },
+    {
+      "id": "166334",
+      "name": "臺中市112年11月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/12219beb-02ba-48c1-86e4-b44f242b634c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/27dc68f9-a3ab-456c-a797-9e5e74200b8d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/74b3b401-65a4-469f-81be-9337e0cd8021"
+      ]
+    },
+    {
+      "id": "165258",
+      "name": "臺中市112年9月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c1b7ffac-f668-4fc3-bc17-7c03460fd274",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d375489b-2ba7-4e26-ba3f-b9a89762a7ba",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/db254369-14f4-4619-8d93-35b19626163a"
+      ]
+    },
+    {
+      "id": "165270",
+      "name": "臺中市112年9月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0b442050-6e23-428a-b5ef-0b3055afea8f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c0ce9527-a8eb-4680-b92f-d062d511c922",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cd901591-2d40-457d-9e19-772746d87bec"
+      ]
+    },
+    {
+      "id": "160846",
+      "name": "臺中市112年2月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/108a4e4d-2c86-41be-9a42-2ac79ce95186",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7c4704ec-8c46-43d8-a8a3-97fbc8fdec39",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a8bae430-3d73-48a5-b7e2-1d0bbd783965"
+      ]
+    },
+    {
+      "id": "167724",
+      "name": "臺中市政府113年1999進線統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a55292f8-2bb1-459b-babe-a953c7acd0ca",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b68ced0b-3683-4175-8210-03e7e02b1fbd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ddc166bd-1c7b-442c-856c-400e36c7e41e"
+      ]
+    },
+    {
+      "id": "167959",
+      "name": "臺中市113年3月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1244c6c1-bbf7-458e-ba1b-2d88a14081ab",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/955230b9-2ffd-41a6-aa08-1676f081ad91",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e8236bb7-ff8c-433a-ac92-f212bcf5886d"
+      ]
+    },
+    {
+      "id": "168163",
+      "name": "臺中市113年4月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/062f2f2f-411d-455e-a5bf-1306aa9a7572",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/49723bb3-5b64-4ca4-9f9d-c2e3676ca911",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/db63fa60-526a-4c5c-9041-33921080727d"
+      ]
+    },
+    {
+      "id": "145678",
+      "name": "臺中市110年10月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/30b736ac-b5fa-4b9e-bdc9-dcaf6d113812",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/690a5b7a-31e7-4417-8338-15be92370994",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/99d48b82-b39b-4aa4-b23c-98eb6b0f3052"
+      ]
+    },
+    {
+      "id": "146230",
+      "name": "臺中市110年6月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/15a8402c-264d-4772-9bd0-77507346839c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/31d33234-6299-4976-9f0f-73acde396980",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eab876c1-8cf9-4323-b632-0f319015349c"
+      ]
+    },
+    {
+      "id": "147337",
+      "name": "臺中市111年1月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6ad0bd30-5d5d-44fc-8369-981e29ea7e8c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/726d5006-eeae-4491-9490-9d24adaad71b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/75d16292-3db2-4a0a-aa36-edd0eaf34bed"
+      ]
+    },
+    {
+      "id": "146518",
+      "name": "臺中市110年11月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/333e3f1b-1875-41f5-a24f-4e7b8456d01b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9deaec69-8299-4c39-b173-1cc32fbb9985",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ca98aaee-2d49-4630-a972-0bba54b56ae1"
+      ]
+    },
+    {
+      "id": "147010",
+      "name": "臺中市110年12月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/10f2dc5f-7e27-4cdf-8400-8b183403db69",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1578ae7c-5da6-48f3-aea3-1cf577d1e9c2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/219c00fa-8132-4d0b-8ada-b039cadf0c6f"
+      ]
+    },
+    {
+      "id": "147014",
+      "name": "臺中市110年1月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/315667cb-96ee-481b-b780-2f6f78fa3286",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3165ec9b-603b-4841-8a2f-863906710f37",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3bf18a15-c6f5-4a31-821a-2f22667ef037"
+      ]
+    },
+    {
+      "id": "156369",
+      "name": "臺中市111年7月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2d252352-27dd-4e63-9452-aacb6baf0e78",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8061e855-2cee-452e-8004-bc81ef0e9d0e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a5f303a7-d47d-460b-a927-446abebd7515"
+      ]
+    },
+    {
+      "id": "140053",
+      "name": "臺中市110年5月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/253f8087-d0a2-4631-8c80-d29e073c2bad",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/81640e66-05d0-420a-a418-56fdaabab123",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d0e37990-cc69-4e79-a30c-67c4fa894c7d"
+      ]
+    },
+    {
+      "id": "155643",
+      "name": "臺中市111年6月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/78f3b1d6-9389-4265-acad-90d9c598dea9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a059324b-0d22-4fc8-a97b-336e75d1b034",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/db791d80-aba0-4ecc-a645-dabe4c6ecd63"
+      ]
+    },
+    {
+      "id": "155631",
+      "name": "臺中市政府研考會111年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6769fd62-7af8-431c-9376-5ef0c7ccbf67",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7f6914d9-196e-46c0-a010-be3ae1acce2e"
+      ]
+    },
+    {
+      "id": "137352",
+      "name": "臺中市110年2月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3dc277a5-f147-4f44-80d9-4945e2e3c392",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7c6f546b-10b9-4ef4-967e-f7f7f4c0aeb9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8afddbdc-72f2-40c5-84fd-fb3122164276"
+      ]
+    },
+    {
+      "id": "137982",
+      "name": "臺中市政府110年1999進線統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5245fb11-21a3-4229-897c-0b56d6318d9a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/703ba481-7661-4992-a1d0-a6e1de19d144",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d01977f0-7eb6-450a-b329-001377be6f76"
+      ]
+    },
+    {
+      "id": "138543",
+      "name": "臺中市110年3月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1071f24f-324f-40fb-a902-fe157d80a992",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b9c958e3-728d-4fa0-8a89-2d28bcb80621",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cc31d5fe-d6a7-473b-8044-466c68640e8b"
+      ]
+    },
+    {
+      "id": "157118",
+      "name": "臺中市111年8月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/141e7dc2-7074-4281-a6c6-ee9575b3a970",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/64627d0c-341e-4bd6-b15c-9aac93eff80b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/95fd12d3-366a-4645-937b-52d40a743354"
+      ]
+    },
+    {
+      "id": "157882",
+      "name": "臺中市111年9月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2d16b878-4065-414e-940f-9b4ad34b7b0c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8913aaa3-9c3f-426d-b127-8d5969c78675",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bd1f43fc-d38e-44c3-91c2-972bb48e8435"
+      ]
+    },
+    {
+      "id": "157876",
+      "name": "臺中市111年9月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3647a136-3a2f-4655-a788-4c54e38e9dbe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/65701bab-db7e-4802-ae22-1a02d823a2ac",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c687d448-30b3-4d7a-a6db-fc29f3d53116"
+      ]
+    },
+    {
+      "id": "158963",
+      "name": "臺中市111年10月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/12a2cef4-d10d-4a4d-9a00-9c8cde6759ee",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5e23503f-32f1-46c1-a779-bfd43d41f744",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/97393f74-5524-4d66-89c9-7d5e17fc975c"
+      ]
+    },
+    {
+      "id": "169009",
+      "name": "臺中市113年6月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3a40be9d-f12c-43d5-a804-9bf480f4b42d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/65e88ca1-44bd-4ce5-bc1d-f4d062c07640",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8bc61e87-91fe-4647-b0e5-aae577ba708f"
+      ]
+    },
+    {
+      "id": "176545",
+      "name": "臺中市115年1月分析陳情焦點議題前10大-依機關(業務)類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6b4deb62-ca5b-49e9-8083-3b276e29d6ae"
+      ]
+    },
+    {
+      "id": "176818",
+      "name": "臺中市政府115年1999進線統計表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=377ca8d4-a1ef-406f-96aa-dcfdbb1a3cba"
+      ]
+    },
+    {
+      "id": "176819",
+      "name": "臺中市115年2月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ae0c080b-b22d-46f1-9d59-89b1eef9d63f"
+      ]
+    },
+    {
+      "id": "173495",
+      "name": "臺中市114年5月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4fe4d60a-89ed-4444-9690-d309aa7e644b"
+      ]
+    },
+    {
+      "id": "176945",
+      "name": "臺中市政府研考會112年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=373f1ab9-4369-4168-bf11-e18608fa3b34"
+      ]
+    },
+    {
+      "id": "169461",
+      "name": "臺中市113年7月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/01055baf-30e6-48a5-8777-a5b2c34371ca",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/019c249c-eee7-4f66-98fd-4051d5e5d719",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/93089eec-9206-4e74-8c27-ae1e84fee90c"
+      ]
+    },
+    {
+      "id": "171439",
+      "name": "臺中市113年11月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0a153c85-eb41-4b1f-99e8-2007fe822cb8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7b068074-c38c-4d01-a076-af12becc5683",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ea4de56b-c1e7-459f-bc9d-187a9843496f"
+      ]
+    },
+    {
+      "id": "173081",
+      "name": "臺中市政府114年1999進線統計表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=65e76e45-9f93-43d8-a7f7-dfb7900acc05"
+      ]
+    },
+    {
+      "id": "173034",
+      "name": "臺中市114年3月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/13d20677-75c1-441e-994a-bcb2de08a682"
+      ]
+    },
+    {
+      "id": "170763",
+      "name": "臺中市113年9月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/597fa93f-676c-42d1-9f95-99e0cc47e1a9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/81b75276-dcc3-40ef-8c3e-e0f84aa7ea9a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fce292f7-4be5-46a2-9293-dc2b16547d14"
+      ]
+    },
+    {
+      "id": "172452",
+      "name": "臺中市114年1月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8950c94f-fb3a-4195-b279-7cec42f13a58"
+      ]
+    },
+    {
+      "id": "173719",
+      "name": "臺中市114年6月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=189d3f9d-f6ec-4e33-b247-f28beec091fe"
+      ]
+    },
+    {
+      "id": "175180",
+      "name": "臺中市114年10月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=53d85d8c-a878-414a-bd85-bf4b84ffb8db"
+      ]
+    },
+    {
+      "id": "175623",
+      "name": "臺中市114年11月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ddb958b4-5a46-45bb-b0f0-09bfc00118f3"
+      ]
+    },
+    {
+      "id": "175624",
+      "name": "臺中市114年11月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a80a4bd4-1f8f-4b79-b8ed-56581982cddf"
+      ]
+    },
+    {
+      "id": "176096",
+      "name": "臺中市政府研考會115年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c985f2ed-3887-4272-9907-50898577b05f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1a0253de-29d0-4f5d-8648-88f4f2841c5e"
+      ]
+    },
+    {
+      "id": "176938",
+      "name": "臺中市114年8月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b20d0cb8-f6a3-41c8-a8d1-2a5c82d14636"
+      ]
+    },
+    {
+      "id": "177179",
+      "name": "臺中市115年3月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1454f54d-feb9-42bb-a305-2635a9352ce1"
+      ]
+    },
+    {
+      "id": "177180",
+      "name": "臺中市115年3月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd820160-8a95-4cde-9831-6a326856b806"
+      ]
+    },
+    {
+      "id": "94816",
+      "name": "30280-02-01-2 臺中市政府各機關公務出國或赴大陸地區人員所提報告書建議事項執行情形統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fe94bb06-fe04-4fb1-87e9-680434d4973b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8d462815-8195-44d6-a6a5-5767874a3f5a"
+      ]
+    },
+    {
+      "id": "101189",
+      "name": "臺中市政府工程施工查核案件一覽表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=50917c76-c40c-489a-82bd-4d72e2862e1a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f2d498cc-d004-47e2-9387-0e6fdb846070",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=99a31ca0-c4f2-48af-bde6-c61b11c0da15",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f897e86b-a52c-4197-8eb6-55963bb5b7ee"
+      ]
+    },
+    {
+      "id": "81746",
+      "name": "臺中市政府107年1999進線統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0328481e-aed7-4cf8-8e80-4341aaaea91b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1e4a58e9-21d8-4af7-8896-76d981b3800b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/535760ca-0a06-4456-80de-4012b711f1e8"
+      ]
+    },
+    {
+      "id": "88789",
+      "name": "30280-07-01-2 臺中市政府一級機關一般公文統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2fc9c5c2-7a13-434d-8d1b-5b12db1a2758",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=027fd17e-aea3-4eb4-a1d2-0d7a62d50013",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=353c001b-ce2c-4b47-aaa3-2acc557417e0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5f47b977-a0fa-4b40-910c-7ef2d16ec196",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=15119372-4d34-4132-9c9b-0deec089d4bd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=27618f58-dae3-47b2-b626-d71acd16e12c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4dadadc6-b7f0-4a5e-a8d5-416706b1c18b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4b67a376-04d3-48b1-938d-2a9d976f3099",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6293fddc-7a3c-4399-985f-44048a6d2ba8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6be690bf-d48a-4cd7-a024-115b6b5584cd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ef546795-b99b-4a5a-bda3-55f9c2a0011f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2c8f58a6-bdbc-4147-a545-4ebf08bc309b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b8955256-f446-4c7a-961e-cc1a889bfdd9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a719bb1a-6ef0-4300-b3e9-ffd7d356ba16",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=749f5934-701a-4423-9195-c67c47341576",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=65e2adec-584b-4511-9570-ac6d4dc67f5f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7f6f948b-6834-45e1-9ebd-a550c1d52370",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9cd2e661-04d6-439f-9c83-a8358e3c41c2"
+      ]
+    },
+    {
+      "id": "88790",
+      "name": "30280-07-02-2 臺中市政府各區公所一般公文統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f13f5e8e-b328-4d99-832a-8c761a8228f6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=314fab7d-4796-4b48-b2f4-c4f127309a3c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06dcd5e8-ba6b-4e82-9ab1-659b7f655da0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=797db369-4833-43a5-aab9-18335cc424a2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e12481d-af84-4ff1-87b5-29c300cd3ae1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1bf76111-5bc2-4cb5-a6c1-a9ba1bfe8b1b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=917d6604-fcc8-45c7-9d34-52cbb148947b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=68318af1-fde7-4c18-ace2-fb7133b6a222",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e79c9238-adf4-41cf-93fb-b2e02aebaedd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b07540d-437d-4c70-8b92-855097179911",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c940717d-0f79-4691-ba12-266cab0d4c0e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a21fba28-3045-4477-b5d7-0a755e5a7578",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bd34d47a-18ea-4d6d-95dc-ed12ff746eda",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=551639e8-7c45-432f-bc3c-82c927edbc87",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b09f06ed-f637-41a7-9ab3-30d7a8db8b22",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=30ff0957-63f9-438c-b77d-1249aa1799d6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8b33394b-37b7-4b92-9344-6fccc09da280",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1e340c14-d460-463c-8367-c3143b65c689"
+      ]
+    },
+    {
+      "id": "117403",
+      "name": "30280-04-06-2 臺中市政府一級機關暨各區公所人民申請案件統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3acbbbf7-47d3-4be3-b8b2-877b262a8c9a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e38aab40-c2a7-4e13-9575-dc9ad36fe1bb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9773c14b-aadb-49d4-9bc6-ba4ea11a043a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=822eb7a6-a036-454e-9d88-1219cd46e5b6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bac28787-a05a-4fe2-aa54-dd23cec463a5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=00a3b599-b71f-4b7f-9c25-6fd0d198820b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f68c66f-4eca-4cac-ab98-94d5b4e56c3b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fcfb3915-b5ea-4e02-889d-d38d85406b5c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1957eb0-168b-4e99-ae33-484dd8f48570",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d7ba80c-b358-4dfd-886c-684f3e32f317",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06ac5fe4-b8c5-44ea-a761-314845af9510",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=81174052-4079-42f7-a817-4d1b49431eb9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8698dbe1-e788-46f3-b141-80c3ef65bf4e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=47739ecb-1404-4f77-8865-a3884b10d80a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=00e0f71c-6e84-4bef-8333-ff118364bf4a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e2c5d313-643b-483a-acc7-5ee4ceefb710",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5bfd9287-ea37-4350-b0bf-0738c9a7e96d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=877bd056-b9bc-4102-bfe7-c25fe399f8c8"
+      ]
+    },
+    {
+      "id": "140050",
+      "name": "臺中市110年5月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2fd608a3-a1c6-41f6-b287-1a3ae1cfb3b2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/68d7c7fe-c7ae-414a-8911-30b1df598584",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8a6fc3c6-02d0-47d9-bbdf-a724954ed5b7"
+      ]
+    },
+    {
+      "id": "140051",
+      "name": "臺中市110年4月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0c1a6ef4-2d2e-4940-9cf0-6cf1af841399",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4e2bed38-c2a6-4f8f-a403-806278e831c6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fc9e0bec-da18-44a3-aff6-a0926065e122"
+      ]
+    },
+    {
+      "id": "140054",
+      "name": "臺中市110年6月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/16bff3ff-b5e7-4d0d-9898-740016b7d33e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1c66cb50-a1ad-4aea-9273-414513765ef8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d3e4633e-9065-4497-ac94-850840cb08cc"
+      ]
+    },
+    {
+      "id": "138539",
+      "name": "臺中市110年3月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1a788ba4-00dd-4f6c-a8f0-f0a0613230c4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/54ebdb94-54e8-435e-931c-8d0e3918215c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8f5109b4-d560-474d-868f-adb4a8d3f8e3"
+      ]
+    },
+    {
+      "id": "157119",
+      "name": "臺中市111年8月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/041b0219-8456-4769-bb00-9c721f5021a4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3049d5cc-11f7-4d8b-8584-12c48aa523ba",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7b230517-e7fd-47bf-a11d-0422de54c8cd"
+      ]
+    },
+    {
+      "id": "149010",
+      "name": "臺中市政府111年1999進線統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/922963f0-f09f-44ae-9359-82a2082124c3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/923aa21e-1c90-4c24-b3f0-c6216d90f959",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/98199e2c-5c05-4616-a386-669002d0303d"
+      ]
+    },
+    {
+      "id": "148689",
+      "name": "臺中市111年2月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6f85e138-d988-4a81-9749-3d8a3a93548d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a7a868e3-c022-451d-886a-3618a2723e25",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a7e10818-6a1b-4778-8582-6ac4ac61c3d0"
+      ]
+    },
+    {
+      "id": "170762",
+      "name": "臺中市113年9月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/440cd1ff-b0f9-4e08-90c8-b28ca1982e5c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/69309dc4-a1c2-4a61-a395-e4a127d5a683",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8598f2f4-04bf-4e1e-9b13-9672381acd0d"
+      ]
+    },
+    {
+      "id": "171440",
+      "name": "臺中市113年11月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3f715ee8-9ea5-43b8-866a-d5d28175c741",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ae5cac93-cfa3-41f7-bcb7-9128e0aff506",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bb554809-6bf7-4556-b4fb-f453fbb33417"
+      ]
+    },
+    {
+      "id": "171727",
+      "name": "臺中市113年12月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/010c0918-34bd-4fba-97af-a47735e4bea1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4bf17728-9263-4108-9989-f71692e383ce",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/df832bb3-9dbb-4f2c-b760-a73d4405c34e"
+      ]
+    },
+    {
+      "id": "171085",
+      "name": "臺中市113年10月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1caf5698-5070-461f-badc-f11b5d2f4d54",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/24a83323-76a0-4398-88a2-cd97a3ac0385",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bbc27d9a-fdd3-45ae-b6d7-48bcc5f659ca"
+      ]
+    },
+    {
+      "id": "172451",
+      "name": "臺中市114年1月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fd950627-cbb9-4d6e-8adb-a1a754d595ee"
+      ]
+    },
+    {
+      "id": "172724",
+      "name": "臺中市114年2月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bd4263b0-12f4-4b57-b196-866c4f3298e6"
+      ]
+    },
+    {
+      "id": "172726",
+      "name": "臺中市114年2月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/de544a24-f3e2-4ae5-8c52-f5bbe5c193ba"
+      ]
+    },
+    {
+      "id": "167112",
+      "name": "臺中市113年1月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/219fb736-e54f-4205-b8c6-741d82d91f65",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9ddbb3a7-51ea-4c78-8cad-001c7cd41026",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c1b9a9ec-1ea2-49d6-9884-92bbd6185988"
+      ]
+    },
+    {
+      "id": "167725",
+      "name": "臺中市113年2月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/265243c5-fdff-40fe-94d3-63549a2b73dd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2c28f6e0-a407-4285-9660-518c88587f06",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3049c00c-b9ef-4f21-b7dd-790354741afd"
+      ]
+    },
+    {
+      "id": "166332",
+      "name": "臺中市112年11月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2a5770a1-4a0f-4f0d-a5d0-53eabe4555d8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/37a7c37d-46d0-4aa8-a049-772089cb0131",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e6099731-c9c3-4c41-94a5-fff60ecfafa7"
+      ]
+    },
+    {
+      "id": "169008",
+      "name": "臺中市113年6月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/19f9c09c-52c8-4d3d-9be2-5a59c7c8bff9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/46932809-a915-457d-9f6a-96c111a98957",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bec5aba4-161d-4ae2-b4b2-271a08a0f3df"
+      ]
+    },
+    {
+      "id": "160610",
+      "name": "臺中市政府112年1999進線統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2eee9ae8-7600-46f7-a45f-61adbd387be1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b35e6173-0557-4773-ba27-b650e15efcbf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b9726562-0249-4833-93fa-9520e7412819"
+      ]
+    },
+    {
+      "id": "160081",
+      "name": "臺中市111年12月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/659c1bb7-454c-45a7-bec9-47ea1fd297d4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bbd797b6-698d-465a-bb0c-2950b6600e25",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dfea109d-abf8-4ed7-ad25-64bca1911f69"
+      ]
+    },
+    {
+      "id": "160082",
+      "name": "臺中市111年12月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/286d8985-801c-444c-9e79-2d39a2fcc426",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3f6ccff3-cd39-4a4c-bcc0-657e5e947f9f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c2fa0cb8-cdca-44cd-b6e0-a4b062547d55"
+      ]
+    },
+    {
+      "id": "160790",
+      "name": "臺中市112年2月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1295f3d0-6117-4a24-aeb0-cf2afde24b2b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3188619b-e969-485f-82f3-4409f6227cb2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/92166186-47b5-48fa-965d-7ee28f0480cd"
+      ]
+    },
+    {
+      "id": "173720",
+      "name": "臺中市114年6月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=31a56dea-984e-48e1-ab21-689fcaafb740"
+      ]
+    },
+    {
+      "id": "131566",
+      "name": "臺中市109年10月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0076aa25-0f6a-42d0-a691-3c9f14744652",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b74ddc7e-6f8f-489a-b4a9-db91f2d68fb2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bce13243-a096-4645-aa1c-3a82d5e6c94e"
+      ]
+    },
+    {
+      "id": "115981",
+      "name": "30280-04-02-2 臺中市政府市政信箱受理人民陳情案件統計表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b5e630e-2e83-4843-82ab-bcefbd62c3b2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2740ed01-1b22-49ec-91d5-d4d157f94948",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fd34c3e4-3dd2-4f45-b0e9-408ac741dace",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b4d685f3-f1c0-4fd3-aabc-3afeead85772",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d0b9edf9-6606-439f-ad3c-2dee33a0c8f3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ad3cf40e-a73a-4f22-bbd9-3a2d290753a2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4fb6f819-6c23-4095-9d3e-35299cbc5243",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e68efbda-68d5-4e76-aa9a-1b66b4b0a8c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8e71af47-b48f-42d7-a958-cc221f68bacd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9f1d2779-d89c-48e1-8fc7-7f9844179c0f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=39eb6a8e-ee1b-4de0-80bf-43ffbcf719c0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ee2b3f41-6dc6-4a51-bcc4-6e3549c4d346",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c0b7735e-20ee-4f36-bebd-452dd872b420",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=64b546cd-1d6d-4795-8e14-0ed04b157011",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f7054761-89df-44ea-9912-90dbb07425df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=69d6397a-d0c0-49e2-8fa6-7deadd587049",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=edb26a60-667a-45ae-93a9-04901d747090",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7945cd29-b28f-491b-9747-fb9601f98f14"
+      ]
+    },
+    {
+      "id": "114491",
+      "name": "30280-04-01-2 臺中市政府1999便民服務工作成果表",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b89a663d-a711-43df-ae77-c9c9e2d1f733",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ceb057ea-2eae-4668-b08c-c9a8444bb923",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dba9a3a3-3a16-4337-afb7-b2200a2dab89",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=619a69fa-8155-4ad3-8874-f7f18d5e9c06",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e1fb912b-714a-4338-91d0-16e355eb7026",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=20bada5b-7a07-4897-b26d-34c40b104618",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8fa8bc73-6edf-455c-b8b8-cd07025b3b2d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b7afe520-28c1-4173-bf28-b09614e17e2f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=041a3044-07b9-40a5-bf34-e6acf8dd6c54",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5147bc62-f761-40c1-ac87-f4dbb8119339",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c1f7b66e-57c2-49ba-8751-743378a7dda0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eed06893-e981-4f33-b09a-f77fb5833ca7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4c8eaeca-4a45-4ae2-9176-28ce32ba9b1c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=85aa7e55-be72-4a9e-8f3f-8c990eaae5d6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=daa0ab06-1032-4e2d-be09-ea1173a8a975",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=83c618b8-9a5c-4cd0-bdf4-6596f34f2c96",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=900c4159-37f9-4062-8522-66f3d81a961f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2c34a176-3042-4e2d-aee6-43363fd34d54"
+      ]
+    },
+    {
+      "id": "146517",
+      "name": "臺中市110年11月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d48b6f33-fb4e-4cf9-b4d2-a1ce20c3475a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e1da814e-6b10-4cbe-89d4-54a7b2465765",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f2a1e87a-4f0a-4b40-8133-66238242ce16"
+      ]
+    },
+    {
+      "id": "143331",
+      "name": "臺中市110年7月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0146edba-d9b6-419a-94aa-e18f9b0439b8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0add301a-fba4-493f-af26-850d8254bae7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a3e9942b-783f-4495-8b57-3757c0fd07bf"
+      ]
+    },
+    {
+      "id": "144873",
+      "name": "臺中市110年9月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0260100e-56e7-49a7-a438-fccf6c5efd51",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8139d09d-f5f5-4091-bb6a-15b1f2e0e979",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/953e6be2-e63b-4009-969e-0d365ca006e1"
+      ]
+    },
+    {
+      "id": "144883",
+      "name": "臺中市110年9月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/025b9ea1-94b3-431b-9ba8-30a8f55e3490",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6f287419-6d05-4055-abfd-d771867e3e47",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/892c6c88-717f-404c-815a-d6ea79c08924"
+      ]
+    },
+    {
+      "id": "144175",
+      "name": "臺中市110年8月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/60db332f-ad89-46a9-871e-d5f1920659c7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bb93dfe6-6c84-473f-be92-253f2546157e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c68c7930-422f-46d6-a7c4-601c13eb4b23"
+      ]
+    },
+    {
+      "id": "147009",
+      "name": "臺中市110年12月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2e96119c-b03b-4502-89bb-ac3e016d0356",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/482c8282-f8e1-442f-a4c6-0b06df013e2c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c7ae82ba-a554-4bfb-bf40-bcf480deff0e"
+      ]
+    },
+    {
+      "id": "147013",
+      "name": "臺中市110年1月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3423c55c-2f3b-4f5d-b8c3-d8380a7ecdaf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/766bb951-0f52-4e6f-a2cb-e1f4d145e0e1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eba96ea2-cd0d-4b44-82b4-e6c1bf3bb5e3"
+      ]
+    },
+    {
+      "id": "163855",
+      "name": "臺中市112年7月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0fe6f447-480a-42aa-993d-7bffe296ddc6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1a173a28-c6bd-41dc-b535-a39af7def015",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cd8bc711-f6ad-4427-a3a2-fcd8fe053ae5"
+      ]
+    },
+    {
+      "id": "162888",
+      "name": "臺中市112年6月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f188c1f4-664c-4fe2-a496-45d49bddb02c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fadf4cab-795b-4059-a323-18d124c66d89",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ffa48f72-3369-4ef4-8c77-d98e5ff3acf2"
+      ]
+    },
+    {
+      "id": "152732",
+      "name": "臺中市111年5月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b1400132-9d1c-4b00-bf27-8904d934b232",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d960809a-bc81-422d-812c-9798ae67454d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dcccbd60-5835-480c-9a37-e1f58685c96b"
+      ]
+    },
+    {
+      "id": "156367",
+      "name": "臺中市111年7月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/38605244-d4a6-4941-abba-9ef243af28a8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/44a3b449-a3c8-400c-80b4-792bc00e0d8a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9e14713c-7535-42d7-a6e6-2f132659c758"
+      ]
+    },
+    {
+      "id": "164815",
+      "name": "臺中市112年8月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/016a7e40-8bd5-4abd-a032-59756a22bfe2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0434e429-c4cf-4a66-8563-89204a7da501",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cfb5a01b-dbfa-4249-9a44-b42597be4816"
+      ]
+    },
+    {
+      "id": "164816",
+      "name": "臺中市112年8月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/552fb69a-8acf-48e8-9918-b0c2767a1932",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/659b45fc-3b42-4807-858b-b3b4539e437d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bc238f0c-8cf1-4034-a2c5-a0deafb6fd2d"
+      ]
+    },
+    {
+      "id": "165999",
+      "name": "臺中市112年10月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/320df3e5-3373-4005-88f4-10abbe45dae1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/37800d26-6574-4326-be6e-55c765b72f3d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4325b02f-d134-4ad8-8c70-071f4d91d708"
+      ]
+    },
+    {
+      "id": "168162",
+      "name": "臺中市113年4月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3080acde-54e8-4242-83cf-8f333cefd0c4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7c160950-bd8a-4936-8c53-71b9f0efa8d3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e3cce0b4-76af-47bb-af33-78548fd59446"
+      ]
+    },
+    {
+      "id": "168699",
+      "name": "臺中市113年5月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/60403730-79f4-49e1-9735-edb1e9d741e3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9a4798a7-915c-4f6e-802c-9d20a3db98f8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fa42ba0b-d8ba-4ffd-af3e-82f03300261a"
+      ]
+    },
+    {
+      "id": "147338",
+      "name": "臺中市111年1月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/78579e19-45af-49b2-8b2a-70302af580e7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7b5b2c36-3e55-4fc2-87a3-bc49b2ad9871",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cfbaab94-6541-447e-ae68-ecc4eef03f21"
+      ]
+    },
+    {
+      "id": "150956",
+      "name": "臺中市111年3月分析陳情焦點議題前10大-依業務類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c1365860-c505-4986-b157-156c5e208f40",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c591372c-0739-46dc-9d3d-9584d41f7c07",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d41d1631-ea49-470e-9f22-2c4c611353b8"
+      ]
+    },
+    {
+      "id": "150960",
+      "name": "臺中市111年3月分析陳情焦點議題前10大-依機關類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0f5fdbef-3c75-4187-bbdd-1147ebbabd0c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4243d1d1-8038-48db-b409-4827a296fc3e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ddf660f4-795b-443b-b33c-470c695207a7"
+      ]
+    },
+    {
+      "id": "152074",
+      "name": "臺中市111年4月分析陳情焦點議題前10大-依機關類別",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0d07224c-72e3-4435-afce-0a30a89a372c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/16628c56-4124-451a-87be-3e546c0269f1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/658424b1-2c1e-43e2-85cf-63c27245aa2a"
+      ]
+    },
+    {
+      "id": "169900",
+      "name": "臺中市113年8月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9a0a1aed-1093-46ce-a3d2-08fce68a2b0a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a74a6456-7e8d-4bc5-9c07-4f74bd14bf50",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ae62916d-e500-4025-8969-3249d337083e"
+      ]
+    },
+    {
+      "id": "169901",
+      "name": "臺中市113年8月分析陳情焦點議題前10大-依業務類別",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/946eb425-d136-4825-8154-e5a5700f88ba",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eaefdfa0-ff8d-4452-a18e-7008b2144735",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fbcd6584-b31f-453f-b982-9566ece8cba1"
+      ]
+    },
+    {
+      "id": "174498",
+      "name": "臺中市政府研考會114年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8de32dc4-68eb-4844-b4c4-9feb150a94a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cc1f8ac8-385c-4e08-af5f-2ca2a0119a4d"
+      ]
+    },
+    {
+      "id": "176937",
+      "name": "臺中市114年8月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=272efe6a-e7e6-4f59-89a8-398b42b017fa"
+      ]
+    },
+    {
+      "id": "176944",
+      "name": "臺中市政府研考會113年度辦理公告金額以上採購案件預定招標時程表",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fd3e529e-310b-447b-9dc2-e1aa07d7ada2"
+      ]
+    },
+    {
+      "id": "174917",
+      "name": "臺中市114年9月分析陳情焦點議題前10大-依機關類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0cf44dfc-69fb-4529-81bb-d0866c1ee16b"
+      ]
+    },
+    {
+      "id": "175970",
+      "name": "臺中市114年12月分析陳情焦點議題前10大-依業務類別",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=55245a94-0f6e-4313-a610-688c4906e56d"
+      ]
+    }
+  ]
+}

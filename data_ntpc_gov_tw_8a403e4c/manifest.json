@@ -1,0 +1,47 @@
+{
+  "type": "dataset",
+  "provider": "新北市政府捷運工程局",
+  "slug": "data_ntpc_gov_tw_8a403e4c",
+  "datasets": [
+    {
+      "id": "122899",
+      "name": "新北市境內捷運路線長度及車站數",
+      "format": "csv",
+      "urls": [
+        "https://data.ntpc.gov.tw/api/datasets/0582983a-adeb-4c4b-95e1-cbca1e2c50ef/csv/file"
+      ]
+    },
+    {
+      "id": "122983",
+      "name": "三環六線興建中捷運路線進度及說明",
+      "format": "csv",
+      "urls": [
+        "https://data.ntpc.gov.tw/api/datasets/e45acece-f63f-4dba-b174-018d22e0edb7/csv/file"
+      ]
+    },
+    {
+      "id": "123080",
+      "name": "捷運工程常見問題",
+      "format": "csv",
+      "urls": [
+        "https://data.ntpc.gov.tw/api/datasets/f21b1156-bd0f-4fb9-929b-c5fb5fd12c7d/csv/file"
+      ]
+    },
+    {
+      "id": "123115",
+      "name": "三環六線規劃中路網說明",
+      "format": "csv",
+      "urls": [
+        "https://data.ntpc.gov.tw/api/datasets/0c4451e1-0b22-4fda-be6b-4ca626761fe6/csv/file"
+      ]
+    },
+    {
+      "id": "124224",
+      "name": "三環六線之各線建設狀態",
+      "format": "csv",
+      "urls": [
+        "https://data.ntpc.gov.tw/api/datasets/425e5f43-9430-496f-9de3-002659057140/csv/file"
+      ]
+    }
+  ]
+}

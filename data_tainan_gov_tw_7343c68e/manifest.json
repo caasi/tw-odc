@@ -1,0 +1,867 @@
+{
+  "type": "dataset",
+  "provider": "秘書處",
+  "slug": "data_tainan_gov_tw_7343c68e",
+  "datasets": [
+    {
+      "id": "119146",
+      "name": "臺南市政府雙市政中心各局處辦公處所配置情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4918cf88-d217-4787-839e-4077c4439666",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4918cf88-d217-4787-839e-4077c4439666"
+      ]
+    },
+    {
+      "id": "128255",
+      "name": "臺南市政府109年歸檔案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/64b24439-3cd5-4912-8f4d-a7a954b930a7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d413962c-b8f9-4977-b540-99bfb4c05190",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2996ea99-7ff9-4047-9a1f-64ba974357dd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/73af0125-bd06-4766-875c-70556c937ea7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5d084394-e272-462d-b742-4beb996d99b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/43b56384-0dff-4456-a53c-b03de49d6954",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8201c57c-616a-4c0c-a8d6-82cf1318ac19",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9476ee6c-e2e1-4d7a-a46d-5bafe33763ef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e10f2faf-e35d-4b62-bb42-ad5de5b7ce17",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ab0c218a-ac45-4115-a20e-d5ed2f18f2c6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f792eb59-d952-41d6-8308-05dc0a6d5911",
+        "https://soa.tainan.gov.tw/Api/Service/Get/73af0125-bd06-4766-875c-70556c937ea7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5d084394-e272-462d-b742-4beb996d99b8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/43b56384-0dff-4456-a53c-b03de49d6954",
+        "https://soa.tainan.gov.tw/Api/Service/Get/150bbd24-1593-4e31-b41f-a974ba9f8b64",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d413962c-b8f9-4977-b540-99bfb4c05190",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2996ea99-7ff9-4047-9a1f-64ba974357dd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e10f2faf-e35d-4b62-bb42-ad5de5b7ce17",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/150bbd24-1593-4e31-b41f-a974ba9f8b64",
+        "https://soa.tainan.gov.tw/Api/Service/Get/64b24439-3cd5-4912-8f4d-a7a954b930a7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8201c57c-616a-4c0c-a8d6-82cf1318ac19",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9476ee6c-e2e1-4d7a-a46d-5bafe33763ef",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ab0c218a-ac45-4115-a20e-d5ed2f18f2c6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f792eb59-d952-41d6-8308-05dc0a6d5911"
+      ]
+    },
+    {
+      "id": "128256",
+      "name": "臺南市政府108年歸檔案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/60874d65-6932-4947-b1c6-08ee82806e4d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/927dcc42-6b6b-4d22-bf8c-4788367bf8b7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/144f1ed4-3372-4e58-995d-c26ffcd91209",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c547d92f-8a18-4f51-ae23-ea2a3037d823",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e29f83f2-e9be-427e-b59f-0c39377dfa59",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ed58feaf-ecb8-4a88-9305-1b03bb176ee2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3f81d495-4ebe-4c0e-8e7c-3eff7764aa5c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7397602a-697f-49cf-ae60-66434d16870b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fd8081c1-1042-4e4b-bce1-dc2744fc29bf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c05eea48-6b32-4690-b315-64bd04b5432b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dfb512c7-c675-42f0-af0e-7a956b490c32",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dfb512c7-c675-42f0-af0e-7a956b490c32",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3f81d495-4ebe-4c0e-8e7c-3eff7764aa5c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fd8081c1-1042-4e4b-bce1-dc2744fc29bf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c05eea48-6b32-4690-b315-64bd04b5432b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/60874d65-6932-4947-b1c6-08ee82806e4d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/167f1290-d61c-4a8c-bccc-3d6639e5eeea",
+        "https://soa.tainan.gov.tw/Api/Service/Get/927dcc42-6b6b-4d22-bf8c-4788367bf8b7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7397602a-697f-49cf-ae60-66434d16870b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/144f1ed4-3372-4e58-995d-c26ffcd91209",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ed58feaf-ecb8-4a88-9305-1b03bb176ee2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c547d92f-8a18-4f51-ae23-ea2a3037d823",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e29f83f2-e9be-427e-b59f-0c39377dfa59",
+        "https://soa.tainan.gov.tw/Api/Service/Get/167f1290-d61c-4a8c-bccc-3d6639e5eeea"
+      ]
+    },
+    {
+      "id": "128257",
+      "name": "臺南市政府107年歸檔案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a99cbaff-9731-4dd6-9671-871cb0d6c89c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3d833c84-e1a2-43f0-b99e-4c78b0c951f1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/480570af-b734-4c4c-ac21-793f1e7658b5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0c17fb26-0c1e-44e3-88e9-b0b937ef2ab1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f860d49d-5fa2-4100-aded-6029ee905285",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c780bfde-9a82-4559-a0cf-e3e1a98c20de",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2fc74043-a622-4fe8-ad41-e67b305f045f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/72ac4170-ba90-486c-a83d-21ef4013f8fc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/389d7764-bfed-4f6c-bd39-22cd1e1d6e12",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/31e09f00-482d-4f98-b471-9d6aa97b8eef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/822608e0-1111-442b-95de-908400acacf8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3d833c84-e1a2-43f0-b99e-4c78b0c951f1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/389d7764-bfed-4f6c-bd39-22cd1e1d6e12",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0c17fb26-0c1e-44e3-88e9-b0b937ef2ab1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c780bfde-9a82-4559-a0cf-e3e1a98c20de",
+        "https://soa.tainan.gov.tw/Api/Service/Get/72ac4170-ba90-486c-a83d-21ef4013f8fc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/822608e0-1111-442b-95de-908400acacf8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/480570af-b734-4c4c-ac21-793f1e7658b5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/31e09f00-482d-4f98-b471-9d6aa97b8eef",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2fc74043-a622-4fe8-ad41-e67b305f045f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f860d49d-5fa2-4100-aded-6029ee905285",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f6e005f6-ce4f-4cc3-ae4a-cf90e90a994d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f6e005f6-ce4f-4cc3-ae4a-cf90e90a994d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a99cbaff-9731-4dd6-9671-871cb0d6c89c"
+      ]
+    },
+    {
+      "id": "128261",
+      "name": "臺南市政府103年歸檔案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e6164430-1073-4826-aef2-672100550f9c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c70b6ab7-9351-49a9-85d9-190a7ef58ad8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7251cfb6-f196-420e-9563-d7b2a8472c95",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6f4b1aa2-7ad6-4a81-8445-798fa9f142de",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/da169b59-6164-410c-ad39-c8655f66e66d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bc75979d-c436-4fdb-aba3-12d4dbe7086b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/098a7597-fd75-4df2-a496-3bc64918eef9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8ab42e4d-0c23-48cc-8fc0-bbb7653566df",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2ef86a07-e0f3-42b9-8912-b9663263b05b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5d53586d-21fe-41d1-9de4-a34154bf631c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7b2583a2-8b73-46fc-a279-8cc8dc81ce5c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c70b6ab7-9351-49a9-85d9-190a7ef58ad8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7b2583a2-8b73-46fc-a279-8cc8dc81ce5c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e8039ad4-c81c-455c-9ccf-cff847ef1b9e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7251cfb6-f196-420e-9563-d7b2a8472c95",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bc75979d-c436-4fdb-aba3-12d4dbe7086b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/098a7597-fd75-4df2-a496-3bc64918eef9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8ab42e4d-0c23-48cc-8fc0-bbb7653566df",
+        "https://soa.tainan.gov.tw/Api/Service/Get/da169b59-6164-410c-ad39-c8655f66e66d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e8039ad4-c81c-455c-9ccf-cff847ef1b9e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e6164430-1073-4826-aef2-672100550f9c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6f4b1aa2-7ad6-4a81-8445-798fa9f142de",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2ef86a07-e0f3-42b9-8912-b9663263b05b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5d53586d-21fe-41d1-9de4-a34154bf631c"
+      ]
+    },
+    {
+      "id": "90049",
+      "name": "中央研究院檔案閱覽抄錄複製收費標準-檔案複製收費標準表",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/27ecc99d70541a21"
+      ]
+    },
+    {
+      "id": "90716",
+      "name": "中央研究院院士名單",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/e454921e3c793532"
+      ]
+    },
+    {
+      "id": "90841",
+      "name": "中央研究院錢思亮院長科普講座",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/79f84f45b4df01f3"
+      ]
+    },
+    {
+      "id": "91475",
+      "name": "中央研究院院訊",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/9e4f3d6c2036a87b"
+      ]
+    },
+    {
+      "id": "91480",
+      "name": "中央研究院生命科學組會議行事曆",
+      "format": "csv",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/50079e7b2cff9c61"
+      ]
+    },
+    {
+      "id": "91557",
+      "name": "中央研究院人文組知識饗宴科普講座",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/e57b929553bb9c47"
+      ]
+    },
+    {
+      "id": "91570",
+      "name": "中央研究院中英文簡介暨摺頁電子書",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/3a9c8aac80ca58e8"
+      ]
+    },
+    {
+      "id": "91571",
+      "name": "中央研究院多媒體中英文簡介",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/2ce19c0e26fd63b8"
+      ]
+    },
+    {
+      "id": "176928",
+      "name": "115年度臺南市政府及所屬各機關公務車輛違規次數彙整表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/2cccc299-9550-45f2-85ba-f02188edb919",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2cccc299-9550-45f2-85ba-f02188edb919"
+      ]
+    },
+    {
+      "id": "53376",
+      "name": "臺南市政府週邊場地借用收費標準及使用時間",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4fde72d7-2906-42a8-bd1e-7b2757d37140",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4fde72d7-2906-42a8-bd1e-7b2757d37140"
+      ]
+    },
+    {
+      "id": "90050",
+      "name": "中央研究院檔案管理與應用資訊",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/115cecbfffd5e92b"
+      ]
+    },
+    {
+      "id": "90848",
+      "name": "中央研究院吳大猷院長科普講座",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/a8ee41c3204bbe49"
+      ]
+    },
+    {
+      "id": "92494",
+      "name": "中央研究院線上簽核比率表",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/9c0b1f5bbcc642de"
+      ]
+    },
+    {
+      "id": "91476",
+      "name": "中央研究院院本部會議行事曆",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/424c3c4c75e8cc57"
+      ]
+    },
+    {
+      "id": "91478",
+      "name": "中央研究院數理科學組會議行事曆",
+      "format": "csv",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/b750ce5feb045d81"
+      ]
+    },
+    {
+      "id": "128259",
+      "name": "臺南市政府105年歸檔案件統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/47c15867-7e0b-48a2-b86a-3a15e49e24f0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8dfe7e2d-940c-40ca-a199-3503b1386c3f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b5e8ff4e-c580-40f9-ae11-01eaf7b75266",
+        "https://soa.tainan.gov.tw/Api/Service/Get/00a79534-72b8-45d3-b233-873a20dfc7f7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/40873c08-42c6-4783-9476-c65fadde93db",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b7293d13-5069-4f18-969b-f83151bb7bff",
+        "https://soa.tainan.gov.tw/Api/Service/Get/622645bf-8c38-48fa-a3d2-33db8c845ec1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e741b26d-42d7-472c-be8c-fd0c28ef84c2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4b5d7431-bd20-4c32-960f-f7beb30ca4de",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c4384b30-916c-4136-ab73-7895db1e3a8d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6d08e3ea-65d2-484f-9a7a-290499f3c5ea",
+        "https://soa.tainan.gov.tw/Api/Service/Get/749a1e40-29a4-43c6-8801-b00d26e152a1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6d08e3ea-65d2-484f-9a7a-290499f3c5ea",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8dfe7e2d-940c-40ca-a199-3503b1386c3f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b7293d13-5069-4f18-969b-f83151bb7bff",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/00a79534-72b8-45d3-b233-873a20dfc7f7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/40873c08-42c6-4783-9476-c65fadde93db",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c4384b30-916c-4136-ab73-7895db1e3a8d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e741b26d-42d7-472c-be8c-fd0c28ef84c2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4b5d7431-bd20-4c32-960f-f7beb30ca4de",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/749a1e40-29a4-43c6-8801-b00d26e152a1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b5e8ff4e-c580-40f9-ae11-01eaf7b75266",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/622645bf-8c38-48fa-a3d2-33db8c845ec1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/47c15867-7e0b-48a2-b86a-3a15e49e24f0"
+      ]
+    },
+    {
+      "id": "128260",
+      "name": "臺南市政府104年歸檔案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/015d9ea5-e021-41ea-8c1a-f673963ea767",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/425c4b6c-31bd-430f-b8af-78661d07bd7c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1a6d2c1c-3b9a-4a01-ad44-59d0c668e1b5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/608ad357-2b72-40da-aebc-89c08b17d6a7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2f3d8028-0f72-4d74-9279-d90b266b531a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b8760c07-7ed0-497e-8cf6-a01804b4c51d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/90db6772-b760-42ee-8915-33a587b48798",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6a4f9c49-3a4b-4d44-a86c-214c0c3ab645",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/81903152-c740-4819-a783-0c602f2f03d6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f8a6ce4d-e203-410d-9c06-970d4253661b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/32171bd9-ddd7-4cc2-b23f-27ddc05addaa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2f3d8028-0f72-4d74-9279-d90b266b531a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1a6d2c1c-3b9a-4a01-ad44-59d0c668e1b5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/015d9ea5-e021-41ea-8c1a-f673963ea767",
+        "https://soa.tainan.gov.tw/Api/Service/Get/81903152-c740-4819-a783-0c602f2f03d6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f8a6ce4d-e203-410d-9c06-970d4253661b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7ee5e343-eb4f-4edf-90a1-de6488e56e6a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7ee5e343-eb4f-4edf-90a1-de6488e56e6a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/425c4b6c-31bd-430f-b8af-78661d07bd7c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/608ad357-2b72-40da-aebc-89c08b17d6a7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b8760c07-7ed0-497e-8cf6-a01804b4c51d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/90db6772-b760-42ee-8915-33a587b48798",
+        "https://soa.tainan.gov.tw/Api/Service/Get/32171bd9-ddd7-4cc2-b23f-27ddc05addaa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6a4f9c49-3a4b-4d44-a86c-214c0c3ab645"
+      ]
+    },
+    {
+      "id": "128262",
+      "name": "臺南市政府及所屬各機關公務車輛數統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dc4529e0-b0f8-47ef-9611-044568cbb4a1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dc4529e0-b0f8-47ef-9611-044568cbb4a1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c6423ea1-a4e4-42a3-bc7a-35269b8f9258",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c6423ea1-a4e4-42a3-bc7a-35269b8f9258",
+        "https://soa.tainan.gov.tw/Api/Service/Get/51848fa5-af01-41cc-92b0-597c19bd74c4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/51848fa5-af01-41cc-92b0-597c19bd74c4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6a203d12-3063-4eae-8505-62ccc6f7b12a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6a203d12-3063-4eae-8505-62ccc6f7b12a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2070778b-f23c-4e61-ae29-770ac7183a6f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2070778b-f23c-4e61-ae29-770ac7183a6f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9115c7eb-0cde-4f41-9759-ac19611c0deb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9115c7eb-0cde-4f41-9759-ac19611c0deb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b91bfbe2-74a8-4f6d-894b-ac6187e7001d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b91bfbe2-74a8-4f6d-894b-ac6187e7001d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4589ff08-0641-4acf-9d94-b798e0fbf434",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4589ff08-0641-4acf-9d94-b798e0fbf434",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4f2db294-d545-4052-afb9-bf573d07a623",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4f2db294-d545-4052-afb9-bf573d07a623",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7e1abb99-1291-4ce0-a39b-ca968fc4275a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7e1abb99-1291-4ce0-a39b-ca968fc4275a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/55be4fbf-a5ae-4c71-a37c-e17ad373fbde",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/55be4fbf-a5ae-4c71-a37c-e17ad373fbde"
+      ]
+    },
+    {
+      "id": "128263",
+      "name": "臺南市政府各機關學校及所屬職工員額統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1a91cd21-e011-4dd2-8b90-5abc8390705c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1a91cd21-e011-4dd2-8b90-5abc8390705c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0bd7fca8-0acb-4594-ba6c-6086d9497527",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0bd7fca8-0acb-4594-ba6c-6086d9497527",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4ad1ce83-6ab7-437b-8e5b-6c495e82e7b9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4ad1ce83-6ab7-437b-8e5b-6c495e82e7b9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ffc6b932-63c7-4045-90b6-6ea0b4c9c746",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ffc6b932-63c7-4045-90b6-6ea0b4c9c746",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b9232605-766f-4a4b-9421-6ebcb64feef6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b9232605-766f-4a4b-9421-6ebcb64feef6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/904b81bc-747c-45c3-8997-8003381e09b0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/904b81bc-747c-45c3-8997-8003381e09b0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2999bd05-ce1d-4cf8-996d-93f5a0658971",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2999bd05-ce1d-4cf8-996d-93f5a0658971",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b0f564b4-ade2-4d3a-94e0-a3b7e97d258d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b0f564b4-ade2-4d3a-94e0-a3b7e97d258d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b5ca0548-9048-4ed6-b459-e30bc43deef8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b5ca0548-9048-4ed6-b459-e30bc43deef8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c2ace9cb-95d4-4cc3-b623-e6bff98b7adf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c2ace9cb-95d4-4cc3-b623-e6bff98b7adf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7413b9b9-3b1f-46c8-bfaf-fadb18f3b5ec",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7413b9b9-3b1f-46c8-bfaf-fadb18f3b5ec"
+      ]
+    },
+    {
+      "id": "128902",
+      "name": "109年度臺南市政府及所屬各機關公務車輛違規次數彙整表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/12a89fd9-6d82-4ff1-8562-8d0aff5883e3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fbd71c2f-1c09-4b14-879f-ea16286647ab",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b294bb13-71e4-4f9a-9a41-03a4e8e8cbc6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2881c8ac-e186-4ed1-80c5-8d8e6c681ff1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e505a8e7-53e8-45e3-9120-0c184059c73d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f9131241-db14-4f50-93c6-d6c858c76446",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fbd71c2f-1c09-4b14-879f-ea16286647ab",
+        "https://soa.tainan.gov.tw/Api/Service/Get/12a89fd9-6d82-4ff1-8562-8d0aff5883e3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b294bb13-71e4-4f9a-9a41-03a4e8e8cbc6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2881c8ac-e186-4ed1-80c5-8d8e6c681ff1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f9131241-db14-4f50-93c6-d6c858c76446",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e505a8e7-53e8-45e3-9120-0c184059c73d"
+      ]
+    },
+    {
+      "id": "161422",
+      "name": "臺南市政府112年歸檔案件統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/d21cc416-3f37-4372-aa28-45b41f995ea8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f0eb7a91-5f25-4e92-8729-0b39c4da50ee",
+        "https://soa.tainan.gov.tw/Api/Service/Get/df7c740b-b8bf-4364-8176-7d7adcf50d68",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c5d238b6-dba1-4f7f-921a-17d07ed0cf7f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/93519873-78a5-45d1-905f-a72881c0edfe",
+        "https://soa.tainan.gov.tw/Api/Service/Get/720c6693-789d-47f1-abad-f677aa12e5d5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0f0cd04b-047b-459b-899d-cc6ba1dfd481",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1d3ad53c-f1b6-4ca4-a2f2-9c9606fc5b04",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f38edd4f-ea4a-498e-ace6-0cc692dd9a03",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f38edd4f-ea4a-498e-ace6-0cc692dd9a03",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ab53f67d-9fe5-4177-9a1c-5739298005bc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c9145d94-7175-499f-a3b6-e9b07d24df9d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6622aee8-a8fb-4302-a6fa-c5e903cd593e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6622aee8-a8fb-4302-a6fa-c5e903cd593e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0f0cd04b-047b-459b-899d-cc6ba1dfd481",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/720c6693-789d-47f1-abad-f677aa12e5d5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ab53f67d-9fe5-4177-9a1c-5739298005bc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c5d238b6-dba1-4f7f-921a-17d07ed0cf7f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/93519873-78a5-45d1-905f-a72881c0edfe",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f0eb7a91-5f25-4e92-8729-0b39c4da50ee",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d21cc416-3f37-4372-aa28-45b41f995ea8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c9145d94-7175-499f-a3b6-e9b07d24df9d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1d3ad53c-f1b6-4ca4-a2f2-9c9606fc5b04",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/df7c740b-b8bf-4364-8176-7d7adcf50d68"
+      ]
+    },
+    {
+      "id": "156279",
+      "name": "臺南市政府雙市政中心場地使用情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4a4bd117-10f0-4d56-82fd-2af0e1b82957",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4a4bd117-10f0-4d56-82fd-2af0e1b82957",
+        "https://soa.tainan.gov.tw/Api/Service/Get/119ffc5a-0181-41c0-9b59-6c4fc887c69d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/119ffc5a-0181-41c0-9b59-6c4fc887c69d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/48777e30-17a5-4323-9317-70cfd21f54f5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/48777e30-17a5-4323-9317-70cfd21f54f5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/796d7009-eac5-4b5a-8298-d8c53366a415",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/796d7009-eac5-4b5a-8298-d8c53366a415",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6c07e95c-935e-4d58-b69c-e43a2d06b886",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6c07e95c-935e-4d58-b69c-e43a2d06b886"
+      ]
+    },
+    {
+      "id": "144734",
+      "name": "中研院研之有物電子報",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/a917e2cc801e890a"
+      ]
+    },
+    {
+      "id": "148737",
+      "name": "111年度臺南市政府及所屬各機關公務車輛違規次數彙整表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f6106e55-7c58-4cfe-b51c-7d24e41b4499",
+        "https://soa.tainan.gov.tw/Api/Service/Get/eb65ed96-04a5-4fca-8ec6-fec907212601",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d21bdd52-c5bb-4357-9d08-6087db2a3c9d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f6106e55-7c58-4cfe-b51c-7d24e41b4499",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d21bdd52-c5bb-4357-9d08-6087db2a3c9d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/95d9f973-53d8-4cae-ba6a-3022efe1ddbd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a9afd08f-f291-4d8b-9c0c-9ce1e0cae7d9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/83459a10-2296-4538-841d-6a12bb6c8695",
+        "https://soa.tainan.gov.tw/Api/Service/Get/91d4f6ad-ad55-47fe-8f21-528a77dd4bfc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/83459a10-2296-4538-841d-6a12bb6c8695",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a9afd08f-f291-4d8b-9c0c-9ce1e0cae7d9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/91d4f6ad-ad55-47fe-8f21-528a77dd4bfc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/579890c9-f51b-417a-9d17-da76e6bc1c4e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/95d9f973-53d8-4cae-ba6a-3022efe1ddbd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5a34cf49-6f0c-4cdc-a659-df034625fe81",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5a34cf49-6f0c-4cdc-a659-df034625fe81",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/579890c9-f51b-417a-9d17-da76e6bc1c4e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/70177439-e87b-4a6d-a2d2-839c78a8ca0f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eb65ed96-04a5-4fca-8ec6-fec907212601",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/70177439-e87b-4a6d-a2d2-839c78a8ca0f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/32382e1a-5e9a-41d1-9d41-ae670e228876",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/df336efe-d4cf-4a10-96f7-d04396275b1a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/df336efe-d4cf-4a10-96f7-d04396275b1a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/32382e1a-5e9a-41d1-9d41-ae670e228876"
+      ]
+    },
+    {
+      "id": "89204",
+      "name": "中央研究院新聞稿",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/baafbb580c901aa1"
+      ]
+    },
+    {
+      "id": "90048",
+      "name": "中央研究院歷年檔案保管數量統計",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/a0b3c8542df6bfb8",
+        "https://sec.sinica.edu.tw/archives/589f48827201cc4c",
+        "https://sec.sinica.edu.tw/archives/91820fd82325ac3f",
+        "https://sec.sinica.edu.tw/archives/c12ea3950bbca0f5",
+        "https://sec.sinica.edu.tw/archives/af872ec85e2631b3",
+        "https://sec.sinica.edu.tw/archives/9d6693e0c1091f2a",
+        "https://sec.sinica.edu.tw/archives/44d0ec2e38140e32",
+        "https://sec.sinica.edu.tw/archives/2886171bb7eb9102"
+      ]
+    },
+    {
+      "id": "90859",
+      "name": "中央研究院藝文活動",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/eb2a82af90912af5"
+      ]
+    },
+    {
+      "id": "90860",
+      "name": "中央研究院知識饗宴系列電子書",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/3de6ff3419113d46"
+      ]
+    },
+    {
+      "id": "90846",
+      "name": "中央研究院朱家驊院長科普講座",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/cdcbbd71259f7e0f"
+      ]
+    },
+    {
+      "id": "90847",
+      "name": "中央研究院蔡元培院長科普講座",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/6da7f6ef76d7df8c"
+      ]
+    },
+    {
+      "id": "90849",
+      "name": "中央研究院胡適院長科普講座",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/1ab19c42b4c85179"
+      ]
+    },
+    {
+      "id": "91481",
+      "name": "中央研究院人文科學組會議行事曆",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/96084632b810a8e4"
+      ]
+    },
+    {
+      "id": "91555",
+      "name": "中央研究院院區開放暨主題科普演講",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/026d5723a6b7584c"
+      ]
+    },
+    {
+      "id": "91572",
+      "name": "中央研究院數理組知識饗宴科普講座",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/96d46e6a1ec17488"
+      ]
+    },
+    {
+      "id": "91599",
+      "name": "中央研究院生命組知識饗宴科普講座",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/98d6daa609075f7e"
+      ]
+    },
+    {
+      "id": "92495",
+      "name": "中央研究院文書處理法規",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/c3c590b203887f1e"
+      ]
+    },
+    {
+      "id": "89890",
+      "name": "中央研究院王世杰院長科普講座",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/ba450df62c4e3a69"
+      ]
+    },
+    {
+      "id": "89918",
+      "name": "中央研究院歷年政策建議書",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/91617d37eac3f67f"
+      ]
+    },
+    {
+      "id": "89839",
+      "name": "中央研究院週報",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/671740b73e90aac8"
+      ]
+    },
+    {
+      "id": "128254",
+      "name": "臺南市採購法教育訓練參訓人員分析表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8fecdc4d-bcfe-413c-a840-0837385798ff",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8fecdc4d-bcfe-413c-a840-0837385798ff",
+        "https://soa.tainan.gov.tw/Api/Service/Get/004b2d21-513c-432f-9db6-208e9e614a29",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/004b2d21-513c-432f-9db6-208e9e614a29",
+        "https://soa.tainan.gov.tw/Api/Service/Get/97781fff-c43c-4655-8192-2673f1750bbc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/97781fff-c43c-4655-8192-2673f1750bbc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2826d165-070b-452c-967b-494bc6b35b1a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2826d165-070b-452c-967b-494bc6b35b1a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cbbf0a3e-f5a1-4704-93b7-53c34aedccd1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cbbf0a3e-f5a1-4704-93b7-53c34aedccd1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/877c833c-03f4-45ee-8e42-588bed930ba8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/877c833c-03f4-45ee-8e42-588bed930ba8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/87e66c36-eab7-4947-89e1-675011930dd3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/87e66c36-eab7-4947-89e1-675011930dd3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0046208d-962a-4f27-bdac-796fbf61de3a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0046208d-962a-4f27-bdac-796fbf61de3a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ded59f48-fd8e-48fa-9638-c922ea7308b1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ded59f48-fd8e-48fa-9638-c922ea7308b1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d3431ac0-06b2-4ac1-a270-dfb736c16462",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d3431ac0-06b2-4ac1-a270-dfb736c16462",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1f882c94-76d1-4caa-b64d-e08464ba0ee8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1f882c94-76d1-4caa-b64d-e08464ba0ee8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/07f09235-3ca6-4e7f-94b4-e09f555ad429",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/07f09235-3ca6-4e7f-94b4-e09f555ad429",
+        "https://soa.tainan.gov.tw/Api/Service/Get/41957617-4cc1-4300-837d-f089affa5080",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/41957617-4cc1-4300-837d-f089affa5080",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f365a8ca-10a4-487d-b78c-f8839243dd7d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f365a8ca-10a4-487d-b78c-f8839243dd7d"
+      ]
+    },
+    {
+      "id": "128258",
+      "name": "臺南市政府106年歸檔案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fc6157a5-7435-4fd3-b5ff-a10ead2343fe",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/05b1b7dd-9968-4672-89b0-59b6dedd31b2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1926b73d-76b5-4963-8237-6eb5c2e125db",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dd861490-ddd2-402f-94e0-8059dda88879",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/047c1107-baea-4a93-b04f-b148de22846b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/100efb0c-f34a-4743-98b0-45f6e890c427",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d1478a64-a3d2-464f-a411-e363dc591c95",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ad11dc1d-d4cd-4cea-93e7-f891810917ec",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7ed981ac-0e3f-4a34-8bdc-c032c56465d6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8f6a944d-0b57-4af3-9235-eb42da62bf9b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f1bc9f99-01b9-4a6b-8698-47e1fb50e5c4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fa660cf7-c6dc-4bc0-b442-b1a5b729f4c1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fc6157a5-7435-4fd3-b5ff-a10ead2343fe",
+        "https://soa.tainan.gov.tw/Api/Service/Get/05b1b7dd-9968-4672-89b0-59b6dedd31b2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/100efb0c-f34a-4743-98b0-45f6e890c427",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ad11dc1d-d4cd-4cea-93e7-f891810917ec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8f6a944d-0b57-4af3-9235-eb42da62bf9b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fa660cf7-c6dc-4bc0-b442-b1a5b729f4c1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1926b73d-76b5-4963-8237-6eb5c2e125db",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d1478a64-a3d2-464f-a411-e363dc591c95",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dd861490-ddd2-402f-94e0-8059dda88879",
+        "https://soa.tainan.gov.tw/Api/Service/Get/047c1107-baea-4a93-b04f-b148de22846b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7ed981ac-0e3f-4a34-8bdc-c032c56465d6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f1bc9f99-01b9-4a6b-8698-47e1fb50e5c4"
+      ]
+    },
+    {
+      "id": "136827",
+      "name": "臺南市政府110年歸檔案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1a632dc0-752b-43d4-84e2-e94ded4eb4f3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c9f29d6b-4eec-4b6c-a1c6-f817137caa13",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/288dcf1e-cfdf-489b-86fc-14440d5527bb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d68c195d-05fc-420b-b1ab-73d6ccb96182",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/36b70679-b0a5-4829-8358-cb6502c615cc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b6ee4249-b8a1-4052-a04b-e5405da5f3a4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/493663ba-29ef-4580-b0e7-8054f3225b44",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0ac3dd22-8c60-4510-96a4-73ab23c96894",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a0fa1a2f-4099-4a78-95ca-322a0185359c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d68c195d-05fc-420b-b1ab-73d6ccb96182",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4c2a2dfe-f37c-4205-8578-bbb8ccb3b79a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d81900ac-270e-4985-9f4d-fda1597b75ab",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1a632dc0-752b-43d4-84e2-e94ded4eb4f3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/692659d8-1b5a-4318-8eea-af5a45b6ea94",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c9f29d6b-4eec-4b6c-a1c6-f817137caa13",
+        "https://soa.tainan.gov.tw/Api/Service/Get/493663ba-29ef-4580-b0e7-8054f3225b44",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d81900ac-270e-4985-9f4d-fda1597b75ab",
+        "https://soa.tainan.gov.tw/Api/Service/Get/288dcf1e-cfdf-489b-86fc-14440d5527bb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/36b70679-b0a5-4829-8358-cb6502c615cc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b6ee4249-b8a1-4052-a04b-e5405da5f3a4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0ac3dd22-8c60-4510-96a4-73ab23c96894",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4c2a2dfe-f37c-4205-8578-bbb8ccb3b79a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/692659d8-1b5a-4318-8eea-af5a45b6ea94",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a0fa1a2f-4099-4a78-95ca-322a0185359c"
+      ]
+    },
+    {
+      "id": "137186",
+      "name": "110年度臺南市政府及所屬各機關公務車輛違規次數彙整表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cd2ab946-6499-4d16-b543-cc4766fbe88f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/208f5f7a-74a5-4857-8efc-45922d3bf95a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cafe4fe0-cb23-4dee-a855-5f607045fb78",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/230bcbf6-cc2b-4682-9bed-69bf8a637e75",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4ca2cc4c-41ae-4b6a-9b88-b32925527211",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6c8367c3-9601-4130-8492-218dd0ce074b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/307c20b3-2665-48a7-a7a5-3d3814baa3b7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/500eb121-dd30-4cd9-a59e-e8f3482256c9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f2ab14c6-0a34-46d7-aed8-6ad5e511134e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ffa079ad-46ed-4cb4-9176-d146b65182a2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/980947dc-4578-4da6-8c6d-2a7a6be3a126",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cd2ab946-6499-4d16-b543-cc4766fbe88f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/208f5f7a-74a5-4857-8efc-45922d3bf95a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/980947dc-4578-4da6-8c6d-2a7a6be3a126",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fd8df88f-c005-4bba-a589-624fdf883078",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ffa079ad-46ed-4cb4-9176-d146b65182a2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/500eb121-dd30-4cd9-a59e-e8f3482256c9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f2ab14c6-0a34-46d7-aed8-6ad5e511134e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/230bcbf6-cc2b-4682-9bed-69bf8a637e75",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cafe4fe0-cb23-4dee-a855-5f607045fb78",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4ca2cc4c-41ae-4b6a-9b88-b32925527211",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fd8df88f-c005-4bba-a589-624fdf883078",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6c8367c3-9601-4130-8492-218dd0ce074b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/307c20b3-2665-48a7-a7a5-3d3814baa3b7"
+      ]
+    },
+    {
+      "id": "138578",
+      "name": "臺南市政府檔案閱覽抄錄複製收費標準",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/6795c5db-36fb-443c-8024-5c3fc1987243",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6795c5db-36fb-443c-8024-5c3fc1987243"
+      ]
+    },
+    {
+      "id": "148201",
+      "name": "臺南市政府111年歸檔案件統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b2751383-9f61-4b1e-b5ba-292ddfb3a864",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b2751383-9f61-4b1e-b5ba-292ddfb3a864",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fa6b9b34-92ef-4ca5-a0ec-f19f9a735210",
+        "https://soa.tainan.gov.tw/Api/Service/Get/47d2ec28-9cb7-4e32-9d2a-e611439a46f2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b3c936e6-993e-4694-8fd2-765dd9e9487a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/93d47632-cb21-41f0-95dc-94e208673a1e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fa6b9b34-92ef-4ca5-a0ec-f19f9a735210",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d4d38701-5e3e-4933-a2ae-27c319ce4930",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/23922f9a-7e48-44e2-b67a-85238066c2af",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ea2f99aa-7c97-492f-a526-2621f4fb38be",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/93d47632-cb21-41f0-95dc-94e208673a1e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/23922f9a-7e48-44e2-b67a-85238066c2af",
+        "https://soa.tainan.gov.tw/Api/Service/Get/02457ea3-965f-418c-887e-789d4b9eda7e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ea2f99aa-7c97-492f-a526-2621f4fb38be",
+        "https://soa.tainan.gov.tw/Api/Service/Get/dd1bd8e6-23b8-479c-b378-6e88b36ef5b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/47d2ec28-9cb7-4e32-9d2a-e611439a46f2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2c620841-e285-46b4-b2ed-e73dfa70ed41",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b3c936e6-993e-4694-8fd2-765dd9e9487a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d4d38701-5e3e-4933-a2ae-27c319ce4930",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/02457ea3-965f-418c-887e-789d4b9eda7e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/53b9cb84-db96-41bf-b5a9-93c507b3722c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dd1bd8e6-23b8-479c-b378-6e88b36ef5b8"
+      ]
+    },
+    {
+      "id": "161435",
+      "name": "112年度臺南市政府及所屬各機關公務車輛違規次數彙整表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/9daceda0-8d9a-435b-b133-c048b9fa816a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9daceda0-8d9a-435b-b133-c048b9fa816a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/12b6d4c3-1b7c-4d4a-875f-0ff089092f89",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a3e6f414-56c2-4c08-bfa1-487ec4a1e14a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a3e6f414-56c2-4c08-bfa1-487ec4a1e14a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/07800166-8774-4142-b54b-163c4a9448c4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f1ef77bc-9fb1-46db-adbb-56ab4a2559cd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f1ef77bc-9fb1-46db-adbb-56ab4a2559cd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/07800166-8774-4142-b54b-163c4a9448c4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5e486120-5b40-4def-a812-33381e7a6c04",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5e486120-5b40-4def-a812-33381e7a6c04",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5b66cd7d-3a33-4bb8-8999-e7c9c5522386",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8576e397-7f1f-4563-b4fd-65ff38e04bec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/12b6d4c3-1b7c-4d4a-875f-0ff089092f89",
+        "https://soa.tainan.gov.tw/Api/Service/Get/5b66cd7d-3a33-4bb8-8999-e7c9c5522386",
+        "https://soa.tainan.gov.tw/Api/Service/Get/cf964610-9eb7-4a62-ae96-16bf3bc02ce0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8576e397-7f1f-4563-b4fd-65ff38e04bec",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a2bca302-067e-463b-ad23-35309e756998",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/cf964610-9eb7-4a62-ae96-16bf3bc02ce0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6d53e2f3-355e-44e5-ac92-5c870bf1aec1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6d53e2f3-355e-44e5-ac92-5c870bf1aec1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a2bca302-067e-463b-ad23-35309e756998",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a6517306-7b4a-406f-b400-6fbf6c9611f6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a6517306-7b4a-406f-b400-6fbf6c9611f6"
+      ]
+    },
+    {
+      "id": "118280",
+      "name": "臺南市政府各級機關學校公文線上簽核及電子交換統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1f0fb1c0-ae5f-4022-bb5b-9f61efbd89f1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/98c53a49-79ea-4f9c-b989-38b689cba3d3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/59a2aba6-ef99-49db-a9f8-463e323af933",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1f0fb1c0-ae5f-4022-bb5b-9f61efbd89f1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/56210508-bee7-4ddb-9557-3a3e5ebd2be1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/59a2aba6-ef99-49db-a9f8-463e323af933",
+        "https://soa.tainan.gov.tw/Api/Service/Get/35a744c9-5f81-4ef1-a7b7-e9927393b378",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/33163c6c-e8da-4ddc-84ff-eac88f3b5520",
+        "https://soa.tainan.gov.tw/Api/Service/Get/29fe5d73-28a5-4215-81cf-90275d20266a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/456119cb-a3d0-4fa1-9216-f4b17c9246cf",
+        "https://soa.tainan.gov.tw/Api/Service/Get/56210508-bee7-4ddb-9557-3a3e5ebd2be1",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/98c53a49-79ea-4f9c-b989-38b689cba3d3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b620f12d-03b5-48bd-a0b2-1f2d90c7e20e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/33163c6c-e8da-4ddc-84ff-eac88f3b5520",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a00933e9-1ff1-4330-81f9-4e72fd75509d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a00933e9-1ff1-4330-81f9-4e72fd75509d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/35a744c9-5f81-4ef1-a7b7-e9927393b378",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b620f12d-03b5-48bd-a0b2-1f2d90c7e20e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/456119cb-a3d0-4fa1-9216-f4b17c9246cf",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/29fe5d73-28a5-4215-81cf-90275d20266a"
+      ]
+    },
+    {
+      "id": "109145",
+      "name": "中央研究院跨縣市科普演講-中研講堂",
+      "format": "ods",
+      "urls": [
+        "https://sec.sinica.edu.tw/archives/ff83e49bd6c0f1f6"
+      ]
+    },
+    {
+      "id": "176365",
+      "name": "臺南市多元計程車一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8cbc9421-c6ce-4cd6-8f17-c250e739e0e4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8cbc9421-c6ce-4cd6-8f17-c250e739e0e4"
+      ]
+    },
+    {
+      "id": "176755",
+      "name": "臺南市政府115年歸檔案件統計表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0c73c950-e605-47e9-b89f-256da6abac88",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0c73c950-e605-47e9-b89f-256da6abac88",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7707f909-c160-4d7b-bbb7-b425d023a953",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7707f909-c160-4d7b-bbb7-b425d023a953"
+      ]
+    }
+  ]
+}

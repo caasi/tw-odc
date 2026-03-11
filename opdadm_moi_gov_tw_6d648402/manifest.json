@@ -1,0 +1,931 @@
+{
+  "type": "dataset",
+  "provider": "內政部國土測繪中心",
+  "slug": "opdadm_moi_gov_tw_6d648402",
+  "datasets": [
+    {
+      "id": "17217",
+      "name": "村里界圖(TWD97_119分帶)(WMS)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/821F4844-7494-4203-ABC3-8CADA66413C9/resource/E793D12A-1E57-4D88-A285-22A83DA0CEA9/download"
+      ]
+    },
+    {
+      "id": "13047",
+      "name": "地政事務所轄區圖(TWD97_121分帶)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/440cf103-b6d0-4234-8f94-c40b28950ed3/mapdata202209221004.zip"
+      ]
+    },
+    {
+      "id": "5968",
+      "name": "村里界圖(TWD97_123分帶)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/e9675302-7242-412d-ae0c-8c958168a372/村(里)界(TWD97_123分帶)1131028.zip"
+      ]
+    },
+    {
+      "id": "7442",
+      "name": "直轄市、縣市界線(TWD97經緯度)",
+      "format": "其他",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/85bc9c19-a076-4d83-8955-eeecf2ebdae8/COUNTY_MOI_1140318_.zip",
+        "https://www.tgos.tw/tgos/VirtualDir/Product/1cd4f4c9-6b01-4cf9-bf6c-23a73aa17d24/直轄市、縣(市)界線1140318.zip"
+      ]
+    },
+    {
+      "id": "13043",
+      "name": "地政事務所轄區圖(TWD97_119分帶)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/63b1b368-fe88-42e4-b4bb-ce3d34efbab2/mapdata202209221002.zip"
+      ]
+    },
+    {
+      "id": "13044",
+      "name": "地政事務所轄區圖(TWD97_123分帶)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/6ed140aa-5aed-4bd2-b4d5-1d8930176a89/mapdata202209220955.zip"
+      ]
+    },
+    {
+      "id": "13045",
+      "name": "地政事務所轄區圖(TWD97經緯度)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/bd6ce26e-35cc-4017-bd60-81fa3596258e/mapdata202209221003.zip"
+      ]
+    },
+    {
+      "id": "33486",
+      "name": "經建版地形圖數值資料檔(比例尺五萬分之一)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E6D3C347-CF4C-4DA5-BD70-E567047A55C5/resource/C32EA7E5-B8AF-4745-BADD-BBF70BD52473/download"
+      ]
+    },
+    {
+      "id": "39534",
+      "name": "內政部國土測繪中心政府資訊公開(業務統計含業務年報)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E7A1A368-F465-4CE5-9D3D-45575D413DCA/resource/44D17BE1-2CD4-4473-B5B3-287DA1EC8859/download"
+      ]
+    },
+    {
+      "id": "73220",
+      "name": "臺灣鐵路",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/299841E1-714A-40BA-AF4B-D6527EEA2A41/resource/B04BF70B-D27A-4C9A-900E-A0CB09D6E96E/download"
+      ]
+    },
+    {
+      "id": "73223",
+      "name": "機場(離島)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/TGOS/VirtualDir/Product/3bfc2ee1-4764-4676-8d80-c5f3aaf1729f/mapdata202209221027.zip"
+      ]
+    },
+    {
+      "id": "73226",
+      "name": "臺鐵車站",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/50508007-F7C7-482B-9959-D178561A0945/resource/6D00CEF8-C64A-4AF4-BF53-94456C6895E8/download"
+      ]
+    },
+    {
+      "id": "73228",
+      "name": "碼頭(本島)",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1D7258C3-1E0A-4AE0-AF69-B9E66E40E9F7/resource/FAFBACE8-26FA-45E5-A2ED-E45D96074205/download"
+      ]
+    },
+    {
+      "id": "73229",
+      "name": "輕軌捷運",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E58E306B-37FA-4EF5-82EE-C700F854ED10/resource/5DB05D51-03BE-44BA-BAF8-035D82A045CA/download"
+      ]
+    },
+    {
+      "id": "73232",
+      "name": "國道及省道(含快速公路以上等級)道路中線",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/03D452C9-B893-4C58-A872-A9D73B58F27F/resource/15133BB6-4B17-4877-9E55-33E0775DFD78/download"
+      ]
+    },
+    {
+      "id": "25661",
+      "name": "臺灣登山路徑踏勘底圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/60ADB059-46CF-419F-AC89-9527A5263DB6/resource/65F7CB10-B686-4052-B189-9FEB117D2102/download"
+      ]
+    },
+    {
+      "id": "101898",
+      "name": "單點坐標回傳行政區",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CA6D10B1-C474-41DB-8B53-28E7E4E18977/resource/61006D96-94D6-4B95-8581-D3E6E3DBE40F/download"
+      ]
+    },
+    {
+      "id": "102013",
+      "name": "代碼服務－鄉鎮市區清單(地政)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5619CB99-7D1C-4A80-8C34-47DC15C56FF8/resource/502E607F-0E28-4572-A6C6-0D7F03367257/download"
+      ]
+    },
+    {
+      "id": "115925",
+      "name": "比例尺五千分之一參考索引圖框_119分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/18F8E6AE-FB12-4DD9-93C9-798C99371F2F/resource/FE128B76-0C49-4EE1-9A23-83492043FC65/download"
+      ]
+    },
+    {
+      "id": "139248",
+      "name": "國土測繪圖資服務雲_圖層圖資說明",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A8738465-23E8-46E0-9A8A-21B68C512A89/resource/144BD5EE-C23F-47FE-91BC-8FC0FC240020/download"
+      ]
+    },
+    {
+      "id": "139250",
+      "name": "查詢醫療設施",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/519BA0CF-2ABE-4EB3-A363-4DE5A740618E/resource/0D7E08D3-AAD2-4EFE-B2EF-91FB62A26A3C/download"
+      ]
+    },
+    {
+      "id": "139719",
+      "name": "比例尺十萬分之一參考索引圖框_TWD97經緯度",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09F69938-F5B2-4782-B2DA-AA1877064B85/resource/18BB699A-B683-4D1C-8FBD-9A5481DD324E/download"
+      ]
+    },
+    {
+      "id": "139720",
+      "name": "比例尺十萬分之一參考索引圖框_121分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CC32979F-21B6-4194-9B40-4C7891A71E73/resource/9CEEE432-AB86-43EB-B56D-13C56CAF70FE/download"
+      ]
+    },
+    {
+      "id": "156797",
+      "name": "比例尺二萬五千分之一參考索引圖框_123分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/DE3FEE74-974C-4030-B6E1-932B859047FD/resource/4320ED40-C8B5-4AEB-ACD6-726A386EFB93/download"
+      ]
+    },
+    {
+      "id": "162973",
+      "name": "交叉路口-縣市鄉鎮市區查詢主要道路",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7637E53D-E8B0-400E-81A0-53014CE686A0/resource/C76B907B-F7EE-4B6B-BABE-54F9D91C4F12/download"
+      ]
+    },
+    {
+      "id": "160489",
+      "name": "內政部國土測繪中心預算書",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/96A449ED-315D-4294-BA59-383540C5B843/resource/5B91F92E-2FD2-4EDC-B472-CF77E436E00E/download"
+      ]
+    },
+    {
+      "id": "158973",
+      "name": "109-110年國土利用現況調查成果鄉鎮市區統計資料（108年版土地利用分級分類系統表，3級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E77E1082-B08E-4A2D-8D16-D47FCD1EC9CF/resource/9AF353E6-4B7F-42C6-A125-B9A59A43AE07/download"
+      ]
+    },
+    {
+      "id": "176684",
+      "name": "112年至116年經建版地形圖數值資料檔（比例尺十萬分之一）",
+      "format": "csv",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/bcc1d66b-53fb-4466-b131-8aee7092d1bc/112年至116年經建版地形圖數值資料檔（比例尺十萬分之一）.zip"
+      ]
+    },
+    {
+      "id": "174605",
+      "name": "各級學校範圍圖_119分帶",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/d8e02080-95b2-499f-b1e1-fb33dfd6bb90/campus_119_1150127.zip"
+      ]
+    },
+    {
+      "id": "174606",
+      "name": "各級學校範圍圖_121分帶",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/5f346c6b-edde-4fe7-8685-5585c0fb7852/campus_121_1150127.zip"
+      ]
+    },
+    {
+      "id": "11039",
+      "name": "內政部國土測繪中心會計月報",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09F4F2BA-ECA7-4076-B236-E39204F15D0B/resource/AE179790-66FB-48FA-BF9B-039525234B2C/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09F4F2BA-ECA7-4076-B236-E39204F15D0B/resource/3B99BAC1-8757-49DD-B798-0C3D978F1018/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09F4F2BA-ECA7-4076-B236-E39204F15D0B/resource/6D53956B-9E16-43CD-8C01-2C9C62CAA7CA/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09F4F2BA-ECA7-4076-B236-E39204F15D0B/resource/07174FF6-747F-4EB3-8336-543B3E50659B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09F4F2BA-ECA7-4076-B236-E39204F15D0B/resource/CAD0BC6C-42D9-4C99-938C-55F45ABD822F/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09F4F2BA-ECA7-4076-B236-E39204F15D0B/resource/58F1BC20-7797-4D77-993D-67990FE6BFC2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09F4F2BA-ECA7-4076-B236-E39204F15D0B/resource/E469795C-5EA4-4414-889F-8B2D47B03198/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09F4F2BA-ECA7-4076-B236-E39204F15D0B/resource/D951FE61-5233-4729-A8C1-AABAA5CD26F2/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/09F4F2BA-ECA7-4076-B236-E39204F15D0B/resource/905105FA-CC33-403D-8746-DFC123D8996C/download"
+      ]
+    },
+    {
+      "id": "11040",
+      "name": "內政部國土測繪中心政策宣導廣告執行情形",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/689D5969-78E7-49E2-A9FE-CC4FDD94A837/resource/FC416987-E701-4AB3-B9D0-C1AFA99B3F6D/download"
+      ]
+    },
+    {
+      "id": "5967",
+      "name": "地政事務所轄區圖",
+      "format": "其他",
+      "urls": [
+        "https://maps.nlsc.gov.tw/S_Maps/wms"
+      ]
+    },
+    {
+      "id": "7439",
+      "name": "村里界圖(TWD97_119分帶)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/caf5a260-980c-4e3c-b381-63226ed5f0f1/村(里)界(TWD97_119分帶)1131028.zip"
+      ]
+    },
+    {
+      "id": "9406",
+      "name": "e-GNSS即時動態定位系統衛星基準站所在地點",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/47FAE5AD-3B6C-49F6-87C1-B0DAB27BBBE8/resource/28DF22E7-CF2A-4AF0-BDCE-43EB725975B6/download"
+      ]
+    },
+    {
+      "id": "17214",
+      "name": "臺灣通用電子地圖(套疊等高線，比例尺小於一萬八千分之一)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/067C5474-539C-45D4-A743-55A7C6113511/resource/1709C054-D947-4D28-B4AD-8CBF356B4CAC/download"
+      ]
+    },
+    {
+      "id": "17216",
+      "name": "村里界圖(TWD97_121分帶)(WMS)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B94A8163-E588-4025-B928-D9085944E35A/resource/EAB12D12-8D2D-4FAF-A891-C51E15ACA4E2/download"
+      ]
+    },
+    {
+      "id": "17219",
+      "name": "村里界圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9C370B2D-D336-4F48-B061-58E07AE4E0DA/resource/A67CD159-E5B5-48F6-9382-73DCE44EBF86/download"
+      ]
+    },
+    {
+      "id": "39080",
+      "name": "內政部國土測繪中心災害防救應用獎",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A2479250-12E6-4DD0-8260-52768116E493/resource/ACD6B483-D352-4123-BA3D-015D8D94E4D0/download"
+      ]
+    },
+    {
+      "id": "32157",
+      "name": "鄉鎮市區界線",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3930983D-3AA2-428A-93F5-5E1515E95DAE/resource/9354E014-BD7B-4EBF-87CF-F6CE6AEC5050/download"
+      ]
+    },
+    {
+      "id": "24491",
+      "name": "內政部國土測繪中心影音多媒體",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/138D9EB5-C987-4758-A060-A0BC32344205/resource/50FF8EB1-74E6-4C5E-930F-154DCBDCEA3B/download"
+      ]
+    },
+    {
+      "id": "33472",
+      "name": "經建版地形圖數值資料檔(比例尺十萬分之一)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/49588940-E2F6-4E8A-A2B1-5CB7B803CCF5/resource/5E25DED8-A7C4-4D82-804A-5BA4AB653F1E/download"
+      ]
+    },
+    {
+      "id": "33485",
+      "name": "經建版地形圖數值資料檔(比例尺二萬五千分之一)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D50DD0E1-43DA-4081-B5C9-CC97094C76C8/resource/DEDAA526-0A9A-4994-A43B-CD93D2F0E573/download"
+      ]
+    },
+    {
+      "id": "73227",
+      "name": "碼頭(離島)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E60770DC-ECA0-4E16-9816-9041458AE320/resource/A0AAF791-0773-4790-BEC2-0F8D9FDA20A4/download"
+      ]
+    },
+    {
+      "id": "73230",
+      "name": "輕軌捷運車站",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/d1bd5527-f205-44a7-afaf-e7d9b5d89840/MARK_輕軌捷運車站_1140422.zip"
+      ]
+    },
+    {
+      "id": "73231",
+      "name": "機場(本島)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/08AB61F9-F520-4DB8-9056-807C0589C07D/resource/00E8B7CA-57D6-4EF3-AB0D-143AD3889542/download"
+      ]
+    },
+    {
+      "id": "73235",
+      "name": "國家公園、國家森林遊樂區及國家風景區範圍內之觀光景點(離島)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/TGOS/VirtualDir/Product/c3ee095f-1eef-4915-bab6-d1da63a48b94/mapdata202209221029.zip"
+      ]
+    },
+    {
+      "id": "98134",
+      "name": "105-106年國土利用調查成果鄉鎮市區統計資料（104年版土地使用分類系統表，2級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE76E0BD-34EA-4304-8B71-4CE871299A11/resource/6EC3A2AF-E9C0-4E53-8BC5-D24524D18418/download"
+      ]
+    },
+    {
+      "id": "98135",
+      "name": "95-104年國土利用調查成果縣市統計資料（95年版土地使用分類系統表，1級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5C3DDE32-AEA9-4F56-AE49-5596602C82CA/resource/1A760942-B116-4CD3-BE65-D6CCABB49BF3/download"
+      ]
+    },
+    {
+      "id": "98133",
+      "name": "105-106年國土利用調查成果縣市統計資料（104年版土地使用分類系統表，1級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AB65975B-2627-4F0F-A811-6BF69F39AECF/resource/35390814-75DE-4F57-985C-9CE6B50346E4/download"
+      ]
+    },
+    {
+      "id": "103863",
+      "name": "95-104年國土利用調查成果鄉鎮市區統計資料（95年版土地使用分類系統表，3級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E66EC5C3-5EBD-4C48-B1D9-A978BC0805A3/resource/6E85C29B-3D98-4F5B-AD34-2764A1B33499/download"
+      ]
+    },
+    {
+      "id": "102011",
+      "name": "代碼服務－鄉鎮市區清單(戶政)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/78E07539-9BE3-40CA-92AC-588B2B616B93/resource/87555358-237D-441A-B234-A71AA05B8CF6/download"
+      ]
+    },
+    {
+      "id": "102017",
+      "name": "代碼服務－村里清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0B23D4BC-687D-4DA2-9A5C-055BA56684BD/resource/EEE5BA17-A976-4630-B9A9-C87E0DF31049/download"
+      ]
+    },
+    {
+      "id": "104824",
+      "name": "106-107年國土利用調查成果鄉鎮市區統計資料（104年版土地使用分類系統表，2級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/02FEB0B8-79EC-4ABA-8D40-ED666E4A7420/resource/37BF1C6D-E77F-4D3F-A9D6-ABA3CE32B60D/download"
+      ]
+    },
+    {
+      "id": "104826",
+      "name": "國際觀光旅館（離島）",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/TGOS/VirtualDir/Product/6b78682c-e74a-4447-8236-196d251c2e6a/mapdata202209221045.zip"
+      ]
+    },
+    {
+      "id": "118156",
+      "name": "內政部國土測繪中心行政組織圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FD46F60E-A53E-4987-A2B0-2DC3CA91AB2F/resource/64684983-D42F-4D39-B882-CB5B848A1765/download"
+      ]
+    },
+    {
+      "id": "123145",
+      "name": "106-108年國土利用調查成果縣市統計資料（104年版土地使用分類系統表，1級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5A2E82B8-D8EA-4225-9FB5-C434E96412B4/resource/0E44151F-8DCE-4892-9874-BD587EA3E528/download"
+      ]
+    },
+    {
+      "id": "123146",
+      "name": "106-108年國土利用調查成果鄉鎮市區統計資料（104年版土地使用分類系統表，2級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0AEB5746-A8EC-4C9D-9D0C-2DE5398DF65E/resource/E4154FE6-ACEF-4889-A46C-7ED3A2921FBC/download"
+      ]
+    },
+    {
+      "id": "116032",
+      "name": "內政部國土測繪中心各課室及各測量隊聯絡方式",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5E8AED40-C8AE-450F-81FC-280CADD3891E/resource/899FBBF5-5979-481A-94B2-055CEF732453/download"
+      ]
+    },
+    {
+      "id": "139249",
+      "name": "查詢工商設施",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/90B3E97F-CCC7-453E-8AFB-FC07505CE7AF/resource/28D620B4-F830-444F-927F-8120FA356AD5/download"
+      ]
+    },
+    {
+      "id": "139251",
+      "name": "查詢文教設施",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8FF55112-9DD6-4434-88D5-F2B43EEB03A2/resource/FCF72AEF-FAAC-43C4-891C-2798C15E784C/download"
+      ]
+    },
+    {
+      "id": "152928",
+      "name": "查詢鄰避設施",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/041ED63F-B6F5-414A-ACF5-209066F26601/resource/3356ABDD-4118-432D-A40E-BC6462972A1E/download"
+      ]
+    },
+    {
+      "id": "155183",
+      "name": "比例尺五萬分之一參考索引圖框_123分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/70DDF277-C2CA-4886-90A5-43398D73789E/resource/B6844C20-725C-4EA6-B6A6-BD33506AD891/download"
+      ]
+    },
+    {
+      "id": "155557",
+      "name": "比例尺二萬五千分之一參考索引圖框_121分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/94FE67AB-D754-4194-A4E7-980A84917570/resource/7A2BC216-5103-47F4-9D52-C61F09067FB8/download"
+      ]
+    },
+    {
+      "id": "155558",
+      "name": "比例尺二萬五千分之一參考索引圖框_119分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A4237027-AE1F-4F9A-9102-55B60A2ECFEA/resource/B08C6930-37E9-4A95-B5DD-569DD2208210/download"
+      ]
+    },
+    {
+      "id": "160490",
+      "name": "內政部國土測繪中心決算書",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F22A0508-A010-4040-B917-D6C7C2B57B51/resource/818AA6F0-6171-40A1-9135-3FE8E23A1E90/download"
+      ]
+    },
+    {
+      "id": "168850",
+      "name": "111-112年國土利用現況調查成果縣市統計資料（108年版土地利用分級分類系統表，1級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2808BBD2-8D0F-4007-B1C0-FBD4C5805442/resource/FCC987C2-6921-4D88-96DB-449EEBAB426E/download"
+      ]
+    },
+    {
+      "id": "176503",
+      "name": "112年至116年經建版地形圖數值資料檔（比例尺五萬分之一）",
+      "format": "csv",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/5cfecc6c-73ef-49a4-b25e-84e7e29ee262/112年至116年經建版地形圖數值資料檔（比例尺五萬分之一）.zip"
+      ]
+    },
+    {
+      "id": "176790",
+      "name": "內政部國土測繪中心無人飛行載具影像成果",
+      "format": "csv",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/47e06f1b-ceeb-496b-8169-7c358e449d0e/內政部國土測繪中心無人飛行載具影像成果.zip"
+      ]
+    },
+    {
+      "id": "176793",
+      "name": "107年至111年經建版地形圖數值資料檔（比例尺五萬分之一）",
+      "format": "csv",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/7b0e31b3-f42e-4e7d-a072-f12be314124d/107年至111年經建版地形圖數值資料檔（比例尺五萬分之一）.zip"
+      ]
+    },
+    {
+      "id": "176214",
+      "name": "村里界圖(TWD97經緯度)(WMS)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/10D30B57-DD57-40FA-8931-F2948CB6EB49/resource/4D61821E-5081-4F77-945D-DF0F2E4B6D7A/download"
+      ]
+    },
+    {
+      "id": "173810",
+      "name": "行政區界線_鄉(鎮、市、區)圖編製原則草案(112年度版)",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B418E0FE-6ED0-4106-AC52-E8BDD90DFB30/resource/1BF98BE7-2C3C-4F18-BE44-2B11D18738F5/download"
+      ]
+    },
+    {
+      "id": "24888",
+      "name": "臺灣通用電子地圖圖磚封裝檔",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/05B8C6D1-B92F-41B6-85D6-CEF84BFD4D17/resource/147BBE03-09B8-45B3-8B00-6ECAF03024C5/download"
+      ]
+    },
+    {
+      "id": "17220",
+      "name": "段籍圖",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A5CFF0A0-4DB1-4EFC-A533-5144708EF5C4/resource/B10AE63C-A690-4BE4-943C-BFF63123477B/download"
+      ]
+    },
+    {
+      "id": "7438",
+      "name": "村里界圖(TWD97經緯度)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/a04697c8-64db-450a-a105-3eb471c45abd/村(里)界(TWD97經緯度)1150224.zip"
+      ]
+    },
+    {
+      "id": "7440",
+      "name": "村里界圖(TWD97_121分帶)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/bcca1bae-4680-4a44-8d56-5c29e2cbd492/村(里)界(TWD97_121分帶)1150224.zip"
+      ]
+    },
+    {
+      "id": "7441",
+      "name": "鄉鎮市區界線(TWD97經緯度)",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/3fe61d4a-ca23-4f45-8aca-4a536f40f290/鄉(鎮、市、區)界線1140318.zip"
+      ]
+    },
+    {
+      "id": "11038",
+      "name": "內政部國土測繪中心研究報告",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7513E2FD-A41E-4529-BC94-628FF9BD3F63/resource/120CED15-3369-4EE2-8594-38F318A5A987/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7513E2FD-A41E-4529-BC94-628FF9BD3F63/resource/80E87FF9-A27E-488C-872B-7530CF6D8D47/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7513E2FD-A41E-4529-BC94-628FF9BD3F63/resource/F4A6790B-71AB-4981-A9F5-E8FC8CBE9E6F/download"
+      ]
+    },
+    {
+      "id": "11041",
+      "name": "內政部國土測繪中心支付或接受之補助",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/3B0CB143-3C1C-438F-98A2-849D8F15428F/resource/E48C2D51-DC20-4824-B637-8A04174C0DE5/download"
+      ]
+    },
+    {
+      "id": "11042",
+      "name": "內政部國土測繪中心施政計畫",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/98D33762-FBBE-4A0D-BC42-ACFDC07AE8BE/resource/55DB27D0-D7CC-41C5-828B-04B45BF6CB29/download"
+      ]
+    },
+    {
+      "id": "25107",
+      "name": "內政部國土測繪中心最新消息",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7FD5D03A-BD11-4CC0-9232-A6B1DF9BEA37/resource/D2EC91DB-29A2-45AF-A805-ED4D40534543/download"
+      ]
+    },
+    {
+      "id": "25108",
+      "name": "臺灣通用電子地圖(不含等高線，比例尺小於一萬八千分之一)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/75B4CCCB-0CDD-4104-A370-99CB2D3303BA/resource/C9CED408-C70A-4ABD-958C-85DBDFD67D8B/download"
+      ]
+    },
+    {
+      "id": "39082",
+      "name": "內政部國土測繪中心各售圖站",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C056158F-8F58-4BB0-A6A4-17E1B8980B62/resource/1196EF94-E526-403C-8418-7992D577D885/download"
+      ]
+    },
+    {
+      "id": "32158",
+      "name": "直轄市、縣市界線",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/46B9CC3B-5746-4E6A-BF60-4B3021A3D23D/resource/231CC70D-0990-47E3-A5BB-4359AABBB36A/download"
+      ]
+    },
+    {
+      "id": "39523",
+      "name": "內政部國土測繪中心出版品目錄",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/00F3E0EB-E77E-4EF7-A27A-6EC47839BD43/resource/F5144F5B-A285-41BB-98D4-C80DB7A6B291/download"
+      ]
+    },
+    {
+      "id": "39526",
+      "name": "內政部國土測繪中心動態宣導影片",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2468A51D-A6CF-44EA-9FBD-75A548F11BFF/resource/795B8635-A2D8-4982-8BF5-6DE33F1A3CEC/download"
+      ]
+    },
+    {
+      "id": "33384",
+      "name": "臺灣通用電子地圖MBTiles檔(APP離線地圖用)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/C7839933-78A5-480C-A3C0-B8F8BC7DD4FC/resource/8ADC498B-C6C4-47D4-A9EF-E168BA151B9A/download"
+      ]
+    },
+    {
+      "id": "73213",
+      "name": "國際觀光旅館",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5EC483F6-AAFC-4106-AEDF-8E85AE54CD06/resource/DF603B09-08CA-4CCF-A36E-4D88AF484D84/download"
+      ]
+    },
+    {
+      "id": "73221",
+      "name": "高速鐵路",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/db6bff0a-58a5-40c1-81fb-ac8312213784/HSRAIL_1130417.zip"
+      ]
+    },
+    {
+      "id": "73222",
+      "name": "捷運",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/159E4D93-A053-4382-A6BD-9DE6B5C4E19F/resource/590BDF9C-824B-4CCE-8833-363FD701EB9E/download"
+      ]
+    },
+    {
+      "id": "73225",
+      "name": "高鐵車站",
+      "format": "shp",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/7a95cfc5-4e86-44dc-894d-b3bd6b0c83ae/mapdata202209220958.zip"
+      ]
+    },
+    {
+      "id": "73233",
+      "name": "捷運車站",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/63A7BA62-C429-4F2D-8B73-21AAB9E6EAE0/resource/980CEA39-1408-4866-9F39-18AF611EC173/download"
+      ]
+    },
+    {
+      "id": "73234",
+      "name": "國家公園、國家森林遊樂區及國家風景區範圍內之觀光景點(本島)",
+      "format": "zip",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/54F65316-B99B-41F1-B435-C9F62E0DB2FD/resource/D46EDA70-C98E-4CCA-9CF6-35CFDE828206/download"
+      ]
+    },
+    {
+      "id": "101905",
+      "name": "代碼服務－縣市清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B7934949-C491-456C-9FEB-64510A62EA25/resource/51E1FF02-CA77-4E8F-9256-EBAA98B6903A/download"
+      ]
+    },
+    {
+      "id": "102010",
+      "name": "代碼服務－地段清單",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/413CB14D-E871-4004-9FE4-62E3AFF358FE/resource/EE6EE784-B38C-4389-8900-2A5BA592602E/download"
+      ]
+    },
+    {
+      "id": "98136",
+      "name": "95-104年國土利用調查成果統計資料（95年版土地使用分類系統表，3級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/7A9A79DE-0E19-4A5D-94B6-3397181178E5/resource/F468BB4A-B51B-442A-8024-5B0451735B22/download"
+      ]
+    },
+    {
+      "id": "139721",
+      "name": "比例尺十萬分之一參考索引圖框_119分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/D4AE2855-800D-496B-889C-AF3E1F89DA80/resource/D9ADB506-EC40-4855-97DD-601B7C5ABD1B/download"
+      ]
+    },
+    {
+      "id": "155184",
+      "name": "比例尺五萬分之一參考索引圖框_121分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/EF7C7242-FD66-4233-94FD-10690D868A72/resource/095EFBCC-8F32-45B9-9FC7-C230C02CE913/download"
+      ]
+    },
+    {
+      "id": "158975",
+      "name": "109-110年國土利用現況調查成果縣市統計資料（108年版土地利用分級分類系統表，1級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/86986290-AAAD-44B0-9C21-2772A3D56038/resource/3039944E-CFBA-4D3D-8485-D9C89A60A9B9/download"
+      ]
+    },
+    {
+      "id": "167920",
+      "name": "交叉路口-縣市鄉鎮市區路名查詢交叉路口",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2F3BBA1B-D7D9-4EEA-8E02-5708FEC5344E/resource/68369879-86F7-49DD-9971-0F1219E05273/download"
+      ]
+    },
+    {
+      "id": "168851",
+      "name": "111-112年國土利用現況調查成果鄉鎮市區統計資料（108年版土地利用分級分類系統表，3級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/E377E03D-DF29-43A9-B76B-29A0A0ECE1B3/resource/7FA6F468-7AEF-4788-9425-DE168F969B5E/download"
+      ]
+    },
+    {
+      "id": "173809",
+      "name": "行政區界線_直轄市、縣(市)圖編製原則草案(112年度版)",
+      "format": "其他",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AB96FCA1-915B-4D14-AA71-061D3DBF8EDA/resource/B13DBB56-C9C7-4E7D-A4B9-5B3C5AC215C8/download"
+      ]
+    },
+    {
+      "id": "173811",
+      "name": "臺灣通用電子地圖測製更新作業說明(114年度版)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/A204C3A1-F0F8-4C0E-B521-D407D7025D04/resource/EC713A4F-C8BB-4D71-A32E-C7ECED5B67D5/download"
+      ]
+    },
+    {
+      "id": "173812",
+      "name": "臺灣通用電子地圖圖層內容說明(114年度版)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/F2F21AC9-527F-4989-A2F1-5C56D506A4F5/resource/C09129B9-FE65-4595-BF0E-90FC5741D431/download"
+      ]
+    },
+    {
+      "id": "104823",
+      "name": "106-107年國土利用調查成果縣市統計資料（104年版土地使用分類系統表，1級分類）",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CB751B9A-20E4-4F9E-8439-65D8F0056F23/resource/F062BFC4-A74E-4232-B9AA-D87FF6A746DF/download"
+      ]
+    },
+    {
+      "id": "115924",
+      "name": "比例尺五千分之一參考索引圖框_123分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6D6B5024-B14C-476A-8C0F-212F9A174DFA/resource/00DA6228-A0C7-4955-914C-01BF387F248B/download",
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6D6B5024-B14C-476A-8C0F-212F9A174DFA/resource/BAA57640-061E-468B-95FC-5751A0C21DB0/download"
+      ]
+    },
+    {
+      "id": "115926",
+      "name": "比例尺五千分之一參考索引圖框_121分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0265D8AF-27A9-42B7-B302-4B5962DCC4FF/resource/85F8C9C7-12BC-4A44-948E-BD4BDBE75918/download"
+      ]
+    },
+    {
+      "id": "162974",
+      "name": "交叉路口-縣市道路關鍵字查詢主要道路",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B2ECCCDB-946F-4FC9-99C7-C0C7CFA8B610/resource/12D01BEA-D716-48F5-87DC-DD9ED1273775/download"
+      ]
+    },
+    {
+      "id": "152915",
+      "name": "單點坐標回傳行政區(戶政)",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/43EDCB92-4740-4109-8967-7819381F309A/resource/A3F9D104-7D8C-479C-8A0C-E078512C1415/download"
+      ]
+    },
+    {
+      "id": "152960",
+      "name": "比例尺五萬分之一參考索引圖框_119分帶",
+      "format": "shp",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1B4F00D5-820A-48AE-A55C-675F81E7C606/resource/BECAEF53-DDF1-40FB-A436-64D734924EA1/download"
+      ]
+    },
+    {
+      "id": "168062",
+      "name": "指定坐標回傳國土利用現況調查成果圖的屬性",
+      "format": "csv",
+      "urls": [
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/5F8A8E51-93A6-4236-B068-4A417B9D89FA/resource/6953BC27-AF5D-4292-BB7E-2806EDA5F4DA/download"
+      ]
+    },
+    {
+      "id": "176789",
+      "name": "107年至111年經建版地形圖數值資料檔（比例尺十萬分之一）",
+      "format": "csv",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/489f3fca-7571-4ba3-96e7-86582d59cb54/107年至111年經建版地形圖數值資料檔（比例尺十萬分之一）.zip"
+      ]
+    },
+    {
+      "id": "176794",
+      "name": "107年至111年經建版地形圖數值資料檔（比例尺二萬五千分之一）",
+      "format": "csv",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/ec740b8b-e703-4694-b4a3-6a052b64600f/107年至111年經建版地形圖數值資料檔（比例尺二萬五千分之一）.zip"
+      ]
+    },
+    {
+      "id": "176020",
+      "name": "112年至116年經建版地形圖數值資料檔（比例尺二萬五千分之一）",
+      "format": "csv",
+      "urls": [
+        "https://www.tgos.tw/tgos/VirtualDir/Product/729307c4-70ce-4f20-a340-199063b28b17/112年至116年經建版地形圖數值資料檔（比例尺二萬五千分之一）.zip"
+      ]
+    }
+  ]
+}

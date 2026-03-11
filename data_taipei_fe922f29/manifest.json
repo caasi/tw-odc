@@ -1,0 +1,114 @@
+{
+  "type": "dataset",
+  "provider": "臺北市停車管理工程處",
+  "slug": "data_taipei_fe922f29",
+  "datasets": [
+    {
+      "id": "121885",
+      "name": "臺北市機車退出騎樓路段",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/0bb93dbb-3188-4b02-8e83-92f8838ca576/resource/932214a2-8291-4536-a8ca-4e6364bce86a/download"
+      ]
+    },
+    {
+      "id": "121864",
+      "name": "臺北市路外停車場出入口",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/d9b047d9-52a5-43b9-b0d5-cc66a943b036/resource/db11f099-492f-4157-9d7d-34fe55cf89d9/download"
+      ]
+    },
+    {
+      "id": "130551",
+      "name": "臺北市停車管理工程處公有收費停車場收入金額",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/815c6c7e-fb99-4003-94e1-7882e8c4577e/resource/f26ec05a-8c9a-4a04-b4d3-e7e6e6ca2e12/download"
+      ]
+    },
+    {
+      "id": "130871",
+      "name": "臺北市各行政區路邊收費路段資訊",
+      "format": "ods",
+      "urls": [
+        "https://data.taipei/api/dataset/99392a71-4e8a-42e1-b605-20dfa7bb5f8c/resource/86d2a8b6-c360-4349-956d-dd7771cccf91/download"
+      ]
+    },
+    {
+      "id": "130839",
+      "name": "臺北市颱風與洪水期間緊急停車規定與範圍",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/d5dd66c9-595a-47bc-ae18-c9ac62549664/resource/6b330e0a-e356-4942-b3a5-1c176375540c/download"
+      ]
+    },
+    {
+      "id": "121217",
+      "name": "臺北市拖吊場",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/a2f976d8-8918-4636-b1cd-04dde79aa95a/resource/2aa0677f-05c1-4a5b-8e26-a50d118062f2/download"
+      ]
+    },
+    {
+      "id": "128288",
+      "name": "臺北市路邊停車格位",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/5a911ea5-1694-4301-808e-e1780d971611/resource/7e2f32a0-9201-4666-a0ed-11034e6c2b66/download",
+        "https://data.taipei/api/dataset/5a911ea5-1694-4301-808e-e1780d971611/resource/a76540cb-b6ee-410f-a2ca-de9432d62390/download"
+      ]
+    },
+    {
+      "id": "128290",
+      "name": "臺北市路外停車場",
+      "format": "shp",
+      "urls": [
+        "https://data.taipei/api/dataset/d740e961-ab35-4929-9eb4-995b3936d0ac/resource/39c8515d-c484-493d-8745-6644a3437d3e/download"
+      ]
+    },
+    {
+      "id": "128617",
+      "name": "臺北市路邊停車格位使用情形",
+      "format": "xml",
+      "urls": [
+        "https://tcgbusfs.blob.core.windows.net/blobtcmsv/TCMSV_roadquery.xml"
+      ]
+    },
+    {
+      "id": "121434",
+      "name": "臺北市公有路外停車場無障礙設施設置情形",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/08f9bc00-b1e9-4f6e-9199-0da74d8ad930/resource/936e3be6-e029-4bdf-9199-a8b8fb482df6/download"
+      ]
+    },
+    {
+      "id": "157491",
+      "name": "臺北市公有收費停車位統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/435deea7-eee3-4429-bb36-9a105cda0967/resource/45f04fa0-35e2-4b8e-9335-b5da0bee033a/download"
+      ]
+    },
+    {
+      "id": "131077",
+      "name": "臺北市公有免費停車場",
+      "format": "csv",
+      "urls": [
+        "https://data.taipei/api/dataset/e5ee3189-3a05-4e4a-af3b-9ae295d54ce8/resource/697bb8f2-b6d0-43b2-b6c2-b64b9ec1bc2d/download"
+      ]
+    },
+    {
+      "id": "128435",
+      "name": "臺北市停車場資訊",
+      "format": "json",
+      "urls": [
+        "https://tcgbusfs.blob.core.windows.net/blobtcmsv/TCMSV_alldesc.json",
+        "https://tcgbusfs.blob.core.windows.net/blobtcmsv/TCMSV_allavailable.json",
+        "https://tcgbusfs.blob.core.windows.net/blobtcmsv/TCMSV_allCMSavailable.xml"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "type": "dataset",
+  "provider": "臺南市政府都市發展局",
+  "slug": "soa_tainan_gov_tw_705330df",
+  "datasets": [
+    {
+      "id": "53323",
+      "name": "臺南市使用分區收件統計資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c92e2bfc-293a-4731-a0e8-05c9c7cb3b0c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c92e2bfc-293a-4731-a0e8-05c9c7cb3b0c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/086122ef-0614-4052-97ab-5672a809abb3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/086122ef-0614-4052-97ab-5672a809abb3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e2fbe603-91eb-47e8-b693-6f6b7fe1c03a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e2fbe603-91eb-47e8-b693-6f6b7fe1c03a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f79b4713-738e-447b-9037-d7a0fe23c949",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f79b4713-738e-447b-9037-d7a0fe23c949"
+      ]
+    },
+    {
+      "id": "79988",
+      "name": "臺南市好望角專案計畫",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b9d7b76d-bee1-4eba-bc6c-59e801fb6f24",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b9d7b76d-bee1-4eba-bc6c-59e801fb6f24"
+      ]
+    },
+    {
+      "id": "128621",
+      "name": "臺南市都市計畫土地使用分區面積",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0c531eae-11b6-44f7-bf0f-749151529bc2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0c531eae-11b6-44f7-bf0f-749151529bc2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7fd64ea5-b461-431b-88c6-8f8d61dbc77c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7fd64ea5-b461-431b-88c6-8f8d61dbc77c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/67ea1be3-8460-4736-8ba1-9ca6456f29ee",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/67ea1be3-8460-4736-8ba1-9ca6456f29ee",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3fac7864-f50d-4d20-ae5c-d7161169062a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3fac7864-f50d-4d20-ae5c-d7161169062a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b06c6c3c-f2fd-4d8e-99c9-f7d6daf37812",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b06c6c3c-f2fd-4d8e-99c9-f7d6daf37812"
+      ]
+    },
+    {
+      "id": "128622",
+      "name": "臺南市都市計畫公共設施用地已闢建面積",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/3316f879-0c72-47e6-9fee-1a7d75ebf67a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3316f879-0c72-47e6-9fee-1a7d75ebf67a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/df0795a9-e04c-4dc5-a2f9-9bb06145140f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/df0795a9-e04c-4dc5-a2f9-9bb06145140f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d739c133-d2d3-40fc-a331-b525bcf4f626",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d739c133-d2d3-40fc-a331-b525bcf4f626",
+        "https://soa.tainan.gov.tw/Api/Service/Get/99be926d-c3dd-45c9-87ca-c9e0ff7294a5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/99be926d-c3dd-45c9-87ca-c9e0ff7294a5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9bc0b7a9-8f1a-48b3-9352-f33d0ca3d361",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9bc0b7a9-8f1a-48b3-9352-f33d0ca3d361"
+      ]
+    },
+    {
+      "id": "128623",
+      "name": "臺南市都市計畫公共設施用地計畫面積",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/0d889cc6-6b15-44d7-88c4-2c94aa6d9a91",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0d889cc6-6b15-44d7-88c4-2c94aa6d9a91",
+        "https://soa.tainan.gov.tw/Api/Service/Get/13eaebc6-59d4-437f-9c14-5a80cda4f135",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/13eaebc6-59d4-437f-9c14-5a80cda4f135",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c9d07f89-9c0b-4caf-98dd-693fb11d4526",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c9d07f89-9c0b-4caf-98dd-693fb11d4526",
+        "https://soa.tainan.gov.tw/Api/Service/Get/78b50260-9957-4d2b-b6a8-b4ee3e353379",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/78b50260-9957-4d2b-b6a8-b4ee3e353379",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d7d75c29-0594-4d0a-8fb8-c579d5436324",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d7d75c29-0594-4d0a-8fb8-c579d5436324"
+      ]
+    },
+    {
+      "id": "128624",
+      "name": "臺南市都市計畫地區種類",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3fe915f9-2402-481d-946c-c776d7c3db46",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bcaf247e-0557-4b4a-af2d-174c7d28093e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a02c5383-a2aa-4866-82e6-a80598807f20",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/797f1265-7ff0-41a1-9c37-b8065174da4a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0f22555b-4175-4ac5-bac3-4d25c3bb4709",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bcaf247e-0557-4b4a-af2d-174c7d28093e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3fe915f9-2402-481d-946c-c776d7c3db46",
+        "https://soa.tainan.gov.tw/Api/Service/Get/797f1265-7ff0-41a1-9c37-b8065174da4a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a02c5383-a2aa-4866-82e6-a80598807f20",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0f22555b-4175-4ac5-bac3-4d25c3bb4709"
+      ]
+    },
+    {
+      "id": "128628",
+      "name": "臺南市容積移轉執行成果統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/750d94c5-ecd4-4c40-9112-4c2c7c280360",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/750d94c5-ecd4-4c40-9112-4c2c7c280360"
+      ]
+    },
+    {
+      "id": "128629",
+      "name": "臺南市政府都發局採購招標案件一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/44174f3c-b03e-4005-92b9-49126e0f61c2",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/44174f3c-b03e-4005-92b9-49126e0f61c2",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a3f2d56-bfbc-48ac-be8b-91e10fcff0c4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3a3f2d56-bfbc-48ac-be8b-91e10fcff0c4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a6ae8e97-c963-42fe-9013-aea9af330b39",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a6ae8e97-c963-42fe-9013-aea9af330b39",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7fa5b7e7-d25d-414a-8793-c19af83bbb1b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7fa5b7e7-d25d-414a-8793-c19af83bbb1b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/855f6cf3-92f2-4f0d-bcba-ee09464b359e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/855f6cf3-92f2-4f0d-bcba-ee09464b359e"
+      ]
+    },
+    {
+      "id": "128630",
+      "name": "臺南市政府都發局機關通訊錄",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a91fbe24-23fe-4a46-8eb9-0e8c5432d2a0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/a91fbe24-23fe-4a46-8eb9-0e8c5432d2a0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3fbca17b-558d-4fb4-b7fd-79697dad511a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3fbca17b-558d-4fb4-b7fd-79697dad511a"
+      ]
+    },
+    {
+      "id": "128684",
+      "name": "臺南市政府都發局辦理國家賠償事件收結情形表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/1db4b42d-9bdc-4262-adb6-3135e4dd74ef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1db4b42d-9bdc-4262-adb6-3135e4dd74ef",
+        "https://soa.tainan.gov.tw/Api/Service/Get/43f32771-d0a8-4b6f-9612-4d47b9c4681e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/43f32771-d0a8-4b6f-9612-4d47b9c4681e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b24e1130-2864-4b94-b0af-55be07cd6ca9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b24e1130-2864-4b94-b0af-55be07cd6ca9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ba001bda-0bcb-4b8f-b901-661e7b43b20a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ba001bda-0bcb-4b8f-b901-661e7b43b20a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8a5b0a4e-d136-4c0c-8249-7dceb97f6be8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8a5b0a4e-d136-4c0c-8249-7dceb97f6be8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7fe21696-a8f7-486c-af8b-9e6656dd2a6a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7fe21696-a8f7-486c-af8b-9e6656dd2a6a"
+      ]
+    },
+    {
+      "id": "128673",
+      "name": "臺南市政府都發局遊說法案件受理情形月報表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4cb11eee-b381-4eaf-a4bc-b8098cd646e9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/58368ed9-4bd5-40ec-8798-494cecdefc7a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9c1ee15d-2e28-42e3-98d3-367eb0bab366",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4cb11eee-b381-4eaf-a4bc-b8098cd646e9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/58368ed9-4bd5-40ec-8798-494cecdefc7a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9c1ee15d-2e28-42e3-98d3-367eb0bab366",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b3e48ca0-f9c1-43a3-a165-1cfe1fe3e969",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b3e48ca0-f9c1-43a3-a165-1cfe1fe3e969"
+      ]
+    },
+    {
+      "id": "128674",
+      "name": "廉政倫理事件(案件)政風室受理報備登錄情形月報表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/27728225-c448-4670-9fd1-35a0c101f6bd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/27728225-c448-4670-9fd1-35a0c101f6bd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/42d409f5-f038-4985-8226-61dd52809abb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/42d409f5-f038-4985-8226-61dd52809abb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9358b480-fc97-4897-b856-79bf7b05b6a3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9358b480-fc97-4897-b856-79bf7b05b6a3",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8606ae62-73fc-4ce2-9f9b-9bb6f66d1ed6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8606ae62-73fc-4ce2-9f9b-9bb6f66d1ed6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/1f3ef764-f9cd-4c1d-b3cc-a0485995de49",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/1f3ef764-f9cd-4c1d-b3cc-a0485995de49"
+      ]
+    },
+    {
+      "id": "101496",
+      "name": "臺南市都市更新及爭議處理審議會委員名冊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ebb5bf2c-a82b-4c24-b307-220f0855c1c4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ebb5bf2c-a82b-4c24-b307-220f0855c1c4",
+        "https://soa.tainan.gov.tw/Api/Service/Get/894e742a-b671-40d4-bbfa-4c6b069a14dd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/894e742a-b671-40d4-bbfa-4c6b069a14dd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b493f581-72be-485e-a75a-8f7693f3d574",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b493f581-72be-485e-a75a-8f7693f3d574",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6e13dfa2-f14b-4dcd-8216-90e41a68c7e6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6e13dfa2-f14b-4dcd-8216-90e41a68c7e6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9cc819ee-5df9-4ffe-b512-94c7ad1d0f16",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9cc819ee-5df9-4ffe-b512-94c7ad1d0f16",
+        "https://soa.tainan.gov.tw/Api/Service/Get/efe45136-67af-4dec-b642-c1acb2b4c10f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/efe45136-67af-4dec-b642-c1acb2b4c10f"
+      ]
+    },
+    {
+      "id": "129037",
+      "name": "臺南市政府都市發展局職員年資統計報表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/fe0fb1eb-4fae-4e2f-8aa7-275d066b219f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fe0fb1eb-4fae-4e2f-8aa7-275d066b219f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/acfed4b3-bfb7-4d7f-971c-66c4851d7425",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/acfed4b3-bfb7-4d7f-971c-66c4851d7425",
+        "https://soa.tainan.gov.tw/Api/Service/Get/52ad3b2d-9408-412b-86c7-a581c6357d2b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/52ad3b2d-9408-412b-86c7-a581c6357d2b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c039e748-5d7c-41ca-8114-b61dc3572fbc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c039e748-5d7c-41ca-8114-b61dc3572fbc"
+      ]
+    },
+    {
+      "id": "129039",
+      "name": "臺南市政府都市發展局職員官等性別統計報表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f909ddeb-d18f-44a5-86b4-bd7ae4245521",
+        "https://soa.tainan.gov.tw/Api/Service/Get/94ea97f1-8682-4784-8f6a-43c04ec36334",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f909ddeb-d18f-44a5-86b4-bd7ae4245521",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/94ea97f1-8682-4784-8f6a-43c04ec36334",
+        "https://soa.tainan.gov.tw/Api/Service/Get/05849457-9254-4c3d-ab5e-aac7303123e7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4499cd96-a435-498a-8d69-e2d58dc8d8cc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/05849457-9254-4c3d-ab5e-aac7303123e7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4499cd96-a435-498a-8d69-e2d58dc8d8cc"
+      ]
+    },
+    {
+      "id": "129003",
+      "name": "臺南市都市設計審議各行政區審議通過案件數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/578941c6-c596-4500-bca4-c91b0ae8acb4",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/578941c6-c596-4500-bca4-c91b0ae8acb4"
+      ]
+    },
+    {
+      "id": "129006",
+      "name": "臺南市都市設計審議幹事會審議結果",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/7f50cb86-b718-45ac-b683-75b58cae9a2f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7f50cb86-b718-45ac-b683-75b58cae9a2f"
+      ]
+    },
+    {
+      "id": "129008",
+      "name": "臺南市都市設計審議委員名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/82f5f54e-62c5-49f5-b3b2-b74513a2d626",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/82f5f54e-62c5-49f5-b3b2-b74513a2d626"
+      ]
+    },
+    {
+      "id": "130066",
+      "name": "臺南市都市更新辦理進度",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/78eb9432-deaa-403a-ba12-0137cf54ae46",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/78eb9432-deaa-403a-ba12-0137cf54ae46",
+        "https://soa.tainan.gov.tw/Api/Service/Get/039a6e8e-831f-45c3-9eee-2784f9ef5e42",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/039a6e8e-831f-45c3-9eee-2784f9ef5e42",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b1348d53-9bf1-423f-a421-6f1ebe1b583b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b1348d53-9bf1-423f-a421-6f1ebe1b583b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/490d1b2f-9654-4a66-af81-879a17e95fcc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/490d1b2f-9654-4a66-af81-879a17e95fcc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6f0cc0d8-caaf-416b-912f-e490498f7605",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6f0cc0d8-caaf-416b-912f-e490498f7605"
+      ]
+    },
+    {
+      "id": "130067",
+      "name": "臺南市都市更新核定成果",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f815d5a5-0528-41c8-84be-a28f6835d80b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/f815d5a5-0528-41c8-84be-a28f6835d80b",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/81b64156-2f4d-451c-8ff9-ae9931533508",
+        "https://soa.tainan.gov.tw/Api/Service/Get/568b1519-4d5f-4a3e-9f42-2b8e7219924c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/568b1519-4d5f-4a3e-9f42-2b8e7219924c",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7778bc6d-91b1-4a5e-80de-4d142357bc83",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7778bc6d-91b1-4a5e-80de-4d142357bc83",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/6b057ccd-0a59-4dcd-bcad-23b381c26e5b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/6b057ccd-0a59-4dcd-bcad-23b381c26e5b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/81b64156-2f4d-451c-8ff9-ae9931533508"
+      ]
+    },
+    {
+      "id": "129040",
+      "name": "臺南市政府都市發展局職員異動資料統計報表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/86fc092b-cccd-45e6-8ccb-e2e52fbecdfe",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c200b694-5477-4fe4-83ce-2ed3a3f7d4f5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c200b694-5477-4fe4-83ce-2ed3a3f7d4f5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/302a13e5-ff1d-4495-a914-4ca4e79895f9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/302a13e5-ff1d-4495-a914-4ca4e79895f9",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fee2b07b-0fb4-4445-a047-a41270a9d59f",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fee2b07b-0fb4-4445-a047-a41270a9d59f",
+        "https://soa.tainan.gov.tw/Api/Service/Get/86fc092b-cccd-45e6-8ccb-e2e52fbecdfe"
+      ]
+    },
+    {
+      "id": "129050",
+      "name": "臺南市都市計畫委員會審議案件數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dcffb663-e9b7-4d63-98fa-2ab2a4390cfa",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dcffb663-e9b7-4d63-98fa-2ab2a4390cfa",
+        "https://soa.tainan.gov.tw/Api/Service/Get/082dbc51-a04b-4e56-980a-5d48028cdd67",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/082dbc51-a04b-4e56-980a-5d48028cdd67",
+        "https://soa.tainan.gov.tw/Api/Service/Get/502b8805-fe2a-403e-828e-d66dff3a7434",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/502b8805-fe2a-403e-828e-d66dff3a7434"
+      ]
+    },
+    {
+      "id": "129054",
+      "name": "臺南市政府都發局都委會名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/21613d9f-42ae-46fb-8865-0545329d0177",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/21613d9f-42ae-46fb-8865-0545329d0177",
+        "https://soa.tainan.gov.tw/Api/Service/Get/74ed9222-b267-40cb-bb4a-358573d35233",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/74ed9222-b267-40cb-bb4a-358573d35233",
+        "https://soa.tainan.gov.tw/Api/Service/Get/fcbf97b3-bb3c-4c98-837b-7e9fa89bed05",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/fcbf97b3-bb3c-4c98-837b-7e9fa89bed05",
+        "https://soa.tainan.gov.tw/Api/Service/Get/d8acae8b-e81b-486e-aeab-bb5b116fe840",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/d8acae8b-e81b-486e-aeab-bb5b116fe840",
+        "https://soa.tainan.gov.tw/Api/Service/Get/63c725ea-6a91-4a71-8637-be5a1971a1c6",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/63c725ea-6a91-4a71-8637-be5a1971a1c6",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3a75127d-d46b-4e79-9f22-bfbe14b12ea0",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3a75127d-d46b-4e79-9f22-bfbe14b12ea0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4c11ae37-73e1-438a-bdec-c26ad76de749",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4c11ae37-73e1-438a-bdec-c26ad76de749",
+        "https://soa.tainan.gov.tw/Api/Service/Get/820e319d-6f86-4ad9-a710-dfdbde00ec98",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/820e319d-6f86-4ad9-a710-dfdbde00ec98"
+      ]
+    },
+    {
+      "id": "139564",
+      "name": "臺南市都市計畫數值地形航測圖收費標準",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/8cf1e392-ed74-4251-898e-6c0833e0b55d",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8cf1e392-ed74-4251-898e-6c0833e0b55d"
+      ]
+    },
+    {
+      "id": "142745",
+      "name": "臺南市社會住宅包租代管辦理廠商資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b7452117-47b4-49de-a9ad-32ca1b8aed96",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b7452117-47b4-49de-a9ad-32ca1b8aed96"
+      ]
+    },
+    {
+      "id": "79984",
+      "name": "臺南市社區綠美化-臺南築角",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/b3c9a822-9dac-42ae-885c-5241a81e60af",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b3c9a822-9dac-42ae-885c-5241a81e60af"
+      ]
+    },
+    {
+      "id": "79987",
+      "name": "臺南市綠社區培力計畫",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/f6c331a2-099c-42f3-b408-9f6ea04c0550",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/f6c331a2-099c-42f3-b408-9f6ea04c0550"
+      ]
+    },
+    {
+      "id": "101495",
+      "name": "臺南市住宅補貼辦理情形表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5ea86b71-3693-46ab-96b6-5623afcf3136",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0b4e4d37-6ca6-4881-a260-b7fb29d95e3e",
+        "https://soa.tainan.gov.tw/Api/Service/Get/232b83f7-f4e1-49c3-a186-bb47b4580233",
+        "https://soa.tainan.gov.tw/Api/Service/Get/8aebdaa1-05e7-4b52-9a7b-0cd1e044701b",
+        "https://soa.tainan.gov.tw/Api/Service/Get/84b638fc-2f02-4128-802b-d9baf8230020",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/84b638fc-2f02-4128-802b-d9baf8230020",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/232b83f7-f4e1-49c3-a186-bb47b4580233",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5ea86b71-3693-46ab-96b6-5623afcf3136",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4e36f332-79ad-4120-a038-ebb852c7bebc",
+        "https://soa.tainan.gov.tw/Api/Service/Get/4e36f332-79ad-4120-a038-ebb852c7bebc",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0b4e4d37-6ca6-4881-a260-b7fb29d95e3e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/8aebdaa1-05e7-4b52-9a7b-0cd1e044701b"
+      ]
+    },
+    {
+      "id": "127982",
+      "name": "臺南市社區綠美化-巧佈點",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5b93ac72-1d53-424f-9b5d-8fcb8b7225d3",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5b93ac72-1d53-424f-9b5d-8fcb8b7225d3"
+      ]
+    },
+    {
+      "id": "128620",
+      "name": "臺南市都市計畫公共設施用地已取得面積",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ddb210e9-712e-41c5-8668-0199109f87bd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ddb210e9-712e-41c5-8668-0199109f87bd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/eeb49a7f-61b0-4cdb-80dc-1e49bc638da5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/eeb49a7f-61b0-4cdb-80dc-1e49bc638da5",
+        "https://soa.tainan.gov.tw/Api/Service/Get/75c2a3d8-f3f6-4762-ae5f-524025719480",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/75c2a3d8-f3f6-4762-ae5f-524025719480",
+        "https://soa.tainan.gov.tw/Api/Service/Get/3d1bc06a-aa24-4664-a5a7-a40987a557cb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/3d1bc06a-aa24-4664-a5a7-a40987a557cb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2f560952-90b1-4440-92b0-c410a64d9557",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2f560952-90b1-4440-92b0-c410a64d9557"
+      ]
+    },
+    {
+      "id": "128627",
+      "name": "臺南市都市計畫面積及人口",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aeed612f-05a6-4395-b9cf-f2c93358b433",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aa09e2d1-55f9-4377-92d0-2c183a1263bd",
+        "https://soa.tainan.gov.tw/Api/Service/Get/7d27adde-1ec8-428f-b4ee-b2cf18b47419",
+        "https://soa.tainan.gov.tw/Api/Service/Get/e748cf2d-f0e2-441a-8967-1ac7d6da62b8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e748cf2d-f0e2-441a-8967-1ac7d6da62b8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aeed612f-05a6-4395-b9cf-f2c93358b433",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b5d2e066-b281-42e2-9d9c-b0eb7bff4887",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/7d27adde-1ec8-428f-b4ee-b2cf18b47419",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aa09e2d1-55f9-4377-92d0-2c183a1263bd",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b5d2e066-b281-42e2-9d9c-b0eb7bff4887"
+      ]
+    },
+    {
+      "id": "129051",
+      "name": "臺南市都市計畫圖資重製情形",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/ff1d3f3b-2123-46d4-9e6e-68970839bf2a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ff1d3f3b-2123-46d4-9e6e-68970839bf2a",
+        "https://soa.tainan.gov.tw/Api/Service/Get/26582e08-df31-460d-b291-7e86700bd4af",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/26582e08-df31-460d-b291-7e86700bd4af",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c5c3c21a-f2ec-4c17-bad2-c4ab1684f552",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c5c3c21a-f2ec-4c17-bad2-c4ab1684f552"
+      ]
+    },
+    {
+      "id": "129004",
+      "name": "臺南市都市設計審議幹事名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/e8241742-4747-418a-a5b8-6bc1ee36ec6a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/e8241742-4747-418a-a5b8-6bc1ee36ec6a"
+      ]
+    },
+    {
+      "id": "129005",
+      "name": "臺南市都市設計審議會議次數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c3814a74-4b85-4f3f-b446-3f332b1d4f6c",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c3814a74-4b85-4f3f-b446-3f332b1d4f6c"
+      ]
+    },
+    {
+      "id": "129007",
+      "name": "臺南市都市設計審議委員會審議結果",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/68d7c4a4-7dbb-4bbe-85b9-0bb9d697e612",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/68d7c4a4-7dbb-4bbe-85b9-0bb9d697e612"
+      ]
+    },
+    {
+      "id": "130113",
+      "name": "臺南市社會住宅案地及戶數資料",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/36dded74-0716-46d0-abfd-fa4ebc22d565",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/36dded74-0716-46d0-abfd-fa4ebc22d565"
+      ]
+    },
+    {
+      "id": "139563",
+      "name": "臺南市都市計畫樁位測釘數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/4480a39a-d71c-45d1-a27e-d0ce33e84935",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/4480a39a-d71c-45d1-a27e-d0ce33e84935"
+      ]
+    },
+    {
+      "id": "140140",
+      "name": "臺南市國土計畫審議會委員名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a965bd26-6b0a-4dca-a865-f28614d9f97a",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a965bd26-6b0a-4dca-a865-f28614d9f97a"
+      ]
+    },
+    {
+      "id": "140141",
+      "name": "臺南市非都市土地專責審議小組名單",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5c2e99bc-9826-46cc-a419-84cfbae27301",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5c2e99bc-9826-46cc-a419-84cfbae27301"
+      ]
+    },
+    {
+      "id": "53366",
+      "name": "臺南市都市計畫區內受理建築線指定案件資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c4740a98-c4a1-4716-b679-358543233827",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c4740a98-c4a1-4716-b679-358543233827",
+        "https://soa.tainan.gov.tw/Api/Service/Get/11975667-c43c-4053-bf81-3feae421de23",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/11975667-c43c-4053-bf81-3feae421de23",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2895df91-122c-4145-b4c0-640c37193127",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2895df91-122c-4145-b4c0-640c37193127"
+      ]
+    },
+    {
+      "id": "166145",
+      "name": "臺南市都市計畫案件進度",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/9363d004-9728-463c-b9e7-6655fd80a1e9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9363d004-9728-463c-b9e7-6655fd80a1e9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2c3f1a5b-31ea-4857-bd58-01110c0ec70d",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2c3f1a5b-31ea-4857-bd58-01110c0ec70d"
+      ]
+    },
+    {
+      "id": "128565",
+      "name": "臺南市都市計畫土地使用分區證明書申請方式統計",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c5fd0539-e499-4f59-8128-43f388e0cad5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c5fd0539-e499-4f59-8128-43f388e0cad5"
+      ]
+    },
+    {
+      "id": "128625",
+      "name": "臺南市容積移轉申請案件核准移入容積量",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/a35ae52f-371c-4ecf-8573-e1572c18004e",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/a35ae52f-371c-4ecf-8573-e1572c18004e"
+      ]
+    },
+    {
+      "id": "128626",
+      "name": "臺南市容積移轉申請案件數",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/56090dbe-d3c6-4735-9498-f37aba787683",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/56090dbe-d3c6-4735-9498-f37aba787683"
+      ]
+    },
+    {
+      "id": "129038",
+      "name": "臺南市政府都市發展局職員年齡統計報表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ff31b74d-2d35-4d33-b010-107ddced2ee9",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2a4a5061-40a7-4924-9840-782b35f69938",
+        "https://soa.tainan.gov.tw/Api/Service/Get/b5dde08a-d5a5-42aa-a9e5-002723eb4857",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9b0eb004-e5f9-40c6-a1b8-ae0f0b522878",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9b0eb004-e5f9-40c6-a1b8-ae0f0b522878",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/b5dde08a-d5a5-42aa-a9e5-002723eb4857",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2a4a5061-40a7-4924-9840-782b35f69938",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ff31b74d-2d35-4d33-b010-107ddced2ee9"
+      ]
+    },
+    {
+      "id": "129041",
+      "name": "臺南市政府都市發展局職員考試別統計報表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c54ba5f3-932c-41b8-b3fe-e4112c64bcc7",
+        "https://soa.tainan.gov.tw/Api/Service/Get/09905e0d-e501-4a2e-801c-73cdff5b90d8",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/2e8be4bf-3500-4909-b269-f65275c53dcb",
+        "https://soa.tainan.gov.tw/Api/Service/Get/2e8be4bf-3500-4909-b269-f65275c53dcb",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/09905e0d-e501-4a2e-801c-73cdff5b90d8",
+        "https://soa.tainan.gov.tw/Api/Service/Get/aca52c83-5e28-41ff-9b45-f777cba698f0",
+        "https://soa.tainan.gov.tw/Api/Service/Get/c54ba5f3-932c-41b8-b3fe-e4112c64bcc7",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/aca52c83-5e28-41ff-9b45-f777cba698f0"
+      ]
+    },
+    {
+      "id": "129053",
+      "name": "臺南市政府都市發展局職員學歷統計報表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/308a6926-1e9e-4386-8126-51a9d2bce302",
+        "https://soa.tainan.gov.tw/Api/Service/Get/645a5591-091f-4fb7-b877-e967d1973891",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/645a5591-091f-4fb7-b877-e967d1973891",
+        "https://soa.tainan.gov.tw/Api/Service/Get/308a6926-1e9e-4386-8126-51a9d2bce302",
+        "https://soa.tainan.gov.tw/Api/Service/Get/0cc9f7d2-a8e7-4b9a-82aa-2a4bd9da2a19",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/0cc9f7d2-a8e7-4b9a-82aa-2a4bd9da2a19",
+        "https://soa.tainan.gov.tw/Api/Service/Get/24625f55-6280-4384-b90b-8c7fc20a7543",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/24625f55-6280-4384-b90b-8c7fc20a7543"
+      ]
+    },
+    {
+      "id": "142746",
+      "name": "臺南市社會住宅包租代管房東房客獎勵比較表",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/ee451133-0b54-413f-a1b4-4571f7398743",
+        "https://soa.tainan.gov.tw/Api/Service/Get/ee451133-0b54-413f-a1b4-4571f7398743"
+      ]
+    },
+    {
+      "id": "142961",
+      "name": "臺南市都市計畫樁位公告案數",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/bb8fcb94-88ae-49df-8700-c0a3b3c36b87",
+        "https://soa.tainan.gov.tw/Api/Service/Get/bb8fcb94-88ae-49df-8700-c0a3b3c36b87"
+      ]
+    }
+  ]
+}

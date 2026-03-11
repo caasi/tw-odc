@@ -1,0 +1,52 @@
+{
+  "type": "dataset",
+  "provider": "臺南市政府體育局",
+  "slug": "soa_tainan_gov_tw_3346c118",
+  "datasets": [
+    {
+      "id": "157016",
+      "name": "臺南市體育處所屬體育場館分佈資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/21308ec5-2a90-4526-b053-19617be7bca5",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/21308ec5-2a90-4526-b053-19617be7bca5"
+      ]
+    },
+    {
+      "id": "157017",
+      "name": "臺南市各項體育成果資訊",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/dcb591a3-1878-4224-9556-12fa4e18c7ba",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/dcb591a3-1878-4224-9556-12fa4e18c7ba"
+      ]
+    },
+    {
+      "id": "157020",
+      "name": "臺南市學校各項專任運動教練資訊",
+      "format": "csv",
+      "urls": [
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/9e7cd972-c972-486d-8234-27858623f6b1",
+        "https://soa.tainan.gov.tw/Api/Service/Get/9e7cd972-c972-486d-8234-27858623f6b1"
+      ]
+    },
+    {
+      "id": "156994",
+      "name": "臺南市政府設立之危險水域警告標誌牌與救生圈(含繩索位置資料)",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/5c57fa0d-34c2-4f5e-93ff-1756ea9c09ef",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/5c57fa0d-34c2-4f5e-93ff-1756ea9c09ef"
+      ]
+    },
+    {
+      "id": "157019",
+      "name": "臺南市立各級學校游泳池一覽表",
+      "format": "json",
+      "urls": [
+        "https://soa.tainan.gov.tw/Api/Service/Get/c4e579fe-462e-41d4-9f8e-63600e2bf790",
+        "https://data.tainan.gov.tw/File/ResourceCsvDownload/c4e579fe-462e-41d4-9f8e-63600e2bf790"
+      ]
+    }
+  ]
+}

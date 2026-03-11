@@ -1,0 +1,3483 @@
+{
+  "type": "dataset",
+  "provider": "高雄市政府警察局",
+  "slug": "openapi_kcg_gov_tw_2385b010",
+  "datasets": [
+    {
+      "id": "47212",
+      "name": "高雄市歷年重大交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/996a1b2b-b5e1-4373-b368-626e6527d321",
+        "https://data.kcg.gov.tw/File/directDownload/996a1b2b-b5e1-4373-b368-626e6527d321"
+      ]
+    },
+    {
+      "id": "47105",
+      "name": "高雄市105年度取締酒駕前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d0923771-e09c-4db7-8616-b4506c201ba1",
+        "https://data.kcg.gov.tw/File/DirectDownload/d0923771-e09c-4db7-8616-b4506c201ba1"
+      ]
+    },
+    {
+      "id": "47199",
+      "name": "高雄市103年前50大易肇事路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6705b701-a296-4f49-8f19-97416e87394b",
+        "https://data.kcg.gov.tw/File/DirectDownload/6705b701-a296-4f49-8f19-97416e87394b"
+      ]
+    },
+    {
+      "id": "47200",
+      "name": "高雄市102年前50大易肇事路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2ea25107-8e2e-4434-9916-5448f3c3515c",
+        "https://data.kcg.gov.tw/File/DirectDownload/2ea25107-8e2e-4434-9916-5448f3c3515c"
+      ]
+    },
+    {
+      "id": "47202",
+      "name": "高雄市104年度取締超速前十大路段",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3bc841cc-1f7c-4df5-a837-40af1d1e9826",
+        "https://data.kcg.gov.tw/File/DirectDownload/3bc841cc-1f7c-4df5-a837-40af1d1e9826"
+      ]
+    },
+    {
+      "id": "47204",
+      "name": "高雄市104年度取締酒後駕車前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/79dcf427-6228-424d-862e-34e42ac54529",
+        "https://data.kcg.gov.tw/File/DirectDownload/79dcf427-6228-424d-862e-34e42ac54529"
+      ]
+    },
+    {
+      "id": "104579",
+      "name": "高雄市106年度A1交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a0b5bb1a-871c-4dad-aea3-02401bb23df2",
+        "https://data.kcg.gov.tw/File/DirectDownload/a0b5bb1a-871c-4dad-aea3-02401bb23df2"
+      ]
+    },
+    {
+      "id": "104588",
+      "name": "高雄市102年度A1交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/93ff8feb-6022-41ed-b455-e97606a39684",
+        "https://data.kcg.gov.tw/File/DirectDownload/93ff8feb-6022-41ed-b455-e97606a39684"
+      ]
+    },
+    {
+      "id": "104589",
+      "name": "高雄市101年度A2交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9f3f0ebb-010e-4e24-a8cd-667bac55f91b",
+        "https://data.kcg.gov.tw/File/DirectDownload/9f3f0ebb-010e-4e24-a8cd-667bac55f91b"
+      ]
+    },
+    {
+      "id": "104512",
+      "name": "高雄市新興區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cc69f63a-59c8-4485-b694-a5bafabdce5f",
+        "https://data.kcg.gov.tw/File/directDownload/cc69f63a-59c8-4485-b694-a5bafabdce5f"
+      ]
+    },
+    {
+      "id": "104517",
+      "name": "高雄市美濃區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a3f8716-b2e2-4102-a7a7-374b60fff0c0",
+        "https://data.kcg.gov.tw/File/directDownload/5a3f8716-b2e2-4102-a7a7-374b60fff0c0"
+      ]
+    },
+    {
+      "id": "104523",
+      "name": "高雄市永安區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9cd8e7df-3985-4316-9cdd-ecc266ffec95",
+        "https://data.kcg.gov.tw/File/directDownload/9cd8e7df-3985-4316-9cdd-ecc266ffec95"
+      ]
+    },
+    {
+      "id": "104524",
+      "name": "高雄市左營區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b46b6923-57a5-4576-9696-9cf463a182da",
+        "https://data.kcg.gov.tw/File/directDownload/b46b6923-57a5-4576-9696-9cf463a182da"
+      ]
+    },
+    {
+      "id": "104526",
+      "name": "高雄市內門區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d1d7d4cb-e2da-4d1b-852c-1fba81c0f538",
+        "https://data.kcg.gov.tw/File/directDownload/d1d7d4cb-e2da-4d1b-852c-1fba81c0f538"
+      ]
+    },
+    {
+      "id": "104527",
+      "name": "高雄市仁武區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1a821d4e-7e4c-4cad-a37e-0c07f20982e4",
+        "https://data.kcg.gov.tw/File/directDownload/1a821d4e-7e4c-4cad-a37e-0c07f20982e4"
+      ]
+    },
+    {
+      "id": "104529",
+      "name": "高雄市大樹區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f395de1-8910-4d77-bdfc-b23ce72f9850",
+        "https://data.kcg.gov.tw/File/directDownload/0f395de1-8910-4d77-bdfc-b23ce72f9850"
+      ]
+    },
+    {
+      "id": "104543",
+      "name": "高雄市108年林園分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/557a99a2-a28b-4a6b-a52c-0a6feb901161",
+        "https://data.kcg.gov.tw/File/DirectDownload/557a99a2-a28b-4a6b-a52c-0a6feb901161"
+      ]
+    },
+    {
+      "id": "104544",
+      "name": "高雄市108年岡山分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f888234-537e-4a7b-9de9-9a912f66f8ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f888234-537e-4a7b-9de9-9a912f66f8ac"
+      ]
+    },
+    {
+      "id": "127498",
+      "name": "高雄市109年路口多向違規監測系統設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5d3a9e6d-602d-4aaa-9eb9-35bda4c0b823",
+        "https://data.kcg.gov.tw/File/DirectDownload/5d3a9e6d-602d-4aaa-9eb9-35bda4c0b823"
+      ]
+    },
+    {
+      "id": "127499",
+      "name": "高雄市109年區間平均速率執法設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dba1c6f7-2865-41a9-a08a-2a54ebbab6cb",
+        "https://data.kcg.gov.tw/File/DirectDownload/dba1c6f7-2865-41a9-a08a-2a54ebbab6cb"
+      ]
+    },
+    {
+      "id": "127568",
+      "name": "高雄市109年左營分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f8caab5-07c1-44fa-aa5c-d8d1800a6330",
+        "https://data.kcg.gov.tw/File/DirectDownload/5f8caab5-07c1-44fa-aa5c-d8d1800a6330"
+      ]
+    },
+    {
+      "id": "127569",
+      "name": "高雄市109年六龜分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/60441a9b-3eb8-466c-b2e4-f409001270ce",
+        "https://data.kcg.gov.tw/File/DirectDownload/60441a9b-3eb8-466c-b2e4-f409001270ce"
+      ]
+    },
+    {
+      "id": "127571",
+      "name": "高雄市109年小港分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dcd7d11c-066a-44bd-9c2f-3c5b2f74a8c6",
+        "https://data.kcg.gov.tw/File/DirectDownload/dcd7d11c-066a-44bd-9c2f-3c5b2f74a8c6"
+      ]
+    },
+    {
+      "id": "127573",
+      "name": "高雄市109年三民二分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9008c519-b7be-42c2-b10c-5d729cb8b530",
+        "https://data.kcg.gov.tw/File/DirectDownload/9008c519-b7be-42c2-b10c-5d729cb8b530"
+      ]
+    },
+    {
+      "id": "98101",
+      "name": "高雄市107年固定式違規照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3142d797-8156-4a2f-be83-f917c1b1e585",
+        "https://data.kcg.gov.tw/File/DirectDownload/3142d797-8156-4a2f-be83-f917c1b1e585"
+      ]
+    },
+    {
+      "id": "87239",
+      "name": "高雄市各分局轄區重要指標",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/452707c3-52c4-4697-a7f4-afb261ab6769",
+        "https://data.kcg.gov.tw/File/directDownload/452707c3-52c4-4697-a7f4-afb261ab6769"
+      ]
+    },
+    {
+      "id": "87250",
+      "name": "高雄市經濟案件與取締電玩攤販",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7ef33a43-ef69-418f-b7f6-2d011ec6b47d",
+        "https://data.kcg.gov.tw/File/directDownload/7ef33a43-ef69-418f-b7f6-2d011ec6b47d"
+      ]
+    },
+    {
+      "id": "87211",
+      "name": "高雄市106年2月失蹤人口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/de608a71-4c6b-472c-b7b0-69174ada02c8",
+        "https://data.kcg.gov.tw/File/DirectDownload/de608a71-4c6b-472c-b7b0-69174ada02c8"
+      ]
+    },
+    {
+      "id": "87214",
+      "name": "高雄市政府警察局106年車輛使用狀況",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a916db9e-9ca2-482c-89c5-ccc9f04622fd",
+        "https://data.kcg.gov.tw/File/directDownload/a916db9e-9ca2-482c-89c5-ccc9f04622fd"
+      ]
+    },
+    {
+      "id": "87251",
+      "name": "高雄市違反社會秩序維護法案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1447d565-688c-431c-83cb-2024c23b7459",
+        "https://data.kcg.gov.tw/File/DirectDownload/1447d565-688c-431c-83cb-2024c23b7459"
+      ]
+    },
+    {
+      "id": "102873",
+      "name": "高雄市鹽埕區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3f5a6cf7-b4a8-405f-91e8-6a9280d895d7",
+        "https://data.kcg.gov.tw/File/directDownload/3f5a6cf7-b4a8-405f-91e8-6a9280d895d7"
+      ]
+    },
+    {
+      "id": "102876",
+      "name": "高雄市鳳山區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/73caf23f-dbf3-47a0-aa5a-183974f8b4ac",
+        "https://data.kcg.gov.tw/File/directDownload/73caf23f-dbf3-47a0-aa5a-183974f8b4ac"
+      ]
+    },
+    {
+      "id": "102880",
+      "name": "高雄市楠梓區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b8c1f025-fdd3-4ddb-8267-55ae1d8e5f33",
+        "https://data.kcg.gov.tw/File/DirectDownload/b8c1f025-fdd3-4ddb-8267-55ae1d8e5f33"
+      ]
+    },
+    {
+      "id": "104241",
+      "name": "高雄市107年度A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/08d9964e-bf9e-4e49-aa63-bd1ba9585f9c",
+        "https://data.kcg.gov.tw/File/DirectDownload/08d9964e-bf9e-4e49-aa63-bd1ba9585f9c"
+      ]
+    },
+    {
+      "id": "157268",
+      "name": "高雄市111年路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/793db89a-dcb6-4495-b3c3-64f6837a6f34",
+        "https://data.kcg.gov.tw/File/directDownload/793db89a-dcb6-4495-b3c3-64f6837a6f34"
+      ]
+    },
+    {
+      "id": "157270",
+      "name": "高雄市彌陀區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8fa553b9-014b-4391-b13a-6d628606bf30",
+        "https://data.kcg.gov.tw/File/directDownload/8fa553b9-014b-4391-b13a-6d628606bf30"
+      ]
+    },
+    {
+      "id": "157272",
+      "name": "高雄市橋頭區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7bd3781e-daa9-4c12-8688-a516cab5af4a",
+        "https://data.kcg.gov.tw/File/directDownload/7bd3781e-daa9-4c12-8688-a516cab5af4a"
+      ]
+    },
+    {
+      "id": "157273",
+      "name": "高雄市鳳山區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/73b6c0d0-dac1-4f7f-b4d1-99bbe66b91b4",
+        "https://data.kcg.gov.tw/File/DirectDownload/73b6c0d0-dac1-4f7f-b4d1-99bbe66b91b4"
+      ]
+    },
+    {
+      "id": "157274",
+      "name": "高雄市旗津區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ce1de3a4-4a93-405d-928b-36828d99f5fa",
+        "https://data.kcg.gov.tw/File/directDownload/ce1de3a4-4a93-405d-928b-36828d99f5fa"
+      ]
+    },
+    {
+      "id": "157349",
+      "name": "高雄市110年旗山分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/260592b9-5c1d-4721-aa4a-b93eb674df72",
+        "https://data.kcg.gov.tw/File/DirectDownload/260592b9-5c1d-4721-aa4a-b93eb674df72"
+      ]
+    },
+    {
+      "id": "157352",
+      "name": "高雄市110年林園分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0ba1658b-4bc7-498a-b0ae-cd229fc30c10",
+        "https://data.kcg.gov.tw/File/DirectDownload/0ba1658b-4bc7-498a-b0ae-cd229fc30c10"
+      ]
+    },
+    {
+      "id": "157361",
+      "name": "高雄市政府警察局104年處理刑事案件(修正表)",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/11899d7f-bd57-4862-9dcb-e5c362b95d4c",
+        "https://data.kcg.gov.tw/File/directDownload/11899d7f-bd57-4862-9dcb-e5c362b95d4c"
+      ]
+    },
+    {
+      "id": "157312",
+      "name": "高雄市109年鼓山區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85d4533c-89fa-420d-a403-ab469d73b23b",
+        "https://data.kcg.gov.tw/File/DirectDownload/85d4533c-89fa-420d-a403-ab469d73b23b"
+      ]
+    },
+    {
+      "id": "157315",
+      "name": "高雄市109年湖內區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/eb40249b-c381-4627-9bad-ad003ca29a2f",
+        "https://data.kcg.gov.tw/File/DirectDownload/eb40249b-c381-4627-9bad-ad003ca29a2f"
+      ]
+    },
+    {
+      "id": "157317",
+      "name": "高雄市109年梓官區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/98b56285-8b35-4f67-967b-6d9bfbc828ac",
+        "https://data.kcg.gov.tw/File/DirectDownload/98b56285-8b35-4f67-967b-6d9bfbc828ac"
+      ]
+    },
+    {
+      "id": "157318",
+      "name": "高雄市109年茄萣區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3b23fca7-252c-4773-94e7-769f2fcfd416",
+        "https://data.kcg.gov.tw/File/DirectDownload/3b23fca7-252c-4773-94e7-769f2fcfd416"
+      ]
+    },
+    {
+      "id": "157322",
+      "name": "高雄市109年前金區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7690ec95-fd91-4699-b782-6cc3d9b0a674",
+        "https://data.kcg.gov.tw/File/DirectDownload/7690ec95-fd91-4699-b782-6cc3d9b0a674"
+      ]
+    },
+    {
+      "id": "157323",
+      "name": "高雄市109年阿蓮區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b82f4899-122d-4308-aa61-663d7484c6e5",
+        "https://data.kcg.gov.tw/File/DirectDownload/b82f4899-122d-4308-aa61-663d7484c6e5"
+      ]
+    },
+    {
+      "id": "157325",
+      "name": "高雄市109年岡山區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b919294d-f93a-4641-a182-cacbb3cce0bf",
+        "https://data.kcg.gov.tw/File/DirectDownload/b919294d-f93a-4641-a182-cacbb3cce0bf"
+      ]
+    },
+    {
+      "id": "157326",
+      "name": "高雄市109年杉林區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/65a22a84-670d-4fd0-b636-005990fca415",
+        "https://data.kcg.gov.tw/File/DirectDownload/65a22a84-670d-4fd0-b636-005990fca415"
+      ]
+    },
+    {
+      "id": "157329",
+      "name": "高雄市109年永安區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c25fd067-157a-4a65-a3d1-fe3bd50e3188",
+        "https://data.kcg.gov.tw/File/DirectDownload/c25fd067-157a-4a65-a3d1-fe3bd50e3188"
+      ]
+    },
+    {
+      "id": "157279",
+      "name": "高雄市新興區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cad791b2-fcea-4ba6-8b54-0a31f9c7dd3a",
+        "https://data.kcg.gov.tw/File/directDownload/cad791b2-fcea-4ba6-8b54-0a31f9c7dd3a"
+      ]
+    },
+    {
+      "id": "157280",
+      "name": "高雄市湖內區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/686d1ce8-3f34-4655-b507-e069b8616706",
+        "https://data.kcg.gov.tw/File/directDownload/686d1ce8-3f34-4655-b507-e069b8616706"
+      ]
+    },
+    {
+      "id": "157282",
+      "name": "高雄市梓官區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4e2369e1-9992-4d20-bda4-e91e8d9ff904",
+        "https://data.kcg.gov.tw/File/directDownload/4e2369e1-9992-4d20-bda4-e91e8d9ff904"
+      ]
+    },
+    {
+      "id": "157284",
+      "name": "高雄市苓雅區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2321b7fb-1ea0-4779-928e-51c743472503",
+        "https://data.kcg.gov.tw/File/directDownload/2321b7fb-1ea0-4779-928e-51c743472503"
+      ]
+    },
+    {
+      "id": "157290",
+      "name": "高雄市岡山區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b5a131b9-911a-4654-b67b-d4e74947e7f8",
+        "https://data.kcg.gov.tw/File/directDownload/b5a131b9-911a-4654-b67b-d4e74947e7f8"
+      ]
+    },
+    {
+      "id": "157292",
+      "name": "高雄市甲仙區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/44445789-ab61-40a1-86ba-95bdfb95e816",
+        "https://data.kcg.gov.tw/File/DirectDownload/44445789-ab61-40a1-86ba-95bdfb95e816"
+      ]
+    },
+    {
+      "id": "157295",
+      "name": "高雄市左營區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9e096a11-e970-45a2-94ce-f10dbae99ca9",
+        "https://data.kcg.gov.tw/File/directDownload/9e096a11-e970-45a2-94ce-f10dbae99ca9"
+      ]
+    },
+    {
+      "id": "157297",
+      "name": "高雄市內門區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a186a5a3-db1b-43e9-99c1-8866b79de149",
+        "https://data.kcg.gov.tw/File/directDownload/a186a5a3-db1b-43e9-99c1-8866b79de149"
+      ]
+    },
+    {
+      "id": "157309",
+      "name": "高雄市109年旗津區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9c07099f-c200-4ea3-938f-76e3d818d21b",
+        "https://data.kcg.gov.tw/File/DirectDownload/9c07099f-c200-4ea3-938f-76e3d818d21b"
+      ]
+    },
+    {
+      "id": "157339",
+      "name": "高雄市109年防空避難設備工廠",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3d5d60c4-6fae-4547-acdb-26a0bbbce5fa",
+        "https://data.kcg.gov.tw/File/DirectDownload/3d5d60c4-6fae-4547-acdb-26a0bbbce5fa"
+      ]
+    },
+    {
+      "id": "157342",
+      "name": "高雄市110年鼓山分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/54ea0df4-07e6-4e95-a7a0-e5466f9d2204",
+        "https://data.kcg.gov.tw/File/DirectDownload/54ea0df4-07e6-4e95-a7a0-e5466f9d2204"
+      ]
+    },
+    {
+      "id": "157345",
+      "name": "高雄市110年左營分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2414a349-a858-42b0-a722-d45a74e07c97",
+        "https://data.kcg.gov.tw/File/DirectDownload/2414a349-a858-42b0-a722-d45a74e07c97"
+      ]
+    },
+    {
+      "id": "157401",
+      "name": "高雄市暴力犯罪統計",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/662a9bbc-ec6a-494e-9405-ec1fd92db510",
+        "https://data.kcg.gov.tw/File/directDownload/662a9bbc-ec6a-494e-9405-ec1fd92db510"
+      ]
+    },
+    {
+      "id": "148455",
+      "name": "高雄市111年「固定式違規照相設備及科技執法」設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d300ae36-e3b7-41c1-aa27-39c48a6f8c4b",
+        "https://data.kcg.gov.tw/File/directDownload/d300ae36-e3b7-41c1-aa27-39c48a6f8c4b"
+      ]
+    },
+    {
+      "id": "148456",
+      "name": "高雄市111年「限制車種違規駛入」監測系統設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/47e38a5e-24e3-43bd-8c10-ec94d44cbacb",
+        "https://data.kcg.gov.tw/File/directDownload/47e38a5e-24e3-43bd-8c10-ec94d44cbacb"
+      ]
+    },
+    {
+      "id": "145113",
+      "name": "高雄市108年交通路段前十大事故比較表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/add0a122-396e-4426-a40e-3e1de7312b6c",
+        "https://data.kcg.gov.tw/File/DirectDownload/add0a122-396e-4426-a40e-3e1de7312b6c"
+      ]
+    },
+    {
+      "id": "145114",
+      "name": "高雄市108年交通路口前十大事故比較表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f1c82ec5-187b-47d8-94c4-687bb550353c",
+        "https://data.kcg.gov.tw/File/DirectDownload/f1c82ec5-187b-47d8-94c4-687bb550353c"
+      ]
+    },
+    {
+      "id": "152480",
+      "name": "高雄市111年移動式測速照相地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e6b43cef-df16-414d-97bf-fe2fc42fb7a6",
+        "https://data.kcg.gov.tw/File/directDownload/e6b43cef-df16-414d-97bf-fe2fc42fb7a6"
+      ]
+    },
+    {
+      "id": "160170",
+      "name": "高雄市111年路口科技執法設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5b66c831-53ab-4c97-b52f-d4ae3483286c",
+        "https://data.kcg.gov.tw/File/directDownload/5b66c831-53ab-4c97-b52f-d4ae3483286c"
+      ]
+    },
+    {
+      "id": "160172",
+      "name": "高雄市111年科技執法區間平均速率執法設備設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bb11cc37-de54-49be-97d1-aa9dfe7a2dfb",
+        "https://data.kcg.gov.tw/File/directDownload/bb11cc37-de54-49be-97d1-aa9dfe7a2dfb"
+      ]
+    },
+    {
+      "id": "161881",
+      "name": "高雄市112年科技執法違規停車監測系統設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b278d35b-7f00-48ad-addd-1acaee85e69f",
+        "https://data.kcg.gov.tw/File/directDownload/b278d35b-7f00-48ad-addd-1acaee85e69f"
+      ]
+    },
+    {
+      "id": "161227",
+      "name": "高雄市112年科技執法「固定式違規照相設備」設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5c2ee7f-aabb-4db3-9fd4-068ef398f702",
+        "https://data.kcg.gov.tw/File/directDownload/e5c2ee7f-aabb-4db3-9fd4-068ef398f702"
+      ]
+    },
+    {
+      "id": "145891",
+      "name": "高雄市110年岡山分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bc9a0676-3be5-4ec3-bfe8-b27058ca9476",
+        "https://data.kcg.gov.tw/File/DirectDownload/bc9a0676-3be5-4ec3-bfe8-b27058ca9476"
+      ]
+    },
+    {
+      "id": "145895",
+      "name": "高雄市110年小港分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8be02382-f7de-4cf4-9a69-4015d4ae0345",
+        "https://data.kcg.gov.tw/File/DirectDownload/8be02382-f7de-4cf4-9a69-4015d4ae0345"
+      ]
+    },
+    {
+      "id": "145896",
+      "name": "高雄市110年三民二分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dbaf1a4b-8075-41b6-852d-4c4a8748224b",
+        "https://data.kcg.gov.tw/File/DirectDownload/dbaf1a4b-8075-41b6-852d-4c4a8748224b"
+      ]
+    },
+    {
+      "id": "145897",
+      "name": "高雄市110年三民一分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d56ee778-e388-4aa9-84f9-e71809bc77e2",
+        "https://data.kcg.gov.tw/File/DirectDownload/d56ee778-e388-4aa9-84f9-e71809bc77e2"
+      ]
+    },
+    {
+      "id": "145873",
+      "name": "高雄市110年固定式科技執法設備設置地點一覽表第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/86d3314c-8434-47a9-b7a6-5f89d28f388f",
+        "https://data.kcg.gov.tw/File/DirectDownload/86d3314c-8434-47a9-b7a6-5f89d28f388f"
+      ]
+    },
+    {
+      "id": "145880",
+      "name": "高雄市110年路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cf0fe4e3-72d7-47ea-a48e-c272c623605d",
+        "https://data.kcg.gov.tw/File/DirectDownload/cf0fe4e3-72d7-47ea-a48e-c272c623605d"
+      ]
+    },
+    {
+      "id": "145884",
+      "name": "高雄市110年鼓山分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a243d84-3684-409a-b542-c7c299fdf9ba",
+        "https://data.kcg.gov.tw/File/DirectDownload/4a243d84-3684-409a-b542-c7c299fdf9ba"
+      ]
+    },
+    {
+      "id": "146884",
+      "name": "高雄市110年機車違規行駛警示系統固定式科技執法設備設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ee9a951d-0d20-48c8-8f8b-63233e0cff70",
+        "https://data.kcg.gov.tw/File/directDownload/ee9a951d-0d20-48c8-8f8b-63233e0cff70"
+      ]
+    },
+    {
+      "id": "146885",
+      "name": "高雄市110年科技執法區間平均速率執法設備設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dfbf5086-3345-413e-b3c0-4fc5d8688265",
+        "https://data.kcg.gov.tw/File/DirectDownload/dfbf5086-3345-413e-b3c0-4fc5d8688265"
+      ]
+    },
+    {
+      "id": "151751",
+      "name": "高雄市111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5ee3906-915d-45fb-8796-1b1a2958aca0",
+        "https://data.kcg.gov.tw/File/directDownload/e5ee3906-915d-45fb-8796-1b1a2958aca0"
+      ]
+    },
+    {
+      "id": "151946",
+      "name": "高雄市111年「機車違規行駛警示系統」固定式科技執法設備設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58c80e68-fd19-4794-9433-14d4447f4542",
+        "https://data.kcg.gov.tw/File/directDownload/58c80e68-fd19-4794-9433-14d4447f4542"
+      ]
+    },
+    {
+      "id": "151948",
+      "name": "高雄市111年「限制車種違規駛入」監測系統設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/378cc80a-3bc5-44db-97c7-a13bd47f6c06",
+        "https://data.kcg.gov.tw/File/directDownload/378cc80a-3bc5-44db-97c7-a13bd47f6c06"
+      ]
+    },
+    {
+      "id": "150806",
+      "name": "高雄市111年科技執法區間平均速率執法設備設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bc62129c-9584-4ffb-a69c-3a1197c933e5",
+        "https://data.kcg.gov.tw/File/directDownload/bc62129c-9584-4ffb-a69c-3a1197c933e5"
+      ]
+    },
+    {
+      "id": "150808",
+      "name": "高雄市111年「違規停車」監測系統設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8606064f-eac5-4280-b210-d4034c669a63",
+        "https://data.kcg.gov.tw/File/directDownload/8606064f-eac5-4280-b210-d4034c669a63"
+      ]
+    },
+    {
+      "id": "169075",
+      "name": "高雄市113年移動式測速照相地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6926114c-42b4-486a-944d-cabb974c1de5",
+        "https://data.kcg.gov.tw/File/DirectDownload/6926114c-42b4-486a-944d-cabb974c1de5"
+      ]
+    },
+    {
+      "id": "169076",
+      "name": "高雄市113年路口科技執法設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/995911e7-bdae-43c5-b635-11f305fe0375",
+        "https://data.kcg.gov.tw/File/directDownload/995911e7-bdae-43c5-b635-11f305fe0375",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f8873632-5dd7-4e3b-a577-4031951755a0",
+        "https://data.kcg.gov.tw/File/directDownload/f8873632-5dd7-4e3b-a577-4031951755a0",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7fef431a-b6d2-4f5c-a045-544c4c15dbb1",
+        "https://data.kcg.gov.tw/File/directDownload/7fef431a-b6d2-4f5c-a045-544c4c15dbb1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d483cca-070c-4c22-ba63-da56c32f99f1",
+        "https://data.kcg.gov.tw/File/directDownload/7d483cca-070c-4c22-ba63-da56c32f99f1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/671e6abd-37ff-4ec5-b3d2-e7179ff69801",
+        "https://data.kcg.gov.tw/File/directDownload/671e6abd-37ff-4ec5-b3d2-e7179ff69801"
+      ]
+    },
+    {
+      "id": "169080",
+      "name": "高雄市113年科技執法「固定式違規照相設備」設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7258a82a-878d-458a-829c-00cadadc0fea",
+        "https://data.kcg.gov.tw/File/directDownload/7258a82a-878d-458a-829c-00cadadc0fea",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/528acf0d-3ec3-41bc-8a1d-3e97d232ed70",
+        "https://data.kcg.gov.tw/File/directDownload/528acf0d-3ec3-41bc-8a1d-3e97d232ed70",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/78a2ec22-2b65-4ad7-af60-4e317ceaa873",
+        "https://data.kcg.gov.tw/File/directDownload/78a2ec22-2b65-4ad7-af60-4e317ceaa873",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1cd61f2b-f494-4d9a-936a-574fda578fd7",
+        "https://data.kcg.gov.tw/File/directDownload/1cd61f2b-f494-4d9a-936a-574fda578fd7",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e2788d2a-b31f-4c95-8c2b-cef137f0c061",
+        "https://data.kcg.gov.tw/File/directDownload/e2788d2a-b31f-4c95-8c2b-cef137f0c061"
+      ]
+    },
+    {
+      "id": "169081",
+      "name": "高雄市113年科技執法區間平均速率執法設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d96f572a-731d-434a-9f92-0177ca2de31b",
+        "https://data.kcg.gov.tw/File/directDownload/d96f572a-731d-434a-9f92-0177ca2de31b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/03d76cca-f335-443b-b87a-43717f23b436",
+        "https://data.kcg.gov.tw/File/directDownload/03d76cca-f335-443b-b87a-43717f23b436",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2cf2812e-e23c-4bea-937c-69ae07a2012f",
+        "https://data.kcg.gov.tw/File/directDownload/2cf2812e-e23c-4bea-937c-69ae07a2012f",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b1ef90e6-9267-4a44-b127-9122d7c23b62",
+        "https://data.kcg.gov.tw/File/directDownload/b1ef90e6-9267-4a44-b127-9122d7c23b62",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/db974ed0-32a8-4ee3-b22d-c03bf33709fe",
+        "https://data.kcg.gov.tw/File/directDownload/db974ed0-32a8-4ee3-b22d-c03bf33709fe"
+      ]
+    },
+    {
+      "id": "166348",
+      "name": "高雄市112年路口科技執法設備設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8cd64be2-4fbc-4690-9664-ccf20bd25cfc",
+        "https://data.kcg.gov.tw/File/directDownload/8cd64be2-4fbc-4690-9664-ccf20bd25cfc"
+      ]
+    },
+    {
+      "id": "166353",
+      "name": "高雄市112年科技執法區間平均速率執法設備設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/db656d64-7367-40bf-b75a-3efc2c14f007",
+        "https://data.kcg.gov.tw/File/DirectDownload/db656d64-7367-40bf-b75a-3efc2c14f007"
+      ]
+    },
+    {
+      "id": "166354",
+      "name": "高雄市112年交通局建置科技執法設備設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/62c30182-609e-4fb8-9826-a4b53cfeb179",
+        "https://data.kcg.gov.tw/File/directDownload/62c30182-609e-4fb8-9826-a4b53cfeb179"
+      ]
+    },
+    {
+      "id": "166869",
+      "name": "高雄市112年科技執法區間平均速率執法設備設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/af2b50ea-77d5-4038-8b14-70f2c4c2eb2c",
+        "https://data.kcg.gov.tw/File/directDownload/af2b50ea-77d5-4038-8b14-70f2c4c2eb2c"
+      ]
+    },
+    {
+      "id": "166874",
+      "name": "高雄市112年租賃式闖紅燈科技執法照相設備設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9ca0efc0-0ec2-48a4-ba6a-bd34661f045b",
+        "https://data.kcg.gov.tw/File/directDownload/9ca0efc0-0ec2-48a4-ba6a-bd34661f045b"
+      ]
+    },
+    {
+      "id": "176558",
+      "name": "高雄市115年交通局建置科技執法設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e67e1f3d-94ca-461d-9e59-10bc10d6a0bf",
+        "https://data.kcg.gov.tw/File/directDownload/e67e1f3d-94ca-461d-9e59-10bc10d6a0bf"
+      ]
+    },
+    {
+      "id": "168430",
+      "name": "高雄市108年5月至8月旗津區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/088dcc2c-17d2-4c53-9326-daa056f2112e",
+        "https://data.kcg.gov.tw/File/directDownload/088dcc2c-17d2-4c53-9326-daa056f2112e"
+      ]
+    },
+    {
+      "id": "168432",
+      "name": "高雄市108年5月至8月鹽埕區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/061a738f-d8e7-4ad7-8fa0-1dc6dc583f21",
+        "https://data.kcg.gov.tw/File/directDownload/061a738f-d8e7-4ad7-8fa0-1dc6dc583f21"
+      ]
+    },
+    {
+      "id": "168433",
+      "name": "高雄市108年5月至8月彌陀區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b61c29a8-4ea8-49fa-9616-42b3038a77c9",
+        "https://data.kcg.gov.tw/File/directDownload/b61c29a8-4ea8-49fa-9616-42b3038a77c9"
+      ]
+    },
+    {
+      "id": "168434",
+      "name": "高雄市108年5月至8月燕巢區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/46bd22c0-7956-42f5-b1ff-0fcb175ed170",
+        "https://data.kcg.gov.tw/File/directDownload/46bd22c0-7956-42f5-b1ff-0fcb175ed170"
+      ]
+    },
+    {
+      "id": "168435",
+      "name": "高雄市108年5月至8月橋頭區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/46d1bcdf-28a9-49d9-b504-32b44bbac9b3",
+        "https://data.kcg.gov.tw/File/directDownload/46d1bcdf-28a9-49d9-b504-32b44bbac9b3"
+      ]
+    },
+    {
+      "id": "168436",
+      "name": "高雄市108年1月至4月燕巢區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d5dbac5d-8612-4cea-867a-5e20c79dccf3",
+        "https://data.kcg.gov.tw/File/directDownload/d5dbac5d-8612-4cea-867a-5e20c79dccf3"
+      ]
+    },
+    {
+      "id": "168439",
+      "name": "高雄市108年1月至4月大樹區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3af8abf5-b3ce-4a33-8d4a-2ff30ec2835f",
+        "https://data.kcg.gov.tw/File/directDownload/3af8abf5-b3ce-4a33-8d4a-2ff30ec2835f"
+      ]
+    },
+    {
+      "id": "168440",
+      "name": "高雄市108年1月至4月小港區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e349a3da-0561-41f4-9559-4def9673e5e4",
+        "https://data.kcg.gov.tw/File/directDownload/e349a3da-0561-41f4-9559-4def9673e5e4"
+      ]
+    },
+    {
+      "id": "168441",
+      "name": "高雄市108年1月至4月仁武區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e3a75ada-efe9-4e6f-b43c-1148638bb148",
+        "https://data.kcg.gov.tw/File/directDownload/e3a75ada-efe9-4e6f-b43c-1148638bb148"
+      ]
+    },
+    {
+      "id": "168442",
+      "name": "高雄市108年1月至4月左營區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f3f2ada-784d-4bc1-93fb-dda8a7fea88a",
+        "https://data.kcg.gov.tw/File/directDownload/5f3f2ada-784d-4bc1-93fb-dda8a7fea88a"
+      ]
+    },
+    {
+      "id": "171278",
+      "name": "高雄市區間測速路段科技執法舉發件數一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7fee6220-e035-48d1-ae17-d6d5e9ecaefb",
+        "https://data.kcg.gov.tw/File/DirectDownload/7fee6220-e035-48d1-ae17-d6d5e9ecaefb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ba65971-d458-4d11-8f19-f98242f90931",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ba65971-d458-4d11-8f19-f98242f90931"
+      ]
+    },
+    {
+      "id": "168403",
+      "name": "高雄市108年5月至8月小港區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0d14661d-60a5-4ea9-863f-3bf354b4e412",
+        "https://data.kcg.gov.tw/File/directDownload/0d14661d-60a5-4ea9-863f-3bf354b4e412"
+      ]
+    },
+    {
+      "id": "168404",
+      "name": "高雄市108年5月至8月仁武區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f69ca0a3-6097-434f-8943-10c1e9e90a6b",
+        "https://data.kcg.gov.tw/File/directDownload/f69ca0a3-6097-434f-8943-10c1e9e90a6b"
+      ]
+    },
+    {
+      "id": "168407",
+      "name": "高雄市108年5月至8月左營區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9b7b7bdf-9130-45dc-80ee-dd09f1b24542",
+        "https://data.kcg.gov.tw/File/directDownload/9b7b7bdf-9130-45dc-80ee-dd09f1b24542"
+      ]
+    },
+    {
+      "id": "168409",
+      "name": "高雄市108年5月至8月田寮區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bb5d4211-b9a5-4fa4-95b6-e72acf76d055",
+        "https://data.kcg.gov.tw/File/directDownload/bb5d4211-b9a5-4fa4-95b6-e72acf76d055"
+      ]
+    },
+    {
+      "id": "168411",
+      "name": "高雄市108年5月至8月杉林區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1dc7890c-35d2-44bc-bc42-82102ab6b166",
+        "https://data.kcg.gov.tw/File/directDownload/1dc7890c-35d2-44bc-bc42-82102ab6b166"
+      ]
+    },
+    {
+      "id": "168412",
+      "name": "高雄市108年5月至8月那瑪夏區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cbcf4f36-7786-43ac-9412-d852f49490c7",
+        "https://data.kcg.gov.tw/File/directDownload/cbcf4f36-7786-43ac-9412-d852f49490c7"
+      ]
+    },
+    {
+      "id": "168418",
+      "name": "高雄市108年5月至8月美濃區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a2a2af89-c9d4-454c-8196-82fd01eef42f",
+        "https://data.kcg.gov.tw/File/directDownload/a2a2af89-c9d4-454c-8196-82fd01eef42f"
+      ]
+    },
+    {
+      "id": "168419",
+      "name": "高雄市108年5月至8月苓雅區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b0a012f3-358b-4b43-b03a-038f81c7e073",
+        "https://data.kcg.gov.tw/File/directDownload/b0a012f3-358b-4b43-b03a-038f81c7e073"
+      ]
+    },
+    {
+      "id": "168420",
+      "name": "高雄市108年5月至8月茄萣區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d33d99c8-a37e-4d89-ae07-5c8dfb42de36",
+        "https://data.kcg.gov.tw/File/directDownload/d33d99c8-a37e-4d89-ae07-5c8dfb42de36"
+      ]
+    },
+    {
+      "id": "168421",
+      "name": "高雄市108年5月至8月桃源區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5cdbdc6b-54cc-4632-8275-484f17c5ceaa",
+        "https://data.kcg.gov.tw/File/directDownload/5cdbdc6b-54cc-4632-8275-484f17c5ceaa"
+      ]
+    },
+    {
+      "id": "168423",
+      "name": "高雄市108年5月至8月鳥松區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9efa8f90-6cce-43a9-aaf9-088ae068a354",
+        "https://data.kcg.gov.tw/File/directDownload/9efa8f90-6cce-43a9-aaf9-088ae068a354"
+      ]
+    },
+    {
+      "id": "168424",
+      "name": "高雄市108年5月至8月湖內區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/65074ab9-0eb6-406e-ae7c-293ad10e7918",
+        "https://data.kcg.gov.tw/File/directDownload/65074ab9-0eb6-406e-ae7c-293ad10e7918"
+      ]
+    },
+    {
+      "id": "168425",
+      "name": "高雄市108年5月至8月新興區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d50948b5-e69e-4fb2-a5ea-6ed61abb8492",
+        "https://data.kcg.gov.tw/File/directDownload/d50948b5-e69e-4fb2-a5ea-6ed61abb8492"
+      ]
+    },
+    {
+      "id": "168445",
+      "name": "高雄市108年1月至4月阿蓮區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/19445da7-57c1-44f5-b18c-5a0fedc862fa",
+        "https://data.kcg.gov.tw/File/directDownload/19445da7-57c1-44f5-b18c-5a0fedc862fa"
+      ]
+    },
+    {
+      "id": "168449",
+      "name": "高雄市108年1月至4月橋頭區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7b0e5692-e617-4bff-92b5-62aba896e6bd",
+        "https://data.kcg.gov.tw/File/directDownload/7b0e5692-e617-4bff-92b5-62aba896e6bd"
+      ]
+    },
+    {
+      "id": "168453",
+      "name": "高雄市108年1月至4月鼓山區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cf0dae6f-8227-48d6-b7bd-a18658933e83",
+        "https://data.kcg.gov.tw/File/directDownload/cf0dae6f-8227-48d6-b7bd-a18658933e83"
+      ]
+    },
+    {
+      "id": "85425",
+      "name": "高雄市106年度取締闖紅燈前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7e225395-5976-4122-8365-957bf7452fab",
+        "https://data.kcg.gov.tw/File/DirectDownload/7e225395-5976-4122-8365-957bf7452fab"
+      ]
+    },
+    {
+      "id": "85426",
+      "name": "高雄市106年度取締未依規定兩段式左轉前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b02ed672-4dd9-4b21-a956-a0de09cdccc4",
+        "https://data.kcg.gov.tw/File/DirectDownload/b02ed672-4dd9-4b21-a956-a0de09cdccc4"
+      ]
+    },
+    {
+      "id": "85427",
+      "name": "高雄市106年度取締市區超速前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/71bfd3eb-17b2-4710-9eaa-9f5e8371f571",
+        "https://data.kcg.gov.tw/File/DirectDownload/71bfd3eb-17b2-4710-9eaa-9f5e8371f571"
+      ]
+    },
+    {
+      "id": "87205",
+      "name": "高雄市10大易肇事路段肇因分析表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d6755b0d-6a5a-4e66-9d24-a80ba73cc92a",
+        "https://data.kcg.gov.tw/File/DirectDownload/d6755b0d-6a5a-4e66-9d24-a80ba73cc92a"
+      ]
+    },
+    {
+      "id": "87206",
+      "name": "高雄市105年10大易肇事路口肇因分析表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/08f7badf-6724-4cef-b847-809ad774dbcc",
+        "https://data.kcg.gov.tw/File/DirectDownload/08f7badf-6724-4cef-b847-809ad774dbcc"
+      ]
+    },
+    {
+      "id": "87207",
+      "name": "高雄市106年2月取締酒駕情形",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d4e62686-6e6a-441d-9738-e8823f1019c9",
+        "https://data.kcg.gov.tw/File/DirectDownload/d4e62686-6e6a-441d-9738-e8823f1019c9"
+      ]
+    },
+    {
+      "id": "47106",
+      "name": "高雄市105年度取締闖紅燈前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f15a711d-0d7e-4e1e-a9ce-3e33f677c962",
+        "https://data.kcg.gov.tw/File/DirectDownload/f15a711d-0d7e-4e1e-a9ce-3e33f677c962"
+      ]
+    },
+    {
+      "id": "47198",
+      "name": "高雄市104年前50大易肇事路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5e3b2e01-5733-4dcc-acf5-b82ade545207",
+        "https://data.kcg.gov.tw/File/DirectDownload/5e3b2e01-5733-4dcc-acf5-b82ade545207"
+      ]
+    },
+    {
+      "id": "47201",
+      "name": "高雄市101年前50大易肇事路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a089149a-2873-4698-9c2d-86fe9323ecff",
+        "https://data.kcg.gov.tw/File/DirectDownload/a089149a-2873-4698-9c2d-86fe9323ecff"
+      ]
+    },
+    {
+      "id": "47206",
+      "name": "高雄市104年度取締闖紅燈前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e010267e-efc7-4943-8f2a-ad2f5f4fcc03",
+        "https://data.kcg.gov.tw/File/DirectDownload/e010267e-efc7-4943-8f2a-ad2f5f4fcc03"
+      ]
+    },
+    {
+      "id": "47213",
+      "name": "高雄市104年度發生交通事故前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/da685ad9-bedb-4e28-9885-9c3c0e8fb73c",
+        "https://data.kcg.gov.tw/File/DirectDownload/da685ad9-bedb-4e28-9885-9c3c0e8fb73c"
+      ]
+    },
+    {
+      "id": "104513",
+      "name": "高雄市湖內區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/78f61295-7922-46a0-b116-dc7cd65cafad",
+        "https://data.kcg.gov.tw/File/directDownload/78f61295-7922-46a0-b116-dc7cd65cafad"
+      ]
+    },
+    {
+      "id": "104514",
+      "name": "高雄市鳥松區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d91dd569-00a0-463f-9c6b-c2ad03bf063f",
+        "https://data.kcg.gov.tw/File/directDownload/d91dd569-00a0-463f-9c6b-c2ad03bf063f"
+      ]
+    },
+    {
+      "id": "104518",
+      "name": "高雄市前鎮區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b1b0ec18-9a7f-467d-a661-ad35e160e023",
+        "https://data.kcg.gov.tw/File/directDownload/b1b0ec18-9a7f-467d-a661-ad35e160e023"
+      ]
+    },
+    {
+      "id": "104520",
+      "name": "高雄市林園區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/acb9eec7-66b9-4e79-8a94-e1d94bdbf8f7",
+        "https://data.kcg.gov.tw/File/directDownload/acb9eec7-66b9-4e79-8a94-e1d94bdbf8f7"
+      ]
+    },
+    {
+      "id": "104521",
+      "name": "高雄市岡山區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9594ec2e-9eaa-4ea4-9472-30f434b2608c",
+        "https://data.kcg.gov.tw/File/directDownload/9594ec2e-9eaa-4ea4-9472-30f434b2608c"
+      ]
+    },
+    {
+      "id": "104528",
+      "name": "高雄市小港區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f2f209b-f3a3-4665-b47d-69c4551b16b1",
+        "https://data.kcg.gov.tw/File/directDownload/5f2f209b-f3a3-4665-b47d-69c4551b16b1"
+      ]
+    },
+    {
+      "id": "104530",
+      "name": "高雄市大寮區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/539b9443-5516-4813-9633-915c816dccd4",
+        "https://data.kcg.gov.tw/File/directDownload/539b9443-5516-4813-9633-915c816dccd4"
+      ]
+    },
+    {
+      "id": "104531",
+      "name": "高雄市大社區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c3d54bcf-62de-4b9b-9420-7e78400c8687",
+        "https://data.kcg.gov.tw/File/directDownload/c3d54bcf-62de-4b9b-9420-7e78400c8687"
+      ]
+    },
+    {
+      "id": "104532",
+      "name": "高雄市三民區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/689d8ca7-fb4e-427b-9d76-a2e635fe0dfe",
+        "https://data.kcg.gov.tw/File/directDownload/689d8ca7-fb4e-427b-9d76-a2e635fe0dfe"
+      ]
+    },
+    {
+      "id": "104533",
+      "name": "高雄市107年固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/af9cd58a-c156-40ea-ab39-50e5881e0193",
+        "https://data.kcg.gov.tw/File/DirectDownload/af9cd58a-c156-40ea-ab39-50e5881e0193"
+      ]
+    },
+    {
+      "id": "104534",
+      "name": "高雄市108年鹽埕分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/de7be114-8d75-4715-94d0-ccbb790da96e",
+        "https://data.kcg.gov.tw/File/DirectDownload/de7be114-8d75-4715-94d0-ccbb790da96e"
+      ]
+    },
+    {
+      "id": "104535",
+      "name": "高雄市108年鳳山分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/42a196b7-43d6-4d65-a760-ddafd3d9958f",
+        "https://data.kcg.gov.tw/File/DirectDownload/42a196b7-43d6-4d65-a760-ddafd3d9958f"
+      ]
+    },
+    {
+      "id": "104536",
+      "name": "高雄市108年旗山分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/08b1be1c-9cb2-40cf-84f5-2d64c0d6807e",
+        "https://data.kcg.gov.tw/File/DirectDownload/08b1be1c-9cb2-40cf-84f5-2d64c0d6807e"
+      ]
+    },
+    {
+      "id": "104537",
+      "name": "高雄市108年鼓山分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b260a4f4-9f2a-4362-a379-d5f151b50ae8",
+        "https://data.kcg.gov.tw/File/DirectDownload/b260a4f4-9f2a-4362-a379-d5f151b50ae8"
+      ]
+    },
+    {
+      "id": "104538",
+      "name": "高雄市108年楠梓分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/aa168c9d-0acc-4fc9-a9ff-0abf5e684eb7",
+        "https://data.kcg.gov.tw/File/DirectDownload/aa168c9d-0acc-4fc9-a9ff-0abf5e684eb7"
+      ]
+    },
+    {
+      "id": "104541",
+      "name": "高雄市108年苓雅分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bba2b869-41a4-462a-891b-1cd09943bb8c",
+        "https://data.kcg.gov.tw/File/DirectDownload/bba2b869-41a4-462a-891b-1cd09943bb8c"
+      ]
+    },
+    {
+      "id": "104684",
+      "name": "高雄市108年度1月至3月A2交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d98d7a35-bc59-418a-874d-f71f25a71b17",
+        "https://data.kcg.gov.tw/File/DirectDownload/d98d7a35-bc59-418a-874d-f71f25a71b17"
+      ]
+    },
+    {
+      "id": "104580",
+      "name": "高雄市105年度A2交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/77687b85-6e1d-44cf-8fbe-1a0d9ed5126e",
+        "https://data.kcg.gov.tw/File/DirectDownload/77687b85-6e1d-44cf-8fbe-1a0d9ed5126e"
+      ]
+    },
+    {
+      "id": "104683",
+      "name": "高雄市108年度1月至3月A3交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e95988ca-21e2-46f6-a7cd-51a9c8689edd",
+        "https://data.kcg.gov.tw/File/DirectDownload/e95988ca-21e2-46f6-a7cd-51a9c8689edd"
+      ]
+    },
+    {
+      "id": "104545",
+      "name": "高雄市108年左營分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dcf716b7-e9bf-4168-9e3d-5c4c2895caae",
+        "https://data.kcg.gov.tw/File/DirectDownload/dcf716b7-e9bf-4168-9e3d-5c4c2895caae"
+      ]
+    },
+    {
+      "id": "104548",
+      "name": "高雄市108年仁武分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0d8f6e97-bea0-461c-a052-2f063eddee48",
+        "https://data.kcg.gov.tw/File/DirectDownload/0d8f6e97-bea0-461c-a052-2f063eddee48"
+      ]
+    },
+    {
+      "id": "104549",
+      "name": "高雄市107年路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b75facfb-4755-452b-90ac-cca9f42d6af5",
+        "https://data.kcg.gov.tw/File/DirectDownload/b75facfb-4755-452b-90ac-cca9f42d6af5"
+      ]
+    },
+    {
+      "id": "104550",
+      "name": "高雄市108年三民一分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d02d60c2-407e-4ab3-bb15-8bcaebe6111b",
+        "https://data.kcg.gov.tw/File/DirectDownload/d02d60c2-407e-4ab3-bb15-8bcaebe6111b"
+      ]
+    },
+    {
+      "id": "104551",
+      "name": "高雄市108年小港分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72be265c-7668-450b-84bb-6e6c06540ccd",
+        "https://data.kcg.gov.tw/File/DirectDownload/72be265c-7668-450b-84bb-6e6c06540ccd"
+      ]
+    },
+    {
+      "id": "104555",
+      "name": "高雄市107年前十大交通路段A3事故統計表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7a030dd1-32f8-4a88-b9bc-fe0204a54d96",
+        "https://data.kcg.gov.tw/File/DirectDownload/7a030dd1-32f8-4a88-b9bc-fe0204a54d96"
+      ]
+    },
+    {
+      "id": "104584",
+      "name": "高雄市104年度A1交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b9a90937-2aaf-46ca-ad38-946932499545",
+        "https://data.kcg.gov.tw/File/DirectDownload/b9a90937-2aaf-46ca-ad38-946932499545"
+      ]
+    },
+    {
+      "id": "104586",
+      "name": "高雄市103年度A1交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7632cf58-81a3-4021-a067-23282282acf0",
+        "https://data.kcg.gov.tw/File/DirectDownload/7632cf58-81a3-4021-a067-23282282acf0"
+      ]
+    },
+    {
+      "id": "104266",
+      "name": "高雄市108年A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0aadfbc9-3472-4809-8f80-48ee0a4eed82",
+        "https://data.kcg.gov.tw/File/DirectDownload/0aadfbc9-3472-4809-8f80-48ee0a4eed82",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/47969f53-dbfb-4044-8129-8cbc4a7bb3ff",
+        "https://data.kcg.gov.tw/File/DirectDownload/47969f53-dbfb-4044-8129-8cbc4a7bb3ff"
+      ]
+    },
+    {
+      "id": "104242",
+      "name": "高雄市105年度A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/86876fe6-bb52-4eff-af31-4be44707da40",
+        "https://data.kcg.gov.tw/File/DirectDownload/86876fe6-bb52-4eff-af31-4be44707da40"
+      ]
+    },
+    {
+      "id": "102874",
+      "name": "高雄市燕巢區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7b0059b-6fd2-4faa-96fa-d8f1d4199a88",
+        "https://data.kcg.gov.tw/File/directDownload/f7b0059b-6fd2-4faa-96fa-d8f1d4199a88"
+      ]
+    },
+    {
+      "id": "127559",
+      "name": "高雄市109年楠梓分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a9871e3-a1fc-4499-9111-d0cad5c323c8",
+        "https://data.kcg.gov.tw/File/DirectDownload/5a9871e3-a1fc-4499-9111-d0cad5c323c8"
+      ]
+    },
+    {
+      "id": "127560",
+      "name": "高雄市109年新興分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c74d3ee6-4003-4a7e-8052-8547754e557b",
+        "https://data.kcg.gov.tw/File/DirectDownload/c74d3ee6-4003-4a7e-8052-8547754e557b"
+      ]
+    },
+    {
+      "id": "127563",
+      "name": "高雄市109年苓雅分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3a224b29-c618-4e04-b5ce-ba5408bcdf6b",
+        "https://data.kcg.gov.tw/File/DirectDownload/3a224b29-c618-4e04-b5ce-ba5408bcdf6b"
+      ]
+    },
+    {
+      "id": "127564",
+      "name": "高雄市109年前鎮分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e46db15e-2936-45de-97d3-0be75b98943a",
+        "https://data.kcg.gov.tw/File/DirectDownload/e46db15e-2936-45de-97d3-0be75b98943a"
+      ]
+    },
+    {
+      "id": "127570",
+      "name": "高雄市109年仁武分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2bf706a3-0527-4043-b47a-cb94fcdbf6f9",
+        "https://data.kcg.gov.tw/File/DirectDownload/2bf706a3-0527-4043-b47a-cb94fcdbf6f9"
+      ]
+    },
+    {
+      "id": "118231",
+      "name": "高雄市109年固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5dbf35bc-8bc2-4fbf-9204-d82daaa3e23c",
+        "https://data.kcg.gov.tw/File/DirectDownload/5dbf35bc-8bc2-4fbf-9204-d82daaa3e23c"
+      ]
+    },
+    {
+      "id": "118535",
+      "name": "高雄市109年路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a43ecfde-f0a6-42ca-b3ca-4426e53c2f7e",
+        "https://data.kcg.gov.tw/File/DirectDownload/a43ecfde-f0a6-42ca-b3ca-4426e53c2f7e"
+      ]
+    },
+    {
+      "id": "161882",
+      "name": "高雄市112年科技執法限制車種違規駛入監測系統設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d5b44ae2-d739-47fc-b13f-25ad7a331835",
+        "https://data.kcg.gov.tw/File/directDownload/d5b44ae2-d739-47fc-b13f-25ad7a331835"
+      ]
+    },
+    {
+      "id": "161884",
+      "name": "高雄市112年科技執法區間平均速率執法設備設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f740199-b495-4241-a3f2-84ef71ce6bdc",
+        "https://data.kcg.gov.tw/File/directDownload/1f740199-b495-4241-a3f2-84ef71ce6bdc"
+      ]
+    },
+    {
+      "id": "166868",
+      "name": "高雄市112年交通局建置科技執法設備設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/399d5deb-ed50-424f-bc19-e4cedb9a9d54",
+        "https://data.kcg.gov.tw/File/DirectDownload/399d5deb-ed50-424f-bc19-e4cedb9a9d54"
+      ]
+    },
+    {
+      "id": "166871",
+      "name": "高雄市112年科技執法限制車種違規駛入監測系統設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/51dac75a-b3a9-41ca-902d-e1ae3a1a55a9",
+        "https://data.kcg.gov.tw/File/directDownload/51dac75a-b3a9-41ca-902d-e1ae3a1a55a9"
+      ]
+    },
+    {
+      "id": "166875",
+      "name": "高雄市112年不停讓行人科技執法監測系統設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/196a0f0e-2801-46a7-a22d-dba3e6c56d61",
+        "https://data.kcg.gov.tw/File/directDownload/196a0f0e-2801-46a7-a22d-dba3e6c56d61"
+      ]
+    },
+    {
+      "id": "151950",
+      "name": "高雄市111年固定式測照設備設置一覽表第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/76d45ae0-e729-455b-8baa-4a1df26729a7",
+        "https://data.kcg.gov.tw/File/directDownload/76d45ae0-e729-455b-8baa-4a1df26729a7"
+      ]
+    },
+    {
+      "id": "166351",
+      "name": "高雄市112年科技執法限制車種違規駛入監測系統設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f9a45a87-f1cb-4769-a9e5-093410607d5d",
+        "https://data.kcg.gov.tw/File/directDownload/f9a45a87-f1cb-4769-a9e5-093410607d5d"
+      ]
+    },
+    {
+      "id": "166352",
+      "name": "高雄市112年科技執法「固定式違規照相設備」設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6a4c6d31-e036-4acb-8b0f-f1f5bad8514d",
+        "https://data.kcg.gov.tw/File/directDownload/6a4c6d31-e036-4acb-8b0f-f1f5bad8514d"
+      ]
+    },
+    {
+      "id": "161221",
+      "name": "高雄市112年科技執法限制車種違規駛入監測系統設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/10201b7f-ae3d-41d2-8a16-96fa14c0ea56",
+        "https://data.kcg.gov.tw/File/directDownload/10201b7f-ae3d-41d2-8a16-96fa14c0ea56"
+      ]
+    },
+    {
+      "id": "161223",
+      "name": "高雄市112年科技執法違規停車監測系統設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6648df63-30ca-4d65-8a2b-783411308770",
+        "https://data.kcg.gov.tw/File/directDownload/6648df63-30ca-4d65-8a2b-783411308770"
+      ]
+    },
+    {
+      "id": "161225",
+      "name": "高雄市112年科技執法區間平均速率執法設備設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d13a0265-dfa9-479a-8062-ce783d6c0553",
+        "https://data.kcg.gov.tw/File/directDownload/d13a0265-dfa9-479a-8062-ce783d6c0553"
+      ]
+    },
+    {
+      "id": "161226",
+      "name": "高雄市112年路口科技執法設備設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/33b8e467-b400-4df7-b1d9-1e51cda9e7dd",
+        "https://data.kcg.gov.tw/File/directDownload/33b8e467-b400-4df7-b1d9-1e51cda9e7dd"
+      ]
+    },
+    {
+      "id": "145874",
+      "name": "高雄市110年固定式測照設備設置一覽表第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b971fb9e-211c-4aef-bf04-0676a2183923",
+        "https://data.kcg.gov.tw/File/DirectDownload/b971fb9e-211c-4aef-bf04-0676a2183923"
+      ]
+    },
+    {
+      "id": "145883",
+      "name": "高雄市110年旗山分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/07e477ef-787c-420b-ba3c-95314b050abb",
+        "https://data.kcg.gov.tw/File/DirectDownload/07e477ef-787c-420b-ba3c-95314b050abb"
+      ]
+    },
+    {
+      "id": "145887",
+      "name": "高雄市110年湖內分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3f5dcd9d-c054-4885-912a-60483282e568",
+        "https://data.kcg.gov.tw/File/DirectDownload/3f5dcd9d-c054-4885-912a-60483282e568"
+      ]
+    },
+    {
+      "id": "145889",
+      "name": "高雄市110年前鎮分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/916eea41-f5ed-428c-8cd0-920cc85bc649",
+        "https://data.kcg.gov.tw/File/DirectDownload/916eea41-f5ed-428c-8cd0-920cc85bc649"
+      ]
+    },
+    {
+      "id": "145890",
+      "name": "高雄市110年林園分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/878fe34a-22e9-46f9-bc11-3d7b806eb132",
+        "https://data.kcg.gov.tw/File/DirectDownload/878fe34a-22e9-46f9-bc11-3d7b806eb132"
+      ]
+    },
+    {
+      "id": "145892",
+      "name": "高雄市110年左營分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/edaf108c-f7b0-4e24-a0cf-9d6da52a87c0",
+        "https://data.kcg.gov.tw/File/DirectDownload/edaf108c-f7b0-4e24-a0cf-9d6da52a87c0"
+      ]
+    },
+    {
+      "id": "145893",
+      "name": "高雄市110年六龜分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/794e9c78-cb38-4182-9968-a63466be773d",
+        "https://data.kcg.gov.tw/File/DirectDownload/794e9c78-cb38-4182-9968-a63466be773d"
+      ]
+    },
+    {
+      "id": "145894",
+      "name": "高雄市110年仁武分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/beaefb58-688f-456b-a957-8278126e8bb7",
+        "https://data.kcg.gov.tw/File/DirectDownload/beaefb58-688f-456b-a957-8278126e8bb7"
+      ]
+    },
+    {
+      "id": "146882",
+      "name": "高雄市110違規停車監測系統設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f8a4dc64-b48a-46c2-ae10-82445160e894",
+        "https://data.kcg.gov.tw/File/directDownload/f8a4dc64-b48a-46c2-ae10-82445160e894"
+      ]
+    },
+    {
+      "id": "146886",
+      "name": "高雄市110年固定式測照設備設置一覽表第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ec58e1ea-b48e-4ddf-a2b7-acfa3e834d87",
+        "https://data.kcg.gov.tw/File/DirectDownload/ec58e1ea-b48e-4ddf-a2b7-acfa3e834d87"
+      ]
+    },
+    {
+      "id": "156396",
+      "name": "高雄市三民區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85905afe-df64-40f5-9ed2-cbd63985520d",
+        "https://data.kcg.gov.tw/File/directDownload/85905afe-df64-40f5-9ed2-cbd63985520d"
+      ]
+    },
+    {
+      "id": "160171",
+      "name": "高雄市111年交通局建置科技執法設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d86000b8-ba15-4260-80b8-c53c68efaedf",
+        "https://data.kcg.gov.tw/File/directDownload/d86000b8-ba15-4260-80b8-c53c68efaedf"
+      ]
+    },
+    {
+      "id": "145111",
+      "name": "高雄市109年交通路段前十大事故比較表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c170a27c-a204-4923-822f-d0649595773b",
+        "https://data.kcg.gov.tw/File/DirectDownload/c170a27c-a204-4923-822f-d0649595773b"
+      ]
+    },
+    {
+      "id": "145112",
+      "name": "高雄市109年交通路口前十大事故比較表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f73e3c0f-c30c-4a2c-ac4d-6f72ba0a6f5f",
+        "https://data.kcg.gov.tw/File/DirectDownload/f73e3c0f-c30c-4a2c-ac4d-6f72ba0a6f5f"
+      ]
+    },
+    {
+      "id": "157269",
+      "name": "高雄市鹽埕區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/00c83ce6-bb6c-417b-ac20-6d24e208bab5",
+        "https://data.kcg.gov.tw/File/directDownload/00c83ce6-bb6c-417b-ac20-6d24e208bab5"
+      ]
+    },
+    {
+      "id": "157271",
+      "name": "高雄市燕巢區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f3483d1-4f2e-4c82-9c1e-2983e036f4fc",
+        "https://data.kcg.gov.tw/File/directDownload/0f3483d1-4f2e-4c82-9c1e-2983e036f4fc"
+      ]
+    },
+    {
+      "id": "157276",
+      "name": "高雄市鼓山區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/da07a565-7439-4b17-95aa-84e559cbca01",
+        "https://data.kcg.gov.tw/File/directDownload/da07a565-7439-4b17-95aa-84e559cbca01"
+      ]
+    },
+    {
+      "id": "157294",
+      "name": "高雄市永安區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c76bba22-479f-4d25-8b30-1c07d862aac5",
+        "https://data.kcg.gov.tw/File/directDownload/c76bba22-479f-4d25-8b30-1c07d862aac5"
+      ]
+    },
+    {
+      "id": "157296",
+      "name": "高雄市六龜區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c1ba8469-a003-4de2-ba02-aaba0c89a7b7",
+        "https://data.kcg.gov.tw/File/directDownload/c1ba8469-a003-4de2-ba02-aaba0c89a7b7"
+      ]
+    },
+    {
+      "id": "157299",
+      "name": "高雄市小港區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6c268b6e-d4c1-4095-a254-71e74df774da",
+        "https://data.kcg.gov.tw/File/directDownload/6c268b6e-d4c1-4095-a254-71e74df774da"
+      ]
+    },
+    {
+      "id": "157300",
+      "name": "高雄市大樹區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ee72430d-9ef9-4da4-9f70-0d8e7b090456",
+        "https://data.kcg.gov.tw/File/directDownload/ee72430d-9ef9-4da4-9f70-0d8e7b090456"
+      ]
+    },
+    {
+      "id": "157304",
+      "name": "高雄市109年鹽埕區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0a0f4346-5bfe-409d-9dbe-fe6091ac5e13",
+        "https://data.kcg.gov.tw/File/DirectDownload/0a0f4346-5bfe-409d-9dbe-fe6091ac5e13"
+      ]
+    },
+    {
+      "id": "157310",
+      "name": "高雄市109年旗山區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5ce60345-d32e-4f2e-9256-a011d697d15a",
+        "https://data.kcg.gov.tw/File/DirectDownload/5ce60345-d32e-4f2e-9256-a011d697d15a"
+      ]
+    },
+    {
+      "id": "157311",
+      "name": "高雄市109年路竹區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1c437d44-3814-491a-98d6-ff0d712ca982",
+        "https://data.kcg.gov.tw/File/DirectDownload/1c437d44-3814-491a-98d6-ff0d712ca982"
+      ]
+    },
+    {
+      "id": "157278",
+      "name": "高雄市楠梓區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1d10f1e3-2c23-4e60-9d07-f67e3f5c1c3e",
+        "https://data.kcg.gov.tw/File/directDownload/1d10f1e3-2c23-4e60-9d07-f67e3f5c1c3e"
+      ]
+    },
+    {
+      "id": "157283",
+      "name": "高雄茄萣區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ea998ee8-924c-48b0-9c61-59c24444ddd6",
+        "https://data.kcg.gov.tw/File/directDownload/ea998ee8-924c-48b0-9c61-59c24444ddd6"
+      ]
+    },
+    {
+      "id": "157285",
+      "name": "高雄市美濃區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/72c13c17-34bb-4e1f-9417-81f143abe200",
+        "https://data.kcg.gov.tw/File/directDownload/72c13c17-34bb-4e1f-9417-81f143abe200"
+      ]
+    },
+    {
+      "id": "157289",
+      "name": "高雄市林園區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/97791d65-c986-49c1-b6fa-dc0347436290",
+        "https://data.kcg.gov.tw/File/DirectDownload/97791d65-c986-49c1-b6fa-dc0347436290"
+      ]
+    },
+    {
+      "id": "157291",
+      "name": "高雄市杉林區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/581f82fd-6561-4021-a5b7-fe51af3c1b76",
+        "https://data.kcg.gov.tw/File/directDownload/581f82fd-6561-4021-a5b7-fe51af3c1b76"
+      ]
+    },
+    {
+      "id": "157314",
+      "name": "高雄市109年新興區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ba5c2e1f-e68a-44d9-99d0-ba49bac2dcfc",
+        "https://data.kcg.gov.tw/File/DirectDownload/ba5c2e1f-e68a-44d9-99d0-ba49bac2dcfc"
+      ]
+    },
+    {
+      "id": "157316",
+      "name": "高雄市109年鳥松區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/85318c28-3028-4f2a-9da5-7ba1b488742c",
+        "https://data.kcg.gov.tw/File/DirectDownload/85318c28-3028-4f2a-9da5-7ba1b488742c"
+      ]
+    },
+    {
+      "id": "157324",
+      "name": "高雄市109年林園區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/59ea12cc-38cd-414b-a25a-45420097735e",
+        "https://data.kcg.gov.tw/File/DirectDownload/59ea12cc-38cd-414b-a25a-45420097735e"
+      ]
+    },
+    {
+      "id": "157328",
+      "name": "高雄市109年田寮區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9827de86-c3f0-47d4-86cb-aedd1f52ef2b",
+        "https://data.kcg.gov.tw/File/DirectDownload/9827de86-c3f0-47d4-86cb-aedd1f52ef2b"
+      ]
+    },
+    {
+      "id": "157331",
+      "name": "高雄市109年六龜區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2a072bcf-1182-457d-b50d-e8f8bfc79d25",
+        "https://data.kcg.gov.tw/File/DirectDownload/2a072bcf-1182-457d-b50d-e8f8bfc79d25"
+      ]
+    },
+    {
+      "id": "157332",
+      "name": "高雄市109年內門區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d10ffdce-3894-49e5-a054-754756b964bd",
+        "https://data.kcg.gov.tw/File/DirectDownload/d10ffdce-3894-49e5-a054-754756b964bd"
+      ]
+    },
+    {
+      "id": "157333",
+      "name": "高雄市109年仁武區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5281d57e-739f-4ebe-80a0-326a2498a94f",
+        "https://data.kcg.gov.tw/File/DirectDownload/5281d57e-739f-4ebe-80a0-326a2498a94f"
+      ]
+    },
+    {
+      "id": "157334",
+      "name": "高雄市109年小港區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9ebe0ba1-9bb9-4f8b-8a82-91e4d748b872",
+        "https://data.kcg.gov.tw/File/DirectDownload/9ebe0ba1-9bb9-4f8b-8a82-91e4d748b872"
+      ]
+    },
+    {
+      "id": "157336",
+      "name": "高雄市109年大寮區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/28f7513d-17e5-4875-8a8c-6528dd9f27a7",
+        "https://data.kcg.gov.tw/File/DirectDownload/28f7513d-17e5-4875-8a8c-6528dd9f27a7"
+      ]
+    },
+    {
+      "id": "157346",
+      "name": "高雄市110年小港分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/721db2c2-3340-4d61-b8ae-141f29444ac3",
+        "https://data.kcg.gov.tw/File/DirectDownload/721db2c2-3340-4d61-b8ae-141f29444ac3"
+      ]
+    },
+    {
+      "id": "157347",
+      "name": "高雄市110年湖內分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9e025edd-b0ef-498b-a550-aacf2e79a71b",
+        "https://data.kcg.gov.tw/File/DirectDownload/9e025edd-b0ef-498b-a550-aacf2e79a71b"
+      ]
+    },
+    {
+      "id": "157350",
+      "name": "高雄市110年楠梓分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e4fe3476-9a9d-4410-ad15-d949210d944f",
+        "https://data.kcg.gov.tw/File/DirectDownload/e4fe3476-9a9d-4410-ad15-d949210d944f"
+      ]
+    },
+    {
+      "id": "157354",
+      "name": "高雄市110年六龜分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2805c786-1e0c-42d4-be14-32a1bfd13811",
+        "https://data.kcg.gov.tw/File/DirectDownload/2805c786-1e0c-42d4-be14-32a1bfd13811"
+      ]
+    },
+    {
+      "id": "157355",
+      "name": "高雄市110年三民二分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3d0b7e2-fc74-4c95-b503-18982773acad",
+        "https://data.kcg.gov.tw/File/DirectDownload/a3d0b7e2-fc74-4c95-b503-18982773acad"
+      ]
+    },
+    {
+      "id": "157360",
+      "name": "高雄市108年防空疏散避難設施數量及容量",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/43ad4d1d-bbf4-42e7-bbf0-b6f9120249bc",
+        "https://data.kcg.gov.tw/File/DirectDownload/43ad4d1d-bbf4-42e7-bbf0-b6f9120249bc"
+      ]
+    },
+    {
+      "id": "148457",
+      "name": "高雄市111年「違規停車」監測系統設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c13c0197-f373-4beb-98bc-7cbd9b50f690",
+        "https://data.kcg.gov.tw/File/directDownload/c13c0197-f373-4beb-98bc-7cbd9b50f690"
+      ]
+    },
+    {
+      "id": "148458",
+      "name": "高雄市111年「機車違規行駛警示系統」固定式科技執法設備設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/20da6fe9-e6c1-4f7a-a918-17f1cf9517e7",
+        "https://data.kcg.gov.tw/File/directDownload/20da6fe9-e6c1-4f7a-a918-17f1cf9517e7"
+      ]
+    },
+    {
+      "id": "148459",
+      "name": "高雄市111年科技執法區間平均速率執法設備設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0019dcb6-7a63-4fa7-8bb0-c03b35626d7f",
+        "https://data.kcg.gov.tw/File/directDownload/0019dcb6-7a63-4fa7-8bb0-c03b35626d7f"
+      ]
+    },
+    {
+      "id": "169078",
+      "name": "高雄市113年科技執法違規停車監測系統設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1f2bfed8-72aa-4a1d-9233-0145a3a21575",
+        "https://data.kcg.gov.tw/File/DirectDownload/1f2bfed8-72aa-4a1d-9233-0145a3a21575",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7e21e994-7338-4166-8819-3f46a9942eb5",
+        "https://data.kcg.gov.tw/File/DirectDownload/7e21e994-7338-4166-8819-3f46a9942eb5",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3e1d3acc-886e-4391-9eb2-4150d20a58cf",
+        "https://data.kcg.gov.tw/File/DirectDownload/3e1d3acc-886e-4391-9eb2-4150d20a58cf",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e5ae675e-f946-44aa-8763-614baaf73f60",
+        "https://data.kcg.gov.tw/File/DirectDownload/e5ae675e-f946-44aa-8763-614baaf73f60",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58b6ec3e-57e9-4c8f-b6ad-f6cdab08ff3f",
+        "https://data.kcg.gov.tw/File/DirectDownload/58b6ec3e-57e9-4c8f-b6ad-f6cdab08ff3f"
+      ]
+    },
+    {
+      "id": "169223",
+      "name": "高雄市113年輕軌沿線建置科技執法設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/33a51bb4-c717-4016-b2cf-08b094679818",
+        "https://data.kcg.gov.tw/File/directDownload/33a51bb4-c717-4016-b2cf-08b094679818",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c0614d95-fdc8-4ecb-a45c-49f70f07651d",
+        "https://data.kcg.gov.tw/File/directDownload/c0614d95-fdc8-4ecb-a45c-49f70f07651d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fb7b6fed-8a7e-4661-8d3d-bf3807d7dc2f",
+        "https://data.kcg.gov.tw/File/directDownload/fb7b6fed-8a7e-4661-8d3d-bf3807d7dc2f"
+      ]
+    },
+    {
+      "id": "168399",
+      "name": "高雄市108年5月至8月三民區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/57a14c27-40b8-4064-86cf-8d0a30ca68cf",
+        "https://data.kcg.gov.tw/File/directDownload/57a14c27-40b8-4064-86cf-8d0a30ca68cf"
+      ]
+    },
+    {
+      "id": "168400",
+      "name": "高雄市108年5月至8月大社區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8ee366a8-366c-40d6-9347-4495afd0d6de",
+        "https://data.kcg.gov.tw/File/directDownload/8ee366a8-366c-40d6-9347-4495afd0d6de"
+      ]
+    },
+    {
+      "id": "168402",
+      "name": "高雄市108年5月至8月大樹區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ee089889-f552-41dd-b2ab-46ff804b9a70",
+        "https://data.kcg.gov.tw/File/directDownload/ee089889-f552-41dd-b2ab-46ff804b9a70"
+      ]
+    },
+    {
+      "id": "168405",
+      "name": "高雄市108年5月至8月內門區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6af101f7-15bc-4c26-97fc-a0e080aaec75",
+        "https://data.kcg.gov.tw/File/directDownload/6af101f7-15bc-4c26-97fc-a0e080aaec75"
+      ]
+    },
+    {
+      "id": "168406",
+      "name": "高雄市108年5月至8月六龜區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9cb181e8-b1bb-413f-aece-95764783144e",
+        "https://data.kcg.gov.tw/File/directDownload/9cb181e8-b1bb-413f-aece-95764783144e"
+      ]
+    },
+    {
+      "id": "168408",
+      "name": "高雄市108年5月至8月永安區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f4bac83b-8df2-4c13-b057-01a1d0e5d7bd",
+        "https://data.kcg.gov.tw/File/directDownload/f4bac83b-8df2-4c13-b057-01a1d0e5d7bd"
+      ]
+    },
+    {
+      "id": "168447",
+      "name": "高雄市108年1月至4月苓雅區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bcbd230c-470e-486b-82c2-f8bc0f99b9c3",
+        "https://data.kcg.gov.tw/File/directDownload/bcbd230c-470e-486b-82c2-f8bc0f99b9c3"
+      ]
+    },
+    {
+      "id": "168452",
+      "name": "高雄市108年1月至4月旗山區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2b17a634-85cc-4845-9873-410e0381bb47",
+        "https://data.kcg.gov.tw/File/directDownload/2b17a634-85cc-4845-9873-410e0381bb47"
+      ]
+    },
+    {
+      "id": "168455",
+      "name": "高雄市108年1月至4月楠梓區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/313ab5fd-6d95-41d4-a436-e216850d51dd",
+        "https://data.kcg.gov.tw/File/directDownload/313ab5fd-6d95-41d4-a436-e216850d51dd"
+      ]
+    },
+    {
+      "id": "168456",
+      "name": "高雄市108年1月至4月新興區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/17691081-1e16-45c0-ad7f-02bf2c110712",
+        "https://data.kcg.gov.tw/File/directDownload/17691081-1e16-45c0-ad7f-02bf2c110712"
+      ]
+    },
+    {
+      "id": "168414",
+      "name": "高雄市108年5月至8月林園區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d4a1bc47-cd77-41e2-a421-48e49d57b30e",
+        "https://data.kcg.gov.tw/File/directDownload/d4a1bc47-cd77-41e2-a421-48e49d57b30e"
+      ]
+    },
+    {
+      "id": "168415",
+      "name": "高雄市108年5月至8月阿蓮區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9ba6b36c-6cf7-4df1-b958-e900122a553b",
+        "https://data.kcg.gov.tw/File/directDownload/9ba6b36c-6cf7-4df1-b958-e900122a553b"
+      ]
+    },
+    {
+      "id": "168416",
+      "name": "高雄市108年5月至8月前金區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/06b48f4b-40f5-4071-971b-e8539de5247c",
+        "https://data.kcg.gov.tw/File/directDownload/06b48f4b-40f5-4071-971b-e8539de5247c"
+      ]
+    },
+    {
+      "id": "168417",
+      "name": "高雄市108年5月至8月前鎮區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bd4741ea-714f-42f1-822a-9433a1573188",
+        "https://data.kcg.gov.tw/File/directDownload/bd4741ea-714f-42f1-822a-9433a1573188"
+      ]
+    },
+    {
+      "id": "168422",
+      "name": "高雄市108年5月至8月梓官區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/61bc09ba-f5e4-4be2-86bf-c62b198486a5",
+        "https://data.kcg.gov.tw/File/directDownload/61bc09ba-f5e4-4be2-86bf-c62b198486a5"
+      ]
+    },
+    {
+      "id": "168438",
+      "name": "高雄市108年1月至4月大社區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cddbdc20-7f63-46b4-ae2d-fff8718b8ed6",
+        "https://data.kcg.gov.tw/File/directDownload/cddbdc20-7f63-46b4-ae2d-fff8718b8ed6"
+      ]
+    },
+    {
+      "id": "176560",
+      "name": "高雄市115年捷運局輕軌沿線建置科技執法設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/47a810f7-8a2e-4d50-b25e-3f61da15b527",
+        "https://data.kcg.gov.tw/File/directDownload/47a810f7-8a2e-4d50-b25e-3f61da15b527"
+      ]
+    },
+    {
+      "id": "176561",
+      "name": "高雄市115年路口科技執法監測系統設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3f3c2ea2-8e89-4f1c-8705-fe1355200d5e",
+        "https://data.kcg.gov.tw/File/directDownload/3f3c2ea2-8e89-4f1c-8705-fe1355200d5e"
+      ]
+    },
+    {
+      "id": "176549",
+      "name": "高雄市115年「固定式違規照相科技執法設備」設置地點一覽表",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4a1ef169-948d-4d32-9649-3f95f84185a6",
+        "https://data.kcg.gov.tw/File/directDownload/4a1ef169-948d-4d32-9649-3f95f84185a6"
+      ]
+    },
+    {
+      "id": "176553",
+      "name": "高雄市115年「違規停車」監測系統設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dad05d77-563f-402a-8af5-d29a41082d05",
+        "https://data.kcg.gov.tw/File/DirectDownload/dad05d77-563f-402a-8af5-d29a41082d05"
+      ]
+    },
+    {
+      "id": "176555",
+      "name": "高雄市115年不停讓行人科技執法監測系統設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b766f0d4-af4a-467f-a250-c3748ba6d022",
+        "https://data.kcg.gov.tw/File/directDownload/b766f0d4-af4a-467f-a250-c3748ba6d022"
+      ]
+    },
+    {
+      "id": "47203",
+      "name": "高雄市104年度取締併排停車前十大路段",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c030484a-f83a-4bee-bf13-c2e2cc408a49",
+        "https://data.kcg.gov.tw/File/DirectDownload/c030484a-f83a-4bee-bf13-c2e2cc408a49"
+      ]
+    },
+    {
+      "id": "47205",
+      "name": "高雄市104年度取締未依規定兩段式左轉前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/af5309cd-c91c-41e7-91c5-a44ea18db728",
+        "https://data.kcg.gov.tw/File/DirectDownload/af5309cd-c91c-41e7-91c5-a44ea18db728"
+      ]
+    },
+    {
+      "id": "47187",
+      "name": "高雄市105年度取締市區超速前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/38087dc2-991e-4550-ae82-351ed505065c",
+        "https://data.kcg.gov.tw/File/DirectDownload/38087dc2-991e-4550-ae82-351ed505065c"
+      ]
+    },
+    {
+      "id": "47188",
+      "name": "高雄市105年度取締未依規定兩段式左轉前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f2ca275-0be5-43be-ad62-0e1fe71f45e8",
+        "https://data.kcg.gov.tw/File/DirectDownload/0f2ca275-0be5-43be-ad62-0e1fe71f45e8"
+      ]
+    },
+    {
+      "id": "47189",
+      "name": "高雄市105年度取締併排停車前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b6d0ab08-b506-4822-81a1-8a7af56a6e84",
+        "https://data.kcg.gov.tw/File/DirectDownload/b6d0ab08-b506-4822-81a1-8a7af56a6e84"
+      ]
+    },
+    {
+      "id": "47194",
+      "name": "高雄市104年度發生交通事故前十大路段",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ce418e1a-020b-48f9-81bc-91fb91922fcb",
+        "https://data.kcg.gov.tw/File/DirectDownload/ce418e1a-020b-48f9-81bc-91fb91922fcb"
+      ]
+    },
+    {
+      "id": "102875",
+      "name": "高雄市橋頭區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3ffda161-18f5-4ac8-bf8e-ab5e35e41aeb",
+        "https://data.kcg.gov.tw/File/directDownload/3ffda161-18f5-4ac8-bf8e-ab5e35e41aeb"
+      ]
+    },
+    {
+      "id": "102877",
+      "name": "高雄市旗山區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/66336d39-545d-4114-8383-bf507b6d33c1",
+        "https://data.kcg.gov.tw/File/directDownload/66336d39-545d-4114-8383-bf507b6d33c1"
+      ]
+    },
+    {
+      "id": "102878",
+      "name": "高雄市鼓山區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f1d1a349-33b4-41a7-9dd9-3a070c281f89",
+        "https://data.kcg.gov.tw/File/directDownload/f1d1a349-33b4-41a7-9dd9-3a070c281f89"
+      ]
+    },
+    {
+      "id": "102879",
+      "name": "高雄市路竹區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/015428ba-d762-4ba7-934d-2c7d08e8165d",
+        "https://data.kcg.gov.tw/File/directDownload/015428ba-d762-4ba7-934d-2c7d08e8165d"
+      ]
+    },
+    {
+      "id": "104245",
+      "name": "高雄市106年度A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6854898c-f582-4dac-aa94-a85b6886809e",
+        "https://data.kcg.gov.tw/File/DirectDownload/6854898c-f582-4dac-aa94-a85b6886809e"
+      ]
+    },
+    {
+      "id": "87238",
+      "name": "高雄市91年至105年刑事案件破獲率",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/04cfa01c-a21f-465b-94b7-f925c97496aa",
+        "https://data.kcg.gov.tw/File/directDownload/04cfa01c-a21f-465b-94b7-f925c97496aa"
+      ]
+    },
+    {
+      "id": "87241",
+      "name": "高雄市政府警察局處理家庭暴力績效",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9b2f90a1-e3cc-40c8-b797-eff5174a2281",
+        "https://data.kcg.gov.tw/File/directDownload/9b2f90a1-e3cc-40c8-b797-eff5174a2281"
+      ]
+    },
+    {
+      "id": "87245",
+      "name": "高雄市輔導成立守望相助組織成果",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b2cd369b-4619-461b-8ad7-f7117fc05e9e",
+        "https://data.kcg.gov.tw/File/directDownload/b2cd369b-4619-461b-8ad7-f7117fc05e9e"
+      ]
+    },
+    {
+      "id": "87249",
+      "name": "高雄市取締酒駕及危險駕車勤務",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0e97240b-e2e8-46c5-958c-1f0095debe8c",
+        "https://data.kcg.gov.tw/File/directDownload/0e97240b-e2e8-46c5-958c-1f0095debe8c"
+      ]
+    },
+    {
+      "id": "87252",
+      "name": "高雄市查獲毒品案件",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b12b75c3-5701-4c5b-905e-dde2457dff7c",
+        "https://data.kcg.gov.tw/File/directDownload/b12b75c3-5701-4c5b-905e-dde2457dff7c"
+      ]
+    },
+    {
+      "id": "87264",
+      "name": "高雄市105年度測速照相桿",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1ca48a14-7b55-43e8-98bc-818eae3fd3a8",
+        "https://data.kcg.gov.tw/File/DirectDownload/1ca48a14-7b55-43e8-98bc-818eae3fd3a8"
+      ]
+    },
+    {
+      "id": "85424",
+      "name": "高雄市106年度發生交通事故前十大路段",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7d50e0e5-1896-4ec2-923a-55a6e1578659",
+        "https://data.kcg.gov.tw/File/DirectDownload/7d50e0e5-1896-4ec2-923a-55a6e1578659"
+      ]
+    },
+    {
+      "id": "85428",
+      "name": "高雄市106年度取締併排停車前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/01706d2c-8eaa-4045-b584-d71327dac14d",
+        "https://data.kcg.gov.tw/File/DirectDownload/01706d2c-8eaa-4045-b584-d71327dac14d"
+      ]
+    },
+    {
+      "id": "85429",
+      "name": "高雄市106年度取締酒駕前十大路口",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bec90d00-059b-4d13-9083-fff0b5b7fd8c",
+        "https://data.kcg.gov.tw/File/DirectDownload/bec90d00-059b-4d13-9083-fff0b5b7fd8c"
+      ]
+    },
+    {
+      "id": "104578",
+      "name": "高雄市106年度A2交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8c40c55e-1d6a-4f52-ab98-522fc92e34e0",
+        "https://data.kcg.gov.tw/File/DirectDownload/8c40c55e-1d6a-4f52-ab98-522fc92e34e0"
+      ]
+    },
+    {
+      "id": "104582",
+      "name": "高雄市105年度A1交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f6efe128-f02b-4bd0-96fb-04349e35d618",
+        "https://data.kcg.gov.tw/File/DirectDownload/f6efe128-f02b-4bd0-96fb-04349e35d618"
+      ]
+    },
+    {
+      "id": "104546",
+      "name": "高雄市108年六龜分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/102b9bab-2d30-48b5-baec-be276428fae3",
+        "https://data.kcg.gov.tw/File/DirectDownload/102b9bab-2d30-48b5-baec-be276428fae3"
+      ]
+    },
+    {
+      "id": "104547",
+      "name": "高雄市108年三民二分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/30145285-88c0-4863-b385-684306402915",
+        "https://data.kcg.gov.tw/File/DirectDownload/30145285-88c0-4863-b385-684306402915"
+      ]
+    },
+    {
+      "id": "104515",
+      "name": "高雄市茄萣區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6ebec494-8d54-4bb2-9e0b-543fc78ad0c4",
+        "https://data.kcg.gov.tw/File/directDownload/6ebec494-8d54-4bb2-9e0b-543fc78ad0c4"
+      ]
+    },
+    {
+      "id": "104516",
+      "name": "高雄市苓雅區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/06c2080c-8532-43b6-93bf-8e4bee4e7365",
+        "https://data.kcg.gov.tw/File/directDownload/06c2080c-8532-43b6-93bf-8e4bee4e7365"
+      ]
+    },
+    {
+      "id": "104519",
+      "name": "高雄市阿蓮區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ca0a2598-2ddc-4c89-8097-ba01c0d99e83",
+        "https://data.kcg.gov.tw/File/directDownload/ca0a2598-2ddc-4c89-8097-ba01c0d99e83"
+      ]
+    },
+    {
+      "id": "104522",
+      "name": "高雄市田寮區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ab1ff950-5003-4497-a0a6-5afaef7abbc0",
+        "https://data.kcg.gov.tw/File/directDownload/ab1ff950-5003-4497-a0a6-5afaef7abbc0"
+      ]
+    },
+    {
+      "id": "104525",
+      "name": "高雄市六龜區固定式違規闖紅燈及測速照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d82bcb99-b03d-40cd-9b70-335cecc98f15",
+        "https://data.kcg.gov.tw/File/directDownload/d82bcb99-b03d-40cd-9b70-335cecc98f15"
+      ]
+    },
+    {
+      "id": "104585",
+      "name": "高雄市103年度A2交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/63b5a8b0-aa28-415e-b8b7-88695ad35b03",
+        "https://data.kcg.gov.tw/File/DirectDownload/63b5a8b0-aa28-415e-b8b7-88695ad35b03"
+      ]
+    },
+    {
+      "id": "104587",
+      "name": "高雄市102年度A2交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/872d8d56-aeb4-415b-9933-cc0fa823c621",
+        "https://data.kcg.gov.tw/File/DirectDownload/872d8d56-aeb4-415b-9933-cc0fa823c621"
+      ]
+    },
+    {
+      "id": "104590",
+      "name": "高雄市101年度A1交通事故地點資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/924b4edf-dbde-4c8b-9be1-9a9641a973b3",
+        "https://data.kcg.gov.tw/File/DirectDownload/924b4edf-dbde-4c8b-9be1-9a9641a973b3"
+      ]
+    },
+    {
+      "id": "104539",
+      "name": "高雄市108年新興分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bf61c449-f8e8-4165-80b8-6083ec87166f",
+        "https://data.kcg.gov.tw/File/DirectDownload/bf61c449-f8e8-4165-80b8-6083ec87166f"
+      ]
+    },
+    {
+      "id": "104540",
+      "name": "高雄市108年湖內分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a0f42dc0-098b-4525-8401-aacfb13cd039",
+        "https://data.kcg.gov.tw/File/DirectDownload/a0f42dc0-098b-4525-8401-aacfb13cd039"
+      ]
+    },
+    {
+      "id": "104542",
+      "name": "高雄市108年前鎮分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3b02f4e4-460f-46cc-86b8-69b68644898a",
+        "https://data.kcg.gov.tw/File/DirectDownload/3b02f4e4-460f-46cc-86b8-69b68644898a"
+      ]
+    },
+    {
+      "id": "127586",
+      "name": "高雄市109年鹽埕分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/700c17a7-3cd7-4c54-8286-354ce9c21376",
+        "https://data.kcg.gov.tw/File/DirectDownload/700c17a7-3cd7-4c54-8286-354ce9c21376"
+      ]
+    },
+    {
+      "id": "127556",
+      "name": "高雄市109年鳳山分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a935d78c-73eb-4b02-aa11-a81aa7913d60",
+        "https://data.kcg.gov.tw/File/DirectDownload/a935d78c-73eb-4b02-aa11-a81aa7913d60"
+      ]
+    },
+    {
+      "id": "127557",
+      "name": "高雄市109年旗山分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/800ba103-e678-4754-8dc0-518467762a23",
+        "https://data.kcg.gov.tw/File/DirectDownload/800ba103-e678-4754-8dc0-518467762a23"
+      ]
+    },
+    {
+      "id": "127558",
+      "name": "高雄市109年鼓山分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8c9f6d40-cefd-456b-94ec-78a336ffad54",
+        "https://data.kcg.gov.tw/File/DirectDownload/8c9f6d40-cefd-456b-94ec-78a336ffad54"
+      ]
+    },
+    {
+      "id": "127562",
+      "name": "高雄市109年湖內分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3c506ea7-44a3-4c9a-a094-f27ea8eb08d9",
+        "https://data.kcg.gov.tw/File/DirectDownload/3c506ea7-44a3-4c9a-a094-f27ea8eb08d9"
+      ]
+    },
+    {
+      "id": "127565",
+      "name": "高雄市109年林園分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5442de8c-8584-4f35-ba45-2302f08fe0db",
+        "https://data.kcg.gov.tw/File/DirectDownload/5442de8c-8584-4f35-ba45-2302f08fe0db"
+      ]
+    },
+    {
+      "id": "127566",
+      "name": "高雄市109年岡山分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a7a4bfb-3001-488a-a141-d6d19f7011c3",
+        "https://data.kcg.gov.tw/File/DirectDownload/9a7a4bfb-3001-488a-a141-d6d19f7011c3"
+      ]
+    },
+    {
+      "id": "127574",
+      "name": "高雄市109年三民一分局路口監視器地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f34c197-589a-4890-be4f-7d2eb26b5002",
+        "https://data.kcg.gov.tw/File/DirectDownload/5f34c197-589a-4890-be4f-7d2eb26b5002"
+      ]
+    },
+    {
+      "id": "139428",
+      "name": "高雄市110年固定式違規照相設備及科技執法設置地點一覽表第一次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/14a595ad-7f00-4b03-9981-18519b52066e",
+        "https://data.kcg.gov.tw/File/DirectDownload/14a595ad-7f00-4b03-9981-18519b52066e"
+      ]
+    },
+    {
+      "id": "157348",
+      "name": "高雄市110年防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/502ff1b4-2b12-41fb-923f-3923bf3b2f2a",
+        "https://data.kcg.gov.tw/File/DirectDownload/502ff1b4-2b12-41fb-923f-3923bf3b2f2a"
+      ]
+    },
+    {
+      "id": "157351",
+      "name": "高雄市110年前鎮分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0aaa8f12-078e-4745-9dd9-524bc4ae42fe",
+        "https://data.kcg.gov.tw/File/DirectDownload/0aaa8f12-078e-4745-9dd9-524bc4ae42fe"
+      ]
+    },
+    {
+      "id": "157353",
+      "name": "高雄市110年岡山分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4b262809-38b9-4bee-937a-99d4155ca24a",
+        "https://data.kcg.gov.tw/File/DirectDownload/4b262809-38b9-4bee-937a-99d4155ca24a"
+      ]
+    },
+    {
+      "id": "157356",
+      "name": "高雄市110年三民一分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cec0a10f-500e-4578-a221-d0c23281b905",
+        "https://data.kcg.gov.tw/File/DirectDownload/cec0a10f-500e-4578-a221-d0c23281b905"
+      ]
+    },
+    {
+      "id": "157357",
+      "name": "高雄市110年仁武分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bd9a9981-546c-4fcf-87cc-a9e3417c8e72",
+        "https://data.kcg.gov.tw/File/DirectDownload/bd9a9981-546c-4fcf-87cc-a9e3417c8e72"
+      ]
+    },
+    {
+      "id": "157298",
+      "name": "高雄市仁武區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/284470eb-6fdf-42b9-9b37-3b49212c2276",
+        "https://data.kcg.gov.tw/File/directDownload/284470eb-6fdf-42b9-9b37-3b49212c2276"
+      ]
+    },
+    {
+      "id": "157301",
+      "name": "高雄市大寮區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/2be4c816-baf8-48c1-8fca-eb5ee87770be",
+        "https://data.kcg.gov.tw/File/directDownload/2be4c816-baf8-48c1-8fca-eb5ee87770be"
+      ]
+    },
+    {
+      "id": "157302",
+      "name": "高雄市大社區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3752ea31-2e8c-4f32-bd70-a45d363315e2",
+        "https://data.kcg.gov.tw/File/directDownload/3752ea31-2e8c-4f32-bd70-a45d363315e2"
+      ]
+    },
+    {
+      "id": "157305",
+      "name": "高雄市109年燕巢區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/1e1e6483-84b2-46b7-b9f8-195566357294",
+        "https://data.kcg.gov.tw/File/DirectDownload/1e1e6483-84b2-46b7-b9f8-195566357294"
+      ]
+    },
+    {
+      "id": "157306",
+      "name": "高雄市109年橋頭區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5e302ec9-7d6a-45d5-b9c0-eb2ecc86f213",
+        "https://data.kcg.gov.tw/File/DirectDownload/5e302ec9-7d6a-45d5-b9c0-eb2ecc86f213"
+      ]
+    },
+    {
+      "id": "157307",
+      "name": "高雄市109年彌陀區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/11cd3cd2-b1f7-4050-8839-1efb7a088236",
+        "https://data.kcg.gov.tw/File/DirectDownload/11cd3cd2-b1f7-4050-8839-1efb7a088236"
+      ]
+    },
+    {
+      "id": "157308",
+      "name": "高雄市109年鳳山區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f0ce5528-f0b1-4122-843e-e21cf94146f4",
+        "https://data.kcg.gov.tw/File/DirectDownload/f0ce5528-f0b1-4122-843e-e21cf94146f4"
+      ]
+    },
+    {
+      "id": "157330",
+      "name": "高雄市109年左營區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/b37ced0e-4f89-4b16-8b5f-7b41d92899e2",
+        "https://data.kcg.gov.tw/File/DirectDownload/b37ced0e-4f89-4b16-8b5f-7b41d92899e2"
+      ]
+    },
+    {
+      "id": "157335",
+      "name": "高雄市109年大樹區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0ec8079a-2e28-4f37-8616-ac8c65805e51",
+        "https://data.kcg.gov.tw/File/DirectDownload/0ec8079a-2e28-4f37-8616-ac8c65805e51"
+      ]
+    },
+    {
+      "id": "157337",
+      "name": "高雄市109年大社區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ea7f4943-1d74-4a7c-a6a4-cfbcc5f62f38",
+        "https://data.kcg.gov.tw/File/DirectDownload/ea7f4943-1d74-4a7c-a6a4-cfbcc5f62f38"
+      ]
+    },
+    {
+      "id": "157338",
+      "name": "高雄市109年三民區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/198974b8-8aad-4d4c-8799-0e3739288639",
+        "https://data.kcg.gov.tw/File/DirectDownload/198974b8-8aad-4d4c-8799-0e3739288639"
+      ]
+    },
+    {
+      "id": "157340",
+      "name": "高雄市109年防空避難設備一般建築",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d4bb4fd0-97e6-42d6-8371-1b023f77ee28",
+        "https://data.kcg.gov.tw/File/DirectDownload/d4bb4fd0-97e6-42d6-8371-1b023f77ee28"
+      ]
+    },
+    {
+      "id": "157341",
+      "name": "高雄市110年鳳山分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/16949213-c18c-4b89-8320-131411180bee",
+        "https://data.kcg.gov.tw/File/DirectDownload/16949213-c18c-4b89-8320-131411180bee"
+      ]
+    },
+    {
+      "id": "157343",
+      "name": "高雄市110年新興分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0467989b-1d50-4c2e-981a-36f03149d971",
+        "https://data.kcg.gov.tw/File/DirectDownload/0467989b-1d50-4c2e-981a-36f03149d971"
+      ]
+    },
+    {
+      "id": "157344",
+      "name": "高雄市110年苓雅分局防空避難場所",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a6163870-100a-4e05-8e59-da9460c749f7",
+        "https://data.kcg.gov.tw/File/DirectDownload/a6163870-100a-4e05-8e59-da9460c749f7"
+      ]
+    },
+    {
+      "id": "157277",
+      "name": "高雄市路竹區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/55da417a-eed8-44c5-8239-2ee22b75c850",
+        "https://data.kcg.gov.tw/File/directDownload/55da417a-eed8-44c5-8239-2ee22b75c850"
+      ]
+    },
+    {
+      "id": "157281",
+      "name": "高雄市鳥松區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8901ce3c-6203-4f03-83d7-7e0f1e7df6a4",
+        "https://data.kcg.gov.tw/File/directDownload/8901ce3c-6203-4f03-83d7-7e0f1e7df6a4"
+      ]
+    },
+    {
+      "id": "157286",
+      "name": "高雄市前鎮區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/8fc35936-e21a-4e48-9f13-9560d5ee8e03",
+        "https://data.kcg.gov.tw/File/directDownload/8fc35936-e21a-4e48-9f13-9560d5ee8e03"
+      ]
+    },
+    {
+      "id": "157287",
+      "name": "高雄市前金區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/81b3dab5-796e-4c03-8e5a-9bda7aac8f0a",
+        "https://data.kcg.gov.tw/File/DirectDownload/81b3dab5-796e-4c03-8e5a-9bda7aac8f0a"
+      ]
+    },
+    {
+      "id": "157288",
+      "name": "高雄市阿蓮區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d9e1ba8a-95cd-47ec-b0b5-61dc3a961aed",
+        "https://data.kcg.gov.tw/File/directDownload/d9e1ba8a-95cd-47ec-b0b5-61dc3a961aed"
+      ]
+    },
+    {
+      "id": "157293",
+      "name": "高雄市田寮區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c06c811f-d3c4-4124-9b04-266782a574af",
+        "https://data.kcg.gov.tw/File/directDownload/c06c811f-d3c4-4124-9b04-266782a574af"
+      ]
+    },
+    {
+      "id": "157313",
+      "name": "高雄市109年楠梓區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6fda9965-0602-4121-97ec-f44cd514e128",
+        "https://data.kcg.gov.tw/File/DirectDownload/6fda9965-0602-4121-97ec-f44cd514e128"
+      ]
+    },
+    {
+      "id": "157319",
+      "name": "高雄市109年苓雅區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5f9cb800-14e5-42ae-ad6a-b19cc1253d5e",
+        "https://data.kcg.gov.tw/File/DirectDownload/5f9cb800-14e5-42ae-ad6a-b19cc1253d5e"
+      ]
+    },
+    {
+      "id": "157320",
+      "name": "高雄市109年美濃區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bff2ff85-4a18-4878-8aa6-7050ebc6b698",
+        "https://data.kcg.gov.tw/File/DirectDownload/bff2ff85-4a18-4878-8aa6-7050ebc6b698"
+      ]
+    },
+    {
+      "id": "157321",
+      "name": "高雄市109年前鎮區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5c681d85-cfb1-4bf2-9b91-e829570ae97c",
+        "https://data.kcg.gov.tw/File/DirectDownload/5c681d85-cfb1-4bf2-9b91-e829570ae97c"
+      ]
+    },
+    {
+      "id": "157327",
+      "name": "高雄市109年甲仙區防空避難設備",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/bd8fb226-2f1d-4722-8d0e-318facee0f5c",
+        "https://data.kcg.gov.tw/File/DirectDownload/bd8fb226-2f1d-4722-8d0e-318facee0f5c"
+      ]
+    },
+    {
+      "id": "157275",
+      "name": "高雄市旗山區111年防空疏散避難設施",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/82e3dac1-9519-4d2a-b34d-6441cbb79de5",
+        "https://data.kcg.gov.tw/File/directDownload/82e3dac1-9519-4d2a-b34d-6441cbb79de5"
+      ]
+    },
+    {
+      "id": "161879",
+      "name": "高雄市112年租賃式闖紅燈科技執法照相設備設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/541879da-f6e4-4c46-9fed-b0622cd05f2d",
+        "https://data.kcg.gov.tw/File/directDownload/541879da-f6e4-4c46-9fed-b0622cd05f2d"
+      ]
+    },
+    {
+      "id": "161880",
+      "name": "高雄市112年路口科技執法設備設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/58cd6eb1-a5cd-4f09-9511-f170e61a8426",
+        "https://data.kcg.gov.tw/File/directDownload/58cd6eb1-a5cd-4f09-9511-f170e61a8426"
+      ]
+    },
+    {
+      "id": "161883",
+      "name": "高雄市112年科技執法「固定式違規照相設備」設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/dfd8a147-87c6-41a2-9292-c34758422704",
+        "https://data.kcg.gov.tw/File/directDownload/dfd8a147-87c6-41a2-9292-c34758422704"
+      ]
+    },
+    {
+      "id": "161886",
+      "name": "高雄市112年交通局建置科技執法設備設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c19fa529-be66-42b9-97a5-6393a494e34a",
+        "https://data.kcg.gov.tw/File/directDownload/c19fa529-be66-42b9-97a5-6393a494e34a"
+      ]
+    },
+    {
+      "id": "170694",
+      "name": "高雄市路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/841a0c49-e421-4966-8acf-2c846bb2e688",
+        "https://data.kcg.gov.tw/File/DirectDownload/841a0c49-e421-4966-8acf-2c846bb2e688",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7e6a3f01-9a1f-41df-accf-a1f8b881e2f5",
+        "https://data.kcg.gov.tw/File/DirectDownload/7e6a3f01-9a1f-41df-accf-a1f8b881e2f5"
+      ]
+    },
+    {
+      "id": "166349",
+      "name": "高雄市112年租賃式闖紅燈科技執法照相設備設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/12fe96c6-8a89-442b-bce9-bd1a26124308",
+        "https://data.kcg.gov.tw/File/DirectDownload/12fe96c6-8a89-442b-bce9-bd1a26124308"
+      ]
+    },
+    {
+      "id": "166350",
+      "name": "高雄市112年科技執法違規停車監測系統設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5a2e3d34-8cde-48aa-8f1d-7f29ca5d9678",
+        "https://data.kcg.gov.tw/File/directDownload/5a2e3d34-8cde-48aa-8f1d-7f29ca5d9678"
+      ]
+    },
+    {
+      "id": "166870",
+      "name": "高雄市112年科技執法「固定式違規照相設備」設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/59d9a817-b96b-4e0c-ab02-6ccc73ae74c8",
+        "https://data.kcg.gov.tw/File/directDownload/59d9a817-b96b-4e0c-ab02-6ccc73ae74c8"
+      ]
+    },
+    {
+      "id": "166872",
+      "name": "高雄市112年科技執法違規停車監測系統設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/27640f4f-dce3-42ef-9b19-0b8ec98486d9",
+        "https://data.kcg.gov.tw/File/directDownload/27640f4f-dce3-42ef-9b19-0b8ec98486d9"
+      ]
+    },
+    {
+      "id": "166873",
+      "name": "高雄市112年路口科技執法設備設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c45c0ca6-669a-42eb-9f5b-39a2dcfa3c39",
+        "https://data.kcg.gov.tw/File/directDownload/c45c0ca6-669a-42eb-9f5b-39a2dcfa3c39"
+      ]
+    },
+    {
+      "id": "169077",
+      "name": "高雄市113年租賃式闖紅燈科技執法照相設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/17a830d6-5521-4206-879e-2fd6b958b4c3",
+        "https://data.kcg.gov.tw/File/directDownload/17a830d6-5521-4206-879e-2fd6b958b4c3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed5f9f4d-7b44-4f81-b156-30fe9af82575",
+        "https://data.kcg.gov.tw/File/directDownload/ed5f9f4d-7b44-4f81-b156-30fe9af82575",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7b909b74-578c-4302-86e8-3d3a04815a7a",
+        "https://data.kcg.gov.tw/File/directDownload/7b909b74-578c-4302-86e8-3d3a04815a7a",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0d5d0388-ec45-4d49-a401-510e4b8eeb1d",
+        "https://data.kcg.gov.tw/File/directDownload/0d5d0388-ec45-4d49-a401-510e4b8eeb1d",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6be25bc7-d0f6-4a0b-9c29-b61f2dd2c709",
+        "https://data.kcg.gov.tw/File/directDownload/6be25bc7-d0f6-4a0b-9c29-b61f2dd2c709"
+      ]
+    },
+    {
+      "id": "169079",
+      "name": "高雄市113年科技執法限制車種違規駛入監測系統設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/d84d898d-3174-4fa4-945a-05ada7bd01fb",
+        "https://data.kcg.gov.tw/File/DirectDownload/d84d898d-3174-4fa4-945a-05ada7bd01fb",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9ce1a70d-ee83-40d9-9584-1fb674fdf3ec",
+        "https://data.kcg.gov.tw/File/DirectDownload/9ce1a70d-ee83-40d9-9584-1fb674fdf3ec",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f7ab94f8-c774-427a-b9cb-2e5bb307f192",
+        "https://data.kcg.gov.tw/File/DirectDownload/f7ab94f8-c774-427a-b9cb-2e5bb307f192",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/da4c62b3-e62d-43f7-ae6c-a8e6367c4119",
+        "https://data.kcg.gov.tw/File/DirectDownload/da4c62b3-e62d-43f7-ae6c-a8e6367c4119",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/62f7295c-72ea-435a-b5cc-d9a263f55f9b",
+        "https://data.kcg.gov.tw/File/DirectDownload/62f7295c-72ea-435a-b5cc-d9a263f55f9b"
+      ]
+    },
+    {
+      "id": "169082",
+      "name": "高雄市113年交通局建置科技執法設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/cf62b112-6b6e-4bfc-ae49-1d504016cf5c",
+        "https://data.kcg.gov.tw/File/directDownload/cf62b112-6b6e-4bfc-ae49-1d504016cf5c",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/575adc2e-dce1-4059-a331-4ea5c4b92513",
+        "https://data.kcg.gov.tw/File/directDownload/575adc2e-dce1-4059-a331-4ea5c4b92513",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/3e65290d-0c47-4591-811b-741d2d803218",
+        "https://data.kcg.gov.tw/File/directDownload/3e65290d-0c47-4591-811b-741d2d803218",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/103091b8-4eec-4138-a25e-76fb14ea654b",
+        "https://data.kcg.gov.tw/File/directDownload/103091b8-4eec-4138-a25e-76fb14ea654b",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fa200f08-8a18-48ef-b32e-ccd98a82a9f6",
+        "https://data.kcg.gov.tw/File/directDownload/fa200f08-8a18-48ef-b32e-ccd98a82a9f6"
+      ]
+    },
+    {
+      "id": "169083",
+      "name": "高雄市113年不停讓行人科技執法監測系統設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/184b8145-0a00-45bb-8557-64a196216ff1",
+        "https://data.kcg.gov.tw/File/directDownload/184b8145-0a00-45bb-8557-64a196216ff1",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/fe52260a-0f32-445e-b587-725cbf8e9ac3",
+        "https://data.kcg.gov.tw/File/directDownload/fe52260a-0f32-445e-b587-725cbf8e9ac3",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/18faa989-7cc2-43ce-b542-7a04dd2ab359",
+        "https://data.kcg.gov.tw/File/directDownload/18faa989-7cc2-43ce-b542-7a04dd2ab359",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f845d7e5-42e9-4cc9-8d9a-7e06d6159cca",
+        "https://data.kcg.gov.tw/File/directDownload/f845d7e5-42e9-4cc9-8d9a-7e06d6159cca",
+        "https://openapi.kcg.gov.tw/Api/Service/Get/6c5ed27d-0b48-44a5-9e06-b1dc7e558aed",
+        "https://data.kcg.gov.tw/File/directDownload/6c5ed27d-0b48-44a5-9e06-b1dc7e558aed"
+      ]
+    },
+    {
+      "id": "161224",
+      "name": "高雄市112年交通局建置科技執法設備設置地點第1次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/90e30048-465a-4aaf-89e1-0f512ad44511",
+        "https://data.kcg.gov.tw/File/directDownload/90e30048-465a-4aaf-89e1-0f512ad44511"
+      ]
+    },
+    {
+      "id": "160038",
+      "name": "高雄市111年科技執法「固定式違規照相設備」設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/78fefc44-7e3e-406b-9578-675358c7d3e8",
+        "https://data.kcg.gov.tw/File/directDownload/78fefc44-7e3e-406b-9578-675358c7d3e8"
+      ]
+    },
+    {
+      "id": "145881",
+      "name": "高雄市110年鹽埕分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/16bec710-e3bc-4b32-9fdd-5056c04d9395",
+        "https://data.kcg.gov.tw/File/directDownload/16bec710-e3bc-4b32-9fdd-5056c04d9395"
+      ]
+    },
+    {
+      "id": "145882",
+      "name": "高雄市110年鳳山分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/efcfe2da-f6a5-4af6-a0f8-22a67d72570e",
+        "https://data.kcg.gov.tw/File/DirectDownload/efcfe2da-f6a5-4af6-a0f8-22a67d72570e"
+      ]
+    },
+    {
+      "id": "145885",
+      "name": "高雄市110年楠梓分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/0f6c9b50-ed52-4662-9e86-ff4b85371f41",
+        "https://data.kcg.gov.tw/File/DirectDownload/0f6c9b50-ed52-4662-9e86-ff4b85371f41"
+      ]
+    },
+    {
+      "id": "145886",
+      "name": "高雄市110年新興分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/22b10618-ae7e-408e-8bc3-12c70a2c0ff8",
+        "https://data.kcg.gov.tw/File/DirectDownload/22b10618-ae7e-408e-8bc3-12c70a2c0ff8"
+      ]
+    },
+    {
+      "id": "145888",
+      "name": "高雄市110年苓雅分局路口監視器",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/93b00240-63ab-4404-85d6-fb329f88e15e",
+        "https://data.kcg.gov.tw/File/DirectDownload/93b00240-63ab-4404-85d6-fb329f88e15e"
+      ]
+    },
+    {
+      "id": "142927",
+      "name": "高雄市110年固定式違規照相設備及科技執法設置地點一覽表第二次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/5b77d4e4-a721-41e7-9c61-39b1a76acd8f",
+        "https://data.kcg.gov.tw/File/DirectDownload/5b77d4e4-a721-41e7-9c61-39b1a76acd8f"
+      ]
+    },
+    {
+      "id": "146883",
+      "name": "高雄市110年限制車種違規駛入」監測系統設置地點第4次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/498c5bd5-2471-42e4-9f07-e08db2ee3cfa",
+        "https://data.kcg.gov.tw/File/DirectDownload/498c5bd5-2471-42e4-9f07-e08db2ee3cfa"
+      ]
+    },
+    {
+      "id": "150807",
+      "name": "高雄市111年「機車違規行駛警示系統」固定式科技執法設備設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/57af8769-cc80-4123-89f7-1a1c91bdbc5e",
+        "https://data.kcg.gov.tw/File/directDownload/57af8769-cc80-4123-89f7-1a1c91bdbc5e"
+      ]
+    },
+    {
+      "id": "168401",
+      "name": "高雄市108年5月至8月大寮區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7c6373ec-319e-4182-b1f9-7a598009e429",
+        "https://data.kcg.gov.tw/File/directDownload/7c6373ec-319e-4182-b1f9-7a598009e429"
+      ]
+    },
+    {
+      "id": "168410",
+      "name": "高雄市108年5月至8月甲仙區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9a2aa35b-4f10-42e7-9cfa-bb45de2c96fd",
+        "https://data.kcg.gov.tw/File/directDownload/9a2aa35b-4f10-42e7-9cfa-bb45de2c96fd"
+      ]
+    },
+    {
+      "id": "168413",
+      "name": "高雄市108年5月至8月岡山區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/76c5d89a-e0cc-4c24-aab9-eeb786abd952",
+        "https://data.kcg.gov.tw/File/directDownload/76c5d89a-e0cc-4c24-aab9-eeb786abd952"
+      ]
+    },
+    {
+      "id": "168444",
+      "name": "高雄市108年1月至4月岡山區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/676276f9-ec6d-4743-a238-0186314a1c35",
+        "https://data.kcg.gov.tw/File/directDownload/676276f9-ec6d-4743-a238-0186314a1c35"
+      ]
+    },
+    {
+      "id": "168446",
+      "name": "高雄市108年1月至4月前鎮區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/e41efd7d-1906-4931-bb1f-e8203d33cd71",
+        "https://data.kcg.gov.tw/File/directDownload/e41efd7d-1906-4931-bb1f-e8203d33cd71"
+      ]
+    },
+    {
+      "id": "168448",
+      "name": "高雄市108年1月至4月旗津區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/92befccc-bbb2-48ac-94a2-8b352b7b45f1",
+        "https://data.kcg.gov.tw/File/directDownload/92befccc-bbb2-48ac-94a2-8b352b7b45f1"
+      ]
+    },
+    {
+      "id": "168450",
+      "name": "高雄市108年1月至4月鳳山區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/7f293394-a726-40a7-8c1f-a387c6897ebc",
+        "https://data.kcg.gov.tw/File/directDownload/7f293394-a726-40a7-8c1f-a387c6897ebc"
+      ]
+    },
+    {
+      "id": "168451",
+      "name": "高雄市108年1月至4月鹽埕區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/9761805c-d97c-4cf3-b3b2-b0c4bfee7109",
+        "https://data.kcg.gov.tw/File/directDownload/9761805c-d97c-4cf3-b3b2-b0c4bfee7109"
+      ]
+    },
+    {
+      "id": "168454",
+      "name": "高雄市108年1月至4月路竹區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/38a84111-c635-434d-a455-9aee852c67b2",
+        "https://data.kcg.gov.tw/File/directDownload/38a84111-c635-434d-a455-9aee852c67b2"
+      ]
+    },
+    {
+      "id": "168457",
+      "name": "高雄市108年1月至4月鳥松區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c51014c6-ceda-4249-a6ac-79090ceca18f",
+        "https://data.kcg.gov.tw/File/directDownload/c51014c6-ceda-4249-a6ac-79090ceca18f"
+      ]
+    },
+    {
+      "id": "168458",
+      "name": "高雄市108年1月至4月梓官區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/f9bee8ed-854c-4176-bc4c-0aa530cf09b8",
+        "https://data.kcg.gov.tw/File/directDownload/f9bee8ed-854c-4176-bc4c-0aa530cf09b8"
+      ]
+    },
+    {
+      "id": "168426",
+      "name": "高雄市108年5月至8月楠梓區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/04029265-4b4b-40ac-815b-bf1c59deecdd",
+        "https://data.kcg.gov.tw/File/directDownload/04029265-4b4b-40ac-815b-bf1c59deecdd"
+      ]
+    },
+    {
+      "id": "168427",
+      "name": "高雄市108年5月至8月路竹區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/347935dc-5104-4748-912e-1123a29d1fa1",
+        "https://data.kcg.gov.tw/File/directDownload/347935dc-5104-4748-912e-1123a29d1fa1"
+      ]
+    },
+    {
+      "id": "168428",
+      "name": "高雄市108年5月至8月鼓山區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/ed5fc691-dec7-4587-beae-63b1f72b5902",
+        "https://data.kcg.gov.tw/File/directDownload/ed5fc691-dec7-4587-beae-63b1f72b5902"
+      ]
+    },
+    {
+      "id": "168429",
+      "name": "高雄市108年5月至8月旗山區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/721d307c-a671-4452-a5ee-e0ea2b4774e5",
+        "https://data.kcg.gov.tw/File/directDownload/721d307c-a671-4452-a5ee-e0ea2b4774e5"
+      ]
+    },
+    {
+      "id": "168431",
+      "name": "高雄市108年5月至8月鳳山區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/559e6740-32cc-43ce-96d6-7875ffbba5a5",
+        "https://data.kcg.gov.tw/File/directDownload/559e6740-32cc-43ce-96d6-7875ffbba5a5"
+      ]
+    },
+    {
+      "id": "168437",
+      "name": "高雄市108年1月至4月三民區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c59d671f-32d0-4af3-8dfc-f650b0f7e12b",
+        "https://data.kcg.gov.tw/File/directDownload/c59d671f-32d0-4af3-8dfc-f650b0f7e12b"
+      ]
+    },
+    {
+      "id": "168443",
+      "name": "高雄市108年1月至4月田寮區A3交通事故資料",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/344cea10-0ac2-414f-bc1e-d94a5d9865a3",
+        "https://data.kcg.gov.tw/File/directDownload/344cea10-0ac2-414f-bc1e-d94a5d9865a3"
+      ]
+    },
+    {
+      "id": "151947",
+      "name": "高雄市111年「違規停車」監測系統設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/4c4c6bc2-784d-4bbc-918f-b00423bf68e6",
+        "https://data.kcg.gov.tw/File/directDownload/4c4c6bc2-784d-4bbc-918f-b00423bf68e6"
+      ]
+    },
+    {
+      "id": "151949",
+      "name": "高雄市111年科技執法區間平均速率執法設備設置地點第3次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/c6727800-2288-479b-8bbd-4780f6ed8759",
+        "https://data.kcg.gov.tw/File/DirectDownload/c6727800-2288-479b-8bbd-4780f6ed8759"
+      ]
+    },
+    {
+      "id": "150809",
+      "name": "高雄市111年「限制車種違規駛入」監測系統設置地點第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/05aa80f5-c57e-4535-9221-c9598430fd29",
+        "https://data.kcg.gov.tw/File/directDownload/05aa80f5-c57e-4535-9221-c9598430fd29"
+      ]
+    },
+    {
+      "id": "150810",
+      "name": "高雄市111年「固定式違規照相設備及科技執法」設置地點一覽表第2次公告",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/92bd8f5f-df7e-42a4-97a7-05c718d45c86",
+        "https://data.kcg.gov.tw/File/DirectDownload/92bd8f5f-df7e-42a4-97a7-05c718d45c86"
+      ]
+    },
+    {
+      "id": "176551",
+      "name": "高雄市115年科技執法限制車種違規駛入監測系統設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a0edf642-7c9e-4d88-bdb7-63aaedce51fb",
+        "https://data.kcg.gov.tw/File/directDownload/a0edf642-7c9e-4d88-bdb7-63aaedce51fb"
+      ]
+    },
+    {
+      "id": "176559",
+      "name": "高雄市115年區間平均速率執法設備設置地點",
+      "format": "json",
+      "urls": [
+        "https://openapi.kcg.gov.tw/Api/Service/Get/a3cedcc1-0df7-44d8-8823-83c41cc9a97d",
+        "https://data.kcg.gov.tw/File/directDownload/a3cedcc1-0df7-44d8-8823-83c41cc9a97d"
+      ]
+    }
+  ]
+}

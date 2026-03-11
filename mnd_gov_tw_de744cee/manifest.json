@@ -1,0 +1,31 @@
+{
+  "type": "dataset",
+  "provider": "國防部主計室",
+  "slug": "mnd_gov_tw_de744cee",
+  "datasets": [
+    {
+      "id": "138709",
+      "name": "國防部部本部單位預算",
+      "format": "csv",
+      "urls": [
+        "https://www.mnd.gov.tw/NewUpload/202410/國防部單位預算1016_265423.csv"
+      ]
+    },
+    {
+      "id": "138711",
+      "name": "國防部部本部單位決算",
+      "format": "csv",
+      "urls": [
+        "https://www.mnd.gov.tw/NewUpload/202502/國防部單位決算目錄(1140220更新)_065769.csv"
+      ]
+    },
+    {
+      "id": "138721",
+      "name": "國防部部本部單位會計報告",
+      "format": "csv",
+      "urls": [
+        "https://www.mnd.gov.tw/NewUpload/202602/國防部單位預算會計_483903.csv"
+      ]
+    }
+  ]
+}

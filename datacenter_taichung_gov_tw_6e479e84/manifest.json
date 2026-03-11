@@ -1,0 +1,3506 @@
+{
+  "type": "dataset",
+  "provider": "臺中市政府都市發展局",
+  "slug": "datacenter_taichung_gov_tw_6e479e84",
+  "datasets": [
+    {
+      "id": "83585",
+      "name": "臺中市108年建築師開業家數及人數",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/03c66868-a7eb-45fe-85ca-b368564c75e4"
+      ]
+    },
+    {
+      "id": "84130",
+      "name": "臺中市各都市計畫土地使用內容概要統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/03ef4d95-b8fa-4920-86f6-51015449e9e4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/11c830a8-c74d-4fb3-97b3-8992b26673b2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/50cc4e0f-403e-4d8a-965a-f55af6d6c744"
+      ]
+    },
+    {
+      "id": "84132",
+      "name": "臺中市各都市計畫-公共設施總面積比例分析表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/15398a26-70a6-4295-b9c5-15932baca2db",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a73f4331-d1f4-4166-a590-ee468d62d085",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/df54e1ec-c2ee-41a7-90b5-bc0a2fe8fdb0"
+      ]
+    },
+    {
+      "id": "84116",
+      "name": "臺中市政府都市發展局職員考試統計報表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/27f30e35-e95b-4c93-ad9c-62c69f68142b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5251cca0-e1a3-4875-81b8-0d0e4ea8b545",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/efb7324e-6e2b-4418-9f42-85da119b227f"
+      ]
+    },
+    {
+      "id": "84126",
+      "name": "臺中市各都市計畫-人口數與人口成長率彙整表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a5ba4e83-67a8-425c-bbf9-fa772ff894f9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b64f7195-0eca-4e3d-94f2-588aa30b96fd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fe5acaab-3e6a-498f-b9ca-955bd7b3b6a4"
+      ]
+    },
+    {
+      "id": "105739",
+      "name": "臺中市公寓大廈報備資料",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ea99d8b-494f-4e16-884e-50f5a82aff36"
+      ]
+    },
+    {
+      "id": "106824",
+      "name": "臺中市106年都市計畫圖(GIS)_TWD67",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6f568099-523d-488e-897f-9dc1e191a1d3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b69d405a-3fe8-4584-9fdf-b7bd39388f81",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c3a588a8-82ca-4668-b866-b33b874b12d4"
+      ]
+    },
+    {
+      "id": "106813",
+      "name": "臺中市105年都市計畫圖(GIS)_TWD97",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/377051c3-e828-4708-9757-6369a1b3eb21",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5dedfda8-f6ec-4303-a777-2d216bb2317e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c3672752-5ebd-4c32-93e5-f40cb8846f40"
+      ]
+    },
+    {
+      "id": "84913",
+      "name": "112年度臺中市區域計畫委員會委員名冊",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/43209708-e1c3-4adf-898f-a6f563273abf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c0db916f-7850-4747-98f6-636303cdb9ce",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d63a8f74-292d-4653-a1bf-bc6d861c2715"
+      ]
+    },
+    {
+      "id": "84937",
+      "name": "臺中市公共設施用地已取得面積統計表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b3098125-dfef-4a80-b375-2a4153262c3b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d7596ddb-e8c1-4678-9f88-4b2f2ccb71ea",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3574ce0e-a039-49b5-bb1e-db8cc7f3f93c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/df76afde-975a-4135-84fa-11720b52a7ff",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/552d3b0e-007e-4699-8b07-620156b60b21",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/840567de-4277-409c-b76e-33cd2a3c55be"
+      ]
+    },
+    {
+      "id": "84896",
+      "name": "臺中市都市更新-重建類案件",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6fce752a-997a-4c01-94eb-c4ca96cc1c70",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/90e60fc1-32ff-466b-b0d5-7c7a812b4bc8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a6fe1574-64c4-46c8-b194-eaf5255bc17f"
+      ]
+    },
+    {
+      "id": "101120",
+      "name": "臺中市大肚台地產業與資源調查_農業",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4f7f3d1d-f376-492f-9db9-163b629c31d8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/73173d2a-207b-4e9c-b2b0-036ea8a4e67e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e5b195db-66b6-4bbf-aa11-71dbd8036874"
+      ]
+    },
+    {
+      "id": "101201",
+      "name": "臺中市大肚台地產業與資源調查_旅館民宿業",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4247a946-dd9c-4100-a746-277e21243bdb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d95c6baf-a0c8-4284-b8c0-5d47e774c0cc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e5146e12-c0ef-44ad-bf25-32bfe046ac3e"
+      ]
+    },
+    {
+      "id": "101639",
+      "name": "臺中市大肚台地產業與資源調查_民生工業",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4ad567a0-2581-4a38-8adb-3680de4feba1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/80a7befa-95e0-4a7a-b696-db8796666588",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/df01de33-2eb4-499a-8336-1a03303b86b8"
+      ]
+    },
+    {
+      "id": "101683",
+      "name": "臺中市大肚台地產業與資源調查_中部科學工業園區台中園區產業調查",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3b5c5f88-9007-430e-96d5-5658a6f36e79",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/594d99bf-78e5-45f3-8eca-71844214dcf3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6967f94b-f06e-43a4-8833-00b49cfcd73a"
+      ]
+    },
+    {
+      "id": "101335",
+      "name": "臺中市大肚台地產業與資源調查_湧泉水井水堀",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1f54c3e2-8cfd-4f3f-b706-9f96d8244c07",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3d99ecdf-89db-420c-b3fa-d058c90553ea",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fbcd19c0-4a08-4094-aef6-ad470daa55be"
+      ]
+    },
+    {
+      "id": "101442",
+      "name": "臺中市大肚台地環境水域調查",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/554295f5-aab2-4dad-a4a2-3d0915aea531",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6f0c4490-c269-4aa0-8ddc-96342aea1104",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c572d741-2e48-4fc1-a66b-0a2d6e33ce4a"
+      ]
+    },
+    {
+      "id": "101671",
+      "name": "臺中市大肚台地生物水域調查",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2f429192-b6d3-4754-ab21-678330899aef",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6ac91e93-725d-4c04-92af-42de39a240b5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ae317a7b-2ee7-46ca-b0d3-ec2a9341edfd"
+      ]
+    },
+    {
+      "id": "101555",
+      "name": "臺中市大肚台地產業與資源調查_精密機械",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a07cdc36-806a-4008-8154-61547a48b0d7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d687bc38-c620-46f7-953e-2283de787ebd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f175ad94-7dea-4700-b100-609b0201ae38"
+      ]
+    },
+    {
+      "id": "101559",
+      "name": "臺中市大肚台地產業與資源調查_觀光遊憩業",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/423805c6-9330-471a-b756-7185e69e1af7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/490b1d07-8c79-4117-acf4-2acf2d00b9c7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/64bbc636-7cdc-4aa1-8e1b-8474eda21054"
+      ]
+    },
+    {
+      "id": "101892",
+      "name": "臺中市大肚台地生物陸域調查",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/084a777a-9c88-4450-8858-2f695695afd0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/75cebb10-ad56-47a3-bb9d-c81add26046c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bfd52925-ad38-42f1-810a-67d8117fb884"
+      ]
+    },
+    {
+      "id": "84510",
+      "name": "臺中市都市更新及爭議處理審議會委員名冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d81ea9c8-6dcd-433d-9b30-708bd39ddadd"
+      ]
+    },
+    {
+      "id": "84511",
+      "name": "105年都市計畫公共設施用地已取得面積表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7af1626d-61eb-4e24-b91a-25e70aaa0790",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a3fee368-9c29-4b75-84c3-5c9a9a6a3616"
+      ]
+    },
+    {
+      "id": "84513",
+      "name": "臺中市105年都市計畫土地使用分區面積",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/82ef1f19-27fa-4110-8883-4477a341aab3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b5f29901-4382-4121-a81d-5db3dba1be41",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f4345b1e-b7ef-4c9c-a822-8ecb4bade456"
+      ]
+    },
+    {
+      "id": "84514",
+      "name": "105年度臺中市都市計畫公共設施用地計畫面積",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/918ea9e9-a81b-4358-af80-cb70372aaf32",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b0034df6-c3a3-44ea-8a02-70419bee457b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bcba1a48-f808-4d4a-82a6-7f17fa255744"
+      ]
+    },
+    {
+      "id": "115894",
+      "name": "30910-01-01-2 臺中市政府住宅發展工程處編制員額及現有員工人數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7daa331b-10da-4737-9bbd-774bb03b278c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6344efab-7c7c-4531-a794-ee682b98671d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ece0283b-41a2-44d3-b7b8-a9adbcaf393c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=600f0bd8-0e9f-4606-b30d-9837bfae589d"
+      ]
+    },
+    {
+      "id": "115892",
+      "name": "30910-01-09-2 臺中市政府住宅發展工程處現有職員概況",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ea0753d4-b087-465c-a8b9-62d69ef5a1ec",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6714f85f-8224-4243-9092-6f32b68f0109"
+      ]
+    },
+    {
+      "id": "126737",
+      "name": "臺中市都市計畫圖(GIS)_WGS84_最新版",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4982bf35-b0ba-4307-8f06-780e62f20caa",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a8077724-7d43-4aa1-8f5e-d441734497ac",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ea8177d0-dc39-460e-af31-c0e97a4cefb4"
+      ]
+    },
+    {
+      "id": "90714",
+      "name": "10981-03-01-2 臺中市廣告物管理統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1f58073b-6e19-4574-bb2a-dc68182467e2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a7b7f38-2daa-455b-b9a3-764a94c7ea39",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d4f2a48f-998d-436e-804b-b466105c2fcd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=394cb159-9ea6-4a25-bb87-4108a9be100c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a533adb-c3dc-4881-b052-666ab585a9ce",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b6f5d00e-536a-4c61-a06b-4406e468d645",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bd0d52e1-6dc6-4fb5-a923-a9dac3c3f4bd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=95096b90-29be-4d4b-ba24-a8271dda39ad"
+      ]
+    },
+    {
+      "id": "137892",
+      "name": "臺中市潭子都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5c4092de-f013-4521-81cc-58d2a50447fe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/62c8dbd5-4a8f-4422-81ce-52f83a5e0e3c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/aad394a2-8ed3-4e66-a909-f891d86a524e"
+      ]
+    },
+    {
+      "id": "134819",
+      "name": "「擬定新社都市計畫細部計畫(第四次通盤檢討)案」",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/74b81ca3-216e-4a8c-bd0d-0831b4969dfa"
+      ]
+    },
+    {
+      "id": "134823",
+      "name": "「變更潭子都市計畫(第四次通盤檢討)(第三階段)案」",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/723e4c24-ce28-498b-a617-1ef425699772",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f65c1275-3560-4012-aa79-42c4b3073d20"
+      ]
+    },
+    {
+      "id": "134842",
+      "name": "「變更高速公路豐原交流道附近特定區暨畫(第三次通盤檢討)(第三階段)案」",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ac37f832-b601-4b00-828b-b875c3e37a0c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d4b59cf3-473f-413d-a091-bf8f261d41b5"
+      ]
+    },
+    {
+      "id": "134847",
+      "name": "變更潭子都市計畫(部分住宅區、乙種工業區及農業區為河道用地，部分道路用地為河道用地兼供道路使用)(配合潭子外圍截水道)」案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/07cf53f1-4d7e-4ed2-b87c-8b821193196e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e5bbad3b-2bb4-4c7b-a7d4-9c5a12a20cf7"
+      ]
+    },
+    {
+      "id": "134862",
+      "name": "變更梨山風景特定區計畫(梨山地區)細部計畫(土地使用分區管制要點)（配合梨山消防分隊遷建）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d4b72859-cf58-4dd0-9caa-8770e91d3f50",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fcb30322-1bfa-4560-8b5b-4f10c5d152b0"
+      ]
+    },
+    {
+      "id": "134864",
+      "name": "變更潭子都市計畫（第四次通盤檢討）（第一階段）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a996d8ac-b1aa-4414-9141-bf6e51afcbd8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ca9ecaa2-9e4d-4328-b4f0-459875d9a881"
+      ]
+    },
+    {
+      "id": "144674",
+      "name": "臺中市都市計畫圖(GIS)__初版",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0971bb4d-92bb-494c-838a-685e948e0bd3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b2ae9635-bd1c-4e07-91cd-e9b7fab049d1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/edc8248d-d3d2-4075-879b-7a983e5796cb"
+      ]
+    },
+    {
+      "id": "162104",
+      "name": "變更梨山風景特定區主要計畫(梨山地區、新佳陽地區、環山地區) (第四次通盤檢討)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1229bf45-6eaf-459f-9cb9-278f610254b1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6b8ed2f0-2136-4c3f-bdb0-88439a614c2d"
+      ]
+    },
+    {
+      "id": "162144",
+      "name": "擴大后里主要計畫(森林園區)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1eb92dd2-5e66-478f-a1d4-b4becde99824",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ce67d396-6b27-4ad4-bc61-c8dad9c1e972"
+      ]
+    },
+    {
+      "id": "162124",
+      "name": "變更臺中市神岡地區都市計畫細部計畫(部分道路用地為乙種工業區)(配合日堡全球精密科技股份有限公司擴廠)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/47540b4d-0501-4cdf-83ff-d6d4e0829b08",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/60131222-8f11-4ad6-ae29-5cbe298ad854"
+      ]
+    },
+    {
+      "id": "162129",
+      "name": "變更臺中市東勢都市計畫細部計畫(部分住宅區為滯洪池用地)(配合新盛自辦市地重劃)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d20c6f82-ca09-4751-b4c5-59bc841658bd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d777672f-4f1b-41ef-935e-dd2e26d90097"
+      ]
+    },
+    {
+      "id": "162483",
+      "name": "111年度臺中市違章建築拆除案件統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c91138d-567c-4577-ade4-aaa44d3509dc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e98e15ff-1264-4120-ab59-f32692e20692",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ee088830-33ff-47b7-86fe-f29ecd501b9e"
+      ]
+    },
+    {
+      "id": "162682",
+      "name": "112年度臺中市違章建築拆除案件統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/459855bd-f7ec-49e7-9d38-27f71e01c6d5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bfb742db-41bc-4414-be4c-11ef41eb034a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ca0998af-a14b-41d8-a42a-ad0a8ef4e976"
+      ]
+    },
+    {
+      "id": "159152",
+      "name": "臺中國際機場園區規劃案地形測量地形圖",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=571d31f2-a59b-4258-91ab-a89bf982178e"
+      ]
+    },
+    {
+      "id": "151732",
+      "name": "擬定新社都市計畫細部計畫（第二階段）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c872ee29-5a23-4dcb-a4a2-7669dcb6b42c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cb354534-eb7c-473e-a04d-df700c42bd95"
+      ]
+    },
+    {
+      "id": "151733",
+      "name": "擬定臺中市東勢都市計畫細部計畫（第二階段）案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/87481060-1696-4e0a-b1d9-cdb0391d5a8c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ea93b6da-73d1-4396-8b66-0b37fd79cffa"
+      ]
+    },
+    {
+      "id": "137444",
+      "name": "臺中市中部科學工業園區臺中基地附近特定區地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5dfb26a0-9a66-433b-8824-0f3a20d309a3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/601319f1-546f-4f2e-bc63-e9052999f259",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/635980e4-c46f-454b-a235-73f99ec9312b"
+      ]
+    },
+    {
+      "id": "137611",
+      "name": "臺中市日南都市計畫區一千分之一地形圖",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d6de9f42-8878-4e5e-ab19-19e3208d0c85",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f934725e-b293-4be5-814d-8546a5c6f2b1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fd42480f-9735-4dc3-b62a-888033c4be99"
+      ]
+    },
+    {
+      "id": "137614",
+      "name": "臺中市梨山(環山地區)都市計畫區一千分之一地形圖",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/06b78f9f-6ac8-42a0-a30c-fb8ed3803bee",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d002f007-cad8-4361-a606-df85c00a1962",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ed07478e-77f3-44cd-a9ca-07a321a54a74"
+      ]
+    },
+    {
+      "id": "137615",
+      "name": "臺中市梨山(新佳陽地區)都市計畫區一千分之一地形圖",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2fbd28ad-d427-492c-b4f8-63dbbbc60b92",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3cfed811-369c-4314-a153-109714fa38d3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/61c61f93-e5ba-4e71-a77b-4a7b2cb24adc"
+      ]
+    },
+    {
+      "id": "137555",
+      "name": "臺中市大雅都市計畫區一千分之一地形圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5b5d5ab7-d09a-413d-89b8-44ff79d6bd9c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6e1d6010-e716-4ef4-a453-7db72d835ac3",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/daf25a02-f2ec-405e-b686-aa69b785547d"
+      ]
+    },
+    {
+      "id": "137569",
+      "name": "臺中市太平(中平)都市計畫區一千分之一地形圖",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/203fbdab-61ce-4da3-8da7-b1e926fbb484",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7b5c3f5f-cc67-4e88-96c9-60378048b4f5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9c438663-4d0b-4c02-900d-0fcafc5ff793"
+      ]
+    },
+    {
+      "id": "137602",
+      "name": "臺中市大安都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/759dc440-31a8-4e78-83b6-f521f3d58af7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7b92838b-ff69-433c-96d5-e8c6a7221e5e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/83d53d54-2ec2-4c30-838c-79375dd9734c"
+      ]
+    },
+    {
+      "id": "137603",
+      "name": "臺中市東勢都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0d3710c2-ffac-41fd-8250-7e3e767cd8fd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b86a8ceb-ba1d-4fd0-aab9-e51c1ed505ef",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f0cf5177-e46d-4980-8afc-f986ec9c2ed8"
+      ]
+    },
+    {
+      "id": "137576",
+      "name": "臺中市新社都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2807ba7d-ce7d-45ab-a242-c7c2f1d39cfb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c8b4804-6b07-4227-8fbf-a75a4f0002ee",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/61685b9f-a06c-424c-9a43-6fac42be349b"
+      ]
+    },
+    {
+      "id": "137486",
+      "name": "臺中市大肚都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/31f8fc47-ef17-422e-8a44-3bd083043516",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7e5c34da-6c51-4d94-a42a-90a4f39f6214",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c5d15519-92e1-462e-a229-af12afaf0a49"
+      ]
+    },
+    {
+      "id": "137489",
+      "name": "臺中市大里(草湖地區)都市計畫區一千分之一地形圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0320e958-b603-4376-ad8a-6421d71c0afa",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3999c323-e807-4b9e-917a-73654a18cb23",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c0f5a15b-52d3-4d12-a0a9-d9ae7f151eef"
+      ]
+    },
+    {
+      "id": "150900",
+      "name": "臺中市神岡都市計畫區一千分之一地形圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0afee56d-bbd3-4b92-841c-d598e14cd63f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1b43c9e1-e2b5-4b09-be9d-42525642a5a5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d1513ef1-7a5c-424a-82e8-8fb163016463"
+      ]
+    },
+    {
+      "id": "144080",
+      "name": "變更石岡水壩特定區計畫（第四次通盤檢討）案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/97c058e2-7ba8-4084-82f7-90a43525e428",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9a93926d-32c5-475b-a691-bd423776c9f9"
+      ]
+    },
+    {
+      "id": "144093",
+      "name": "臺中市豐潭雅神地區都市計畫主要計畫案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/56b48825-987f-4585-aa31-24fb0560cd4f"
+      ]
+    },
+    {
+      "id": "165003",
+      "name": "變更臺中市豐潭雅神地區都市計畫主要計畫（配合東勢—豐原生活圈快速道路工程）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/93acf04c-a1a4-408a-9f77-2ba41b98f34e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b9f4fa86-2c71-4bea-a21b-dc26375f0716"
+      ]
+    },
+    {
+      "id": "169105",
+      "name": "變更臺中市豐潭雅神地區都市計畫主要計畫（豐原都市計畫 第三次通盤檢討）（ 第三階段）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/843e9ef1-cd31-4514-a5d0-54e4b9591e99",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/daade13e-fa0c-4b2f-9a36-65dbddd3ff75"
+      ]
+    },
+    {
+      "id": "169108",
+      "name": "變更臺中市東勢主要計畫（第三次通盤檢討）（第二階段）案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/47da284f-c3df-4a89-a8ce-c76870dbc73b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f3dab267-ac87-448a-8151-baf49ff64923"
+      ]
+    },
+    {
+      "id": "169127",
+      "name": "變更臺中市豐潭雅神地區都市計畫主要計畫（部分農業區為零星工業區）（配合遠貿企業股份有限公司擴廠）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/22961ceb-6675-4039-bf29-0db7863de876",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7cb3cec5-dcdc-4bdf-a05c-7c712a587f61"
+      ]
+    },
+    {
+      "id": "176776",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（109年第4季申請變更住宅區為商業區）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0da9cf29-c1f8-400f-92e7-2b9edec703df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=72e86b04-aea1-4ece-9ca7-aba45bcffbb6"
+      ]
+    },
+    {
+      "id": "176965",
+      "name": "變更臺中市都市計畫（楓樹里附近地區）細部計畫（計畫範圍專案通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=870f502a-cf6d-4439-acb9-837578f97093",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8e41cfdc-0b3e-478d-88d7-464b7f283198"
+      ]
+    },
+    {
+      "id": "176971",
+      "name": "變更臺中市都市計畫（干城商業地區）細部計畫（修訂土地使用分區管制要點）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3767842f-d990-42a0-8af5-ec7b8e4a2b48",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a9c4e524-89e2-4600-aaf8-bfb03eaae1f7"
+      ]
+    },
+    {
+      "id": "176973",
+      "name": "變更臺中市都市計畫（新市政中心專用區西側)細部計畫（第三次通盤檢討）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c094d7c3-15e9-4cba-bda0-76325d2452c7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ae5a11e-2de5-45b0-9625-be8a84a3406e"
+      ]
+    },
+    {
+      "id": "176975",
+      "name": "變更臺中市都市計畫（舊有市區及一至五期市地重劃地區）細部計畫（配合北屯區東信段88-4地號等6筆土地容積調派調整部分第二種住宅區為第五種住宅區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=061ea7d4-de4a-49c7-93fd-1fc852d3de1e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9be774dc-0897-4a36-ab81-528710a850e3"
+      ]
+    },
+    {
+      "id": "176976",
+      "name": "變更臺中市都市計畫（西屯地區）細部計畫（第二次通盤檢討）（第二階段）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a9984145-5c0d-4b10-b281-61b39f137e2a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7ab2d45d-455d-4cb7-b6be-797c119ea1bf"
+      ]
+    },
+    {
+      "id": "176981",
+      "name": "變更臺中市都市計畫（配合臺中都會區大眾捷運系統烏日文心北屯線建設計畫－捷運機廠）細部計畫（配合南興路及南興北二路延伸）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=08f36072-9b51-478c-9fff-0e89beab21b8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ff3a82ee-e655-4c37-870b-ec380b8a1f68"
+      ]
+    },
+    {
+      "id": "176983",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（112 年第2 季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=071a9e15-4a66-4606-ba94-dd909667c8b9"
+      ]
+    },
+    {
+      "id": "176984",
+      "name": "變更臺中市都市計畫（舊有市區及一至五期市地重劃地區）細部計畫（配合南屯區三塊厝段971地號等6筆土地容積調派調整部分第二種住宅區為第五種住宅區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=785f9990-d913-44f6-ad14-83a23bd285a1"
+      ]
+    },
+    {
+      "id": "176985",
+      "name": "變更臺中市都市計畫主要計畫（第四次通盤檢討）（第三階段）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1a3e07dc-ff92-4674-bedd-204c65a382b1"
+      ]
+    },
+    {
+      "id": "176988",
+      "name": "變更臺中市都市計畫主要計畫(第四次通盤檢討)(變更內容細表編號第34、36)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=92fc0b2e-6b9d-404f-85f1-30734a628555"
+      ]
+    },
+    {
+      "id": "176991",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（112 年第1 季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=97f0c61e-b955-4023-a47d-c85500c1e768"
+      ]
+    },
+    {
+      "id": "176996",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（110年第1季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b070e68e-e1ed-44f6-b9e4-2c97f9120973",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ddc1fb7c-e860-4b1d-b73f-ab5809c68848"
+      ]
+    },
+    {
+      "id": "176999",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（107年第4季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=94f60f4d-ea9d-429d-83ec-5ad5cea82976",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd98d516-a2df-4850-a811-32c08e0656d0"
+      ]
+    },
+    {
+      "id": "177004",
+      "name": "變更臺中市都市計畫主要計畫(部分市場用地為宗教專用區、廣場兼停車場用地及電力用地、部分公園用地及電力用地為市場用地)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a5dd5cd2-022b-488b-ad2e-cb90147ff640",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=721e1ebf-aa37-4c26-8595-64032295e769"
+      ]
+    },
+    {
+      "id": "177006",
+      "name": "變更臺中市都市計畫主要計畫（第四次通盤檢討）（第七階段）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4342ac96-e02e-425d-93d1-a45fe8a173cc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f387c7a-63c7-415f-be54-2f73f86a2b38"
+      ]
+    },
+    {
+      "id": "177061",
+      "name": "「變更臺中市都市計畫(整體開發單元六、七)(大慶車站附近)細部計畫(配合麻糍埔遺址及舊南屯溪文化景觀保存)案」",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=929d0847-a5ab-4a42-a2ee-8545ec06edd0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ffab302-059d-41d0-82f9-17c1411a0359"
+      ]
+    },
+    {
+      "id": "177062",
+      "name": "變更大肚都市計畫(部分河川區為河川區兼供道路使用)(配合臺中大肚-彰化和美跨河橋梁工程)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c952d712-7c5a-45c7-ae4f-cdfa8fed37c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7d811754-48a2-4a85-9284-55f070d00f25"
+      ]
+    },
+    {
+      "id": "177065",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第三案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7de59772-13d7-4c0c-8c5a-28d761a12878",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bfbc38cc-9b37-4c94-863d-86884234afb9"
+      ]
+    },
+    {
+      "id": "177066",
+      "name": "「變更霧峰都市計畫(部分農業區為乙種工業區)(配合新歷芳企業股份有限公司擴廠)案」暨「擬定霧峰都市計畫(部分農業區為乙種工業區)(配合新歷芳企業股份有限公司擴廠)細部計畫案」",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ae29794c-b0ef-42c8-860b-530fb43ee6c2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=399088d9-2368-4867-861a-4cfe5e446b53"
+      ]
+    },
+    {
+      "id": "177085",
+      "name": "擬定烏日都市計畫細部計畫(配合前竹地區區段徵收開發)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0db1166d-7c54-47b8-bf19-294aa28eb79b"
+      ]
+    },
+    {
+      "id": "177086",
+      "name": "發布實施「臺中市烏日大肚地區主要計畫」案及「擬定臺中市大肚地區都市計畫細部計畫」、「擬定臺中市高鐵站區都市計畫細部計畫」及「擬定烏日地區細部計畫」案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=deca04ec-84a5-4cb8-9246-06b7c03b9e35"
+      ]
+    },
+    {
+      "id": "177025",
+      "name": "變更臺中市大平霧地區(太平區)都市計畫主要計畫(部分綠地用地為道路用地)(配合市民大道道路開闢工程)",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e49dc278-321c-4df3-bbd2-cca4f30dfaef",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f9773d4e-ec08-49a4-a9e6-daf9be2b5e2a"
+      ]
+    },
+    {
+      "id": "177028",
+      "name": "變更臺中市大平霧地區（太平區）都市計畫主要計畫【部分學校用地(新-文中3)為機關用地(新-機11)】案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=056dd043-67ab-4610-9c08-c255867022c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a3e836a-e0d6-4c37-baa5-89ee7e2031fc"
+      ]
+    },
+    {
+      "id": "177034",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第二案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5fe2fc7b-d6d1-4377-898f-ffcfc459f4d5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=85508a16-b13e-4a08-ac65-c10db3c30757"
+      ]
+    },
+    {
+      "id": "177038",
+      "name": "變更太平都市計畫（計畫範圍專案通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c4a0792a-2c04-4356-9001-33eef14cafb5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=53c958c1-43cd-4a06-be63-c4f68e79c899"
+      ]
+    },
+    {
+      "id": "177040",
+      "name": "變更烏日都市計畫主要計畫(配合前竹地區區段徵收開發)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=61a9adda-7841-4db4-a443-022ed3ab2dac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=29ac1038-8fd0-4b14-97c2-c77a1ce5c02a"
+      ]
+    },
+    {
+      "id": "177042",
+      "name": "變更大甲都市計畫(部分農業區、綠地用地、河川溝渠用地、停車場用地為河川溝渠用地、道路用地、河川溝渠用地兼供道路使用、停車場用地、廣場用地兼供道路使用)【配合溫寮溪旁(甲后路至經國路)聯絡道路工程】案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b599a435-a090-456e-b4b4-19d6dde8d8e4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=061cd44e-5ecd-4231-a708-fe47205ca33c"
+      ]
+    },
+    {
+      "id": "177044",
+      "name": "變更中部科學工業園區台中基地附近特定區計畫(部分農業區為公園用地、公墓用地)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8b63d5db-c559-4d9d-939e-66495159329d"
+      ]
+    },
+    {
+      "id": "177051",
+      "name": "變更大里都市計畫主要計畫(第四次通盤檢討)(第二階段)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3c4739f3-0179-4e28-b0c5-e5dd7763696e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2040370a-029e-4f20-b4cd-27112c53ca9d"
+      ]
+    },
+    {
+      "id": "177055",
+      "name": "變更台中港特定區計畫(部分農業區為道路用地)(配合三港路拓寬工程)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e8c71e8e-a556-49db-9cef-58b62fa5d558",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aff0f155-2b15-447b-ac5f-4afd27ee8887"
+      ]
+    },
+    {
+      "id": "177011",
+      "name": "變更臺中市都市計畫（整體開發地區單元九、十、十一）細部計畫（機關用地「機15」為社會福利設施用地)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5e9bb809-56e3-4a43-87fc-516a93424aa6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=763218ac-baef-44a3-bdab-f3ebd39d7838"
+      ]
+    },
+    {
+      "id": "177013",
+      "name": "變更臺中市都市計畫主要計畫(不包括大坑風景區)(部分農業區為乙種工業區)案」暨「擬定臺中市都市計畫【乙種工業區(供聯好環保股份有限公司使用)】細部計畫案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=30d003fe-1fb0-4e14-8bf7-bc1b126c6838",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a221d1a6-d5e7-43db-a18c-da9276ef35e9"
+      ]
+    },
+    {
+      "id": "177018",
+      "name": "變更霧峰都市計畫(省議會高爾夫球場西側、神農大帝廟南側、福新路)細部計畫(第一次通盤檢討)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=50cf7312-91ae-4be6-9bb2-a5e5ec0a612f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=28d0016b-3446-48cb-b4f9-ba6231fbb018"
+      ]
+    },
+    {
+      "id": "177020",
+      "name": "變更臺中市烏日大肚地區都市計畫主要計畫（配合同安厝排水系統–同安厝排水治理計畫 第一次修正）） 案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ddeb3f4-f061-4110-9174-dd62481bae0b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=68a6d991-202d-4b84-b4c7-458141b16d4a"
+      ]
+    },
+    {
+      "id": "177078",
+      "name": "變更臺中市都市計畫（舊有市區及一至五期市地重劃地區）細部計畫（配合西區土庫段67-62地號等9筆土地容積調派調整部分第二種住宅區為第五種住宅區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6479d9a7-ebdc-45e4-a912-f58127859246",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ec003eb4-26c1-455e-9045-89581741d113"
+      ]
+    },
+    {
+      "id": "171726",
+      "name": "「擬定臺中市大肚地區都市計畫細部計畫」、「擬定臺中市高鐵站區都市計畫細部計畫」及「擬定臺中市烏日地區都市計畫細部計畫」案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4a5ea458-2990-497a-913e-df0cc9866d67",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/da9518ab-7080-4e4f-9fdf-d783f69cdf45"
+      ]
+    },
+    {
+      "id": "171800",
+      "name": "「擬定臺中市大里地區都市計畫細部計畫」、「擬定臺中市太平地區都市計畫細部計畫」、「擬定臺中市霧峰地區都市計畫細部計畫」",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/234f4755-5d82-4385-bc5a-24d82c0c7685",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/962d696c-eb0f-465a-9be2-2727d8919691"
+      ]
+    },
+    {
+      "id": "171873",
+      "name": "變更烏日都市計畫（計畫範圍專案通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8f4d083c-56b9-4a23-8ede-5178908c910f"
+      ]
+    },
+    {
+      "id": "171876",
+      "name": "變更臺中市大里地區都市計畫細部計畫(配合中華民國農會總部改建計畫)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0c5d4e47-71f2-4781-81e5-b9f4976f7ceb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5d2b4f82-cd62-43e3-b54d-f0b3d298db27"
+      ]
+    },
+    {
+      "id": "171878",
+      "name": "變更臺中市大平霧地區都市計畫主要計畫(機關用地為農會專用區)(配合中華民國農會總部改建計畫)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5d691a6d-3b04-4130-abaf-f7c85926dd7b"
+      ]
+    },
+    {
+      "id": "171918",
+      "name": "變更臺中市都市計畫(舊有市區及一至五期市地重劃地區)細部計畫(配合西區後壠子段220-2地號等5筆土地容積調派調整部分第二種住宅區為第五種住宅區)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e2d62eb9-05d3-4dd1-8d96-2a4e1283e635",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e99816f1-6e19-4498-b439-ad1175ac3b2e"
+      ]
+    },
+    {
+      "id": "171919",
+      "name": "變更高速公路王田交流道附近特定區計畫（不包括高速鐵路台中車站地區）（第二次通盤檢討暫予保留第4案兒五西側（原廣二用地附近）變更 ）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8dbabb1c-4a09-4b15-8b51-a89346a7992d"
+      ]
+    },
+    {
+      "id": "171923",
+      "name": "變更臺中市霧峰地區都市計畫細部計畫（第一次通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/58ba364e-0880-4c1b-acb2-17062d6ccbed",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f7ee547f-8872-4e27-b47f-2e7eb64e02eb"
+      ]
+    },
+    {
+      "id": "171930",
+      "name": "變更臺中市都市計畫主要計畫(第四次通盤檢討)(部分風景區為住宅區)(第三階段)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=55e8a94f-9648-4b20-aef7-85972bbc7e88"
+      ]
+    },
+    {
+      "id": "171905",
+      "name": "變更臺中市都市計畫(舊有市區及一至五期市地重劃地區)細部計畫(配合北區乾溝子段79地號等18筆土地容積調派調整部分第一種商業區為第四種商業區)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d5b6a173-4612-4560-b0ad-4d366141046b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/edc59ddb-005a-4d43-9cba-ee7824ac206c"
+      ]
+    },
+    {
+      "id": "171912",
+      "name": "變更臺中市都市計畫(舊有市區及一至五期市地重劃地區)細部計畫(部分道路用地為商業區、部分商業區及道路用地為綠帶兼廣場用地)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/51cc2097-2e5d-4809-8db9-1583265d5a4f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f78b25f2-0251-4757-8287-aa4cd298bac5"
+      ]
+    },
+    {
+      "id": "171944",
+      "name": "變更臺中市都市計畫主要計畫（第四次通盤檢討）（第四階段）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/65129333-2baa-4e5b-adb2-1b6b158b19ca",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8d11c7e5-3c09-4bb5-be3e-d5c086911509"
+      ]
+    },
+    {
+      "id": "171808",
+      "name": "臺中市大平霧地區都市計畫主要計畫（部分機關用地為宗教專用區）（配合大新福德祠遷移）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fafd15f8-f712-4db5-b7fb-3f5e3f959fd7"
+      ]
+    },
+    {
+      "id": "171861",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第十一案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e858a7e0-b5c1-4829-9df1-324b567f8c4b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f5c15101-0348-4496-b218-a8e24eaf83db"
+      ]
+    },
+    {
+      "id": "174292",
+      "name": "變更臺中市都市計畫主要計畫（部分農業區為公墓用地）（配合臺中市第一花園公墓範圍調整）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5766cc70-31c1-4d9b-a5b5-5f617638ba08"
+      ]
+    },
+    {
+      "id": "174293",
+      "name": "變更臺中市都市計畫主要計畫(第四次通盤檢討)(部分風景區為住宅區)(第六階段)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5a9e9f23-4bb0-4b65-aa86-2c581059fa4d"
+      ]
+    },
+    {
+      "id": "174294",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（113年第2季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1ca5202d-663d-471b-8c23-20a719015f09"
+      ]
+    },
+    {
+      "id": "174289",
+      "name": "變更鐵砧山風景特定區主要計畫（公共設施用地專案通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c136e208-0bb4-4e23-80bc-25c2cdcd8997"
+      ]
+    },
+    {
+      "id": "103704",
+      "name": "10981-03-06-2 臺中市建築物機械停車設備安全檢查統計",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f0b3a2e4-57cc-4bc7-866c-225a2913c3e6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a9b0e042-62c2-4f25-9f30-4450b0d60594",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=342a735b-1ed8-4e62-8113-a827d997df44",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=617b3b3b-a486-4dbd-9669-0fcc0128a195",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4ac8540-5d40-4683-8a67-71c374ffdf54",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ebb91e01-1f26-49f6-a26d-1bf2121b7856"
+      ]
+    },
+    {
+      "id": "117676",
+      "name": "20536-01-04-2 臺中市核發建築物拆除執照統計-按構造別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9b6a35b0-26ed-486e-9cf3-edf68cd1ceaa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac50ac4c-a096-40be-87f2-6d4d197c86b5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=10dc027f-f085-47b0-8ea5-3be965501933",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=68020348-fec0-40e8-869c-1bb965c2a902",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cee99727-5e42-45d6-a802-21aaf7487feb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b975c5f8-372a-4ad9-9614-36df77fff8e2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d8f9eca1-98e2-4a7b-b281-1c23a4c6f1ce",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e149526-ea9f-4478-87d5-ce4b8225e36f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f8753a9e-f1c3-4a04-9ef3-52acbb86034a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7730f863-4093-4539-a8a8-63d4aaeb0144",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=093ebadc-65e0-4fd2-b6bd-d723d58f615d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=559679b3-c35d-46f6-ae2f-e6fee358dfe7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=562f864c-7a7d-42b3-ab9e-22fa71c72afe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d10b7e8-1000-468c-aed6-f565eed78c90",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ea3fb5b-efad-42af-8c48-8c27a2f80256",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b6f7e0c-46df-4c0d-a946-506d79ddd8e0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5fced8ed-262e-4afd-96e9-5d36ab870cd4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d11a8a8b-5421-4c5d-bdaf-c532ca8f4fc0"
+      ]
+    },
+    {
+      "id": "84109",
+      "name": "105年台中市第二季營業場所未完成建築物公共安全申報名冊",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0e56d12c-1f29-420e-bc27-9f3625933753"
+      ]
+    },
+    {
+      "id": "84114",
+      "name": "臺中市政府都市發展局職員年資統計報表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/01a9cd7b-95c2-4d2c-a81c-39add3f6f6d8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/853a5ecb-fad0-4336-8669-3d0aa6872124",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/955fdbfe-ca39-4b88-8e6a-63ea107a49a2"
+      ]
+    },
+    {
+      "id": "84128",
+      "name": "臺中市公共設施用地已闢建面積統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/365fecfa-96a4-47d6-b94d-f6245053a1ea",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9b7b4c70-98e8-4395-85c0-e63634d959d0"
+      ]
+    },
+    {
+      "id": "84069",
+      "name": "臺中市非都市土地使用分區及使用地變更專責審議小組委員名單",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4e6a1ec4-2679-46a3-93d0-88ae4c20efa8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9dc8d032-158b-4935-a4e6-3b4441b553dd",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dbe5f444-96e9-451c-ae81-eff9467749c0"
+      ]
+    },
+    {
+      "id": "83956",
+      "name": "臺中市都市更新核定成果",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a6654df2-bb21-4ed3-969b-039101a33c2c"
+      ]
+    },
+    {
+      "id": "83957",
+      "name": "臺中市都市更新辦理進度",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1ee35d59-6a08-4033-89d0-9ec6e2965d90",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5038e29c-fdc7-4962-a4c2-bf6787c02af4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6b3b5c2e-7ac9-4e58-b1f6-b7c87cef8842"
+      ]
+    },
+    {
+      "id": "84129",
+      "name": "臺中市公共設施用地計畫面積統計表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9404ad22-8824-44d0-b387-0806b92910f5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/afc2c95c-cd2b-4be2-91ba-0d557df299bd"
+      ]
+    },
+    {
+      "id": "84133",
+      "name": "臺中市容積移轉申請案件核准移入容積量",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/adbe3f8a-b3f0-4a64-a6d4-5488eb433183"
+      ]
+    },
+    {
+      "id": "84136",
+      "name": "臺中市都市計畫面積及人口",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/19f6857c-ed25-47d3-b04b-857b47b97671",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5a5c2c86-4be1-44c3-be8a-2f4c82903760",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b0bfa9e4-2b20-4409-bcc2-0c84fcd765b2"
+      ]
+    },
+    {
+      "id": "90717",
+      "name": "10981-03-03-2 臺中市建築物昇降設備安全檢查",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1d0823ac-ebaa-4c3b-a616-9746108a7b26",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=881babdf-ab6c-429e-b817-9d93926f4573",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=61fb2d84-3b24-48cc-8c35-9457383f18c8"
+      ]
+    },
+    {
+      "id": "90722",
+      "name": "11920-01-02-2 臺中市都市計畫地區種類",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8773c1a5-d18d-4526-bccc-28bf617b72b9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2536f361-4ded-49fa-b9c5-a2463461014b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3ad614b6-4f17-4f85-8f83-bb11db4e588f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e70ffdc1-a6c5-43c3-bcc9-85cdda65210d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=22346457-e4fd-4d8f-9e8f-61ac8d0ac7a5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2730dce1-3bb8-47e1-ab5a-39f39e014168"
+      ]
+    },
+    {
+      "id": "90725",
+      "name": "11920-01-05-2 臺中市都市計畫土地使用分區面積",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d02042d9-cdc4-42e4-a8e0-5e77dabc6fb7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b4c96fe-03b6-4a17-b4ea-0f63e1fa99b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=17b09bf8-1158-4467-a8d1-d93c7c61b2bd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c0268e97-bd0e-4100-8795-3507b1036259",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=80563386-9fe6-4fac-80ee-f006ee73b9fb",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8c87e37b-d799-4163-9e5a-ce1afd8395d0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5c9d9827-2575-4252-a1a1-7f1fda1f6b68"
+      ]
+    },
+    {
+      "id": "90727",
+      "name": "20531-02-01-2 臺中市營造業家數及資本額",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d17f44bb-4fce-4847-adab-4e2fc48abaad",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0dee0ec6-bbaf-4b24-8136-ad8248873726",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6750c39d-cef4-411d-bf1d-c25c59ff08c9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=487fc735-c378-455d-82f4-a95e2d4f799d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fecfb7ce-fd5c-4386-abc6-a9abb9307f6b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=934c9e66-a0e5-43f3-8ca3-90bc9df84d88",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4445085d-b10e-49b2-9562-c73d9805ecb7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=415e9595-7edd-469d-bb04-486c5c95100d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03bcdf66-ac1f-4c2b-bb4a-4c73aedeb254"
+      ]
+    },
+    {
+      "id": "101551",
+      "name": "臺中市大肚台地產業與資源調查_畜牧業",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5b83850c-049a-49b1-afcc-97a24927d8b5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/77341d25-5743-4bc9-9605-358ada1bda03",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/86bc8c92-da11-4c57-9b7c-7d0ac4811b87"
+      ]
+    },
+    {
+      "id": "101556",
+      "name": "臺中市大肚台地產業與資源調查_河川",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7262d1f5-1136-4f37-9dea-c0bf6525490a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8834ce93-ae2e-4da2-894f-1f63dbaa4f19",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9e5beb5d-9301-42f1-aa01-b023082010ee"
+      ]
+    },
+    {
+      "id": "101685",
+      "name": "臺中市大肚台地產業與資源調查_製造業",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/49625ec7-e4c3-464a-817a-f47162609164",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/96efc551-80d9-485e-a0df-84d0c46ed95c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9caabfce-51c6-4b2c-858b-fd2f54f35da0"
+      ]
+    },
+    {
+      "id": "101331",
+      "name": "臺中市大肚台地產業與資源調查_山坡地",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7c832994-2cb2-43ac-8408-230f7eea2ca7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a8c8e9b9-29c0-45f5-bcb4-c569511694f4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b89b8104-1a0e-4cb6-89e1-194a54289cb6"
+      ]
+    },
+    {
+      "id": "106793",
+      "name": "臺中市103年都市計畫圖(GIS)_TWD97",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4df16655-c7a4-4da7-8a91-bdcd674046f6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/60d7061c-1aca-44f5-a088-3f7179a58b0a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6a966623-1f29-412d-9ca3-1a413f18804f"
+      ]
+    },
+    {
+      "id": "106889",
+      "name": "臺中市106年都市計畫圖(GIS)_WGS84",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/011c356c-b7e2-44bc-83b2-d4b8f57da569",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/10e62397-164a-46d0-8bd0-5d31f80bce77",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f93549c0-fc93-4fd2-892b-ef27e0d3228c"
+      ]
+    },
+    {
+      "id": "106805",
+      "name": "臺中市104年都市計畫圖(GIS)_TWD67",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/97a4302f-b0e9-4b9f-b221-ff240ac8af27",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ddeded35-0544-4ed0-aeef-5101e7685dc1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f8905d3a-5479-4c9f-9166-4e31917f3f2d"
+      ]
+    },
+    {
+      "id": "106807",
+      "name": "臺中市104年都市計畫圖(GIS)_TWD97",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/35640773-f889-4bcf-96c1-a63cf0dbc26a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9d4078f5-a69b-4666-add3-4fdfeb3dd92d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/be85729f-f38d-42f7-8ad8-29040a4a024a"
+      ]
+    },
+    {
+      "id": "107551",
+      "name": "臺中市都市計畫圖(CAD)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/37eea77b-0e49-4263-981f-53dcbb07e094",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/55b79410-c0a3-4fa4-a51c-cbcfc90b47ea",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/93b3570c-7b3c-4699-912d-27b9d5fc7b7b"
+      ]
+    },
+    {
+      "id": "108259",
+      "name": "臺中市各都市計畫區名稱與範圍",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d9f4fec1-f048-475c-a397-5071b461d2aa"
+      ]
+    },
+    {
+      "id": "117671",
+      "name": "20533-00-01-2 臺中市建築師開業家數及人數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=10379940-518a-4caf-9a2e-91f0cc71f4d2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4477d0c4-0963-465c-9cdf-51cdb4d172ab",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8b558538-ff77-4fff-9459-98a90bbacd46",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=409f7cac-e7e6-40ab-8221-ff9dbe8bff1b"
+      ]
+    },
+    {
+      "id": "117673",
+      "name": "11920-01-06-2 臺中市都市計畫公共設施用地已闢建面積",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1d21107b-c0fc-4071-80b1-c5e035dfb2bf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0135f696-baf6-4866-b6f1-a4f0bd84214f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=71cef265-5509-4b61-84b0-4e0b9c8d11bf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6aeb5a75-0a6e-4ba4-b198-1ec275d174b8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a1e91157-8461-43f4-96fa-8146438c1745",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=15e93a2d-34d2-4670-9211-a9ac3dec15a0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d0728241-3308-436c-b106-ae93da0f64d1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dd0fa27b-0df7-4d9c-bb79-2b50aab2b26b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fbf4ae1f-2f10-4821-87cc-bf3ef1f19a2d"
+      ]
+    },
+    {
+      "id": "126608",
+      "name": "臺中市107年都市計畫圖(GIS)_TWD97",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/289ebfbd-68cd-4620-a190-4a84e37f9286",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/86e7c589-6565-4ed2-91c5-aa21e669c1f4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dc70c2ba-8758-4549-b48c-c47f2bfe4274"
+      ]
+    },
+    {
+      "id": "126736",
+      "name": "臺中市都市計畫圖(GIS)_TWD67_最新版",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5137e0ae-0a43-46e0-8e13-c9e83483ad88",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a7beb87a-6600-4519-a909-b39757aa2a08",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c3795d4c-a924-468b-98c5-fd750a8344f9"
+      ]
+    },
+    {
+      "id": "120763",
+      "name": "臺中市59年航照地形圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/23a2fc78-133b-42e6-b469-f5d2ab11587f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/945dfb63-273c-40b4-b602-6ee1750d0f1c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e55f5d4a-ac99-4c09-b4f3-23cf1965b442"
+      ]
+    },
+    {
+      "id": "134950",
+      "name": "變更梨山風景特定區計畫(梨山地區)(部分住宅區、商業區及保護區為原住民生活專用區)(配合松茂部落遷建計畫)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/73ba2b95-a091-4806-8c3d-9c390b2fa63d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8f4f6318-e636-4673-8490-f88baf41cde6"
+      ]
+    },
+    {
+      "id": "134846",
+      "name": "擴大及變更后里主要計畫(第三次通盤檢討)(第二階段)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/714ebcfd-4f40-4436-b113-b149dc3a2940",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f3abef0f-3cd6-41d7-b8e1-adf3dd34af23"
+      ]
+    },
+    {
+      "id": "134852",
+      "name": "變更大雅主要計畫(部分市場用地為社會福利設施用地)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/01d7a8b9-4681-4c16-bb93-faca9ab5eaef",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2be9669b-e82b-4fdd-b644-05e3057fa660"
+      ]
+    },
+    {
+      "id": "162090",
+      "name": "擬定后里都市計畫(森林園區)細部計畫案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/62deec3f-7af6-482c-b51e-7a4469c53188",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6abedbf6-9fce-438d-a841-c559346e1a07"
+      ]
+    },
+    {
+      "id": "162117",
+      "name": "變更臺中市豐潭雅神地區都市計畫主要計畫(部分農業區為零星工業區)(配合東龍工業股份有限公司擴廠)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/50188334-3414-4f95-b00b-7b5f843c6682",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8cddaf4b-45b0-4e58-a379-73d6a0929a90"
+      ]
+    },
+    {
+      "id": "162484",
+      "name": "108年度臺中市違章建築拆除案件統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5645e9bf-652f-4b48-a463-d862a6ad414a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b89b310b-0b9d-4616-98ae-eac19d6d8847",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ff55ddef-7d3f-4d19-8fad-14aadeeb548b"
+      ]
+    },
+    {
+      "id": "165010",
+      "name": "變更石岡水壩特定區計畫（配合東勢－豐原生活圈快速道路工程）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0f363bda-af02-4434-b1d8-763ba98ba28b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e47f4320-b681-42a0-b1a6-6af59e38c5a3"
+      ]
+    },
+    {
+      "id": "138707",
+      "name": "臺中市土壤液化潛勢圖(TWD97)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c13e03ed-7b14-4586-a737-fed4ba95a78e"
+      ]
+    },
+    {
+      "id": "137574",
+      "name": "臺中市太平都市計畫區一千分之一地形圖(2019)",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1c23ca33-cd7f-49a3-aefa-68db8c569070",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/58b8fb78-9cf9-4fb5-ac63-87a100729598",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b11e0299-cb7a-4597-bde0-3f8bcbd8383e"
+      ]
+    },
+    {
+      "id": "137484",
+      "name": "臺中市大甲(日南地區)都市計畫區一千分之一地形圖",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/06f75d55-e681-4bae-8ed4-84941ec85482",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/219e5a7c-c38d-415c-865b-628ca79eb6c4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/363835ab-72e9-488f-a1cd-d809595e0f03"
+      ]
+    },
+    {
+      "id": "137485",
+      "name": "臺中市大甲都市計畫區一千分之一地形圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/636d2e2b-c708-4d24-aa93-3f5e5de095c4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/87a093d6-3bf8-4dba-8603-9e2a90a66c68",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cb9e6c72-fc2b-43eb-b056-b1e5151dc038"
+      ]
+    },
+    {
+      "id": "137492",
+      "name": "臺中市外埔都市計畫區一千分之一地形圖",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/543a7d8e-68c4-4a5c-a6f0-1b592b348c93",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c83585f7-6b42-4b9c-8f8c-84680c285e6d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d33f7e74-90a5-4819-bb60-eb663b8f691b"
+      ]
+    },
+    {
+      "id": "139469",
+      "name": "臺中市千分之一航測地形圖_TWD97(99年版本)",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6e2e2bfb-0869-490d-a60b-6e5878d704ea",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/81b3adf4-fecd-404a-9fe9-1fe77adf3067",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b8e342dd-3b37-461d-9766-a7071b77f16d"
+      ]
+    },
+    {
+      "id": "139470",
+      "name": "臺中市千分之一航測地形圖_TWD97(109年版本)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7a52b953-25aa-409b-b452-3304c0377a3e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8815e5cb-478e-4d99-9d41-c45edd0e74d9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cf2c0757-223f-418d-94b9-cc9b21b8bc25"
+      ]
+    },
+    {
+      "id": "156466",
+      "name": "臺中市102年都市計畫圖(GIS)_TWD97",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/756f0fef-fe12-4a4d-9ee0-9524231d5612",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9151b0ec-4389-452c-a990-59ef98be0acb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b8a35b48-e9e5-42a3-b638-2cffc5101e7b"
+      ]
+    },
+    {
+      "id": "142740",
+      "name": "臺中市萬分之一縮編航照地形圖",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fdc63085-d2ba-466d-a173-e5c711164709"
+      ]
+    },
+    {
+      "id": "137905",
+      "name": "臺中市豐原交流道都市計畫區一千分之一地形圖",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c7132b6-f17d-49b4-953a-d9066d69a40e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/afae973c-fb19-4f7c-a13e-06fa67a18145",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cc94bd26-a572-4169-a107-30ab74d49497"
+      ]
+    },
+    {
+      "id": "137906",
+      "name": "臺中市豐原都市計畫區一千分之一地形圖",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/87d2d36e-25db-4230-b7c8-731ec2576062",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cf5ad9e7-e722-4792-bd55-25f13643ddc2",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f052efb0-b4a3-4121-bfe5-f1edc5fdfbde"
+      ]
+    },
+    {
+      "id": "137893",
+      "name": "臺中市烏日都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5465c67f-90c2-4c17-bb9d-e670f63ebd4a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7819efac-2295-4d19-88e4-82fc830947a1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8440ba2e-a8a7-4b92-82ca-59241217e185"
+      ]
+    },
+    {
+      "id": "137895",
+      "name": "臺中市石岡水壩都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6e5c9ac3-7258-439c-84f8-e05a45952ce6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c08b7fb2-59a5-4c43-b0b5-d26a1de2ccf9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f7219529-05c1-49fb-875e-3a5cb7a120f1"
+      ]
+    },
+    {
+      "id": "144082",
+      "name": "變更潭子都市計畫（第四次通盤檢討）（第四階段）案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1c1b606c-f904-4c6c-9a3e-e1cd02e0ca61",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4a1ae367-62a6-495f-97f1-ef145311acba"
+      ]
+    },
+    {
+      "id": "144091",
+      "name": "變更大雅主要計畫(配合國道1號增設銜接台74線系統交流道工程)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b006c966-b906-4a25-9211-308ccd758138",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b9c5b780-a176-483d-a134-ecaba7286cf1"
+      ]
+    },
+    {
+      "id": "144096",
+      "name": "擬定石岡水壩特定區計畫細部計畫案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/35893b57-79e2-486d-96e0-ed58aa34d835",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bcd3fbcb-0dc6-4a24-ac9f-ce7dee45ae91"
+      ]
+    },
+    {
+      "id": "144593",
+      "name": "臺中市三千分之一縮編航照地形圖",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f9ff054-0897-48bf-b361-575e0e2b8e7c"
+      ]
+    },
+    {
+      "id": "144672",
+      "name": "臺中市建物GIS圖_初版",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6ada4a46-d0f9-4226-b797-af46caf6aa75"
+      ]
+    },
+    {
+      "id": "176962",
+      "name": "變更臺中市都市計畫（新市政中心專用區南側）細部計畫（第三次通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3da6fe0c-2f28-4bcf-9665-986f045e36ba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=de2e2bee-357e-4f51-aaa2-56a7f9a5b10b"
+      ]
+    },
+    {
+      "id": "176963",
+      "name": "變更臺中市都市計畫主要計畫（配合西屯地區細部計畫道路用地檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=98517bde-f1a1-4ba0-ba9b-deb1430dc107",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ed57d652-d6bf-4ece-abe2-baf9255d50da"
+      ]
+    },
+    {
+      "id": "176964",
+      "name": "變更臺中市都市計畫（舊有市區及一至五期市地重劃地區）細部計畫（第三次通盤檢討）（第一階段）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f4d65104-e9a9-4813-b422-3cecc33dbfb5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4eee368a-aa72-413f-9ac5-74a0b9d041e0"
+      ]
+    },
+    {
+      "id": "176967",
+      "name": "變更臺中市都市計畫（臺灣省實施區段徵收五年計畫範圍－廍子地區）細部計畫（部分文中小用地 文中小3）為社會福利設施用地（配合社會住宅興辦計畫）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4cc91c06-449b-41cf-b007-73c0432474ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b4f0c67-058a-44d0-a8a0-444b7ba8f8e5"
+      ]
+    },
+    {
+      "id": "176969",
+      "name": "變更臺中市霧峰地區都市計畫細部計畫（增訂機關用地（霧-機5）土地使用分區管制要點）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=74b539c1-ef20-414a-812c-512ce0de9867",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=660a9158-2581-4750-b5c5-e056111c7207"
+      ]
+    },
+    {
+      "id": "176970",
+      "name": "變更臺中市都市計畫（樹德地區）細部計畫（計畫範圍專案通盤檢討）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=630bbdc9-d094-4aee-923b-3dd24bcc52a3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5022743b-701b-4eb4-acb2-99065d4fc7c2"
+      ]
+    },
+    {
+      "id": "176974",
+      "name": "變更臺中市都市計畫（整體開發地區單元九、十、十一）細部計畫（配合同平巷老樹修正園道用地及同平巷、同榮里、永和巷土地公廟保留）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ecd993a9-7ba8-4dc4-b865-f632f0841b98",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e9c76791-0d0e-4e22-9dce-552374d58b42"
+      ]
+    },
+    {
+      "id": "176990",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（111年第1季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1f6af734-df35-4ec8-a420-2d0df07d26af",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=46282f89-14e0-48de-880b-2184c9171932"
+      ]
+    },
+    {
+      "id": "176992",
+      "name": "變更臺中市都市計畫主要計畫(第四次通盤檢討)(部分風景區為住宅區)(第五階段)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7c0e272a-3da5-4ca1-9b04-ba8a8ba7e5d6"
+      ]
+    },
+    {
+      "id": "176995",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（110年第2季申請變更住宅區為商業區）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c13e194e-d8d0-4cbb-ba20-7a9c3ed40685",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0b5888f3-7fe4-4970-a97b-9771e10008b3"
+      ]
+    },
+    {
+      "id": "177000",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（109年第2季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6d80efa4-89e2-4503-be1c-3d0eb3200bbc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c3bb539d-1006-4ad4-ae20-72bdaa95537a"
+      ]
+    },
+    {
+      "id": "177001",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（109年第3季申請變更住宅區為商業區）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7887cae3-9e82-4d28-a425-ce0ef903d3f3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f8da1b11-3d5f-4c43-a966-3b56fb307f55"
+      ]
+    },
+    {
+      "id": "177002",
+      "name": "變更臺中市都市計畫(舊有市區及一至五期市地重劃地區)細部計畫(計畫範圍專案通盤檢討)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2147ca3b-b237-4b51-8bab-2cbcc3a863a2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f210d4b9-b4d9-4928-baf5-b36daa55f470"
+      ]
+    },
+    {
+      "id": "177005",
+      "name": "變更臺中市烏日大肚地區都市計畫主要計畫（配合烏日九德地區區段徵收開發） 案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b44f2fd9-79b4-4417-803e-b7cde3c6fcea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f4377e1a-f586-46eb-a12a-a978007628c8"
+      ]
+    },
+    {
+      "id": "176977",
+      "name": "變更臺中市都市計畫（舊有市區及一至五期市地重劃地區）細部計畫（配合南屯區三塊厝段982-7、984地號土地容積調派調整部分第二種住宅區為第三種住宅區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fbe5a6c8-f7a3-4b9a-acc4-bb8b9815bedf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dde8f7a8-6b3a-4c35-b79e-2b1d872ed7e0"
+      ]
+    },
+    {
+      "id": "176979",
+      "name": "變更臺中市都市計畫（舊有市區及一至五期市地重劃地區）細部計畫（部分第三種住宅區為公園兼兒童遊樂場用地）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2205b3e8-bb55-459e-9b43-00a8907ca97b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=27adc023-03b6-4071-a011-dca82426c83d"
+      ]
+    },
+    {
+      "id": "176980",
+      "name": "變更臺中市都市計畫主要計畫（配合華南路以東銜接向上路工程）",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2a292401-cc8c-49d6-a575-fd84342cda56",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5d0f3cb7-c303-4f9f-b539-0c39cfbf25e8"
+      ]
+    },
+    {
+      "id": "176986",
+      "name": "變更高速公路王田交流道附近特定區計畫(高速鐵路台中車站地區)主要計畫通盤檢討案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a79a30b-e0a7-4db4-b729-ef39aa7f5f2d"
+      ]
+    },
+    {
+      "id": "171940",
+      "name": "變更臺中市都市計畫主要計畫（第四次通盤檢討）（第五階段）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/624a9c32-9b9f-4375-a79f-56d535f57700",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d7d199d4-7213-404a-81e3-345ad137d895"
+      ]
+    },
+    {
+      "id": "171946",
+      "name": "變更臺中市都市計畫主要計畫（配合前竹地區區段徵收）（第二次專案變更）案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0700b3c2-1c04-454b-94bb-565067858c69",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/12f9de7e-8867-4ed4-be1a-1acc6adf1cf4"
+      ]
+    },
+    {
+      "id": "171948",
+      "name": "變更臺中市都市計畫主要計畫（配合市政路跨筏子溪路段開闢工程） 案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3259e076-0d78-40ce-9c7f-941d7084446a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b84faa1c-cb55-42da-832d-7108a6e3dfba"
+      ]
+    },
+    {
+      "id": "171949",
+      "name": "變更臺中市都市計畫主要計畫（部分乙種工業區為住宅區） 案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/104241c7-e82c-4c60-a5d2-284c4998dd1b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/15562bb4-2022-4528-b713-f826e892e767"
+      ]
+    },
+    {
+      "id": "171984",
+      "name": "變更臺中市都市計畫（整體開發地區單元九、十、十一）細部計畫（修訂學校用地土地使用分區管制要點）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3208b3bb-3f67-4bef-b293-8bd77282a6d6"
+      ]
+    },
+    {
+      "id": "171995",
+      "name": "變更臺中市都市計畫細部計畫(整體開發地區單元九、十、十一)細部計畫（配合第十四期市地重劃區範圍調整）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/17509e4b-aa11-4410-a708-58ed1d52a230"
+      ]
+    },
+    {
+      "id": "174197",
+      "name": "臺中市免申請指定建築線範圍",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=979ba45a-1931-4173-b5c2-b747e0b74604"
+      ]
+    },
+    {
+      "id": "174295",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（113年第1季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c6a81daa-3f1e-4a75-9417-4abf5eb088a1"
+      ]
+    },
+    {
+      "id": "171893",
+      "name": "變更臺中市都市計畫（四張犂地區）細部計畫（部分第三種住宅區為第五種住宅區）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6cd229c6-9afa-4404-90dc-310fe5d265aa"
+      ]
+    },
+    {
+      "id": "171898",
+      "name": "變更臺中市都市計畫(工業住宅社區)細部計畫(第一次通盤檢討)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a6e03fac-c5ae-483e-8d8b-aa82371c3a39"
+      ]
+    },
+    {
+      "id": "171901",
+      "name": "變更臺中市都市計畫(豐樂里附近地區)細部計畫(增訂「廣兼停99」土地使用分區管制要點)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4d124d28-1aa2-4a79-a244-d5a6cac34315",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/62d4a925-e045-4491-8ef7-afe83fa77c53"
+      ]
+    },
+    {
+      "id": "171851",
+      "name": "變更大安都市計畫（都市計畫圖重製檢討）案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/453f6fa8-8fc5-4e53-ae81-3e337981cd1e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/93a63015-02a5-473d-9281-ad04407e005e"
+      ]
+    },
+    {
+      "id": "171903",
+      "name": "變更臺中市都市計畫(舊有市區及一至五期市地重劃地區)細部計畫（配合交七用地調整土地使用分區管制要點）案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/276fcbb7-56b0-4a93-be77-2a4b70974739",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3b3e6774-4de8-4da8-865a-db0e03f1f6a5"
+      ]
+    },
+    {
+      "id": "171915",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（108年第1季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/04603d7b-2c1f-44a6-9cc4-aff4c9c7fa29",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b32dde0f-407d-495f-837a-567414087ce9",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ff44010c-2520-4a46-8752-b746e6abd6cb"
+      ]
+    },
+    {
+      "id": "171810",
+      "name": "「變更臺中市都市計畫主要計畫(第四次通盤檢討)(第一階段)案」",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e10710f6-c5b1-4df5-8489-b613975c0497"
+      ]
+    },
+    {
+      "id": "171814",
+      "name": "擬定烏日都市計畫(第二次通盤檢討變更內容明細表編號五案原工業區變更為住宅區部分)細部計畫案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6b96ad63-b4b2-4aea-a62e-c1e1995dec32"
+      ]
+    },
+    {
+      "id": "171931",
+      "name": "變更台中市都市計畫（中清路交流道附近乙種工業區）細部計畫（第二次通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bee32118-61a9-4c27-ba5a-074a2951a76c"
+      ]
+    },
+    {
+      "id": "171862",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第八案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5c15082b-95fa-4811-aec1-5850b2dc27ae",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e3650015-b169-4030-8dca-67b0387114c7"
+      ]
+    },
+    {
+      "id": "171803",
+      "name": "「變更臺中市都市計畫(市68市場用地為住宅區、園道用地)案」暨「變更臺中市都市計畫(樹德地區)細部計畫(配合主要計畫市68市場用地變更為第二種住宅區)案」",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/49b50405-4ac9-4873-b60f-225d85dcd212",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4f0644a7-0abe-4ea1-b64e-eee169fcbf32",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c5c12582-7419-4a60-a4ea-ca6495660148"
+      ]
+    },
+    {
+      "id": "177026",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第九案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4973f35-d3ab-4c84-b67e-e239eba2ead3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d0050655-a7fe-49e1-ac76-b230262970fa"
+      ]
+    },
+    {
+      "id": "177027",
+      "name": "變更臺中市大平霧地區都市計畫主要計畫（臺中市大里區大忠段72、73、89地號等三筆土地住宅區變更為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9f94609c-c812-4990-bdb7-31fe1939bddd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=eb274a1e-ec11-40a4-8dbd-abc8668118c2"
+      ]
+    },
+    {
+      "id": "177029",
+      "name": "變更烏日都市計畫主要計畫（第四次通盤檢討）（第一階段）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ba7c9a15-96e7-436f-a16f-f2225e549609",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fa20738d-a763-4b59-92a9-c5263bf6c7a0"
+      ]
+    },
+    {
+      "id": "177030",
+      "name": "變更臺中市大平霧地區(霧峰區)都市計畫主要計畫(第一次通盤檢討)(第一階段)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ad710c93-d4a8-494f-8129-14100433236b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=865f5592-be0d-4856-9f75-1fabc9467898"
+      ]
+    },
+    {
+      "id": "177035",
+      "name": "變更烏日都市計畫細部計畫(第一次通盤檢討)(第二階段)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=69a2cf74-fbdb-480b-9061-f360a74984a6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=67700a7e-514d-4d5c-8dae-20baefa827a9"
+      ]
+    },
+    {
+      "id": "177036",
+      "name": "變更烏日都市計畫細部計畫(第一次通盤檢討)(第一階段)案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ce54a076-5d43-40ad-b591-6e9f054ab169",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0eb873fe-512c-465b-bb3b-10f7b802a3c9"
+      ]
+    },
+    {
+      "id": "177039",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第十案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4ebda053-d282-430e-b8fe-5c78ba9c345c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4cca6a0b-74eb-425d-9f66-52c5038e962f"
+      ]
+    },
+    {
+      "id": "177045",
+      "name": "變更台中港特定區計畫(文小用地(文小67)為文中小用地(文中小1))案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b8b5d78d-e6e9-4b4f-af6e-986619b27045",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=66bb1d2f-73c0-4b03-ae0c-f8e7217d175b"
+      ]
+    },
+    {
+      "id": "177049",
+      "name": "變更大肚都市計畫主要計畫(部分廣場兼停車場用地為機關用地)(配合大肚消防分隊遷建計畫)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1d2ae45c-05c5-489e-8e93-c99898524ce6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e3aa1830-f76f-4715-a7a3-07522d39ef09"
+      ]
+    },
+    {
+      "id": "177052",
+      "name": "變更大肚都市計畫主要計畫(第三次通盤檢討)(第二階段)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c14c8416-ae12-4bc4-8239-45520a22b0a6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ee3c3df2-759f-4a41-9daf-b8c08747a10c"
+      ]
+    },
+    {
+      "id": "177053",
+      "name": "變更台中港特定區計畫細部計畫（土地使用分區管制要點）（配合第三次通盤檢討）",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a86dd20d-76fa-44fe-bad1-31210dae4770",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=938c6139-145d-4006-9e31-39c770a55217"
+      ]
+    },
+    {
+      "id": "177056",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第一案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c543903d-fa26-431e-90dc-bf2434285bca",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dbe82bc8-7e4f-4b0e-8dbd-c7b61e1ba030"
+      ]
+    },
+    {
+      "id": "177057",
+      "name": "變更外埔都市計畫（都市計畫圖重製檢討）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d833e053-57c3-4b9c-b620-c3d57fa1445a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=db2c755b-6228-45a3-883e-86cb78119174"
+      ]
+    },
+    {
+      "id": "177063",
+      "name": "變更台中港特定區計畫(第三次通盤檢討)(第四階段)案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=78f6b841-1f41-4dde-a2c5-5ae5ccda35c1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=23a37b9a-86bf-4d20-b2b3-56eb1ee10cd2"
+      ]
+    },
+    {
+      "id": "177064",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第七案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=423c6aa7-8d4c-480c-925c-a4869de363a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=978322ad-36e2-443f-95cb-82b626821bf9"
+      ]
+    },
+    {
+      "id": "177067",
+      "name": "「變更大里都市計畫主要計畫(配合大里區聯合行政中心周邊地區整體開發)案」暨「變更大里都市計畫細部計畫(土地使用分區管制要點)(配合大里區聯合行政中心周邊地區整體開發)案」",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1cf0fcb-e582-4113-970c-1c4fd61f5098",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5fece74e-4e4e-40c8-80b9-8a083e32c983"
+      ]
+    },
+    {
+      "id": "177014",
+      "name": "變更臺中市都市計畫(四張犂地區)細部計畫(配合北屯區仁德段1115地號等5筆土地容積調派調整部分第二種住宅區為第三種住宅區)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d44b9f37-5a5f-4f72-ace4-b41b902ccd99",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cd9e4bff-8ff5-4d46-a9e4-f0ed78f07377"
+      ]
+    },
+    {
+      "id": "177015",
+      "name": "變更臺中市烏日都市計畫主要計畫(明傳產業園區部分)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=880682ee-995a-4847-acab-4b43cf178a16",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ce8c8cf3-025c-41dd-bc32-f4bdbc3ec921"
+      ]
+    },
+    {
+      "id": "177016",
+      "name": "變更臺中市都市計畫(配合臺中都會區大眾捷運系統烏日文心北屯線建設計畫-捷運機廠)細部計畫(修正土地使用分區管制及都市設計管制要點第五點)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d224a42b-fdc0-4062-85ff-cf5bfa03f193",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=23043f31-e598-4998-869e-027caee3f6a3"
+      ]
+    },
+    {
+      "id": "177017",
+      "name": "變更臺中市都市計畫(文山及春社里地區)細部計畫(第二次通盤檢討)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5e977669-60e6-4040-a4d2-715c154f4951",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cc8f0465-d6d0-4b4e-a64c-989827cfc990"
+      ]
+    },
+    {
+      "id": "177077",
+      "name": "變更臺中市都市計畫（舊有市區及一至五期市地重劃地區）細部計畫（配合北區賴厝廍段353-1地號土地容積調派調整部分第二種住宅區為第五種住宅區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1b6f7f2-5552-4cc4-9731-943777c75cb4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a5670760-1281-4e61-b3e3-8a0013dd2a5e"
+      ]
+    },
+    {
+      "id": "177079",
+      "name": "擬定中部科學工業園區臺中基地附近特定區計畫(龍井區東海段98地號等11筆土地)細部計畫案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8dc6bebf-e82a-4f44-a894-87f58e13a0da"
+      ]
+    },
+    {
+      "id": "177081",
+      "name": "發布實施「變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（112 年第3 季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7f69ee57-fe8b-4774-9847-bb099fa30394",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9197954f-a2d1-4213-bb7e-7218f976b334"
+      ]
+    },
+    {
+      "id": "103679",
+      "name": "11920-01-07-2 臺中市都市計畫樁位釘樁數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9b057149-eb89-4c55-8276-8ea372ec201d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c3f30307-1d9c-4c37-8645-ddc91757dc70",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c7bd1a31-6d32-47b1-bbc1-934d0307ef46",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9fd28f93-165b-4c7e-9be1-0fb3f94b76a8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ce721b53-1b66-4ab0-928e-ef18a638f82d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=492ee9f6-3513-4c32-a86d-99caf2e4b0d9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=155a917c-d3cf-4b4a-b5ff-0b74c0b1a89f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f1ce6abd-1b42-4b7b-a660-5a04987887ec",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=75aeddf3-71d4-47db-ab03-1c54fbe1ab5d"
+      ]
+    },
+    {
+      "id": "90732",
+      "name": "20536-02-04-2 臺中市核發建築物使用執照統計-按層數別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ad96d3f1-d6cf-4b9e-8046-0268af0bbae3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cc404169-9c88-406c-bf7a-7a2d3d5f126d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9924f255-a9f6-415d-80bf-da3e3e96d3c7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=85173372-85da-4225-9358-bbbaef898904",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a6d15647-3223-4b7d-b673-c1acbcbcfd98",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=356df2aa-cc5a-4d34-b330-db1bcdb98384",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7cfc242f-e743-4acb-9fb3-01b42128c277",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f6731e41-16d4-4048-897d-ca82ee69ab23",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dab92537-f40a-42b4-94ea-de972ff1ecfd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a83713ef-9b6f-4386-912c-dd5b371e2dbe",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d3196add-41a0-4973-96b3-8050f37b2327",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c5649369-195e-4acc-97ba-eef9fe215fc1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c7a9be81-6bf5-475d-8f26-1ce144482d77",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9d20c3be-e735-40b7-ab24-3e09ad6c7f83",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b4685ea3-5fea-441b-be1c-24a3a569e423",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b3a84b7a-2d26-40bf-8ffb-0d7f200d3480",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=46ff69f3-103a-444e-bfaa-2eb6b1a75d7c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=54c05396-02fe-4b37-8495-7953e84f1b5b"
+      ]
+    },
+    {
+      "id": "90731",
+      "name": "20536-02-01-2 臺中市核發建築物使用執照統計-按用途別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=dfd1bcc4-9f51-4f6e-8e32-5b8ea53667f2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=220793fe-3292-4f09-b0a4-2dd2c0349ef2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=626b4581-17e7-41c7-9fd9-792b4dcdd667",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4cb52258-a10f-4c68-919e-efd75f52db35",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=95d11d70-c023-4c41-b742-8256b13445f6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e638a0a-a2d3-446b-a24c-6875acf7e29c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=843f7916-aea4-4d87-873b-db18e02ca864",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6bfac478-cd11-4252-b48e-4d9bbf97bbe9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9743d80e-10e7-42f7-bbf8-594d9e340c54",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=82d9a7d8-d75f-4a74-9986-7fb09e864518",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ccddbff5-2746-4ef6-9fc5-269cb9eb7798",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c2e1d475-db9a-4202-a613-d6130d7844cc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8a9db3fb-ba74-4149-8591-270e91632500",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a1891207-8ee1-41e0-b8c4-ced44103e444",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c7ff9fd6-d216-4a85-b4ef-f1106fec97f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8d1161e2-d466-4acf-9571-95429c72ad33",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=aa5514ef-4426-452d-b45f-200bfb0e77e1",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=22c647e5-cd56-4db0-b85f-bb27fb8afc73"
+      ]
+    },
+    {
+      "id": "84581",
+      "name": "臺中市建物_WGS84(107年)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7464ddca-5da9-459e-a10a-73133d1609f4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c37d4c96-7def-4ab7-9870-1419af9c20eb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d9d04673-c89b-446b-ab9a-2ed4a9d5b71e"
+      ]
+    },
+    {
+      "id": "84512",
+      "name": "105年都市計畫地區面積及人口表",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/175ba7d4-4db1-4c5f-bd5b-7d40fd78f02a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1d38965e-5ae4-479a-a80c-ae7055530726",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9630919b-6e0c-49b3-8936-d4edc64e8890"
+      ]
+    },
+    {
+      "id": "84515",
+      "name": "臺中市105年都市計畫地區種類",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/83b24bfd-a702-4380-93d6-f2cbca354d06",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/af079bb9-3335-4cba-b839-57cb2cb3c617",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f4d24950-c793-49a7-bb57-01b6c406ccdc"
+      ]
+    },
+    {
+      "id": "103730",
+      "name": "10981-03-04-2 臺中市機械遊樂設施安全檢查",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a3fe6bb8-1cdb-400d-a087-1597e3ddbb1e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=95deea25-6afe-433d-af23-624535a7b152",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=06c36d10-366b-42cf-b45f-4c6e5e30c1cc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9da99b53-b036-402f-8c78-07f0e28c6a07",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8aba5bc8-1737-42c8-a035-4e7dbdbeb387",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f381e07-8caf-4b7c-8ec6-8f083ff3091f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=62b8a37a-f375-469e-93d0-a6ec80cd45ba",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4d5c26a3-8212-4f55-8b4a-379690def52a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ee3638ef-686b-4cb1-9b41-aabf63e2bb86",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=15ca168d-8387-4a31-b0e0-c945dd53bf14",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=94d634e8-2539-44d2-906d-a9c95b5d53fd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=95b6c50b-d035-4519-969f-7da7e698ecab",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=36d8a518-fa88-44ab-9971-32ab3a47b984",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3c221b7b-5e63-41b8-a407-2004a4d576a0",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=87136d0a-3c62-42a9-a73d-74b80a6ec25c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9e79a68f-0f0c-4768-bc07-8149dc2d9aba"
+      ]
+    },
+    {
+      "id": "101196",
+      "name": "臺中市大肚台地產業與資源調查_林業",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9af123ee-8ed0-4686-aecb-5a3d5e1e1570",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a8525aa3-9e28-422d-95a2-b71a9be6312d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d198c639-3440-4b39-9795-70f77a1d5931"
+      ]
+    },
+    {
+      "id": "101554",
+      "name": "臺中市大肚台地環境陸域調查",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/67f6bc57-f7f6-427a-bbd3-06975278f1aa",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a9af0688-121a-42fc-a9dd-4ff30628452e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ea95c8ec-710c-4d14-a197-c90a02209dfb"
+      ]
+    },
+    {
+      "id": "101637",
+      "name": "大肚台地歷史與人文調查_考古遺址",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/04d3c208-84fd-4819-8408-b8a6c8df4d6f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/30f1a31f-cc51-4b9c-bc22-7e6b759bc01a",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bb96185f-2158-4eca-936d-73df999b550c"
+      ]
+    },
+    {
+      "id": "101704",
+      "name": "臺中市大肚台地歷史與人文調查_臺中地區平埔族各社人口、戶數",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/22016454-bb20-4b96-b002-10ddce2252e4",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b599914e-307d-4a95-8c3f-0a827ff75cb1"
+      ]
+    },
+    {
+      "id": "84390",
+      "name": "臺中市建築物公共安全檢查簽證及申報核准備查件數",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/44da00b2-fe26-4dbd-a455-a12993fc73cc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9ccea9d2-5854-48a9-b693-3cd01771a865"
+      ]
+    },
+    {
+      "id": "84131",
+      "name": "臺中市各都市計畫土地使用內容類型分析表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/353e3f56-8a10-469e-93bb-b7d345916b48",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/47788393-d965-4fb9-8e11-841d673c1056",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4a7950a2-3f24-42db-ae93-d619d7f1a79f"
+      ]
+    },
+    {
+      "id": "84134",
+      "name": "臺中市容積移轉執行成果統計(公共設施保留地)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e4d95c52-8032-4860-b84b-b2dc7e4664e6"
+      ]
+    },
+    {
+      "id": "84135",
+      "name": "臺中市都市計畫土地使用面積",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/23bef792-6df7-40a7-98a3-b4badc2fec81",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/23bf1ea4-3ba9-46da-a82d-b2d00920c55d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f025698a-3935-436c-933d-c3a485c103e0"
+      ]
+    },
+    {
+      "id": "84137",
+      "name": "臺中市都市計畫容積移轉申請案件數",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e78136f9-7f23-4170-81f7-b279c7ff27fc"
+      ]
+    },
+    {
+      "id": "84140",
+      "name": "臺中市社會住宅基地地號及面積表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/01a7c8f3-5875-450b-87e3-52ffb86356ea",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0b7524c6-e550-45a3-90b1-79af9e43aa10",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e2a9c76e-e207-4ea0-bccd-5d317a92666d"
+      ]
+    },
+    {
+      "id": "84110",
+      "name": "臺中市年度建築物公共安全檢查稽查數量",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5b9215f0-8b59-49ac-88e5-d6c2f260c6c5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5f9fcf53-7162-4645-94f4-204723482f17"
+      ]
+    },
+    {
+      "id": "84115",
+      "name": "臺中市政府都市發展局職員年齡統計報表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0f34cf55-93b8-4f79-bfd8-e348f2c63dbe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8b3c45c5-1888-4623-9e75-c33a98e8ee12",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b4cf160f-b218-4ea6-80ac-769d5a1e6001"
+      ]
+    },
+    {
+      "id": "90723",
+      "name": "11920-01-03-2 臺中市都市計畫公共設施用地計畫面積",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=45b02ece-2eb5-43a1-b100-23bc15f2e484",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3b75a400-7807-4c01-8dce-e376b4443f3e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9c9c7f6e-97d1-4e6e-87a4-151ffeaf0243",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e5f4480d-78d5-467d-a938-0920a90c21d2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0cc9e71e-4666-4665-a1ea-8c36cd042c25",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4afa81b-99ad-434f-a64d-52661f759348",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8735b4f1-658e-4239-b90e-da88799c61ae"
+      ]
+    },
+    {
+      "id": "90724",
+      "name": "11920-01-04-2 臺中市都市計畫公共設施用地已取得面積",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7fb7b2fc-53c6-49fe-9755-b3f566bf0d5e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=64dc5a64-3214-4d4b-a9e9-3347042bfa10",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=df39a2af-2ad2-40d3-a1e5-8508167773ee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=33e93c4f-05fc-47ba-a999-ab76ebc65d6e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=30704eb6-f929-48f7-b28a-1727b72db65d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=51435f34-1f95-4125-be70-e9872c59c21c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=275cab98-0913-4503-aae7-ea6e7e96d9c6"
+      ]
+    },
+    {
+      "id": "90737",
+      "name": "20539-90-01-2 臺中市政府現有停車位概況─建築物附設停車空間部分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=669b4a21-570e-4f32-a94b-c669c906488a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=687c6587-4244-4f65-baca-1b55b107f4f8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f9e7ea80-0569-4981-8012-460865e3bad6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab504c79-89c0-4d45-8470-6776cc0bb296",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=20217394-6212-4062-adf5-bc5d489445c3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7785d811-14cb-4785-b5fd-abb0caebac89",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b3fccd1f-2e8e-4215-8fa4-343f030d17b8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5e938db3-12d1-4873-b14c-23ab584ee53f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7817b3d5-39d3-4758-97de-39585fd27a2e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c9a3aef7-ebd1-4de2-af3a-5454cd9c558d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f2409c42-f20a-4cd7-826a-787af3c70d50",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b7afc7d-f219-423c-bf49-91da9f29b4f5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7bb898cb-8061-42b2-9c61-4e38a6e9ac85",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8e439fa8-efa3-44a7-b593-ccfb116c4490",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=11cc9dfa-65b5-47d2-92b3-becff984f5da",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ade534d6-8ebe-4a17-b015-64d9da73802a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d624314c-a209-461b-9c51-677e94ee55ff",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=648dee30-6c2f-4180-ae47-f034002511a2"
+      ]
+    },
+    {
+      "id": "106809",
+      "name": "臺中市105年都市計畫圖(GIS)_TWD67",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4b850c46-726d-4b4a-aad3-404578805666",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/84a5fcff-aa98-4011-8714-36d1ca608b10",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fc23b403-9db2-43ff-b003-3957f6f27d3c"
+      ]
+    },
+    {
+      "id": "106823",
+      "name": "臺中市106年都市計畫圖(GIS)_TWD97",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/246fda4d-5eb4-4a44-80b0-594a00990cf7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3a06be40-8b5e-409c-8f34-5fac10aaea3b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/daffb1c1-ee6c-4b36-aa25-5ac7a109e52a"
+      ]
+    },
+    {
+      "id": "106637",
+      "name": "87年臺中市正射航照影像",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0910d09e-6979-4788-bcef-5467244b16fe",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b78006a0-150e-4f97-b6e9-7044c5efa49b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bd250652-170f-4b96-882a-036f86f1d898"
+      ]
+    },
+    {
+      "id": "106792",
+      "name": "臺中市103年都市計畫圖(GIS)_TWD67",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/67df35be-2626-4c52-a38c-d90b9381dd34",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/77d683ff-e346-44d1-bf61-49f604631840",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b04d3bb6-45ed-40ca-add0-6e93b88a0176"
+      ]
+    },
+    {
+      "id": "120764",
+      "name": "臺中市千分之一數值航照地形圖_DWG_87年_原臺中市最早版本",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c3379d32-c460-4b4d-9cc9-309f8042a573"
+      ]
+    },
+    {
+      "id": "108507",
+      "name": "臺中市建築執照存根資料",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0bf1850e-4295-433a-8ebc-9cdf9192eac5",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/66faed07-7938-4af2-bba3-51a3f49a8e1c"
+      ]
+    },
+    {
+      "id": "117457",
+      "name": "109年度臺中市違章建築拆除案件統計",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/059b4f03-d089-4799-bfbd-7e921e5e29c0",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/83b89072-69c8-409b-be61-b46a67d103e1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bb55f35c-4c88-49f9-b417-004d8012841d"
+      ]
+    },
+    {
+      "id": "134825",
+      "name": "「變更潭子都市計畫(部分鐵路用地為鐵路用地兼供道路使用)(配合鐵路高架捷運化橫交道路縫合)案」",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/aa3b6f89-3c7d-44a6-ae14-e0a6bc9777ea",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/debe9058-2637-497f-9eac-51c72586ae60"
+      ]
+    },
+    {
+      "id": "134880",
+      "name": "變更豐原都市計畫(部分農業區為金融服務專用區、商業區、體育場用地、綠地用地、綠地兼滯洪池用地、園道用地及道路用地)",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cf6b47ad-c8b9-4af4-bc4b-f70de4238e3e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fa6ab800-a0f0-479a-a4d9-e0033a1c6234"
+      ]
+    },
+    {
+      "id": "134882",
+      "name": "變更豐原都市計畫(配合九二一震災重建-鐵路用地銜接三十六米外環道以西地區)(都市計畫圖重製檢討)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/54c626da-3fe0-4ad3-bdc8-4323e2736fdf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bd89b15a-7f54-48c3-b226-4c9a214eb8c4"
+      ]
+    },
+    {
+      "id": "134854",
+      "name": "變更潭子都市計畫細部計畫(土地使用分區管制要點)(配合第四次通盤檢討)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0170df10-11b3-4890-9860-6a9cfc23df36",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6898b883-2b6d-4360-a317-8899d2ac60d5"
+      ]
+    },
+    {
+      "id": "134861",
+      "name": "變更新社主要計畫(第四次通盤檢討)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/55d72398-e366-4bfa-99af-c2412f182d93",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c0d997a7-bd72-442d-92b7-97cb83eddf70"
+      ]
+    },
+    {
+      "id": "134863",
+      "name": "變更潭子都市計畫(第四次通盤檢討)(第二階段)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1817901e-65a9-439f-a4d2-c4b2746aed86",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9a78b7ea-f910-4854-bcfe-f52f9d4a7917"
+      ]
+    },
+    {
+      "id": "126609",
+      "name": "臺中市107年都市計畫圖(GIS)_TWD67",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0c76a77d-a75e-4f50-8c0e-42b8a476d621",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/141c412d-179b-41a8-a738-1d7f0f3a4140",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/81ce0061-a4d4-4e80-8513-f463832d4068"
+      ]
+    },
+    {
+      "id": "126738",
+      "name": "臺中市107年都市計畫圖(GIS)_WGS84",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/09e93537-8d2b-425d-9048-6a05eba99460",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6269aa29-eb78-438c-9197-55690a1e40ee",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/dee4ca50-0329-4551-9c83-853c74271948"
+      ]
+    },
+    {
+      "id": "139468",
+      "name": "臺中市千分之一航測地形圖_TWD67(99年版本)",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0a034322-0f9d-4836-ab3a-e152b13f2996",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8df5468d-8d10-4533-b022-8ce35f4d7cfc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c352b6de-b926-4827-ad80-bd7c60b88607"
+      ]
+    },
+    {
+      "id": "138777",
+      "name": "110年度臺中市違章建築拆除案件統計",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/78ee078d-3b6d-4030-b01e-76d009a41fbb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7a59f092-04b9-48d0-9fbb-7aaaf72a1890",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a856d992-5d82-4719-b147-8bc80fd69b5e"
+      ]
+    },
+    {
+      "id": "138708",
+      "name": "臺中市土壤液化潛勢圖(WGS84)",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/8dde12be-cafa-4189-a540-57eaba5cf898"
+      ]
+    },
+    {
+      "id": "137556",
+      "name": "臺中市大里都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/043a51d9-c594-4d6c-adff-26389520a07b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/1bd73112-e607-4945-8dad-2061dd90736d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/655adb00-b2d8-4a95-b2da-3ff1b5266d50"
+      ]
+    },
+    {
+      "id": "137496",
+      "name": "臺中市后里都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/51ad8172-4041-4970-8887-71c94043b273",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6d0776e1-54df-4b3f-a0fd-9ff748d04bd8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b7e13cdf-aec4-4c15-8854-120522b3f487"
+      ]
+    },
+    {
+      "id": "137570",
+      "name": "臺中市太平(新光)都市計畫區一千分之一地形",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/24e7cdb9-8abd-4920-8cb0-1bd03046a1f1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/39136297-5eef-47d2-bfd0-10f515e4d660",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fbe0f1cd-5930-4ada-b565-020e596aad4a"
+      ]
+    },
+    {
+      "id": "137604",
+      "name": "臺中市臺中港特定區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/40af8d37-8740-49f2-9ae3-8c7576680dfc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/cea4dd90-4b94-40a1-a8cc-ae72006f1ba7",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f7810e9e-b0bb-424e-9106-064e10a282fb"
+      ]
+    },
+    {
+      "id": "137605",
+      "name": "臺中市鐵砧山風景特定區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9af569aa-12f4-438d-a170-a825f7568ed8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a3ec0fa1-79ed-4444-a5f6-2e6e67e18d88",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b5b5a046-ec76-4ddb-bf11-f5bf69544760"
+      ]
+    },
+    {
+      "id": "137609",
+      "name": "臺中市梨山(松茂地區)都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c9e2091-df47-417f-b922-675f33707ec0"
+      ]
+    },
+    {
+      "id": "137904",
+      "name": "臺中市梨山都市計畫區一千分之一地形圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0abb11e1-2fb5-4dea-8070-ca6759762531",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4c0efcad-12f3-4935-b3f7-018f4cb01440",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/584c01b8-0416-4e90-a386-e3c51a09c70b"
+      ]
+    },
+    {
+      "id": "137891",
+      "name": "臺中市谷關都市計畫區一千分之一地形圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/061b9874-80fc-415d-a849-ada7810cc02b",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/21ed01e2-77d4-454d-8ad2-2baefaff02db",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/49cbff34-7111-4af9-99ee-d895596e5c6c"
+      ]
+    },
+    {
+      "id": "137894",
+      "name": "臺中市王田交流道都市計畫區一千分之一地形圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/340c1b60-9823-47e7-8992-5a8a65de5968",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/637ffbcb-bf66-4e56-a16e-7dd8cbbf362c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d35e1e84-a682-4353-97fd-5918324f3dfc"
+      ]
+    },
+    {
+      "id": "138795",
+      "name": "臺中市霧峰都市計畫區一千分之一地形圖",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/226dbdc1-a0b5-4c09-9676-714ffc4bf4bb",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/7d154c9b-7202-4786-96bf-545ba1fccf8e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c294790d-d869-45f0-a0b5-f99aeb06fe8b"
+      ]
+    },
+    {
+      "id": "152429",
+      "name": "臺中市政府都市發展局辦理公告金額以上採購案件預定招標時程表",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5cf46663-1281-4626-84a8-4b5a148e3d3f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5e6ebfc3-0ee2-4287-9391-16f79241e24d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/2652c0f9-f2a2-48b3-957f-58cfd8d040cc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5f0d7d48-546d-4056-a055-1748d1976ec6"
+      ]
+    },
+    {
+      "id": "171936",
+      "name": "變更高速公路王田交流道附近特定區計畫（不包括高速鐵路台中車站地區）（配合臺鐵成功追分段鐵路雙軌化新建工程）案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/b3b2652b-c7a4-496d-8126-1fbb62b86e3d"
+      ]
+    },
+    {
+      "id": "171953",
+      "name": "變更臺中市都市計畫主要計畫（配合第十四期市地重劃區範圍調整）案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/5a533925-30d7-42e8-a4c2-f3ce0a5ea631",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a09a5ab5-962f-4585-ba53-98aa829ad3aa"
+      ]
+    },
+    {
+      "id": "171911",
+      "name": "變更臺中市都市計畫(舊有市區及一至五期市地重劃地區)細部計畫(配合西區公館段176-2地號等6筆)土地容積調派調整部分第二種住宅區及第三種住宅區為第五種住宅區)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/92c1a69e-f142-44ab-a52b-f33fd53d621d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fe528331-c7f4-4d55-8915-c9ab75fe0a7b"
+      ]
+    },
+    {
+      "id": "171933",
+      "name": "變更臺中市都市計畫主要計畫(第四次通盤檢討)(部分風景區為住宅區)(第二階段)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d1e94e63-6b20-4ca8-bc01-9acc164fd6d3"
+      ]
+    },
+    {
+      "id": "171532",
+      "name": "臺中市106年度4月至12月廣告物許可證核發統計表",
+      "format": "xml",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/40792633-95e5-44f3-8b23-6354f40666f1",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/65796fe5-8726-4296-bf40-401b12b0b885",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6bb3bb24-b175-4873-bf26-ce3909e584dc"
+      ]
+    },
+    {
+      "id": "171828",
+      "name": "變更台中港特定區計畫(市場用地(市61)為第四種住宅區及兒童遊樂場用地)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=256ff0e4-5d13-4e93-b53a-edfd8b9cc5d2"
+      ]
+    },
+    {
+      "id": "171859",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第十二案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/a9c49e2f-03bd-4f0c-8264-f75c5425fbaa",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f6afaf9a-17a4-477d-bb92-6091cb3fd24b"
+      ]
+    },
+    {
+      "id": "171865",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第十四案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/83eb9cbd-a32f-4083-8896-3ccb38889089",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eaca3169-9110-48c7-bedb-b9facd438b13"
+      ]
+    },
+    {
+      "id": "171870",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第十三案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6609e092-c6f4-414f-a672-b41a43587549",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/83b22b17-e4f9-4480-8f7d-fc66f3dc3ce8"
+      ]
+    },
+    {
+      "id": "169125",
+      "name": "擬定臺中市神岡地區都市計畫（配合遠貿企業股份有限公司擴廠）細部計畫案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/25c44699-2364-4a11-809c-ba718d81cd05",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6534cda3-2c04-4a3f-8270-47a1f17c5532"
+      ]
+    },
+    {
+      "id": "169116",
+      "name": "變更臺中市東勢都市計畫細部計畫（原「機二」機關用地變更為住宅區細部計畫─配合主要計畫第三次通盤檢討）案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/29064e11-d309-47ab-83f7-99322b7aed88",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f911c29f-d018-4f7e-942b-2125a0e45021"
+      ]
+    },
+    {
+      "id": "117672",
+      "name": "11920-01-01-2 臺中市都市計畫地區面積及人口",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b14015cf-5cc9-4572-84be-a0d9cf635ec2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=08f37d01-79a1-4312-875b-0d3794740fde"
+      ]
+    },
+    {
+      "id": "105111",
+      "name": "107年度臺中市違章建築拆除案件統計",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/244007f8-2607-4f78-a6e4-19be9d0395cf",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/3d777be4-d598-46a7-a133-9300df43a3ee"
+      ]
+    },
+    {
+      "id": "108207",
+      "name": "臺中市都市計畫區範圍_TWD97",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/835719c2-78ff-41e0-9f06-0b53219c0677",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c66a8aa9-b2a3-450c-a861-ac202ab02bc6",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e3b8360d-5afe-4372-937d-cb6882e1ceac"
+      ]
+    },
+    {
+      "id": "115893",
+      "name": "30910-01-01-2 臺中市政府都市發展局編制員額及現有員工人數",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=540ac610-efa9-4c6a-83b6-f4d5eb571c1b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=78caec2b-804d-4454-8400-2fcf75c5b2aa",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d29a7c89-9b11-4174-baa6-c09c287731df",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b98a1735-c008-4c50-bec1-b0b53eaff444",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b341f50f-b20d-40b0-802f-d99a2ec621b2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=60b33f64-0e7c-4183-a459-02de3617aa97"
+      ]
+    },
+    {
+      "id": "146534",
+      "name": "臺中市太平都市計畫區一千分之一地形圖",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/0730f836-b7d4-48c1-bfc8-52fb462ba97e",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/12b80b3e-4127-4a89-9952-b829f7242459",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9f761887-cdbf-415c-a515-8aa81fefe0ba"
+      ]
+    },
+    {
+      "id": "144090",
+      "name": "變更臺中市都市計畫主要計畫(配合國道1號增設銜接台74線系統交流道工程)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9a1ee182-ddc2-4f94-9a43-01f2aee22b34",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bd420aa3-bf9b-4116-8103-7c4d094b03bf"
+      ]
+    },
+    {
+      "id": "144092",
+      "name": "變更高速公路豐原交流道附近特定區計畫(配合國道1號增設銜接台74線系統交流道工程)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6f6c2c0b-4f1d-4ee5-b567-08d07e229fb8",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/eb21d727-44f9-4e6d-b05e-83f0eac21f11"
+      ]
+    },
+    {
+      "id": "144097",
+      "name": "擬定臺中市豐原地區都市計畫細部計畫案」、「擬定臺中市神岡地區都市計畫細部計畫案」、「擬定臺中市潭子地區都市計畫細部計畫案」及「擬定臺中市大雅地區都市計畫細部計畫案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4534a454-de1f-4e81-8e5c-d5ea475c7038",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/6ae1bdab-63c0-4232-bbca-75dc3d748245"
+      ]
+    },
+    {
+      "id": "162103",
+      "name": "變更臺中市豐潭雅神地區都市計畫主要計畫（部分農業區為乙種工業區）(配合銀泰科技股份有限公司擴廠)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/36a96603-ea23-43c1-969f-ba409ebcc199",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/63eec389-d08c-4652-8481-cbdebf601382"
+      ]
+    },
+    {
+      "id": "162121",
+      "name": "擬定臺中市神岡地區都市計畫細部計畫(配合銀泰科技股份有限公司擴廠)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4fea8a2c-0775-40da-98e8-0b21b046c09d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/63f9ef1a-e585-4fe9-853c-8413701345c6"
+      ]
+    },
+    {
+      "id": "162123",
+      "name": "擬定梨山風景特定區計畫(梨山地區、新佳陽地區、環山地區) 細部計畫案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/4d77c14d-5867-45ee-a40d-4c0949f42b2f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/77a805bb-327f-4a97-9c07-cdae28ceb3de"
+      ]
+    },
+    {
+      "id": "162130",
+      "name": "擬定臺中市豐原地區都市計畫(配合東龍工業股份有限公司擴廠)細部計畫案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/c94ccacd-c754-48ba-bca8-05a646fe22bc",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fc18e082-d73a-4c5c-9029-0c39a2fd4234"
+      ]
+    },
+    {
+      "id": "164999",
+      "name": "臺中市千分之一地形圖(歷年各區彙整)",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9b896cba-524c-4559-8148-10cf7d3af6b8"
+      ]
+    },
+    {
+      "id": "165004",
+      "name": "變更谷關風景特定區主要計畫（公共設施用地專案通盤檢討）案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/d54a4353-33e0-4041-a36f-7a7560717f2c",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/f039cfc0-d4e7-4230-ba84-1b878dcefd8e"
+      ]
+    },
+    {
+      "id": "151922",
+      "name": "變更臺中市豐潭雅神地區都市計畫主要計畫(豐原都市計畫-第三次通盤檢討)(第二階段)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9ce8c04e-e25e-4023-a0f6-e4bf378188de",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/9f77e035-78a5-409e-8d77-c1181f6a226a"
+      ]
+    },
+    {
+      "id": "151749",
+      "name": "變更臺中市豐原地區都市計畫細部計畫(配合豐原都市計畫-第三次通盤檢討)(第一階段)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/506be0d0-2995-4aca-bc2b-32654e3a643f",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/ba3e9965-416c-4785-af92-74593ab10dbb"
+      ]
+    },
+    {
+      "id": "151750",
+      "name": "變更臺中市豐潭雅神地區都市計畫主要計畫(豐原都市計畫-第三次通盤檢討)(第一階段)案",
+      "format": "json",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/58f6a769-0aec-4f0c-88df-c17974238f23",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/bd9f9f61-3a55-411f-a2a6-a597167a8d58"
+      ]
+    },
+    {
+      "id": "151755",
+      "name": "變更臺中市豐潭雅神地區都市計畫主要計畫(部分農業區為道路用地)案",
+      "format": "csv",
+      "urls": [
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/e40c80b5-cb2b-47ea-972c-3ceeff77d30d",
+        "https://datacenter.taichung.gov.tw/swagger/OpenData/fd1bd785-07b0-415c-bd90-c67c80edc2c6"
+      ]
+    },
+    {
+      "id": "174290",
+      "name": "變更臺中市都市計畫（豐樂里附近地區）細部計畫（學校用地（文小65）土地使用分區管制",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=49810e13-ea8f-4b72-aa93-9afb9787b644"
+      ]
+    },
+    {
+      "id": "176957",
+      "name": "臺中市102年都市計畫圖(GIS)_TWD67",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=90f5e68e-fe0a-4696-b57c-f4f9613de2a1"
+      ]
+    },
+    {
+      "id": "174291",
+      "name": "變更臺中市都市計畫（水湳機場原址整體開發區）細部計畫（第二次通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e1c0e5b4-41ff-4b13-a760-f3240b32935c"
+      ]
+    },
+    {
+      "id": "174296",
+      "name": "變更臺中市大平霧地區(霧峰區)都市計畫主要計畫(第一次通盤檢討)(第四階段)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=75bbd008-4e33-4f53-be22-3f5c138e48a0"
+      ]
+    },
+    {
+      "id": "174297",
+      "name": "變更大安都市計畫主要計畫（公共設施用地專案通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d85cf52f-03dd-40f9-b78a-1abe8c45b4bf"
+      ]
+    },
+    {
+      "id": "177007",
+      "name": "變更鐵砧山風景特定區主要計畫(第三次通盤檢討)案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f3cc6df9-f441-49cb-a43c-2d5da902b41c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=be07e29d-851a-4b7c-872c-488070fa34de"
+      ]
+    },
+    {
+      "id": "177008",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（108年第2季申請變更住宅區為商業區）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6548916c-cb11-417d-a8c7-e20e7d71d6a3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=85bd0a40-d4bb-446b-8c08-93761d2f3398"
+      ]
+    },
+    {
+      "id": "177009",
+      "name": "變更臺中市都市計畫主要計畫(部分文中小用地（文中小3）為社會福利設施用地）（配合社會住宅興辦計畫）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=923ac846-d01f-4fa2-a942-dc5fc9b0a91f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e304cb31-3a51-4e16-985f-66c9972960a7"
+      ]
+    },
+    {
+      "id": "177010",
+      "name": "變更臺中市都市計畫主要計畫(不包括大坑風景區)(第三次通盤檢討)(110年第4季申請變更住宅區為商業區)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f7997d6e-9d93-4387-9149-4b26d15cf2b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9cbf4ba8-52ef-4399-a559-09761ebffcb9"
+      ]
+    },
+    {
+      "id": "177012",
+      "name": "變更臺中市都市計畫主要計畫(機關用地「機15」為社會福利設施用地)案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b37b949-c232-45a6-9e27-4d746515a111",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=10217e3a-6cbc-425d-b09f-238546b54855"
+      ]
+    },
+    {
+      "id": "177019",
+      "name": "變更臺中市大里地區都市計畫細部計畫（配合大新福德祠遷移）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6fa1dd95-c8dd-48cf-910f-ce9c23468e15",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=15c2045d-3067-457a-aae8-94cebb2e2374"
+      ]
+    },
+    {
+      "id": "177021",
+      "name": "變更臺中市都市計畫（樹德地區）細部計畫（配合南區樹子腳段670地號土地容積調派調整部分第二種住宅區為第三種住宅區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c6995c58-5c78-4502-a402-91bc62f20a5a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab285266-8e3c-466e-82aa-ed3fc662fb25"
+      ]
+    },
+    {
+      "id": "177022",
+      "name": "變更臺中市都市計畫（文山及春社里地區）細部計畫（配合南屯區春安段293地號等6筆土地容積調派調整部分第二種住宅區為第三之二種住宅區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=94473575-fc41-4144-972e-9077cecc3723",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=03d30af8-2a03-490e-8817-45f5c0be92b0"
+      ]
+    },
+    {
+      "id": "176989",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（111年第2季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c1986999-f01f-458c-8fb2-e612ad93cb61"
+      ]
+    },
+    {
+      "id": "176993",
+      "name": "變更臺中市都市計畫主要計畫(第四次通盤檢討)(部分風景區為住宅區)(第四階段)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c9be68ef-4efc-4b91-a5e4-7ef16155efcf"
+      ]
+    },
+    {
+      "id": "176994",
+      "name": "「變更台中港特定區計畫(「市37」市場用地為住宅區及停車場用地)案」",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=fc57b12a-3965-4317-82ae-8f10edabc500",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0effa714-9ffa-48fe-babb-106c8fa23f8e"
+      ]
+    },
+    {
+      "id": "176997",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（110年第3季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c0607adb-6521-4475-b7c4-1cecbde36442",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=81040453-36bc-4214-9765-d3748d550865"
+      ]
+    },
+    {
+      "id": "176998",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（第三次通盤檢討）（108年第4季申請變更住宅區為商業區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4de0d7c5-d3cf-4dc7-bcd7-17cec4b88fa8",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e3147058-d362-4053-a531-a65bffeee639"
+      ]
+    },
+    {
+      "id": "177003",
+      "name": "變更臺中市都市計畫主要計畫（不包括大坑風景區）（商業區（附二十五）附帶條件調整）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=39a36590-384c-4cf3-94d4-e5c8b183dbce",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bce5b591-bda1-4f95-b22e-47056d6620fe"
+      ]
+    },
+    {
+      "id": "177023",
+      "name": "變更臺中市大平霧地區（霧峰區）都市計畫主要計畫（第一次通盤檢討）（第二階段）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f152d75d-0ac3-4771-87b4-ef84a5a2b3c7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f2a4e858-38c2-4719-93fd-4d9cc3af8367"
+      ]
+    },
+    {
+      "id": "177024",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第五案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=63cdd33f-fcfa-47a8-866e-5492087774b5",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cc1d8bf0-9224-473c-8d43-aa5892166adc"
+      ]
+    },
+    {
+      "id": "177031",
+      "name": "變更台中港特定區計畫（土地使用分區管制要點）（配合市場用地（市64-2))案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab5947a5-2fa6-4756-9b43-06e19c919661",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=663ccde2-30d6-493f-8dc2-22e45055dbd4"
+      ]
+    },
+    {
+      "id": "177032",
+      "name": "變更臺中市大平霧地區都市計畫主要計畫（部分河道用地為河道用地兼供道路使用）（配合太平區環太東路銜接新平路三段橋梁新建工程） 案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ac410ef3-dba2-41ad-84cc-37dea8b8a827",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7c13069c-0506-48aa-a6b5-4ffa506bb652"
+      ]
+    },
+    {
+      "id": "177037",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第六案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3d7bddc8-f721-4fe5-bf54-aa13a7bfe05b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=cc65d458-6f32-4ab1-a5ff-a896801f61ed"
+      ]
+    },
+    {
+      "id": "176966",
+      "name": "變更臺中市都市計畫臺中車站地區細部計畫（配合臺中大車站計畫及綠空鐵道軸線計畫南段）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=10383a49-7d46-40d6-9de1-9bc250743ec2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e3abfe99-96a6-43df-8cd6-73cfd1f5d31b"
+      ]
+    },
+    {
+      "id": "176968",
+      "name": "變更臺中市都市計畫（整體開發地區單元九、十、十一 細部計畫）（部分細公兼兒8 用地為第1 1 種住宅區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=68fbdae3-271b-4739-aaac-9978d759dd01",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=69a502db-e176-4063-a3f3-a41120bb0105"
+      ]
+    },
+    {
+      "id": "176972",
+      "name": "變更臺中市都市計畫（四張犂地區）細部計畫（配合北屯區昌平段113、114地號土地容積調派調整部分第三種住宅區為第五種住宅區）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3c9881fd-669d-4c4f-bce8-0ad6686bac83",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=76640e58-0b06-4afa-a1b8-4675d7b50618"
+      ]
+    },
+    {
+      "id": "176978",
+      "name": "變更臺中市都市計畫（西屯地區）細部計畫（第二次通盤檢討）（第一階段）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=67006f2f-6504-41f3-afda-95ffef789f5d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bad4e00d-ab72-4b76-8200-d5a66fbfe074"
+      ]
+    },
+    {
+      "id": "176982",
+      "name": "變更臺中市都市計畫（旱溪地區）細部計畫（第四次通盤檢討）案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=42337026-cc8c-41f3-b6fc-79a29f442332",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d6a6517a-9ddb-4307-81a7-a396afbe07e0"
+      ]
+    },
+    {
+      "id": "176987",
+      "name": "變更鐵砧山風景特定區細部計畫(土地使用分區管制要點通盤檢討)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4aa11c20-3c22-4166-b86c-b69a9bdb4933"
+      ]
+    },
+    {
+      "id": "177041",
+      "name": "變更太平都市計畫(郵政事業土地專案通盤檢討)第四案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=486e7a94-75f0-46ec-9b8d-ba63c9fb8e3a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e46212e2-2f5e-4b79-ba7f-8aa86a1b7ed8"
+      ]
+    },
+    {
+      "id": "177043",
+      "name": "變更台中市都市計畫（旱溪地區）細部計畫（計畫範圍專案通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=be770b0f-0fd0-4101-b484-4b2493f8bbe8"
+      ]
+    },
+    {
+      "id": "177046",
+      "name": "變更中部科學工業園區台中基地附近特定區計畫(部分農業區為河川區)(配合筏子溪農路橋至十三寮排水與大雅排水河流點環境改善工程)",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=faadfd14-a0f6-4244-9afc-ccd1eb0de222"
+      ]
+    },
+    {
+      "id": "177047",
+      "name": "變更台中市都市計畫（台灣省實施區段徵收五年計畫範圍－廍子地區）細部計畫（計畫範圍專案通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d5de53cf-b1c6-49ba-91dc-941a3ce2ad07"
+      ]
+    },
+    {
+      "id": "177048",
+      "name": "變更中部科學工業園區台中基地附近特定區計畫【部分文教區（供宜寧中學使用）為農業區】案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=047578af-5880-4a9d-96aa-0117688634e3"
+      ]
+    },
+    {
+      "id": "177050",
+      "name": "變更中部科學工業園區台中基地附近特定區計畫（部分農業區變更為零星工業區）（配合喬山健康科技股份有限公司擴廠）細部計畫",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=93482474-eabb-48e1-b970-06f5cfc663e9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=839ae98f-a99b-48f3-8f6b-e385e6f59aa3"
+      ]
+    },
+    {
+      "id": "177054",
+      "name": "變更中部科學工業園區台中基地附近特定區計畫細部計畫(部分道路用地為綠地(科綠8)、部分綠地(科綠8)為道路用地、部分園區事業專用區為綠地(細綠2)暨修訂土地使用管制要點)案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a9693789-bcab-47fb-a641-62158ccdc144",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4b8ee2e5-ce7d-4228-a97f-142408846350"
+      ]
+    },
+    {
+      "id": "177072",
+      "name": "臺中市大平霧地區都市計畫主要計畫",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=664d7c8c-d255-4017-9b8b-954457b9c7d7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0f6bb2ad-e2d1-456c-b79e-3bc3826c62dc"
+      ]
+    },
+    {
+      "id": "177073",
+      "name": "擬定臺中市都市計畫（樹德地區）細部計畫（南區番婆段403地號）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1fc731dc-dbd0-4e94-9b25-e14901017018"
+      ]
+    },
+    {
+      "id": "177074",
+      "name": "擬定高速公路王田交流道附近特定區計畫（不包括 高速鐵路台中車站地區）（兒五西側整體開發區）細部計畫案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5efe2cde-6fd4-4ec1-a25e-a7ef883b095b"
+      ]
+    },
+    {
+      "id": "177075",
+      "name": "變更台中市都市計畫(中清路交流道附近乙種工業區)細部計畫(計畫範圍專案通盤檢討)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=73fd5103-c787-424d-aee3-dc7ba3110c39",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=05ee9248-c59b-457c-ba1f-417d5d143255"
+      ]
+    },
+    {
+      "id": "177076",
+      "name": "擬定臺中市烏日都市計畫細部計畫(明傳產業園區部分)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=692d82bb-e714-475e-acac-6c481d535bd3"
+      ]
+    },
+    {
+      "id": "177080",
+      "name": "訂正中部科學工業園區台中基地附近特定區計畫【機關用地（五）範圍】案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1750180f-d7e8-4455-b38f-8f0951e8ef01",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=6ea45450-bb79-43ee-b0c0-477db36f0e18"
+      ]
+    },
+    {
+      "id": "177060",
+      "name": "變更台中港特定區計畫(市場用地(市64-2)為第四種住宅區及道路用地)案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=bda54089-dac6-4043-820f-348e40d7261b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7a9d1d6b-0a3a-4220-921a-a16c4ad8776e"
+      ]
+    },
+    {
+      "id": "177068",
+      "name": "「變更大里都市計畫(部分溝渠用地為河川區及河道用地)案」",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=40f961e9-2868-4f71-baf5-aadcb9208e80",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=b6bdfa3c-27f9-4aa6-91a3-3cae2b065558"
+      ]
+    },
+    {
+      "id": "177069",
+      "name": "「變更臺中市都市計畫主要計畫(第四次通盤檢討)(變更內容明細表編號第35)案」",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c338ce33-6ebb-4d0f-b718-71f207644376",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ae948b07-973c-4731-b399-ea707aeb7f0c"
+      ]
+    },
+    {
+      "id": "177071",
+      "name": "訂正臺中市都市計畫主要計畫（部分農業區為公墓用地）（北屯區第28公墓）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2fc35c07-095e-4cbb-ade7-4a0f603ca6ee",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=8066ecb4-dfeb-4fd0-832f-80fede573330"
+      ]
+    },
+    {
+      "id": "177082",
+      "name": "擬定臺中市都市計畫（商業區（附二十五））細部計畫案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2cf23c58-ba34-47a5-8feb-fa3bd0e08866"
+      ]
+    },
+    {
+      "id": "177083",
+      "name": "訂正中部科學工業園區台中基地附近特定區細部計畫【機關用地（五）範圍】案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=edb31741-a2a4-4187-8309-6b886df4d5ea",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=2f119508-1a9c-47bd-b33e-83d82c0d6000"
+      ]
+    },
+    {
+      "id": "177084",
+      "name": "訂正臺中市都市計畫(福安里附近)細部計畫（第二種住宅區為第二種住宅區<附帶條件>)案",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7c550f68-b791-43a4-9704-6a78a8ce0868",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a03b8e07-ccf4-4d31-a749-5d3f2be59789"
+      ]
+    },
+    {
+      "id": "177087",
+      "name": "變更台中市都市計畫主要計畫（不包括大坑風景區）（計畫範圍專案通盤檢討）案",
+      "format": "csv",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4a900c52-8940-4ff2-b878-22109b3d7b02",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9cfc2a59-f6a3-4e7b-b984-96acfa98acb3"
+      ]
+    },
+    {
+      "id": "90733",
+      "name": "20536-02-05-2 臺中市核發建築物使用執照統計-按土地使用分區別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=41e412f3-f762-4a77-af8e-e5921f0ee38d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=86cef6fa-3107-4684-ae7a-33642c265031",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0a14c610-ed4e-4f5c-a7d4-b91695d8e6b7",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=9bf60cf1-f5c4-49e6-9a71-c7deb666db4a",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=14c6331f-b80a-48c3-8002-595aaa451c1f",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=feebf784-2fea-427e-be61-802ebd0f43f4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0bb58edf-ce49-4b2c-8e7c-bc2f16bbcc46",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=625b0dad-1ab8-4c89-bb57-03bc0fc582d6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c84d919b-bde9-4b95-a3c3-3d4566426bf6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=31cd5401-9e9b-4e65-bde1-38b73095b215",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1cee7027-a9b7-4c0a-8a90-6701129cddcf",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=871b9b95-e2c9-4432-a7c2-5ea6ef62b25e",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=41ac8f83-cfb6-4a00-b4ca-3e25060e3dc6",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=ab58cebb-2860-4e9f-ace7-db12c658327d",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f19d55f2-6931-4297-b1ed-fc6702d2fa2b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=249e3b41-133e-46b9-9722-c236a9e91adc",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=e06dd7cc-e8f6-4d1f-b8f1-1a935476dff3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=a4119983-0313-4100-8e27-47d5509db4a9"
+      ]
+    },
+    {
+      "id": "90734",
+      "name": "20536-03-02-2 臺中市建築物開工統計-按構造別分",
+      "format": "json",
+      "urls": [
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c808228f-7cf4-41a1-bf9d-34303f91994b",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=1b55de76-7784-4e3b-ba8b-04408d67da41",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=3dbe2389-c5bd-4c5f-bcc7-78c71eb0a9d2",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c2587c6f-c486-4be3-8cb5-5a756d5df96c",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4c044895-d6b4-49a4-a3d8-16a815db3ade",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=04963382-6495-4a74-91b1-80ee2ebbd711",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=45e41f32-4861-433c-b962-e5f077bd49ac",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=7ef8a92e-df4e-4e1d-8533-92373763c6f4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5e897848-1419-4248-9e8b-543324ea08e9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c6b26cae-04a7-4b51-b2d2-6639ddaab7fd",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=4f74380d-1e53-4879-88ad-9121b6b5bbf3",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=49d11e82-d3fa-41c3-8bd8-bb3b7c20b6d9",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=f040a246-2fe3-4dfa-b500-64fc3a647999",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=d92ca610-7438-473d-b2b1-5b9f21585ba4",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=76437959-7374-4a9e-beca-830bbe5c4326",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=5b97d195-9d51-4105-988d-8d12e26e3740",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=950704dc-c70f-4f04-a584-198666115033",
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=0e330345-814b-4c09-a96f-e185deb47d38"
+      ]
+    }
+  ]
+}
