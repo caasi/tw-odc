@@ -26,8 +26,8 @@ def test_resolve_params_empty():
     assert resolve_params({}) == {}
 
 
-def test_dest_filename_with_params():
-    """Resolved params are used for URL substitution only; filename should not include param values."""
+def test_dest_filename_ignores_params():
+    """Params are for URL substitution only; filename is always id.format with no param suffix."""
     result = _dest_filename(
         {"id": "daily-changed-json", "format": "json"},
         0, 1,
@@ -401,7 +401,7 @@ def test_clean_dataset_no_side_files(tmp_path):
 
 @pytest.mark.asyncio
 async def test_fetch_all_resolves_params(tmp_path):
-    """fetch_all should substitute {date} in URLs and include date in filename."""
+    """fetch_all should substitute {date} in URLs; filename should be stable (no date suffix)."""
     manifest = {
         "type": "metadata",
         "provider": "data.gov.tw",
@@ -565,3 +565,62 @@ async def test_fetch_all_no_cache_skips_conditional_headers(tmp_path):
         await fetch_all(manifest, pkg_dir / "datasets", no_cache=True)
 
     assert "If-None-Match" not in captured_headers
+
+
+@pytest.mark.asyncio
+async def test_fetch_all_parameterized_skips_etag_cache(tmp_path):
+    """Datasets with params should never send conditional headers, even when etags.json has a matching URL."""
+    manifest = {
+        "type": "metadata",
+        "provider": "data.gov.tw",
+        "datasets": [{
+            "id": "daily-changed-json",
+            "name": "每日異動",
+            "format": "json",
+            "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+            "params": {"date": "today"},
+        }],
+    }
+    import datetime
+    today = datetime.date.today().isoformat()
+    resolved_url = f"https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={today}"
+
+    # Pre-populate etags.json with the resolved URL so a normal (non-param) dataset would get a 304
+    cache_path = tmp_path / "etags.json"
+    cache_path.write_text(json.dumps({resolved_url: {"etag": '"abc123"'}}))
+
+    captured_headers = {}
+
+    async def _iter_chunked(chunk_size):
+        yield b"[]"
+
+    mock_content_obj = MagicMock()
+    mock_content_obj.iter_chunked = _iter_chunked
+
+    def _get(url, **kwargs):
+        captured_headers.update(kwargs.get("headers", {}))
+        resp = AsyncMock()
+        resp.status = 200
+        resp.content_length = 2
+        resp.content = mock_content_obj
+        resp.headers = {}
+        resp.__aenter__ = AsyncMock(return_value=resp)
+        resp.__aexit__ = AsyncMock(return_value=False)
+        return resp
+
+    mock_session = AsyncMock()
+    mock_session.get = _get
+    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
+    mock_session.__aexit__ = AsyncMock(return_value=False)
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await fetch_all(manifest, tmp_path, cache_path=cache_path)
+
+    # No conditional headers sent despite etags.json having the URL
+    assert "If-None-Match" not in captured_headers
+
+    # ETag for the parameterized URL should have been evicted from the cache file
+    # (when the only entry was for the parameterized URL, the file should be removed)
+    if cache_path.exists():
+        new_cache = json.loads(cache_path.read_text())
+        assert resolved_url not in new_cache

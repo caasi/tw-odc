@@ -56,17 +56,18 @@ GET https://data.gov.tw/api/front/dataset/changed/export?format={csv|json}&repor
 
 ### 檔名規則
 
-帶 params 的 dataset 檔名包含參數值：
+帶 params 的 dataset 檔名與靜態 dataset 相同：
 
-- `daily-changed-json-2026-03-10.json`
-- `daily-changed-csv-2026-03-10.csv`
+- `daily-changed-json.json`
+- `daily-changed-csv.csv`
 
-格式：`{id}-{param_values}.{format}`
+格式：`{id}.{format}`（params 只影響 URL 模板替換，不反映在檔名中）
 
 ### fetcher.py 變更
 
 - 下載前檢查 dataset 是否有 `params`
-- 有 `params` 時：解析特殊值（`"today"` → 今日日期）→ `str.format_map()` 替換 URL → 檔名帶參數值
+- 有 `params` 時：解析特殊值（`"today"` → 今日日期）→ `str.format_map()` 替換 URL → 檔名不帶參數值
+- 有 `params` 的 dataset 不使用 ETag 快取（避免不同 URL 對應同一檔案產生過期內容）
 - 無 `params` 時：現有邏輯不變
 
 ### CLI 變更

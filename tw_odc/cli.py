@@ -200,7 +200,7 @@ def metadata_update(
 @metadata_app.command("apply-daily")
 def metadata_apply_daily(
     fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
-    date: str | None = typer.Option(None, "--date", help="Date of daily changed file (YYYY-MM-DD)"),
+    date: str | None = typer.Option(None, "--date", help="Date label for the output summary (YYYY-MM-DD); does not select a different input file"),
 ) -> None:
     """Apply daily changed datasets to existing provider manifests."""
     import datetime as _dt
