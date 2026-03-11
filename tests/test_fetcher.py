@@ -26,6 +26,22 @@ def test_resolve_params_empty():
     assert resolve_params({}) == {}
 
 
+def test_dest_filename_with_params():
+    """Datasets with resolved params should include param values in filename."""
+    result = _dest_filename(
+        {"id": "daily-changed-json", "format": "json"},
+        0, 1,
+        resolved_params={"date": "2026-03-10"},
+    )
+    assert result == "daily-changed-json-2026-03-10.json"
+
+
+def test_dest_filename_without_params_unchanged():
+    """Existing behavior: no params → id.format filename."""
+    result = _dest_filename({"id": "export-json", "format": "json"}, 0, 1)
+    assert result == "export-json.json"
+
+
 def _make_manifest(tmp_path, datasets):
     """Create a minimal package with manifest.json, return (manifest_dict, pkg_dir)."""
     manifest = {"type": "dataset", "provider": "測試機關", "slug": "test_provider", "datasets": datasets}

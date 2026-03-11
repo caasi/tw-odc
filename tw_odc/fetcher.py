@@ -31,17 +31,21 @@ def resolve_params(params: dict | None, overrides: dict | None = None) -> dict:
     return resolved
 
 
-def _dest_filename(dataset: dict, url_index: int, url_count: int) -> str:
-    """Derive destination filename from dataset id and format."""
+def _dest_filename(dataset: dict, url_index: int, url_count: int, resolved_params: dict | None = None) -> str:
+    """Derive destination filename from dataset id, format, and optional params."""
     fmt = dataset["format"].lower()
     dataset_id = str(dataset["id"])
     if not _SAFE_ID_RE.match(dataset_id):
         raise ValueError(f"Unsafe dataset id: {dataset_id!r}")
     if not _SAFE_FMT_RE.match(fmt):
         raise ValueError(f"Unsafe dataset format: {fmt!r}")
+    suffix = ""
+    if resolved_params:
+        param_str = "-".join(resolved_params.values())
+        suffix = f"-{param_str}"
     if url_count == 1:
-        return f"{dataset_id}.{fmt}"
-    return f"{dataset_id}-{url_index + 1}.{fmt}"
+        return f"{dataset_id}{suffix}.{fmt}"
+    return f"{dataset_id}{suffix}-{url_index + 1}.{fmt}"
 
 
 def clean(pkg_dir: Path) -> list[str]:
