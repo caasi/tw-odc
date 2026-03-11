@@ -282,7 +282,7 @@ class TestMetadataApplyDaily:
              "檔案格式": "CSV", "資料下載網址": "https://x.gov.tw/1",
              "資料集變動狀態": "新增"},
         ]
-        (tmp_path / "daily-changed-json-2026-03-10.json").write_text(
+        (tmp_path / "daily-changed-json.json").write_text(
             json.dumps(daily, ensure_ascii=False))
         return tmp_path
 
@@ -327,7 +327,7 @@ class TestMetadataApplyDaily:
              "檔案格式": "CSV", "資料下載網址": "https://a.gov.tw/1",
              "資料集變動狀態": "刪除"},
         ]
-        (tmp_path / "daily-changed-json-2026-03-11.json").write_text(
+        (tmp_path / "daily-changed-json.json").write_text(
             json.dumps(daily, ensure_ascii=False))
         monkeypatch.chdir(base)
 

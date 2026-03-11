@@ -18,34 +18,41 @@ _SAFE_FMT_RE = re.compile(r"^\w+$")
 
 
 def resolve_params(params: dict | None, overrides: dict | None = None) -> dict:
-    """Resolve special param values. 'today' → YYYY-MM-DD. Overrides take precedence."""
+    """Resolve special param values. 'today' → YYYY-MM-DD. Overrides take precedence.
+
+    Only keys already present in params are resolved; extra override keys are ignored.
+    Returns an empty dict when params is None or empty.
+
+    Example:
+        resolve_params({"date": "today"})                           # {"date": "YYYY-MM-DD"}
+        resolve_params({"date": "today"}, {"date": "2026-01-01"})  # {"date": "2026-01-01"}
+        resolve_params({"date": "today"}, {"other": "ignored"})    # {"date": "YYYY-MM-DD"}
+    """
     if not params:
         return {}
     resolved = {}
-    merged = {**params, **(overrides or {})}
-    for key, value in merged.items():
-        if value == "today":
+    for key, value in params.items():
+        override_val = (overrides or {}).get(key)
+        if override_val is not None:
+            resolved[key] = str(override_val)
+        elif value == "today":
             resolved[key] = datetime.date.today().isoformat()
         else:
             resolved[key] = str(value)
     return resolved
 
 
-def _dest_filename(dataset: dict, url_index: int, url_count: int, resolved_params: dict | None = None) -> str:
-    """Derive destination filename from dataset id, format, and optional params."""
+def _dest_filename(dataset: dict, url_index: int, url_count: int) -> str:
+    """Derive destination filename from dataset id and format."""
     fmt = dataset["format"].lower()
     dataset_id = str(dataset["id"])
     if not _SAFE_ID_RE.match(dataset_id):
         raise ValueError(f"Unsafe dataset id: {dataset_id!r}")
     if not _SAFE_FMT_RE.match(fmt):
         raise ValueError(f"Unsafe dataset format: {fmt!r}")
-    suffix = ""
-    if resolved_params:
-        param_str = "-".join(resolved_params.values())
-        suffix = f"-{param_str}"
     if url_count == 1:
-        return f"{dataset_id}{suffix}.{fmt}"
-    return f"{dataset_id}{suffix}-{url_index + 1}.{fmt}"
+        return f"{dataset_id}.{fmt}"
+    return f"{dataset_id}-{url_index + 1}.{fmt}"
 
 
 def clean(pkg_dir: Path) -> list[str]:
@@ -180,20 +187,33 @@ async def fetch_all(
         cache = json.loads(cache_path.read_text(encoding="utf-8"))
 
     # Collect all (url, dest) pairs
+    # Parameterized datasets (with `params`) always get a fresh download — their
+    # URL changes across runs but maps to the same dest filename, so ETag caching
+    # by URL would leave stale content if a different parameterized URL was cached.
     downloads: list[tuple[str, Path]] = []
+    parameterized_urls: set[str] = set()
     for dataset in manifest["datasets"]:
         resolved = resolve_params(dataset.get("params"), param_overrides)
         urls = dataset["urls"]
+        has_params = bool(dataset.get("params"))
         if resolved:
             urls = [u.format_map(resolved) for u in urls]
         for i, url in enumerate(urls):
-            filename = _dest_filename(dataset, i, len(urls), resolved_params=resolved or None)
+            filename = _dest_filename(dataset, i, len(urls))
             dest = (output_dir / filename).resolve()
             try:
                 dest.relative_to(output_dir.resolve())
             except ValueError:
                 raise ValueError(f"Destination path escapes output directory: {dest}")
             downloads.append((url, dest))
+            if has_params:
+                parameterized_urls.add(url)
+
+    # Evict any stale cache entries for parameterized URLs so that
+    # conditional headers are never sent and old entries are cleaned up.
+    cache_evicted = any(url in cache for url in parameterized_urls)
+    for url in parameterized_urls:
+        cache.pop(url, None)
 
     if only:
         matched = [(url, dest) for url, dest in downloads if dest.name == only]
@@ -213,7 +233,7 @@ async def fetch_all(
         progress.console.print(msg, highlight=False)
 
     def _conditional_headers(url: str) -> dict[str, str]:
-        if no_cache:
+        if no_cache or url in parameterized_urls:
             return {}
         headers: dict[str, str] = {}
         entry = cache.get(url)
@@ -225,6 +245,8 @@ async def fetch_all(
         return headers
 
     def _update_cache(url: str, headers: dict) -> None:
+        if url in parameterized_urls:
+            return
         etag = headers.get("ETag", "")
         last_modified = headers.get("Last-Modified", "")
         entry: dict[str, str] = {}
@@ -320,6 +342,9 @@ async def fetch_all(
         cache_path.write_text(
             json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8"
         )
+    elif cache_evicted and not cache and cache_path.exists():
+        # Eviction removed all remaining entries; clean up the now-empty cache file.
+        cache_path.unlink()
     if issues:
         with open(issues_path, "w", encoding="utf-8") as f:
             for issue in issues:

@@ -145,11 +145,13 @@ def update_dataset_manifest(pkg_dir: Path, changed_datasets: list[dict]) -> int:
     count = 0
     for ds in changed_datasets:
         ds_id = str(ds["id"])
-        existing[ds_id] = ds
-        count += 1
+        if existing.get(ds_id) != ds:
+            existing[ds_id] = ds
+            count += 1
 
-    manifest["datasets"] = list(existing.values())
-    manifest_path.write_text(
-        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    if count > 0:
+        manifest["datasets"] = list(existing.values())
+        manifest_path.write_text(
+            json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
     return count
