@@ -5,6 +5,7 @@ from tw_odc.gov_tw_scorer import (
     check_link_valid,
     check_direct_download,
     check_structured,
+    check_encoding_match,
 )
 from tw_odc.inspector import InspectionResult
 
@@ -81,3 +82,30 @@ class TestCheckStructured:
 
     def test_all_structured(self):
         assert check_structured(["csv", "json"]) is True
+
+
+class TestCheckEncodingMatch:
+    def test_utf8_file_matches_utf8_metadata(self, tmp_path):
+        f = tmp_path / "data.csv"
+        f.write_text("名稱,數值\n測試,1\n", encoding="utf-8")
+        assert check_encoding_match(f, "UTF-8") is True
+
+    def test_utf8_file_with_empty_metadata_passes(self, tmp_path):
+        """Empty encoding metadata → just check if UTF-8."""
+        f = tmp_path / "data.csv"
+        f.write_text("名稱,數值\n測試,1\n", encoding="utf-8")
+        assert check_encoding_match(f, "") is True
+
+    def test_big5_file_matches_big5_metadata(self, tmp_path):
+        f = tmp_path / "data.csv"
+        f.write_bytes("名稱,數值\n測試,1\n".encode("big5"))
+        assert check_encoding_match(f, "BIG5") is True
+
+    def test_big5_file_does_not_match_utf8_metadata(self, tmp_path):
+        f = tmp_path / "data.csv"
+        f.write_bytes("名稱,數值\n測試,1\n".encode("big5"))
+        assert check_encoding_match(f, "UTF-8") is False
+
+    def test_missing_file_returns_none(self, tmp_path):
+        f = tmp_path / "nonexistent.csv"
+        assert check_encoding_match(f, "UTF-8") is None
