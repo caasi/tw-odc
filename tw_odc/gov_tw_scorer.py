@@ -96,6 +96,31 @@ def check_encoding_match(file_path: Path, declared_encoding: str) -> bool | None
 _FIELD_MATCH_FORMATS = {"csv", "json", "xml"}
 
 
+def _decode_bytes(data: bytes, declared_encoding: str | None) -> str:
+    """Decode bytes using declared encoding first, then chardet, then UTF-8 fallback.
+
+    Priority:
+    1. declared_encoding (from metadata) if provided and valid
+    2. chardet-detected encoding if confidence >= 0.7
+    3. UTF-8 with replacement characters
+    """
+    if declared_encoding:
+        try:
+            return data.decode(declared_encoding, errors="strict")
+        except (LookupError, UnicodeDecodeError):
+            pass
+    detected = chardet.detect(data)
+    encoding = detected.get("encoding")
+    confidence = detected.get("confidence", 0.0) or 0.0
+    try:
+        if encoding and confidence >= 0.7:
+            return data.decode(encoding, errors="strict")
+        else:
+            return data.decode("utf-8", errors="replace")
+    except (LookupError, UnicodeDecodeError):
+        return data.decode("utf-8", errors="replace")
+
+
 def parse_field_description(description: str | None) -> list[str]:
     """Parse 「主要欄位說明」 into a list of expected field names.
 
@@ -108,7 +133,12 @@ def parse_field_description(description: str | None) -> list[str]:
     return [f.strip() for f in text.split(",") if f.strip()]
 
 
-def check_fields_match(file_path: Path, fmt: str, field_description: str | None) -> bool | None:
+def check_fields_match(
+    file_path: Path,
+    fmt: str,
+    field_description: str | None,
+    declared_encoding: str | None = None,
+) -> bool | None:
     """Indicator 5: 欄位描述與資料相符.
 
     Returns True if all expected fields are found, False if any missing,
@@ -123,7 +153,7 @@ def check_fields_match(file_path: Path, fmt: str, field_description: str | None)
         return None
 
     try:
-        actual_fields = _extract_fields(file_path, fmt)
+        actual_fields = _extract_fields(file_path, fmt, declared_encoding)
     except Exception:
         return None
 
@@ -133,15 +163,31 @@ def check_fields_match(file_path: Path, fmt: str, field_description: str | None)
     return all(f in actual_fields for f in expected)
 
 
-def _extract_fields(file_path: Path, fmt: str) -> set[str]:
-    """Extract field names from a data file."""
-    content = file_path.read_bytes()
+_MAX_FIELD_INSPECT_BYTES = 1024 * 1024  # 1 MB cap for JSON/XML field inspection
+
+
+def _extract_fields(file_path: Path, fmt: str, declared_encoding: str | None = None) -> set[str]:
+    """Extract field names from a data file.
+
+    For CSV: reads only the first chunk (up to _ENCODING_BUFFER_SIZE bytes).
+    Decoding priority: declared_encoding (from metadata) → chardet (with
+    confidence ≥ 0.7) → UTF-8 with replacement.  Only the first line is parsed
+    for efficiency so the full file is never loaded into memory.
+    For JSON/XML: reads up to _MAX_FIELD_INSPECT_BYTES to avoid excessive memory
+    use; returns an empty set (propagating to None in check_fields_match) when
+    parsing fails due to truncation.
+    """
     if fmt == "csv":
-        text = content.decode("utf-8", errors="replace")
+        with file_path.open("rb") as fh:
+            chunk = fh.read(_ENCODING_BUFFER_SIZE)
+        if not chunk:
+            return set()
+        text = _decode_bytes(chunk, declared_encoding)
         reader = csv.reader(io.StringIO(text))
         header = next(reader, None)
         return set(h.strip() for h in header) if header else set()
     elif fmt == "json":
+        content = file_path.read_bytes()[:_MAX_FIELD_INSPECT_BYTES]
         data = json.loads(content)
         if isinstance(data, list) and data and isinstance(data[0], dict):
             return set(data[0].keys())
@@ -149,6 +195,7 @@ def _extract_fields(file_path: Path, fmt: str) -> set[str]:
             return set(data.keys())
         return set()
     elif fmt == "xml":
+        content = file_path.read_bytes()[:_MAX_FIELD_INSPECT_BYTES]
         root = ET.fromstring(content)
         elements: set[str] = set()
         for elem in root.iter():
@@ -295,9 +342,15 @@ def gov_tw_score_dataset(
     primary_fmt = real_formats[0] if real_formats else None
     file_path = None
     if datasets_dir and primary_fmt:
-        file_path = datasets_dir / f"{inspection.dataset_id}.{inspection.declared_format}"
-        if not file_path.exists():
-            file_path = None
+        # Prefer the base filename "{dataset_id}.{declared_format}"
+        candidate = datasets_dir / f"{inspection.dataset_id}.{inspection.declared_format}"
+        if candidate.exists():
+            file_path = candidate
+        else:
+            # Fallback for multi-URL datasets where files are named
+            # "{dataset_id}-{i}.{declared_format}"
+            pattern = f"{inspection.dataset_id}-*.{inspection.declared_format}"
+            file_path = min(datasets_dir.glob(pattern), default=None)
 
     # Indicators 4-6 require metadata; skip if not provided
     encoding_match: bool | None = None
@@ -312,7 +365,8 @@ def gov_tw_score_dataset(
         # Indicator 5: fields match
         if structured and primary_fmt in _FIELD_MATCH_FORMATS and file_path:
             fields_match = check_fields_match(
-                file_path, primary_fmt, meta.get("主要欄位說明", "")
+                file_path, primary_fmt, meta.get("主要欄位說明", ""),
+                declared_encoding=meta.get("編碼格式", "") or None,
             )
 
         # Indicator 6: update timeliness

@@ -314,3 +314,47 @@ class TestGovTwScoreDataset:
         score = gov_tw_score_dataset(inspection, {}, datasets_dir)
         assert score.structured is False
         assert score.encoding_match is None  # non-structured → None
+
+    def test_multi_url_dataset_uses_first_indexed_file(self, tmp_path):
+        """Multi-URL datasets named '{id}-{i}.{fmt}' are found via glob fallback."""
+        datasets_dir = tmp_path / "datasets"
+        datasets_dir.mkdir()
+        # Multi-URL naming: no base file, only indexed files
+        (datasets_dir / "1001-1.csv").write_text("名稱,數值\na,1\n", encoding="utf-8")
+        (datasets_dir / "1001-2.csv").write_text("名稱,數值\nb,2\n", encoding="utf-8")
+
+        inspection = InspectionResult(
+            dataset_id="1001", dataset_name="Multi-URL CSV",
+            declared_format="csv", detected_formats=["csv"],
+            file_exists=True, file_empty=False,
+        )
+        metadata = {
+            "編碼格式": "UTF-8",
+            "主要欄位說明": "名稱、數值",
+            "更新頻率": "每1月",
+            "詮釋資料更新時間": "2026-03-10 00:00:00.000000",
+        }
+        score = gov_tw_score_dataset(inspection, metadata, datasets_dir)
+        assert score.encoding_match is True
+        assert score.fields_match is True
+
+    def test_big5_csv_fields_match(self, tmp_path):
+        """_extract_fields decodes BIG5 CSV correctly for field matching."""
+        datasets_dir = tmp_path / "datasets"
+        datasets_dir.mkdir()
+        f = datasets_dir / "1001.csv"
+        f.write_bytes("名稱,數值\na,1\n".encode("big5"))
+
+        inspection = InspectionResult(
+            dataset_id="1001", dataset_name="BIG5 CSV",
+            declared_format="csv", detected_formats=["csv"],
+            file_exists=True, file_empty=False,
+        )
+        metadata = {
+            "編碼格式": "BIG5",
+            "主要欄位說明": "名稱、數值",
+            "更新頻率": "",
+            "詮釋資料更新時間": "",
+        }
+        score = gov_tw_score_dataset(inspection, metadata, datasets_dir)
+        assert score.fields_match is True

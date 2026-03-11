@@ -448,3 +448,42 @@ class TestDatasetScoreMethod:
         assert data[0]["method"] == "gov-tw"
         assert "indicators" in data[0]
         assert data[0]["indicators"]["link_valid"] is True
+
+    def test_method_gov_tw_from_provider_dir(self, tmp_path, monkeypatch):
+        """--method gov-tw works when cwd is inside the provider directory."""
+        root = tmp_path
+        root_manifest = {
+            "type": "metadata", "provider": "data.gov.tw",
+            "datasets": [{"id": "export-json", "name": "JSON", "format": "json",
+                          "urls": ["https://data.gov.tw/datasets/export/json"]}],
+        }
+        (root / "manifest.json").write_text(json.dumps(root_manifest))
+        export_data = [
+            {"資料集識別碼": "1001", "資料集名稱": "D", "提供機關": "T",
+             "檔案格式": "CSV", "資料下載網址": "http://x",
+             "編碼格式": "UTF-8", "主要欄位說明": "a、b",
+             "更新頻率": "每1月", "詮釋資料更新時間": "2026-03-10 00:00:00.000000"},
+        ]
+        (root / "export-json.json").write_text(json.dumps(export_data, ensure_ascii=False))
+
+        pkg_dir = root / "t"
+        pkg_dir.mkdir()
+        manifest = {
+            "type": "dataset", "provider": "T", "slug": "t",
+            "datasets": [{"id": "1001", "name": "D", "format": "csv", "urls": ["http://x"]}],
+        }
+        (pkg_dir / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False))
+        ds_dir = pkg_dir / "datasets"
+        ds_dir.mkdir()
+        (ds_dir / "1001.csv").write_text("a,b\n1,2\n")
+
+        # Run from INSIDE the provider directory (no --dir needed)
+        monkeypatch.chdir(pkg_dir)
+
+        result = runner.invoke(app, ["dataset", "score", "--method", "gov-tw"])
+        assert result.exit_code == 0
+        data = json.loads(result.output)
+        assert len(data) == 1
+        assert data[0]["method"] == "gov-tw"
+        assert "indicators" in data[0]
+        assert data[0]["indicators"]["link_valid"] is True

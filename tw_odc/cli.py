@@ -360,19 +360,31 @@ def dataset_check(
 def _load_export_json_lookup() -> dict[str, dict]:
     """Load export-json.json from project root and build a lookup by dataset ID.
 
+    Walks upward from cwd to find a manifest.json with type==metadata, then
+    resolves export-json.json relative to that directory.
     Returns empty dict if file not found (graceful degradation).
     """
-    # Walk up from cwd to find root manifest
-    cwd = Path.cwd()
-    root_manifest_path = cwd / "manifest.json"
-    if not root_manifest_path.exists():
-        # Try parent (if we're in a provider dir)
-        root_manifest_path = cwd.parent / "manifest.json"
-    if not root_manifest_path.exists():
+    candidate = Path.cwd()
+    root_dir: Path | None = None
+    while True:
+        manifest_path = candidate / "manifest.json"
+        if manifest_path.exists():
+            try:
+                manifest_data = json.loads(manifest_path.read_text(encoding="utf-8"))
+                if manifest_data.get("type") == "metadata":
+                    root_dir = candidate
+                    break
+            except Exception:
+                pass
+        parent = candidate.parent
+        if parent == candidate:
+            break
+        candidate = parent
+
+    if root_dir is None:
         print(f"W001: {t('W001')}", file=sys.stderr)
         return {}
 
-    root_dir = root_manifest_path.parent
     export_path = root_dir / "export-json.json"
     if not export_path.exists():
         print(f"W002: {t('W002')}", file=sys.stderr)
