@@ -7,8 +7,10 @@ Indicator 7 (民眾回饋意見之回復效率) requires manual review and is no
 import csv
 import io
 import json
+import re
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import chardet
@@ -154,6 +156,70 @@ def _extract_fields(file_path: Path, fmt: str) -> set[str]:
                 elements.add(elem.tag)
         return elements
     return set()
+
+
+_FREQ_PATTERN = re.compile(r"每(\d+)(分|時|日|月|年)")
+
+_FREQ_UNITS: dict[str, str] = {
+    "分": "minutes",
+    "時": "hours",
+    "日": "days",
+    "月": "days",  # multiplied by 30
+    "年": "days",  # multiplied by 365
+}
+
+_FREQ_MULTIPLIERS: dict[str, int] = {
+    "分": 1,
+    "時": 1,
+    "日": 1,
+    "月": 30,
+    "年": 365,
+}
+
+
+def parse_update_frequency(frequency: str | None) -> timedelta | None:
+    """Parse 「更新頻率」 into a timedelta.
+
+    Returns None for irregular/unknown frequencies.
+    """
+    if not frequency or not frequency.strip():
+        return None
+    m = _FREQ_PATTERN.search(frequency)
+    if not m:
+        return None
+    n = int(m.group(1))
+    unit = m.group(2)
+    multiplier = _FREQ_MULTIPLIERS[unit]
+    kwargs = {_FREQ_UNITS[unit]: n * multiplier}
+    return timedelta(**kwargs)
+
+
+def check_update_timeliness(
+    frequency: str | None,
+    last_update: str | None,
+    now: datetime | None = None,
+) -> bool | None:
+    """Indicator 6: 資料更新時效性.
+
+    Returns True if within expected interval, False if overdue, None if unknown.
+    Adds a 1.5x grace period to the interval to allow reasonable delay.
+    """
+    interval = parse_update_frequency(frequency)
+    if interval is None:
+        return None
+    if not last_update or not last_update.strip():
+        return None
+    try:
+        update_time = datetime.strptime(
+            last_update.strip()[:19], "%Y-%m-%d %H:%M:%S"
+        ).replace(tzinfo=timezone.utc)
+    except (ValueError, IndexError):
+        return None
+    if now is None:
+        now = datetime.now(timezone.utc)
+    elapsed = now - update_time
+    # 1.5x grace period
+    return elapsed <= interval * 1.5
 
 
 @dataclass
