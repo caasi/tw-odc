@@ -23,6 +23,10 @@ tw-odc metadata download
 tw-odc metadata download --only export-json.json   # download one file only
 tw-odc metadata download --no-cache                 # bypass ETag cache
 
+# Download daily changed datasets (uses today's date by default)
+tw-odc metadata download --only daily-changed-json.json
+tw-odc metadata download --only daily-changed-csv.csv --date 2026-03-10
+
 # List providers from downloaded metadata (JSON output by default)
 tw-odc metadata list
 tw-odc metadata list --format text
@@ -108,7 +112,7 @@ tw-odc/
 ### Manifest types
 
 Two manifest types distinguished by the `type` field:
-- **metadata** (`manifest.json` in root): lists data.gov.tw bulk exports
+- **metadata** (`manifest.json` in root): lists data.gov.tw bulk exports; entries may include an optional `params` dict for URL template substitution (e.g., `{"date": "today"}`)
 - **dataset** (`manifest.json` in provider dirs): lists individual datasets for a provider
 
 ### Storage
