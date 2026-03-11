@@ -1,0 +1,166 @@
+{
+  "type": "dataset",
+  "provider": "國立教育廣播電臺",
+  "slug": "webapi_ner_gov_tw_00801882",
+  "datasets": [
+    {
+      "id": "19994",
+      "name": "國立教育廣播電臺會計月報表",
+      "format": "zip",
+      "urls": [
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/1cba73ada84bf69bf4c81ca77b6dcf0f.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/cf8a8f34e37e97a7a5c77d069a5643d0.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/d4aa5c1cb03ed6a549d4a0ca39726c87.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/e0f3fdd9a8795bcf1be78176d07c4f53.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/40a653cfa91a55d228cfc5705794cda4.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/114%E5%B9%B46%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613124739285.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/114%E5%B9%B47%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613142683182.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/%E5%89%8D%E7%9E%BB5%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97114%E5%B9%B47%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613154212740.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/114%E5%B9%B48%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613165085977.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/%E5%89%8D%E7%9E%BB5%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97114%E5%B9%B48%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613174443208.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/114%E5%B9%B49%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613224228000.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/%E5%89%8D%E7%9E%BB5%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97114%E5%B9%B49%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613235172622.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/114%E5%B9%B410%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613191429201.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/%E5%89%8D%E7%9E%BB5%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97114%E5%B9%B410%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613241198184.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/114%E5%B9%B411%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613193576363.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/%E5%89%8D%E7%9E%BB5%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97114%E5%B9%B411%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613243210216.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/114%E5%B9%B412%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26012709185362447.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/%E5%89%8D%E7%9E%BB5%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97114%E5%B9%B412%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1XML_26022613245036831.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/115年1月會計月報XML_26021210460058440.zip"
+      ]
+    },
+    {
+      "id": "6324",
+      "name": "國立教育廣播電臺節目快訊(歷史)",
+      "format": "ods",
+      "urls": [
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/cbde1c681b9a8bd873f3f0bcf4452c1f.ods"
+      ]
+    },
+    {
+      "id": "26188",
+      "name": "國立教育廣播電臺節目紀要",
+      "format": "json",
+      "urls": [
+        "https://webapi.ner.gov.tw/nerwebPublic/api/ProgramEpisode/GetProgramOpenData"
+      ]
+    },
+    {
+      "id": "44754",
+      "name": "國立教育廣播電臺支付補捐助明細",
+      "format": "zip",
+      "urls": [
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/%E6%94%AF%E4%BB%98%E8%A3%9C%E6%8D%90%E5%8A%A9%E6%A1%88%E4%BB%B6%E6%98%8E%E7%B4%B0(114%E5%B9%B4%E5%85%A8%E9%83%A8",
+        "open%20data)%20(csv)_26030210192703778.zip"
+      ]
+    },
+    {
+      "id": "157604",
+      "name": "國立教育廣播電臺公告事項(即時)",
+      "format": "json",
+      "urls": [
+        "https://webapi.ner.gov.tw/nerwebPublic/api/BulletinBoard/GetBulletinBoardOpenData"
+      ]
+    },
+    {
+      "id": "157607",
+      "name": "國立教育廣播電臺節目預告(即時)",
+      "format": "json",
+      "urls": [
+        "https://webapi.ner.gov.tw/nerwebPublic/api/ProgramPreview/GetProgramPreviewFlashOpenData"
+      ]
+    },
+    {
+      "id": "12662",
+      "name": "國立教育廣播電臺法定預算",
+      "format": "zip",
+      "urls": [
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/b2df3ed8e0e28269d79baf3f518ecfb4.zip"
+      ]
+    },
+    {
+      "id": "6321",
+      "name": "國立教育廣播電臺公告事項(歷史)",
+      "format": "json",
+      "urls": [
+        "https://webapi.ner.gov.tw/nerwebPublic/api/BulletinBoard/GetBulletinBoardHistoryOpenData"
+      ]
+    },
+    {
+      "id": "26184",
+      "name": "國立教育廣播電臺節目隨選",
+      "format": "json",
+      "urls": [
+        "https://webapi.ner.gov.tw/nerwebPublic/api/ProgramSchedule/GetProgramScheduleDemandOpenData"
+      ]
+    },
+    {
+      "id": "26187",
+      "name": "國立教育廣播電臺節目主持人介紹",
+      "format": "json",
+      "urls": [
+        "https://webapi.ner.gov.tw/nerwebPublic/api/Host/GetHostOpenData"
+      ]
+    },
+    {
+      "id": "6322",
+      "name": "國立教育廣播電臺大事紀要",
+      "format": "json",
+      "urls": [
+        "https://webapi.ner.gov.tw/nerwebPublic/api/History/GetHistoryOpenData"
+      ]
+    },
+    {
+      "id": "6323",
+      "name": "國立教育廣播電臺文教新聞(歷史)",
+      "format": "ods",
+      "urls": [
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/2b6d6195f70a171f458a1e8b53e4061f.ods"
+      ]
+    },
+    {
+      "id": "12660",
+      "name": "國立教育廣播電臺單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/115-%E9%A0%90%E7%AE%97%E6%A1%88-XML_26030210010989857.zip"
+      ]
+    },
+    {
+      "id": "19990",
+      "name": "國立教育廣播電臺單位決算",
+      "format": "zip",
+      "urls": [
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/113%E5%B9%B4%E6%B1%BA%E7%AE%97XML_26022614211561926.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/113%E5%B9%B4%E6%B1%BA%E7%AE%97XML(%E5%AF%A9%E5%AE%9A%E6%9C%AC)_26022614215703600.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/112%E5%B9%B4%E8%87%B3113%E5%B9%B4%E5%89%8D%E7%9E%BB4%E7%89%B9%E5%88%A5%E6%B1%BA%E7%AE%97XML_26022614235431918.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/114%E5%B9%B4%E6%B1%BA%E7%AE%97XML(%E8%87%AA%E7%B7%A8%E3%80%81%E9%99%A2%E7%B7%A8%E7%89%88)_26021209253608282.zip",
+        "https://webapi.ner.gov.tw/WebUPD/GovInfo/114%E5%B9%B4%E5%89%8D%E7%9E%BB5%E7%89%B9%E5%88%A5%E6%B1%BA%E7%AE%97(%E8%87%AA%E7%B7%A8%E3%80%81%E9%99%A2%E7%B7%A8%E7%89%88)XML_26030210221469414.zip"
+      ]
+    },
+    {
+      "id": "26185",
+      "name": "國立教育廣播電臺節目表",
+      "format": "json",
+      "urls": [
+        "https://webapi.ner.gov.tw/nerwebPublic/api/ProgramSchedule/GetProgramScheduleOpenData"
+      ]
+    },
+    {
+      "id": "26186",
+      "name": "國立教育廣播電臺節目總覽",
+      "format": "json",
+      "urls": [
+        "https://webapi.ner.gov.tw/nerwebPublic/api/ProgramEpisode/GetProgramOpenData"
+      ]
+    },
+    {
+      "id": "157605",
+      "name": "國立教育廣播電臺文教新聞(即時)",
+      "format": "json",
+      "urls": [
+        "https://webapi.ner.gov.tw/nerwebPublic/api/News/GetNewsOpenData"
+      ]
+    }
+  ]
+}

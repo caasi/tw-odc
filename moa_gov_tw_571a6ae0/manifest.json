@@ -1,0 +1,63 @@
+{
+  "type": "dataset",
+  "provider": "農業部",
+  "slug": "moa_gov_tw_571a6ae0",
+  "datasets": [
+    {
+      "id": "28001",
+      "name": "農業統計年報資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moa.gov.tw/uploadfiles/opendata/agricultural_statistics_yearbook.csv"
+      ]
+    },
+    {
+      "id": "28002",
+      "name": "農產品批發市場交易行情",
+      "format": "csv",
+      "urls": [
+        "https://www.moa.gov.tw/uploadfiles/opendata/agricultural_market_prices.csv"
+      ]
+    },
+    {
+      "id": "28003",
+      "name": "農業用地面積統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moa.gov.tw/uploadfiles/opendata/agricultural_land_statistics.csv"
+      ]
+    },
+    {
+      "id": "28004",
+      "name": "漁業統計年報",
+      "format": "csv",
+      "urls": [
+        "https://www.moa.gov.tw/uploadfiles/opendata/fishery_statistics_yearbook.csv"
+      ]
+    },
+    {
+      "id": "28005",
+      "name": "林業統計年報",
+      "format": "csv",
+      "urls": [
+        "https://www.moa.gov.tw/uploadfiles/opendata/forestry_statistics_yearbook.csv"
+      ]
+    },
+    {
+      "id": "28006",
+      "name": "動物疾病通報資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moa.gov.tw/uploadfiles/opendata/animal_disease_reports.csv"
+      ]
+    },
+    {
+      "id": "28007",
+      "name": "農藥登記資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moa.gov.tw/uploadfiles/opendata/pesticide_registration.csv"
+      ]
+    }
+  ]
+}

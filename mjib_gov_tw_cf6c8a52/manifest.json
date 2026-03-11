@@ -1,0 +1,891 @@
+{
+  "type": "dataset",
+  "provider": "法務部調查局",
+  "slug": "mjib_gov_tw_cf6c8a52",
+  "datasets": [
+    {
+      "id": "22025",
+      "name": "法務部調查局大陸情勢與兩岸關係(按期)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E5%A4%A7%E9%99%B8%E6%83%85%E5%8B%A2%E8%88%87%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82(147%E6%9C%9F~169%E6%9C%9F).csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%A4%A7%E9%99%B8%E6%83%85%E5%8B%A2%E8%88%87%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82(170%E6%9C%9F~193%E6%9C%9F).csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%A4%A7%E9%99%B8%E6%83%85%E5%8B%A2%E8%88%87%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82(194%E6%9C%9F~217%E6%9C%9F).csv"
+      ]
+    },
+    {
+      "id": "11563",
+      "name": "法務部調查局處務規程",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/11563(1).csv"
+      ]
+    },
+    {
+      "id": "11568",
+      "name": "法務部調查局保防宣導資料",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/19-%E4%BF%9D%E9%98%B2%E8%99%95/1120719.csv"
+      ]
+    },
+    {
+      "id": "11570",
+      "name": "法務部調查局接待參觀服務",
+      "format": "csv",
+      "urls": [
+        "https://seagal1125.github.io/0----/mjib_visit.csv"
+      ]
+    },
+    {
+      "id": "22324",
+      "name": "法務部調查局會計報告",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/07-%E4%B8%BB%E8%A8%88%E5%AE%A4/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E6%9C%83%E8%A8%88%E5%A0%B1%E5%91%8A%E8%BD%89JSON%E6%AA%94%E8%BB%9F%E9%AB%9411(7).csv"
+      ]
+    },
+    {
+      "id": "22329",
+      "name": "法務部調查局公務統計(按月)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/07-%E4%B8%BB%E8%A8%88%E5%AE%A4/%E6%94%BF%E5%BA%9C%E5%85%AC%E9%96%8B.csv"
+      ]
+    },
+    {
+      "id": "23543",
+      "name": "法務部調查局國人來局參觀統計(按半年)",
+      "format": "csv",
+      "urls": [
+        "https://seagal1125.github.io/----/data/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E5%9C%8B%E4%BA%BA%E4%BE%86%E5%B1%80%E5%8F%83%E8%A7%80%E7%B5%B1%E8%A8%88(%E6%8C%89%E5%8D%8A%E5%B9%B4).csv"
+      ]
+    },
+    {
+      "id": "23437",
+      "name": "法務部調查局國際事務(國際訓練)執行情形",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/104.csv"
+      ]
+    },
+    {
+      "id": "23479",
+      "name": "法務部調查局單位預算(按年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/07-%E4%B8%BB%E8%A8%88%E5%AE%A4/%E9%A0%90%E7%AE%97%E6%9B%B8/104-115-(%E9%A0%90%E7%AE%97%E6%A1%88).csv"
+      ]
+    },
+    {
+      "id": "23485",
+      "name": "法務部調查局保防教育宣導統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/19-%E4%BF%9D%E9%98%B2%E8%99%95/%E4%BF%9D%E9%98%B2%E5%AE%A3%E5%B0%8E%E6%8E%88%E8%AA%B2%E7%B5%B1%E8%A8%88%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "23680",
+      "name": "法務部調查局親子血緣鑑定(按半年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/23-%E9%91%91%E8%AD%98%E7%A7%91%E5%AD%B8%E8%99%95/parentalDNA_from10401.csv"
+      ]
+    },
+    {
+      "id": "23684",
+      "name": "法務部調查局筆跡鑑定(按半年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/23-%E9%91%91%E8%AD%98%E7%A7%91%E5%AD%B8%E8%99%95/handwriting_from10401.csv"
+      ]
+    },
+    {
+      "id": "11074",
+      "name": "法務部調查局提供非法吸金型態及案例",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/25-%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E8%99%95/11074.csv"
+      ]
+    },
+    {
+      "id": "11077",
+      "name": "法務部調查局毒品犯罪防制工作年報",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/34-%E6%AF%92%E5%93%81%E9%98%B2%E5%88%B6%E8%99%95/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E6%AF%92%E5%93%81%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E5%B7%A5%E4%BD%9C%E5%B9%B4%E5%A0%B1.csv"
+      ]
+    },
+    {
+      "id": "16003",
+      "name": "國家安全維護工作案件偵辦統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw//userfiles/files/%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E7%B6%AD%E8%AD%B7%E5%B7%A5%E4%BD%9C%E6%A1%88%E4%BB%B6%E5%81%B5%E8%BE%A6%E7%B5%B1%E8%A8%88%E8%A1%A8102-106(1).csv"
+      ]
+    },
+    {
+      "id": "17048",
+      "name": "法務部調查局獎勵提供線索緝獲外逃通緝犯實施要點",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/25-%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E8%99%95/17048.csv"
+      ]
+    },
+    {
+      "id": "14030",
+      "name": "法務部調查局歷年銷燬各類毒品數量統計一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/34-%E6%AF%92%E5%93%81%E9%98%B2%E5%88%B6%E8%99%95/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E6%AD%B7%E5%B9%B4%E9%8A%B7%E7%87%AC%E5%90%84%E9%A1%9E%E6%AF%92%E5%93%81%E6%95%B8%E9%87%8F%E7%B5%B1%E8%A8%88%E4%B8%80%E8%A6%BD%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "14031",
+      "name": "法務部調查局獲案毒品證物各月入庫統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/34-%E6%AF%92%E5%93%81%E9%98%B2%E5%88%B6%E8%99%95/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E7%8D%B2%E6%A1%88%E6%AF%92%E5%93%81%E8%AD%89%E7%89%A9%E5%90%84%E6%9C%88%E5%85%A5%E5%BA%AB%E7%B5%B1%E8%A8%88%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "14120",
+      "name": "法務部調查局請辦公務人員特種考試法務部調查局調查人員特考三等考試離訓、分發人數及比率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/14120.csv"
+      ]
+    },
+    {
+      "id": "14764",
+      "name": "洗錢防制處103年赴金融機構宣導洗錢防制工作統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/35-%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E8%99%95/2.csv"
+      ]
+    },
+    {
+      "id": "14305",
+      "name": "法務部調查局偵辦侵占案件型態統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/25-%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E8%99%95/14305.csv"
+      ]
+    },
+    {
+      "id": "14310",
+      "name": "法務部調查局偵辦違反銀行法案件型態統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/25-%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E8%99%95/14310.csv"
+      ]
+    },
+    {
+      "id": "39323",
+      "name": "法務部調查局調查人員考試四等受訓人員素質統計表(人數、年齡)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/45-%E8%A8%93%E7%B7%B4%E6%89%80/%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E5%9B%9B%E7%AD%89105%E5%B9%B4%E5%8F%97%E8%A8%93%E4%BA%BA%E5%93%A1%E7%B4%A0%E8%B3%AA%E7%B5%B1%E8%A8%88%E8%A1%A8(%E4%BA%BA%E6%95%B8)(2).csv",
+        "https://www.mjib.gov.tw/userfiles/files/45-%E8%A8%93%E7%B7%B4%E6%89%80/%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E5%9B%9B%E7%AD%89105%E5%B9%B4%E5%8F%97%E8%A8%93%E4%BA%BA%E5%93%A1%E7%B4%A0%E8%B3%AA%E7%B5%B1%E8%A8%88%E8%A1%A8(%E5%B9%B4%E9%BD%A1)(2).csv"
+      ]
+    },
+    {
+      "id": "38347",
+      "name": "法務部調查局歷年妨害選舉案件起訴情形統計表(依案數)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/31-%E5%BB%89%E6%94%BF%E8%99%95/01_%E6%AD%B7%E5%B9%B4%E5%A6%A8%E5%AE%B3%E9%81%B8%E8%88%89%E6%A1%88%E4%BB%B6%E8%B5%B7%E8%A8%B4%E6%83%85%E5%BD%A2%E7%B5%B1%E8%A8%88%E8%A1%A8(%E4%BE%9D%E6%A1%88%E6%95%B8).csv"
+      ]
+    },
+    {
+      "id": "38747",
+      "name": "法務部調查局調查人員考試四等考試第一試應試科目",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E5%9B%9B%E7%AD%89%E8%80%83%E8%A9%A6%E7%AC%AC%E4%B8%80%E8%A9%A6%E6%87%89%E8%A9%A6%E7%A7%91%E7%9B%AE.csv"
+      ]
+    },
+    {
+      "id": "38752",
+      "name": "法務部調查局調查人員考試五等考試應試科目",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E4%BA%94%E7%AD%89%E8%80%83%E8%A9%A6%E6%87%89%E8%A9%A6%E7%A7%91%E7%9B%AE.csv"
+      ]
+    },
+    {
+      "id": "64058",
+      "name": "近五年移送案件主要適用法條統計表( 以貪污治罪條例為主要適用法條）",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/64058.csv"
+      ]
+    },
+    {
+      "id": "52722",
+      "name": "國家安全維護工作101年至105年案件偵辦統計表 ",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E7%B6%AD%E8%AD%B7%E5%B7%A5%E4%BD%9C101%E5%B9%B4%E8%87%B3105%E5%B9%B4%E6%A1%88%E4%BB%B6%E5%81%B5%E8%BE%A6%E7%B5%B1%E8%A8%88%E8%A1%A8%20(1).csv"
+      ]
+    },
+    {
+      "id": "74791",
+      "name": "法務部調查局廉政工作移送案件主要適用法律統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/31-%E5%BB%89%E6%94%BF%E8%99%95/09_%E7%A7%BB%E9%80%81%E6%A1%88%E4%BB%B6%E4%B8%BB%E8%A6%81%E9%81%A9%E7%94%A8%E6%B3%95%E5%BE%8B%E7%B5%B1%E8%A8%88%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "112849",
+      "name": "北新書局出版叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/nn.csv"
+      ]
+    },
+    {
+      "id": "152425",
+      "name": "雲海發行商出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/111-1.csv"
+      ]
+    },
+    {
+      "id": "118931",
+      "name": "生活發行商出版叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/life.csv"
+      ]
+    },
+    {
+      "id": "130958",
+      "name": "文光書店出版叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/10909.csv"
+      ]
+    },
+    {
+      "id": "135978",
+      "name": "中央書店出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/center.csv"
+      ]
+    },
+    {
+      "id": "173339",
+      "name": "文化生活出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/%E6%96%87%E5%8C%96%E7%94%9F%E6%B4%BB%E5%87%BA%E7%89%88%E5%A4%A7%E9%99%B8%E5%8F%A2%E6%9B%B8.csv"
+      ]
+    },
+    {
+      "id": "173340",
+      "name": "生活書店出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/%E7%94%9F%E6%B4%BB%E6%9B%B8%E5%BA%97%E5%87%BA%E7%89%88%E5%A4%A7%E9%99%B8%E5%8F%A2%E6%9B%B8.csv"
+      ]
+    },
+    {
+      "id": "171125",
+      "name": "調查局rpz封鎖清單",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/opendata/MJIB_RPZ%E5%B0%81%E9%98%BB%E6%B8%85%E5%96%AE(1131011)-2.csv"
+      ]
+    },
+    {
+      "id": "173749",
+      "name": "法務部調查局洗錢防制工作年報",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/35-%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E8%99%95/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E5%B7%A5%E4%BD%9C%E5%B9%B4%E5%A0%B1.csv"
+      ]
+    },
+    {
+      "id": "11565",
+      "name": "電子出版品",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/11565(1).csv"
+      ]
+    },
+    {
+      "id": "11566",
+      "name": "法務部調查局防詐欺宣導",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/25-%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E8%99%95/11566.csv"
+      ]
+    },
+    {
+      "id": "11567",
+      "name": "法務部調查局展望與探索月刊",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E5%B1%95%E6%9C%9B%E8%88%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E5%88%8A%E7%AC%AC12%E5%8D%B7(1).csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%B1%95%E6%9C%9B%E8%88%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E5%88%8A%E7%AC%AC13%E5%8D%B7.csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%B1%95%E6%9C%9B%E8%88%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E5%88%8A%E7%AC%AC14%E5%8D%B7.csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%B1%95%E6%9C%9B%E8%88%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E5%88%8A%E7%AC%AC15%E5%8D%B7.csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%B1%95%E6%9C%9B%E8%88%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E5%88%8A%E7%AC%AC16%E5%8D%B7.csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%B1%95%E6%9C%9B%E8%88%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E5%88%8A%E7%AC%AC17%E5%8D%B7(1).csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%B1%95%E6%9C%9B%E8%88%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E5%88%8A%E7%AC%AC18%E5%8D%B7.csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%B1%95%E6%9C%9B%E8%88%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E5%88%8A%E7%AC%AC19%E5%8D%B7.csv"
+      ]
+    },
+    {
+      "id": "11081",
+      "name": "法務部調查局保有及管理個人資料之項目彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/11081.csv"
+      ]
+    },
+    {
+      "id": "13787",
+      "name": "法務部調查局請辦公務人員特種考試法務部調查局調查人員特考三等考試各組需用名額、錄取、報到及分發情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/13787.csv"
+      ]
+    },
+    {
+      "id": "13789",
+      "name": "法務部調查局展望與探索月刊研究論文議題統計(按年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/21-%E5%85%A9%E5%B2%B8%E6%83%85%E5%8B%A2%E7%A0%94%E6%9E%90%E8%99%95/%E6%9C%88%E5%88%8A%E7%A0%94%E7%A9%B6%E8%AB%96%E6%96%87%E8%AD%B0%E9%A1%8C%E7%B5%B1%E8%A8%88(12%E5%8D%B7_17%E5%8D%B7).csv"
+      ]
+    },
+    {
+      "id": "23079",
+      "name": "法務部調查局10萬以上採購案件統計",
+      "format": "csv",
+      "urls": [
+        "http://www.mjib.gov.tw/userfiles/files/104%E5%B9%B41-12%E6%9C%8810%E8%90%AC%E4%BB%A5%E4%B8%8A%E6%8E%A1%E8%B3%BC%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88%E8%A1%A8.csv",
+        "http://www.mjib.gov.tw/userfiles/files/105%E5%B9%B41-12%E6%9C%8810%E8%90%AC%E4%BB%A5%E4%B8%8A%E6%8E%A1%E8%B3%BC%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88%E8%A1%A8.csv",
+        "http://www.mjib.gov.tw/userfiles/files/24-%E7%B8%BD%E5%8B%99%E8%99%95/106%E5%B9%B410%E8%90%AC%E4%BB%A5%E4%B8%8A%E6%8E%A1%E8%B3%BC%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88%E8%A1%A8.csv",
+        "http://www.mjib.gov.tw/userfiles/files/24-%E7%B8%BD%E5%8B%99%E8%99%95/1080305-1.csv",
+        "http://www.mjib.gov.tw/userfiles/files/OpenData/24-%E7%B8%BD%E5%8B%99%E8%99%95/108%E5%B9%B41-12%E6%9C%8810%E8%90%AC%E4%BB%A5%E4%B8%8A%E6%8E%A1%E8%B3%BC%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88%E8%A1%A82.csv",
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/24-%E7%B8%BD%E5%8B%99%E8%99%95/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80109%E5%B9%B41%E8%87%B312%E6%9C%88%E4%BB%BD10%E8%90%AC%E5%85%83%E4%BB%A5%E4%B8%8A%E6%8E%A1%E8%B3%BC%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "23085",
+      "name": "法務部調查局歸檔案件統計",
+      "format": "csv",
+      "urls": [
+        "http://www.mjib.gov.tw/userfiles/files/104%E5%B9%B41-12%E6%9C%88%E4%BB%BD%E6%AD%B8%E6%AA%94%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88.csv",
+        "http://www.mjib.gov.tw/userfiles/files/105%E5%B9%B41-12%E6%9C%88%E4%BB%BD%E6%AD%B8%E6%AA%94%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88(2).csv",
+        "http://www.mjib.gov.tw/userfiles/files/106%E5%B9%B4%E6%AD%B8%E6%AA%94%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88.csv",
+        "http://www.mjib.gov.tw/userfiles/files/24-%E7%B8%BD%E5%8B%99%E8%99%95/1080305-2.csv",
+        "http://www.mjib.gov.tw/userfiles/files/OpenData/24-%E7%B8%BD%E5%8B%99%E8%99%95/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80108%E5%B9%B41%E6%9C%88~12%E6%9C%88%E6%AD%B8%E6%AA%94%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88%E8%A1%A8.csv",
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/24-%E7%B8%BD%E5%8B%99%E8%99%95/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80109%E5%B9%B41%E6%9C%88~12%E6%9C%88%E6%AD%B8%E6%AA%94%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "39159",
+      "name": "法務部調查局調查人員考試三等受訓人員素質統計表(類組、學歷)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/45-%E8%A8%93%E7%B7%B4%E6%89%80/%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E4%B8%89%E7%AD%89105%E5%B9%B4%E5%8F%97%E8%A8%93%E4%BA%BA%E5%93%A1%E7%B4%A0%E8%B3%AA%E7%B5%B1%E8%A8%88%E8%A1%A8(%E9%A1%9E%E7%B5%84)(3).csv",
+        "https://www.mjib.gov.tw/userfiles/files/45-%E8%A8%93%E7%B7%B4%E6%89%80/%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E4%B8%89%E7%AD%89105%E5%B9%B4%E5%8F%97%E8%A8%93%E4%BA%BA%E5%93%A1%E7%B4%A0%E8%B3%AA%E7%B5%B1%E8%A8%88%E8%A1%A8(%E5%AD%B8%E6%AD%B7)(2).csv"
+      ]
+    },
+    {
+      "id": "39160",
+      "name": "法務部調查局調查人員考試三等受訓人員素質統計表(人數、年齡)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/45-%E8%A8%93%E7%B7%B4%E6%89%80/%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E4%B8%89%E7%AD%89105%E5%B9%B4%E5%8F%97%E8%A8%93%E4%BA%BA%E5%93%A1%E7%B4%A0%E8%B3%AA%E7%B5%B1%E8%A8%88%E8%A1%A8(%E4%BA%BA%E6%95%B8)(4).csv",
+        "https://www.mjib.gov.tw/userfiles/files/45-%E8%A8%93%E7%B7%B4%E6%89%80/%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E4%B8%89%E7%AD%89105%E5%B9%B4%E5%8F%97%E8%A8%93%E4%BA%BA%E5%93%A1%E7%B4%A0%E8%B3%AA%E7%B5%B1%E8%A8%88%E8%A1%A8(%E5%B9%B4%E9%BD%A1)(3).csv"
+      ]
+    },
+    {
+      "id": "38337",
+      "name": "法務部調查局及所屬機關檢舉電話",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E5%8F%8A%E6%89%80%E5%B1%AC%E6%A9%9F%E9%97%9C%E6%AA%A2%E8%88%89%E9%9B%BB%E8%A9%B1.csv"
+      ]
+    },
+    {
+      "id": "62411",
+      "name": "洗錢防制處受理金融機構申報大額資料統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/35-%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E8%99%95/%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E8%99%95105%E5%B9%B4%E5%8F%97%E7%90%86%E9%87%91%E8%9E%8D%E6%A9%9F%E6%A7%8B%E7%94%B3%E5%A0%B1%E5%A4%A7%E9%A1%8D%E8%B3%87%E6%96%99%E7%B5%B1%E8%A8%88%E8%A1%A8.csv",
+        "https://www.mjib.gov.tw/userfiles/files/洗錢防制處104年受理金融機構申報大額資料統計表-3.csv",
+        "https://www.mjib.gov.tw/userfiles/files/洗錢防制處103年受理金融機構申報大額資料統計表-2.csv"
+      ]
+    },
+    {
+      "id": "86228",
+      "name": "上海文化生活出版社出版書籍",
+      "format": "json",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-資通安全處/上海市文化生活出版社出版書籍.json"
+      ]
+    },
+    {
+      "id": "14212",
+      "name": "法務部調查局近10年移送廉政案件主要適用法律統計表(依案數統計)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/31-%E5%BB%89%E6%94%BF%E8%99%95/08_%E8%BF%9110%E5%B9%B4%E7%A7%BB%E9%80%81%E6%A1%88%E4%BB%B6%E4%B8%BB%E8%A6%81%E9%81%A9%E7%94%A8%E6%B3%95%E5%BE%8B%E7%B5%B1%E8%A8%88%E8%A1%A8(%E4%BB%A5%E6%A1%88%E6%95%B8).csv"
+      ]
+    },
+    {
+      "id": "14214",
+      "name": "法務部調查局近10年移送廉政案件嫌疑人資料統計表(依身分及性別統計)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/31-%E5%BB%89%E6%94%BF%E8%99%95/03_%E8%BF%9110%E5%B9%B4%E7%A7%BB%E9%80%81%E6%A1%88%E4%BB%B6%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%B3%87%E6%96%99%E7%B5%B1%E8%A8%88%E8%A1%A8(%E4%BE%9D%E8%BA%AB%E5%88%86%E5%8F%8A%E6%80%A7%E5%88%A5).csv"
+      ]
+    },
+    {
+      "id": "14217",
+      "name": "法務部調查局近10年妨害選舉案件賄選型態統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/31-%E5%BB%89%E6%94%BF%E8%99%95/06_%E8%BF%9110%E5%B9%B4%E5%A6%A8%E5%AE%B3%E9%81%B8%E8%88%89%E6%A1%88%E4%BB%B6%E8%B3%84%E9%81%B8%E5%9E%8B%E6%85%8B%E7%B5%B1%E8%A8%88%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "14750",
+      "name": "法務部調查局資通安全處103年度資安宣導",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95103%E5%B9%B4%E5%BA%A6%E8%B3%87%E5%AE%89%E5%AE%A3%E5%B0%8E(2).csv"
+      ]
+    },
+    {
+      "id": "23448",
+      "name": "法務部調查局國際事務(犯罪情資)執行情形",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/104-2.csv"
+      ]
+    },
+    {
+      "id": "14211",
+      "name": "法務部調查局近10年移送廉政案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/31-%E5%BB%89%E6%94%BF%E8%99%95/04_%E8%BF%9110%E5%B9%B4%E7%A7%BB%E9%80%81%E6%A1%88%E4%BB%B6%E7%B5%B1%E8%A8%88%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "14254",
+      "name": "法務部調查局口頭宣導件數",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/32-%E6%94%BF%E9%A2%A8%E5%AE%A4/%E5%8F%A3%E9%A0%AD%E5%AE%A3%E5%B0%8E%E4%BB%B6%E6%95%B810404-10509.csv"
+      ]
+    },
+    {
+      "id": "23677",
+      "name": "法務部調查局污損破損鈔券鑑定(按半年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/23-%E9%91%91%E8%AD%98%E7%A7%91%E5%AD%B8%E8%99%95/broken_cur_from10401.csv"
+      ]
+    },
+    {
+      "id": "23679",
+      "name": "法務部調查局火焚鈔券鑑定(按半年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/23-%E9%91%91%E8%AD%98%E7%A7%91%E5%AD%B8%E8%99%95/fireburnt_cur_from10401.csv"
+      ]
+    },
+    {
+      "id": "16004",
+      "name": "國家安全維護工作資料蒐集件數",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E7%B6%AD%E8%AD%B7%E5%B7%A5%E4%BD%9C101%E5%B9%B4%E8%87%B3105%E5%B9%B4%E8%B3%87%E6%96%99%E8%92%90%E9%9B%86%E4%BB%B6%E6%95%B8.csv"
+      ]
+    },
+    {
+      "id": "14307",
+      "name": "法務部調查局偵辦背信案件型態統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/25-%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E8%99%95/14307.csv"
+      ]
+    },
+    {
+      "id": "14308",
+      "name": "法務部調查局偵辦侵害智慧財產權案件型態統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/25-%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E8%99%95/14308.csv"
+      ]
+    },
+    {
+      "id": "14309",
+      "name": "法務部調查局偵辦違反證券交易法案件型態統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/25-%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E8%99%95/14309.csv"
+      ]
+    },
+    {
+      "id": "14550",
+      "name": "法務部調查局資安鑑識實驗室簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/14550.csv"
+      ]
+    },
+    {
+      "id": "14528",
+      "name": "法務部調查局調查人員考試三等104年受訓人員素質統計表(類組、學歷)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/14528.csv"
+      ]
+    },
+    {
+      "id": "38827",
+      "name": "洗錢防制處104年洗錢防制工作宣導訓練統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E8%99%95104%E5%B9%B4%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E5%B7%A5%E4%BD%9C%E5%AE%A3%E5%B0%8E%E8%A8%93%E7%B7%B4%E7%B5%B1%E8%A8%88%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "99551",
+      "name": "光明書局出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/SunLight.csv"
+      ]
+    },
+    {
+      "id": "127849",
+      "name": "現代出版社發行叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/now.csv"
+      ]
+    },
+    {
+      "id": "95928",
+      "name": "法務部調查局組織架構主管簡介業務職掌",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/95928_intro.csv"
+      ]
+    },
+    {
+      "id": "107503",
+      "name": "山東新華發行商出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/SDXH.csv"
+      ]
+    },
+    {
+      "id": "152424",
+      "name": "新知書店發行商出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/110-4.csv"
+      ]
+    },
+    {
+      "id": "138901",
+      "name": "文化生活發行商出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/110-1.csv"
+      ]
+    },
+    {
+      "id": "168357",
+      "name": "新流書店出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://davidsiwa.z22.web.core.windows.net/新流書店出版大陸叢書.csv"
+      ]
+    },
+    {
+      "id": "173750",
+      "name": "法務部調查局洗錢防制處電子報",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/35-%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E8%99%95/%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E8%99%95%E9%9B%BB%E5%AD%90%E5%A0%B1.csv"
+      ]
+    },
+    {
+      "id": "11075",
+      "name": "113年法務部調查局廉政工作年報",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/31-%E5%BB%89%E6%94%BF%E8%99%95/opendata/07_%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E5%BB%89%E6%94%BF%E5%B7%A5%E4%BD%9C%E5%B9%B4%E5%A0%B1(1).csv"
+      ]
+    },
+    {
+      "id": "11076",
+      "name": "法務部調查局經濟犯罪防制工作年報",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/25-%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E8%99%95/11076.csv"
+      ]
+    },
+    {
+      "id": "22028",
+      "name": "法務部調查局大陸法律與兩岸犯罪活動輯要(按期)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E5%A4%A7%E9%99%B8%E6%B3%95%E5%BE%8B%E8%88%87%E5%85%A9%E5%B2%B8%E7%8A%AF%E7%BD%AA%E6%B4%BB%E5%8B%95%E8%BC%AF%E8%A6%81(147%E6%9C%9F~169%E6%9C%9F).csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%A4%A7%E9%99%B8%E6%B3%95%E5%BE%8B%E8%88%87%E5%85%A9%E5%B2%B8%E7%8A%AF%E7%BD%AA%E6%B4%BB%E5%8B%95%E8%BC%AF%E8%A6%81(170%E6%9C%9F~193%E6%9C%9F).csv",
+        "https://www.mjib.gov.tw/userfiles/files/%E5%A4%A7%E9%99%B8%E6%B3%95%E5%BE%8B%E8%88%87%E5%85%A9%E5%B2%B8%E7%8A%AF%E7%BD%AA%E6%B4%BB%E5%8B%95%E8%BC%AF%E8%A6%81(194%E6%9C%9F~217%E6%9C%9F).csv"
+      ]
+    },
+    {
+      "id": "14032",
+      "name": "法務部調查局偵辦毒品案件數及查獲量統計表(按年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/34-%E6%AF%92%E5%93%81%E9%98%B2%E5%88%B6%E8%99%95/%E5%81%B5%E8%BE%A6%E6%AF%92%E5%93%81%E6%A1%88%E4%BB%B6%E6%95%B8%E5%8F%8A%E6%9F%A5%E7%8D%B2%E9%87%8F%E7%B5%B1%E8%A8%88%E8%A1%A8(103-105).csv"
+      ]
+    },
+    {
+      "id": "14821",
+      "name": "洗錢防制處104年第1季受理大額通貨交易申報資料",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/35-%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E8%99%95/1.csv"
+      ]
+    },
+    {
+      "id": "11564",
+      "name": "法務部調查局受理申請提供政府資訊作業要點",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/11564.csv"
+      ]
+    },
+    {
+      "id": "11569",
+      "name": "法務部調查局國家賠償事件情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/11569.csv"
+      ]
+    },
+    {
+      "id": "14297",
+      "name": "法務部調查局偵辦詐欺案件型態統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/25-%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E9%98%B2%E5%88%B6%E8%99%95/14297.csv"
+      ]
+    },
+    {
+      "id": "14210",
+      "name": "法務部調查局廉政案件偵辦工作統計總表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/31-%E5%BB%89%E6%94%BF%E8%99%95/05_%E6%A1%88%E4%BB%B6%E5%81%B5%E8%BE%A6%E5%B7%A5%E4%BD%9C%E7%B5%B1%E8%A8%88%E7%B8%BD%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "14216",
+      "name": "法務部調查局近10年移送民選公職人員統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/31-%E5%BB%89%E6%94%BF%E8%99%95/02_%E8%BF%9110%E5%B9%B4%E7%A7%BB%E9%80%81%E6%B0%91%E9%81%B8%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E7%B5%B1%E8%A8%88%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "23368",
+      "name": "法務部調查局公務員赴陸安全宣導統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E5%85%AC%E5%8B%99%E5%93%A1%E8%B5%B4%E9%99%B8%E5%AE%89%E5%85%A8%E5%AE%A3%E5%B0%8E%E7%B5%B1%E8%A8%88%E8%A1%A8.csv"
+      ]
+    },
+    {
+      "id": "23480",
+      "name": "法務部調查局單位決算(按年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/07-%E4%B8%BB%E8%A8%88%E5%AE%A4/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E6%B1%BA%E7%AE%97%E5%A0%B1%E5%91%8A%E8%BD%89JSON%E6%AA%94%E8%BB%9F%E9%AB%943.csv"
+      ]
+    },
+    {
+      "id": "23490",
+      "name": "法務部調查局清流月刊投稿及刊登篇數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E6%B8%85%E6%B5%81%E9%9B%99%E6%9C%88%E5%88%8A%E6%8A%95%E7%A8%BF%E5%8F%8A%E5%88%8A%E7%99%BB%E7%B5%B1%E8%A8%88%E8%A1%A81(1).csv"
+      ]
+    },
+    {
+      "id": "23455",
+      "name": "法務部調查局國際合作執行情形",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/MJIB-105-forign-stat.csv"
+      ]
+    },
+    {
+      "id": "14751",
+      "name": "法務部調查局職員學歷統計報表",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/06-%E4%BA%BA%E4%BA%8B%E5%AE%A4/%E6%9C%AC%E5%B1%80%E8%81%B7%E5%93%A1%E5%AD%B8%E6%AD%B7%E7%B5%B1%E8%A8%8810605.csv"
+      ]
+    },
+    {
+      "id": "23682",
+      "name": "法務部調查局毛髮分析鑑定(按半年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/23-%E9%91%91%E8%AD%98%E7%A7%91%E5%AD%B8%E8%99%95/hairs_from10401.csv"
+      ]
+    },
+    {
+      "id": "14526",
+      "name": "法務部調查局調查人員考試三等104年受訓人員素質統計表(人數、年齡)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/45-%E8%A8%93%E7%B7%B4%E6%89%80/%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E4%B8%89%E7%AD%89104%E5%B9%B4%E5%8F%97%E8%A8%93%E4%BA%BA%E5%93%A1%E7%B4%A0%E8%B3%AA%E7%B5%B1%E8%A8%88%E8%A1%A8(%E4%BA%BA%E6%95%B8).csv",
+        "https://www.mjib.gov.tw/userfiles/files/45-%E8%A8%93%E7%B7%B4%E6%89%80/%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E4%B8%89%E7%AD%89104%E5%B9%B4%E5%8F%97%E8%A8%93%E4%BA%BA%E5%93%A1%E7%B4%A0%E8%B3%AA%E7%B5%B1%E8%A8%88%E8%A1%A8(%E5%B9%B4%E9%BD%A1).csv"
+      ]
+    },
+    {
+      "id": "14530",
+      "name": "法務部調查局調查人員考試四等104年受訓人員素質統計表(人數、年齡)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/14530.csv"
+      ]
+    },
+    {
+      "id": "38423",
+      "name": "法務部調查局獲案毒品鑑定(按半年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/23-%E9%91%91%E8%AD%98%E7%A7%91%E5%AD%B8%E8%99%95/drugs_from10501.csv"
+      ]
+    },
+    {
+      "id": "38336",
+      "name": "法務部調查局及所屬機關地址及聯絡電話",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E5%8F%8A%E6%89%80%E5%B1%AC%E6%A9%9F%E9%97%9C%E5%9C%B0%E5%9D%80%E5%8F%8A%E8%81%AF%E7%B5%A1%E9%9B%BB%E8%A9%B1.csv"
+      ]
+    },
+    {
+      "id": "38745",
+      "name": "法務部調查局組織法",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E8%AA%BF%E6%9F%A5%E5%B1%80%E7%B5%84%E7%B9%94%E6%B3%95.csv"
+      ]
+    },
+    {
+      "id": "38746",
+      "name": "法務部調查局調查人員考試三等考試第一試應試科目",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E6%B3%95%E5%8B%99%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%B1%80%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E4%B8%89%E7%AD%89%E8%80%83%E8%A9%A6%E7%AC%AC%E4%B8%80%E8%A9%A6%E6%87%89%E8%A9%A6%E7%A7%91%E7%9B%AE.csv"
+      ]
+    },
+    {
+      "id": "39322",
+      "name": "法務部調查局調查人員考試四等受訓人員素質統計表(類組、學歷)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/45-%E8%A8%93%E7%B7%B4%E6%89%80/%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E5%9B%9B%E7%AD%89105%E5%B9%B4%E5%8F%97%E8%A8%93%E4%BA%BA%E5%93%A1%E7%B4%A0%E8%B3%AA%E7%B5%B1%E8%A8%88%E8%A1%A8(%E9%A1%9E%E7%B5%84)(1).csv",
+        "https://www.mjib.gov.tw/userfiles/files/45-%E8%A8%93%E7%B7%B4%E6%89%80/%E8%AA%BF%E6%9F%A5%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6%E5%9B%9B%E7%AD%89105%E5%B9%B4%E5%8F%97%E8%A8%93%E4%BA%BA%E5%93%A1%E7%B4%A0%E8%B3%AA%E7%B5%B1%E8%A8%88%E8%A1%A8(%E5%AD%B8%E6%AD%B7)(2).csv"
+      ]
+    },
+    {
+      "id": "75943",
+      "name": "國家安全維護工作資料蒐集件數102-106",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E7%B6%AD%E8%AD%B7%E5%B7%A5%E4%BD%9C%E8%B3%87%E6%96%99%E8%92%90%E9%9B%86%E4%BB%B6%E6%95%B8102-106(1).csv"
+      ]
+    },
+    {
+      "id": "75944",
+      "name": "國家安全維護工作案件偵辦統計表102-106",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E7%B6%AD%E8%AD%B7%E5%B7%A5%E4%BD%9C%E6%A1%88%E4%BB%B6%E5%81%B5%E8%BE%A6%E7%B5%B1%E8%A8%88%E8%A1%A8102-106(1).csv"
+      ]
+    },
+    {
+      "id": "52725",
+      "name": "國家安全維護工作資料蒐集件數(101年-105年)",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E7%B6%AD%E8%AD%B7%E5%B7%A5%E4%BD%9C101%E5%B9%B4%E8%87%B3105%E5%B9%B4%E8%B3%87%E6%96%99%E8%92%90%E9%9B%86%E4%BB%B6%E6%95%B8(1).csv"
+      ]
+    },
+    {
+      "id": "103104",
+      "name": "中華書局出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/CH.csv"
+      ]
+    },
+    {
+      "id": "95855",
+      "name": "法務部調查局綠色採購比率",
+      "format": "json",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/green.json"
+      ]
+    },
+    {
+      "id": "143011",
+      "name": "華北新華發行商出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/14-%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E8%99%95/northnew.csv"
+      ]
+    },
+    {
+      "id": "162055",
+      "name": "文化供應社出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/%E6%96%87%E5%8C%96%E4%BE%9B%E6%87%89%E7%A4%BE%E5%87%BA%E7%89%88%E5%A4%A7%E9%99%B8%E5%8F%A2%E6%9B%B8.csv"
+      ]
+    },
+    {
+      "id": "162057",
+      "name": "亞東圖書館出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://www.mjib.gov.tw/userfiles/files/OpenData/%E6%96%87%E5%8C%96%E4%BE%9B%E6%87%89%E7%A4%BE%E5%87%BA%E7%89%88%E5%A4%A7%E9%99%B8%E5%8F%A2%E6%9B%B8.csv"
+      ]
+    },
+    {
+      "id": "168355",
+      "name": "開明書店出版大陸叢書",
+      "format": "csv",
+      "urls": [
+        "https://davidsiwa.z22.web.core.windows.net/開明書店出版大陸叢書.csv"
+      ]
+    }
+  ]
+}

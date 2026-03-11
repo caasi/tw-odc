@@ -1,0 +1,1314 @@
+{
+  "type": "dataset",
+  "provider": "台灣中油股份有限公司",
+  "slug": "www3_cpc_com_tw_70231b7c",
+  "datasets": [
+    {
+      "id": "9751",
+      "name": "中油燃料油牌價",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/ListPriceWebService_Fuel.asmx/getCPCFuelListPrice_XML",
+        "https://vipmbr.cpc.com.tw/openData/FuelOilListPrice"
+      ]
+    },
+    {
+      "id": "11152",
+      "name": "台灣中油公司液化石油氣歷史價格",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/中油液化石油氣歷史牌價.csv"
+      ]
+    },
+    {
+      "id": "19201",
+      "name": "台灣中油公司104年度會計報表",
+      "format": "7z",
+      "urls": [
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年1月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年2月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年3月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年4月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年5月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年6月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年7月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年8月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年9月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年10月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年11月月報.7z",
+        "https://www3.cpc.com.tw/104年度會計報表/台灣中油104年12月月報.7z"
+      ]
+    },
+    {
+      "id": "22229",
+      "name": "探採研究所新技術發展應用",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_f00/探採研究所新技術發展應用.csv"
+      ]
+    },
+    {
+      "id": "22285",
+      "name": "桃園煉油廠空氣品質監測",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_tor/桃園煉油廠周界空氣品質監測表.csv"
+      ]
+    },
+    {
+      "id": "22288",
+      "name": "煉製研究所歷年已獲專利清單",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_e00/研究所歷年已獲專利清單.csv"
+      ]
+    },
+    {
+      "id": "22281",
+      "name": "台灣中油公司公用天然氣用戶ACH轉帳代繳金融機構一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_L00/中油公用事業用戶ACH轉帳代繳金融機構一覽表.csv"
+      ]
+    },
+    {
+      "id": "22283",
+      "name": "探採研究所對外論文發表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_f00/探採研究所對外論文發表.csv"
+      ]
+    },
+    {
+      "id": "6065",
+      "name": "台灣中油公司加油站服務資訊",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/STNWebService.asmx/getStationInfo_XML",
+        "https://vipmbr.cpc.com.tw/openData/getStationInfo"
+      ]
+    },
+    {
+      "id": "6339",
+      "name": "中油主產品牌價",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/ListPriceWebService.asmx/getCPCMainProdListPrice_XML",
+        "https://vipmbr.cpc.com.tw/CPCSTN/ListPriceWebService.asmx/getCPCMainProdListPrice_English_XML",
+        "https://vipmbr.cpc.com.tw/openData/MainProdListPrice"
+      ]
+    },
+    {
+      "id": "11058",
+      "name": "台灣中油公司液化石油氣規範",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/液化石油氣規範.csv"
+      ]
+    },
+    {
+      "id": "11072",
+      "name": "台灣中油公司丁烷安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/丁烷安全資料表.csv"
+      ]
+    },
+    {
+      "id": "16833",
+      "name": "直營漁船加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/FishingBoatWebService.asmx/getFishingBoatStation_XML",
+        "https://vipmbr.cpc.com.tw/openData/getFishingBoatStation"
+      ]
+    },
+    {
+      "id": "16834",
+      "name": "台灣中油公司液化石油氣加氣站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/LPGWebService.asmx/getLPGStation_XML",
+        "https://vipmbr.cpc.com.tw/openData/getLPGStation"
+      ]
+    },
+    {
+      "id": "16836",
+      "name": "台灣中油公司車用液化石油氣規範",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/車用液化石油氣規範.csv"
+      ]
+    },
+    {
+      "id": "16838",
+      "name": "台灣中油公司混合丙丁烷安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/混合丙丁烷安全資料表.csv"
+      ]
+    },
+    {
+      "id": "16839",
+      "name": "台灣中油公司混合丙丁烷規範",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/混合丙丁烷規範.csv"
+      ]
+    },
+    {
+      "id": "16846",
+      "name": "綠能科技研究所太陽能發電加油站發電量統計",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_n00/GTRI_PV_opendata(UTF-8).csv"
+      ]
+    },
+    {
+      "id": "16828",
+      "name": "台灣中油公司溶劑類牌價",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/ListPriceWebService_Liquor.asmx/getCPCLiquorListPrice_XML"
+      ]
+    },
+    {
+      "id": "25570",
+      "name": "國光牌工業用油 ( Industrial oil )產品說明書",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_t00/國光牌產品說明書-工業用油.csv"
+      ]
+    },
+    {
+      "id": "13185",
+      "name": "中油生技經銷商名單",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/中油生技經銷商資訊.csv"
+      ]
+    },
+    {
+      "id": "30042",
+      "name": "台灣中油公司歷年會計報表(106年以前)",
+      "format": "zip",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油103年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油104年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油105年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油106年審定決算.zip"
+      ]
+    },
+    {
+      "id": "30096",
+      "name": "台灣中油公司丁烷危害標示",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/丁烷危害標示.csv"
+      ]
+    },
+    {
+      "id": "30113",
+      "name": "台灣中油公司丙烷危害標示",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/丙烷危害標示.csv"
+      ]
+    },
+    {
+      "id": "30115",
+      "name": "台灣中油公司公益及睦鄰支出",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a06/公益及睦鄰支出.csv"
+      ]
+    },
+    {
+      "id": "36488",
+      "name": "台灣中油公司液化天然氣氣源成本",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_l00/液化天然氣氣源成本.csv"
+      ]
+    },
+    {
+      "id": "30130",
+      "name": "台灣中油公司95無鉛汽油安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/95無鉛汽油安全資料表.csv"
+      ]
+    },
+    {
+      "id": "30131",
+      "name": "台灣中油公司98無鉛汽油安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/98無鉛汽油安全資料表.csv"
+      ]
+    },
+    {
+      "id": "30132",
+      "name": "國光牌潤滑油脂經銷商聯絡資訊",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_t00/國光牌潤滑油脂經銷商聯絡資訊.csv"
+      ]
+    },
+    {
+      "id": "30135",
+      "name": "台灣中油公司探勘資料收費原則",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_b00/探勘資料收費原則.csv"
+      ]
+    },
+    {
+      "id": "30136",
+      "name": "探採事業部採購公告",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_b00/探採事業部採購公告.csv"
+      ]
+    },
+    {
+      "id": "30137",
+      "name": "台灣中油公司政策宣導媒體廣告",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a06/政策宣導媒體廣告.csv"
+      ]
+    },
+    {
+      "id": "41531",
+      "name": "探採研究所發展計畫表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_f00/探採研究所發展計畫表.csv"
+      ]
+    },
+    {
+      "id": "41536",
+      "name": "台灣中油公司什麼是汽油添加劑",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/什麼是汽油添加劑.csv"
+      ]
+    },
+    {
+      "id": "41545",
+      "name": "台灣中油公司認識加油機",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/認識加油機.csv"
+      ]
+    },
+    {
+      "id": "41549",
+      "name": "台灣中油公司省好油、接妙招",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/省好油、接妙招.csv"
+      ]
+    },
+    {
+      "id": "41553",
+      "name": "台灣中油公司快保中心",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/CarsCenter.asmx/getCarsCenterData_XML"
+      ]
+    },
+    {
+      "id": "41554",
+      "name": "台灣中油公司洗車中心",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/WashCenter.asmx/getWashCenterData_XML"
+      ]
+    },
+    {
+      "id": "78541",
+      "name": "台灣中油公司會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年1月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年2月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年3月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年4月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年5月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年6月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年7月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年8月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年9月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年10月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年11月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年12月會計月報.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油115年1月會計月報.zip"
+      ]
+    },
+    {
+      "id": "62919",
+      "name": "探採研究所台灣陸域鑽井位置",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_f00/探採研究所台灣陸域鑽井位置.csv"
+      ]
+    },
+    {
+      "id": "81394",
+      "name": "台灣中油公司提供廢潤滑油回收加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/oilrecovery.asmx/getoilrecoveryData_XML",
+        "https://vipmbr.cpc.com.tw/openData/OilRecycleStn"
+      ]
+    },
+    {
+      "id": "81395",
+      "name": "台灣中油公司提供真空吸油機加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/vacuumsuction.asmx/getvacuumsuctionData_XML",
+        "https://vipmbr.cpc.com.tw/openData/SuctionMachineStn"
+      ]
+    },
+    {
+      "id": "81397",
+      "name": "台灣中油公司提供代收停車費加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/collectparkingfee.asmx/getcollectparkingfeeData_XML"
+      ]
+    },
+    {
+      "id": "81402",
+      "name": "煉製研究所技術服務項目",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_e00/煉製研究所技術服務項目.csv"
+      ]
+    },
+    {
+      "id": "45343",
+      "name": "探採事業部對外工程服務收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_B00/探採事業部對外工程服務作業收費標準.csv"
+      ]
+    },
+    {
+      "id": "32581",
+      "name": "台灣中油公司天然氣(NG1)安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_l00/天然氣(NG1)安全資料表.csv"
+      ]
+    },
+    {
+      "id": "32591",
+      "name": "台灣中油公司人力資源處訓練所圖書出版資訊",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a60/人力資源處訓練所_圖書出版資訊.csv"
+      ]
+    },
+    {
+      "id": "32595",
+      "name": "台灣中油公司人力資源處訓練所場地出租資訊",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a60/人力資源處訓練所_場地出租資訊.csv"
+      ]
+    },
+    {
+      "id": "32597",
+      "name": "台灣中油公司人力資源處訓練所學員房間訂房資訊",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a60/人力資源處訓練所_學員房間訂房資訊.csv"
+      ]
+    },
+    {
+      "id": "106247",
+      "name": "台灣中油公司提供電動機車換電服務加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/electricConversion.asmx/getelectricConversionData_XML",
+        "https://vipmbr.cpc.com.tw/openData/ElectricMotorcycleBatterySwappingStn"
+      ]
+    },
+    {
+      "id": "103250",
+      "name": "台灣中油公司天然氣用戶結構(用氣量百分比)",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_l00/天然氣用戶結構(用氣量百分比).csv"
+      ]
+    },
+    {
+      "id": "103252",
+      "name": "中油大樓國光會議廳暨一樓各場地租借資訊",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_A01/中油大樓國光會議廳暨一樓各場地租借資訊.csv"
+      ]
+    },
+    {
+      "id": "103254",
+      "name": "台灣中油公司提供充氣服務加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/inflationstn.asmx/getinflationstnData_XML"
+      ]
+    },
+    {
+      "id": "103264",
+      "name": "探採事業部對外提供海域震測資料收費原則",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_b00/探採事業部對外提供海域震測資料收費原則.csv"
+      ]
+    },
+    {
+      "id": "152772",
+      "name": "台灣中油公司董事名冊",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a13/中油董事名冊.csv"
+      ]
+    },
+    {
+      "id": "152785",
+      "name": "台灣中油公司高雄廠整治進度",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a13/高雄廠整治進度.csv"
+      ]
+    },
+    {
+      "id": "152786",
+      "name": "台灣中油公司石油工程類對外服務項目及計費標準",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a13/石油工程類對外服務項目及計費標準.csv"
+      ]
+    },
+    {
+      "id": "127434",
+      "name": "台灣中油公司委託調查支出",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a51/委託調查支出.csv"
+      ]
+    },
+    {
+      "id": "95023",
+      "name": "台灣中油公司石化事業部固定污染源連續監測即時數據",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_u00/石化事業部固定污染源連續監測即時數據.csv"
+      ]
+    },
+    {
+      "id": "94972",
+      "name": "探採事業部105、106年營運成果",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_b00/探採事業部營運成果.csv"
+      ]
+    },
+    {
+      "id": "95072",
+      "name": "綠能科技研究所研發成果",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_n00/綠能科技研究所研發成果.csv"
+      ]
+    },
+    {
+      "id": "158812",
+      "name": "台灣中油公司歷年審定決算書",
+      "format": "zip",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油103年審定決算-1.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油104年審定決算-1.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油105年審定決算-1.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油106年審定決算-1.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油107年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油108年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油109年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油110年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油111年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油112年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油113年審定決算.zip"
+      ]
+    },
+    {
+      "id": "162490",
+      "name": "台灣中油公司土地出租給充電樁業者營運加油站",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/台灣中油股份有限公司_土地出租給充電樁業者營運加油站.csv"
+      ]
+    },
+    {
+      "id": "166537",
+      "name": "台灣中油公司各項油品牌價",
+      "format": "json",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/openData/SixtypeOilListPrice"
+      ]
+    },
+    {
+      "id": "175903",
+      "name": "台灣中油公司新聞稿",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a06/台灣中油公司新聞稿.csv"
+      ]
+    },
+    {
+      "id": "8831",
+      "name": "台灣中油公司煤油經銷商名單",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_s00/煤油經銷商名單.csv"
+      ]
+    },
+    {
+      "id": "9706",
+      "name": "台灣中油公司環保消息公告",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_u00/環保消息公告.csv"
+      ]
+    },
+    {
+      "id": "9766",
+      "name": "台灣中油公司原油進口成本",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/新版原油進口成本公告.csv"
+      ]
+    },
+    {
+      "id": "13187",
+      "name": "台灣中油公司溶劑類產品",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_s00/溶劑類產品產品編號_名稱_包裝對照表.csv"
+      ]
+    },
+    {
+      "id": "11071",
+      "name": "台灣中油公司丙烷安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/丙烷安全資料表.csv"
+      ]
+    },
+    {
+      "id": "8304",
+      "name": "中油天然氣牌價",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/ListPriceWebService_NaturalGas.asmx/getCPCNaturalGasListPrice_XML",
+        "https://vipmbr.cpc.com.tw/openData/NaturalGasListPrice"
+      ]
+    },
+    {
+      "id": "22284",
+      "name": "桃園煉油廠廢氣燃燒塔使用事件",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_tor/桃園煉油廠環境異常事件通知表.csv"
+      ]
+    },
+    {
+      "id": "22286",
+      "name": "台灣中油公司溶劑類產品對照表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_s00/溶劑類產品產品編號_名稱_包裝對照表.CSV"
+      ]
+    },
+    {
+      "id": "59741",
+      "name": "台灣中油公司提供泵島柴油自助加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/selftransactionDieselfuel.asmx/getselftransactionDieselfuelData_XML",
+        "https://vipmbr.cpc.com.tw/openData/SelfServeDieselStn"
+      ]
+    },
+    {
+      "id": "59743",
+      "name": "台灣中油公司提供複合式商店服務加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/CompositeStore.asmx/getCompositeStoreData_XML",
+        "https://vipmbr.cpc.com.tw/openData/VarietyShopStn"
+      ]
+    },
+    {
+      "id": "59744",
+      "name": "台灣中油公司加油站附設獨立無障礙公廁",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/Accessibletoilets.asmx/getAccessibletoiletsData_XML"
+      ]
+    },
+    {
+      "id": "59745",
+      "name": "台灣中油公司提供etag儲值加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/etag.asmx/getetagData_XML"
+      ]
+    },
+    {
+      "id": "36512",
+      "name": "台灣中油公司石化特定用途參考牌價表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_u00/石化特定用途參考牌價表.csv"
+      ]
+    },
+    {
+      "id": "36483",
+      "name": "台灣中油公司進口天然氣成本之指標原油價格",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_l00/進口天然氣成本之指標原油價格.csv"
+      ]
+    },
+    {
+      "id": "36492",
+      "name": "台灣中油公司石化產品特性與規範",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_u00/石化產品特性與規範.csv"
+      ]
+    },
+    {
+      "id": "32614",
+      "name": "中油綠色生技產品履歷",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_s00/中油綠色生技產品履歷.csv"
+      ]
+    },
+    {
+      "id": "32627",
+      "name": "台灣中油公司愛車如何決定要加那種汽油",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/愛車如何決定要加那種汽油.csv"
+      ]
+    },
+    {
+      "id": "32602",
+      "name": "台灣中油公司人力資源處訓練所開課資訊",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a60/人力資源處訓練所_開課資訊.csv"
+      ]
+    },
+    {
+      "id": "62926",
+      "name": "台灣中油公司儲槽租賃費率",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_U00/儲槽租賃費率.csv"
+      ]
+    },
+    {
+      "id": "62937",
+      "name": "國光牌 9000 SN 車用機油安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_t00/國光牌9000SN車用機油安全資料表.csv"
+      ]
+    },
+    {
+      "id": "86147",
+      "name": "台灣地熱區地熱井井下地質報告",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_b00/台灣地熱區地熱井井下地質報告.csv"
+      ]
+    },
+    {
+      "id": "41539",
+      "name": "台灣中油公司煤油供應",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/Kerosene.asmx/getKeroseneData_XML",
+        "https://vipmbr.cpc.com.tw/openData/KeroseneData"
+      ]
+    },
+    {
+      "id": "81386",
+      "name": "出磺坑老油田文化園區景點導覽",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_b00/出磺坑老油田文化園區景點導覽.csv"
+      ]
+    },
+    {
+      "id": "81401",
+      "name": "台灣中油公司天然氣事業部營業處服務據點電話地址一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_l00/台灣中油股份有限公司_天然氣事業部營業處服務據點電話地址一覽表.csv"
+      ]
+    },
+    {
+      "id": "18306",
+      "name": "台灣中油公司103年度決算書",
+      "format": "zip",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油103年審定決算.zip"
+      ]
+    },
+    {
+      "id": "25492",
+      "name": "國光牌潤滑油產品牌價表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_t00/國光牌潤滑油脂牌價表.csv"
+      ]
+    },
+    {
+      "id": "25518",
+      "name": "國光牌基礎油 ( Base oil )產品說明書",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_t00/國光牌產品說明書-基礎油.csv"
+      ]
+    },
+    {
+      "id": "25571",
+      "name": "國光牌滑脂 ( Grease )產品說明書",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_t00/國光牌產品說明書-滑脂.csv"
+      ]
+    },
+    {
+      "id": "25575",
+      "name": "台灣中油公司國內線海運燃油牌價",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/ListPriceWebService.asmx/getCPCMarineFuelListPrice_XML",
+        "https://vipmbr.cpc.com.tw/openData/MarineFuelListPrice"
+      ]
+    },
+    {
+      "id": "25578",
+      "name": "台灣中油公司國際線海運燃油牌價",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/ListPriceWebService.asmx/getCPCMarineFuelListPrice_International_XML",
+        "https://vipmbr.cpc.com.tw/openData/MarineFuelListPrice_International"
+      ]
+    },
+    {
+      "id": "16840",
+      "name": "台灣中油公司家用液化石油氣批售牌價與亞鄰各國比較表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/中油家用液化石油氣批售牌價與亞鄰各國比較表.csv"
+      ]
+    },
+    {
+      "id": "16843",
+      "name": "台灣中油公司丙烯安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_u00/丙烯安全資料表.csv"
+      ]
+    },
+    {
+      "id": "16844",
+      "name": "台灣中油公司新進人員性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a00/新進人員性別統計.csv"
+      ]
+    },
+    {
+      "id": "16835",
+      "name": "台灣中油公司各直銷中心營業地點",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/SaleDeptWebService.asmx/getSaleDepartment_XML",
+        "https://vipmbr.cpc.com.tw/openData/getSaleDepartment"
+      ]
+    },
+    {
+      "id": "45424",
+      "name": "台灣中油公司提供機車泵島悠遊卡交易加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/EasyCard.asmx/getEasyCardData_XML"
+      ]
+    },
+    {
+      "id": "45426",
+      "name": "台灣中油公司提供機車泵島一卡通交易加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/ipassCard.asmx/getipassCardData_XML"
+      ]
+    },
+    {
+      "id": "103251",
+      "name": "台灣中油公司提供加水服務加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/addwaterstn.asmx/getaddwaterstnData_XML"
+      ]
+    },
+    {
+      "id": "103498",
+      "name": "煉製研究所論文發表資料集",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_e00/煉研所論文發表資料集.csv"
+      ]
+    },
+    {
+      "id": "94969",
+      "name": "台灣中油公司溶劑化學品事業部各區營業處所地址電話",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_s00/溶劑化學品事業部各區營業處所地址電話.csv"
+      ]
+    },
+    {
+      "id": "94973",
+      "name": "探採事業部服務據點電話地址一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_b00/探採事業部服務據點電話地址一覽表.csv"
+      ]
+    },
+    {
+      "id": "94876",
+      "name": "台灣中油公司人力資源處訓練所數位學習成效資訊",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_A60/人力資源處訓練所_數位學習成效資訊.csv"
+      ]
+    },
+    {
+      "id": "95075",
+      "name": "探採研究所探採研究報告分類",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_f00/探採研究所探採研究報告分類.csv"
+      ]
+    },
+    {
+      "id": "139642",
+      "name": "附設來速咖啡加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/cupgo.asmx/getcupgoData_XML"
+      ]
+    },
+    {
+      "id": "158971",
+      "name": "台灣中油公司歷年預算書",
+      "format": "zip",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油108年法定預算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油109年法定預算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油110年法定預算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油111年法定預算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油112年法定預算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油114年院核預算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油113年法定預算1.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油115年院核預算.zip"
+      ]
+    },
+    {
+      "id": "162487",
+      "name": "台灣中油公司提供電動車充電服務加油站",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/台灣中油股份有限公司_提供電動車充電服務加油站.csv"
+      ]
+    },
+    {
+      "id": "167904",
+      "name": "綠能科技研究所歷年已獲專利清單",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_n00/綠能所歷年已獲專利清單.csv"
+      ]
+    },
+    {
+      "id": "166564",
+      "name": "台灣中油公司提供電動機車服務加油站",
+      "format": "json",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/openData/electricmotoData"
+      ]
+    },
+    {
+      "id": "173801",
+      "name": "台灣中油公司轉投資事業派兼董事及監察人名單",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a52/台灣中油公司轉投資事業董事及監察人名單.csv"
+      ]
+    },
+    {
+      "id": "8832",
+      "name": "台灣中油公司溶劑油經銷商名單",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_s00/溶劑油經銷商名單.csv"
+      ]
+    },
+    {
+      "id": "11070",
+      "name": "台灣中油公司丙烷及丁烷規範",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/丙烷及丁烷規範.csv"
+      ]
+    },
+    {
+      "id": "16832",
+      "name": "台灣中油公司液化石油氣牌價",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/ListPriceWebService_LPG.asmx/getCPCLPGListPrice_XML",
+        "https://vipmbr.cpc.com.tw/CPCSTN/ListPriceWebService_LPG.asmx/getCPCNaturalGas_Historical_XML",
+        "https://vipmbr.cpc.com.tw/openData/LPGListPrice"
+      ]
+    },
+    {
+      "id": "16841",
+      "name": "探採事業部環境監測摘要報告",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_b00/中油公司大河底2號探井油氣探勘計畫環境監測工作施工期間最新環境監測報告.csv"
+      ]
+    },
+    {
+      "id": "16842",
+      "name": "台灣中油公司乙烯安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_u00/乙烯安全資料表.csv"
+      ]
+    },
+    {
+      "id": "16845",
+      "name": "台灣中油公司員工人數及性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a00/員工人數及性別統計.csv"
+      ]
+    },
+    {
+      "id": "20973",
+      "name": "台灣中油公司歷年審定決算書(106年以前)",
+      "format": "zip",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油103年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油104年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油105年審定決算.zip",
+        "https://www3.cpc.com.tw/opendata_a04/台灣中油106年審定決算.zip"
+      ]
+    },
+    {
+      "id": "22280",
+      "name": "台灣中油公司生技經銷商名單",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/中油生技經銷商資訊.csv"
+      ]
+    },
+    {
+      "id": "22287",
+      "name": "煉製研究所提供之油品檢驗分析服務項目",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_e00/研究所檢驗分析服務項目.csv"
+      ]
+    },
+    {
+      "id": "30116",
+      "name": "台灣中油公司92無鉛汽油安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/92無鉛汽油安全資料表.csv"
+      ]
+    },
+    {
+      "id": "30090",
+      "name": "台灣中油公司電測資料收費原則",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_b00/電測資料收費原則.csv"
+      ]
+    },
+    {
+      "id": "32622",
+      "name": "中油加油站油品品質抽驗月報表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/中油加油站油品品質抽驗月報表.CSV"
+      ]
+    },
+    {
+      "id": "32632",
+      "name": "台灣中油公司汽油小常識",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/汽油小常識.csv"
+      ]
+    },
+    {
+      "id": "32608",
+      "name": "中油大樓國光會議廳暨一樓各場地收費標準表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a01/中油大樓國光會議廳暨一樓各場地收費標準表.csv"
+      ]
+    },
+    {
+      "id": "32585",
+      "name": "台灣中油公司天然氣(NG2)安全資料表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_l00/天然氣(NG2)安全資料表.csv"
+      ]
+    },
+    {
+      "id": "25519",
+      "name": "國光牌車輛用油 ( Motor Oil )產品說明書",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_t00/國光牌產品說明書-車輛用油.csv"
+      ]
+    },
+    {
+      "id": "25566",
+      "name": "國光牌海運機油 ( Marilube Oil )產品說明書",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_t00/國光牌產品說明書-海運機油.csv"
+      ]
+    },
+    {
+      "id": "25589",
+      "name": "大林煉油廠空氣品質監測",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_m00/大林廠環境品質監測季報表.csv"
+      ]
+    },
+    {
+      "id": "25591",
+      "name": "台灣中油公司航空燃油牌價",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/ListPriceWebService.asmx/getCPCAviationFuelListPrice_XML",
+        "https://vipmbr.cpc.com.tw/openData/AviationFuelListPrice"
+      ]
+    },
+    {
+      "id": "30133",
+      "name": "國內礦區合作探勘公司收費原則",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_b00/國內礦區合作探勘公司收費原則.csv"
+      ]
+    },
+    {
+      "id": "30134",
+      "name": "台灣中油公司捐助支出",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a06/捐助支出.csv"
+      ]
+    },
+    {
+      "id": "30138",
+      "name": "台灣中油公司混合丙丁烷危害標示",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/混合丙丁烷危害標示.csv"
+      ]
+    },
+    {
+      "id": "45344",
+      "name": "探採事業部對外技術服務收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_B00/探採事業部對外技術服務作業收費標準.csv"
+      ]
+    },
+    {
+      "id": "59737",
+      "name": "台灣中油公司提供泵島汽油自助加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/selftransactiongasoline.asmx/getselftransactiongasolineData_XML",
+        "https://vipmbr.cpc.com.tw/openData/SelfServeGasolineStn"
+      ]
+    },
+    {
+      "id": "62887",
+      "name": "台灣中油公司中油生技產品牌價表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/台灣中油股份有限公司_中油生技產品牌價表.csv"
+      ]
+    },
+    {
+      "id": "62818",
+      "name": "台灣中油公司檢驗分析服務項目",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_e00/檢驗分析服務項目.csv"
+      ]
+    },
+    {
+      "id": "81398",
+      "name": "台灣中油公司天然氣用戶數",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_l00/台灣中油股份有限公司_天然氣用戶數.csv"
+      ]
+    },
+    {
+      "id": "81400",
+      "name": "台灣中油公司天然氣管線長度",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_l00/台灣中油股份有限公司_天然氣管線長度.csv"
+      ]
+    },
+    {
+      "id": "106246",
+      "name": "台灣中油公司提供電動機車充電服務加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/electriccharging.asmx/getelectricchargingData_XML",
+        "https://vipmbr.cpc.com.tw/openData/ElectricMotorcycleChargingStn"
+      ]
+    },
+    {
+      "id": "109914",
+      "name": "台灣中油公司「苯」參考牌價表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_U00/苯參考牌價表.csv"
+      ]
+    },
+    {
+      "id": "109915",
+      "name": "台灣中油公司MiRAGE專業經銷商(汽車用油)",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_T00/MiRAGE專業經銷商(汽車用油).csv"
+      ]
+    },
+    {
+      "id": "41547",
+      "name": "台灣中油公司氮氣充填服務快保中心",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/N2CarsCenter.asmx/getN2CarsCenterData_XML"
+      ]
+    },
+    {
+      "id": "41550",
+      "name": "台灣中油公司輪胎中心",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/TiresCenter.asmx/getTiresCenterData_XML"
+      ]
+    },
+    {
+      "id": "41532",
+      "name": "探採研究所接受委託服務項目",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_f00/探採研究所接受委託服務項目.csv"
+      ]
+    },
+    {
+      "id": "41540",
+      "name": "台灣中油公司98無鉛汽油介紹",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_d00/98無鉛汽油介紹.csv"
+      ]
+    },
+    {
+      "id": "129938",
+      "name": "桃園煉油廠第三重油加氫脫硫工場興建計畫環境影響說明書",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_tor/桃園煉油廠第三重油加氫脫硫工場興建計畫環境影響說明書.CSV"
+      ]
+    },
+    {
+      "id": "127435",
+      "name": "台灣中油公司附設自助電子式充氣加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/Electronicinflation.asmx/getElectronicinflationData_XML"
+      ]
+    },
+    {
+      "id": "127438",
+      "name": "台灣中油公司液化石油氣類氣槽車灌裝時間表",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_r00/液化石油氣類氣槽車灌裝時間表.csv"
+      ]
+    },
+    {
+      "id": "127439",
+      "name": "提供cpcpay加油站",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/cpcpaystn.asmx/getcpcpaystnData_XML"
+      ]
+    },
+    {
+      "id": "161064",
+      "name": "台灣中油公司環境工程類對外服務項目及計費標準",
+      "format": "csv",
+      "urls": [
+        "https://www3.cpc.com.tw/opendata_a13/環境工程類對外服務項目及計費標準.csv"
+      ]
+    },
+    {
+      "id": "157471",
+      "name": "台灣中油公司附設洗車服務加油站位置資訊",
+      "format": "xml",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/CPCSTN/stnwithwashservice.asmx/getwashservicedata_XML"
+      ]
+    },
+    {
+      "id": "166536",
+      "name": "台灣中油公司加油站資訊",
+      "format": "json",
+      "urls": [
+        "https://vipmbr.cpc.com.tw/openData/5typeservicestn"
+      ]
+    }
+  ]
+}

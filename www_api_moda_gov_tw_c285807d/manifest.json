@@ -1,0 +1,1993 @@
+{
+  "type": "dataset",
+  "provider": "數位發展部",
+  "slug": "www_api_moda_gov_tw_c285807d",
+  "datasets": [
+    {
+      "id": "22107",
+      "name": "政府入口網-生活情報",
+      "format": "json",
+      "urls": [
+        "https://www.gov.tw/newslife.json"
+      ]
+    },
+    {
+      "id": "22113",
+      "name": "政府入口網-福利補助",
+      "format": "json",
+      "urls": [
+        "https://www.gov.tw/welfare.json"
+      ]
+    },
+    {
+      "id": "22114",
+      "name": "數位政府績效統計表",
+      "format": "ods",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4275"
+      ]
+    },
+    {
+      "id": "5962",
+      "name": "iTaiwan公共區域免費服務無線上網熱點",
+      "format": "csv",
+      "urls": [
+        "https://itaiwan.gov.tw/ITaiwanDW/GetFile?fileName=hotspotlist_tw.csv&type=6",
+        "https://itaiwan.gov.tw/ITaiwanDW/GetFile?fileName=IpSelect_tw.json&type=6"
+      ]
+    },
+    {
+      "id": "6443",
+      "name": "垃圾郵件攔阻數據統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4357"
+      ]
+    },
+    {
+      "id": "6564",
+      "name": "政府資料開放平臺資料集清單",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/datasets/export/csv"
+      ]
+    },
+    {
+      "id": "15943",
+      "name": "政府資料開放平臺「我想要更多」民眾建議開放資料清單",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/suggests/export/csv",
+        "https://data.gov.tw/suggests/export/json"
+      ]
+    },
+    {
+      "id": "15944",
+      "name": "政府資料開放平臺「我有話要說」民眾建議開放資料清單",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/comments/export/csv",
+        "https://data.gov.tw/comments/export/json"
+      ]
+    },
+    {
+      "id": "15946",
+      "name": "政府資料開放平臺「各機關資料集統計」清單",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/statistics/datasets/agency/export/csv?type=agency",
+        "https://data.gov.tw/statistics/datasets/agency/export/json?type=agency",
+        "https://data.gov.tw/statistics/datasets/agency/export/xml?type=agency"
+      ]
+    },
+    {
+      "id": "15947",
+      "name": "政府資料開放平臺「最新消息」刊登清單",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/news/export/csv"
+      ]
+    },
+    {
+      "id": "7081",
+      "name": "政府機關唯一識別代碼(OID)",
+      "format": "csv",
+      "urls": [
+        "https://oid.nat.gov.tw/OIDWeb/GDS.csv"
+      ]
+    },
+    {
+      "id": "11969",
+      "name": "機關服務信箱",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/Fo6hHlpjmyaFKIq"
+      ]
+    },
+    {
+      "id": "18879",
+      "name": "政府資料開放平臺「資料集查詢關鍵字」報表",
+      "format": "xml",
+      "urls": [
+        "https://file.data.gov.tw/opendatafile/searchkeyword.xml",
+        "https://file.data.gov.tw/opendatafile/searchkeyword.json"
+      ]
+    },
+    {
+      "id": "34018",
+      "name": "中央及所屬機關網站Web2.0服務一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/U2AzYE5bMCS8ENp"
+      ]
+    },
+    {
+      "id": "33021",
+      "name": "行政院及所屬二級機關資料開放諮詢小組創始委員名單",
+      "format": "csv",
+      "urls": [
+        "https://file.data.gov.tw/event/node33021/104%E5%B9%B4%E5%BA%A6%E8%B3%87%E6%96%99%E9%96%8B%E6%94%BE%E8%AB%AE%E8%A9%A2%E5%B0%8F%E7%B5%84%E5%A7%94%E5%93%A1%E5%90%8D%E5%96%AE_20160705.csv"
+      ]
+    },
+    {
+      "id": "95306",
+      "name": "資訊主管聯席會地方分組會議",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/jTkPaSDPUNGKMeO"
+      ]
+    },
+    {
+      "id": "146973",
+      "name": "我的E政府入口網-申辦服務資訊",
+      "format": "json",
+      "urls": [
+        "https://www.gov.tw/govonlineservice.json",
+        "https://www.gov.tw/govcounterservice.json",
+        "https://www.gov.tw/govotherservice.json"
+      ]
+    },
+    {
+      "id": "157735",
+      "name": "電信事業普及服務提供數據通信接取服務之特定村里",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4439"
+      ]
+    },
+    {
+      "id": "144884",
+      "name": "我的E政府入口網-英文申辦服務",
+      "format": "json",
+      "urls": [
+        "https://www.gov.tw/govenonlineservice.json",
+        "https://www.gov.tw/govencountereservice.json"
+      ]
+    },
+    {
+      "id": "161787",
+      "name": "補助業者於偏鄉地區建置行動寬頻基地臺計畫補助辦理情形",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4459"
+      ]
+    },
+    {
+      "id": "161768",
+      "name": "電信普及服務虧損之補助分攤金額",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4445"
+      ]
+    },
+    {
+      "id": "162092",
+      "name": "數位發展部資料開放諮詢小組委員名單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4953",
+        "https://www-api.moda.gov.tw/OpenData/Files/9313",
+        "https://www-api.moda.gov.tw/OpenData/Files/9315"
+      ]
+    },
+    {
+      "id": "165144",
+      "name": "TWNIC DNS RPZ1.0法院及行政命令攔阻域名統計數據(財團法人台灣網路資訊中心統計資料)",
+      "format": "csv",
+      "urls": [
+        "https://rpz.twnic.tw/data/rpz10_domains.csv"
+      ]
+    },
+    {
+      "id": "165202",
+      "name": ".tw/.台灣之網域名稱申請數量（財團法人台灣網路資訊中心統計資料）",
+      "format": "json",
+      "urls": [
+        "https://service.twnic.tw/dnjson.json"
+      ]
+    },
+    {
+      "id": "165203",
+      "name": "數位發展部雙語詞彙",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/6229"
+      ]
+    },
+    {
+      "id": "163758",
+      "name": "資料標準平臺點閱次數統計",
+      "format": "csv",
+      "urls": [
+        "https://ms.schema.gov.tw/gsp/frontstage/pv/2023/export",
+        "https://ms.schema.gov.tw/gsp/frontstage/pv/2024/export",
+        "https://ms.schema.gov.tw/gsp/frontstage/pv/2025/export",
+        "https://ms.schema.gov.tw/gsp/frontstage/pv/2026/export"
+      ]
+    },
+    {
+      "id": "163759",
+      "name": "資料標準平臺標準驗證次數統計",
+      "format": "csv",
+      "urls": [
+        "https://schema.gov.tw/gsp/frontstage/event/2023/export",
+        "https://schema.gov.tw/gsp/frontstage/event/2024/export",
+        "https://schema.gov.tw/gsp/frontstage/event/2025/export",
+        "https://schema.gov.tw/gsp/frontstage/event/2026/export"
+      ]
+    },
+    {
+      "id": "163760",
+      "name": "數位發展部新聞發布",
+      "format": "xml",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/xml/9",
+        "https://www-api.moda.gov.tw/OpenData/json/9",
+        "https://www-api.moda.gov.tw/OpenData/csv/9"
+      ]
+    },
+    {
+      "id": "163761",
+      "name": "數位發展部新聞參考資料",
+      "format": "xml",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/xml/10",
+        "https://www-api.moda.gov.tw/OpenData/json/10",
+        "https://www-api.moda.gov.tw/OpenData/csv/10"
+      ]
+    },
+    {
+      "id": "163764",
+      "name": "數位發展部多媒體專區",
+      "format": "xml",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/xml/13",
+        "https://www-api.moda.gov.tw/OpenData/json/13",
+        "https://www-api.moda.gov.tw/OpenData/csv/13"
+      ]
+    },
+    {
+      "id": "162454",
+      "name": "數位發展部發文代字表",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5025"
+      ]
+    },
+    {
+      "id": "162456",
+      "name": "數位發展部辦理人民申請提供政府資訊案件統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5029"
+      ]
+    },
+    {
+      "id": "162721",
+      "name": "IMD世界數位競爭力評比我國各指標排名情形",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4795"
+      ]
+    },
+    {
+      "id": "162732",
+      "name": "智慧型手機系統內建軟體資通安全年度資安抽測通過清單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5777",
+        "https://www-api.moda.gov.tw/OpenData/Files/5779",
+        "https://www-api.moda.gov.tw/OpenData/Files/5781"
+      ]
+    },
+    {
+      "id": "172813",
+      "name": "點子松歷年民眾投件數",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14492"
+      ]
+    },
+    {
+      "id": "172814",
+      "name": "點子松歷年獲獎作品清單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14494"
+      ]
+    },
+    {
+      "id": "172834",
+      "name": "數位發展部及所屬機關優先採購身心障礙福利機構物品及服務比率",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14626",
+        "https://www-api.moda.gov.tw/OpenData/Files/14628",
+        "https://www-api.moda.gov.tw/OpenData/Files/16276"
+      ]
+    },
+    {
+      "id": "172836",
+      "name": "數位發展部模範公務人員核定名冊",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14838"
+      ]
+    },
+    {
+      "id": "172839",
+      "name": "數位發展部政風機構檢舉管道一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14668"
+      ]
+    },
+    {
+      "id": "172816",
+      "name": "行動通信頻率核配清單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14722"
+      ]
+    },
+    {
+      "id": "172819",
+      "name": "(API)政府資料開放平臺資料清單",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/api/v2/rest/dataset/export"
+      ]
+    },
+    {
+      "id": "172820",
+      "name": "(API)政府資料開放平臺「最新消息」刊登清單",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/api/v2/rest/news/export"
+      ]
+    },
+    {
+      "id": "172823",
+      "name": "(API)政府資料開放平臺資料集標章數",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/api/v2/rest/statistics/agency/quality/export"
+      ]
+    },
+    {
+      "id": "172827",
+      "name": "非營利組織數據應用輔導清單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15048"
+      ]
+    },
+    {
+      "id": "173040",
+      "name": "數位發展部決算",
+      "format": "zip",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15640",
+        "https://www-api.moda.gov.tw/OpenData/Files/15644",
+        "https://www-api.moda.gov.tw/OpenData/Files/15648",
+        "https://www-api.moda.gov.tw/OpenData/Files/15642",
+        "https://www-api.moda.gov.tw/OpenData/Files/15646",
+        "https://www-api.moda.gov.tw/OpenData/Files/15650",
+        "https://www-api.moda.gov.tw/OpenData/Files/15474",
+        "https://www-api.moda.gov.tw/OpenData/Files/15476",
+        "https://www-api.moda.gov.tw/OpenData/Files/15478",
+        "https://www-api.moda.gov.tw/OpenData/Files/15482",
+        "https://www-api.moda.gov.tw/OpenData/Files/15480",
+        "https://www-api.moda.gov.tw/OpenData/Files/17028",
+        "https://www-api.moda.gov.tw/OpenData/Files/18930",
+        "https://www-api.moda.gov.tw/OpenData/Files/18934",
+        "https://www-api.moda.gov.tw/OpenData/Files/18938",
+        "https://www-api.moda.gov.tw/OpenData/Files/18932",
+        "https://www-api.moda.gov.tw/OpenData/Files/18936",
+        "https://www-api.moda.gov.tw/OpenData/Files/18940"
+      ]
+    },
+    {
+      "id": "173243",
+      "name": "數位發展部於主政之國際組織重要發言與分享資料",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14822"
+      ]
+    },
+    {
+      "id": "173244",
+      "name": "總統盃黑客國際松競賽入圍決賽名單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14824"
+      ]
+    },
+    {
+      "id": "173252",
+      "name": "數位發展部檔案案名表(不含所屬)",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15264",
+        "https://www-api.moda.gov.tw/OpenData/Files/15266",
+        "https://www-api.moda.gov.tw/OpenData/Files/18312"
+      ]
+    },
+    {
+      "id": "173223",
+      "name": "數位發展部年度施政計畫",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14658"
+      ]
+    },
+    {
+      "id": "173228",
+      "name": "補助5G網路建設計畫獲補助5G業者",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14684"
+      ]
+    },
+    {
+      "id": "173230",
+      "name": "財團法人台灣網路資訊中心(TWNIC) IPv4、IPv6、ASN核發統計",
+      "format": "json",
+      "urls": [
+        "https://twnic.tw/ipjson.json"
+      ]
+    },
+    {
+      "id": "173232",
+      "name": "電信資源收費專有名詞中英對照表",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14728"
+      ]
+    },
+    {
+      "id": "173233",
+      "name": "優化偏遠地區、指定區域網路涵蓋(偏遠地區資料)",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14762"
+      ]
+    },
+    {
+      "id": "173240",
+      "name": "無線電頻率供應計畫公開意見諮詢結果",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15288",
+        "https://www-api.moda.gov.tw/OpenData/Files/15290"
+      ]
+    },
+    {
+      "id": "173242",
+      "name": "數位發展部資訊職能訓練年度開課計畫",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15130",
+        "https://www-api.moda.gov.tw/OpenData/Files/19084"
+      ]
+    },
+    {
+      "id": "168535",
+      "name": "智慧型手機系統內建軟體資通安全認證合格清單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5783",
+        "https://www-api.moda.gov.tw/OpenData/Files/5787",
+        "https://www-api.moda.gov.tw/OpenData/Files/5785"
+      ]
+    },
+    {
+      "id": "167973",
+      "name": "數位發展部依申請提供資料清單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/11438"
+      ]
+    },
+    {
+      "id": "175482",
+      "name": "114年發放現金ATM裝設地點明細",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17380"
+      ]
+    },
+    {
+      "id": "175270",
+      "name": "網際網路事務或研討活動推動計畫期末報告",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17050"
+      ]
+    },
+    {
+      "id": "175271",
+      "name": "113年資通安全稽核財團法人台灣網路資訊中心實地稽核報告",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17052"
+      ]
+    },
+    {
+      "id": "175279",
+      "name": "政府資料傳輸平臺T-Road管理規範",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17128"
+      ]
+    },
+    {
+      "id": "175281",
+      "name": "政府數位服務指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17120"
+      ]
+    },
+    {
+      "id": "175286",
+      "name": "數位民主治理資通科技引領改革的理想、範圍與現實",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17350"
+      ]
+    },
+    {
+      "id": "175914",
+      "name": "智慧政府基礎建設線上客服常見問答(FAQ)",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/18044",
+        "https://www-api.moda.gov.tw/OpenData/Files/18052",
+        "https://www-api.moda.gov.tw/OpenData/Files/18046",
+        "https://www-api.moda.gov.tw/OpenData/Files/18050"
+      ]
+    },
+    {
+      "id": "175916",
+      "name": "政府憑證入口網_線上客服常見問答(FAQ)",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/18040"
+      ]
+    },
+    {
+      "id": "175917",
+      "name": "政府網站營運交流平台-機關網站使用者中心設計精進建議報告",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/18042",
+        "https://www-api.moda.gov.tw/OpenData/Files/18054",
+        "https://www-api.moda.gov.tw/OpenData/Files/18056",
+        "https://www-api.moda.gov.tw/OpenData/Files/18058",
+        "https://www-api.moda.gov.tw/OpenData/Files/18060"
+      ]
+    },
+    {
+      "id": "174663",
+      "name": "遙控無人機資安檢測合格清單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17642"
+      ]
+    },
+    {
+      "id": "175265",
+      "name": "網際網路資源分配發展觀測與研析委託研究",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/XvKxIruHQV9YTWT"
+      ]
+    },
+    {
+      "id": "175268",
+      "name": "無線電頻率核配相關干擾評估計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/XodmgG6NqbFLLCM"
+      ]
+    },
+    {
+      "id": "175344",
+      "name": "數位發展部出席經濟學人舉辦之「AI Innovation Asia 2024」暨新加坡數位科技參訪考察出國報告",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17046"
+      ]
+    },
+    {
+      "id": "175346",
+      "name": "6G頻譜整備及應用規劃委託研究案",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/R1cOmOi8JwZDGwP",
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/T4oaIfkHGyUGoJv"
+      ]
+    },
+    {
+      "id": "175347",
+      "name": "網際網路資源分配發展觀測與研析委託研究後續擴充",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/a0GzdvttFZwf79B"
+      ]
+    },
+    {
+      "id": "175289",
+      "name": "107~113年政府資料開放獎勵活動獲獎機關清單",
+      "format": "csv",
+      "urls": [
+        "https://file.data.gov.tw/content/about/107~113年政府資料開放獎勵活動獲獎機關清單-資料開放金質獎.csv",
+        "https://file.data.gov.tw/content/about/107~113年政府資料開放獎勵活動獲獎機關清單-資料開放人氣獎.csv"
+      ]
+    },
+    {
+      "id": "175291",
+      "name": "個人化資料自主運用(MyData)平臺熱門服務清單",
+      "format": "csv",
+      "urls": [
+        "https://mydata.nat.gov.tw/find_open_platform_file/service/top?type=csv",
+        "https://mydata.nat.gov.tw/find_open_platform_file/service/top?type=json",
+        "https://mydata.nat.gov.tw/find_open_platform_file/service/top?type=xml"
+      ]
+    },
+    {
+      "id": "175293",
+      "name": "隱私強化技術應用指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/wmSgEhifHlJNinQ"
+      ]
+    },
+    {
+      "id": "175294",
+      "name": "政府資料開放平臺常見問答(FAQ)",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17486"
+      ]
+    },
+    {
+      "id": "175296",
+      "name": "行政院及所屬各級機關政府資料開放作業原則",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/btaC35znK3gNgp3"
+      ]
+    },
+    {
+      "id": "175298",
+      "name": "政府資料開放諮詢小組設置要點",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/DWrpKr7saSdwPR5"
+      ]
+    },
+    {
+      "id": "175299",
+      "name": "政府資料品質提升機制運作指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/8fAFpJruOrV9dyn"
+      ]
+    },
+    {
+      "id": "175300",
+      "name": "行政院所屬二級機關資料開放諮詢小組運作指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/GuK3jwwfiwFOsnT"
+      ]
+    },
+    {
+      "id": "175301",
+      "name": "政府資料開放優質標章暨深化應用獎勵措施修正規定",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/j2PudCIQdzpeo8x"
+      ]
+    },
+    {
+      "id": "175303",
+      "name": "共通性應用程式介面指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/3PxhlMmajyWV88A"
+      ]
+    },
+    {
+      "id": "175350",
+      "name": "國內頻率資源創新應用調查及研究委託研究",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/PGTvTfiObAM5K2H",
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/c2ycQJEU0qW3izQ"
+      ]
+    },
+    {
+      "id": "175356",
+      "name": "112年財團法人台灣網路資訊中心資通安全維護計畫實施情形稽核作業實地稽核發現事項 - 改善報告",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/84Tt7U4RymbPELp"
+      ]
+    },
+    {
+      "id": "175305",
+      "name": "總統盃黑客松辦理要點",
+      "format": "pdf",
+      "urls": [
+        "https://presidential-hackathon.taiwan.gov.tw/upload/%E7%B8%BD%E7%B5%B1%E7%9B%83%E9%BB%91%E5%AE%A2%E6%9D%BE%E8%BE%A6%E7%90%86%E8%A6%81%E9%BB%9E.pdf"
+      ]
+    },
+    {
+      "id": "175306",
+      "name": "MyData平臺常見問答(FAQ)",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17496"
+      ]
+    },
+    {
+      "id": "172842",
+      "name": "數位發展部訴願案件統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14632"
+      ]
+    },
+    {
+      "id": "13022",
+      "name": "組織及團體憑證唯一識別編碼",
+      "format": "csv",
+      "urls": [
+        "https://oid.nat.gov.tw/OIDWeb/組織及團體憑證唯一識別編碼.csv"
+      ]
+    },
+    {
+      "id": "8693",
+      "name": "政府資料開放平臺資料集瀏覽及下載次數統計",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/statistics/datasets/datasets/export/csv?type=datasets",
+        "https://data.gov.tw/statistics/datasets/datasets/export/xml?type=datasets",
+        "https://data.gov.tw/statistics/datasets/datasets/export/json?type=datasets"
+      ]
+    },
+    {
+      "id": "5960",
+      "name": "數位近用調查",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4303"
+      ]
+    },
+    {
+      "id": "5961",
+      "name": "CNS11643中文標準交換碼全字庫(簡稱全字庫)",
+      "format": "txt",
+      "urls": [
+        "https://www.cns11643.gov.tw/opendata/release.txt",
+        "https://www.cns11643.gov.tw/opendata/Fonts_Sung.zip",
+        "https://www.cns11643.gov.tw/opendata/Fonts_Kai.zip",
+        "https://www.cns11643.gov.tw/opendata/MapingTables.zip",
+        "https://www.cns11643.gov.tw/opendata/Properties.zip",
+        "https://www.cns11643.gov.tw/opendata/Voice.zip",
+        "https://www.cns11643.gov.tw/opendata/OpenDataFilesList.csv"
+      ]
+    },
+    {
+      "id": "22110",
+      "name": "政府入口網-行動化服務",
+      "format": "json",
+      "urls": [
+        "https://www.gov.tw/OpenData_AppList_13_9127.json"
+      ]
+    },
+    {
+      "id": "22112",
+      "name": "政府入口網-政府新聞",
+      "format": "json",
+      "urls": [
+        "https://www.gov.tw/govnews.json"
+      ]
+    },
+    {
+      "id": "22928",
+      "name": "政府入口網-安全專題",
+      "format": "json",
+      "urls": [
+        "https://www.gov.tw/safe.json"
+      ]
+    },
+    {
+      "id": "18880",
+      "name": "政府資料開放平臺「資料集查詢欄位」報表",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/searchfield/export/csv"
+      ]
+    },
+    {
+      "id": "95307",
+      "name": "辦理示範性「跨域服務再造及網路參與」補助資訊情形",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/L2mvmiwsz2Y4nj7"
+      ]
+    },
+    {
+      "id": "108129",
+      "name": "政府資料開放平臺資料集標章數統計",
+      "format": "csv",
+      "urls": [
+        "https://file.data.gov.tw/dataset_file/qualityresult.csv",
+        "https://file.data.gov.tw/dataset_file/qualityresult.xml",
+        "https://file.data.gov.tw/dataset_file/qualityresult.json"
+      ]
+    },
+    {
+      "id": "136038",
+      "name": "ODF 文件應用工具下載統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/FFeastPh7ucLaEf"
+      ]
+    },
+    {
+      "id": "163757",
+      "name": "個人化資料自主運用(MyData)平臺資料集清單",
+      "format": "csv",
+      "urls": [
+        "https://mydata.nat.gov.tw/find_open_platform_file/resource?type=csv",
+        "https://mydata.nat.gov.tw/find_open_platform_file/resource?type=json",
+        "https://mydata.nat.gov.tw/find_open_platform_file/resource?type=xml"
+      ]
+    },
+    {
+      "id": "163763",
+      "name": "數位發展部首長行程",
+      "format": "xml",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/xml/12",
+        "https://www-api.moda.gov.tw/OpenData/json/12",
+        "https://www-api.moda.gov.tw/OpenData/csv/12"
+      ]
+    },
+    {
+      "id": "161791",
+      "name": "行動通訊速率量測",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4451",
+        "https://www-api.moda.gov.tw/OpenData/Files/4461",
+        "https://www-api.moda.gov.tw/OpenData/Files/4463",
+        "https://www-api.moda.gov.tw/OpenData/Files/4465",
+        "https://www-api.moda.gov.tw/OpenData/Files/4467",
+        "https://www-api.moda.gov.tw/OpenData/Files/14114",
+        "https://www-api.moda.gov.tw/OpenData/Files/14112",
+        "https://www-api.moda.gov.tw/OpenData/Files/14110",
+        "https://www-api.moda.gov.tw/OpenData/Files/14108",
+        "https://www-api.moda.gov.tw/OpenData/Files/14088"
+      ]
+    },
+    {
+      "id": "161761",
+      "name": "電信事業普及服務法定地區",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4437"
+      ]
+    },
+    {
+      "id": "161771",
+      "name": "強化防救災行動通訊基礎建置計畫補助辦理情形",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4447"
+      ]
+    },
+    {
+      "id": "161777",
+      "name": "普及偏鄉寬頻接取基礎建設計畫補助辦理情形",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4449"
+      ]
+    },
+    {
+      "id": "162206",
+      "name": "數位發展部主管法令異動清單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4847",
+        "https://www-api.moda.gov.tw/OpenData/Files/4849",
+        "https://www-api.moda.gov.tw/OpenData/Files/12558",
+        "https://www-api.moda.gov.tw/OpenData/Files/15894"
+      ]
+    },
+    {
+      "id": "162457",
+      "name": "數位發展部歸檔案件統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5031",
+        "https://www-api.moda.gov.tw/OpenData/Files/5775",
+        "https://www-api.moda.gov.tw/OpenData/Files/8605",
+        "https://www-api.moda.gov.tw/OpenData/Files/10059",
+        "https://www-api.moda.gov.tw/OpenData/Files/12544",
+        "https://www-api.moda.gov.tw/OpenData/Files/13180",
+        "https://www-api.moda.gov.tw/OpenData/Files/14286",
+        "https://www-api.moda.gov.tw/OpenData/Files/15446",
+        "https://www-api.moda.gov.tw/OpenData/Files/16272",
+        "https://www-api.moda.gov.tw/OpenData/Files/17670",
+        "https://www-api.moda.gov.tw/OpenData/Files/17672",
+        "https://www-api.moda.gov.tw/OpenData/Files/18714"
+      ]
+    },
+    {
+      "id": "160533",
+      "name": "前瞻計畫「改善山區行動通訊品質計畫」之改善站點",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/3591"
+      ]
+    },
+    {
+      "id": "162730",
+      "name": "通傳領域關鍵基礎設施(CI)提供者資通安全維護計畫實施情形稽核統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5019",
+        "https://www-api.moda.gov.tw/OpenData/Files/5225",
+        "https://www-api.moda.gov.tw/OpenData/Files/5257"
+      ]
+    },
+    {
+      "id": "162735",
+      "name": "電話號碼可攜服務生效統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5023",
+        "https://www-api.moda.gov.tw/OpenData/Files/5229",
+        "https://www-api.moda.gov.tw/OpenData/Files/5261"
+      ]
+    },
+    {
+      "id": "162736",
+      "name": "總統盃黑客松國際松歷年卓越團隊名單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4857",
+        "https://www-api.moda.gov.tw/OpenData/Files/5277",
+        "https://www-api.moda.gov.tw/OpenData/Files/5279"
+      ]
+    },
+    {
+      "id": "172130",
+      "name": "關鍵電信基礎設施資通設備資安檢測合格實驗室名錄",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15154"
+      ]
+    },
+    {
+      "id": "172131",
+      "name": "智慧型手機系統內建軟體資安檢測合格實驗室名錄",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15156"
+      ]
+    },
+    {
+      "id": "175307",
+      "name": "政府資料開放教育訓練課程教材",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17448",
+        "https://www-api.moda.gov.tw/OpenData/Files/17450",
+        "https://www-api.moda.gov.tw/OpenData/Files/17452",
+        "https://www-api.moda.gov.tw/OpenData/Files/17454",
+        "https://www-api.moda.gov.tw/OpenData/Files/17456",
+        "https://www-api.moda.gov.tw/OpenData/Files/17458",
+        "https://www-api.moda.gov.tw/OpenData/Files/17460",
+        "https://www-api.moda.gov.tw/OpenData/Files/17462",
+        "https://www-api.moda.gov.tw/OpenData/Files/17464",
+        "https://www-api.moda.gov.tw/OpenData/Files/17466",
+        "https://www-api.moda.gov.tw/OpenData/Files/17468",
+        "https://www-api.moda.gov.tw/OpenData/Files/17470",
+        "https://www-api.moda.gov.tw/OpenData/Files/17472",
+        "https://www-api.moda.gov.tw/OpenData/Files/17474",
+        "https://www-api.moda.gov.tw/OpenData/Files/17476"
+      ]
+    },
+    {
+      "id": "175269",
+      "name": "異質網路技術匯聚下之頻率資源管理制度革新研析計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/AL60Px4vTekIgvh"
+      ]
+    },
+    {
+      "id": "175273",
+      "name": "112年度財團法人台灣網路資訊中心查核報告",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/kbfbfzZt0LJRlPX"
+      ]
+    },
+    {
+      "id": "175280",
+      "name": "電子化政府服務平臺(GSP)介接管理規範",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17130"
+      ]
+    },
+    {
+      "id": "175283",
+      "name": "政府公有雲服務供應商檢核作業指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17124"
+      ]
+    },
+    {
+      "id": "175285",
+      "name": "公民科技促進數位民主發展之資訊發展與推動研究報告",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17346"
+      ]
+    },
+    {
+      "id": "175341",
+      "name": "廉政宣導案例及法規說明",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/ZxFEFzoqpCULYML",
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/bt6fzrkrt86mR24",
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/aNFHmByWRwFHhGi",
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/w3V0YaACdThFxwa"
+      ]
+    },
+    {
+      "id": "172833",
+      "name": "數位發展部及所屬機關機關綠色採購指定採購項目達成度",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14624",
+        "https://www-api.moda.gov.tw/OpenData/Files/16278"
+      ]
+    },
+    {
+      "id": "172837",
+      "name": "數位發展部同仁家庭照顧假申請情形",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14840"
+      ]
+    },
+    {
+      "id": "172840",
+      "name": "數位發展部資訊職能教育訓練參訓人員性別統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/13336"
+      ]
+    },
+    {
+      "id": "172841",
+      "name": "數位發展部及所屬機關國家賠償事件統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14630"
+      ]
+    },
+    {
+      "id": "172843",
+      "name": "數位發展部訴願委員會委員名單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14634"
+      ]
+    },
+    {
+      "id": "172815",
+      "name": "點子松歷年未來情境研究報告",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14496"
+      ]
+    },
+    {
+      "id": "172822",
+      "name": "(API)政府資料開放平臺「資料集上下架」報表",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/api/v2/rest/statistics/agency/export"
+      ]
+    },
+    {
+      "id": "172824",
+      "name": "資料標準API清單",
+      "format": "json",
+      "urls": [
+        "https://schema.gov.tw/gsp/frontstage/oas"
+      ]
+    },
+    {
+      "id": "173254",
+      "name": "數位發展部節能減碳績效(不含所屬)",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15270"
+      ]
+    },
+    {
+      "id": "173222",
+      "name": "數位發展部重要紀事",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14498"
+      ]
+    },
+    {
+      "id": "173224",
+      "name": "數位發展部年度施政方針",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14656"
+      ]
+    },
+    {
+      "id": "173226",
+      "name": "數位發展部立法院書面業務報告",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14654"
+      ]
+    },
+    {
+      "id": "173229",
+      "name": "電信事業申請核配衛星通信用無線電頻率Q&A",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14724"
+      ]
+    },
+    {
+      "id": "173235",
+      "name": "航空器及船舶無線電臺使用頻率",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15134",
+        "https://www-api.moda.gov.tw/OpenData/Files/15136"
+      ]
+    },
+    {
+      "id": "173241",
+      "name": "智慧政府基礎建設客服諮詢排名",
+      "format": "csv",
+      "urls": [
+        "https://www.service.gov.tw/downloadsView?fileNo=77",
+        "https://www.service.gov.tw/downloadsView?fileNo=78"
+      ]
+    },
+    {
+      "id": "171425",
+      "name": "GSN政府網際服務網_問與答",
+      "format": "csv",
+      "urls": [
+        "https://gsn.nat.gov.tw/file/GSN_QA.csv"
+      ]
+    },
+    {
+      "id": "172962",
+      "name": "數位發展部會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15484",
+        "https://www-api.moda.gov.tw/OpenData/Files/15486",
+        "https://www-api.moda.gov.tw/OpenData/Files/15488",
+        "https://www-api.moda.gov.tw/OpenData/Files/15490",
+        "https://www-api.moda.gov.tw/OpenData/Files/15492",
+        "https://www-api.moda.gov.tw/OpenData/Files/15494",
+        "https://www-api.moda.gov.tw/OpenData/Files/15496",
+        "https://www-api.moda.gov.tw/OpenData/Files/15498",
+        "https://www-api.moda.gov.tw/OpenData/Files/15500",
+        "https://www-api.moda.gov.tw/OpenData/Files/15502",
+        "https://www-api.moda.gov.tw/OpenData/Files/15504",
+        "https://www-api.moda.gov.tw/OpenData/Files/15506",
+        "https://www-api.moda.gov.tw/OpenData/Files/15508",
+        "https://www-api.moda.gov.tw/OpenData/Files/15510",
+        "https://www-api.moda.gov.tw/OpenData/Files/15512",
+        "https://www-api.moda.gov.tw/OpenData/Files/15514",
+        "https://www-api.moda.gov.tw/OpenData/Files/15516",
+        "https://www-api.moda.gov.tw/OpenData/Files/15518",
+        "https://www-api.moda.gov.tw/OpenData/Files/15520",
+        "https://www-api.moda.gov.tw/OpenData/Files/15522",
+        "https://www-api.moda.gov.tw/OpenData/Files/15524",
+        "https://www-api.moda.gov.tw/OpenData/Files/15526",
+        "https://www-api.moda.gov.tw/OpenData/Files/15528",
+        "https://www-api.moda.gov.tw/OpenData/Files/15530",
+        "https://www-api.moda.gov.tw/OpenData/Files/15568",
+        "https://www-api.moda.gov.tw/OpenData/Files/15570",
+        "https://www-api.moda.gov.tw/OpenData/Files/15572",
+        "https://www-api.moda.gov.tw/OpenData/Files/15574",
+        "https://www-api.moda.gov.tw/OpenData/Files/15576",
+        "https://www-api.moda.gov.tw/OpenData/Files/15578",
+        "https://www-api.moda.gov.tw/OpenData/Files/15580",
+        "https://www-api.moda.gov.tw/OpenData/Files/15582",
+        "https://www-api.moda.gov.tw/OpenData/Files/15584",
+        "https://www-api.moda.gov.tw/OpenData/Files/15586",
+        "https://www-api.moda.gov.tw/OpenData/Files/15588",
+        "https://www-api.moda.gov.tw/OpenData/Files/15590",
+        "https://www-api.moda.gov.tw/OpenData/Files/15592",
+        "https://www-api.moda.gov.tw/OpenData/Files/15594",
+        "https://www-api.moda.gov.tw/OpenData/Files/15596",
+        "https://www-api.moda.gov.tw/OpenData/Files/15598",
+        "https://www-api.moda.gov.tw/OpenData/Files/15600",
+        "https://www-api.moda.gov.tw/OpenData/Files/15602",
+        "https://www-api.moda.gov.tw/OpenData/Files/15604",
+        "https://www-api.moda.gov.tw/OpenData/Files/15606",
+        "https://www-api.moda.gov.tw/OpenData/Files/15608",
+        "https://www-api.moda.gov.tw/OpenData/Files/15610",
+        "https://www-api.moda.gov.tw/OpenData/Files/15612",
+        "https://www-api.moda.gov.tw/OpenData/Files/15614",
+        "https://www-api.moda.gov.tw/OpenData/Files/15616",
+        "https://www-api.moda.gov.tw/OpenData/Files/15618",
+        "https://www-api.moda.gov.tw/OpenData/Files/15620",
+        "https://www-api.moda.gov.tw/OpenData/Files/15622",
+        "https://www-api.moda.gov.tw/OpenData/Files/15624",
+        "https://www-api.moda.gov.tw/OpenData/Files/15626",
+        "https://www-api.moda.gov.tw/OpenData/Files/15628",
+        "https://www-api.moda.gov.tw/OpenData/Files/15630",
+        "https://www-api.moda.gov.tw/OpenData/Files/15632",
+        "https://www-api.moda.gov.tw/OpenData/Files/15634",
+        "https://www-api.moda.gov.tw/OpenData/Files/15636",
+        "https://www-api.moda.gov.tw/OpenData/Files/15638",
+        "https://www-api.moda.gov.tw/OpenData/Files/15532",
+        "https://www-api.moda.gov.tw/OpenData/Files/15536",
+        "https://www-api.moda.gov.tw/OpenData/Files/15902",
+        "https://www-api.moda.gov.tw/OpenData/Files/16208",
+        "https://www-api.moda.gov.tw/OpenData/Files/16412",
+        "https://www-api.moda.gov.tw/OpenData/Files/16744",
+        "https://www-api.moda.gov.tw/OpenData/Files/17022",
+        "https://www-api.moda.gov.tw/OpenData/Files/17368",
+        "https://www-api.moda.gov.tw/OpenData/Files/17624",
+        "https://www-api.moda.gov.tw/OpenData/Files/17872",
+        "https://www-api.moda.gov.tw/OpenData/Files/18178",
+        "https://www-api.moda.gov.tw/OpenData/Files/18780",
+        "https://www-api.moda.gov.tw/OpenData/Files/15534",
+        "https://www-api.moda.gov.tw/OpenData/Files/15538",
+        "https://www-api.moda.gov.tw/OpenData/Files/15900",
+        "https://www-api.moda.gov.tw/OpenData/Files/16210",
+        "https://www-api.moda.gov.tw/OpenData/Files/16414",
+        "https://www-api.moda.gov.tw/OpenData/Files/16746",
+        "https://www-api.moda.gov.tw/OpenData/Files/17024",
+        "https://www-api.moda.gov.tw/OpenData/Files/17370",
+        "https://www-api.moda.gov.tw/OpenData/Files/17626",
+        "https://www-api.moda.gov.tw/OpenData/Files/17874",
+        "https://www-api.moda.gov.tw/OpenData/Files/18180",
+        "https://www-api.moda.gov.tw/OpenData/Files/18782",
+        "https://www-api.moda.gov.tw/OpenData/Files/17026",
+        "https://www-api.moda.gov.tw/OpenData/Files/17372",
+        "https://www-api.moda.gov.tw/OpenData/Files/17628",
+        "https://www-api.moda.gov.tw/OpenData/Files/17876",
+        "https://www-api.moda.gov.tw/OpenData/Files/18182",
+        "https://www-api.moda.gov.tw/OpenData/Files/18784",
+        "https://www-api.moda.gov.tw/OpenData/Files/18866",
+        "https://www-api.moda.gov.tw/OpenData/Files/18868",
+        "https://www-api.moda.gov.tw/OpenData/Files/18870"
+      ]
+    },
+    {
+      "id": "175345",
+      "name": "數位發展部兩公約案例教材",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17048"
+      ]
+    },
+    {
+      "id": "175354",
+      "name": "財團法人台灣網路資訊中心提報113年10月28日資通安全稽核報告所列各項待改善事項辦理情形彙整表",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17054"
+      ]
+    },
+    {
+      "id": "176007",
+      "name": "公共程式一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/18168",
+        "https://www-api.moda.gov.tw/OpenData/Files/18170",
+        "https://www-api.moda.gov.tw/OpenData/Files/18172"
+      ]
+    },
+    {
+      "id": "12603",
+      "name": "政府一、二級機關(含地方政府)全球資訊網網址",
+      "format": "csv",
+      "urls": [
+        "https://www.gov.tw/govorgan.csv"
+      ]
+    },
+    {
+      "id": "16827",
+      "name": "行政院資料開放諮詢小組會議紀錄",
+      "format": "json",
+      "urls": [
+        "https://file.data.gov.tw/行政院資料開放諮詢小組會議紀錄.json"
+      ]
+    },
+    {
+      "id": "18883",
+      "name": "政府資料開放平臺「資料集上下架」報表",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/api/v2/rest/statistics/agency/export"
+      ]
+    },
+    {
+      "id": "32084",
+      "name": "機關名錄雙語詞彙",
+      "format": "csv",
+      "urls": [
+        "https://www.gov.tw/govenorgan.csv"
+      ]
+    },
+    {
+      "id": "35521",
+      "name": "具備「政府網站資料開放宣告」之政府網站統計表",
+      "format": "csv",
+      "urls": [
+        "https://file.data.gov.tw/event/node35521/資料網站開放宣告_20170711.csv"
+      ]
+    },
+    {
+      "id": "8354",
+      "name": "無障礙網頁標章統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/8855"
+      ]
+    },
+    {
+      "id": "15945",
+      "name": "政府資料開放平臺「活化應用」資料清單",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/applications/export/csv",
+        "https://data.gov.tw/applications/export/json",
+        "https://data.gov.tw/applications/export/xml"
+      ]
+    },
+    {
+      "id": "28592",
+      "name": "106-107年中央行政機關室內公共區域免費手機充電站查詢服務",
+      "format": "csv",
+      "urls": [
+        "https://itaiwan.gov.tw/ITaiwanDW/GetFile?fileName=charge_station_list.csv&type=6"
+      ]
+    },
+    {
+      "id": "57817",
+      "name": "政府資料開放平臺已下架資料集清單",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/datasets_unpublished/export/csv"
+      ]
+    },
+    {
+      "id": "95304",
+      "name": "全國資訊主管聯席會會議紀錄",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5821"
+      ]
+    },
+    {
+      "id": "95333",
+      "name": "資訊主管聯席會中央部會分組會議紀錄",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5755"
+      ]
+    },
+    {
+      "id": "114727",
+      "name": "「研商開放資料專法專家座談會」會議紀錄",
+      "format": "json",
+      "urls": [
+        "https://file.data.gov.tw/「研商開放資料專法專家座談會」會議紀錄.json"
+      ]
+    },
+    {
+      "id": "146059",
+      "name": "行政院政府資料開放諮詢小組委員名單",
+      "format": "csv",
+      "urls": [
+        "https://file.data.gov.tw/content/%E8%A1%8C%E6%94%BF%E9%99%A2%E6%94%BF%E5%BA%9C%E8%B3%87%E6%96%99%E9%96%8B%E6%94%BE%E8%AB%AE%E8%A9%A2%E5%B0%8F%E7%B5%84%E5%A7%94%E5%93%A1%E5%90%8D%E5%96%AE.csv"
+      ]
+    },
+    {
+      "id": "165204",
+      "name": "個人化資料自主運用(MyData)平臺服務清單",
+      "format": "csv",
+      "urls": [
+        "https://mydata.nat.gov.tw/find_open_platform_file/service?type=csv",
+        "https://mydata.nat.gov.tw/find_open_platform_file/service?type=json",
+        "https://mydata.nat.gov.tw/find_open_platform_file/service?type=xml",
+        "https://mydata.nat.gov.tw/find_open_platform_file/counter?type=csv",
+        "https://mydata.nat.gov.tw/find_open_platform_file/counter?type=json",
+        "https://mydata.nat.gov.tw/find_open_platform_file/counter?type=xml"
+      ]
+    },
+    {
+      "id": "165205",
+      "name": "資料標準平臺收錄標準",
+      "format": "xml",
+      "urls": [
+        "https://file.data.gov.tw/upload_file/資料標準平臺收錄標準.xml",
+        "https://file.data.gov.tw/upload_file/資料標準平臺收錄標準.json",
+        "https://file.data.gov.tw/upload_file/資料標準平臺收錄標準.csv"
+      ]
+    },
+    {
+      "id": "161985",
+      "name": "數位發展部歷年採購案件",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4771",
+        "https://www-api.moda.gov.tw/OpenData/Files/10257",
+        "https://www-api.moda.gov.tw/OpenData/Files/16274"
+      ]
+    },
+    {
+      "id": "160988",
+      "name": "數位發展部單位預算(法定預算)",
+      "format": "zip",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17506",
+        "https://www-api.moda.gov.tw/OpenData/Files/17508",
+        "https://www-api.moda.gov.tw/OpenData/Files/17512"
+      ]
+    },
+    {
+      "id": "162455",
+      "name": "數位發展部各類公文收文統計及一般公文發文創簽稿統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5027",
+        "https://www-api.moda.gov.tw/OpenData/Files/10275",
+        "https://www-api.moda.gov.tw/OpenData/Files/16280"
+      ]
+    },
+    {
+      "id": "162731",
+      "name": "國家通訊暨網際安全中心(NCCSC)資安情資分享統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5017",
+        "https://www-api.moda.gov.tw/OpenData/Files/5223",
+        "https://www-api.moda.gov.tw/OpenData/Files/5255",
+        "https://www-api.moda.gov.tw/OpenData/Files/11562",
+        "https://www-api.moda.gov.tw/OpenData/Files/11564",
+        "https://www-api.moda.gov.tw/OpenData/Files/11566"
+      ]
+    },
+    {
+      "id": "162733",
+      "name": "電話號碼可攜服務申請統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/5021",
+        "https://www-api.moda.gov.tw/OpenData/Files/5227",
+        "https://www-api.moda.gov.tw/OpenData/Files/5259"
+      ]
+    },
+    {
+      "id": "163755",
+      "name": "行動寬頻業務釋照",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4853",
+        "https://www-api.moda.gov.tw/OpenData/Files/5591",
+        "https://www-api.moda.gov.tw/OpenData/Files/5593"
+      ]
+    },
+    {
+      "id": "163756",
+      "name": "衛星頻率核配開放資料",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4915",
+        "https://www-api.moda.gov.tw/OpenData/Files/5589",
+        "https://www-api.moda.gov.tw/OpenData/Files/5587"
+      ]
+    },
+    {
+      "id": "163762",
+      "name": "數位發展部常見問題澄清",
+      "format": "xml",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/xml/11",
+        "https://www-api.moda.gov.tw/OpenData/json/11",
+        "https://www-api.moda.gov.tw/OpenData/csv/11"
+      ]
+    },
+    {
+      "id": "163765",
+      "name": "數位發展部行政公告",
+      "format": "xml",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/xml/15",
+        "https://www-api.moda.gov.tw/OpenData/json/15",
+        "https://www-api.moda.gov.tw/OpenData/csv/15"
+      ]
+    },
+    {
+      "id": "159968",
+      "name": "數位發展部資料開放諮詢小組會議紀錄",
+      "format": "json",
+      "urls": [
+        "https://file.data.gov.tw/數位發展部資料開放諮詢小組會議紀錄.json"
+      ]
+    },
+    {
+      "id": "171432",
+      "name": "政府專屬短碼簡訊平台_問與答",
+      "format": "csv",
+      "urls": [
+        "https://s.moda.gov.tw/8NUnZD4hu6UL"
+      ]
+    },
+    {
+      "id": "171426",
+      "name": "iTaiwan公共區域免費無線上網_問與答",
+      "format": "csv",
+      "urls": [
+        "https://itaiwan.gov.tw/file/iTaiwan_QA.csv"
+      ]
+    },
+    {
+      "id": "171427",
+      "name": "政府短網址服務_問與答",
+      "format": "csv",
+      "urls": [
+        "https://url.gov.tw/OpenData_url_QA.csv"
+      ]
+    },
+    {
+      "id": "167908",
+      "name": "數位發展部單位預算(預算案)",
+      "format": "zip",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17498",
+        "https://www-api.moda.gov.tw/OpenData/Files/17500",
+        "https://www-api.moda.gov.tw/OpenData/Files/17512",
+        "https://www-api.moda.gov.tw/OpenData/Files/17504"
+      ]
+    },
+    {
+      "id": "172812",
+      "name": "數位發展部新聞發布（英文）",
+      "format": "xml",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/xml/22",
+        "https://www-api.moda.gov.tw/OpenData/json/22",
+        "https://www-api.moda.gov.tw/OpenData/csv/22"
+      ]
+    },
+    {
+      "id": "172835",
+      "name": "數位發展部同仁留職停薪申請情形",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/4475"
+      ]
+    },
+    {
+      "id": "172838",
+      "name": "數位發展部政風機構人員統計表",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14670"
+      ]
+    },
+    {
+      "id": "172821",
+      "name": "(API)政府資料開放平臺資料集瀏覽及下載次數統計",
+      "format": "csv",
+      "urls": [
+        "https://data.gov.tw/api/v2/rest/statistics/datasets/export"
+      ]
+    },
+    {
+      "id": "172825",
+      "name": "總統盃黑客松國內松歷年獲獎團隊名冊",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15044"
+      ]
+    },
+    {
+      "id": "172826",
+      "name": "政府機關及公營事業資料應用輔導清單",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15046"
+      ]
+    },
+    {
+      "id": "171336",
+      "name": "XCA、GCA及GTLSCA憑證廢止清冊",
+      "format": "bin",
+      "urls": [
+        "https://xca.nat.gov.tw/repository/XCA/CRL/complete.crl",
+        "https://xca.nat.gov.tw/repository/XCA/CRL2/complete.crl",
+        "https://xca.nat.gov.tw/repository/XCA/CRL3/complete.crl",
+        "https://gca.nat.gov.tw/repository/GCA4/CRL/complete.crl",
+        "https://gca.nat.gov.tw/repository/GCA4/CRL2/complete.crl",
+        "https://gca.nat.gov.tw/repository/GCA/CRL3/complete.crl",
+        "https://gtlsca.nat.gov.tw/crl/GTLSCA-complete.crl"
+      ]
+    },
+    {
+      "id": "175263",
+      "name": "國際頻率資源管理政策觀測及研究委託研究",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/kIF9tSHM7LftfIP",
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/Vs0o57NBUf7Fnz0"
+      ]
+    },
+    {
+      "id": "175264",
+      "name": "跨領域應用規劃計畫委託研究",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/G2Ypd3W4JKQvEsQ"
+      ]
+    },
+    {
+      "id": "175266",
+      "name": "衛星通信用無線電頻率釋出之審查機制委託研究",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/tLVRR1vtiW0GuxV"
+      ]
+    },
+    {
+      "id": "175267",
+      "name": "無線電頻率需求及經濟效益資料模型建構",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/C3Au7RY68NFrp6x"
+      ]
+    },
+    {
+      "id": "175304",
+      "name": "領域資料標準訂定流程參考指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/9koFhxzzFqr7E1q"
+      ]
+    },
+    {
+      "id": "175308",
+      "name": "政府資料標準教育訓練課程教材",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17428",
+        "https://www-api.moda.gov.tw/OpenData/Files/17430",
+        "https://www-api.moda.gov.tw/OpenData/Files/17432",
+        "https://www-api.moda.gov.tw/OpenData/Files/17434",
+        "https://www-api.moda.gov.tw/OpenData/Files/17436",
+        "https://www-api.moda.gov.tw/OpenData/Files/17438",
+        "https://www-api.moda.gov.tw/OpenData/Files/17440"
+      ]
+    },
+    {
+      "id": "175288",
+      "name": "高應用價值主題資料集清單",
+      "format": "csv",
+      "urls": [
+        "https://file.data.gov.tw/content/about/高應用價值主題資料集清單.csv"
+      ]
+    },
+    {
+      "id": "175290",
+      "name": "個人化資料自主運用(MyData)平臺熱門資料集清單",
+      "format": "csv",
+      "urls": [
+        "https://mydata.nat.gov.tw/find_open_platform_file/resource/top?type=csv",
+        "https://mydata.nat.gov.tw/find_open_platform_file/resource/top?type=json",
+        "https://mydata.nat.gov.tw/find_open_platform_file/resource/top?type=xml"
+      ]
+    },
+    {
+      "id": "175292",
+      "name": "數據公益運作指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/l0wdB8OyvIO2w9u"
+      ]
+    },
+    {
+      "id": "175295",
+      "name": "政府資料標準平臺常見問答(FAQ)",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17478"
+      ]
+    },
+    {
+      "id": "175297",
+      "name": "資料集詮釋資料標準指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/ENieGrHkuJGvGcU"
+      ]
+    },
+    {
+      "id": "175302",
+      "name": "政府資料開放跨平臺介接指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/bRk78TM2cvgd4tu"
+      ]
+    },
+    {
+      "id": "175348",
+      "name": "國際頻率資源管理政策觀測及研究委託研究後續擴充",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/b9We0KF5tUddo0W"
+      ]
+    },
+    {
+      "id": "175349",
+      "name": "國內頻率資源創新應用調查及研究委託研究後續擴充",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/pPxyx404iiLNoIW",
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/0pnV25FnJx7ETg3"
+      ]
+    },
+    {
+      "id": "175355",
+      "name": "112年財團法人台灣網路資訊中心資通安全維護計畫實施情形稽核報告",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/kBGEUKMyxRPVFOc"
+      ]
+    },
+    {
+      "id": "175274",
+      "name": "112年度財團法人台灣網路資訊中心實地查核改善措施",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/bp3TsXIBFPs81V7"
+      ]
+    },
+    {
+      "id": "175277",
+      "name": "113 年度網域名稱及網路位址相關國內外技術社群治理議題委辦案期末報告",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17766"
+      ]
+    },
+    {
+      "id": "175278",
+      "name": "112年度「無線電頻率使用費收費機制調整」委託研究案",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/YwBSnOeicp8nK2l"
+      ]
+    },
+    {
+      "id": "175282",
+      "name": "政府公有雲服務項目選用參考指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17122"
+      ]
+    },
+    {
+      "id": "175284",
+      "name": "資訊服務雲端應用成熟度評估指引",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17126"
+      ]
+    },
+    {
+      "id": "175287",
+      "name": "Civic Technology and Its Role in Digital Democracy:Case Studies of Taiwan, Japan, and South Korea",
+      "format": "pdf",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17348"
+      ]
+    },
+    {
+      "id": "175340",
+      "name": "數位發展部（含所屬機關）刊登行政院公報統計表",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/16586"
+      ]
+    },
+    {
+      "id": "175342",
+      "name": "數位發展部人權工作小組會議紀錄",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17042"
+      ]
+    },
+    {
+      "id": "175343",
+      "name": "數位發展部訴願決定書",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/17044"
+      ]
+    },
+    {
+      "id": "172060",
+      "name": "政府網站服務管理規範",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15132"
+      ]
+    },
+    {
+      "id": "173331",
+      "name": "數位發展部對民間團體及個人補（捐）助經費彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/16082",
+        "https://www-api.moda.gov.tw/OpenData/Files/16084",
+        "https://www-api.moda.gov.tw/OpenData/Files/16086",
+        "https://www-api.moda.gov.tw/OpenData/Files/16088",
+        "https://www-api.moda.gov.tw/OpenData/Files/16034",
+        "https://www-api.moda.gov.tw/OpenData/Files/16036",
+        "https://www-api.moda.gov.tw/OpenData/Files/16038",
+        "https://www-api.moda.gov.tw/OpenData/Files/16040",
+        "https://www-api.moda.gov.tw/OpenData/Files/15940",
+        "https://www-api.moda.gov.tw/OpenData/Files/16766",
+        "https://www-api.moda.gov.tw/OpenData/Files/17682",
+        "https://www-api.moda.gov.tw/OpenData/Files/18792"
+      ]
+    },
+    {
+      "id": "173440",
+      "name": "資料管理技術架構指引",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/16202"
+      ]
+    },
+    {
+      "id": "173225",
+      "name": "數位發展部年度施政績效報告",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14660"
+      ]
+    },
+    {
+      "id": "173227",
+      "name": "數位發展部個案管制計畫評核結果",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14662"
+      ]
+    },
+    {
+      "id": "173231",
+      "name": "各類電信號碼使用情形統計",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15304",
+        "https://www-api.moda.gov.tw/OpenData/Files/15308",
+        "https://www-api.moda.gov.tw/OpenData/Files/15310",
+        "https://www-api.moda.gov.tw/OpenData/Files/15306",
+        "https://www-api.moda.gov.tw/OpenData/Files/15314",
+        "https://www-api.moda.gov.tw/OpenData/Files/15312",
+        "https://www-api.moda.gov.tw/OpenData/Files/15328",
+        "https://www-api.moda.gov.tw/OpenData/Files/15316",
+        "https://www-api.moda.gov.tw/OpenData/Files/15318",
+        "https://www-api.moda.gov.tw/OpenData/Files/15320",
+        "https://www-api.moda.gov.tw/OpenData/Files/15322",
+        "https://www-api.moda.gov.tw/OpenData/Files/15324"
+      ]
+    },
+    {
+      "id": "173234",
+      "name": "改善山區行動通訊(山區站點網路資料)",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/14880"
+      ]
+    },
+    {
+      "id": "173236",
+      "name": "各年度指定區域及指定區域涵蓋率認定方式公告",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15262"
+      ]
+    },
+    {
+      "id": "173237",
+      "name": "中華民國無線電頻率分配表",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15282"
+      ]
+    },
+    {
+      "id": "173238",
+      "name": "無線電頻率供應計畫",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15284",
+        "https://www-api.moda.gov.tw/OpenData/Files/15336",
+        "https://www-api.moda.gov.tw/OpenData/Files/15338",
+        "https://www-api.moda.gov.tw/OpenData/Files/15340"
+      ]
+    },
+    {
+      "id": "173239",
+      "name": "無線電頻率供應計畫修正草案總說明",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15286",
+        "https://www-api.moda.gov.tw/OpenData/Files/15292",
+        "https://www-api.moda.gov.tw/OpenData/Files/15294",
+        "https://www-api.moda.gov.tw/OpenData/Files/15342"
+      ]
+    },
+    {
+      "id": "173253",
+      "name": "數位發展部車輛數量統計表(不含所屬)",
+      "format": "csv",
+      "urls": [
+        "https://www-api.moda.gov.tw/OpenData/Files/15268"
+      ]
+    }
+  ]
+}

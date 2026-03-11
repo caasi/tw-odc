@@ -1,0 +1,2962 @@
+{
+  "type": "dataset",
+  "provider": "衛生福利部疾病管制署",
+  "slug": "od_cdc_gov_tw_f097e1a5",
+  "datasets": [
+    {
+      "id": "19080",
+      "name": "預防接種受害救濟基金決算書(審定本)",
+      "format": "xml",
+      "urls": [
+        "https://od.cdc.gov.tw/as/11.預防接種受害救濟基金決算書(審定本)/105決算書.7z",
+        "https://od.cdc.gov.tw/as/11.預防接種受害救濟基金決算書(審定本)/106決算書.7z"
+      ]
+    },
+    {
+      "id": "24161",
+      "name": "近12個月登革熱病媒蚊調查資料",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/MosIndex_All_last12m.csv",
+        "https://od.cdc.gov.tw/eic/MosIndex_All_last12m.json",
+        "https://od.cdc.gov.tw/eic/MosIndex_Tainan_last12m.csv",
+        "https://od.cdc.gov.tw/eic/MosIndex_Tainan_last12m.json",
+        "https://od.cdc.gov.tw/eic/MosIndex_Kaohsiung_last12m.csv",
+        "https://od.cdc.gov.tw/eic/MosIndex_Kaohsiung_last12m.json",
+        "https://od.cdc.gov.tw/eic/MosIndex_Pingtung_last12m.csv",
+        "https://od.cdc.gov.tw/eic/MosIndex_Pingtung_last12m.json"
+      ]
+    },
+    {
+      "id": "24423",
+      "name": "生物材料庫貯存病毒細菌株現況等級",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/公開資料/生物材料庫貯存病毒細菌現況等級.csv"
+      ]
+    },
+    {
+      "id": "24424",
+      "name": "生物材料庫貯存現況",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/生物材料庫貯存現況.csv"
+      ]
+    },
+    {
+      "id": "24457",
+      "name": "各項預防接種完成率統計",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/acute/2022 Immunization Coverage Annual Data.csv",
+        "https://od.cdc.gov.tw/acute/2023 Immunization Coverage Annual Data.csv",
+        "https://od.cdc.gov.tw/acute/2024 Immunization Coverage Annual Data.csv"
+      ]
+    },
+    {
+      "id": "8879",
+      "name": "地區年齡性別統計表-鼠疫-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_020.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8881",
+      "name": "地區年齡性別統計表-霍亂-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_001.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_001.json"
+      ]
+    },
+    {
+      "id": "8888",
+      "name": "地區年齡性別統計表-急性無力肢體麻痺-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_045a.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_045a.json"
+      ]
+    },
+    {
+      "id": "8891",
+      "name": "地區年齡性別統計表-麻疹-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_055.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_055.json"
+      ]
+    },
+    {
+      "id": "8893",
+      "name": "地區年齡性別統計表-腸道出血性大腸桿菌感染症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0080.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0080.json"
+      ]
+    },
+    {
+      "id": "8895",
+      "name": "地區年齡性別統計表-漢他病毒肺症候群-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_4808.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_4808.json"
+      ]
+    },
+    {
+      "id": "8898",
+      "name": "地區年齡性別統計表-百日咳-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_033.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_033.json"
+      ]
+    },
+    {
+      "id": "8900",
+      "name": "地區年齡性別統計表-急性病毒性Ｂ型肝炎-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0703.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0703.json"
+      ]
+    },
+    {
+      "id": "8921",
+      "name": "地區年齡性別統計表-弓形蟲感染症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_130.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_130.json"
+      ]
+    },
+    {
+      "id": "8922",
+      "name": "地區年齡性別統計表-布氏桿菌病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_023.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_023.json"
+      ]
+    },
+    {
+      "id": "8930",
+      "name": "地區年齡性別統計表-流感併發重症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_487a.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_487a.json"
+      ]
+    },
+    {
+      "id": "8906",
+      "name": "地區年齡性別統計表-淋病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_098.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_098.json"
+      ]
+    },
+    {
+      "id": "8908",
+      "name": "地區年齡性別統計表-退伍軍人病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_4828.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_4828.json"
+      ]
+    },
+    {
+      "id": "8913",
+      "name": "地區年齡性別統計表-庫賈氏病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0461.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0461.json"
+      ]
+    },
+    {
+      "id": "8915",
+      "name": "地區年齡性別統計表-地方性斑疹傷寒-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0820.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0820.json"
+      ]
+    },
+    {
+      "id": "8918",
+      "name": "地區年齡性別統計表-兔熱病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_021.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_021.json"
+      ]
+    },
+    {
+      "id": "8671",
+      "name": "地區年齡性別統計表-流行性斑疹傷寒-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_080.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8673",
+      "name": "地區年齡性別統計表-類鼻疽-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_025.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_025.json"
+      ]
+    },
+    {
+      "id": "8665",
+      "name": "地區年齡性別統計表-恙蟲病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0812.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0812.json"
+      ]
+    },
+    {
+      "id": "12512",
+      "name": "疾病管制署疫苗基金季報補捐助款",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/105年補捐助團體縣市政府及個人情形第1季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/105年補捐助團體縣市政府及個人情形第2季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/105年補捐助團體縣市政府及個人情形第3季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/105年補捐助團體縣市政府及個人情形第4季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/106年補捐助團體縣市政府及個人情形第1季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/106年補捐助團體縣市政府及個人情形第2季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/106年補捐助團體縣市政府及個人情形第3季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/106年補捐助團體縣市政府及個人情形第4季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/107年補捐助團體縣市政府及個人情形第2季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/107年補捐助團體縣市政府及個人情形第3季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/107年補捐助團體縣市政府及個人情形第4季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/108年補捐助團體縣市政府及個人情形第1季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/108年補捐助團體縣市政府及個人情形第2季報表.csv",
+        "https://od.cdc.gov.tw/as/12.疾病管制署疫苗基金季報補捐助款/108年補捐助團體縣市政府及個人情形第3季報表.csv"
+      ]
+    },
+    {
+      "id": "26324",
+      "name": "加護病房醫療照護相關感染部位別感染密度資料",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/icb/THAS_HAI_ICU_11.csv"
+      ]
+    },
+    {
+      "id": "26325",
+      "name": "加護病房醫療照護相關感染個案侵入性導管相關比率資料",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/icb/THAS_HAI_ICU_13.csv"
+      ]
+    },
+    {
+      "id": "26326",
+      "name": "加護病房侵入性導管相關感染密度與導管使用比率資料",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/icb/THAS_HAI_ICU_135.csv"
+      ]
+    },
+    {
+      "id": "6885",
+      "name": "地區年齡性別統計表-HIV感染(含母子垂直感染疑似個案)-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_044.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_044.json"
+      ]
+    },
+    {
+      "id": "6882",
+      "name": "地區年齡性別統計表-結核病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_010.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_010.json"
+      ]
+    },
+    {
+      "id": "14591",
+      "name": "健保門診及住院就診人次統計-疱疹性咽峽炎",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/NHI_Herpangina.csv",
+        "https://od.cdc.gov.tw/eic/NHI_Herpangina.json"
+      ]
+    },
+    {
+      "id": "14594",
+      "name": "健保門診及住院就診人次統計-流感及其所致肺炎",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/NHI_Influenza.csv",
+        "https://od.cdc.gov.tw/eic/NHI_Influenza.json"
+      ]
+    },
+    {
+      "id": "14595",
+      "name": "健保門診及住院就診人次統計-其他肺炎",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/NHI_OtherPneumonia.csv",
+        "https://od.cdc.gov.tw/eic/NHI_OtherPneumonia.json"
+      ]
+    },
+    {
+      "id": "14596",
+      "name": "健保門診及住院就診人次統計-急性上呼吸道感染",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/NHI_AcuteUpperRespiratoryInfections.csv",
+        "https://od.cdc.gov.tw/eic/NHI_AcuteUpperRespiratoryInfections.json"
+      ]
+    },
+    {
+      "id": "14584",
+      "name": "急診傳染病監測統計-類流感",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/RODS_Influenza_like_illness.csv",
+        "https://od.cdc.gov.tw/eic/RODS_Influenza_like_illness.json"
+      ]
+    },
+    {
+      "id": "14585",
+      "name": "急診傳染病監測統計-紅眼症",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/RODS_AcuteHemorrhagicConjunctivitis.csv",
+        "https://od.cdc.gov.tw/eic/RODS_AcuteHemorrhagicConjunctivitis.json"
+      ]
+    },
+    {
+      "id": "14587",
+      "name": "急診傳染病監測統計-腸病毒",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/RODS_EnteroviralInfection.csv",
+        "https://od.cdc.gov.tw/eic/RODS_EnteroviralInfection.json"
+      ]
+    },
+    {
+      "id": "9861",
+      "name": "地區年齡性別統計表-嚴重急性呼吸道症候群-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_SARS.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_SARS.json"
+      ]
+    },
+    {
+      "id": "9862",
+      "name": "地區年齡性別統計表-鼠疫-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_020.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9876",
+      "name": "地區年齡性別統計表-漢他病毒出血熱-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0786.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0786.json"
+      ]
+    },
+    {
+      "id": "9877",
+      "name": "地區年齡性別統計表-漢他病毒肺症候群-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_4808.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_4808.json"
+      ]
+    },
+    {
+      "id": "9878",
+      "name": "地區年齡性別統計表-多重抗藥性結核病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_010m.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_010m.json"
+      ]
+    },
+    {
+      "id": "9879",
+      "name": "地區年齡性別統計表-漢生病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_030.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_030.json"
+      ]
+    },
+    {
+      "id": "9881",
+      "name": "地區年齡性別統計表-破傷風-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_037.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9882",
+      "name": "地區年齡性別統計表-急性病毒性Ｂ型肝炎-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0703.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0703.json"
+      ]
+    },
+    {
+      "id": "9883",
+      "name": "地區年齡性別統計表-急性病毒性C型肝炎-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0705.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0705.json"
+      ]
+    },
+    {
+      "id": "9886",
+      "name": "地區年齡性別統計表-流行性腮腺炎-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_072.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_072.json"
+      ]
+    },
+    {
+      "id": "9888",
+      "name": "地區年齡性別統計表-淋病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_098.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_098.json"
+      ]
+    },
+    {
+      "id": "9889",
+      "name": "地區年齡性別統計表-侵襲性ｂ型嗜血桿菌感染症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_3200.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_3200.json"
+      ]
+    },
+    {
+      "id": "9894",
+      "name": "地區年齡性別統計表-肉毒桿菌中毒-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0051.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0051.json"
+      ]
+    },
+    {
+      "id": "9896",
+      "name": "地區年齡性別統計表-萊姆病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_1048.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_1048.json"
+      ]
+    },
+    {
+      "id": "9898",
+      "name": "地區年齡性別統計表-Ｑ熱-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0830.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0830.json"
+      ]
+    },
+    {
+      "id": "9906",
+      "name": "地區年齡性別統計表-黃熱病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_060.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9911",
+      "name": "地區年齡性別統計表-新型A型流感-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_NFluA.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_NFluA.json"
+      ]
+    },
+    {
+      "id": "9914",
+      "name": "地區年齡性別統計表-結核病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_010.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_010.json"
+      ]
+    },
+    {
+      "id": "9915",
+      "name": "地區年齡性別統計表-桿菌性痢疾-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_004.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_004.json"
+      ]
+    },
+    {
+      "id": "9917",
+      "name": "地區年齡性別統計表-恙蟲病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0812.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0812.json"
+      ]
+    },
+    {
+      "id": "9918",
+      "name": "地區年齡性別統計表-日本腦炎-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0620.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0620.json"
+      ]
+    },
+    {
+      "id": "9920",
+      "name": "地區年齡性別統計表-西尼羅熱-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0663b.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "10568",
+      "name": "國際重要疫情資訊",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/cdc/TCDCIntlEpidAll.csv"
+      ]
+    },
+    {
+      "id": "33997",
+      "name": "預防接種受害救濟基金預算書(立法院審定)",
+      "format": "zip",
+      "urls": [
+        "https://od.cdc.gov.tw/as/10.預防接種受害救濟基金預算書(立法院審定)/105年預算書.7z",
+        "https://od.cdc.gov.tw/as/10.預防接種受害救濟基金預算書(立法院審定)/106年預算書.7z",
+        "https://od.cdc.gov.tw/as/10.預防接種受害救濟基金預算書(立法院審定)/107年預算書.7z",
+        "https://od.cdc.gov.tw/as/10.預防接種受害救濟基金預算書(立法院審定)/109年預算書.7z",
+        "https://od.cdc.gov.tw/as/10.預防接種受害救濟基金預算書(立法院審定)/110年預算書.7z"
+      ]
+    },
+    {
+      "id": "68563",
+      "name": "疾病管制署公務決算書(審定本)",
+      "format": "zip",
+      "urls": [
+        "https://od.cdc.gov.tw/as/03.疾病管制署公務決算書(審定本)/105年決算書.zip",
+        "https://od.cdc.gov.tw/as/03.疾病管制署公務決算書(審定本)/106年決算書.zip",
+        "https://od.cdc.gov.tw/as/03.疾病管制署公務決算書(審定本)/107年決算書.zip",
+        "https://od.cdc.gov.tw/as/03.疾病管制署公務決算書(審定本)/108年決算書.zip",
+        "https://od.cdc.gov.tw/as/03.疾病管制署公務決算書(審定本)/109年決算書.zip",
+        "https://od.cdc.gov.tw/as/03.疾病管制署公務決算書(審定本)/110年決算書.zip",
+        "https://od.cdc.gov.tw/as/03.疾病管制署公務決算書(審定本)/111年決算書.zip",
+        "https://od.cdc.gov.tw/as/03.疾病管制署公務決算書(審定本)/112年決算書.zip",
+        "https://od.cdc.gov.tw/as/03.疾病管制署公務決算書(審定本)/113年決算書.zip"
+      ]
+    },
+    {
+      "id": "43979",
+      "name": "2016-2017年國內流感定序統計表",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/流感週報rev.csv"
+      ]
+    },
+    {
+      "id": "43981",
+      "name": "2001-2018定醫呼吸道病毒分離前五大基因型",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/公開資料/2001-2018定醫呼吸道病毒分離前五大基因型.csv"
+      ]
+    },
+    {
+      "id": "43983",
+      "name": "2016年病原微生物基因資料庫腸病毒/流感序列流病資料表",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/2016年病原微生物基因資料庫腸病毒與流感序列流病資料表.csv"
+      ]
+    },
+    {
+      "id": "44812",
+      "name": "結核病－山地鄉新案發生情形統計",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/chronic/tb_faraway_care.csv"
+      ]
+    },
+    {
+      "id": "44814",
+      "name": "結核病－新案發生數統計(縣市別、性別、年齡別)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/chronic/tb_city_age_inc_num.csv"
+      ]
+    },
+    {
+      "id": "44851",
+      "name": "結核病－死亡統計",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/chronic/CareMagDeadInfo.csv"
+      ]
+    },
+    {
+      "id": "45227",
+      "name": "疫苗基金預算書(立法院審定)",
+      "format": "zip",
+      "urls": [
+        "https://od.cdc.gov.tw/as/07.疫苗基金預算書(立法院審定)/105年預算書.zip",
+        "https://od.cdc.gov.tw/as/07.疫苗基金預算書(立法院審定)/106年預算書.zip",
+        "https://od.cdc.gov.tw/as/07.疫苗基金預算書(立法院審定)/107年預算書.zip",
+        "https://od.cdc.gov.tw/as/07.疫苗基金預算書(立法院審定)/108年預算書.zip",
+        "https://od.cdc.gov.tw/as/07.疫苗基金預算書(立法院審定)/109年預算書.zip"
+      ]
+    },
+    {
+      "id": "73178",
+      "name": "登革熱1998年起每日確定病例統計 (全英文資料集)",
+      "format": "json",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Dengue_Daily_EN.json",
+        "https://od.cdc.gov.tw/eic/Dengue_Daily_EN.csv"
+      ]
+    },
+    {
+      "id": "42781",
+      "name": "國際旅遊處方箋網頁內容",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/quarantine/TMPrescription.csv"
+      ]
+    },
+    {
+      "id": "43597",
+      "name": "110-111年易剋冒膠囊使用情形",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/emerging/110-111eraflu.csv",
+        "https://od.cdc.gov.tw/emerging/110-111eraflu.xlsx"
+      ]
+    },
+    {
+      "id": "43598",
+      "name": "109-111年傳染病指定隔離醫院及應變醫院名單",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/emerging/the-list-of-communicable-disease-isolation-hospitals-and-responding-hospitals-2020-2022.csv"
+      ]
+    },
+    {
+      "id": "151770",
+      "name": "地區年齡性別統計表-嚴重特殊傳染性肺炎-依發病日統計(以日為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_day_19CoV.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_day_19CoV.json",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_day_19CVS.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_day_19CVS.json"
+      ]
+    },
+    {
+      "id": "151907",
+      "name": "地區年齡性別統計表-流感併發重症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_487a.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_487a.json"
+      ]
+    },
+    {
+      "id": "151914",
+      "name": "地區年齡性別統計表-侵襲性肺炎鏈球菌感染症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0412.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0412.json"
+      ]
+    },
+    {
+      "id": "161301",
+      "name": "登革熱NS1快篩試劑配置醫療院所",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/acute/ns1hosp.csv",
+        "https://od.cdc.gov.tw/acute/ns1hosp.json"
+      ]
+    },
+    {
+      "id": "160694",
+      "name": "地區年齡性別統計表-布氏桿菌病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_023.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160698",
+      "name": "地區年齡性別統計表-先天性德國麻疹症候群-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_7710.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160839",
+      "name": "死亡病例地區年齡性別統計表-嚴重特殊傳染性肺炎-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_4.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_4.json",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_4.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_4.json"
+      ]
+    },
+    {
+      "id": "160776",
+      "name": "地區年齡性別統計表-急性病毒性Ａ型肝炎-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0701.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0701.json"
+      ]
+    },
+    {
+      "id": "160808",
+      "name": "地區年齡性別統計表-馬堡病毒出血熱-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0788a.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160809",
+      "name": "地區年齡性別統計表-副傷寒-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_002a.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_002a.json"
+      ]
+    },
+    {
+      "id": "160738",
+      "name": "地區年齡性別統計表-西尼羅熱-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0663b.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160739",
+      "name": "地區年齡性別統計表-李斯特菌症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_027.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_027.json"
+      ]
+    },
+    {
+      "id": "160740",
+      "name": "地區年齡性別統計表-狂犬病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_071.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160742",
+      "name": "地區年齡性別統計表-屈公病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_A920.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_A920.json"
+      ]
+    },
+    {
+      "id": "160745",
+      "name": "地區年齡性別統計表-侵襲性ｂ型嗜血桿菌感染症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_3200.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_3200.json"
+      ]
+    },
+    {
+      "id": "160780",
+      "name": "地區年齡性別統計表-急性病毒性E型肝炎-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_070e.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_070e.json"
+      ]
+    },
+    {
+      "id": "160781",
+      "name": "地區年齡性別統計表-急性病毒性肝炎未定型-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_070x.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_070x.json"
+      ]
+    },
+    {
+      "id": "160782",
+      "name": "地區年齡性別統計表-急性無力肢體麻痺-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_045a.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_045a.json"
+      ]
+    },
+    {
+      "id": "160788",
+      "name": "地區年齡性別統計表-恙蟲病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0812.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0812.json"
+      ]
+    },
+    {
+      "id": "160789",
+      "name": "地區年齡性別統計表-疱疹B病毒感染症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0543.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160827",
+      "name": "地區年齡性別統計表-漢他病毒肺症候群-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_4808.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_4808.json"
+      ]
+    },
+    {
+      "id": "160828",
+      "name": "地區年齡性別統計表-漢生病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_030.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_030.json"
+      ]
+    },
+    {
+      "id": "160837",
+      "name": "死亡病例地區年齡性別統計表-嚴重特殊傳染性肺炎-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_6.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_6.json",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_6.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_6.json"
+      ]
+    },
+    {
+      "id": "160838",
+      "name": "死亡病例地區年齡性別統計表-嚴重特殊傳染性肺炎-依發病日統計(以日為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_5.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_5.json",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_5.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_5.json"
+      ]
+    },
+    {
+      "id": "160813",
+      "name": "地區年齡性別統計表-麻疹-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_055.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_055.json"
+      ]
+    },
+    {
+      "id": "160820",
+      "name": "地區年齡性別統計表-新型A型流感-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_NFluA.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_NFluA.json"
+      ]
+    },
+    {
+      "id": "160824",
+      "name": "地區年齡性別統計表-鼠疫-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_020.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "169615",
+      "name": "2015到2023年非傷寒沙門氏菌臨床菌株血清型對應重要抗生素抗藥性監測資料",
+      "format": "bin",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/2015到2023年非傷寒沙門氏菌臨床菌株血清型對應重要抗生素抗藥性監測資料.csv"
+      ]
+    },
+    {
+      "id": "172958",
+      "name": "2024年非傷寒沙門氏菌臨床菌株血清型對應重要抗生素抗藥性監測資料",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/2024年非傷寒沙門氏菌臨床菌株血清型對應重要抗生素抗藥性監測資料.csv"
+      ]
+    },
+    {
+      "id": "173768",
+      "name": "地區年齡性別統計表-新冠併發重症-依發病日統計(以日為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_day_19SC.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_day_19SC.json"
+      ]
+    },
+    {
+      "id": "173769",
+      "name": "地區年齡性別統計表-新冠併發重症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_19SC.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_19SC.json"
+      ]
+    },
+    {
+      "id": "173770",
+      "name": "地區年齡性別統計表-新冠併發重症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_19SC.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_19SC.json"
+      ]
+    },
+    {
+      "id": "173763",
+      "name": "死亡病例地區年齡性別統計表-新冠併發重症-依發病日統計(以日為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_5.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_5.json"
+      ]
+    },
+    {
+      "id": "8877",
+      "name": "地區年齡性別統計表-天花-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_050.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8878",
+      "name": "地區年齡性別統計表-嚴重急性呼吸道症候群-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_SARS.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_SARS.json"
+      ]
+    },
+    {
+      "id": "8884",
+      "name": "地區年齡性別統計表-流行性腦脊髓膜炎-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0360.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0360.json"
+      ]
+    },
+    {
+      "id": "8886",
+      "name": "地區年齡性別統計表-副傷寒-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_002a.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_002a.json"
+      ]
+    },
+    {
+      "id": "8894",
+      "name": "地區年齡性別統計表-漢他病毒出血熱-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0786.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0786.json"
+      ]
+    },
+    {
+      "id": "8899",
+      "name": "地區年齡性別統計表-破傷風-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_037.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8902",
+      "name": "地區年齡性別統計表-急性病毒性D型肝炎-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_070d.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_070d.json"
+      ]
+    },
+    {
+      "id": "8903",
+      "name": "地區年齡性別統計表-急性病毒性E型肝炎-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_070e.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_070e.json"
+      ]
+    },
+    {
+      "id": "8905",
+      "name": "地區年齡性別統計表-梅毒-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_090.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_090.json"
+      ]
+    },
+    {
+      "id": "8909",
+      "name": "地區年齡性別統計表-先天性德國麻疹症候群-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_7710.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_7710.json"
+      ]
+    },
+    {
+      "id": "8911",
+      "name": "地區年齡性別統計表-急性病毒性肝炎未定型-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_070x.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_070x.json"
+      ]
+    },
+    {
+      "id": "8916",
+      "name": "地區年齡性別統計表-Ｑ熱-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0830.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0830.json"
+      ]
+    },
+    {
+      "id": "8917",
+      "name": "地區年齡性別統計表-水痘併發症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_052VC.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_052VC.json"
+      ]
+    },
+    {
+      "id": "8923",
+      "name": "地區年齡性別統計表-中東呼吸症候群冠狀病毒感染症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_NoCoV.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8924",
+      "name": "地區年齡性別統計表-黃熱病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_060.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "9860",
+      "name": "地區年齡性別統計表-天花-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_050.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9864",
+      "name": "地區年齡性別統計表-霍亂-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_001.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_001.json"
+      ]
+    },
+    {
+      "id": "9865",
+      "name": "地區年齡性別統計表-炭疽病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_022.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9913",
+      "name": "地區年齡性別統計表-腸病毒感染併發重症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0749.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0749.json"
+      ]
+    },
+    {
+      "id": "9916",
+      "name": "地區年齡性別統計表-阿米巴性痢疾-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_006.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_006.json"
+      ]
+    },
+    {
+      "id": "9899",
+      "name": "地區年齡性別統計表-水痘併發症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_052VC.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_052VC.json"
+      ]
+    },
+    {
+      "id": "9900",
+      "name": "地區年齡性別統計表-兔熱病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_021.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_021.json"
+      ]
+    },
+    {
+      "id": "9901",
+      "name": "地區年齡性別統計表-侵襲性肺炎鏈球菌感染症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0412.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0412.json"
+      ]
+    },
+    {
+      "id": "9904",
+      "name": "地區年齡性別統計表-布氏桿菌病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_023.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_023.json"
+      ]
+    },
+    {
+      "id": "9905",
+      "name": "地區年齡性別統計表-中東呼吸症候群冠狀病毒感染症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_NoCoV.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9870",
+      "name": "地區年齡性別統計表-小兒麻痺症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_045.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9872",
+      "name": "地區年齡性別統計表-瘧疾-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_084.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_084.json"
+      ]
+    },
+    {
+      "id": "9873",
+      "name": "地區年齡性別統計表-麻疹-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_055.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_055.json"
+      ]
+    },
+    {
+      "id": "9874",
+      "name": "地區年齡性別統計表-急性病毒性Ａ型肝炎-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0701.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0701.json"
+      ]
+    },
+    {
+      "id": "9875",
+      "name": "地區年齡性別統計表-腸道出血性大腸桿菌感染症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0080.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0080.json"
+      ]
+    },
+    {
+      "id": "9890",
+      "name": "地區年齡性別統計表-退伍軍人病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_4828.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_4828.json"
+      ]
+    },
+    {
+      "id": "9893",
+      "name": "地區年齡性別統計表-急性病毒性肝炎未定型-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_070x.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_070x.json"
+      ]
+    },
+    {
+      "id": "9897",
+      "name": "地區年齡性別統計表-地方性斑疹傷寒-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0820.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0820.json"
+      ]
+    },
+    {
+      "id": "6883",
+      "name": "地區年齡性別統計表-桿菌性痢疾-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_004.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_004.json"
+      ]
+    },
+    {
+      "id": "6884",
+      "name": "地區年齡性別統計表-阿米巴性痢疾-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_006.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_006.json"
+      ]
+    },
+    {
+      "id": "10567",
+      "name": "國際旅遊疫情建議等級表",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/cdc/TCDCTravelAlert.csv",
+        "https://od.cdc.gov.tw/cdc/TCDCTravelAlert_history.csv"
+      ]
+    },
+    {
+      "id": "8674",
+      "name": "地區年齡性別統計表-鉤端螺旋體病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_100.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_100.json"
+      ]
+    },
+    {
+      "id": "8676",
+      "name": "地區年齡性別統計表-狂犬病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_071.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_071.json"
+      ]
+    },
+    {
+      "id": "44849",
+      "name": "結核病－每日疫情指標綜覽",
+      "format": "xml",
+      "urls": [
+        "https://od.cdc.gov.tw/chronic/TBMonitorDaily.XML",
+        "https://od.cdc.gov.tw/chronic/TBMonitorDaily.json"
+      ]
+    },
+    {
+      "id": "44852",
+      "name": "結核病－治療成功率統計",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/chronic/TreatSuccessPercent.csv"
+      ]
+    },
+    {
+      "id": "44855",
+      "name": "結核病－每日追蹤管理中個案統計",
+      "format": "json",
+      "urls": [
+        "https://od.cdc.gov.tw/chronic/CareMagDaily.json",
+        "https://od.cdc.gov.tw/chronic/CareMagOld.csv",
+        "https://od.cdc.gov.tw/chronic/CareMagDailyList.csv",
+        "https://od.cdc.gov.tw/chronic/CareMagDaily.XML"
+      ]
+    },
+    {
+      "id": "88904",
+      "name": "2017年病原微生物基因資料庫腸病毒/流感序列流病資料表",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/2017年病原微生物基因資料庫腸病毒與流感序列流病資料表.csv"
+      ]
+    },
+    {
+      "id": "21025",
+      "name": "登革熱1998年起每日確定病例統計",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Dengue_Daily.csv",
+        "https://od.cdc.gov.tw/eic/Dengue_Daily.json"
+      ]
+    },
+    {
+      "id": "21026",
+      "name": "登革熱近12個月每日確定病例統計",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Dengue_Daily_last12m.csv",
+        "https://od.cdc.gov.tw/eic/Dengue_Daily_last12m.json"
+      ]
+    },
+    {
+      "id": "21282",
+      "name": "疾病管制署公務預算(預算案)",
+      "format": "zip",
+      "urls": [
+        "https://od.cdc.gov.tw/as/01.疾病管制署公務預算(預算案)/105-預算案.zip",
+        "https://od.cdc.gov.tw/as/01.疾病管制署公務預算(預算案)/106-預算案.zip",
+        "https://od.cdc.gov.tw/as/01.疾病管制署公務預算(預算案)/107-預算案.zip",
+        "https://od.cdc.gov.tw/as/01.疾病管制署公務預算(預算案)/108-預算案.zip",
+        "https://od.cdc.gov.tw/as/01.疾病管制署公務預算(預算案)/109-預算案.zip",
+        "https://od.cdc.gov.tw/as/01.疾病管制署公務預算(預算案)/110-預算案.zip",
+        "https://od.cdc.gov.tw/as/01.疾病管制署公務預算(預算案)/111-預算案.zip",
+        "https://od.cdc.gov.tw/as/01.疾病管制署公務預算(預算案)/112-預算案.zip"
+      ]
+    },
+    {
+      "id": "26327",
+      "name": "加護病房種類別醫療照護相關感染密度資料",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/icb/THAS_HAI_ICU_9.csv"
+      ]
+    },
+    {
+      "id": "26319",
+      "name": "全國已核定生物安全管理組織之設置單位家數統計",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/icb/ibc_2023s4_20240321dl.csv"
+      ]
+    },
+    {
+      "id": "26321",
+      "name": "全國保存或使用RG2病原體之實驗室數統計表及病原體清單",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/icb/rg2_2023s4_20240321dl.csv"
+      ]
+    },
+    {
+      "id": "24159",
+      "name": "登革熱病媒蚊調查資料",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/MosIndex_All.csv",
+        "https://od.cdc.gov.tw/eic/MosIndex_2019.json",
+        "https://od.cdc.gov.tw/eic/MosIndex_Tainan.csv",
+        "https://od.cdc.gov.tw/eic/MosIndex_Tainan.json",
+        "https://od.cdc.gov.tw/eic/MosIndex_Kaohsiung.csv",
+        "https://od.cdc.gov.tw/eic/MosIndex_Kaohsiung.json",
+        "https://od.cdc.gov.tw/eic/MosIndex_Pingtung.csv",
+        "https://od.cdc.gov.tw/eic/MosIndex_Pingtung.json"
+      ]
+    },
+    {
+      "id": "24468",
+      "name": "抗蛇毒血清儲備點查詢",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/snake_place.csv"
+      ]
+    },
+    {
+      "id": "24385",
+      "name": "近兩週全國本土登革熱病例聚集區域",
+      "format": "geojson",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/DengueCluster/DengueCluster_Tainan.json",
+        "https://od.cdc.gov.tw/eic/DengueCluster/DengueCluster_Kaohsiung.json",
+        "https://od.cdc.gov.tw/eic/DengueCluster/DengueCluster_Pingtung.json",
+        "https://od.cdc.gov.tw/eic/DengueCluster/DengueCluster_Taipei.json",
+        "https://od.cdc.gov.tw/eic/DengueCluster/DengueCluster_NewTaipei.json",
+        "https://od.cdc.gov.tw/eic/DengueCluster/DengueCluster_Taichung.json",
+        "https://od.cdc.gov.tw/eic/DengueCluster/DengueCluster_Taoyuan.json"
+      ]
+    },
+    {
+      "id": "24458",
+      "name": "各項預防接種工作量統計",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/acute/2022 Annual Vaccination Doses.csv",
+        "https://od.cdc.gov.tw/acute/2023 Annual Vaccination Doses.csv",
+        "https://od.cdc.gov.tw/acute/2024 Annual Vaccination Doses.csv"
+      ]
+    },
+    {
+      "id": "14590",
+      "name": "健保門診及住院就診人次統計-腸病毒",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/NHI_EnteroviralInfection.csv",
+        "https://od.cdc.gov.tw/eic/NHI_EnteroviralInfection.json"
+      ]
+    },
+    {
+      "id": "14592",
+      "name": "健保門診及住院就診人次統計-手足口病",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/NHI_HandFootMouthDisease.csv",
+        "https://od.cdc.gov.tw/eic/NHI_HandFootMouthDisease.json"
+      ]
+    },
+    {
+      "id": "14597",
+      "name": "健保門診及住院就診人次統計-腹瀉",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/NHI_Diarrhea.csv",
+        "https://od.cdc.gov.tw/eic/NHI_Diarrhea.json"
+      ]
+    },
+    {
+      "id": "14598",
+      "name": "健保門診及住院就診人次統計-猩紅熱",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/NHI_ScarletFever.csv",
+        "https://od.cdc.gov.tw/eic/NHI_ScarletFever.json"
+      ]
+    },
+    {
+      "id": "14599",
+      "name": "健保門診及住院就診人次統計-水痘",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/NHI_Varicella.csv",
+        "https://od.cdc.gov.tw/eic/NHI_Varicella.json"
+      ]
+    },
+    {
+      "id": "14588",
+      "name": "急診傳染病監測統計-疱疹性咽峽炎",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/RODS_Herpangina.csv",
+        "https://od.cdc.gov.tw/eic/RODS_Herpangina.json"
+      ]
+    },
+    {
+      "id": "14589",
+      "name": "急診傳染病監測統計-手足口病",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/RODS_HandFootMouthDisease.csv",
+        "https://od.cdc.gov.tw/eic/RODS_HandFootMouthDisease.json"
+      ]
+    },
+    {
+      "id": "43596",
+      "name": "111年流感抗病毒藥劑合約院所名冊",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/emerging/111年流感抗病毒藥劑合約院所名冊.csv",
+        "https://od.cdc.gov.tw/emerging/111年流感抗病毒藥劑合約院所名冊.xlsx"
+      ]
+    },
+    {
+      "id": "43592",
+      "name": "110-111年Relenza使用情形",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/emerging/110-111relanza.csv",
+        "https://od.cdc.gov.tw/emerging/110-111relanza.xlsx"
+      ]
+    },
+    {
+      "id": "43593",
+      "name": "110-111年Tamiflu使用情形",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/emerging/110-111tamiflu.csv",
+        "https://od.cdc.gov.tw/emerging/110-111tamiflu.xlsx"
+      ]
+    },
+    {
+      "id": "43499",
+      "name": "疾病管制署公務會計報告",
+      "format": "zip",
+      "urls": [
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10901.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10902.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10903.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10904.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10905.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10906.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10907.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10908.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10909.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10910.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10911.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/109/10912.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11001.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11002.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11003.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11004.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11005.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11006.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11007.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11008.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11009.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11010.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11011.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/110/11012.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11101.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11102.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11103.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11104.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11105.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11106.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11107.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11108.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11109.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11110.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11111.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/111/11112.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11201.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11202.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11203.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11204.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11205.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11206.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11207.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11208.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11209.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11210.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11211.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/112/11212.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11301.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11302.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11303.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11304.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11305.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11306.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11307.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11308.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11309.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11310.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11311.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/113/11312.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/114/11401.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/114/11402.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/114/11403.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/114/11404.zip",
+        "https://od.cdc.gov.tw/as/04.疾病管制署公務會計報告/114/11405.zip"
+      ]
+    },
+    {
+      "id": "45226",
+      "name": "疫苗基金決算書(審定本)",
+      "format": "xml",
+      "urls": [
+        "https://od.cdc.gov.tw/as/08.疫苗基金決算書(審定本)/105年決算書.7z",
+        "https://od.cdc.gov.tw/as/08.疫苗基金決算書(審定本)/106年決算書.7z",
+        "https://od.cdc.gov.tw/as/08.疫苗基金決算書(審定本)/107年決算書.7z",
+        "https://od.cdc.gov.tw/as/08.疫苗基金決算書(審定本)/108年決算書.7z"
+      ]
+    },
+    {
+      "id": "42782",
+      "name": "旅遊醫學合約醫院門診服務時間表",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/quarantine/ClinicsTime.csv"
+      ]
+    },
+    {
+      "id": "42783",
+      "name": "旅遊醫學合約醫院列表",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/quarantine/TMClinicsList.csv"
+      ]
+    },
+    {
+      "id": "127880",
+      "name": "結核病－新案發生數統計(鄉鎮別)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/chronic/tb_town_inc_num.csv"
+      ]
+    },
+    {
+      "id": "101741",
+      "name": "地區年齡性別統計表-李斯特菌症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_027.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_027.json"
+      ]
+    },
+    {
+      "id": "151768",
+      "name": "地區年齡性別統計表-中東呼吸症候群冠狀病毒感染症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_NoCoV.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160683",
+      "name": "地區年齡性別統計表-弓形蟲感染症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_130.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0830.json"
+      ]
+    },
+    {
+      "id": "160692",
+      "name": "地區年齡性別統計表-日本腦炎-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0620.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0620.json"
+      ]
+    },
+    {
+      "id": "160700",
+      "name": "地區年齡性別統計表-地方性斑疹傷寒-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0820.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0820.json"
+      ]
+    },
+    {
+      "id": "160701",
+      "name": "地區年齡性別統計表-百日咳-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_033.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_033.json"
+      ]
+    },
+    {
+      "id": "163160",
+      "name": "死亡病例地區年齡性別統計表-嚴重特殊傳染性肺炎-依死亡日統計(以日為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_2.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_2.json",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_2.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_2.json"
+      ]
+    },
+    {
+      "id": "162065",
+      "name": "地區年齡性別統計表-M痘-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_MPXV.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_MPXV.json"
+      ]
+    },
+    {
+      "id": "160743",
+      "name": "地區年齡性別統計表-拉薩熱-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0788b.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160804",
+      "name": "地區年齡性別統計表-破傷風-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_037.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160805",
+      "name": "地區年齡性別統計表-茲卡病毒感染症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_ZIKAV.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_ZIKAV.json"
+      ]
+    },
+    {
+      "id": "160736",
+      "name": "地區年齡性別統計表-肉毒桿菌中毒-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0051.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0051.json"
+      ]
+    },
+    {
+      "id": "160811",
+      "name": "地區年齡性別統計表-桿菌性痢疾-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_004.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_004.json"
+      ]
+    },
+    {
+      "id": "160815",
+      "name": "地區年齡性別統計表-萊姆病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_1048.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_1048.json"
+      ]
+    },
+    {
+      "id": "160816",
+      "name": "地區年齡性別統計表-裂谷熱-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0663a.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160817",
+      "name": "地區年齡性別統計表-黃熱病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_060.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160818",
+      "name": "地區年齡性別統計表-傷寒-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_002.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_002.json"
+      ]
+    },
+    {
+      "id": "160819",
+      "name": "地區年齡性別統計表-新生兒破傷風-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_7713.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160821",
+      "name": "地區年齡性別統計表-腸病毒感染併發重症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0749.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0749.json"
+      ]
+    },
+    {
+      "id": "160822",
+      "name": "地區年齡性別統計表-腸道出血性大腸桿菌感染症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0080.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0080.json"
+      ]
+    },
+    {
+      "id": "160830",
+      "name": "地區年齡性別統計表-德國麻疹-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_056.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_056.json"
+      ]
+    },
+    {
+      "id": "160832",
+      "name": "地區年齡性別統計表-類鼻疽-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_025.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_025.json"
+      ]
+    },
+    {
+      "id": "160835",
+      "name": "死亡病例地區年齡性別統計表-嚴重特殊傳染性肺炎-依死亡日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_1.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_1.json",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_1.json",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_1.csv"
+      ]
+    },
+    {
+      "id": "160778",
+      "name": "地區年齡性別統計表-急性病毒性C型肝炎-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0705.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0705.json"
+      ]
+    },
+    {
+      "id": "173764",
+      "name": "死亡病例地區年齡性別統計表-新冠併發重症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_4.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_4.json"
+      ]
+    },
+    {
+      "id": "173765",
+      "name": "死亡病例地區年齡性別統計表-新冠併發重症-依死亡日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_3.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_3.json"
+      ]
+    },
+    {
+      "id": "173767",
+      "name": "死亡病例地區年齡性別統計表-新冠併發重症-依死亡日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_1.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_1.json"
+      ]
+    },
+    {
+      "id": "172959",
+      "name": "2017到2023年志賀氏桿菌菌株對應重要抗生素抗藥性監測資料",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/2017到2023年志賀氏桿菌菌株對應重要抗生素抗藥性監測資料.csv"
+      ]
+    },
+    {
+      "id": "6879",
+      "name": "地區年齡性別統計表-登革熱-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_061.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_061.json"
+      ]
+    },
+    {
+      "id": "6880",
+      "name": "地區年齡性別統計表-腸病毒感染併發重症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0749.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0749.json"
+      ]
+    },
+    {
+      "id": "6886",
+      "name": "地區年齡性別統計表-後天免疫缺乏症候群-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_042.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_042.json"
+      ]
+    },
+    {
+      "id": "9919",
+      "name": "地區年齡性別統計表-屈公病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_A920.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_A920.json"
+      ]
+    },
+    {
+      "id": "9921",
+      "name": "地區年齡性別統計表-流行性斑疹傷寒-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_080.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9922",
+      "name": "地區年齡性別統計表-類鼻疽-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_025.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_025.json"
+      ]
+    },
+    {
+      "id": "9923",
+      "name": "地區年齡性別統計表-鉤端螺旋體病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_100.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_100.json"
+      ]
+    },
+    {
+      "id": "9924",
+      "name": "地區年齡性別統計表-狂犬病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_071.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_071.json"
+      ]
+    },
+    {
+      "id": "9925",
+      "name": "地區年齡性別統計表-流感併發重症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_487a.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_487a.json"
+      ]
+    },
+    {
+      "id": "9863",
+      "name": "地區年齡性別統計表-德國麻疹-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_056.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_056.json"
+      ]
+    },
+    {
+      "id": "9866",
+      "name": "地區年齡性別統計表-白喉-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_032.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9867",
+      "name": "地區年齡性別統計表-流行性腦脊髓膜炎-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0360.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0360.json"
+      ]
+    },
+    {
+      "id": "9868",
+      "name": "地區年齡性別統計表-傷寒-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_002.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_002.json"
+      ]
+    },
+    {
+      "id": "9869",
+      "name": "地區年齡性別統計表-副傷寒-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_002a.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_002a.json"
+      ]
+    },
+    {
+      "id": "9902",
+      "name": "地區年齡性別統計表-疱疹B病毒感染症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0543.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9903",
+      "name": "地區年齡性別統計表-弓形蟲感染症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_130.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_130.json"
+      ]
+    },
+    {
+      "id": "9907",
+      "name": "地區年齡性別統計表-伊波拉病毒感染-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0788.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9908",
+      "name": "地區年齡性別統計表-拉薩熱-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0788b.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9909",
+      "name": "地區年齡性別統計表-馬堡病毒出血熱-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0788a.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9910",
+      "name": "地區年齡性別統計表-裂谷熱-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0663a.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9912",
+      "name": "地區年齡性別統計表-登革熱-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_061.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_061.json"
+      ]
+    },
+    {
+      "id": "9887",
+      "name": "地區年齡性別統計表-梅毒-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_090.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_090.json"
+      ]
+    },
+    {
+      "id": "9891",
+      "name": "地區年齡性別統計表-先天性德國麻疹症候群-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_7710.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_7710.json"
+      ]
+    },
+    {
+      "id": "9892",
+      "name": "地區年齡性別統計表-新生兒破傷風-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_7713.csv",
+        "https://www.cdc.gov.tw/Uploads/d4c84064-930b-42bf-a354-e6eb2cb059d2.json"
+      ]
+    },
+    {
+      "id": "9895",
+      "name": "地區年齡性別統計表-庫賈氏病-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0461.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_0461.json"
+      ]
+    },
+    {
+      "id": "9871",
+      "name": "地區年齡性別統計表-急性無力肢體麻痺-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_045a.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_045a.json"
+      ]
+    },
+    {
+      "id": "9880",
+      "name": "地區年齡性別統計表-百日咳-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_033.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_033.json"
+      ]
+    },
+    {
+      "id": "9884",
+      "name": "地區年齡性別統計表-急性病毒性D型肝炎-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_070d.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_070d.json"
+      ]
+    },
+    {
+      "id": "9885",
+      "name": "地區年齡性別統計表-急性病毒性E型肝炎-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_070e.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_070e.json"
+      ]
+    },
+    {
+      "id": "27624",
+      "name": "地區年齡性別統計表-茲卡病毒感染症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_ZIKAV.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_ZIKAV.json"
+      ]
+    },
+    {
+      "id": "27625",
+      "name": "地區年齡性別統計表-茲卡病毒感染症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_ZIKAV.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_ZIKAV.json"
+      ]
+    },
+    {
+      "id": "35598",
+      "name": "預防接種受害救濟基金預算書(預算案)",
+      "format": "zip",
+      "urls": [
+        "https://od.cdc.gov.tw/as/09.預防接種受害救濟基金預算書(預算案)/105-預算案.zip",
+        "https://od.cdc.gov.tw/as/09.預防接種受害救濟基金預算書(預算案)/106-預算案.zip",
+        "https://od.cdc.gov.tw/as/09.預防接種受害救濟基金預算書(預算案)/108-預算案.zip",
+        "https://od.cdc.gov.tw/as/09.預防接種受害救濟基金預算書(預算案)/109-預算案.zip"
+      ]
+    },
+    {
+      "id": "8667",
+      "name": "地區年齡性別統計表-日本腦炎-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0620.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0620.json"
+      ]
+    },
+    {
+      "id": "8668",
+      "name": "地區年齡性別統計表-屈公病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_A920.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_A920.json"
+      ]
+    },
+    {
+      "id": "8670",
+      "name": "地區年齡性別統計表-西尼羅熱-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0663b.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8880",
+      "name": "地區年齡性別統計表-德國麻疹-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_056.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_056.json"
+      ]
+    },
+    {
+      "id": "8882",
+      "name": "地區年齡性別統計表-炭疽病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_022.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8883",
+      "name": "地區年齡性別統計表-白喉-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_032.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8885",
+      "name": "地區年齡性別統計表-傷寒-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_002.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_002.json"
+      ]
+    },
+    {
+      "id": "8919",
+      "name": "地區年齡性別統計表-侵襲性肺炎鏈球菌感染症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0412.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0412.json"
+      ]
+    },
+    {
+      "id": "8920",
+      "name": "地區年齡性別統計表-疱疹B病毒感染症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0543.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8925",
+      "name": "地區年齡性別統計表-伊波拉病毒感染-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0788.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8926",
+      "name": "地區年齡性別統計表-拉薩熱-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0788b.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8927",
+      "name": "地區年齡性別統計表-馬堡病毒出血熱-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0788a.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8928",
+      "name": "地區年齡性別統計表-裂谷熱-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0663a.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8929",
+      "name": "地區年齡性別統計表-新型A型流感-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_NFluA.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_NFluA.json"
+      ]
+    },
+    {
+      "id": "8887",
+      "name": "地區年齡性別統計表-小兒麻痺症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_045.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8890",
+      "name": "地區年齡性別統計表-瘧疾-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_084.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_084.json"
+      ]
+    },
+    {
+      "id": "8892",
+      "name": "地區年齡性別統計表-急性病毒性Ａ型肝炎-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0701.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0701.json"
+      ]
+    },
+    {
+      "id": "8896",
+      "name": "地區年齡性別統計表-多重抗藥性結核病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_010m.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_010m.json"
+      ]
+    },
+    {
+      "id": "8897",
+      "name": "地區年齡性別統計表-漢生病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_030.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_030.json"
+      ]
+    },
+    {
+      "id": "8901",
+      "name": "地區年齡性別統計表-急性病毒性C型肝炎-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0705.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0705.json"
+      ]
+    },
+    {
+      "id": "8904",
+      "name": "地區年齡性別統計表-流行性腮腺炎-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_072.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_072.json"
+      ]
+    },
+    {
+      "id": "8907",
+      "name": "地區年齡性別統計表-侵襲性ｂ型嗜血桿菌感染症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_3200.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_3200.json"
+      ]
+    },
+    {
+      "id": "8910",
+      "name": "地區年齡性別統計表-新生兒破傷風-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_7713.csv",
+        "https://www.cdc.gov.tw/Uploads/a755b7df-a13c-4ee6-8d20-6ec9e514011e.json"
+      ]
+    },
+    {
+      "id": "8914",
+      "name": "地區年齡性別統計表-萊姆病-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_1048.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_1048.json"
+      ]
+    },
+    {
+      "id": "14586",
+      "name": "急診傳染病監測統計-急性腹瀉",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/RODS_AcuteDiarrhea.csv",
+        "https://od.cdc.gov.tw/eic/RODS_AcuteDiarrhea.json"
+      ]
+    },
+    {
+      "id": "14593",
+      "name": "健保門診及住院就診人次統計-類流感",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/NHI_Influenza_like_illness.csv",
+        "https://od.cdc.gov.tw/eic/NHI_Influenza_like_illness.json"
+      ]
+    },
+    {
+      "id": "26336",
+      "name": "疾病管制署公務預算書(法定預算)",
+      "format": "zip",
+      "urls": [
+        "https://od.cdc.gov.tw/as/02.疾病管制署公務預算書(法定預算)/105-法定預算.zip",
+        "https://od.cdc.gov.tw/as/02.疾病管制署公務預算書(法定預算)/106-法定預算.zip",
+        "https://od.cdc.gov.tw/as/02.疾病管制署公務預算書(法定預算)/107-法定預算.zip",
+        "https://od.cdc.gov.tw/as/02.疾病管制署公務預算書(法定預算)/108-法定預算.zip",
+        "https://od.cdc.gov.tw/as/02.疾病管制署公務預算書(法定預算)/109-法定預算.zip",
+        "https://od.cdc.gov.tw/as/02.疾病管制署公務預算書(法定預算)/110-法定預算.zip",
+        "https://od.cdc.gov.tw/as/02.疾病管制署公務預算書(法定預算)/111-法定預算.zip",
+        "https://od.cdc.gov.tw/as/02.疾病管制署公務預算書(法定預算)/112-法定預算.zip",
+        "https://od.cdc.gov.tw/as/02.疾病管制署公務預算書(法定預算)/113-法定預算.zip"
+      ]
+    },
+    {
+      "id": "26320",
+      "name": "全國BSL-2及以上等級實驗室數統計表",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/icb/bsl2up_2023s4_20240321dl.csv"
+      ]
+    },
+    {
+      "id": "26322",
+      "name": "全國保存或使用RG3病原體之實驗室數統計表及病原體清單",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/icb/rg3_2023s4_20240321dl.csv"
+      ]
+    },
+    {
+      "id": "26323",
+      "name": "全國保存或使用生物毒素之實驗室數統計及生物毒素清單",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/icb//toxin_2023s4_20240321dl.csv"
+      ]
+    },
+    {
+      "id": "94195",
+      "name": "疾病管制署傳染病問答集",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/pr/CDC_chatbox.csv"
+      ]
+    },
+    {
+      "id": "44848",
+      "name": "結核病－多重抗藥結核病個案數統計",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/chronic/MDRCaseNum.csv"
+      ]
+    },
+    {
+      "id": "44850",
+      "name": "疾病管制署公務預算季報補捐助款",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/105年度公款(補)捐助團體縣市政府及個人情形第1季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/105年度公款(補)捐助團體縣市政府及個人情形第2季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/105年度公款(補)捐助團體縣市政府及個人情形第3季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/105年度公款(補)捐助團體縣市政府及個人情形第4季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/106年度公款(補)捐助團體縣市政府及個人情形第1季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/106年度公款(補)捐助團體縣市政府及個人情形第2季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/106年度公款(補)捐助團體縣市政府及個人情形第3季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/106年度公款(補)捐助團體縣市政府及個人情形第4季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/107年度公款(補)捐助團體縣市政府及個人情形第1季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/107年度公款(補)捐助團體縣市政府及個人情形第2季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/107年度公款(補)捐助團體縣市政府及個人情形第3季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/107年度公款(補)捐助團體縣市政府及個人情形第4季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/108年度公款(補)捐助團體縣市政府及個人情形第1季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/108年度公款(補)捐助團體縣市政府及個人情形第2季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/108年度公款(補)捐助團體縣市政府及個人情形第3季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/108年度公款(補)捐助團體縣市政府及個人情形第4季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/109年度公款(補)捐助團體縣市政府及個人情形第1季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/109年度公款(補)捐助團體縣市政府及個人情形第2季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/109年度公款(補)捐助團體縣市政府及個人情形第3季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/109年度公款(補)捐助團體縣市政府及個人情形第4季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/110年度公款(補)捐助團體縣市政府及個人情形第1季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/110年度公款(補)捐助團體縣市政府及個人情形第2季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/110年度公款(補)捐助團體縣市政府及個人情形第3季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/110年度公款(補)捐助團體縣市政府及個人情形第4季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/111年度公款(補)捐助團體縣市政府及個人情形第1季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/111年度公款(補)捐助團體縣市政府及個人情形第2季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/111年度公款(補)捐助團體縣市政府及個人情形第3季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/111年度公款(補)捐助團體縣市政府及個人情形第4季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/112年度公款(補)捐助團體縣市政府及個人情形第1季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/112年度公款(補)捐助團體縣市政府及個人情形第2季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/112年度公款(補)捐助團體縣市政府及個人情形第3季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/112年度公款(補)捐助團體縣市政府及個人情形第4季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/113年度公款(補)捐助團體縣市政府及個人情形第1季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/113年度公款(補)捐助團體縣市政府及個人情形第2季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/113年度公款(補)捐助團體縣市政府及個人情形第3季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/113年度公款(補)捐助團體縣市政府及個人情形第4季資料.csv",
+        "https://od.cdc.gov.tw/as/05.疾病管制署公務預算季報補捐助款/114年度公款(補)捐助團體縣市政府及個人情形第1季資料.csv"
+      ]
+    },
+    {
+      "id": "44856",
+      "name": "結核病－新案發生率",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/chronic/tb_town_inc_rate.csv"
+      ]
+    },
+    {
+      "id": "73177",
+      "name": "登革熱近12個月每日確定病例統計 (全英文資料集)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Dengue_Daily_last12m_EN.csv",
+        "https://od.cdc.gov.tw/eic/Dengue_Daily_last12m_EN.json"
+      ]
+    },
+    {
+      "id": "43978",
+      "name": "2016-2017年腸病毒統計",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/更新-2016-2017年腸病毒.csv"
+      ]
+    },
+    {
+      "id": "43980",
+      "name": "2016年國內腸病毒EVD68統計表",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/2016年國內腸病毒EVD68統計表.csv"
+      ]
+    },
+    {
+      "id": "43982",
+      "name": "2001-2019年腸病毒分離前五大基因",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/公開資料/2001-2019年腸病毒分離前五大型別.csv"
+      ]
+    },
+    {
+      "id": "43984",
+      "name": "2016年NPEV腸病毒統計表",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/2016年NPEV腸病毒統計表.csv"
+      ]
+    },
+    {
+      "id": "45225",
+      "name": "疫苗基金預算書(預算案)",
+      "format": "zip",
+      "urls": [
+        "https://od.cdc.gov.tw/as/06.疫苗基金預算書(預算案)/105-預算案.zip",
+        "https://od.cdc.gov.tw/as/06.疫苗基金預算書(預算案)/106-預算案.zip",
+        "https://od.cdc.gov.tw/as/06.疫苗基金預算書(預算案)/107-預算案.zip",
+        "https://od.cdc.gov.tw/as/06.疫苗基金預算書(預算案)/108-預算案.zip",
+        "https://od.cdc.gov.tw/as/06.疫苗基金預算書(預算案)/109-預算案.zip",
+        "https://od.cdc.gov.tw/as/06.疫苗基金預算書(預算案)/110-預算案.zip"
+      ]
+    },
+    {
+      "id": "101740",
+      "name": "地區年齡性別統計表-李斯特菌症-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_027.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_027.json"
+      ]
+    },
+    {
+      "id": "43344",
+      "name": "結核病一線藥物依體重建議劑量表",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/erc/tbmedicaladvice.csv"
+      ]
+    },
+    {
+      "id": "43591",
+      "name": "瑞貝塔(Rapiacta)使用情形",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/emerging/110-111rapiacta.csv",
+        "https://od.cdc.gov.tw/emerging/110-111rapiacta.xlsx"
+      ]
+    },
+    {
+      "id": "43600",
+      "name": "實驗室通報臨床菌株之抗生素感受性統計資料分析",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/icb/labantibiogram.csv"
+      ]
+    },
+    {
+      "id": "43603",
+      "name": "2019-2023年各縣市各月份抗蛇毒血清購買量",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/近5年各縣市抗蛇毒血清購買量.csv"
+      ]
+    },
+    {
+      "id": "118038",
+      "name": "地區年齡性別統計表-嚴重特殊傳染性肺炎-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_19CoV.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_19CoV.json",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_19CVS.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Age_County_Gender_19CVS.json"
+      ]
+    },
+    {
+      "id": "118039",
+      "name": "地區年齡性別統計表-嚴重特殊傳染性肺炎-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_19CoV.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_19CoV.json",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_19CVS.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_19CVS.json"
+      ]
+    },
+    {
+      "id": "120309",
+      "name": "地區年齡性別統計表-嚴重特殊傳染性肺炎-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_19CoV.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_19CoV.json",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_19CVS.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_19CVS.json"
+      ]
+    },
+    {
+      "id": "120711",
+      "name": "地區年齡性別統計表-嚴重特殊傳染性肺炎-依個案研判日統計(以日為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Day_Confirmation_Age_County_Gender_19CoV.csv",
+        "https://od.cdc.gov.tw/eic/Day_Confirmation_Age_County_Gender_19CoV.json",
+        "https://od.cdc.gov.tw/eic/Day_Confirmation_Age_County_Gender_19CVS.csv",
+        "https://od.cdc.gov.tw/eic/Day_Confirmation_Age_County_Gender_19CVS.json"
+      ]
+    },
+    {
+      "id": "162066",
+      "name": "地區年齡性別統計表-M痘-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_MPXV.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_MPXV.json"
+      ]
+    },
+    {
+      "id": "160681",
+      "name": "地區年齡性別統計表-Q熱-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0830.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0830.json"
+      ]
+    },
+    {
+      "id": "160691",
+      "name": "地區年齡性別統計表-天花-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_050.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160695",
+      "name": "地區年齡性別統計表-白喉-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_032.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160696",
+      "name": "地區年齡性別統計表-伊波拉病毒感染-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0788.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160693",
+      "name": "地區年齡性別統計表-水痘併發症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_052VC.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_052VC.json"
+      ]
+    },
+    {
+      "id": "160807",
+      "name": "地區年齡性別統計表-退伍軍人病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_4828.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_4828.json"
+      ]
+    },
+    {
+      "id": "160737",
+      "name": "地區年齡性別統計表-肉毒桿菌中毒-依發病日統計(以月為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0051.csv",
+        "https://od.cdc.gov.tw/eic/Age_County_Gender_0051.json"
+      ]
+    },
+    {
+      "id": "160777",
+      "name": "地區年齡性別統計表-急性病毒性Ｂ型肝炎-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0703.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0703.json"
+      ]
+    },
+    {
+      "id": "160779",
+      "name": "地區年齡性別統計表-急性病毒性D型肝炎-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_070d.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_070d.json"
+      ]
+    },
+    {
+      "id": "160783",
+      "name": "地區年齡性別統計表-流行性斑疹傷寒-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_080.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160784",
+      "name": "地區年齡性別統計表-流行性腦脊髓膜炎-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0360.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0360.json"
+      ]
+    },
+    {
+      "id": "160785",
+      "name": "地區年齡性別統計表-流行性腮腺炎-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_072.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160786",
+      "name": "地區年齡性別統計表-炭疽病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_022.csv",
+        "https://www.cdc.gov.tw/Uploads/e8629655-5cda-4722-994d-d2ac4568a6cc.json"
+      ]
+    },
+    {
+      "id": "160787",
+      "name": "地區年齡性別統計表-庫賈氏病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0461.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0461.json"
+      ]
+    },
+    {
+      "id": "160825",
+      "name": "地區年齡性別統計表-境外移入個案之感染國別-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Imported_Cases.csv",
+        "https://od.cdc.gov.tw/eic/Imported_Cases.json"
+      ]
+    },
+    {
+      "id": "160826",
+      "name": "地區年齡性別統計表-漢他病毒出血熱-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0786.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_0786.json"
+      ]
+    },
+    {
+      "id": "160829",
+      "name": "地區年齡性別統計表-瘧疾-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_084.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_084.json"
+      ]
+    },
+    {
+      "id": "160831",
+      "name": "地區年齡性別統計表-霍亂-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_001.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_001.json"
+      ]
+    },
+    {
+      "id": "160833",
+      "name": "地區年齡性別統計表-嚴重急性呼吸道症候群-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_SARS.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_SARS.json"
+      ]
+    },
+    {
+      "id": "160834",
+      "name": "死亡病例地區年齡性別統計表-嚴重特殊傳染性肺炎-依死亡日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_3.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CoV_3.json",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_3.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19CVS_3.json"
+      ]
+    },
+    {
+      "id": "160814",
+      "name": "地區年齡性別統計表-登革熱-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_061.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_061.json"
+      ]
+    },
+    {
+      "id": "160823",
+      "name": "地區年齡性別統計表-鉤端螺旋體病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_100.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_100.json"
+      ]
+    },
+    {
+      "id": "160741",
+      "name": "地區年齡性別統計表-兔熱病-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_021.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_021.json"
+      ]
+    },
+    {
+      "id": "160744",
+      "name": "地區年齡性別統計表-阿米巴性痢疾-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_006.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_006.json"
+      ]
+    },
+    {
+      "id": "172965",
+      "name": "2017到2022年曲狀桿菌臨床菌株對應重要抗生素抗藥性監測資料",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/rdvd/2017到2022年曲狀桿菌臨床菌株對應重要抗生素抗藥性監測資料.csv"
+      ]
+    },
+    {
+      "id": "173771",
+      "name": "地區年齡性別統計表-新冠併發重症-依個案研判日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_19SC.csv",
+        "https://od.cdc.gov.tw/eic/Weekly_Confirmation_Age_County_Gender_19SC.json"
+      ]
+    },
+    {
+      "id": "173761",
+      "name": "地區年齡性別統計表-新冠併發重症-依個案研判日統計(以日為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/Day_Confirmation_Age_County_Gender_19SC.csv",
+        "https://od.cdc.gov.tw/eic/Day_Confirmation_Age_County_Gender_19SC.json"
+      ]
+    },
+    {
+      "id": "173762",
+      "name": "死亡病例地區年齡性別統計表-新冠併發重症-依發病日統計(以週為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_6.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_6.json"
+      ]
+    },
+    {
+      "id": "173766",
+      "name": "死亡病例地區年齡性別統計表-新冠併發重症-依死亡日統計(以日為單位)",
+      "format": "csv",
+      "urls": [
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_2.csv",
+        "https://od.cdc.gov.tw/eic/open_data_death_date_statistics_19SC_2.json"
+      ]
+    }
+  ]
+}

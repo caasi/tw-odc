@@ -1,0 +1,2713 @@
+{
+  "type": "dataset",
+  "provider": "財政部國庫署",
+  "slug": "nta_gov_tw_45c9ccdb",
+  "datasets": [
+    {
+      "id": "21325",
+      "name": "行政院公營事業民營化基金105年度預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9677"
+      ]
+    },
+    {
+      "id": "21328",
+      "name": "中央政府債務基金105年度預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9688"
+      ]
+    },
+    {
+      "id": "21330",
+      "name": "地方建設基金105年度預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9667"
+      ]
+    },
+    {
+      "id": "21335",
+      "name": "行政院公營事業民營化基金104年度預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9675"
+      ]
+    },
+    {
+      "id": "25027",
+      "name": "國庫經辦行家數統計表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D115F"
+      ]
+    },
+    {
+      "id": "25028",
+      "name": "捐贈國庫一覽表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D1-08F.csv"
+      ]
+    },
+    {
+      "id": "25033",
+      "name": "中央政府總預算近5年歲入院編決算數明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/4f729245736f462d85943b137baca7c0"
+      ]
+    },
+    {
+      "id": "25098",
+      "name": "已取得菸酒製造或進口業許可執照業者家數統計",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-24.csv"
+      ]
+    },
+    {
+      "id": "25073",
+      "name": "各年度國產及進口穀類釀造酒類數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-19.csv"
+      ]
+    },
+    {
+      "id": "25216",
+      "name": "私劣菸酒查緝績效考核成績",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D623"
+      ]
+    },
+    {
+      "id": "25312",
+      "name": "財政部公股事業概況",
+      "format": "csv",
+      "urls": [
+        "https://newgovshare.nta.gov.tw/tdqi/opendata/D5_09.csv"
+      ]
+    },
+    {
+      "id": "25297",
+      "name": "公債發行計畫表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-13F.csv"
+      ]
+    },
+    {
+      "id": "25299",
+      "name": "最新國債訊息資料",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-12F.csv"
+      ]
+    },
+    {
+      "id": "11556",
+      "name": "委託研究計畫-公益彩券回饋金運用與政策規劃評估研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/c4eb55ed8076448d808416e01934b355"
+      ]
+    },
+    {
+      "id": "11559",
+      "name": "中央財政與預算收支問題及改進之探討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/e12c870401ba42308405977f48c795f9"
+      ]
+    },
+    {
+      "id": "11438",
+      "name": "建立高粱酒中正己烷、乙酸乙酯及丙酮之背景值研究報告",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/74bcd378f6b146528c40062b57b2c972"
+      ]
+    },
+    {
+      "id": "11420",
+      "name": "「財政改革方案執行成效檢討及落實財政平衡之策略研擬」研究報告",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/8040904b717e4969b8ea3fd135bd0f88"
+      ]
+    },
+    {
+      "id": "11421",
+      "name": "建立長期性菸酒查緝機制之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/aa2eb1b54bad43e7966ed0a7fe1819ad"
+      ]
+    },
+    {
+      "id": "11436",
+      "name": "委託金融機構經收國稅計付手續費之可行性",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/be6080735211418c82475b3b24e210af"
+      ]
+    },
+    {
+      "id": "11491",
+      "name": "世界主要國家政府債務管理政策之研究",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D3R02"
+      ]
+    },
+    {
+      "id": "11493",
+      "name": "提升中央政府非營業特種基金資金運用效能之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/f604b51b4823409ba644d3a6cd3bd9f0"
+      ]
+    },
+    {
+      "id": "11494",
+      "name": "建制我國國產酒品之原產地、地理標示、酒齡暨年份制度之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/8b1de4eb2b2d42fa88cf313ca7e5a4cb"
+      ]
+    },
+    {
+      "id": "11497",
+      "name": "金融海嘯各國財政政策之比較研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/d447599f153143c39471b1d2ad6effeb"
+      ]
+    },
+    {
+      "id": "11538",
+      "name": "各級政府公庫解繳稅款作業程序之改進研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/c62ec2c006c84be58e8d4a4de4a673ac"
+      ]
+    },
+    {
+      "id": "8221",
+      "name": "國庫集中支付業務─國庫支票簽發及匯款作業量",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-03.csv"
+      ]
+    },
+    {
+      "id": "8177",
+      "name": "國庫署各年度獎補助費",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D71"
+      ]
+    },
+    {
+      "id": "8196",
+      "name": "各年度國產及進口水果釀造酒類數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-03.csv"
+      ]
+    },
+    {
+      "id": "12147",
+      "name": "中央統籌分配稅款撥付及墊借歸扣情形表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D407"
+      ]
+    },
+    {
+      "id": "12234",
+      "name": "各年度國產及進口鼻菸、嚼菸及其他菸品數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-07.csv"
+      ]
+    },
+    {
+      "id": "12113",
+      "name": "國庫集中支付業務─月作業量統計表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-07.csv"
+      ]
+    },
+    {
+      "id": "6038",
+      "name": "公益彩券盈餘分配及銷售量簡表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D401"
+      ]
+    },
+    {
+      "id": "6746",
+      "name": "中央普通統籌分配稅款撥付明細表(按年度)",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D403"
+      ]
+    },
+    {
+      "id": "6747",
+      "name": "公益彩券營業報告書簡表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D402"
+      ]
+    },
+    {
+      "id": "6748",
+      "name": "中央政府債務未償餘額占國內生產毛額百分比",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-02.csv"
+      ]
+    },
+    {
+      "id": "11771",
+      "name": "加強國有公用不動產之有效管理",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/29f110d7383e4beb85e24941ecfb4b6f"
+      ]
+    },
+    {
+      "id": "11791",
+      "name": "取消保留盈餘加徵百分之十營所稅及其配套措施之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/eb28593fac8e4ac28c13e773cf59d2cf"
+      ]
+    },
+    {
+      "id": "11792",
+      "name": "非營業基金之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/c0f89550e7ed46eba8554b900560142d"
+      ]
+    },
+    {
+      "id": "11793",
+      "name": "所得稅之功能檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/db141b20fb014a17ab5050621b4320e7"
+      ]
+    },
+    {
+      "id": "11795",
+      "name": "支出規模總體目標之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/b18f24f261684ee199734bfb299179c7"
+      ]
+    },
+    {
+      "id": "11796",
+      "name": "印花稅及娛樂稅之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/47af390f32034a71af50da1b64d544cb"
+      ]
+    },
+    {
+      "id": "11797",
+      "name": "各項租稅稅基侵蝕之全面檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/32c39aa928274c55b90c24a81f3cb11f"
+      ]
+    },
+    {
+      "id": "11801",
+      "name": "建構電子商務之合理課稅制度",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/7fe4aa7c364b4a70b24a783ba519df26"
+      ]
+    },
+    {
+      "id": "11802",
+      "name": "政府事務及公共事業委外機制之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/268e2fa2ce354c5f90f6e9eb45007e9f"
+      ]
+    },
+    {
+      "id": "11804",
+      "name": "租稅負擔與租稅結構之檢討與合理規劃",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/8d48a8a25dd14d269d1a355a10412168"
+      ]
+    },
+    {
+      "id": "11807",
+      "name": "貨物稅之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/eb0920b419394cdba4074e3a13801637"
+      ]
+    },
+    {
+      "id": "11784",
+      "name": "台灣地區綠稅稅制設計之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/d8835a61acc6427c8dd2123d12aba306"
+      ]
+    },
+    {
+      "id": "11789",
+      "name": "研究計畫-國外控股公司經營管理策略",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/55626506891042dd8c397b55050652fa"
+      ]
+    },
+    {
+      "id": "11835",
+      "name": "預算制度授權與彈性之檢討",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D90-R25"
+      ]
+    },
+    {
+      "id": "7383",
+      "name": "青年安心成家貸款",
+      "format": "csv",
+      "urls": [
+        "https://newgovshare.nta.gov.tw/tdqi/opendata/D5_01.csv"
+      ]
+    },
+    {
+      "id": "7384",
+      "name": "財政部直接投資事業之持股情形",
+      "format": "csv",
+      "urls": [
+        "https://newgovshare.nta.gov.tw/tdqi/opendata/D5_02.csv"
+      ]
+    },
+    {
+      "id": "7385",
+      "name": "財政部國庫券標售概況表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-01.csv"
+      ]
+    },
+    {
+      "id": "13313",
+      "name": "建立台商大陸資金匯回無障礙租稅環境之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/5db5fd26eeb5464aa56db59c794ca44e"
+      ]
+    },
+    {
+      "id": "8222",
+      "name": "國庫集中支付業務─歷年實施電子支付機關統計表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-05.csv"
+      ]
+    },
+    {
+      "id": "8223",
+      "name": "中央特別統籌分配稅款支出明細表(月份)",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D404"
+      ]
+    },
+    {
+      "id": "8228",
+      "name": "中央政府近年非營業特種基金賸餘繳庫數",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D504"
+      ]
+    },
+    {
+      "id": "8332",
+      "name": "中央統籌分配稅款實徵情形表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D406"
+      ]
+    },
+    {
+      "id": "11418",
+      "name": "各年度申請公益彩券回饋金補助計畫審核結果(財政部主辦部分)",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D411"
+      ]
+    },
+    {
+      "id": "12015",
+      "name": "財政部委託台灣大學辦理之「從獨董制度論公股管理之變革」研究計畫",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/d411b67dc6a54ebe8ef58315c30ffb59"
+      ]
+    },
+    {
+      "id": "12016",
+      "name": "公益彩券發行機構甄選作業之探討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/5b63736a4e844257931261cc6d9ee166"
+      ]
+    },
+    {
+      "id": "28245",
+      "name": "行政院公營事業民營化基金104年度決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9671"
+      ]
+    },
+    {
+      "id": "31312",
+      "name": "公益彩券回饋金執行情形(財政部)",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D414F"
+      ]
+    },
+    {
+      "id": "31324",
+      "name": "公益彩券回饋金運用計畫",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D416F"
+      ]
+    },
+    {
+      "id": "31191",
+      "name": "公股銀行辦理創業貸款餘額-按性別分",
+      "format": "csv",
+      "urls": [
+        "https://newgovshare.nta.gov.tw/tdqi/opendata/D5_14F.csv"
+      ]
+    },
+    {
+      "id": "31109",
+      "name": "地方政府歲入明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/0e178cbf1b7347d289fd53134962ef8b"
+      ]
+    },
+    {
+      "id": "30269",
+      "name": "財政部國庫署104年度單位決算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9696"
+      ]
+    },
+    {
+      "id": "41137",
+      "name": "中央政府納入集中支付之特種基金及保管款餘額",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D1-12F.csv"
+      ]
+    },
+    {
+      "id": "41139",
+      "name": "大額支出網路通報辦理情形表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D1-13F.csv"
+      ]
+    },
+    {
+      "id": "41140",
+      "name": "「日據時代株式會社台灣銀行海外分行分支機構存款及匯款處理條例」墊還款案統計表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D114F"
+      ]
+    },
+    {
+      "id": "79529",
+      "name": "地方建設基金核貸金額占總核貸金額百分比(依核貸項目)",
+      "format": "csv",
+      "urls": [
+        "https://data.cto.nta.gov.tw/files/openapi/D3-24F.csv"
+      ]
+    },
+    {
+      "id": "79531",
+      "name": "近5年中央政府1年以上債務未償餘額概況表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-27F.csv"
+      ]
+    },
+    {
+      "id": "52913",
+      "name": "地方建設基金107年度預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9663"
+      ]
+    },
+    {
+      "id": "75063",
+      "name": "地方建設基金106年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9662"
+      ]
+    },
+    {
+      "id": "30950",
+      "name": "國庫集中支付業務─支用機關額定零用金額度一覽表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-14F.csv"
+      ]
+    },
+    {
+      "id": "30955",
+      "name": "各級政府1年以上公共債務明細表(實際數)",
+      "format": "csv",
+      "urls": [
+        "https://lgd.nta.gov.tw/newlgd/opendata/D3-16F.csv"
+      ]
+    },
+    {
+      "id": "43197",
+      "name": "行政院公營事業民營化基金105年度預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9674"
+      ]
+    },
+    {
+      "id": "43212",
+      "name": "中央政府債務基金105年度預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9692"
+      ]
+    },
+    {
+      "id": "100795",
+      "name": "財政部國庫署107年單位決算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/19911"
+      ]
+    },
+    {
+      "id": "107345",
+      "name": "中央政府債務基金109年度附屬單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/21201"
+      ]
+    },
+    {
+      "id": "107585",
+      "name": "財政部國庫署109年度單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/21212"
+      ]
+    },
+    {
+      "id": "99423",
+      "name": "行政院公營事業民營化基金107年度附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/18813"
+      ]
+    },
+    {
+      "id": "105016",
+      "name": "近5年國庫電子化對帳服務申請作業統計表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-24F.csv"
+      ]
+    },
+    {
+      "id": "114015",
+      "name": "行政院公營事業民營化基金108年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/25474"
+      ]
+    },
+    {
+      "id": "149178",
+      "name": "行政院公營事業民營化基金附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/a1f4136cda9f4cc18a5c6b632d119222",
+        "https://www.nta.gov.tw/download/569b9ede856b493880a4bf0056aaa2af",
+        "https://www.nta.gov.tw/download/59f9a73958b74c878a12e431fb22dc57"
+      ]
+    },
+    {
+      "id": "147610",
+      "name": "中央政府債務基金110年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/833ae84409f14be6b7ad63b91317ae84"
+      ]
+    },
+    {
+      "id": "137926",
+      "name": "財政部國庫署109年度單位決算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/e338dc78d70e4bdc81c35085b7a0a41c"
+      ]
+    },
+    {
+      "id": "151942",
+      "name": "財政部國庫署111年度單位預算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/6c6b28da99894b3b82796cf272958db9"
+      ]
+    },
+    {
+      "id": "118272",
+      "name": "財政部國庫署108年度單位決算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/27816"
+      ]
+    },
+    {
+      "id": "118146",
+      "name": "地方建設基金108年度附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/30672"
+      ]
+    },
+    {
+      "id": "129809",
+      "name": "中央政府債務基金110年度附屬單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/fa930c0bcb9a421c9dbd9ec58f3bd546"
+      ]
+    },
+    {
+      "id": "90642",
+      "name": "地方建設基金108年度附屬單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/11255"
+      ]
+    },
+    {
+      "id": "90645",
+      "name": "行政院公營事業民營化基金108年度附屬單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/11251"
+      ]
+    },
+    {
+      "id": "160127",
+      "name": "各縣市公益彩券銷售情形",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/d2ad2a2c2a6b455a8cb36f4dc9980148"
+      ]
+    },
+    {
+      "id": "11492",
+      "name": "公益彩券盈餘運用監督機制及績效評估之檢討與改進",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/2fb4380e0bf949d9bc6b134dd30f00f0"
+      ]
+    },
+    {
+      "id": "11419",
+      "name": "財政部歷年施政計畫",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/0dfebc6f123d4828b1a75e86cb408650"
+      ]
+    },
+    {
+      "id": "11423",
+      "name": "公益彩券發行及管理制度之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/c8661086c4f54bb4b5677a1264803e22"
+      ]
+    },
+    {
+      "id": "11426",
+      "name": "中央統籌分配稅款分配制度改進之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/c4d2c197ec9d47fcb859e761359bbfc6"
+      ]
+    },
+    {
+      "id": "11516",
+      "name": "委託研究計畫-推動社會中長期資金投入公共建設之策略與具體做法",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/dabd6515a78e49f5820f58ef40fb0a55"
+      ]
+    },
+    {
+      "id": "11499",
+      "name": "公益彩券發行及管理制度變革之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/7c455384516e4512a5c7e394403db9a4"
+      ]
+    },
+    {
+      "id": "11557",
+      "name": "委託研究計畫-我國地方財政管理指標之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/5a1fbe4656be4aabbeea2a9637b180ca"
+      ]
+    },
+    {
+      "id": "11560",
+      "name": "公益彩券品牌形象及獎金課稅問題之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/0991a7668f3d481d89bcb141538d9ab2"
+      ]
+    },
+    {
+      "id": "11539",
+      "name": "我國政府債務存續年期管理機制之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/4dff979527ba487fb089b3be862f06d5"
+      ]
+    },
+    {
+      "id": "11770",
+      "name": "人身保險相關課稅問題之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/c963b9de543b43e283ccdf731ed55bde"
+      ]
+    },
+    {
+      "id": "11834",
+      "name": "歲出額度制之檢討、新興施政收支同步考量之檢討、通盤或特定目標支出刪減之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/5faac1e24434416286bde262f89c6e68"
+      ]
+    },
+    {
+      "id": "11836",
+      "name": "整合各項社會福利制度之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/83fa94365f754286a06d7d16c232d660"
+      ]
+    },
+    {
+      "id": "11837",
+      "name": "綜合所得稅改採屬人兼屬地主義之研究",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D90-R27"
+      ]
+    },
+    {
+      "id": "11839",
+      "name": "遺產與贈與稅之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/8b16edd7ada5498da4a4ff0f3c702cdb"
+      ]
+    },
+    {
+      "id": "11840",
+      "name": "營業稅之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/59a327dad5f34faeb66ed7680419bf63"
+      ]
+    },
+    {
+      "id": "11786",
+      "name": "外國營利事業在我國境內之分支機構盈餘匯回總公司課稅之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/0b450f66710a4c099d4a25ae154268eb"
+      ]
+    },
+    {
+      "id": "11787",
+      "name": "委託研究計畫-各國酒精管理制度之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/03863522073e4a469479826335ce41ef"
+      ]
+    },
+    {
+      "id": "11790",
+      "name": "地價稅與土地增值稅之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/8963066765d740ddb4239cef57351681"
+      ]
+    },
+    {
+      "id": "11794",
+      "name": "五至十年內達成財政收支平衡方案之研擬",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/22e80667b6b44d89b03b69798db19d69"
+      ]
+    },
+    {
+      "id": "11799",
+      "name": "合理規劃公債發行之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/508a2ecb150e42ecbfebcea7cda429f5"
+      ]
+    },
+    {
+      "id": "11805",
+      "name": "健全社會保險財務之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/5d6ba0bc4948436facd9c532b70350ca"
+      ]
+    },
+    {
+      "id": "12111",
+      "name": "國庫集中支付業務─支用機關概況表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-06.csv"
+      ]
+    },
+    {
+      "id": "12146",
+      "name": "中央政府近期公共債務概況表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-07.csv"
+      ]
+    },
+    {
+      "id": "12150",
+      "name": "中央普通統籌分配稅款撥付明細表(按月份)",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D408"
+      ]
+    },
+    {
+      "id": "12229",
+      "name": "行政院公營事業民營化基金支付移轉民營經費概況表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D508"
+      ]
+    },
+    {
+      "id": "12235",
+      "name": "各年度國產及進口其他釀造酒類數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-08.csv"
+      ]
+    },
+    {
+      "id": "12236",
+      "name": "各年度國產及進口酒精類數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-09.csv"
+      ]
+    },
+    {
+      "id": "12237",
+      "name": "各年度國產及進口威士忌數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-10.csv"
+      ]
+    },
+    {
+      "id": "12190",
+      "name": "公益彩券盈餘分配辦理社會福利事業情形彙總表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D410F"
+      ]
+    },
+    {
+      "id": "6745",
+      "name": "中央政府近3年度總預算財政收支結構分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/3f9ce335dfb34309b47f5c193be4a55c"
+      ]
+    },
+    {
+      "id": "6941",
+      "name": "中央政府近5年庫款領取方式統計表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-01.csv"
+      ]
+    },
+    {
+      "id": "6942",
+      "name": "各年度進口菸酒生產國家別數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-02.csv"
+      ]
+    },
+    {
+      "id": "8197",
+      "name": "各年度國產及進口白蘭地數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-04.csv"
+      ]
+    },
+    {
+      "id": "8199",
+      "name": "各年度國產及進口其他酒類數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-06.csv"
+      ]
+    },
+    {
+      "id": "8200",
+      "name": "辦理政策宣導相關明細",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D101"
+      ]
+    },
+    {
+      "id": "8224",
+      "name": "中央政府建設公債標售概況表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-03.csv"
+      ]
+    },
+    {
+      "id": "8226",
+      "name": "國庫集中支付業務─庫款支付金額分析及統計",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-02.csv"
+      ]
+    },
+    {
+      "id": "30939",
+      "name": "庫款領取方式統計表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-10.csv"
+      ]
+    },
+    {
+      "id": "30940",
+      "name": "國庫集中支付業務─代繳中央政府各機關各項稅費之作業成效",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-11.csv"
+      ]
+    },
+    {
+      "id": "30953",
+      "name": "中央政府特別預算庫款支付表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-15F.csv"
+      ]
+    },
+    {
+      "id": "30954",
+      "name": "各級政府舉債額度及債務未償餘額情形表",
+      "format": "csv",
+      "urls": [
+        "https://lgd.nta.gov.tw/newlgd/opendata/D3-15F.csv"
+      ]
+    },
+    {
+      "id": "30956",
+      "name": "各級政府1年以上公共債務明細表(預算數)",
+      "format": "csv",
+      "urls": [
+        "https://lgd.nta.gov.tw/newlgd/opendata/D3-17F.csv"
+      ]
+    },
+    {
+      "id": "31110",
+      "name": "中央特別統籌分配稅款撥付明細表(按年度別)",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D419f"
+      ]
+    },
+    {
+      "id": "31113",
+      "name": "中央特別統籌分配稅款支應地方政府招商獎勵金經費明細表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D422f"
+      ]
+    },
+    {
+      "id": "31115",
+      "name": "財政部主管國營事業董事及監事性別統計",
+      "format": "csv",
+      "urls": [
+        "https://newgovshare.nta.gov.tw/tdqi/opendata/D5_11.csv"
+      ]
+    },
+    {
+      "id": "31190",
+      "name": "公股銀行承作放款業務及逾期情形-按性別分",
+      "format": "csv",
+      "urls": [
+        "https://newgovshare.nta.gov.tw/tdqi/opendata/D5_13F.csv"
+      ]
+    },
+    {
+      "id": "52912",
+      "name": "行政院公營事業民營化基金107年度預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9676"
+      ]
+    },
+    {
+      "id": "53003",
+      "name": "中央政府債務基金107年度附屬單位預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9693"
+      ]
+    },
+    {
+      "id": "53149",
+      "name": "財政部國庫署107年度單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/8980"
+      ]
+    },
+    {
+      "id": "35326",
+      "name": "地方建設基金106年度附屬單位預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9664"
+      ]
+    },
+    {
+      "id": "35327",
+      "name": "行政院公營事業民營化基金106年度附屬單位預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9678"
+      ]
+    },
+    {
+      "id": "35328",
+      "name": "財政部國庫署106年度單位預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/7749"
+      ]
+    },
+    {
+      "id": "41138",
+      "name": "財政部核編匯款繳庫帳號數統計表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D1-11F.csv"
+      ]
+    },
+    {
+      "id": "41141",
+      "name": "非稅課收入採匯款繳庫資料統計",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D1-10F.csv"
+      ]
+    },
+    {
+      "id": "41148",
+      "name": "國庫券發行明細表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-20F.csv"
+      ]
+    },
+    {
+      "id": "41149",
+      "name": "財政部所屬國營事業被占用或閒置土地、建物面積表",
+      "format": "csv",
+      "urls": [
+        "https://newgovshare.nta.gov.tw/tdqi/opendata/D5_15F.csv"
+      ]
+    },
+    {
+      "id": "43331",
+      "name": "地方建設基金105年度決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9657"
+      ]
+    },
+    {
+      "id": "43332",
+      "name": "行政院公營事業民營化基金105年度決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9670"
+      ]
+    },
+    {
+      "id": "44060",
+      "name": "財政部國庫署106年度單位預算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/8452"
+      ]
+    },
+    {
+      "id": "44632",
+      "name": "財政部國庫署105年度單位決算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9697"
+      ]
+    },
+    {
+      "id": "72921",
+      "name": "公益彩券開獎號碼及各獎項彩金相關資料",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D423F"
+      ]
+    },
+    {
+      "id": "75067",
+      "name": "行政院公營事業民營化基金106年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9673"
+      ]
+    },
+    {
+      "id": "79528",
+      "name": "地方建設基金核貸金額占核貸總額百分比(依核貸項目)",
+      "format": "csv",
+      "urls": [
+        "https://data.cto.nta.gov.tw/files/openapi/D3-23F.csv"
+      ]
+    },
+    {
+      "id": "79530",
+      "name": "地方建設基金核貸件數占總核貸件數百分比(依申貸機關、學校)",
+      "format": "csv",
+      "urls": [
+        "https://data.cto.nta.gov.tw/files/openapi/D3-25F.csv"
+      ]
+    },
+    {
+      "id": "28247",
+      "name": "中央政府債務基金104年度決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9682"
+      ]
+    },
+    {
+      "id": "21322",
+      "name": "財政部國庫署105年度單位預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/6206"
+      ]
+    },
+    {
+      "id": "21333",
+      "name": "中央政府債務基金104年度預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9689"
+      ]
+    },
+    {
+      "id": "19959",
+      "name": "地方建設基金會計報表",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/5e71cfa415964b17bb3c34115590e3c6",
+        "https://www.nta.gov.tw/download/4dbbfe52b9a5488eae041aad65efe61b",
+        "https://www.nta.gov.tw/download/1753e9122e334ef2a06273464be30196",
+        "https://www.nta.gov.tw/download/26f54d873e7b4603bfacc1b3e234d882",
+        "https://www.nta.gov.tw/download/6eccb06f261f4ce8be5bb1cd1e3d4f90",
+        "https://www.nta.gov.tw/download/faf146e3f7ad46949ef6b4c36994900f",
+        "https://www.nta.gov.tw/download/10177",
+        "https://www.nta.gov.tw/download/11275",
+        "https://www.nta.gov.tw/download/13399",
+        "https://www.nta.gov.tw/download/15446",
+        "https://www.nta.gov.tw/download/16516",
+        "https://www.nta.gov.tw/download/17705",
+        "https://www.nta.gov.tw/download/18784",
+        "https://www.nta.gov.tw/download/19855",
+        "https://www.nta.gov.tw/download/19932",
+        "https://www.nta.gov.tw/download/20021",
+        "https://www.nta.gov.tw/download/20059",
+        "https://www.nta.gov.tw/download/20106",
+        "https://www.nta.gov.tw/download/21156",
+        "https://www.nta.gov.tw/download/21225",
+        "https://www.nta.gov.tw/download/22256",
+        "https://www.nta.gov.tw/download/23297",
+        "https://www.nta.gov.tw/download/25365",
+        "https://www.nta.gov.tw/download/26620"
+      ]
+    },
+    {
+      "id": "25308",
+      "name": "財政部所屬事業移轉民營評價委員會評價委員名單",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D510"
+      ]
+    },
+    {
+      "id": "25298",
+      "name": "國庫券發行計畫表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-14F.csv"
+      ]
+    },
+    {
+      "id": "25300",
+      "name": "各級政府公共債務統計表",
+      "format": "csv",
+      "urls": [
+        "https://lgd.nta.gov.tw/newlgd/opendata/D3-10.csv"
+      ]
+    },
+    {
+      "id": "26940",
+      "name": "財政部國庫署105年度單位預算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/6716"
+      ]
+    },
+    {
+      "id": "25029",
+      "name": "中央政府總預算近5年歲入審決數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/18028d59e53f400b8380cf3151306e1a"
+      ]
+    },
+    {
+      "id": "25030",
+      "name": "中央政府總預算近5年預決算數比較分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/ed829ee83e0a4f39bb96b6d6e2fcf27f"
+      ]
+    },
+    {
+      "id": "25031",
+      "name": "中央政府總預算案近5年歲入明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/f4d0e853c33b468fae7e21549a847c1f"
+      ]
+    },
+    {
+      "id": "25032",
+      "name": "中央政府總預算近5年歲入預算數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/d0072c54d5274b38bfcaf7cc851fb52a"
+      ]
+    },
+    {
+      "id": "25103",
+      "name": "各年度國產及進口料理酒類數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-25.csv"
+      ]
+    },
+    {
+      "id": "25077",
+      "name": "菸酒生產國家別數量表(依菸酒細類區分)",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-21.csv"
+      ]
+    },
+    {
+      "id": "25079",
+      "name": "各年度國產及進口一般料理酒數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-22.csv"
+      ]
+    },
+    {
+      "id": "25067",
+      "name": "各年度國產及進口雪茄數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-14.csv"
+      ]
+    },
+    {
+      "id": "25069",
+      "name": "各年度國產及進口葡萄酒數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-16.csv"
+      ]
+    },
+    {
+      "id": "25071",
+      "name": "各年度國產及進口蒸餾酒類數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-17.csv"
+      ]
+    },
+    {
+      "id": "25072",
+      "name": "各年度國產及進口鼻菸數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-18.csv"
+      ]
+    },
+    {
+      "id": "20419",
+      "name": "行政院公營事業民營化基金103年度決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9672"
+      ]
+    },
+    {
+      "id": "20420",
+      "name": "中央政府債務基金103年度決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9681"
+      ]
+    },
+    {
+      "id": "43199",
+      "name": "地方建設基金105年度預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9661"
+      ]
+    },
+    {
+      "id": "77336",
+      "name": "地方建設基金106年度附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9658"
+      ]
+    },
+    {
+      "id": "90641",
+      "name": "中央政府債務基金108年度附屬單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/11249"
+      ]
+    },
+    {
+      "id": "90921",
+      "name": "財政部國庫署108年度單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/11267"
+      ]
+    },
+    {
+      "id": "128330",
+      "name": "中央政府債務基金109年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/30396"
+      ]
+    },
+    {
+      "id": "118152",
+      "name": "行政院公營事業民營化基金108年度附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/613ecc4b6eda4f8f9073d81c09f8e64d"
+      ]
+    },
+    {
+      "id": "119189",
+      "name": "財政部國庫署109年度單位預算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/28882"
+      ]
+    },
+    {
+      "id": "98241",
+      "name": "行政院公營事業民營化基金107年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/17696"
+      ]
+    },
+    {
+      "id": "129979",
+      "name": "財政部國庫署110年度單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/b6f9874c525c460e8049112acf0e1dd7"
+      ]
+    },
+    {
+      "id": "99880",
+      "name": "地方建設基金107年度附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/19839"
+      ]
+    },
+    {
+      "id": "147632",
+      "name": "行政院公營事業民營化基金110年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/56c3657b6a6b464bbfeb38826e85f9b4"
+      ]
+    },
+    {
+      "id": "149131",
+      "name": "中央政府債務基金附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/3245ce0d3e3d4754a67ef896f2bb10db",
+        "https://www.nta.gov.tw/download/58953f97ba884e6fb798a2deabb41edf",
+        "https://www.nta.gov.tw/download/e5b750321c304d28a56d2194f52c8dc6",
+        "https://www.nta.gov.tw/download/236e0e7a016041179489f409b8bad4d9",
+        "https://www.nta.gov.tw/download/226a9d98f1a647048ce6bb8a253b0e63"
+      ]
+    },
+    {
+      "id": "150634",
+      "name": "財政部國庫署單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/1b72ed3519a0486e976d12dfaecb354b",
+        "https://www.nta.gov.tw/download/98b09c9c95224282ac4e63d698ecf6e3",
+        "https://www.nta.gov.tw/download/4118762661e343889577687de472778b",
+        "https://www.nta.gov.tw/download/c6dd2e12e8ab450fba5284b562196365"
+      ]
+    },
+    {
+      "id": "144592",
+      "name": "財政部國庫署單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/6c6b28da99894b3b82796cf272958db9",
+        "https://www.nta.gov.tw/download/fee521b762374d7888a97d4168feaaad",
+        "https://www.nta.gov.tw/download/2dc98319c325426d84fe02e69078a38f",
+        "https://www.nta.gov.tw/download/13cca2475921482db714debe420212cd",
+        "https://www.nta.gov.tw/download/505b1014c08443778072f5c0eed3d6ea",
+        "https://www.nta.gov.tw/download/cea601c3a2a448caa6daa7e7fff6721b",
+        "https://www.nta.gov.tw/download/a847de2042de42a9a699c77a952ed5f6",
+        "https://www.nta.gov.tw/download/0f0b7dc7e3254d01893699192b7aa330"
+      ]
+    },
+    {
+      "id": "144580",
+      "name": "中央政府債務基金附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/b9863d8b66bf4716ac49a3cb3a43a6ed",
+        "https://www.nta.gov.tw/download/ccfb2cf8abdd4206bfdc32612bd6d7c3",
+        "https://www.nta.gov.tw/download/bdb55f69168e48e680aa27671975efd5",
+        "https://www.nta.gov.tw/download/c678e98ff0254aedadf33886c000ffcc",
+        "https://www.nta.gov.tw/download/f761a41d6c7d4a11b42f06b434756c1d",
+        "https://www.nta.gov.tw/download/139bbbc4304b40649ae0522c10a7c46a",
+        "https://www.nta.gov.tw/download/ec3677626b994c678f28c34aa675285a",
+        "https://www.nta.gov.tw/download/e82bcb7642ee43a791a5691cf09dfe03",
+        "https://www.nta.gov.tw/download/2ec6776f23c145c495a377bedde1b1c1"
+      ]
+    },
+    {
+      "id": "168055",
+      "name": "全民共享普發現金獎補助費執行情形",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/51fdb6c76c4e4ffaa84c4d8163893f37"
+      ]
+    },
+    {
+      "id": "6940",
+      "name": "中央政府總預算歲入歲出及餘絀分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/71043b99a5264f51ac2d4db462c2e0db"
+      ]
+    },
+    {
+      "id": "7386",
+      "name": "菸酒市場佔有率分析表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-01.csv"
+      ]
+    },
+    {
+      "id": "8198",
+      "name": "各年度國產及進口再製酒類數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-05.csv"
+      ]
+    },
+    {
+      "id": "12560",
+      "name": "國庫經辦行通訊錄一覽表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D116F"
+      ]
+    },
+    {
+      "id": "12620",
+      "name": "行政院公營事業民營化基金104年度預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/5161"
+      ]
+    },
+    {
+      "id": "12621",
+      "name": "中央政府債務基金104年度附屬單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9690"
+      ]
+    },
+    {
+      "id": "12622",
+      "name": "地方建設基金104年度附屬單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9665"
+      ]
+    },
+    {
+      "id": "20193",
+      "name": "財政部國庫署單位會計報表",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/910ffbd8cf814563b026f6197db7d7fe",
+        "https://www.nta.gov.tw/download/94838434aca441e7a157ef1ccf14b50e",
+        "https://www.nta.gov.tw/download/c3fe652ead1041029a5a663d5e6c008e",
+        "https://www.nta.gov.tw/download/340450e0eddc470287351911b8422285",
+        "https://www.nta.gov.tw/download/5bed240c35224708b030f6ecafb6f42c",
+        "https://www.nta.gov.tw/download/383ec93d78184798b58deb59bce589cb",
+        "https://www.nta.gov.tw/download/bfb823c2037f4fb695ea55b41857d3be",
+        "https://www.nta.gov.tw/download/9d0eacfbdac54bfd96a0501e733b320c",
+        "https://www.nta.gov.tw/download/d12b3f240e2e49149d5d32f4a89561c2",
+        "https://www.nta.gov.tw/download/5acd705b8ede4f318176132f71d863aa",
+        "https://www.nta.gov.tw/download/3d9bdbf9f31d499899a200f77b8769da",
+        "https://www.nta.gov.tw/download/a2c4421cfe2e4d99ad50cb42a9c702cd",
+        "https://www.nta.gov.tw/download/a87ea4aa6673405b8f3e3caae51d92dc",
+        "https://www.nta.gov.tw/download/058095aa20a3488e9858d07bd4b000d4",
+        "https://www.nta.gov.tw/download/e066d38ec84648eda2ef440aed70c7d6",
+        "https://www.nta.gov.tw/download/075938b9508740de87825948ecffcfab",
+        "https://www.nta.gov.tw/download/20b0222909a04e7699c8718b1230f3c0",
+        "https://www.nta.gov.tw/download/655ba83fa718412b974f78f06541a3f6",
+        "https://www.nta.gov.tw/download/d5251cf39dc54a9d82dfc0ab266612af",
+        "https://www.nta.gov.tw/download/0a10fb8a8adc4b42af968a84ff0ae885",
+        "https://www.nta.gov.tw/download/78d730d301bf4bcf91b87e10810b3cd7",
+        "https://www.nta.gov.tw/download/5705dc08f05841ca98aff52cc1677325",
+        "https://www.nta.gov.tw/download/1bd733ef4743447097f2f6a1e43269a8",
+        "https://www.nta.gov.tw/download/b8585050fae84787bf5a3925e72498ee",
+        "https://www.nta.gov.tw/download/8190ce48ace143429dd25bea80cad259",
+        "https://www.nta.gov.tw/download/6d289a95bf8c45b480149b67f930d9f8",
+        "https://www.nta.gov.tw/download/50618a866ee948228261ba9f465faa8c",
+        "https://www.nta.gov.tw/download/9699",
+        "https://www.nta.gov.tw/download/10043",
+        "https://www.nta.gov.tw/download/10143",
+        "https://www.nta.gov.tw/download/10204",
+        "https://www.nta.gov.tw/download/11302",
+        "https://www.nta.gov.tw/download/13405",
+        "https://www.nta.gov.tw/download/15462",
+        "https://www.nta.gov.tw/download/16551",
+        "https://www.nta.gov.tw/download/17759",
+        "https://www.nta.gov.tw/download/18788",
+        "https://www.nta.gov.tw/download/19868",
+        "https://www.nta.gov.tw/download/19937",
+        "https://www.nta.gov.tw/download/20025",
+        "https://www.nta.gov.tw/download/20065",
+        "https://www.nta.gov.tw/download/20115",
+        "https://www.nta.gov.tw/download/21182",
+        "https://www.nta.gov.tw/download/21240",
+        "https://www.nta.gov.tw/download/23281",
+        "https://www.nta.gov.tw/download/23315",
+        "https://www.nta.gov.tw/download/25421",
+        "https://www.nta.gov.tw/download/26720",
+        "https://www.nta.gov.tw/download/29942",
+        "https://www.nta.gov.tw/download/29946",
+        "https://www.nta.gov.tw/download/30078",
+        "https://www.nta.gov.tw/download/30219",
+        "https://www.nta.gov.tw/download/30305",
+        "https://www.nta.gov.tw/download/30535",
+        "https://www.nta.gov.tw/download/32fec8bc77f14b8c8dfc60889981706c",
+        "https://www.nta.gov.tw/download/f0b7a23ba1c24b01881e0fe4f7723981",
+        "https://www.nta.gov.tw/download/47de5b7de4274e289ab4e7c75d515066",
+        "https://www.nta.gov.tw/download/9b518536940f44c291b12351a0757b2b",
+        "https://www.nta.gov.tw/download/e110e513cd8d4fb19379bab71fcefcbc",
+        "https://www.nta.gov.tw/download/c51575e8629747a091bdffc360dbd414",
+        "https://www.nta.gov.tw/download/eebe3023c81846eca8a8b0cc61765f7c",
+        "https://www.nta.gov.tw/download/0fa68a4d9b544477940ba89ca9fac02d",
+        "https://www.nta.gov.tw/download/5dfb4e1130a44cd89e8248f8dacb7417",
+        "https://www.nta.gov.tw/download/a5f0912b4b3b419db6ea31e2b5e1c2c6",
+        "https://www.nta.gov.tw/download/2d929b4a4c3a4fdc970a7ee14c5b758e",
+        "https://www.nta.gov.tw/download/734f68f8eabe4497800d704c2c99d55a",
+        "https://www.nta.gov.tw/download/f34a163c1e854bff8482dcef91111dd5",
+        "https://www.nta.gov.tw/download/cb27f821a1124c86b58c2f6777bf13c2",
+        "https://www.nta.gov.tw/download/cd107ff0fdef486f929e79189e28ab0a",
+        "https://www.nta.gov.tw/download/48e5efcbed9a4dd28512df404e257b3f",
+        "https://www.nta.gov.tw/download/966a6f6518784413918c0526fc190b04",
+        "https://www.nta.gov.tw/download/0a29fe1d06ad46a6b7cd18f6193b9f62",
+        "https://www.nta.gov.tw/download/fefbd2498b30418e8b21d2df775c8527",
+        "https://www.nta.gov.tw/download/f5d2bc7f3d4244c280300fce77944df6",
+        "https://www.nta.gov.tw/download/e400b3027bb1454d96b14b8d5def326d",
+        "https://www.nta.gov.tw/download/6bd03960468643f4a39e60b6d0df0467",
+        "https://www.nta.gov.tw/download/b08d0d0d1415485b9331e844bdbbb47e",
+        "https://www.nta.gov.tw/download/ff814a4beb7348b79316f04c855d4dc1",
+        "https://www.nta.gov.tw/download/23cf7a7322a14b398b741fb620b0bc65",
+        "https://www.nta.gov.tw/download/d1d1f9f550b14b31bbdb94dc325daf9c",
+        "https://www.nta.gov.tw/download/a7099f8e772344ad80e318dcdc6e3983",
+        "https://www.nta.gov.tw/download/e52578be5c1e482baf67d895bc792700",
+        "https://www.nta.gov.tw/download/d139d0fa53384144ad7e9a7c64c7b087",
+        "https://www.nta.gov.tw/download/ebe3ca9ea72b4acc922506a520cb9033",
+        "https://www.nta.gov.tw/download/2669248fe4ae4e40afcb5f6863654b72",
+        "https://www.nta.gov.tw/download/0d2afaf71247465f9352392a68fdd1be",
+        "https://www.nta.gov.tw/download/0935217f67e743b687b760f877489d87",
+        "https://www.nta.gov.tw/download/b089e1218cbc4323afc3f4d277b05180",
+        "https://www.nta.gov.tw/download/5df4263a587748518db26f8f2eb241a2",
+        "https://www.nta.gov.tw/download/510b82a82103402198bfe3bd84e0d202",
+        "https://www.nta.gov.tw/download/0b043fef574040a496be7408f00ef3ea",
+        "https://www.nta.gov.tw/download/51d94797015945fa86673e12cf0f0e3f",
+        "https://www.nta.gov.tw/download/9daf45717657420db3545a94a7780f4e",
+        "https://www.nta.gov.tw/download/71170c1e6ef046e29a7b5e2fb5e82f2a",
+        "https://www.nta.gov.tw/download/4fb2ac11cbd4485d96251b14ac484a66",
+        "https://www.nta.gov.tw/download/1c66b2e4920a465da1e45dc2a2a9ccfc",
+        "https://www.nta.gov.tw/download/9aa9fb3a899f418e8fe4e4ccb191b973",
+        "https://www.nta.gov.tw/download/eca04419b24a468a994634ba7002fdd2",
+        "https://www.nta.gov.tw/download/175a8d69f7d3469c9329787ce857e21a",
+        "https://www.nta.gov.tw/download/ef57ee2d44fc497a8e57829c84a8a226",
+        "https://www.nta.gov.tw/download/270abced4f6741bcaf49c3251b606900",
+        "https://www.nta.gov.tw/download/db7dbe69d3ce4922805dce038be18b4a",
+        "https://www.nta.gov.tw/download/a6ea82f3841f45fcb6c59a6727da99df",
+        "https://www.nta.gov.tw/download/382ebd332b5749969c3bc1b88e15c798",
+        "https://www.nta.gov.tw/download/22fa7024a8bb4b1ab9cca8c0d4d41f5a",
+        "https://www.nta.gov.tw/download/6c3ecb80420d45ec93db27d3191f2c41",
+        "https://www.nta.gov.tw/download/cf6c9edc85a14fefb34820ca17e93a99",
+        "https://www.nta.gov.tw/download/41c030b6f2894307b1daed9506286827",
+        "https://www.nta.gov.tw/download/a6972d6374d643949525f1907c147771",
+        "https://www.nta.gov.tw/download/46ebca10734a4c3c88c3bd6863628b29",
+        "https://www.nta.gov.tw/download/d189df8eb15047068634917b1ff2849d",
+        "https://www.nta.gov.tw/download/0d133dfdac054635b186cdd8a57a9618",
+        "https://www.nta.gov.tw/download/801de82acb584116a4589d8878030512",
+        "https://www.nta.gov.tw/download/f465f07aa0794b088ffe51a4a06d0082",
+        "https://www.nta.gov.tw/download/f121e50859e344ffadb6d02552e7050a",
+        "https://www.nta.gov.tw/download/1aa5491560754d488216432c0ee54ea6",
+        "https://www.nta.gov.tw/download/03ac38d26f644d548dcda33684b68c6a",
+        "https://www.nta.gov.tw/download/c87fd95c395249ffa06ef36e990a85f8",
+        "https://www.nta.gov.tw/download/59d213b09eee4800b8f0c2a9f2170639",
+        "https://www.nta.gov.tw/download/a662f55ed766406fa5166f499b166527",
+        "https://www.nta.gov.tw/download/c429366dc5794b89a6c37698d09df2a4"
+      ]
+    },
+    {
+      "id": "20194",
+      "name": "行政院公營事業民營化基金會計報表",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/ab5c514288ff43dfab9d3c7f687e193e",
+        "https://www.nta.gov.tw/download/e1103b080be24ac9bb27c694c4a1c224",
+        "https://www.nta.gov.tw/download/be01076c5898439ba3c3fda702e5ae96",
+        "https://www.nta.gov.tw/download/6254de9ac3e24a198e661bfd9ada064e",
+        "https://www.nta.gov.tw/download/7a29bb3b6065482183a3a763d53af286",
+        "https://www.nta.gov.tw/download/f3b5945069cc49bda6908b98d000cd63",
+        "https://www.nta.gov.tw/download/10176",
+        "https://www.nta.gov.tw/download/11272",
+        "https://www.nta.gov.tw/download/13396",
+        "https://www.nta.gov.tw/download/15449",
+        "https://www.nta.gov.tw/download/16513",
+        "https://www.nta.gov.tw/download/17708",
+        "https://www.nta.gov.tw/download/18795",
+        "https://www.nta.gov.tw/download/19857",
+        "https://www.nta.gov.tw/download/19929",
+        "https://www.nta.gov.tw/download/dd962694773648898a0da85467806778",
+        "https://www.nta.gov.tw/download/20056",
+        "https://www.nta.gov.tw/download/20103",
+        "https://www.nta.gov.tw/download/21153",
+        "https://www.nta.gov.tw/download/21228",
+        "https://www.nta.gov.tw/download/22262",
+        "https://www.nta.gov.tw/download/23304",
+        "https://www.nta.gov.tw/download/25362",
+        "https://www.nta.gov.tw/download/26623",
+        "https://www.nta.gov.tw/download/26690",
+        "https://www.nta.gov.tw/download/28857",
+        "https://www.nta.gov.tw/download/29981",
+        "https://www.nta.gov.tw/download/30106",
+        "https://www.nta.gov.tw/download/30243",
+        "https://www.nta.gov.tw/download/30378",
+        "https://www.nta.gov.tw/download/30593",
+        "https://www.nta.gov.tw/download/67a4c192645444488a0e018e8c690cbe",
+        "https://www.nta.gov.tw/download/972b8c7c03c2429ca00cd0c7addb4a84",
+        "https://www.nta.gov.tw/download/4165e03731da4fe5b4585523a86f64ac",
+        "https://www.nta.gov.tw/download/a78b19a0a6fd4ce0ad97047f2cee23e9",
+        "https://www.nta.gov.tw/download/2f0f9a503aef4948b95159ad9ee58fd6",
+        "https://www.nta.gov.tw/download/0f9a1e83456d4985b4cd1ebcf8b0991b",
+        "https://www.nta.gov.tw/download/e71a88f2145345bab83b0a9f0557d49a",
+        "https://www.nta.gov.tw/download/9702fee92d3a4dc7acb9f6f326672b72",
+        "https://www.nta.gov.tw/download/f1186417ecc248c19c19b24a3e2320c2",
+        "https://www.nta.gov.tw/download/8ea7f60061974ec4a5afbcb9ab438dde",
+        "https://www.nta.gov.tw/download/2c63f85b4e7242b3a0ff42c6f0962c96",
+        "https://www.nta.gov.tw/download/62c1ce21f6d84ed7b424b1d5402b1908",
+        "https://www.nta.gov.tw/download/e353a54ca6fb4e86aa9e27abcdda343c",
+        "https://www.nta.gov.tw/download/d6ccf8b5bab44120b4bebaea738989d5",
+        "https://www.nta.gov.tw/download/f0581b2e32594b14b79d878a14a04126",
+        "https://www.nta.gov.tw/download/5019db8ad14f4821bea4984735d32926",
+        "https://www.nta.gov.tw/download/47c82de0ffde479d8981098d202cdeae",
+        "https://www.nta.gov.tw/download/e82072aaba934390903ead92d5e85e28",
+        "https://www.nta.gov.tw/download/1a29ce4d16cb4af6bf809169e201c3d7",
+        "https://www.nta.gov.tw/download/3292fca6cda949e1be89dc38a59878c4",
+        "https://www.nta.gov.tw/download/4e8ed1eef0dd4bde8d53da5d53809f43",
+        "https://www.nta.gov.tw/download/2884a10b6a49408bb1ff1b3f84d93eb5",
+        "https://www.nta.gov.tw/download/b977b312e34e422aa1f594bc6e9863fe",
+        "https://www.nta.gov.tw/download/cc84a4873e4c48118e03e3ca8892a76f",
+        "https://www.nta.gov.tw/download/f8b583c1d4b94e3f87d594b1021a5b82",
+        "https://www.nta.gov.tw/download/8a595b271d374bd3a3611268d9b032c2",
+        "https://www.nta.gov.tw/download/5af01dfd47474d3b9e1188a8a2c488a1",
+        "https://www.nta.gov.tw/download/f1735b45c1ea4a858cb5424466173274",
+        "https://www.nta.gov.tw/download/528f21016adf4ec1a15e7b40cb55b152",
+        "https://www.nta.gov.tw/download/6e581b1aadf041228a0228df5bf27f26",
+        "https://www.nta.gov.tw/download/02bdd93ed7374e8091c9b7b3f1c50b38",
+        "https://www.nta.gov.tw/download/32587c94954a409f8d3fb5cb8d08c9ab",
+        "https://www.nta.gov.tw/download/8e82d6960f2944b198ae9a5325235083",
+        "https://www.nta.gov.tw/download/cba07380876a40b1976578fac98ea984",
+        "https://www.nta.gov.tw/download/14a572bfcec740728f75c6055df66215",
+        "https://www.nta.gov.tw/download/8c1a04cc66fc4b81a710ff794481161b",
+        "https://www.nta.gov.tw/download/926554d3469145c39938bc86393cb1b5",
+        "https://www.nta.gov.tw/download/550240b8aea04145a0a2118674efec7b",
+        "https://www.nta.gov.tw/download/eebccdc2eac44a619d4e7e1bb26acccb",
+        "https://www.nta.gov.tw/download/33a1723c94cd40f9b44a7d33cff408bc",
+        "https://www.nta.gov.tw/download/d538628e9e8e42c893b655c72f812c29"
+      ]
+    },
+    {
+      "id": "20197",
+      "name": "中央政府債務基金會計報表",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/0ce9985fa57c4883852629b2a2dbb417",
+        "https://www.nta.gov.tw/download/95781ea787944bfeb0a39695c66badb7",
+        "https://www.nta.gov.tw/download/b933d482940a4d99848344154d7da945",
+        "https://www.nta.gov.tw/download/806eafbb0312497e81e360fbaed2cd69",
+        "https://www.nta.gov.tw/download/d0753a8c99e04badb7f2edd3ff3e558b",
+        "https://www.nta.gov.tw/download/7529d97beb134b1bbbf1a3cadc8174e8",
+        "https://www.nta.gov.tw/download/10175",
+        "https://www.nta.gov.tw/download/11280",
+        "https://www.nta.gov.tw/download/13393",
+        "https://www.nta.gov.tw/download/15441",
+        "https://www.nta.gov.tw/download/16510",
+        "https://www.nta.gov.tw/download/17702",
+        "https://www.nta.gov.tw/download/18781",
+        "https://www.nta.gov.tw/download/19849",
+        "https://www.nta.gov.tw/download/19928",
+        "https://www.nta.gov.tw/download/20013",
+        "https://www.nta.gov.tw/download/20053",
+        "https://www.nta.gov.tw/download/20100",
+        "https://www.nta.gov.tw/download/21150",
+        "https://www.nta.gov.tw/download/21235",
+        "https://www.nta.gov.tw/download/23275",
+        "https://www.nta.gov.tw/download/23307",
+        "https://www.nta.gov.tw/download/25359",
+        "https://www.nta.gov.tw/download/26615",
+        "https://www.nta.gov.tw/download/26728",
+        "https://www.nta.gov.tw/download/28865",
+        "https://www.nta.gov.tw/download/29976",
+        "https://www.nta.gov.tw/download/30109",
+        "https://www.nta.gov.tw/download/30301",
+        "https://www.nta.gov.tw/download/30393",
+        "https://www.nta.gov.tw/download/30599",
+        "https://www.nta.gov.tw/download/9ce805face8044079bdc811932fc3b61",
+        "https://www.nta.gov.tw/download/602fdfe3538f42dda0d90063f8b82061",
+        "https://www.nta.gov.tw/download/bdc7227ce46f4c0ca38297f2bd872842",
+        "https://www.nta.gov.tw/download/4018b68e48bc4c1ea02cecc1ff6fba8e",
+        "https://www.nta.gov.tw/download/509ddfda13064d3b8c43f1ab61f5d3a6",
+        "https://www.nta.gov.tw/download/5a6e9ebfeedd4860869962485534a2bf",
+        "https://www.nta.gov.tw/download/bc12804e2b7c4c2a8a827644a926c98c",
+        "https://www.nta.gov.tw/download/4b52c00da2b5407f88fc7ef265a9fb66",
+        "https://www.nta.gov.tw/download/0df9b9be29004cc485255002a1cca807",
+        "https://www.nta.gov.tw/download/e3def94f1a7b496e8b76138beecf36e8",
+        "https://www.nta.gov.tw/download/0d5079d0d459407faf3f7dea7361cf2b",
+        "https://www.nta.gov.tw/download/0004bc0baa2d46cbbf638fabc7e2e289",
+        "https://www.nta.gov.tw/download/8066aef03af24e00b92c849fbf3e2889",
+        "https://www.nta.gov.tw/download/d6ccf8b5bab44120b4bebaea738989d5",
+        "https://www.nta.gov.tw/download/3787520f7292447da3d65911fb0ad257",
+        "https://www.nta.gov.tw/download/eb7fdd962c244ae0bdfb5e34d7107844",
+        "https://www.nta.gov.tw/download/45b82e3a4ae34b218d12a38ef1d839af",
+        "https://www.nta.gov.tw/download/078b4c2e9735429ab64089c5499931f5",
+        "https://www.nta.gov.tw/download/b74e798fb2d44358a77f1f9326a758d6",
+        "https://www.nta.gov.tw/download/c9596eba84654217af490adbb0e609a8",
+        "https://www.nta.gov.tw/download/ac55dd76e05747c58f10de7f5b04e502",
+        "https://www.nta.gov.tw/download/52f689387cdd42e1b9973f66adb0c953",
+        "https://www.nta.gov.tw/download/70348d88f5fb4f9b912c40ebff328c03",
+        "https://www.nta.gov.tw/download/ec87a21a2c4b48e6aeb7f5a96920d8bc",
+        "https://www.nta.gov.tw/download/4e552aeb530d4f199939c0af71fa2770",
+        "https://www.nta.gov.tw/download/5f5185870dcc4f82ac3dd8e0e66e6268",
+        "https://www.nta.gov.tw/download/d6367235ad984579a37823cbf71893dd",
+        "https://www.nta.gov.tw/download/f777b3b593ca4c1ea24d70238c352e5a",
+        "https://www.nta.gov.tw/download/9a84eee29d4f4f90a7f5ad1ad25a3ad7",
+        "https://www.nta.gov.tw/download/a4cccea5345d47db90ba6a21ae1a91e5",
+        "https://www.nta.gov.tw/download/231a1aecb6b347cd813abc891955e78c",
+        "https://www.nta.gov.tw/download/ff4db714767646509fb16ca854ead08c",
+        "https://www.nta.gov.tw/download/5762fbea316a492383eb819da76639b9",
+        "https://www.nta.gov.tw/download/7b72cfed23744055b1f82719f5e0da3f",
+        "https://www.nta.gov.tw/download/0603833195544ae79df8ac98834d1008",
+        "https://www.nta.gov.tw/download/1597c8784fb24b1883435f7c084a3bb0",
+        "https://www.nta.gov.tw/download/53b7c6d9e234441d9d22cc05fb03efc6",
+        "https://www.nta.gov.tw/download/42cad942af7442759da0ebf608e83809",
+        "https://www.nta.gov.tw/download/8d7a1cc9784f4784a04ce354c164a2a0",
+        "https://www.nta.gov.tw/download/24551dafcfd645afa1d92f4deeecc2ec",
+        "https://www.nta.gov.tw/download/c73f5b39d9924ec1810a69eb22a46daf",
+        "https://www.nta.gov.tw/download/ebd3a20c86a843729da920bf1d1916b4",
+        "https://www.nta.gov.tw/download/49c540d060a24f3d96892fa1ec619735",
+        "https://www.nta.gov.tw/download/8506b4729ca144219e37ecea5f6cdafe",
+        "https://www.nta.gov.tw/download/ff0a159085714b88a69fe79f187de8b0",
+        "https://www.nta.gov.tw/download/9cbb2fb74cc5442c8d920e6389400984",
+        "https://www.nta.gov.tw/download/076ec737722e4598a13dafecbf001a11",
+        "https://www.nta.gov.tw/download/eae35bb87ab64d298f6bf32bcb1c4049",
+        "https://www.nta.gov.tw/download/5cb5b7d7f8d24ba3af5ce50f3ef8c710",
+        "https://www.nta.gov.tw/download/2dada152190a49eaba6b1352b42b1ae1",
+        "https://www.nta.gov.tw/download/bc23bd49dd6046018fafe6a2400f56c0",
+        "https://www.nta.gov.tw/download/0f412f7e00d1429498967378b183b7b7",
+        "https://www.nta.gov.tw/download/5d4877f2f26f4db0a4a16f5ffe189e5f",
+        "https://www.nta.gov.tw/download/af9556f700244c688f605a38d72f4de1",
+        "https://www.nta.gov.tw/download/a7b95d454def4b5491b58c65cc3a5ebf",
+        "https://www.nta.gov.tw/download/f96ebed530184c1691478d6869872d9c",
+        "https://www.nta.gov.tw/download/b7af51758e50488a86b9a75f3abed530",
+        "https://www.nta.gov.tw/download/6466bb2109ae4a0fba43e4812942dfa0",
+        "https://www.nta.gov.tw/download/38462113c25c4e1ab6d61e6badfbca75",
+        "https://www.nta.gov.tw/download/0f3848314c4549d8a53c771f465e0036",
+        "https://www.nta.gov.tw/download/e3fc93fb6e124a2d9a3bf6d8c58e2612",
+        "https://www.nta.gov.tw/download/e4f61f0fae054d43a1939aa86dbc811d",
+        "https://www.nta.gov.tw/download/ac4abe54076d4c3ca6ae68ca7d0a32ec",
+        "https://www.nta.gov.tw/download/4b4298d6940b47a6b4429d946ece5e22",
+        "https://www.nta.gov.tw/download/5cdb6984e2ef445194f52da416cf55d9",
+        "https://www.nta.gov.tw/download/e7323029916f41918742f10a9998d318"
+      ]
+    },
+    {
+      "id": "20423",
+      "name": "地方建設基金103年度決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9656"
+      ]
+    },
+    {
+      "id": "20430",
+      "name": "財政部國庫署103年度單位決算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9695"
+      ]
+    },
+    {
+      "id": "21332",
+      "name": "地方建設基金104年度預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9660"
+      ]
+    },
+    {
+      "id": "12007",
+      "name": "個人資料項目彙整表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/8e0d41c2af4e43fd8867e401b5d327fe"
+      ]
+    },
+    {
+      "id": "12009",
+      "name": "提升政府財務效能方案",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/631ba5ac95ad4a098ea297bf1b070ab1"
+      ]
+    },
+    {
+      "id": "12010",
+      "name": "國庫收支應用科目及其代號表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D72"
+      ]
+    },
+    {
+      "id": "12011",
+      "name": "102年菸酒管理法規彙編",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/9ea19027ffe74f5f9a40686ac5a894e7"
+      ]
+    },
+    {
+      "id": "12118",
+      "name": "國庫集中支付業務─歷年庫款支付情形統計分析表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-08.csv"
+      ]
+    },
+    {
+      "id": "12122",
+      "name": "國庫集中支付業務─歷年各項作業統計與分析表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-09.csv"
+      ]
+    },
+    {
+      "id": "12131",
+      "name": "中央政府各年度債務舉借概況",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-05.csv"
+      ]
+    },
+    {
+      "id": "11831",
+      "name": "提升中央政府債務基金之管理績效",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/b82797ad78fd4a0fa3238cc2bd1160e2"
+      ]
+    },
+    {
+      "id": "11832",
+      "name": "稅制改革與健全會計制度之配合",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/d0dbe629862e4b20b47e8d65639be391"
+      ]
+    },
+    {
+      "id": "11833",
+      "name": "稅務行政之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/8a40deffab9c45c19eeaf7ab304c9893"
+      ]
+    },
+    {
+      "id": "13314",
+      "name": "政府職能及政事別支出結構之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/a288fb4b9868462491bbabc3cd5fa016"
+      ]
+    },
+    {
+      "id": "13315",
+      "name": "中央政府公債發行制度之檢討與改進",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D3-R06"
+      ]
+    },
+    {
+      "id": "28248",
+      "name": "地方建設基金104年度決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9659"
+      ]
+    },
+    {
+      "id": "30948",
+      "name": "國庫集中支付業務─機關分布情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-13F.csv"
+      ]
+    },
+    {
+      "id": "30941",
+      "name": "國庫集中支付業務─支用機關名冊",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-12F.csv"
+      ]
+    },
+    {
+      "id": "35334",
+      "name": "中央政府債務基金106年度預算(案)",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9691"
+      ]
+    },
+    {
+      "id": "25065",
+      "name": "各年度國產及進口紙菸數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-12.csv"
+      ]
+    },
+    {
+      "id": "25066",
+      "name": "各年度國產及進口啤酒類數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-13.csv"
+      ]
+    },
+    {
+      "id": "25068",
+      "name": "各年度國產及進口菸絲數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-15.csv"
+      ]
+    },
+    {
+      "id": "25075",
+      "name": "各年度國產及進口嚼菸數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-20.csv"
+      ]
+    },
+    {
+      "id": "25101",
+      "name": "各年度國產及進口料理米酒數量表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dnt-bin/APDNT/PDNT/file/OpenAPI/D6-11.csv"
+      ]
+    },
+    {
+      "id": "25301",
+      "name": "歷年各級政府債務概況表",
+      "format": "csv",
+      "urls": [
+        "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      ]
+    },
+    {
+      "id": "8225",
+      "name": "地方政府餘絀明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/ef6136abaa3f45ddb7516ba86e481c7c"
+      ]
+    },
+    {
+      "id": "8227",
+      "name": "國庫集中支付業務─預算管制作業量",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-04.csv"
+      ]
+    },
+    {
+      "id": "8229",
+      "name": "中央政府近年投資收益繳庫數",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D503"
+      ]
+    },
+    {
+      "id": "8230",
+      "name": "中央政府近年營業基金盈餘繳庫數",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D505"
+      ]
+    },
+    {
+      "id": "11515",
+      "name": "全面提升國庫支付作業效能之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/8ba9def18fcc462e8be85f2250661f0b"
+      ]
+    },
+    {
+      "id": "11517",
+      "name": "國庫支票簽發作業電子化之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/fc68e5a56e6340a784e500a4391c0bc9"
+      ]
+    },
+    {
+      "id": "11518",
+      "name": "建立米酒及料理酒類中正己烷、乙酸乙酯及丙酮期末報告",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/904e3a59d29a4b4abad39929376ffe4b"
+      ]
+    },
+    {
+      "id": "12189",
+      "name": "中央統籌分配稅款收支月報表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D409f"
+      ]
+    },
+    {
+      "id": "12228",
+      "name": "公股事業機構董監事名單",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D507"
+      ]
+    },
+    {
+      "id": "8571",
+      "name": "中央政府近年行政及財產收入統計表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D506"
+      ]
+    },
+    {
+      "id": "11495",
+      "name": "財產稅稅基評定作業之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/93f262b968cd40249615cc6a5d202177"
+      ]
+    },
+    {
+      "id": "11496",
+      "name": "啤酒花殘留農藥之背景值調查及衛生標準評估委託研究報告",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/721ab43f212847e3bbfe1f41f7d3f514"
+      ]
+    },
+    {
+      "id": "11498",
+      "name": "建置我國財政管理指標之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/2adbe00579034f3cb2b274c2c0d4408d"
+      ]
+    },
+    {
+      "id": "11424",
+      "name": "建構政府債務預警制度之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/b7f5b629a87946ac8cccda165f33253f"
+      ]
+    },
+    {
+      "id": "11448",
+      "name": "公益彩券形象標誌運用之檢討與改進",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/5592c657cbb34ce38c9a3c18932c30ee"
+      ]
+    },
+    {
+      "id": "11785",
+      "name": "加速公營事業民營化對財政影響之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/5926a2fb7d28413fa4bf0c62be1becb0"
+      ]
+    },
+    {
+      "id": "11788",
+      "name": "委託研究計畫-如何輔導我國酒品產業之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/9802eb063b5044f3815f67865265c7fa"
+      ]
+    },
+    {
+      "id": "11806",
+      "name": "提升國營事業經營績效並增進盈餘繳庫之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/1a20814eab60417fbaafd67f7fe4bcd8"
+      ]
+    },
+    {
+      "id": "11808",
+      "name": "推動中程計畫預算制度之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/0b49d9b69bd646408e4e51483c2cdee3"
+      ]
+    },
+    {
+      "id": "11798",
+      "name": "合理加強各項規費及其他服務性收入之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/04c4250d7cb647269b76cb74884cbbb9"
+      ]
+    },
+    {
+      "id": "11800",
+      "name": "合理規劃員工認股權課稅制度之研究",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/f5b55ee1bdc24631a4b153ed20e67302"
+      ]
+    },
+    {
+      "id": "11803",
+      "name": "施政績效評估與績效導向預算編列制度之檢討",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/80c9791ece464f9ba45445830f2cf1d5"
+      ]
+    },
+    {
+      "id": "12894",
+      "name": "財政部接受各界捐贈國庫款項明細表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D1-17.csv"
+      ]
+    },
+    {
+      "id": "31311",
+      "name": "公益彩券回饋金分配情形",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D413F"
+      ]
+    },
+    {
+      "id": "31313",
+      "name": "公益彩券回饋金收支情形",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D415F"
+      ]
+    },
+    {
+      "id": "31189",
+      "name": "公股銀行辦理青年安心成家貸款-按性別分",
+      "format": "csv",
+      "urls": [
+        "https://newgovshare.nta.gov.tw/tdqi/opendata/D5_12F.csv"
+      ]
+    },
+    {
+      "id": "31108",
+      "name": "公益彩券盈餘管理運用及資訊公開考核情形表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D412F"
+      ]
+    },
+    {
+      "id": "31111",
+      "name": "地方政府歲出明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.nta.gov.tw/download/e6efd7ae878f4a169077cebdf10ea696"
+      ]
+    },
+    {
+      "id": "31112",
+      "name": "中央特別統籌分配稅款支應社會福利津貼調整經費明細表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D421f"
+      ]
+    },
+    {
+      "id": "31114",
+      "name": "中央統籌分配稅款收入比較分析表",
+      "format": "csv",
+      "urls": [
+        "https://gaze.nta.gov.tw/dntmb/OpenData/csvDw?ntaCode=D417f"
+      ]
+    },
+    {
+      "id": "75064",
+      "name": "中央政府債務基金106年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9694"
+      ]
+    },
+    {
+      "id": "77337",
+      "name": "中央政府債務基金106年度附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9684"
+      ]
+    },
+    {
+      "id": "77338",
+      "name": "行政院公營事業民營化基金106年度決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9668"
+      ]
+    },
+    {
+      "id": "78056",
+      "name": "財政部國庫署107年度單位預算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9446"
+      ]
+    },
+    {
+      "id": "79696",
+      "name": "財政部國庫署106年度單位決算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9591"
+      ]
+    },
+    {
+      "id": "79527",
+      "name": "地方建設基金實際核貸數占預算數百分比",
+      "format": "csv",
+      "urls": [
+        "https://data.cto.nta.gov.tw/files/openapi/D3-21F.csv"
+      ]
+    },
+    {
+      "id": "98016",
+      "name": "中央政府債務基金107年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/17698"
+      ]
+    },
+    {
+      "id": "98239",
+      "name": "地方建設基金107年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/17700"
+      ]
+    },
+    {
+      "id": "99191",
+      "name": "財政部國庫署108年度單位預算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/18792"
+      ]
+    },
+    {
+      "id": "99422",
+      "name": "中央政府債務基金107年度附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/18815"
+      ]
+    },
+    {
+      "id": "107480",
+      "name": "行政院公營事業民營化基金109年度附屬單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/21196"
+      ]
+    },
+    {
+      "id": "41223",
+      "name": "青年安心成家貸款分年統計資料",
+      "format": "csv",
+      "urls": [
+        "https://newgovshare.nta.gov.tw/tdqi/opendata/D5_16F.csv"
+      ]
+    },
+    {
+      "id": "41136",
+      "name": "無人繼承遺產賸餘現金繳庫一覽表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D1-09F.csv"
+      ]
+    },
+    {
+      "id": "41142",
+      "name": "中央政府總預算歲出主管別庫款支付表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-16F.csv"
+      ]
+    },
+    {
+      "id": "41143",
+      "name": "中央政府總預算歲出政事別庫款支付表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-17F.csv"
+      ]
+    },
+    {
+      "id": "41145",
+      "name": "國庫集中支付業務─國庫支票註銷作廢原因統計分析表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D2-19F.csv"
+      ]
+    },
+    {
+      "id": "41147",
+      "name": "公債發行明細表",
+      "format": "csv",
+      "urls": [
+        "https://nss.nta.gov.tw/nss/files/opendata/D3-19F.csv"
+      ]
+    },
+    {
+      "id": "43335",
+      "name": "中央政府債務基金105年度決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/9683"
+      ]
+    },
+    {
+      "id": "129959",
+      "name": "行政院公營事業民營化基金110年度附屬單位預算案",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/f4f239615c2b4b4d972486b14d0cdd61"
+      ]
+    },
+    {
+      "id": "128325",
+      "name": "行政院公營事業民營化基金109年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/21196"
+      ]
+    },
+    {
+      "id": "117698",
+      "name": "中央政府債務基金108年度附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/26732"
+      ]
+    },
+    {
+      "id": "113915",
+      "name": "地方建設基金108年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/25453"
+      ]
+    },
+    {
+      "id": "114017",
+      "name": "中央政府債務基金108年度附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/25470"
+      ]
+    },
+    {
+      "id": "144594",
+      "name": "行政院公營事業民營化基金附屬單位預算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/2e8721f85ebd4daa9f7da8bc77741999",
+        "https://www.nta.gov.tw/download/f05b43917fb540d99d188f332427f6f5",
+        "https://www.nta.gov.tw/download/206bdbfd5b4b4ed9b24c29589e017491",
+        "https://www.nta.gov.tw/download/1c490169de6f49ac8f804cb5e55df777"
+      ]
+    },
+    {
+      "id": "137549",
+      "name": "中央政府債務基金109年度附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/cfcf2abb5ca04bb59b35b1eae5eb7993"
+      ]
+    },
+    {
+      "id": "137553",
+      "name": "行政院公營事業民營化基金109年度附屬單位決算",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/867beafaa8114b6faf4693bf53291c36"
+      ]
+    },
+    {
+      "id": "138549",
+      "name": "財政部國庫署110年度單位預算書",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/293ef9fa2ce84b5aa3b8728e0e3b65fb"
+      ]
+    },
+    {
+      "id": "162080",
+      "name": "財政部國庫署中央政府疫後強化經濟與社會韌性及全民共享經濟成果特別預算執行狀況月報表及會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/221e2e4a215943bdbe168549fc83ec48",
+        "https://www.nta.gov.tw/download/eaeab80909e24b258cd6e83f583da89f",
+        "https://www.nta.gov.tw/download/6bf3878a63574e3ab39c09f3ef320c37",
+        "https://www.nta.gov.tw/download/1f0782e943464cbb88732cf99a56f84d",
+        "https://www.nta.gov.tw/download/c3d91374f36245c0a359424d6dfead2b",
+        "https://www.nta.gov.tw/download/29b7695a0ae6489fae2b92c5a4f15b26",
+        "https://www.nta.gov.tw/download/6e9276ec26a545c3bb4b603440bf1f79",
+        "https://www.nta.gov.tw/download/dd633354eed749d5a54ccc2d00a6ae95",
+        "https://www.nta.gov.tw/download/87ab94cdc2714769a41d311f3228e387",
+        "https://www.nta.gov.tw/download/ac5b66cfc6034cf089d5b4474adfa5e2",
+        "https://www.nta.gov.tw/download/eab5544c77f546d9ad157b9b4043c43d",
+        "https://www.nta.gov.tw/download/fcbba5c151fd4201ac49dd9c237fbca6",
+        "https://www.nta.gov.tw/download/06bee66b27b84dde8160f8df5f722c7b",
+        "https://www.nta.gov.tw/download/37f93527781f445dbbb28b8cb802b9f3",
+        "https://www.nta.gov.tw/download/034833bea2e343658c94460736851669",
+        "https://www.nta.gov.tw/download/f3f089dae4fb4c1b8c4f2d44354190da",
+        "https://www.nta.gov.tw/download/7b7bb9892555467ebd276001b4d5d744",
+        "https://www.nta.gov.tw/download/f8b52a2dfd1a49ba86c8492e8ac50e03",
+        "https://www.nta.gov.tw/download/508ac1261fcb4ed4bbbb1f22a39fc3f3",
+        "https://www.nta.gov.tw/download/52341018d74f420d8bc8c294e0585654",
+        "https://www.nta.gov.tw/download/161f8fc73ffe492fb4d921947c2c160b",
+        "https://www.nta.gov.tw/download/fa5f9f85b2704c10ba7d2829234d1a14",
+        "https://www.nta.gov.tw/download/542c2cbc57264b7aadc775ca8417b52c",
+        "https://www.nta.gov.tw/download/98306e9e82eb4ef09605ce62c35e259e",
+        "https://www.nta.gov.tw/download/381e9f86f4174d289ae29180f601e3ba",
+        "https://www.nta.gov.tw/download/14fc3c7529644266812f249c01e0d873",
+        "https://www.nta.gov.tw/download/53c60eb7e75c4404b86a1f94df896e51",
+        "https://www.nta.gov.tw/download/29482749ebc14cb9a7f51432fba9b536",
+        "https://www.nta.gov.tw/download/0c5c17fe80df4768adf6cb3d260cb537",
+        "https://www.nta.gov.tw/download/110ce6bb1a9e4678ae164aae70fc7ac7",
+        "https://www.nta.gov.tw/download/1bf8e7d287bc408794531162c4886712",
+        "https://www.nta.gov.tw/download/02f5d78c5ec14155967040d76d158ea7",
+        "https://www.nta.gov.tw/download/aeb535d9ca644bb6b820fbb80a872848",
+        "https://www.nta.gov.tw/download/1a37266b62a1470f97c8efc47d99308e",
+        "https://www.nta.gov.tw/download/9419d476e13c4a1eb3a9a8efdf7848cc",
+        "https://www.nta.gov.tw/download/2d2ce67c74a348f981eba127c7852b59",
+        "https://www.nta.gov.tw/download/2dae09ca86914c618e9f832dd1dfdab6",
+        "https://www.nta.gov.tw/download/09d3430845ed4d87a1b2868c78e3bc07",
+        "https://www.nta.gov.tw/download/9fae2d56fbd24ba9863900b9705e5f42",
+        "https://www.nta.gov.tw/download/2b7772be521f4ce0aa81c095c6ada744",
+        "https://www.nta.gov.tw/download/5b2702eaeb53481a9429808b1194399a",
+        "https://www.nta.gov.tw/download/67b08a34daca4daf93c23fced3a328a6",
+        "https://www.nta.gov.tw/download/ffcfdf5fee35412595c8839b4466eeb6",
+        "https://www.nta.gov.tw/download/85454832f12c429b93ba640cfdf69f7f",
+        "https://www.nta.gov.tw/download/9d6f725bdcc2441887d59df6f218aa7c",
+        "https://www.nta.gov.tw/download/f5cc67dce10549f7a8a78629dcf90bb8",
+        "https://www.nta.gov.tw/download/3a3de8d4e2d849c3bfacd71f2b4db342",
+        "https://www.nta.gov.tw/download/7dd675c9af7e44e38e711cfa3cddaff6",
+        "https://www.nta.gov.tw/download/276b6ef3e5eb433ab703aa97acc7a86e",
+        "https://www.nta.gov.tw/download/e26cc4c5f2dc475d991ce6c19fc6958c",
+        "https://www.nta.gov.tw/download/97944c4903134a359caf17dfd4a2d6ff",
+        "https://www.nta.gov.tw/download/79b75ca4494842ca889b3c530ea8e606",
+        "https://www.nta.gov.tw/download/677ba264430547ce83bc336b58479c83",
+        "https://www.nta.gov.tw/download/970fa5a83b91410ebf9d1e36c9be50e2",
+        "https://www.nta.gov.tw/download/ffa7404d376d411092ee9525d554085b",
+        "https://www.nta.gov.tw/download/e822208efc0c465391b27d5b517e8876",
+        "https://www.nta.gov.tw/download/5e42056ba1304f6f9c82da6267e073b1",
+        "https://www.nta.gov.tw/download/4a6f51897334432ab6a0f08814e1d813",
+        "https://www.nta.gov.tw/download/d472d2964a6e46f9aba8111c6843e20a",
+        "https://www.nta.gov.tw/download/bd9f57fa174d46d8aa63bcdb4c65a327",
+        "https://www.nta.gov.tw/download/65c1fb75bde94f4b9b15165de81cdce3",
+        "https://www.nta.gov.tw/download/c0b7a29963024ffd863f62f9ee52917b",
+        "https://www.nta.gov.tw/download/61383b46b2cc49299c6a29651a44bef7",
+        "https://www.nta.gov.tw/download/516cfcf1bf01473db8c185db342defec",
+        "https://www.nta.gov.tw/download/4c9221228b2f4133abc40a1f8c3948a8",
+        "https://www.nta.gov.tw/download/b27b0f24f7ae415baacecb6e3052e867"
+      ]
+    },
+    {
+      "id": "175568",
+      "name": "財政部國庫署中央政府因應國際情勢強化經濟社會及民生國安韌性特別預算執行狀況月報表及會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.nta.gov.tw/download/74e66a2eb726490aadb879b93bc76fac",
+        "https://www.nta.gov.tw/download/fc3ae053420a438f95ce5e37956e0191",
+        "https://www.nta.gov.tw/download/2155ec3ab8cf41c9ac372e396a9ac8ea",
+        "https://www.nta.gov.tw/download/80459912e9764a0884c970d4d60fca9e",
+        "https://www.nta.gov.tw/download/7b084372422a4f5faaac58b13b25a148",
+        "https://www.nta.gov.tw/download/a37c533ed425437b929b2ce4bcb5a423",
+        "https://www.nta.gov.tw/download/36869c7150b94b64b812c6f1d668a2da",
+        "https://www.nta.gov.tw/download/a004f6389b304229b79d13146199d4ab",
+        "https://www.nta.gov.tw/download/72c847c7ecb44878a80f18882c73599e"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "dataset",
+  "provider": "國家通訊傳播委員會",
+  "slug": "ncc_gov_tw_6b9f576c",
+  "datasets": [
+    {
+      "id": "73501",
+      "name": "電信業者用戶數統計",
+      "format": "csv",
+      "urls": [
+        "https://www.ncc.gov.tw/uploadfiles/opendata/telecom_subscribers.csv"
+      ]
+    },
+    {
+      "id": "73502",
+      "name": "廣播電視事業許可清單",
+      "format": "csv",
+      "urls": [
+        "https://www.ncc.gov.tw/uploadfiles/opendata/broadcast_licenses.csv"
+      ]
+    },
+    {
+      "id": "73503",
+      "name": "網際網路接取服務統計",
+      "format": "csv",
+      "urls": [
+        "https://www.ncc.gov.tw/uploadfiles/opendata/internet_access_statistics.csv"
+      ]
+    },
+    {
+      "id": "73504",
+      "name": "民眾申訴案件統計",
+      "format": "csv",
+      "urls": [
+        "https://www.ncc.gov.tw/uploadfiles/opendata/consumer_complaints.csv"
+      ]
+    },
+    {
+      "id": "73505",
+      "name": "無線電頻率使用統計",
+      "format": "csv",
+      "urls": [
+        "https://www.ncc.gov.tw/uploadfiles/opendata/radio_frequency_usage.csv"
+      ]
+    },
+    {
+      "id": "73506",
+      "name": "電信資費備查資料",
+      "format": "csv",
+      "urls": [
+        "https://www.ncc.gov.tw/uploadfiles/opendata/telecom_tariffs.csv"
+      ]
+    }
+  ]
+}

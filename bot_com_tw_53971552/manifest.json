@@ -1,0 +1,690 @@
+{
+  "type": "dataset",
+  "provider": "臺灣銀行股份有限公司",
+  "slug": "bot_com_tw_53971552",
+  "datasets": [
+    {
+      "id": "23911",
+      "name": "臺灣銀行資本適足性與風險管理資訊揭露",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/215/risk_1.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/215/risk_2.csv"
+      ]
+    },
+    {
+      "id": "24936",
+      "name": "臺灣銀行一般外匯收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/076/076_fx_fee.csv"
+      ]
+    },
+    {
+      "id": "25025",
+      "name": "臺灣銀行財富管理業務簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/231/231_brief_introduction_2024.csv"
+      ]
+    },
+    {
+      "id": "24947",
+      "name": "臺灣銀行中央登錄債券收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/267/中央登錄債券帳戶維護費收費標準.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/267/債券跨行轉帳手續費收費標準.csv"
+      ]
+    },
+    {
+      "id": "25024",
+      "name": "臺灣銀行財富管理分行服務據點",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/231/231_wealth_bases_2020.csv"
+      ]
+    },
+    {
+      "id": "26404",
+      "name": "臺灣銀行新台幣黃金存摺牌價",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/104GoldPassbook.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/105GoldPassbook.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/106GoldPassbook.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/107GoldPassbook.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/108GoldPassbook.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/109GoldPassbook.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/110GoldPassbook.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/111GoldPassbook.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/112GoldPassbook.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/113GoldPassbook.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/114GoldPassbook.csv"
+      ]
+    },
+    {
+      "id": "32140",
+      "name": "臺灣銀行基金收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/008/fund_fee.csv"
+      ]
+    },
+    {
+      "id": "31927",
+      "name": "臺灣銀行信用評等等級",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/097/BOT_Credit_Ratings_2025.csv"
+      ]
+    },
+    {
+      "id": "46629",
+      "name": "臺灣銀行關稅配額",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/ECA.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/FTA_PAN.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/WTO_FIFO.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/WTO_IMPORT_SALE.csv"
+      ]
+    },
+    {
+      "id": "46659",
+      "name": "臺灣銀行中國大陸經濟金融指標",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/103/FinancialIndex_CHINA_2024.csv"
+      ]
+    },
+    {
+      "id": "46661",
+      "name": "臺灣銀行國際經濟金融指標",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/103/FinancialIndex_international_Eurozone_2024.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/103/FinancialIndex_international_United_States_2024.csv"
+      ]
+    },
+    {
+      "id": "36915",
+      "name": "臺灣銀行股份有限公司決算",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Audited_103.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Audited_104.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_S2_104.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_104.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_temp_105.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_S2_105.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_audited_105.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_temp_106.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_S2_106.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_audited_106.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_temp_107.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_S2_107.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_audited_107.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_temp_108.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_S2_108.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_audited_108.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_temp_109.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_S2_109.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_audited_109.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_temp_110.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_S2_110.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_audited_110.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_111.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_audited_111.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_S2_111.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_112.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_S2_112.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_audited_112.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_113.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_audited_113.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_S2_113.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_Temp_114.zip"
+      ]
+    },
+    {
+      "id": "84873",
+      "name": "臺灣銀行公保性別統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/公保性別統計資料─按地區別2024.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/公保性別統計資料─按年齡別2024.csv"
+      ]
+    },
+    {
+      "id": "31395",
+      "name": "臺灣銀行財務資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/individual_finance_report104-113.csv"
+      ]
+    },
+    {
+      "id": "31601",
+      "name": "臺灣銀行關稅配額簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/233_tariff_quota.csv"
+      ]
+    },
+    {
+      "id": "40261",
+      "name": "臺灣銀行補(捐)助",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/105Q4.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/106Q4.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/107Q4.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/108Q4.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/109Q4.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/110Q4.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/111Q4.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/112Q4.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/113Q4.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/114Q4.csv"
+      ]
+    },
+    {
+      "id": "37931",
+      "name": "臺灣銀行不動產標售結果",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/113/112_real_estate_sale.csv"
+      ]
+    },
+    {
+      "id": "37335",
+      "name": "臺灣銀行不動產標售公告",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/113/108_real_estate_sale_announcement.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/113/108_real_estate_sale_announcement_chart.csv"
+      ]
+    },
+    {
+      "id": "34169",
+      "name": "臺灣銀行股份有限公司預算",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_budget_105.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_budget_106.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_budget_107.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_legal_budget_109.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_legal_budget_108.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_legal_budget_112.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_legal_budget_110.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_legal_budget_111.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_legal_budget_113.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_legal_budget_114.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/Bot_legal_budget_115.zip"
+      ]
+    },
+    {
+      "id": "34208",
+      "name": "臺灣銀行財富管理VIP",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/231/114VIP.csv"
+      ]
+    },
+    {
+      "id": "27611",
+      "name": "臺灣銀行股份有限公司105年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10501.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10502.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10503.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10504.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10505.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10506.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10507.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10508.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10509.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10510.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10511.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10512.zip"
+      ]
+    },
+    {
+      "id": "24937",
+      "name": "臺灣銀行國外服務據點",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/076/076_overseas_bases.csv"
+      ]
+    },
+    {
+      "id": "24946",
+      "name": "臺灣銀行國內服務據點",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/267/267_DBU_bases.csv"
+      ]
+    },
+    {
+      "id": "24958",
+      "name": "臺灣銀行票券清算交割收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/267/267_check_charge.csv"
+      ]
+    },
+    {
+      "id": "24960",
+      "name": "臺灣銀行保管箱據點",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/267/267_safe_box_bases.csv"
+      ]
+    },
+    {
+      "id": "24913",
+      "name": "臺灣銀行消費者貸款收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/150/150_cus_loan_fee.csv"
+      ]
+    },
+    {
+      "id": "25018",
+      "name": "臺灣銀行信用卡收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/150/150_credit_card_charge.csv"
+      ]
+    },
+    {
+      "id": "25019",
+      "name": "臺灣銀行晶片金融卡跨國提款收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/150/150_Debit_card_charge.csv"
+      ]
+    },
+    {
+      "id": "31814",
+      "name": "臺灣銀行基本放款利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/149/base_loan_rate(70.7.2-109.4.10).csv"
+      ]
+    },
+    {
+      "id": "31996",
+      "name": "臺灣銀行公保業務服務據點",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/服務據點.csv"
+      ]
+    },
+    {
+      "id": "32082",
+      "name": "臺灣銀行公保業務簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/公保業務簡介.csv"
+      ]
+    },
+    {
+      "id": "32085",
+      "name": "臺灣銀行公保統計年刊",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/公教人員保險要保機關數.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/113年公教人員保險被保險人數-保俸級別.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/113年公保被保險人數按年齡及性別.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/公教人員保險財務收入概況.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/公教人員保險財務支出概況.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/公教人員保險各項現金給付人數金額.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/公保養老一次給付受益人數-退保原因.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/113年公保養老年金受益人年底年齡及受益金額.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/公保準備金運用概況.csv"
+      ]
+    },
+    {
+      "id": "32109",
+      "name": "臺灣銀行代辦採購業務簡介",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/232/purchase_intro.csv"
+      ]
+    },
+    {
+      "id": "32111",
+      "name": "臺灣銀行公保業務相關法規",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/公保業務相關法規.csv"
+      ]
+    },
+    {
+      "id": "46630",
+      "name": "臺灣銀行代辦採購服務費計費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/232/service_fee_list_11106.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/232/contract_service_fee_11106.csv"
+      ]
+    },
+    {
+      "id": "46660",
+      "name": "臺灣銀行國內經濟金融指標",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/103/FinancialIndex_domestic_form1_2024.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/103/FinancialIndex_domestic_form2_2024.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/103/FinancialIndex_domestic_form3_2024.csv"
+      ]
+    },
+    {
+      "id": "43007",
+      "name": "臺灣銀行股份有限公司106年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10601.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10602.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10603.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10604.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10605.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10606.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10607.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10608.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10609.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10610.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10611.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10612.zip"
+      ]
+    },
+    {
+      "id": "116347",
+      "name": "臺灣銀行股份有限公司109年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10901.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10902.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10903.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10904.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10905.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10906.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10907.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10908.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10909.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10910.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10911.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10912.zip"
+      ]
+    },
+    {
+      "id": "151576",
+      "name": "臺灣銀行股份有限公司111年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11101.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11102.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11103.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11104.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11105.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11106.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11107.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11108.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11109.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11110.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11111.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11112.zip"
+      ]
+    },
+    {
+      "id": "160771",
+      "name": "臺灣銀行股份有限公司112年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11201.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11202.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11203.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11204.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11205.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11206.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11207.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11208.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11209.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11210.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11211.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11212.zip"
+      ]
+    },
+    {
+      "id": "167718",
+      "name": "臺灣銀行股份有限公司113年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11301.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11302.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11303.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11304.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11305.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11306.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11307.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11308.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11309.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11310.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11311.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11312.zip"
+      ]
+    },
+    {
+      "id": "176921",
+      "name": "臺灣銀行股份有限公司115年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11501.zip"
+      ]
+    },
+    {
+      "id": "172957",
+      "name": "臺灣銀行股份有限公司114年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11401.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11402.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11403.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11404.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11405.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11406.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11407.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11408.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11409.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11410.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11411.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11412.zip"
+      ]
+    },
+    {
+      "id": "19944",
+      "name": "臺灣銀行股份有限公司104年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10401.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10402.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10403.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10404.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10405.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10406.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10407.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10408.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10409.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10410.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10411.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10412.zip"
+      ]
+    },
+    {
+      "id": "31986",
+      "name": "臺灣銀行公保保險種類",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/235/保險種類.csv"
+      ]
+    },
+    {
+      "id": "37268",
+      "name": "臺灣銀行信用卡發卡業務資料",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/150/credit_card_business.csv"
+      ]
+    },
+    {
+      "id": "31816",
+      "name": "臺灣銀行基準利率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/149/base_rate_statistics(92.1.1-109.4.10).csv"
+      ]
+    },
+    {
+      "id": "34207",
+      "name": "臺灣銀行財富管理業務貴賓客戶優惠方案",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/231/115VIP_APPLY.csv"
+      ]
+    },
+    {
+      "id": "25017",
+      "name": "臺灣銀行達人VISA金融卡收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/150/150_VISA_charge.csv"
+      ]
+    },
+    {
+      "id": "24811",
+      "name": "臺灣銀行電子銀行業務各項費用收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/185/185_fee_2025.csv"
+      ]
+    },
+    {
+      "id": "24940",
+      "name": "臺灣銀行新臺幣存款收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/267/267_TWD_Charge.csv"
+      ]
+    },
+    {
+      "id": "24961",
+      "name": "臺灣銀行自動提款機據點",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/267/267_ATM_bases.csv"
+      ]
+    },
+    {
+      "id": "24962",
+      "name": "臺灣銀行國內匯款收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/267/267_TWD_transfer_charge.csv"
+      ]
+    },
+    {
+      "id": "24841",
+      "name": "臺灣銀行一般貸款收費標準",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/149/149_fee.csv"
+      ]
+    },
+    {
+      "id": "75583",
+      "name": "臺灣銀行股份有限公司107年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10701.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10702.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10703.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10704.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10705.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10706.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10707.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10708.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10709.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10710.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10711.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10712.zip"
+      ]
+    },
+    {
+      "id": "99079",
+      "name": "臺灣銀行股份有限公司108年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10801.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10802.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10803.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10804.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10805.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10806.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10807.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10808.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10809.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10810.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10811.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac10812.zip"
+      ]
+    },
+    {
+      "id": "100988",
+      "name": "臺灣銀行股份有限公司黃金存摺及黃金撲滿各項費用一覽表(DBU)",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/233/233_GOLD_FEE_LIST.csv"
+      ]
+    },
+    {
+      "id": "105011",
+      "name": "臺灣銀行年度交易日外匯各幣別即期收盤匯率",
+      "format": "csv",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20100101-20101231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20110101-20111231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20120101-20121231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20130101-20131231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20140101-20141231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20150101-20151231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20160101-20161231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20170101-20171231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20180101-20181231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20190101-20191231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20200101-20201231-FXCRT.csv",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/151/20210101-20211231-FXCRT.csv"
+      ]
+    },
+    {
+      "id": "136788",
+      "name": "臺灣銀行股份有限公司110年度會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11001.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11002.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11003.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11004.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11005.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11006.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11007.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11008.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11009.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11010.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11011.zip",
+        "https://www.bot.com.tw/Govinfo/opendata/csv/100/ac11012.zip"
+      ]
+    }
+  ]
+}

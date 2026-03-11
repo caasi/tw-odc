@@ -1,0 +1,365 @@
+{
+  "type": "dataset",
+  "provider": "中央選舉委員會",
+  "slug": "data_cec_gov_tw_ab396a53",
+  "datasets": [
+    {
+      "id": "11889",
+      "name": "中央選舉委員會單位預算",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/預算案/預算案.csv",
+        "https://data.cec.gov.tw/法定預算/法定預算.csv"
+      ]
+    },
+    {
+      "id": "33334",
+      "name": "選舉人性別統計資料檔",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/選舉人性別統計/選舉人性別統計開放資料檔.csv"
+      ]
+    },
+    {
+      "id": "95883",
+      "name": "全國性公民投票計票結果",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/選舉資料庫/voteData.csv"
+      ]
+    },
+    {
+      "id": "120829",
+      "name": "政府資料開放行動方案",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/行動方案/政府資料開放行動方案.csv"
+      ]
+    },
+    {
+      "id": "11886",
+      "name": "中央選舉委員會辦理政策宣導廣告",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/政策宣導廣告表/101政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/102政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/103政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/104政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/105政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/106政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/107政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/108政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/109政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/110政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/111政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/112政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/113政策宣導廣告表.csv",
+        "https://data.cec.gov.tw/政策宣導廣告表/114政策宣導廣告表.csv"
+      ]
+    },
+    {
+      "id": "13119",
+      "name": "選舉資料庫(含選舉區資料)",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/選舉資料庫/voteData.csv"
+      ]
+    },
+    {
+      "id": "33335",
+      "name": "中央選舉委員會施政計畫",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/施政計畫/中央選舉委員會施政計畫.csv"
+      ]
+    },
+    {
+      "id": "33337",
+      "name": "選舉大事紀(選舉摘要)",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/選舉大事紀/選舉大事紀.csv"
+      ]
+    },
+    {
+      "id": "33338",
+      "name": "政黨連坐處罰資料",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/政黨連坐處罰資料/104年第2季以前政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/104年第3季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/104年第4季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/105年第1季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/105年第2季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/105年第3季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/105年第4季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/106年第1季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/106年第2季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/106年第3季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/106年第4季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/107年第1季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/107年第2季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/107年第3季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/107年第4季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/108年第1季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/108年第2季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/108年第3季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/108年第4季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/109年第1季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/109年第2季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/109年第3季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/109年第4季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/110年第1季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/110年第2季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/110年第3季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/110年第4季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/111年第1季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/111年第2季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/111年第4季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/111年第3季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/112年第1季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/112年第2季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/112年第3季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/112年第4季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/113年第1季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/113年第2季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/113年第3季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/113年第4季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/114年第1季政黨連坐裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/政黨連坐處罰資料/114年第2季政黨連坐裁罰案件統計表.csv"
+      ]
+    },
+    {
+      "id": "33340",
+      "name": "選舉裁罰案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/選舉裁罰案件統計表/各級選舉委員會裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/選舉裁罰案件統計表/中選會裁罰案件統計表.csv",
+        "https://data.cec.gov.tw/選舉裁罰案件統計表/中選會裁罰案件統計表(93年至109年間).csv",
+        "https://data.cec.gov.tw/選舉裁罰案件統計表/中選會裁罰案件統計表(93年至112年間).csv",
+        "https://data.cec.gov.tw/選舉裁罰案件統計表/中選會裁罰案件統計表(93年至113年間).csv",
+        "https://data.cec.gov.tw/選舉裁罰案件統計表/中選會裁罰案件統計表(101年至105年間).csv"
+      ]
+    },
+    {
+      "id": "28495",
+      "name": "總統副總統選舉選舉人性別投票統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/總統副總統選舉選舉人性別投票統計表/第14任總統副總統選舉性別投票統計表.csv"
+      ]
+    },
+    {
+      "id": "21327",
+      "name": "中央選舉委員會支出",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/會計月報/會計月報.csv",
+        "https://data.cec.gov.tw/決算/決算.csv"
+      ]
+    },
+    {
+      "id": "25318",
+      "name": "中央選舉委員會資料開放諮詢小組會議紀錄",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/中央選舉委員會資料開放諮詢小組會議紀錄.csv",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/114諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/114諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/113諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/113諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/112諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/112諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/111諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/111諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/110諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/110諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/109諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/109諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第8次諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第8次諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第7次諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第7次諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第6次諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第6次諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第5次諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第5次諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第4次諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第4次諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第3次諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第3次諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第2次諮詢小組會議紀錄.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第2次諮詢小組會議議程.json",
+        "https://data.cec.gov.tw/資料開放諮詢小組會議紀錄/第1次諮詢小組會議紀錄.json"
+      ]
+    },
+    {
+      "id": "27662",
+      "name": "選務資料開放與整合行動策略",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/行動策略/選務資料開放與整合行動策略.csv"
+      ]
+    },
+    {
+      "id": "90260",
+      "name": "中央選舉委員會人民申請政府資訊案件統計",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/人民申請政府資訊案件統計/中央選舉委員會人民申請政府資訊案件統計.csv"
+      ]
+    },
+    {
+      "id": "168059",
+      "name": "第16任總統副總統及第11屆立法委員選舉投開票所",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/第16任總統副總統及第11屆立法委員選舉投開票所/113.csv"
+      ]
+    },
+    {
+      "id": "168990",
+      "name": "第16任總統副總統選舉選舉公報",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/第16任總統副總統選舉選舉公報/bulletin.csv"
+      ]
+    },
+    {
+      "id": "20920",
+      "name": "政黨競選費用補助金",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/政黨競選費用補助金/104年度政黨競選費用補助金.csv",
+        "https://data.cec.gov.tw/政黨競選費用補助金/105年度政黨競選費用補助金.csv",
+        "https://data.cec.gov.tw/政黨競選費用補助金/106年度政黨競選費用補助金.csv"
+      ]
+    },
+    {
+      "id": "27491",
+      "name": "選舉人數",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/選舉人數/第14任總統副總統選舉人數.csv",
+        "https://data.cec.gov.tw/選舉人數/第15任總統副總統及第10屆立法委員選舉各投開票所選舉人數統計表_總統副總統.csv",
+        "https://data.cec.gov.tw/選舉人數/第15任總統副總統及第10屆立法委員選舉各投開票所選舉人數統計表_區域立法委員.csv",
+        "https://data.cec.gov.tw/選舉人數/第15任總統副總統及第10屆立法委員選舉各投開票所選舉人數統計表_平地立法委員.csv",
+        "https://data.cec.gov.tw/選舉人數/第15任總統副總統及第10屆立法委員選舉各投開票所選舉人數統計表_山地立法委員.csv",
+        "https://data.cec.gov.tw/選舉人數/第15任總統副總統及第10屆立法委員選舉各投開票所選舉人數統計表_不分區立法委員.csv",
+        "https://data.cec.gov.tw/選舉人數/第16任總統副總統選舉人數_各投開票所選舉人數統計表_總統副總統.csv",
+        "https://data.cec.gov.tw/選舉人數/第16任總統副總統選舉人數_各投開票所選舉人數統計表_區域立法委員.csv",
+        "https://data.cec.gov.tw/選舉人數/第16任總統副總統選舉人數_各投開票所選舉人數統計表_平地立法委員.csv",
+        "https://data.cec.gov.tw/選舉人數/第16任總統副總統選舉人數_各投開票所選舉人數統計表_山地立法委員.csv",
+        "https://data.cec.gov.tw/選舉人數/第16任總統副總統選舉人數_各投開票所選舉人數統計表_不分區立法委員.csv"
+      ]
+    },
+    {
+      "id": "27647",
+      "name": "中央選舉委員會開放資料集清單",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/開放資料集清單/中選會會開放資料-10801.csv",
+        "https://data.cec.gov.tw/開放資料集清單/中選會會開放資料-10904.csv",
+        "https://data.cec.gov.tw/開放資料集清單/中選會會開放資料-11002.csv",
+        "https://data.cec.gov.tw/開放資料集清單/中選會會開放資料-11103.csv",
+        "https://data.cec.gov.tw/開放資料集清單/中選會會開放資料-11205.csv",
+        "https://data.cec.gov.tw/開放資料集清單/中選會會開放資料-11305.csv",
+        "https://data.cec.gov.tw/開放資料集清單/中選會會開放資料-11409.csv"
+      ]
+    },
+    {
+      "id": "33336",
+      "name": "中央選舉委員會大事紀",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/本會大事紀/中央選舉委員會大事紀.csv",
+        "https://data.cec.gov.tw/本會大事紀/中選會大事紀-1070320.csv",
+        "https://data.cec.gov.tw/本會大事紀/中選會大事紀-1090229.csv",
+        "https://data.cec.gov.tw/本會大事紀/中選會大事紀-1110115.csv",
+        "https://data.cec.gov.tw/本會大事紀/中選會大事紀-1120310.csv",
+        "https://data.cec.gov.tw/本會大事紀/中選會大事紀-1130331.csv"
+      ]
+    },
+    {
+      "id": "33341",
+      "name": "中央選舉委員會個人資料項目表",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/個資保有單位/中選會內部保有及管理個人資料項目.csv",
+        "https://data.cec.gov.tw/個資保有單位/中選會內部保有及管理個人資料項目_選務處.csv",
+        "https://data.cec.gov.tw/個資保有單位/中選會內部保有及管理個人資料項目 _法政處.csv",
+        "https://data.cec.gov.tw/個資保有單位/中選會內部保有及管理個人資料項目 _綜合規劃處.csv",
+        "https://data.cec.gov.tw/個資保有單位/中選會內部保有及管理個人資料項目_秘書室.csv",
+        "https://data.cec.gov.tw/個資保有單位/中選會內部保有及管理個人資料項目_人事室.csv",
+        "https://data.cec.gov.tw/個資保有單位/中選會內部保有及管理個人資料項目_會計室.csv",
+        "https://data.cec.gov.tw/個資保有單位/中選會內部保有及管理個人資料項目_政風室.csv"
+      ]
+    },
+    {
+      "id": "28485",
+      "name": "總統副總統選舉-年齡層選舉人人數統計表",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/年齡層選舉人人數統計/第14任總統副總統選舉.csv",
+        "https://data.cec.gov.tw/年齡層選舉人人數統計/第15任總統副總統選舉.csv",
+        "https://data.cec.gov.tw/年齡層選舉人人數統計/第16任總統副總統選舉.csv"
+      ]
+    },
+    {
+      "id": "97564",
+      "name": "全國性公民投票連署查對結果",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第7案-連署人名冊查對結果統計表(盧秀燕案).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第8案-連署人名冊查對結果統計表(林德福案).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第9案-連署人名冊查對結果統計表(郝龍斌).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第10案-連署人名冊查對結果統計表(游信義).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第11案-連署人名冊查對結果統計表(曾獻瑩 反同志教育).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第12案-連署人名冊查對結果統計表(曾獻瑩 同性專法).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第13案-連署人名冊查對結果統計表(紀政).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第14案-連署人名冊查對結果統計表(苗博雅).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第15案-連署人名冊查對結果統計表(王鼎棫).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第16案-連署人名冊查對結果統計表(黃士修).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第16案-連署人名冊查對結果統計表(黃士修補提).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第17案-連署人名冊查對結果統計表(黃士修-核四啟封商轉).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第18案-連署人名冊查對結果統計表(林為洲-反萊豬案).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第19案-連署人名冊查對結果統計表(江啟臣-公投綁大選案).csv",
+        "https://data.cec.gov.tw/全國性公民投票連署查對結果/第20案-連署人名冊查對結果統計表(潘忠政-珍愛藻礁案).csv"
+      ]
+    },
+    {
+      "id": "117312",
+      "name": "全國性公民投票提案表",
+      "format": "json",
+      "urls": [
+        "https://web.cec.gov.tw/referendum/api",
+        "https://web.cec.gov.tw/referendum/api/data"
+      ]
+    },
+    {
+      "id": "159794",
+      "name": "2022地方首長民意代表候選人",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/2022地方首長民意代表候選人/2022村里長選舉候選人.csv",
+        "https://data.cec.gov.tw/2022地方首長民意代表候選人/2022直轄市山地原住民區民代表選舉候選人.csv",
+        "https://data.cec.gov.tw/2022地方首長民意代表候選人/2022直轄市山地原住民區長選舉候選人.csv",
+        "https://data.cec.gov.tw/2022地方首長民意代表候選人/2022直轄市議員選舉候選人.csv",
+        "https://data.cec.gov.tw/2022地方首長民意代表候選人/2022直轄市長選舉候選人.csv",
+        "https://data.cec.gov.tw/2022地方首長民意代表候選人/2022縣市議員選舉候選人.csv",
+        "https://data.cec.gov.tw/2022地方首長民意代表候選人/2022縣市長選舉候選人.csv",
+        "https://data.cec.gov.tw/2022地方首長民意代表候選人/2022鄉鎮市民代表選舉候選人.csv",
+        "https://data.cec.gov.tw/2022地方首長民意代表候選人/2022鄉鎮市長選舉候選人.csv"
+      ]
+    },
+    {
+      "id": "170247",
+      "name": "立法委員選舉區範圍",
+      "format": "csv",
+      "urls": [
+        "https://data.cec.gov.tw/%E7%AC%AC11%E5%B1%86%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%E9%81%B8%E8%88%89%E5%8D%80%E7%AF%84%E5%9C%8D/立法委員選舉區範圍.csv"
+      ]
+    }
+  ]
+}

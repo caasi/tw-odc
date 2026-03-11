@@ -1,0 +1,339 @@
+{
+  "type": "dataset",
+  "provider": "國家圖書館",
+  "slug": "nclfile_ncl_edu_tw_3ec148ec",
+  "datasets": [
+    {
+      "id": "22092",
+      "name": "國家圖書館客家研究文獻書目資訊",
+      "format": "csv",
+      "urls": [
+        "https://gaz.ncl.edu.tw/opendata/hakkalib_39048.csv"
+      ]
+    },
+    {
+      "id": "9562",
+      "name": "出版社名錄",
+      "format": "csv",
+      "urls": [
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/isbnpub.csv"
+      ]
+    },
+    {
+      "id": "16345",
+      "name": "兩漢諸子研究論著目錄",
+      "format": "csv",
+      "urls": [
+        "https://ccs.ncl.edu.tw/opendata/twohan.csv"
+      ]
+    },
+    {
+      "id": "16359",
+      "name": "敦煌學研究論著目錄",
+      "format": "csv",
+      "urls": [
+        "https://ccs.ncl.edu.tw/opendata/dunhuang.csv"
+      ]
+    },
+    {
+      "id": "16668",
+      "name": "魏晉玄學研究論著目錄",
+      "format": "csv",
+      "urls": [
+        "https://ccs.ncl.edu.tw/opendata/metaphysics.csv"
+      ]
+    },
+    {
+      "id": "16906",
+      "name": "國際漢學博士論文摘要",
+      "format": "csv",
+      "urls": [
+        "https://ccs.ncl.edu.tw/opendata/handoc_0910.csv"
+      ]
+    },
+    {
+      "id": "16908",
+      "name": "明人文集目錄",
+      "format": "csv",
+      "urls": [
+        "https://ccs.ncl.edu.tw/opendata/mingpeople.csv"
+      ]
+    },
+    {
+      "id": "27190",
+      "name": "中文主題編目規範",
+      "format": "csv",
+      "urls": [
+        "https://catsmart.ncl.edu.tw/subject.csv"
+      ]
+    },
+    {
+      "id": "45798",
+      "name": "金石拓片資料",
+      "format": "csv",
+      "urls": [
+        "https://rbook.ncl.edu.tw/NCLSearch/stone.csv"
+      ]
+    },
+    {
+      "id": "26475",
+      "name": "編目園地",
+      "format": "csv",
+      "urls": [
+        "https://catweb.ncl.edu.tw/opendata/cateweb.csv"
+      ]
+    },
+    {
+      "id": "36940",
+      "name": "國際標準錄音錄影資料代碼(ISRC)資料",
+      "format": "csv",
+      "urls": [
+        "https://isrc.ncl.edu.tw/download/isrc_113_2half_yr.csv",
+        "https://isrc.ncl.edu.tw/download/isrc_114_1half_yr.csv"
+      ]
+    },
+    {
+      "id": "37908",
+      "name": "當代名人手稿典藏",
+      "format": "csv",
+      "urls": [
+        "https://rbook.ncl.edu.tw/NCLSearch/manuscript.csv"
+      ]
+    },
+    {
+      "id": "45685",
+      "name": "國家圖書館對民間團體及個人補(捐)助經費執行情形",
+      "format": "zip",
+      "urls": [
+        "https://nclfile.ncl.edu.tw/files/202401/f9f72888-3ae0-41ca-8be5-8d1b7ba3d10f.zip",
+        "https://nclfile.ncl.edu.tw/files/202404/5b24fe9f-0590-404c-b699-6af53319f0d1.zip"
+      ]
+    },
+    {
+      "id": "12645",
+      "name": "國家圖書館單位預算",
+      "format": "zip",
+      "urls": [
+        "https://nclfile.ncl.edu.tw/files/202102/78f3a273-831b-4f73-94d8-a3ae5bfd4562.zip",
+        "https://nclfile.ncl.edu.tw/files/202008/bb269493-32b4-45c3-89b9-0cea45735099.zip",
+        "https://nclfile.ncl.edu.tw/files/202203/53a74664-b148-41e5-8dff-7544fe041f07.zip",
+        "https://nclfile.ncl.edu.tw/files/202303/3b9788c8-6272-4583-9e80-ab49fb859a73.zip",
+        "https://nclfile.ncl.edu.tw/files/202208/df9826b1-2f89-4eb3-b2e0-4c7f544540e0.zip",
+        "https://nclfile.ncl.edu.tw/files/202302/1d4517cc-2b6c-4668-92f6-d99141dfab5e.zip",
+        "https://nclfile.ncl.edu.tw/files/202308/6f733532-c341-451f-b7c2-a5edb5e7a0d2.zip",
+        "https://nclfile.ncl.edu.tw/files/202409/fd3eb094-f070-4cbb-9691-8955138993ae.zip",
+        "https://nclfile.ncl.edu.tw/files/202509/b4777d2b-78bf-4353-8cb9-2faab10d6096.zip",
+        "https://nclfile.ncl.edu.tw/files/202508/dc59ad0d-52e3-44fb-8dcb-475c536ba577.zip",
+        "https://nclfile.ncl.edu.tw/files/202509/7c30ba94-7fb8-4231-9699-c7624cb5fa3b.zip"
+      ]
+    },
+    {
+      "id": "6838",
+      "name": "國家圖書館最新活動訊息",
+      "format": "xml",
+      "urls": [
+        "https://www.ncl.edu.tw/activity_xml.asp"
+      ]
+    },
+    {
+      "id": "6839",
+      "name": "古籍書目資料",
+      "format": "csv",
+      "urls": [
+        "https://rbook.ncl.edu.tw/NCLSearch/rbook.csv"
+      ]
+    },
+    {
+      "id": "7503",
+      "name": "漢學出版品書目資料",
+      "format": "csv",
+      "urls": [
+        "https://ccs.ncl.edu.tw/ChineseStudy.csv"
+      ]
+    },
+    {
+      "id": "8413",
+      "name": "國家圖書館年報",
+      "format": "csv",
+      "urls": [
+        "https://nbiod.ncl.edu.tw/opendata/yearbook_R_20250711.csv"
+      ]
+    },
+    {
+      "id": "22093",
+      "name": "臺灣民間傳說文獻資料書目",
+      "format": "csv",
+      "urls": [
+        "https://ref.ncl.edu.tw/images/opendata/folklore_2570.csv"
+      ]
+    },
+    {
+      "id": "37878",
+      "name": "臺灣華文電子書庫書目資料",
+      "format": "csv",
+      "urls": [
+        "https://taiwanebook.ncl.edu.tw/digitcenter/TEBOpen.csv"
+      ]
+    },
+    {
+      "id": "27995",
+      "name": "國家圖書館單位決算",
+      "format": "zip",
+      "urls": [
+        "https://nclfile.ncl.edu.tw/files/202210/50f4b6e8-9c9e-484e-8b89-42fd6da6d585.zip",
+        "https://nclfile.ncl.edu.tw/files/202302/263ec68f-31de-4de3-9591-a815b70d693c.zip",
+        "https://nclfile.ncl.edu.tw/files/202402/1cb88773-6bf6-479f-aa6d-ef126d1ca5dc.zip",
+        "https://nclfile.ncl.edu.tw/files/202509/d6784ce8-3500-4ccc-be5d-252d267dc9c4.zip"
+      ]
+    },
+    {
+      "id": "20477",
+      "name": "國家圖書館會計月報",
+      "format": "zip",
+      "urls": [
+        "https://nclfile.ncl.edu.tw/files/202403/5b62b648-f2c0-432a-87d8-2e0b01c961f7.zip",
+        "https://nclfile.ncl.edu.tw/files/202402/78332f9a-51a3-4840-96a9-37b614efc90b.zip",
+        "https://nclfile.ncl.edu.tw/files/202404/a974dede-efda-47ba-a598-ac114b9cb46b.zip",
+        "https://nclfile.ncl.edu.tw/files/202405/ee10ca12-e4a1-450c-8700-75370e2f7fef.zip",
+        "https://nclfile.ncl.edu.tw/files/202406/143df54b-65d5-4f01-b29a-f65acd53f5e0.zip",
+        "https://nclfile.ncl.edu.tw/files/202407/3c417ef5-d919-4ef4-a349-a8839daf4fa1.zip",
+        "https://nclfile.ncl.edu.tw/files/202408/25a777e6-883f-4253-9cc4-77b7f0af4a66.zip",
+        "https://nclfile.ncl.edu.tw/files/202409/da32c255-19ab-4848-9f41-7821d7fe1c11.zip",
+        "https://nclfile.ncl.edu.tw/files/202410/09af366b-485b-4828-8c3f-fd1872e1154e.zip",
+        "https://nclfile.ncl.edu.tw/files/202411/1df0f47c-a0cb-4933-b9b3-c01ea430dd45.zip",
+        "https://nclfile.ncl.edu.tw/files/202412/f9ae74e5-c8f9-4170-b167-26b973529833.zip",
+        "https://nclfile.ncl.edu.tw/files/202501/df81f41c-b8b6-474a-b422-a9e9e2ed5584.zip",
+        "https://nclfile.ncl.edu.tw/files/202502/483f3a11-83b1-44f5-9ea7-639f440e86b2.zip",
+        "https://nclfile.ncl.edu.tw/files/202503/5a458f22-6a5b-4624-92ef-72881e0375c3.zip",
+        "https://nclfile.ncl.edu.tw/files/202504/1a1339f2-aa95-4d79-a6e5-44cbfc0697ec.zip",
+        "https://nclfile.ncl.edu.tw/files/202505/69819a4b-c908-4823-92ab-a54524971b66.zip",
+        "https://nclfile.ncl.edu.tw/files/202506/7ef5febd-2c23-458b-858b-4c04a8f177ac.zip",
+        "https://nclfile.ncl.edu.tw/files/202508/e6975747-2fcf-4eb2-a308-c365d3c9d04b.zip",
+        "https://nclfile.ncl.edu.tw/files/202508/65688ae6-99a1-4cb7-a0b9-03ec297bcde2.zip",
+        "https://nclfile.ncl.edu.tw/files/202509/71356d25-a589-481b-9339-a0546b907401.zip",
+        "https://nclfile.ncl.edu.tw/files/202510/8adf8d5a-7008-4f2f-8e2e-637eef3b1de4.zip",
+        "https://nclfile.ncl.edu.tw/files/202511/7f528dfc-0fa4-4039-82f8-9f65363e9d6a.zip",
+        "https://nclfile.ncl.edu.tw/files/202512/4a75565f-65b7-4be1-840a-b27bba1ce4dd.zip"
+      ]
+    },
+    {
+      "id": "14024",
+      "name": "國家圖書館臺灣博碩士論文知識加值系統",
+      "format": "csv",
+      "urls": [
+        "https://ndltd.ncl.edu.tw/opendata/102ndltd.csv",
+        "https://ndltd.ncl.edu.tw/opendata/103ndltd.csv",
+        "https://ndltd.ncl.edu.tw/opendata/104ndltd.csv",
+        "https://ndltd.ncl.edu.tw/opendata/105ndltd.csv",
+        "https://ndltd.ncl.edu.tw/opendata/106ndltd.csv",
+        "https://ndltd.ncl.edu.tw/opendata/107ndltd.csv",
+        "https://ndltd.ncl.edu.tw/opendata/108ndltd.csv",
+        "https://ndltd.ncl.edu.tw/opendata/109ndltd.csv",
+        "https://ndltd.ncl.edu.tw/opendata/110ndltd.csv",
+        "https://ndltd.ncl.edu.tw/opendata/111ndltd.csv",
+        "https://ndltd.ncl.edu.tw/opendata/112ndltd.csv"
+      ]
+    },
+    {
+      "id": "16384",
+      "name": "外文期刊漢學論著目次",
+      "format": "csv",
+      "urls": [
+        "https://ccs.ncl.edu.tw/opendata/foreignhan.csv"
+      ]
+    },
+    {
+      "id": "37636",
+      "name": "臺灣近十年出版中文工具書選介主題資料庫",
+      "format": "csv",
+      "urls": [
+        "https://ref.ncl.edu.tw/images/opendata/refbook.csv"
+      ]
+    },
+    {
+      "id": "6730",
+      "name": "臺灣出版新書預告書訊",
+      "format": "csv",
+      "urls": [
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202501_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202502_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202503_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202504_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202505_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202506_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202507_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202508_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202509_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202510_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202511_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202512_isbn.csv",
+        "https://isbn.ncl.edu.tw/NEW_ISBNNet/opendata/202601_isbn.csv"
+      ]
+    },
+    {
+      "id": "7502",
+      "name": "全國圖書書目資訊網(NBINet)",
+      "format": "csv",
+      "urls": [
+        "https://nbiod.ncl.edu.tw/opendata/nbidata_114Q4.csv"
+      ]
+    },
+    {
+      "id": "8178",
+      "name": "國家圖書館政府公報資料",
+      "format": "xml",
+      "urls": [
+        "https://gaz.ncl.edu.tw/opendata/gov.xml",
+        "https://gaz.ncl.edu.tw/opendata/xml.zip"
+      ]
+    },
+    {
+      "id": "8305",
+      "name": "國家圖書館出版品目錄",
+      "format": "csv",
+      "urls": [
+        "https://guide.ncl.edu.tw/opendata/NCLpublication.csv"
+      ]
+    },
+    {
+      "id": "8306",
+      "name": "圖書館名錄",
+      "format": "csv",
+      "urls": [
+        "https://guide.ncl.edu.tw/opendata/library_list.csv"
+      ]
+    },
+    {
+      "id": "22094",
+      "name": "臺灣戲劇與美術文獻資料書目",
+      "format": "csv",
+      "urls": [
+        "https://ref.ncl.edu.tw/images/opendata/drama_7765.csv"
+      ]
+    },
+    {
+      "id": "16667",
+      "name": "經學研究論著目錄",
+      "format": "csv",
+      "urls": [
+        "https://ccs.ncl.edu.tw/opendata/gingbook.csv"
+      ]
+    },
+    {
+      "id": "27311",
+      "name": "國家圖書館館藏書目資訊",
+      "format": "csv",
+      "urls": [
+        "https://ecard.ncl.edu.tw/ncl-aleph.csv"
+      ]
+    },
+    {
+      "id": "32857",
+      "name": "遠距學園課程名稱",
+      "format": "csv",
+      "urls": [
+        "https://guide.ncl.edu.tw/opendata/NCLcourse.csv"
+      ]
+    }
+  ]
+}

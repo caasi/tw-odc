@@ -1,0 +1,63 @@
+{
+  "type": "dataset",
+  "provider": "行政院主計總處",
+  "slug": "dgbas_gov_tw_fcf21dac",
+  "datasets": [
+    {
+      "id": "31001",
+      "name": "國內生產毛額統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.dgbas.gov.tw/uploadfiles/opendata/gdp_statistics.csv"
+      ]
+    },
+    {
+      "id": "31002",
+      "name": "物價指數統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.dgbas.gov.tw/uploadfiles/opendata/price_index_statistics.csv"
+      ]
+    },
+    {
+      "id": "31003",
+      "name": "工業及服務業普查資料",
+      "format": "csv",
+      "urls": [
+        "https://www.dgbas.gov.tw/uploadfiles/opendata/industry_services_census.csv"
+      ]
+    },
+    {
+      "id": "31004",
+      "name": "家庭收支調查資料",
+      "format": "csv",
+      "urls": [
+        "https://www.dgbas.gov.tw/uploadfiles/opendata/household_income_expenditure.csv"
+      ]
+    },
+    {
+      "id": "31005",
+      "name": "政府財政統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.dgbas.gov.tw/uploadfiles/opendata/government_finance_statistics.csv"
+      ]
+    },
+    {
+      "id": "31006",
+      "name": "中華民國統計資訊網資料",
+      "format": "csv",
+      "urls": [
+        "https://www.dgbas.gov.tw/uploadfiles/opendata/national_statistics.csv"
+      ]
+    },
+    {
+      "id": "31007",
+      "name": "人口及住宅普查資料",
+      "format": "csv",
+      "urls": [
+        "https://www.dgbas.gov.tw/uploadfiles/opendata/population_housing_census.csv"
+      ]
+    }
+  ]
+}

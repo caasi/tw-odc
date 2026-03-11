@@ -1,0 +1,47 @@
+{
+  "type": "dataset",
+  "provider": "行政院人事行政總處",
+  "slug": "dgpa_gov_tw_8219fb6b",
+  "datasets": [
+    {
+      "id": "38001",
+      "name": "政府機關人事統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.dgpa.gov.tw/uploadfiles/opendata/government_personnel_statistics.csv"
+      ]
+    },
+    {
+      "id": "38002",
+      "name": "公務人員退休統計",
+      "format": "csv",
+      "urls": [
+        "https://www.dgpa.gov.tw/uploadfiles/opendata/civil_servant_retirement_statistics.csv"
+      ]
+    },
+    {
+      "id": "38003",
+      "name": "公務人員俸給統計",
+      "format": "csv",
+      "urls": [
+        "https://www.dgpa.gov.tw/uploadfiles/opendata/civil_servant_salary_statistics.csv"
+      ]
+    },
+    {
+      "id": "38004",
+      "name": "公務人員訓練統計",
+      "format": "csv",
+      "urls": [
+        "https://www.dgpa.gov.tw/uploadfiles/opendata/civil_servant_training_statistics.csv"
+      ]
+    },
+    {
+      "id": "38005",
+      "name": "各機關員額統計",
+      "format": "csv",
+      "urls": [
+        "https://www.dgpa.gov.tw/uploadfiles/opendata/agency_headcount_statistics.csv"
+      ]
+    }
+  ]
+}

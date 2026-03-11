@@ -1,0 +1,2612 @@
+{
+  "type": "dataset",
+  "provider": "中央銀行",
+  "slug": "cbc_gov_tw_d9d479f8",
+  "datasets": [
+    {
+      "id": "23851",
+      "name": "金融健全參考指標－本國銀行",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/financialstability/FSI-本國銀行.csv"
+      ]
+    },
+    {
+      "id": "23854",
+      "name": "金融健全參考指標－不動產市場",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/financialstability/FSI-不動產市場.csv"
+      ]
+    },
+    {
+      "id": "24311",
+      "name": "全國繳費網(e-Bill)受理繳費項目一覽",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/Comm3_eBill.csv"
+      ]
+    },
+    {
+      "id": "24354",
+      "name": "「金融卡-金融機構屬性(本國銀行/外商銀行/合作社/農會)」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A9_Bank_M.csv"
+      ]
+    },
+    {
+      "id": "24358",
+      "name": "「外幣結算平台-交易值」統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/T2_Value_M.csv"
+      ]
+    },
+    {
+      "id": "24359",
+      "name": "「外幣結算平台-交易時間帶分佈」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/T4_Time_M.csv"
+      ]
+    },
+    {
+      "id": "24363",
+      "name": "「國際卡在台提款-交易值」統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/C3_Value_M.csv"
+      ]
+    },
+    {
+      "id": "24368",
+      "name": "「國際卡在台提款-ATM台數縣市分佈」統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/C13_City_CNT.csv"
+      ]
+    },
+    {
+      "id": "24344",
+      "name": "「跨行通匯-交易時間帶分佈」結構比統計",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/R5_Time_M.csv"
+      ]
+    },
+    {
+      "id": "24348",
+      "name": "「跨行通匯-交易縣市分佈」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/R11_City_M.csv"
+      ]
+    },
+    {
+      "id": "25477",
+      "name": "金融機構使用本行日間透支系統交易量(總數)統計",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/金融機構使用本行日間透支系統交易量(總數)統計/RTGSmonthly.csv"
+      ]
+    },
+    {
+      "id": "9737",
+      "name": "清算銀行及經辦行名單",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-1臺銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-2台北富邦.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-3土銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-4合庫.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-5玉山.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-6永豐.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-7一銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-8華銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-9彰銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-10兆豐.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-11上海.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-12花旗台灣.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-13國泰世華.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-14新光.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-15台企.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-16中信銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/9-17中華郵政.csv"
+      ]
+    },
+    {
+      "id": "6026",
+      "name": "每季新臺幣發行數額及準備狀況",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/發行局/WebF5.csv"
+      ]
+    },
+    {
+      "id": "6431",
+      "name": "火焚、污破損新臺幣券幣鑑定暨兌換作業",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/發行局/Identify.csv"
+      ]
+    },
+    {
+      "id": "6432",
+      "name": "國際投資部位統計",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPA4Y01.csv"
+      ]
+    },
+    {
+      "id": "6534",
+      "name": "全體貨幣機構存款",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF03M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF03Y01.csv"
+      ]
+    },
+    {
+      "id": "6537",
+      "name": "全體貨幣機構資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF35M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF35Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF37M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF37Y01.csv"
+      ]
+    },
+    {
+      "id": "6538",
+      "name": "全體金融機構資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF39M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF39Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF41M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF41Y01.csv"
+      ]
+    },
+    {
+      "id": "6539",
+      "name": "本國銀行資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF43M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF43Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF45M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF45Y01.csv"
+      ]
+    },
+    {
+      "id": "6546",
+      "name": "全體銀行放款餘額統計表（借戶行業別）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI87M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI87Y01.csv"
+      ]
+    },
+    {
+      "id": "6550",
+      "name": "存放款加權平均利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG39Q01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG39Y01.csv"
+      ]
+    },
+    {
+      "id": "6554",
+      "name": "國際收支統計-經常帳-初次所得",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPD2Q01.csv"
+      ]
+    },
+    {
+      "id": "6556",
+      "name": "國際收支統計-資本帳",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPF2Q01.csv"
+      ]
+    },
+    {
+      "id": "6557",
+      "name": "國際收支統計-金融帳",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPI2Q01.csv"
+      ]
+    },
+    {
+      "id": "6559",
+      "name": "國際收支統計-金融帳-證券投資",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPK2Q01.csv"
+      ]
+    },
+    {
+      "id": "6996",
+      "name": "國際收支統計-經常帳",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPA2Q01.csv"
+      ]
+    },
+    {
+      "id": "7237",
+      "name": "金融性資產負債餘額表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/FOF/FL02_cn.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/FOF/FL02_en.csv"
+      ]
+    },
+    {
+      "id": "7231",
+      "name": "中央銀行同業資金調撥清算作業系統交易量",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/業務局/支清科/CBC_CIFS.csv"
+      ]
+    },
+    {
+      "id": "7242",
+      "name": "中央銀行公開市場操作資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/業務局/xl/XOpen1.csv"
+      ]
+    },
+    {
+      "id": "13408",
+      "name": "中央印製廠預算報表",
+      "format": "zip",
+      "urls": [
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/104年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/105年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/106年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/107年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/108年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/109年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/110年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/111年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/112年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/113年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/114年度預算_立法院審定數_.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/預算報表/115年度預算_行政院核定數_.zip"
+      ]
+    },
+    {
+      "id": "13669",
+      "name": "銀行衍生性金融商品交易量幣別及銀行類別內容分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/金檢處/銀行衍生性金融商品交易量幣別及銀行類別內容分析表.csv"
+      ]
+    },
+    {
+      "id": "13671",
+      "name": "銀行衍生性金融商品名目本金餘額內容分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/銀行衍生性金融商品名目本金餘額內容分析表.csv"
+      ]
+    },
+    {
+      "id": "13678",
+      "name": "各縣市票據交換單位統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twnch.org.tw/banklist/publicinfo/doc/47/47.csv"
+      ]
+    },
+    {
+      "id": "13680",
+      "name": "個別金融機構牌告存放款利率",
+      "format": "zip",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/銀行存放款牌告利率歷史資料/histrate.zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/106Rate.zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/107Rate.zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/108Rate.zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/109Rate.zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/110Rate.zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/111Rate.zip"
+      ]
+    },
+    {
+      "id": "13658",
+      "name": "本國銀行資本適足比率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行資本適足比率統計表.csv"
+      ]
+    },
+    {
+      "id": "13661",
+      "name": "本國銀行權益報酬率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行權益報酬率統計表.CSV"
+      ]
+    },
+    {
+      "id": "13664",
+      "name": "各本國銀行資產負債表-國際金融業務分行",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/各本國銀行資產負債表-國際金融業務分行.csv"
+      ]
+    },
+    {
+      "id": "13665",
+      "name": "各本國銀行資產負債表-國外分行",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/各本國銀行資產負債表-國外分支機構.csv"
+      ]
+    },
+    {
+      "id": "13641",
+      "name": "新臺幣硬幣發行年度版別一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/發行局/coins_107.csv"
+      ]
+    },
+    {
+      "id": "13643",
+      "name": "各類貨幣機構存款與放款市場占有率(年報)",
+      "format": "xml",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/各類貨幣機構存款與放款市場占有率(年報).xml"
+      ]
+    },
+    {
+      "id": "13644",
+      "name": "短期票券之發行及餘額(年報)",
+      "format": "xml",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/短期票券之發行及餘額(年報).xml"
+      ]
+    },
+    {
+      "id": "13646",
+      "name": "貨幣機構各類存款比重(年報)",
+      "format": "xml",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/貨幣機構各類存款比重(年報).xml"
+      ]
+    },
+    {
+      "id": "13682",
+      "name": "跨行通匯業務參加金融機構一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/R1_MEMBER.csv"
+      ]
+    },
+    {
+      "id": "13683",
+      "name": "外幣結算平台業務(美元/人民幣/日圓/歐元/澳幣)參加金融機構一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/T1_MEMBER.csv"
+      ]
+    },
+    {
+      "id": "10782",
+      "name": "中央存款保險公司資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG03M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG03Y01.csv"
+      ]
+    },
+    {
+      "id": "10783",
+      "name": "中央銀行利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG28D01.csv"
+      ]
+    },
+    {
+      "id": "10785",
+      "name": "主要支付系統",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG77M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG77Y01.csv"
+      ]
+    },
+    {
+      "id": "10786",
+      "name": "出進口外匯收支",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG46M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG46Y01.csv"
+      ]
+    },
+    {
+      "id": "10797",
+      "name": "即期匯率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG52M01.csv"
+      ]
+    },
+    {
+      "id": "10805",
+      "name": "股票市場統計-信用交易",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG25M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG25Y01.csv"
+      ]
+    },
+    {
+      "id": "10808",
+      "name": "金融業拆款利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG37D01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG37M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG37Y01.csv"
+      ]
+    },
+    {
+      "id": "10809",
+      "name": "金融業拆款統計表-拆款金額期限別",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG11D01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG11M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG11Y01.csv"
+      ]
+    },
+    {
+      "id": "10810",
+      "name": "金融業拆款統計表-拆款金額機構別",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG13D01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG13M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG13Y01.csv"
+      ]
+    },
+    {
+      "id": "10811",
+      "name": "金融業拆款統計表-拆款餘額期限別",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG15D01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG15M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG15Y01.csv"
+      ]
+    },
+    {
+      "id": "10757",
+      "name": "其他貨幣機構資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF27M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF27Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF29M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF29Y01.csv"
+      ]
+    },
+    {
+      "id": "10763",
+      "name": "中華郵政公司儲匯處資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF63M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF63Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF64M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF64Y01.csv"
+      ]
+    },
+    {
+      "id": "10725",
+      "name": "各國發布金融穩定報告現況",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/financialstability/全球經濟體發布金融穩定報告現況.csv"
+      ]
+    },
+    {
+      "id": "10727",
+      "name": "各本國銀行資產負債表(全行) ",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行資產負債表(全行).csv"
+      ]
+    },
+    {
+      "id": "10731",
+      "name": "各本國銀行保證內容分析 ",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行保證內容分析.csv"
+      ]
+    },
+    {
+      "id": "10741",
+      "name": "代辦國庫事務金融機構名單",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/Data/OpenData/國庫局/國庫收支科/open2.csv"
+      ]
+    },
+    {
+      "id": "10743",
+      "name": "國庫機關專戶存款牌告利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/TD/國庫機關專戶牌告利率.csv"
+      ]
+    },
+    {
+      "id": "10753",
+      "name": "各類金融機構家數",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF09M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF09Y01.csv"
+      ]
+    },
+    {
+      "id": "9464",
+      "name": "金融機構牌告存放款利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/Rate.csv"
+      ]
+    },
+    {
+      "id": "9466",
+      "name": "中央公債得標行業分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB02.csv"
+      ]
+    },
+    {
+      "id": "9468",
+      "name": "中央登錄公債登記分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB04.csv"
+      ]
+    },
+    {
+      "id": "9471",
+      "name": "國庫券之發行、償還及未償還餘額表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB07.csv"
+      ]
+    },
+    {
+      "id": "9474",
+      "name": "銀行辦理人民幣業務概況",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/BANK_RMB_BUSINESS.csv"
+      ]
+    },
+    {
+      "id": "9475",
+      "name": "金融健全參考指標",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/financialstability/FSI-全體.csv"
+      ]
+    },
+    {
+      "id": "10824",
+      "name": "國際金融業務分行主要資產負債期限分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGC7Q01.csv"
+      ]
+    },
+    {
+      "id": "10825",
+      "name": "國際金融業務分行資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGA7M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGA7Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGB7M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGB7Y01.csv"
+      ]
+    },
+    {
+      "id": "10829",
+      "name": "票券市場統計-發行、償還及餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG21M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG21Y01.csv"
+      ]
+    },
+    {
+      "id": "10831",
+      "name": "票據交換及存款不足退票數額",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF70M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF70Y01.csv"
+      ]
+    },
+    {
+      "id": "10834",
+      "name": "間接金融年增率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG73M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG73Y01.csv"
+      ]
+    },
+    {
+      "id": "10835",
+      "name": "債券市場統計-政府公債之發行、償還及餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGA4M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGA4Y01.csv"
+      ]
+    },
+    {
+      "id": "10844",
+      "name": "銀行衍生性金融商品交易量統計彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/銀行衍生性金融商品交易量統計彙總表.csv"
+      ]
+    },
+    {
+      "id": "10851",
+      "name": "證券金融公司資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGA9M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGA9Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGB9M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGB9Y01.csv"
+      ]
+    },
+    {
+      "id": "10812",
+      "name": "金融業拆款統計表-拆款餘額機構別",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG16D01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG16M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG16Y01.csv"
+      ]
+    },
+    {
+      "id": "10816",
+      "name": "信用卡及金融機構自動櫃員機業務統計",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG02M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG02Y01.csv"
+      ]
+    },
+    {
+      "id": "10819",
+      "name": "中央銀行書面之公共工程及採購契約",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/Secretariat/011/list.csv"
+      ]
+    },
+    {
+      "id": "18434",
+      "name": "中央銀行資料開放諮詢小組會議紀錄",
+      "format": "json",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/資訊處/中央銀行資料開放諮詢小組會議紀錄.json"
+      ]
+    },
+    {
+      "id": "18805",
+      "name": "中央銀行會計報表",
+      "format": "zip",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行會計報表/中央銀行會計報表.zip"
+      ]
+    },
+    {
+      "id": "80795",
+      "name": "出進口外匯收支統計─歐洲地區主要國家",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData009.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData010.csv"
+      ]
+    },
+    {
+      "id": "80799",
+      "name": "出進口外匯收支統計─付款方式",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData022.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData023.csv"
+      ]
+    },
+    {
+      "id": "81393",
+      "name": "國際金融業務分行家數及財務狀況（Number and Financial Conditions of OBUs）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/國際金融業務分行家數及財務狀況.csv"
+      ]
+    },
+    {
+      "id": "175490",
+      "name": "全球金融危機專輯",
+      "format": "pdf",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/全球金融危機專輯(增訂版).pdf"
+      ]
+    },
+    {
+      "id": "170729",
+      "name": "中央銀行雙語詞彙",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/資訊處/glossary.csv"
+      ]
+    },
+    {
+      "id": "9476",
+      "name": "新聞稿",
+      "format": "xml",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/秘書處/press.xml"
+      ]
+    },
+    {
+      "id": "9465",
+      "name": "中央公債之發行、償還及未償還餘額表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB01.csv"
+      ]
+    },
+    {
+      "id": "9467",
+      "name": "中央公債持有對象分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB03.csv"
+      ]
+    },
+    {
+      "id": "9469",
+      "name": "中央登錄公債交易彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB05.csv"
+      ]
+    },
+    {
+      "id": "9473",
+      "name": "中央公債交易商名單",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB10.csv"
+      ]
+    },
+    {
+      "id": "13461",
+      "name": "中央造幣廠預算報表",
+      "format": "zip",
+      "urls": [
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/104年度預算(立法院審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/105年度預算(立法院審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/106年度預算(立法院審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/107年度預算(立法院審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/108年度預算(立法院審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/109年度預算(立法院審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/110年度預算(立法院審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/111年度預算(立法院審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/112年度預算(立法院審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/113年度預算(立法院審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/114年度預算(行政院核定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/115年度預算(行政院核定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Budget/114年度預算(立法院審定數).zip"
+      ]
+    },
+    {
+      "id": "13647",
+      "name": "貨幣機構資金來源與用途(年報)",
+      "format": "xml",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/貨幣機構資金來源與用途(年報).xml"
+      ]
+    },
+    {
+      "id": "13649",
+      "name": "實體公債還本付息業務承轉行及其經辦行名單",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-1台銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-2富邦.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-3土銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-4合庫.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-5高雄銀行.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-6一銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-7華銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-8彰銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-9兆豐.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-10上海商銀.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-11國泰世華.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-12臺企.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-13中信託.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/13-14中華郵政.csv"
+      ]
+    },
+    {
+      "id": "13650",
+      "name": "國庫機關專戶存款牌告利率表（97年迄今）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/TD/國庫機關專戶存款牌告利率表（97年迄今）.csv"
+      ]
+    },
+    {
+      "id": "13652",
+      "name": "金融機構總分支單位統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/金融機構總分支單位統計表.csv"
+      ]
+    },
+    {
+      "id": "13653",
+      "name": "各縣市金融機構分布情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/各縣市金融機構分布情形統計表.csv"
+      ]
+    },
+    {
+      "id": "13656",
+      "name": "辦理外匯業務金融機構分支單位統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/opendata/金檢處/辦理外匯業務金融機構分支單位統計表.csv"
+      ]
+    },
+    {
+      "id": "13657",
+      "name": "辦理國庫及公債業務金融機構及證券商單位統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/opendata/金檢處/辦理國庫及公債業務金融機構及證券商單位統計表.csv"
+      ]
+    },
+    {
+      "id": "13662",
+      "name": "本國銀行員工貢獻度統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行員工貢獻度統計表.csv"
+      ]
+    },
+    {
+      "id": "13667",
+      "name": "各本國銀行綜合損益表-國外分行",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/各本國銀行綜合損益表-國外分支機構.csv"
+      ]
+    },
+    {
+      "id": "13670",
+      "name": "銀行衍生性金融商品名目本金總餘額及利匯率有關契約餘額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/銀行衍生性金融商品利匯率有關契約餘額統計表.csv"
+      ]
+    },
+    {
+      "id": "13674",
+      "name": "拒絕往來戶戶數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twnch.org.tw/banklist/publicinfo/doc/43/43.csv"
+      ]
+    },
+    {
+      "id": "13675",
+      "name": "其他理由退票統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twnch.org.tw/banklist/publicinfo/doc/44/44.csv"
+      ]
+    },
+    {
+      "id": "6995",
+      "name": "每日通貨發行數",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/發行局/WebF4.csv"
+      ]
+    },
+    {
+      "id": "7232",
+      "name": "銀行間市場新臺幣對美元收盤匯率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData015.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData016.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData017.csv"
+      ]
+    },
+    {
+      "id": "7233",
+      "name": "出進口外匯收支統計概況",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData018.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData019.csv"
+      ]
+    },
+    {
+      "id": "7238",
+      "name": "全體公營事業資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/FOF/pu.csv"
+      ]
+    },
+    {
+      "id": "7240",
+      "name": "民營企業資產負債統計表(按各業大類別)",
+      "format": "zip",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/FOF/PR_by_Industries.zip"
+      ]
+    },
+    {
+      "id": "7243",
+      "name": "中央銀行標售定期存單資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/業務局/xl/XOpen3.csv"
+      ]
+    },
+    {
+      "id": "7234",
+      "name": "中央公債標售概況表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/Bond-Auction-Results.csv"
+      ]
+    },
+    {
+      "id": "7235",
+      "name": "國庫券標售概況表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/Bill-Auction-Results.csv"
+      ]
+    },
+    {
+      "id": "10356",
+      "name": "向立法院業務及專題報告",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/秘書處/report.csv"
+      ]
+    },
+    {
+      "id": "10728",
+      "name": "各本國銀行資產負債表(國際金融業務分行及國外分行) ",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行資產負債表(國際金融業務分行及國外分行).csv"
+      ]
+    },
+    {
+      "id": "10729",
+      "name": "各本國銀行綜合損益表(全行) ",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行綜合損益表(全行).csv"
+      ]
+    },
+    {
+      "id": "10733",
+      "name": "主要財務及營運比率 ",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/主要財務及營運比率.csv"
+      ]
+    },
+    {
+      "id": "10734",
+      "name": "本國銀行營運績效季報編輯說明 ",
+      "format": "json",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/金檢處/本國銀行營運績效季報編輯說明.json"
+      ]
+    },
+    {
+      "id": "10746",
+      "name": "重要金融指標",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF03M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF03Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EFA4M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EFA4Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF01M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF01Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF05M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF05Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF07M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF07Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EFA1M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EFA1Y01.csv"
+      ]
+    },
+    {
+      "id": "10748",
+      "name": "金融機構放款與投資及金融市場票債券發行餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/LOAN-S.csv"
+      ]
+    },
+    {
+      "id": "10749",
+      "name": "證券劃撥存款",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/證券劃撥上網資料.csv"
+      ]
+    },
+    {
+      "id": "10751",
+      "name": "當月金融情況",
+      "format": "xml",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/EBOOKXLS/_VII.xml"
+      ]
+    },
+    {
+      "id": "10755",
+      "name": "貨幣總計數M1B變動因素分析",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF19M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF19Y01.csv"
+      ]
+    },
+    {
+      "id": "10756",
+      "name": "貨幣總計數M2變動因素分析",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF21M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF21Y01.csv"
+      ]
+    },
+    {
+      "id": "10780",
+      "name": "本國銀行存款借記總額及回轉次數",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF69M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF69Y01.csv"
+      ]
+    },
+    {
+      "id": "10784",
+      "name": "日平均外匯交易量與外匯淨部位",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG47M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG47Y01.csv"
+      ]
+    },
+    {
+      "id": "10787",
+      "name": "台北外幣拆放市場交易量",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG49D01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG49M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG49Y01.csv"
+      ]
+    },
+    {
+      "id": "10793",
+      "name": "全體貨幣機構放款與投資-以公平價值衡量",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG75M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG75Y01.csv"
+      ]
+    },
+    {
+      "id": "10795",
+      "name": "存款、其他各種負債及信託資金準備率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF71D01.csv"
+      ]
+    },
+    {
+      "id": "10837",
+      "name": "債券市場統計-債券交易金額",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG23M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG23Y01.csv"
+      ]
+    },
+    {
+      "id": "10845",
+      "name": "銀行衍生性金融商品名目本金餘額統計明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/銀行衍生性金融商品名目本金餘額統計明細表.csv"
+      ]
+    },
+    {
+      "id": "10826",
+      "name": "產物保險公司資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG05M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG05Y01.csv"
+      ]
+    },
+    {
+      "id": "10827",
+      "name": "票券市場統計-交易金額工具別",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG17M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG17Y01.csv"
+      ]
+    },
+    {
+      "id": "10817",
+      "name": "美元兌新臺幣遠期匯率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG55D01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG55M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG55Y01.csv"
+      ]
+    },
+    {
+      "id": "10804",
+      "name": "股票市場統計-股票交易與股價指數",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG27M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG27Y01.csv"
+      ]
+    },
+    {
+      "id": "11051",
+      "name": "銀行衍生性金融商品交易量統計",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/銀行衍生性金融商品交易量統計表.csv"
+      ]
+    },
+    {
+      "id": "6551",
+      "name": "五大銀行新承做放款金額與利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EH45M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EH45Y01.csv"
+      ]
+    },
+    {
+      "id": "6560",
+      "name": "國際收支統計-金融帳-衍生金融商品",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPL2Q01.csv"
+      ]
+    },
+    {
+      "id": "6561",
+      "name": "國際收支統計-金融帳-其他投資",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPM2Q01.csv"
+      ]
+    },
+    {
+      "id": "6562",
+      "name": "國際收支統計-準備資產",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPN2Q01.csv"
+      ]
+    },
+    {
+      "id": "6535",
+      "name": "全體貨幣機構放款與投資(以原始取得成本衡量)",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EFA4M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EFA4Y01.csv"
+      ]
+    },
+    {
+      "id": "6541",
+      "name": "全體銀行存款餘額統計表（科目別）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI75M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI75Y01.csv"
+      ]
+    },
+    {
+      "id": "6544",
+      "name": "全體銀行放款餘額統計表（科目別）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI85M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI85Y01.csv"
+      ]
+    },
+    {
+      "id": "6545",
+      "name": "全體銀行放款餘額統計表（借戶部門別）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI86M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI86Y01.csv"
+      ]
+    },
+    {
+      "id": "6548",
+      "name": "全體銀行放款餘額統計表（期限別）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI98M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI98Y01.csv"
+      ]
+    },
+    {
+      "id": "13761",
+      "name": "中央公債還本付息概況表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB11.CSV"
+      ]
+    },
+    {
+      "id": "22133",
+      "name": "警政單位偵破偽造新臺幣鈔券/硬幣案件獎金發給標準",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/發行局/Detection_NTD_1.csv",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/發行局/Detection_NTD_2.csv"
+      ]
+    },
+    {
+      "id": "80587",
+      "name": "台北外匯市場交易概況",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/Fx04OpenData001.csv"
+      ]
+    },
+    {
+      "id": "80792",
+      "name": "出進口外匯收支統計─東協除外之亞洲主要國家",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData003.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData004.csv"
+      ]
+    },
+    {
+      "id": "80796",
+      "name": "出進口外匯收支統計─大洋洲地區主要國家",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData011.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData012.csv"
+      ]
+    },
+    {
+      "id": "80797",
+      "name": "出進口外匯收支統計─中東地區主要國家",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData013.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData014.csv"
+      ]
+    },
+    {
+      "id": "80798",
+      "name": "出進口外匯收支統計─主要幣別",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData020.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData021.csv"
+      ]
+    },
+    {
+      "id": "81030",
+      "name": "出進口外匯收支統計─主要地區別",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData001.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData002.csv"
+      ]
+    },
+    {
+      "id": "28482",
+      "name": "中央銀行資料開放行動方案",
+      "format": "json",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/資訊處/中央銀行資料開放行動方案.json"
+      ]
+    },
+    {
+      "id": "13677",
+      "name": "各縣市交換票據張數、金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twnch.org.tw/banklist/publicinfo/doc/46/46.csv"
+      ]
+    },
+    {
+      "id": "13679",
+      "name": "掛失止付票據張數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twnch.org.tw/banklist/publicinfo/doc/48/48.csv"
+      ]
+    },
+    {
+      "id": "13684",
+      "name": "跨行自動化服務機器業務(金融卡)參加金融機構一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A1_MEMBER.csv"
+      ]
+    },
+    {
+      "id": "13642",
+      "name": "各類貨幣機構家數(年報)",
+      "format": "xml",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/各類貨幣機構家數(年報).xml"
+      ]
+    },
+    {
+      "id": "13645",
+      "name": "金融業拆款市場交易結構─按機構別(年報)",
+      "format": "xml",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/金融業拆款市場交易結構─按機構別(年報).xml"
+      ]
+    },
+    {
+      "id": "23852",
+      "name": "金融健全參考指標－企業部門",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/financialstability/FSI-企業部門.csv"
+      ]
+    },
+    {
+      "id": "23855",
+      "name": "金融健全參考指標－市場流動性",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/financialstability/FSI-市場流動性.csv"
+      ]
+    },
+    {
+      "id": "23950",
+      "name": "中央銀行(含中央造幣廠、中央印製廠)對民間團體及個人補(捐)助經費彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/會計處/中央銀行對民間團體及個人補(捐)助經費彙總表.csv"
+      ]
+    },
+    {
+      "id": "23952",
+      "name": "中央銀行媒體政策及業務宣導執行情形表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/會計處/中央銀行媒體政策及業務宣導執行情形表.csv"
+      ]
+    },
+    {
+      "id": "24210",
+      "name": "全國繳稅網(Paytax)受理繳稅項目一覽",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/Comm2_Paytax.csv"
+      ]
+    },
+    {
+      "id": "24355",
+      "name": "「金融卡-交易區域分佈(北/中/南/東)」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A11_Area_M.csv"
+      ]
+    },
+    {
+      "id": "24356",
+      "name": "「金融卡-交易縣市分佈」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A13_City_M.csv"
+      ]
+    },
+    {
+      "id": "24357",
+      "name": "「金融卡-ATM台數縣市分佈」統計",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A15_City_CNT.csv"
+      ]
+    },
+    {
+      "id": "24360",
+      "name": "「外幣結算平台-金融機構屬性(本國銀行/外商銀行)」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/T6_Bank_M.csv"
+      ]
+    },
+    {
+      "id": "24365",
+      "name": "「國際卡在台提款-交易類別(餘額查詢/提款)」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/C7_Type_M.csv"
+      ]
+    },
+    {
+      "id": "24367",
+      "name": "「國際卡在台提款-交易縣市分佈」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/C11_City_M.csv"
+      ]
+    },
+    {
+      "id": "24343",
+      "name": "「跨行通匯-交易值」統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/R3_Value_M.csv"
+      ]
+    },
+    {
+      "id": "24346",
+      "name": "「跨行通匯-金融機構屬性(本國銀行/外商銀行/合作社/農會)」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/R7_Bank_M.csv"
+      ]
+    },
+    {
+      "id": "24350",
+      "name": "「金融卡-交易值」統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A3_Value_M.csv"
+      ]
+    },
+    {
+      "id": "24323",
+      "name": "「總分支機構位置」查詢一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/R2_Location.csv"
+      ]
+    },
+    {
+      "id": "24333",
+      "name": "金融機構ATM位置查詢一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A2_Location.csv"
+      ]
+    },
+    {
+      "id": "24757",
+      "name": "支票存款戶行業別統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twnch.org.tw/banklist/publicinfo/doc/49/49.csv"
+      ]
+    },
+    {
+      "id": "24758",
+      "name": "交換票據行業別統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twnch.org.tw/banklist/publicinfo/doc/50/50.csv"
+      ]
+    },
+    {
+      "id": "25136",
+      "name": "央行同資系統-清算業務別交易金額月統計",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/業務局/支清科/CBC_CIFS_Settle.csv"
+      ]
+    },
+    {
+      "id": "20470",
+      "name": "銀行存放央行準備金乙戶利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/業務局/存款科/Theinterestrateforreserves/Theinterestrateforreserves.csv"
+      ]
+    },
+    {
+      "id": "20848",
+      "name": "中央銀行委託調查及會費捐助表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/會計處/委託調查及會費捐助表.csv"
+      ]
+    },
+    {
+      "id": "20947",
+      "name": "中央銀行理監事聯席會議決議",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/秘書處/press_release.csv"
+      ]
+    },
+    {
+      "id": "18842",
+      "name": "中央印製廠會計報表",
+      "format": "zip",
+      "urls": [
+        "https://www.cepp.gov.tw/Uploads/FileShare/會計報表/中央印製廠會計報表.zip"
+      ]
+    },
+    {
+      "id": "31664",
+      "name": "券幣數位博物館典藏品資料",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/發行局/ICMF1.csv"
+      ]
+    },
+    {
+      "id": "132162",
+      "name": "金融健全參考指標 - 票券公司",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/financialstability/FSI-票券公司.csv"
+      ]
+    },
+    {
+      "id": "132163",
+      "name": "金融健全參考指標 - 壽險公司",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/financialstability/FSI-壽險公司.csv"
+      ]
+    },
+    {
+      "id": "170112",
+      "name": "生肖紀念銀幣",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/發行局/commemorative_coin.csv"
+      ]
+    },
+    {
+      "id": "175363",
+      "name": "中央銀行預算",
+      "format": "pdf",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/103年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/103年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/104年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/104年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/105年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/105年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/106年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/106年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/107年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/107年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/108年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/108年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/109年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/109年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/110年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/110年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/111年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/111年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/112年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/112年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/113年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/113年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/114年度預算(立法院審定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/114年度預算(立法院審定數)-中央銀行.pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/115年度預算(行政院核定數)-中央銀行(合併).pdf",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算/115年度預算(行政院核定數)-中央銀行.pdf"
+      ]
+    },
+    {
+      "id": "175364",
+      "name": "中央銀行決算",
+      "format": "pdf",
+      "urls": [
+        "https://www.cbc.gov.tw/tw/dl-110228-a120ce82c71246688c4251f0a17e802e.html",
+        "https://www.cbc.gov.tw/tw/dl-110227-f2119a341aaf4cc1aacdd389d3b0958e.html",
+        "https://www.cbc.gov.tw/tw/dl-110230-ffe9fa86398b48419d3a5eec7d75da6e.html",
+        "https://www.cbc.gov.tw/tw/dl-110229-85e198d7702a4a6e86924bdf859738b2.html",
+        "https://www.cbc.gov.tw/tw/dl-110232-ab91fedcea2a489d9b6b97957bf83a43.html",
+        "https://www.cbc.gov.tw/tw/dl-110231-13c9cc67c3f640189be82c0977f7e924.html",
+        "https://www.cbc.gov.tw/tw/dl-110235-9a0ead303894414cbd5fb918f86ce4ed.html",
+        "https://www.cbc.gov.tw/tw/dl-110233-e446c73ae9b041108fc6fd886a612706.html",
+        "https://www.cbc.gov.tw/tw/dl-109163-9fc322705750489b9dd97331d1d44039.html",
+        "https://www.cbc.gov.tw/tw/dl-109658-70582ee8e6214835b65a7b0fafc47a85.html",
+        "https://www.cbc.gov.tw/tw/dl-110065-d58a2e756f3c4a2594f0d2e42ec29d57.html",
+        "https://www.cbc.gov.tw/tw/dl-110157-34e7e8f10e404227bb3b932ab183382a.html",
+        "https://www.cbc.gov.tw/tw/dl-138344-d77f216b078b49f5924daec5211dbc34.html",
+        "https://www.cbc.gov.tw/tw/dl-138343-3d9475b142654104996f697d16274809.html",
+        "https://www.cbc.gov.tw/tw/dl-155741-33366e1a29b6455b8db8cfa45fb85364.html",
+        "https://www.cbc.gov.tw/tw/dl-155742-ee6a99cf97cd4d3b8ebc3f694d903786.html",
+        "https://www.cbc.gov.tw/tw/dl-173253-90e880e26c75442493d0645d513a467f.html",
+        "https://www.cbc.gov.tw/tw/dl-173254-197dd90d72a84cfabe4be1edeb4dba9d.html",
+        "https://www.cbc.gov.tw/tw/dl-191410-11b9d5c9b220449b8191e1081549c7e1.html",
+        "https://www.cbc.gov.tw/tw/dl-191409-1c474a803157486e85257ef63c91b2d7.html",
+        "https://www.cbc.gov.tw/tw/dl-197733-ea699be22efe41a89f47b6cd060f290d.html",
+        "https://www.cbc.gov.tw/tw/dl-197732-4d91f539c4c1473bba44a3a77380fd02.html",
+        "https://www.cbc.gov.tw/tw/dl-207642-7091d0cf3fe4474fa65e41832814c190.html",
+        "https://www.cbc.gov.tw/tw/dl-207641-4a66780825094f218575a81c318d73e8.html",
+        "https://www.cbc.gov.tw/tw/dl-216067-2fb5d2fba1ce4711a09489554c6c6aab.html",
+        "https://www.cbc.gov.tw/tw/dl-214624-0a2764907b6d45b9948c6746958b101c.html",
+        "https://www.cbc.gov.tw/tw/dl-217489-c448b6c541bb4c649e106e1a1af417d6.html",
+        "https://www.cbc.gov.tw/tw/dl-217488-a157a8242a994149a88af7a76f791d60.html",
+        "https://www.cbc.gov.tw/tw/dl-223894-6176ef2dc1834e07b8b2f8cce39c0210.html",
+        "https://www.cbc.gov.tw/tw/dl-223893-ae20e6b5b4cb4d5e82b934a0f7271e8d.html"
+      ]
+    },
+    {
+      "id": "175492",
+      "name": "中央銀行年報",
+      "format": "pdf",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_1999.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2000.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2001.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2002.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2003.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2004.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2005.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2006.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2007.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2008.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2009.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2010.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2011.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2012.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2013.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2014.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2015.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2016.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2017.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2018.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2019.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2020.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2021.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2022.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2023.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/經研處/Annual Report_CH_2024.pdf"
+      ]
+    },
+    {
+      "id": "6022",
+      "name": "央行貼放利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/opendata/webF1.csv"
+      ]
+    },
+    {
+      "id": "6023",
+      "name": "金融業隔夜拆款利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/WebF2.csv"
+      ]
+    },
+    {
+      "id": "6024",
+      "name": "貨幣總計數",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF15M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF15Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF17M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF17Y01.csv"
+      ]
+    },
+    {
+      "id": "6025",
+      "name": "外匯存底",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/WebF3.csv"
+      ]
+    },
+    {
+      "id": "6532",
+      "name": "新臺幣防偽辨識",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/發行局/Security_Features_1.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/發行局/Security_Features_2.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/發行局/Security_Features_3.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/發行局/Security_Features_4.csv"
+      ]
+    },
+    {
+      "id": "6533",
+      "name": "準備貨幣",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF11M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF11Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF12M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF12Y01.csv"
+      ]
+    },
+    {
+      "id": "6536",
+      "name": "中央銀行資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF23M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF23Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF25M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF25Y01.csv"
+      ]
+    },
+    {
+      "id": "6540",
+      "name": "外國及大陸銀行在台分行資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF47M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF47Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF49M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF49Y01.csv"
+      ]
+    },
+    {
+      "id": "6542",
+      "name": "全體銀行存款餘額統計表（存戶行業別）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI77M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI77Y01.csv"
+      ]
+    },
+    {
+      "id": "6543",
+      "name": "全體銀行存款餘額統計表（存戶部門別）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI79M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI79Y01.csv"
+      ]
+    },
+    {
+      "id": "6547",
+      "name": "全體銀行放款餘額統計表（額度別）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI97M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EI97Y01.csv"
+      ]
+    },
+    {
+      "id": "6549",
+      "name": "消費者貸款及建築貸款餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF99M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF99Y01.csv"
+      ]
+    },
+    {
+      "id": "7236",
+      "name": "資金流量表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/FOF/FL01_cn.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/FOF/FL01_en.csv"
+      ]
+    },
+    {
+      "id": "7230",
+      "name": "存款及其他各種負債準備金比率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/業務局/存款科/requiredreserveratios/requiredreserveratios.csv"
+      ]
+    },
+    {
+      "id": "7239",
+      "name": "全體民營企業資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/FOF/pr.csv"
+      ]
+    },
+    {
+      "id": "7241",
+      "name": "民營企業資產負債統計表(按大、中、小企業)",
+      "format": "zip",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/FOF/PR_by_Size.zip"
+      ]
+    },
+    {
+      "id": "6552",
+      "name": "國際收支統計-經常帳-商品",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPB2Q01.csv"
+      ]
+    },
+    {
+      "id": "6553",
+      "name": "國際收支統計-經常帳-服務",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPC2Q01.csv"
+      ]
+    },
+    {
+      "id": "6555",
+      "name": "國際收支統計-經常帳-二次所得",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPE2Q01.csv"
+      ]
+    },
+    {
+      "id": "6558",
+      "name": "國際收支統計-金融帳-直接投資",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPJ2Q01.csv"
+      ]
+    },
+    {
+      "id": "6563",
+      "name": "我國與主要貿易對手通貨對美元之匯率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BP01M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BP01Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BP01D01.csv"
+      ]
+    },
+    {
+      "id": "18637",
+      "name": "中央造幣廠決算報表",
+      "format": "zip",
+      "urls": [
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/103年度決算.zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/104年度決算.zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/105年度決算.zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/106年度決算.zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/107年度決算.zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/108年度決算.zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/109年度決算.zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/110年度決算.zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/111年度決算.zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/112年度決算(行政院核定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/112年度決算(審計部審定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/113年度決算(自編數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/113年度決算(行政院核定數).zip",
+        "https://www.cmc.gov.tw/opendata/CMC - Financial Statements/114年度決算(自編數).zip"
+      ]
+    },
+    {
+      "id": "18640",
+      "name": "中央印製廠決算報表",
+      "format": "zip",
+      "urls": [
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/103年度決算.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/104年度決算.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/105年度決算.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/106年度決算.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/107年度決算.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/108年度決算.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/109年度決算.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/110年度決算.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/111年度決算.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/112年度決算.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/113年度決算_行政院核定數.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/113年度決算_審計部審定數.zip",
+        "https://www.cepp.gov.tw/Uploads/FileShare/決算報表/114年度決算_自編_.zip"
+      ]
+    },
+    {
+      "id": "11073",
+      "name": "中央銀行辦理人民申請提供政府資訊案件統計",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/Secretariat/011/中央銀行辦理人民申請提供政府資訊案件統計.csv"
+      ]
+    },
+    {
+      "id": "10352",
+      "name": "中央銀行經營政策",
+      "format": "json",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行經營政策/中央銀行經營政策.json"
+      ]
+    },
+    {
+      "id": "10359",
+      "name": "五大銀行存放款利率歷史月資料",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/A13Rate.csv"
+      ]
+    },
+    {
+      "id": "10363",
+      "name": "前日金融機構牌告存放款利率異動資訊",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/Data/OpenData/bkrldc.csv"
+      ]
+    },
+    {
+      "id": "16900",
+      "name": "各類金融機構準備金提存情況",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/業務局/存款科/reserverequirementsdata/reserverequirementsdata.csv"
+      ]
+    },
+    {
+      "id": "20467",
+      "name": "金融機構流動準備計提情形",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/業務局/LR/項目.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/業務局/LR/機構.csv"
+      ]
+    },
+    {
+      "id": "20531",
+      "name": "中央銀行出版品目錄(中文版)",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/秘書處/中文出版品開放資料集11411.csv"
+      ]
+    },
+    {
+      "id": "20532",
+      "name": "中央銀行出版品目錄(英文版)",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/秘書處/英文出版品開放資料集11202.csv"
+      ]
+    },
+    {
+      "id": "19575",
+      "name": "中央造幣廠會計報表",
+      "format": "zip",
+      "urls": [
+        "https://www.cmc.gov.tw/opendata/CMC-Monthly Reports/CMC-Monthly Reports.zip"
+      ]
+    },
+    {
+      "id": "9472",
+      "name": "國庫券得標行業分析表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB08.csv"
+      ]
+    },
+    {
+      "id": "10836",
+      "name": "債券市場統計-國內公司債及金融債券之發行、償還及餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGB4M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EGB4Y01.csv"
+      ]
+    },
+    {
+      "id": "10840",
+      "name": "資本市場利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG43M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG43Y01.csv"
+      ]
+    },
+    {
+      "id": "10843",
+      "name": "中央銀行預算報表",
+      "format": "zip",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算報表/104年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算報表/105年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算報表/106年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算報表/107年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行預算報表/108年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行預算報表/109年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行預算報表/110年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行預算報表/111年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行預算報表/112年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行預算報表/113年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行預算報表/114年度預算(立法院審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行預算報表/115年度預算(行政院核定數).zip"
+      ]
+    },
+    {
+      "id": "10846",
+      "name": "銀行衍生性金融商品名目本金餘額統計彙總表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/銀行衍生性金融商品名目本金餘額統計彙總表.csv"
+      ]
+    },
+    {
+      "id": "10847",
+      "name": "銀行業利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG2WM01.csv"
+      ]
+    },
+    {
+      "id": "10754",
+      "name": "準備貨幣變動因素分析",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF13M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF13Y01.csv"
+      ]
+    },
+    {
+      "id": "10759",
+      "name": "信用合作社資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF55M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF55Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF57M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF57Y01.csv"
+      ]
+    },
+    {
+      "id": "10761",
+      "name": "農漁會信用部資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF59M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF59Y01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF61M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF61Y01.csv"
+      ]
+    },
+    {
+      "id": "10765",
+      "name": "貨幣市場共同基金資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG65M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG65Y01.csv"
+      ]
+    },
+    {
+      "id": "10766",
+      "name": "信託投資公司資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF65M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF65Y01.csv"
+      ]
+    },
+    {
+      "id": "10767",
+      "name": "人壽保險公司資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF67M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF67Y01.csv"
+      ]
+    },
+    {
+      "id": "10822",
+      "name": "國際收支簡表(年資料)",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPQ2Y01.csv"
+      ]
+    },
+    {
+      "id": "10823",
+      "name": "國際收支簡表(季資料)",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/BPQ2Q01.csv"
+      ]
+    },
+    {
+      "id": "10828",
+      "name": "票券市場統計-交易金額對象別",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG19M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG19Y01.csv"
+      ]
+    },
+    {
+      "id": "10830",
+      "name": "票券金融公司資產負債統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG07M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG07Y01.csv"
+      ]
+    },
+    {
+      "id": "10832",
+      "name": "貨幣市場利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG41M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG41Y01.csv"
+      ]
+    },
+    {
+      "id": "10735",
+      "name": "本國銀行營運績效季報定義說明 ",
+      "format": "json",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/金檢處/本國銀行營運績效季報定義說明.json"
+      ]
+    },
+    {
+      "id": "10740",
+      "name": "國庫體系",
+      "format": "json",
+      "urls": [
+        "https://www.cbc.gov.tw/public/Data/OpenData/國庫局/國庫收支科/open1.json"
+      ]
+    },
+    {
+      "id": "10742",
+      "name": "代收國稅金融機構名單",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/Data/OpenData/國庫局/國庫收支科/open3.csv"
+      ]
+    },
+    {
+      "id": "10744",
+      "name": "中央公債經理體系 ",
+      "format": "json",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB14.json"
+      ]
+    },
+    {
+      "id": "10745",
+      "name": "國庫券經理體系 ",
+      "format": "json",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB15.json"
+      ]
+    },
+    {
+      "id": "10747",
+      "name": "金融機構放款與投資及金融市場票債券發行餘額變動數",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/LOAN-F.csv"
+      ]
+    },
+    {
+      "id": "10730",
+      "name": "各本國銀行綜合損益表(國際金融業務分行及國外分行) ",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行綜合損益表(國際金融業務分行及國外分行).csv"
+      ]
+    },
+    {
+      "id": "10732",
+      "name": "各本國銀行衍生性金融商品餘額統計 ",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/衍生性金融商品餘額統計.csv"
+      ]
+    },
+    {
+      "id": "10794",
+      "name": "全體銀行外幣放款餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG01M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG01Y01.csv"
+      ]
+    },
+    {
+      "id": "10801",
+      "name": "中央銀行決算報表",
+      "format": "zip",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行決算報表/103年度決算.zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行決算報表/104年度決算.zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行決算報表/105年度決算.zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行決算報表/106年度決算.zip",
+        "https://www.cbc.gov.tw/public/data/OpenData/會計處/中央銀行決算報表/107年度決算.zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行決算報表/108年度決算.zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行決算報表/109年度決算.zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行決算報表/110年度決算(審計部審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行決算報表/111年度決算(審計部審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data/opendata/會計處/中央銀行決算報表/112年度決算(審計部審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data//opendata/會計處/中央銀行決算報表/113年度決算(行政院核定數).zip",
+        "https://www.cbc.gov.tw/Public/Data//opendata/會計處/中央銀行決算報表/113年度決算(審計部審定數).zip",
+        "https://www.cbc.gov.tw/Public/Data//opendata/會計處/中央銀行決算報表/114年度決算(自編數).zip"
+      ]
+    },
+    {
+      "id": "10802",
+      "name": "其他貨幣機構流動比率與流動準備",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF73M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF73Y01.csv"
+      ]
+    },
+    {
+      "id": "10814",
+      "name": "金融機構一覽表",
+      "format": "xml",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/EBOOKXLS/WLIST.xml"
+      ]
+    },
+    {
+      "id": "10815",
+      "name": "金融機構準備金",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF72M01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EF72Y01.csv"
+      ]
+    },
+    {
+      "id": "10818",
+      "name": "美元即期匯率及遠期信用狀美金利率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG51D01.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/經研處/EG51M01.csv"
+      ]
+    },
+    {
+      "id": "13666",
+      "name": "各本國銀行綜合損益表-國際金融業務分行",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/各本國銀行綜合損益表-國際金融業務分行.csv"
+      ]
+    },
+    {
+      "id": "13668",
+      "name": "銀行主要衍生性金融商品交易量統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/金檢處/銀行主要衍生性金融商品交易量統計表.csv"
+      ]
+    },
+    {
+      "id": "13672",
+      "name": "票據交換張數、金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twnch.org.tw/banklist/publicinfo/doc/41/41.csv"
+      ]
+    },
+    {
+      "id": "13673",
+      "name": "存款不足退票張數、金額統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twnch.org.tw/banklist/publicinfo/doc/42/42.csv"
+      ]
+    },
+    {
+      "id": "13676",
+      "name": "支票存款帳戶戶數統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.twnch.org.tw/banklist/publicinfo/doc/45/45.csv"
+      ]
+    },
+    {
+      "id": "13681",
+      "name": "跨行業務參加金融機構一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/Comm1_MEMBER.csv"
+      ]
+    },
+    {
+      "id": "13685",
+      "name": "跨行自動化服務機器業務(國際卡)參加金融機構一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/C1_MEMBER.csv"
+      ]
+    },
+    {
+      "id": "13655",
+      "name": "本國銀行海外分支單位統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行海外分支單位統計表.csv"
+      ]
+    },
+    {
+      "id": "13659",
+      "name": "本國銀行逾放比率序時表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行逾放比率序時表.csv"
+      ]
+    },
+    {
+      "id": "13660",
+      "name": "本國銀行資產報酬率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行資產報酬率統計表.csv"
+      ]
+    },
+    {
+      "id": "13663",
+      "name": "本國銀行存放比率統計表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/金檢處/本國銀行存放比率統計表.csv"
+      ]
+    },
+    {
+      "id": "13648",
+      "name": "登錄國庫券還本付息概況表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB12.CSV"
+      ]
+    },
+    {
+      "id": "37308",
+      "name": "中央銀行法令規章－令函",
+      "format": "json",
+      "urls": [
+        "https://www.law.cbc.gov.tw/Link/AOrderFileResultJson"
+      ]
+    },
+    {
+      "id": "37309",
+      "name": "中央銀行法令規章－草案預告",
+      "format": "xml",
+      "urls": [
+        "https://www.law.cbc.gov.tw/Link/NoticeFileResultXml"
+      ]
+    },
+    {
+      "id": "34103",
+      "name": "中央銀行法令規章－法規",
+      "format": "xml",
+      "urls": [
+        "https://www.law.cbc.gov.tw/Link/LawFileResultXml"
+      ]
+    },
+    {
+      "id": "23853",
+      "name": "金融健全參考指標－家庭部門",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/opendata/financialstability/FSI-家庭部門.csv"
+      ]
+    },
+    {
+      "id": "24347",
+      "name": "「跨行通匯-交易區域分佈(北/中/南/東)」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/R9_Area_M.csv"
+      ]
+    },
+    {
+      "id": "24349",
+      "name": "「跨行通匯-總分支機構數縣市分佈」統計",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/R13_City_CNT.csv"
+      ]
+    },
+    {
+      "id": "24352",
+      "name": "「金融卡-交易時間帶分佈」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A5_Time_M.csv"
+      ]
+    },
+    {
+      "id": "24353",
+      "name": "「金融卡-交易類別(餘額查詢/提款/轉帳/繳費/繳稅)」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/A7_Type_M.csv"
+      ]
+    },
+    {
+      "id": "24315",
+      "name": "金融卡消費購物特約商店位置檔案",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/Comm5_Merchant.csv"
+      ]
+    },
+    {
+      "id": "24361",
+      "name": "「國際卡在台提款-ATM位置」查詢一覽表",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/C2_Location.csv"
+      ]
+    },
+    {
+      "id": "24364",
+      "name": "「國際卡在台提款-交易時間帶分佈」結構比統計(月報) ",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/C5_Time_M.csv"
+      ]
+    },
+    {
+      "id": "24366",
+      "name": "「國際卡在台提款-交易區域分佈(北/中/南/東)」結構比統計(月報)",
+      "format": "csv",
+      "urls": [
+        "https://www.fisc.com.tw/TC/OPENDATA/C9_Area_M.csv"
+      ]
+    },
+    {
+      "id": "25141",
+      "name": "央行同資系統跨行清算專戶留存日平均餘額",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/業務局/支清科/CBC_CIFS_87.csv"
+      ]
+    },
+    {
+      "id": "9470",
+      "name": "中央登錄公債分割/重組狀況月報表",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/國庫局/債券科/TB06.csv"
+      ]
+    },
+    {
+      "id": "15423",
+      "name": "研究報告清單",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/秘書處/委託研究開放資料集11410.csv"
+      ]
+    },
+    {
+      "id": "80793",
+      "name": "出進口外匯收支統計─東協國家",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData005.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData006.csv"
+      ]
+    },
+    {
+      "id": "80794",
+      "name": "出進口外匯收支統計─美洲地區主要國家",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData007.csv",
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/FTDOpenData008.csv"
+      ]
+    },
+    {
+      "id": "81396",
+      "name": "國際金融業務分行外匯與衍生性金融商品交易量（Turnovers of Foreign Exchange Trading and Derivative Products Trading）",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/public/data/OpenData/外匯局/國際金融業務分行外匯與衍生性金融商品交易量.csv"
+      ]
+    },
+    {
+      "id": "144168",
+      "name": "中央銀行訴願決定書",
+      "format": "json",
+      "urls": [
+        "https://www.law.cbc.gov.tw/Link/DOrderFileResultJson"
+      ]
+    },
+    {
+      "id": "144306",
+      "name": "中央銀行理監事人數及比率",
+      "format": "csv",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/人事室//中央銀行理監事人數及比率_U114.csv"
+      ]
+    },
+    {
+      "id": "175401",
+      "name": "金融穩定報告",
+      "format": "pdf",
+      "urls": [
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第1期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第2期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第3期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第4期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第5期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第6期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第7期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第8期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第9期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第10期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第11期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第12期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第13期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第14期r.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告第15期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告-第16期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告-第17期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告-第18期.pdf",
+        "https://www.cbc.gov.tw/Public/Data/OpenData/financialstability/金融穩定報告-第19期.pdf"
+      ]
+    }
+  ]
+}

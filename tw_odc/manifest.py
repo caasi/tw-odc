@@ -59,12 +59,12 @@ def derive_slug(urls: list[str]) -> str:
 
 
 def compute_slug(provider_name: str, urls: list[str]) -> str:
-    """Return the slug for a provider: <hash8>_<domain> or org_<hash16> fallback."""
+    """Return the slug for a provider: <domain>_<hash8> or org_<hash16> fallback."""
     h = hashlib.sha256(provider_name.encode("utf-8")).hexdigest()
     slug = derive_slug(urls)
     if not slug:
         return f"org_{h[:16]}"
-    return f"{h[:8]}_{slug}"
+    return f"{slug}_{h[:8]}"
 
 
 def group_by_provider(datasets: list[dict]) -> dict[str, list[dict]]:
