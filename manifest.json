@@ -19,6 +19,20 @@
       "name": "全站資料集匯出 XML",
       "format": "xml",
       "urls": ["https://data.gov.tw/datasets/export/xml"]
+    },
+    {
+      "id": "daily-changed-json",
+      "name": "每日異動資料集 JSON",
+      "format": "json",
+      "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+      "params": { "date": "today" }
+    },
+    {
+      "id": "daily-changed-csv",
+      "name": "每日異動資料集 CSV",
+      "format": "csv",
+      "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=csv&report_date={date}"],
+      "params": { "date": "today" }
     }
   ]
 }

@@ -245,6 +245,130 @@ class TestLangFlag:
         assert "Invalid value" in result.output
 
 
+class TestMetadataApplyDaily:
+    def _setup_providers(self, tmp_path):
+        """Create root manifest + two provider manifests + a daily changed JSON."""
+        manifest = {
+            "type": "metadata", "provider": "data.gov.tw",
+            "datasets": [
+                {"id": "export-json", "name": "JSON", "format": "json",
+                 "urls": ["https://data.gov.tw/datasets/export/json"]},
+                {"id": "daily-changed-json", "name": "每日異動", "format": "json",
+                 "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+                 "params": {"date": "today"}},
+            ],
+        }
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+
+        # Provider A — has local manifest
+        pkg_a = tmp_path / "a_gov_tw_12345678"
+        pkg_a.mkdir()
+        (pkg_a / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "a_gov_tw_12345678",
+            "datasets": [
+                {"id": "1001", "name": "舊資料", "format": "csv", "urls": ["https://a.gov.tw/1"]},
+            ],
+        }))
+
+        # Daily changed JSON for 2026-03-10
+        daily = [
+            {"提供機關": "A機關", "資料集識別碼": 1001, "資料集名稱": "更新資料",
+             "檔案格式": "CSV", "資料下載網址": "https://a.gov.tw/1",
+             "資料集變動狀態": "修改"},
+            {"提供機關": "A機關", "資料集識別碼": 1002, "資料集名稱": "新增資料",
+             "檔案格式": "JSON", "資料下載網址": "https://a.gov.tw/2",
+             "資料集變動狀態": "新增"},
+            {"提供機關": "X機關", "資料集識別碼": 9999, "資料集名稱": "無本地",
+             "檔案格式": "CSV", "資料下載網址": "https://x.gov.tw/1",
+             "資料集變動狀態": "新增"},
+        ]
+        (tmp_path / "daily-changed-json.json").write_text(
+            json.dumps(daily, ensure_ascii=False))
+        return tmp_path
+
+    def test_apply_daily_updates_and_warns(self, tmp_path, monkeypatch):
+        """Should update existing provider and warn about missing ones."""
+        base = self._setup_providers(tmp_path)
+        monkeypatch.chdir(base)
+
+        result = runner.invoke(app, ["metadata", "apply-daily", "--date", "2026-03-10"])
+        assert result.exit_code == 0
+        output = json.loads(result.output)
+        assert "a_gov_tw_12345678" in output["updated"]
+        assert any(w["provider"] == "X機關" for w in output["warnings"])
+        assert any(w["reason"] == "no_local_manifest" for w in output["warnings"])
+
+        # Verify manifest was actually updated
+        m = json.loads((base / "a_gov_tw_12345678" / "manifest.json").read_text())
+        ids = [d["id"] for d in m["datasets"]]
+        assert "1001" in ids
+        assert "1002" in ids
+        # id 1001 should have updated name
+        ds_1001 = next(d for d in m["datasets"] if d["id"] == "1001")
+        assert ds_1001["name"] == "更新資料"
+
+    def test_apply_daily_missing_file(self, tmp_path, monkeypatch):
+        """Should error when daily changed file doesn't exist."""
+        manifest = {
+            "type": "metadata", "provider": "data.gov.tw", "datasets": [],
+        }
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+        monkeypatch.chdir(tmp_path)
+
+        result = runner.invoke(app, ["metadata", "apply-daily", "--date", "2099-01-01"])
+        assert result.exit_code != 0
+
+    def test_apply_daily_warns_deleted(self, tmp_path, monkeypatch):
+        """Should warn about providers with deleted datasets."""
+        base = self._setup_providers(tmp_path)
+        # Add a deleted entry for A機關
+        daily = [
+            {"提供機關": "A機關", "資料集識別碼": 1001, "資料集名稱": "被刪",
+             "檔案格式": "CSV", "資料下載網址": "https://a.gov.tw/1",
+             "資料集變動狀態": "刪除"},
+        ]
+        (tmp_path / "daily-changed-json.json").write_text(
+            json.dumps(daily, ensure_ascii=False))
+        monkeypatch.chdir(base)
+
+        result = runner.invoke(app, ["metadata", "apply-daily", "--date", "2026-03-11"])
+        assert result.exit_code == 0
+        output = json.loads(result.output)
+        assert any(w["reason"] == "contains_deleted_datasets" for w in output["warnings"])
+
+
+class TestMetadataDownloadDate:
+    def test_date_option_passes_param_overrides(self, tmp_path, monkeypatch):
+        """--date should pass param_overrides to fetch_all."""
+        manifest = {
+            "type": "metadata",
+            "provider": "data.gov.tw",
+            "datasets": [{
+                "id": "daily-changed-json",
+                "name": "每日異動資料集 JSON",
+                "format": "json",
+                "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+                "params": {"date": "today"},
+            }],
+        }
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+        monkeypatch.chdir(tmp_path)
+
+        captured_kwargs = {}
+
+        async def mock_fetch_all(m, output_dir, **kwargs):
+            captured_kwargs.update(kwargs)
+
+        import tw_odc.fetcher
+        monkeypatch.setattr(tw_odc.fetcher, "fetch_all", mock_fetch_all)
+        import asyncio
+        monkeypatch.setattr("tw_odc.cli.asyncio.run", lambda coro: asyncio.get_event_loop().run_until_complete(coro))
+
+        result = runner.invoke(app, ["metadata", "download", "--date", "2026-03-10"])
+        assert result.exit_code == 0
+        assert captured_kwargs.get("param_overrides") == {"date": "2026-03-10"}
+
+
 class TestWrongManifestType:
     def test_metadata_cmd_in_dataset_dir(self, tmp_path, monkeypatch):
         manifest = {"type": "dataset", "provider": "T", "slug": "t", "datasets": []}

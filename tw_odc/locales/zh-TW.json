@@ -6,6 +6,7 @@
   "E005": "請指定 --provider 或 --dir",
   "E006": "找不到 ID 為 %{id} 的資料集",
   "E106": "找不到檔案: %{name}\n可用的檔案: %{available}",
+  "E107": "找不到每日異動檔案: %{path}\n請先執行 tw-odc metadata download --only daily-changed-json.json",
   "status.not_modified": "%{filename} (未變更)",
   "status.downloaded": "%{filename} (%{size} bytes)",
   "status.downloaded_ssl_skip": "%{filename} (%{size} bytes) (SSL 驗證跳過)",

@@ -3,7 +3,42 @@ from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
-from tw_odc.fetcher import clean, clean_dataset, fetch_all, _dest_filename
+from tw_odc.fetcher import clean, clean_dataset, fetch_all, resolve_params, _dest_filename
+
+
+def test_resolve_params_today(monkeypatch):
+    """resolve_params should replace 'today' with current date."""
+    import datetime
+    monkeypatch.setattr("tw_odc.fetcher.datetime", type("M", (), {"date": type("D", (), {"today": staticmethod(lambda: datetime.date(2026, 3, 10))})})())
+    result = resolve_params({"date": "today"})
+    assert result == {"date": "2026-03-10"}
+
+
+def test_resolve_params_literal():
+    """resolve_params should pass through literal string values."""
+    result = resolve_params({"date": "2026-01-15"})
+    assert result == {"date": "2026-01-15"}
+
+
+def test_resolve_params_empty():
+    """resolve_params with None or empty dict returns empty dict."""
+    assert resolve_params(None) == {}
+    assert resolve_params({}) == {}
+
+
+def test_dest_filename_ignores_params():
+    """Params are for URL substitution only; filename is always id.format with no param suffix."""
+    result = _dest_filename(
+        {"id": "daily-changed-json", "format": "json"},
+        0, 1,
+    )
+    assert result == "daily-changed-json.json"
+
+
+def test_dest_filename_without_params_unchanged():
+    """Existing behavior: no params → id.format filename."""
+    result = _dest_filename({"id": "export-json", "format": "json"}, 0, 1)
+    assert result == "export-json.json"
 
 
 def _make_manifest(tmp_path, datasets):
@@ -365,6 +400,102 @@ def test_clean_dataset_no_side_files(tmp_path):
 
 
 @pytest.mark.asyncio
+async def test_fetch_all_resolves_params(tmp_path):
+    """fetch_all should substitute {date} in URLs; filename should be stable (no date suffix)."""
+    manifest = {
+        "type": "metadata",
+        "provider": "data.gov.tw",
+        "datasets": [{
+            "id": "daily-changed-json",
+            "name": "每日異動資料集 JSON",
+            "format": "json",
+            "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+            "params": {"date": "today"},
+        }],
+    }
+
+    import datetime
+    captured_urls = []
+
+    async def _iter_chunked(chunk_size):
+        yield b'[{"id": 1}]'
+
+    mock_content_obj = MagicMock()
+    mock_content_obj.iter_chunked = _iter_chunked
+
+    def _get(url, **kwargs):
+        captured_urls.append(url)
+        resp = AsyncMock()
+        resp.status = 200
+        resp.content_length = 12
+        resp.content = mock_content_obj
+        resp.headers = {}
+        resp.__aenter__ = AsyncMock(return_value=resp)
+        resp.__aexit__ = AsyncMock(return_value=False)
+        return resp
+
+    mock_session = AsyncMock()
+    mock_session.get = _get
+    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
+    mock_session.__aexit__ = AsyncMock(return_value=False)
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await fetch_all(manifest, tmp_path)
+
+    today = datetime.date.today().isoformat()
+    # URL should have date substituted
+    assert len(captured_urls) == 1
+    assert f"report_date={today}" in captured_urls[0]
+    # Filename should NOT include date (params are for URL substitution only)
+    assert (tmp_path / "daily-changed-json.json").exists()
+
+
+@pytest.mark.asyncio
+async def test_fetch_all_param_overrides(tmp_path):
+    """param_overrides should take precedence over manifest params."""
+    manifest = {
+        "type": "metadata",
+        "provider": "data.gov.tw",
+        "datasets": [{
+            "id": "daily-changed-json",
+            "name": "每日異動資料集 JSON",
+            "format": "json",
+            "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+            "params": {"date": "today"},
+        }],
+    }
+    captured_urls = []
+
+    async def _iter_chunked(chunk_size):
+        yield b'[]'
+
+    mock_content_obj = MagicMock()
+    mock_content_obj.iter_chunked = _iter_chunked
+
+    def _get(url, **kwargs):
+        captured_urls.append(url)
+        resp = AsyncMock()
+        resp.status = 200
+        resp.content_length = 2
+        resp.content = mock_content_obj
+        resp.headers = {}
+        resp.__aenter__ = AsyncMock(return_value=resp)
+        resp.__aexit__ = AsyncMock(return_value=False)
+        return resp
+
+    mock_session = AsyncMock()
+    mock_session.get = _get
+    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
+    mock_session.__aexit__ = AsyncMock(return_value=False)
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await fetch_all(manifest, tmp_path, param_overrides={"date": "2026-01-01"})
+
+    assert "report_date=2026-01-01" in captured_urls[0]
+    assert (tmp_path / "daily-changed-json.json").exists()
+
+
+@pytest.mark.asyncio
 async def test_fetch_all_only_downloads_matching_file(tmp_path):
     """--only should download only the file whose dest name matches."""
     manifest, pkg_dir = _make_manifest(tmp_path, [
@@ -434,3 +565,62 @@ async def test_fetch_all_no_cache_skips_conditional_headers(tmp_path):
         await fetch_all(manifest, pkg_dir / "datasets", no_cache=True)
 
     assert "If-None-Match" not in captured_headers
+
+
+@pytest.mark.asyncio
+async def test_fetch_all_parameterized_skips_etag_cache(tmp_path):
+    """Datasets with params should never send conditional headers, even when etags.json has a matching URL."""
+    manifest = {
+        "type": "metadata",
+        "provider": "data.gov.tw",
+        "datasets": [{
+            "id": "daily-changed-json",
+            "name": "每日異動",
+            "format": "json",
+            "urls": ["https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={date}"],
+            "params": {"date": "today"},
+        }],
+    }
+    import datetime
+    today = datetime.date.today().isoformat()
+    resolved_url = f"https://data.gov.tw/api/front/dataset/changed/export?format=json&report_date={today}"
+
+    # Pre-populate etags.json with the resolved URL so a normal (non-param) dataset would get a 304
+    cache_path = tmp_path / "etags.json"
+    cache_path.write_text(json.dumps({resolved_url: {"etag": '"abc123"'}}))
+
+    captured_headers = {}
+
+    async def _iter_chunked(chunk_size):
+        yield b"[]"
+
+    mock_content_obj = MagicMock()
+    mock_content_obj.iter_chunked = _iter_chunked
+
+    def _get(url, **kwargs):
+        captured_headers.update(kwargs.get("headers", {}))
+        resp = AsyncMock()
+        resp.status = 200
+        resp.content_length = 2
+        resp.content = mock_content_obj
+        resp.headers = {}
+        resp.__aenter__ = AsyncMock(return_value=resp)
+        resp.__aexit__ = AsyncMock(return_value=False)
+        return resp
+
+    mock_session = AsyncMock()
+    mock_session.get = _get
+    mock_session.__aenter__ = AsyncMock(return_value=mock_session)
+    mock_session.__aexit__ = AsyncMock(return_value=False)
+
+    with patch("aiohttp.ClientSession", return_value=mock_session):
+        await fetch_all(manifest, tmp_path, cache_path=cache_path)
+
+    # No conditional headers sent despite etags.json having the URL
+    assert "If-None-Match" not in captured_headers
+
+    # ETag for the parameterized URL should have been evicted from the cache file
+    # (when the only entry was for the parameterized URL, the file should be removed)
+    if cache_path.exists():
+        new_cache = json.loads(cache_path.read_text())
+        assert resolved_url not in new_cache

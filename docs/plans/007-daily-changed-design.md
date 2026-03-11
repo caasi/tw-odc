@@ -56,17 +56,18 @@ GET https://data.gov.tw/api/front/dataset/changed/export?format={csv|json}&repor
 
 ### 檔名規則
 
-帶 params 的 dataset 檔名包含參數值：
+帶 params 的 dataset 檔名與靜態 dataset 相同：
 
-- `daily-changed-json-2026-03-10.json`
-- `daily-changed-csv-2026-03-10.csv`
+- `daily-changed-json.json`
+- `daily-changed-csv.csv`
 
-格式：`{id}-{param_values}.{format}`
+格式：`{id}.{format}`（params 只影響 URL 模板替換，不反映在檔名中）
 
 ### fetcher.py 變更
 
 - 下載前檢查 dataset 是否有 `params`
-- 有 `params` 時：解析特殊值（`"today"` → 今日日期）→ `str.format_map()` 替換 URL → 檔名帶參數值
+- 有 `params` 時：解析特殊值（`"today"` → 今日日期）→ `str.format_map()` 替換 URL → 檔名不帶參數值
+- 有 `params` 的 dataset 不使用 ETag 快取（避免不同 URL 對應同一檔案產生過期內容）
 - 無 `params` 時：現有邏輯不變
 
 ### CLI 變更
@@ -96,5 +97,62 @@ tw-odc metadata download --only daily-changed-json.json --date 2026-03-10
 ### 下游影響
 
 - `metadata list` 和 `metadata create/update` 讀的是 `export-json.json`，不受影響
-- daily-changed JSON 欄位結構與 export-json 一致，未來可用同一個 `group_by_provider` + `parse_dataset` 處理增量更新
-- 增量更新邏輯（用 daily-changed 觸發特定 provider 的 manifest update）為未來工作，本次不實作
+- daily-changed JSON 欄位結構與 export-json 一致，可用同一個 `group_by_provider` + `parse_dataset` 處理增量更新
+
+## `metadata apply-daily` 子命令
+
+用下載好的每日異動 JSON 增量更新已存在的 provider manifest。
+
+### CLI 介面
+
+```bash
+# 讀 daily-changed-json.json
+tw-odc metadata apply-daily
+
+# 指定日期（僅供輸出記錄用）
+tw-odc metadata apply-daily --date 2026-03-10
+```
+
+### 流程
+
+```
+daily-changed-json.json
+  → group_by_provider()
+  → 遍歷每個 provider:
+      有本地 manifest? → update_dataset_manifest() 增量合併
+      沒有?           → 加入 warnings（provider, reason: no_local_manifest）
+      有「刪除」狀態?  → 加入 warnings（不處理，只警告）
+```
+
+### 增量合併策略
+
+新增 `update_dataset_manifest(pkg_dir, changed_datasets) -> int`：
+- 讀現有 `manifest.json` 的 datasets
+- 用 changed datasets 按 id 合併（已存在的覆蓋，不存在的新增）
+- 寫回 `manifest.json`
+- 回傳更新的 dataset 數量
+
+與 `create_dataset_manifest`（全量覆寫）分開，專做增量更新。
+
+### 輸出（JSON 摘要）
+
+```json
+{
+  "date": "2026-03-10",
+  "updated": ["provider_slug_1", "provider_slug_2"],
+  "skipped": ["provider_slug_3"],
+  "warnings": [
+    {"provider": "某機關", "reason": "no_local_manifest"},
+    {"provider": "另機關", "reason": "contains_deleted_datasets"}
+  ]
+}
+```
+
+- **updated**: 有異動且成功更新的 provider slug
+- **skipped**: daily JSON 裡有但本地 manifest 無變化
+- **warnings**: 找不到本地 manifest，或含有刪除狀態的資料集
+
+### 注意事項
+
+- 「刪除」狀態不處理，只警告
+- 檔案不存在就報錯退出（先用 `metadata download` 下載）
