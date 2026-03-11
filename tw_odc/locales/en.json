@@ -6,6 +6,7 @@
   "E005": "Please specify --provider or --dir",
   "E006": "Dataset not found: ID %{id}",
   "E106": "File not found: %{name}\nAvailable files: %{available}",
+  "E107": "Daily changed file not found: %{path}\nRun 'tw-odc metadata download --only daily-changed-json.json' first",
   "status.not_modified": "%{filename} (not modified)",
   "status.downloaded": "%{filename} (%{size} bytes)",
   "status.downloaded_ssl_skip": "%{filename} (%{size} bytes) (SSL verification skipped)",

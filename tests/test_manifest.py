@@ -10,6 +10,8 @@ from tw_odc.manifest import (
     derive_slug,
     parse_dataset,
     create_dataset_manifest,
+    find_existing_providers,
+    update_dataset_manifest,
 )
 
 
@@ -152,3 +154,99 @@ class TestCreateDatasetManifest:
         assert slug == slug2
         m = json.loads((tmp_path / slug / "manifest.json").read_text())
         assert len(m["datasets"]) == 2
+
+
+class TestFindExistingProviders:
+    def test_finds_providers(self, tmp_path):
+        """Should find all subdirectories with dataset manifest.json."""
+        pkg1 = tmp_path / "provider_a"
+        pkg1.mkdir()
+        (pkg1 / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a", "datasets": [],
+        }))
+        pkg2 = tmp_path / "provider_b"
+        pkg2.mkdir()
+        (pkg2 / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "B機關", "slug": "provider_b", "datasets": [],
+        }))
+        # Root manifest should not be included
+        (tmp_path / "manifest.json").write_text(json.dumps({
+            "type": "metadata", "provider": "data.gov.tw", "datasets": [],
+        }))
+
+        result = find_existing_providers(tmp_path)
+        assert "A機關" in result
+        assert "B機關" in result
+        assert result["A機關"] == pkg1
+        assert result["B機關"] == pkg2
+
+    def test_empty_dir(self, tmp_path):
+        """No subdirectories → empty dict."""
+        assert find_existing_providers(tmp_path) == {}
+
+    def test_ignores_non_dataset_manifests(self, tmp_path):
+        """Subdirectories with metadata-type manifest should be ignored."""
+        pkg = tmp_path / "sub"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "metadata", "provider": "data.gov.tw", "datasets": [],
+        }))
+        assert find_existing_providers(tmp_path) == {}
+
+
+class TestUpdateDatasetManifest:
+    def test_merges_new_datasets(self, tmp_path):
+        """New datasets should be added to existing manifest."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "既有", "format": "csv", "urls": ["https://a.tw/1"]},
+            ],
+        }))
+        changed = [
+            {"id": "1002", "name": "新增", "format": "json", "urls": ["https://a.tw/2"]},
+        ]
+        count = update_dataset_manifest(pkg, changed)
+        assert count == 1
+        m = json.loads((pkg / "manifest.json").read_text())
+        assert len(m["datasets"]) == 2
+        ids = [d["id"] for d in m["datasets"]]
+        assert "1001" in ids
+        assert "1002" in ids
+
+    def test_updates_existing_dataset(self, tmp_path):
+        """Existing dataset with same id should be overwritten."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "舊名", "format": "csv", "urls": ["https://a.tw/old"]},
+            ],
+        }))
+        changed = [
+            {"id": "1001", "name": "新名", "format": "json", "urls": ["https://a.tw/new"]},
+        ]
+        count = update_dataset_manifest(pkg, changed)
+        assert count == 1
+        m = json.loads((pkg / "manifest.json").read_text())
+        assert len(m["datasets"]) == 1
+        assert m["datasets"][0]["name"] == "新名"
+        assert m["datasets"][0]["format"] == "json"
+
+    def test_no_changes_returns_zero(self, tmp_path):
+        """If changed datasets are empty, nothing should change."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "既有", "format": "csv", "urls": ["https://a.tw/1"]},
+            ],
+        }))
+        count = update_dataset_manifest(pkg, [])
+        assert count == 0
+        m = json.loads((pkg / "manifest.json").read_text())
+        assert len(m["datasets"]) == 1

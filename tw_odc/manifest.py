@@ -114,3 +114,42 @@ def create_dataset_manifest(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     return slug
+
+
+def find_existing_providers(base_dir: Path) -> dict[str, Path]:
+    """Scan subdirectories for dataset manifests. Returns {provider_name: dir_path}."""
+    providers: dict[str, Path] = {}
+    for child in sorted(base_dir.iterdir()):
+        if not child.is_dir():
+            continue
+        manifest_path = child / "manifest.json"
+        if not manifest_path.exists():
+            continue
+        try:
+            m = json.loads(manifest_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            continue
+        if m.get("type") == ManifestType.DATASET and m.get("provider"):
+            providers[m["provider"]] = child
+    return providers
+
+
+def update_dataset_manifest(pkg_dir: Path, changed_datasets: list[dict]) -> int:
+    """Incrementally merge changed datasets into an existing manifest. Returns count of changes."""
+    if not changed_datasets:
+        return 0
+    manifest_path = pkg_dir / "manifest.json"
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+
+    existing = {str(d["id"]): d for d in manifest["datasets"]}
+    count = 0
+    for ds in changed_datasets:
+        ds_id = str(ds["id"])
+        existing[ds_id] = ds
+        count += 1
+
+    manifest["datasets"] = list(existing.values())
+    manifest_path.write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    return count

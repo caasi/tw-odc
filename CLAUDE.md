@@ -27,6 +27,10 @@ tw-odc metadata download --no-cache                 # bypass ETag cache
 tw-odc metadata download --only daily-changed-json.json
 tw-odc metadata download --only daily-changed-csv.csv --date 2026-03-10
 
+# Apply daily changes to existing provider manifests
+tw-odc metadata apply-daily                          # uses today's date
+tw-odc metadata apply-daily --date 2026-03-10        # specific date
+
 # List providers from downloaded metadata (JSON output by default)
 tw-odc metadata list
 tw-odc metadata list --format text

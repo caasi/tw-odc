@@ -12,8 +12,11 @@ from tw_odc.i18n import setup_locale, t
 from tw_odc.manifest import (
     ManifestType,
     create_dataset_manifest,
+    find_existing_providers,
     group_by_provider,
     load_manifest,
+    parse_dataset,
+    update_dataset_manifest,
 )
 
 app = typer.Typer(name="tw-odc")
@@ -192,6 +195,68 @@ def metadata_update(
 
     slug = create_dataset_manifest(cwd, provider, groups[provider])
     print(slug, file=sys.stderr)
+
+
+@metadata_app.command("apply-daily")
+def metadata_apply_daily(
+    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
+    date: str | None = typer.Option(None, "--date", help="Date of daily changed file (YYYY-MM-DD)"),
+) -> None:
+    """Apply daily changed datasets to existing provider manifests."""
+    import datetime as _dt
+
+    cwd = Path.cwd()
+    _load_and_check(cwd, ManifestType.METADATA)
+
+    if not date:
+        date = _dt.date.today().isoformat()
+
+    daily_path = cwd / f"daily-changed-json-{date}.json"
+    if not daily_path.exists():
+        print(f"E107: {t('E107', path=daily_path)}", file=sys.stderr)
+        raise typer.Exit(code=1)
+
+    data = json.loads(daily_path.read_text(encoding="utf-8"))
+    groups = group_by_provider(data)
+    providers = find_existing_providers(cwd)
+
+    updated: list[str] = []
+    skipped: list[str] = []
+    warnings: list[dict] = []
+
+    for provider_name, datasets in sorted(groups.items()):
+        # Check for deleted datasets
+        has_deleted = any(d.get("資料集變動狀態") == "刪除" for d in datasets)
+        if has_deleted:
+            warnings.append({"provider": provider_name, "reason": "contains_deleted_datasets"})
+
+        # Filter to non-deleted datasets
+        active = [d for d in datasets if d.get("資料集變動狀態") != "刪除"]
+
+        if provider_name not in providers:
+            warnings.append({"provider": provider_name, "reason": "no_local_manifest"})
+            continue
+
+        if not active:
+            pkg_dir = providers[provider_name]
+            skipped.append(pkg_dir.name)
+            continue
+
+        pkg_dir = providers[provider_name]
+        parsed = [parse_dataset(d) for d in active]
+        count = update_dataset_manifest(pkg_dir, parsed)
+        if count > 0:
+            updated.append(pkg_dir.name)
+        else:
+            skipped.append(pkg_dir.name)
+
+    result = {
+        "date": date,
+        "updated": updated,
+        "skipped": skipped,
+        "warnings": warnings,
+    }
+    _output(result, fmt)
 
 
 # ─── dataset commands ───
