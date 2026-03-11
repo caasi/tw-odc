@@ -1,0 +1,375 @@
+{
+  "type": "dataset",
+  "provider": "桃園國際機場股份有限公司",
+  "slug": "odp_taoyuan_airport_com_7fb342de",
+  "datasets": [
+    {
+      "id": "20994",
+      "name": "桃園國際機場股份有限公司會計月報",
+      "format": "zip",
+      "urls": [
+        "https://www.taoyuan-airport.com/uploads/govdata/Accounting/MONTHlyREPORT.zip"
+      ]
+    },
+    {
+      "id": "26194",
+      "name": "桃園國際機場即時航班",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081816?format=csv"
+      ]
+    },
+    {
+      "id": "7871",
+      "name": "桃園國際機場貨運量月統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081819?format=csv"
+      ]
+    },
+    {
+      "id": "7873",
+      "name": "桃園機場基本資料",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2022110901?format=csv"
+      ]
+    },
+    {
+      "id": "12079",
+      "name": "入境行李運送總數",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081814?format=csv"
+      ]
+    },
+    {
+      "id": "12080",
+      "name": "機場電車暫停服務時間表",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081808?format=csv"
+      ]
+    },
+    {
+      "id": "33010",
+      "name": "桃園國際機場出口貨量年統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081823?format=csv"
+      ]
+    },
+    {
+      "id": "33011",
+      "name": "桃園國際機場轉口貨量年統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081822?format=csv"
+      ]
+    },
+    {
+      "id": "33012",
+      "name": "桃園國際機場進出轉口貨運量年統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081821?format=csv"
+      ]
+    },
+    {
+      "id": "33015",
+      "name": "桃園國際機場入境客運量年統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2022110908?format=csv"
+      ]
+    },
+    {
+      "id": "44159",
+      "name": "桃園國際機場野生動物活動通告",
+      "format": "zip",
+      "urls": [
+        "https://www.taoyuan-airport.com/uploads/govdata/Wildlifeactivities.zip"
+      ]
+    },
+    {
+      "id": "174304",
+      "name": "家園的守門人繪本",
+      "format": "pdf",
+      "urls": [
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/6D334369-473A-ED11-BBD3-005056BD475F"
+      ]
+    },
+    {
+      "id": "174306",
+      "name": "機場出境旅客服務系統調查研究案",
+      "format": "pdf",
+      "urls": [
+        "https://www.taoyuanairport.com.tw/uploads/img/companyimg/data/31d82e88-afdc-4b9b-8e8d-f09443414b1d.pdf"
+      ]
+    },
+    {
+      "id": "175225",
+      "name": "桃園國際機場即時航班V2",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2025102001?format=csv"
+      ]
+    },
+    {
+      "id": "12078",
+      "name": "出境行李運送總數",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081815?format=csv"
+      ]
+    },
+    {
+      "id": "12082",
+      "name": "航班運量整點人數預報表",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2022110904?format=csv"
+      ]
+    },
+    {
+      "id": "7869",
+      "name": "桃園國際機場定期航班",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2022110903?format=csv"
+      ]
+    },
+    {
+      "id": "32997",
+      "name": "桃園國際機場客運量年統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2022110907?format=csv"
+      ]
+    },
+    {
+      "id": "32998",
+      "name": "桃園國際機場第一航廈各單位服務電話",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081806?format=csv"
+      ]
+    },
+    {
+      "id": "33008",
+      "name": "桃園國際機場航空公司及航廈別",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081809?format=csv"
+      ]
+    },
+    {
+      "id": "33009",
+      "name": "桃園國際機場進口貨量年統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081824?format=csv"
+      ]
+    },
+    {
+      "id": "48120",
+      "name": "桃園國際機場停車場剩餘車位",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081813?format=csv"
+      ]
+    },
+    {
+      "id": "26227",
+      "name": "桃園國際機場客運量日統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2022110905?format=csv"
+      ]
+    },
+    {
+      "id": "32456",
+      "name": "桃園國際機場貨運量年統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081830?format=csv"
+      ]
+    },
+    {
+      "id": "138845",
+      "name": "桃園機場旅客服務設施資料",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081803?format=csv"
+      ]
+    },
+    {
+      "id": "171381",
+      "name": "空橋風速計資料",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081825?format=csv"
+      ]
+    },
+    {
+      "id": "7870",
+      "name": "桃園國際機場航機架次",
+      "format": "xml",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081817?format=xml"
+      ]
+    },
+    {
+      "id": "6209",
+      "name": "桃園國際機場無線上網熱點位置",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2022110810?format=csv"
+      ]
+    },
+    {
+      "id": "20987",
+      "name": "桃園國際機場股份有限公司決算書主要表",
+      "format": "zip",
+      "urls": [
+        "https://www.taoyuan-airport.com/uploads/govdata/Accounting/FinacialStatement.zip"
+      ]
+    },
+    {
+      "id": "12081",
+      "name": "機場巡迴巴士時刻表",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2022110902?format=csv"
+      ]
+    },
+    {
+      "id": "8870",
+      "name": "桃園國際機場客運量月統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2022110906?format=csv"
+      ]
+    },
+    {
+      "id": "33007",
+      "name": "桃園國際機場航機架次年統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081818?format=csv"
+      ]
+    },
+    {
+      "id": "33014",
+      "name": "桃園國際機場郵件進出口貨量年統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081820?format=csv"
+      ]
+    },
+    {
+      "id": "33016",
+      "name": "桃園國際機場出境客運量年統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2022110909?format=csv"
+      ]
+    },
+    {
+      "id": "32999",
+      "name": "桃園國際機場第二航廈各單位服務電話",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081807?format=csv"
+      ]
+    },
+    {
+      "id": "77930",
+      "name": "桃園國際機場航空貨運業者服務電話",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081804?format=csv"
+      ]
+    },
+    {
+      "id": "44131",
+      "name": "桃園國際機場公司重要里程碑",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081805?format=csv"
+      ]
+    },
+    {
+      "id": "159716",
+      "name": "桃園國際機場股份有限公司預算書",
+      "format": "zip",
+      "urls": [
+        "https://www.taoyuan-airport.com/uploads/govdata/Accounting/Budget.zip"
+      ]
+    },
+    {
+      "id": "171382",
+      "name": "入境行李作業績效統計",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2023081826?format=csv"
+      ]
+    },
+    {
+      "id": "174271",
+      "name": "《飛．行》季刊",
+      "format": "pdf",
+      "urls": [
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/6328127C-6EDD-EC11-BBBC-005056BD475F",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/6428127C-6EDD-EC11-BBBC-005056BD475F",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/C1BDFA86-6EDD-EC11-BBBC-005056BD475F",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/C2BDFA86-6EDD-EC11-BBBC-005056BD475F",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/0D1BD5A7-EE00-ED11-BBBF-005056BD475F",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/7A79879C-964B-ED11-BBD5-005056BD475F",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/F5326575-72A0-ED11-BBD9-005056BD475F",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/8EDA6D86-7EDE-ED11-BBDC-005056BD475F",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/D444C2FF-C629-EE11-BBDF-005056BD475F",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/AAE0FC47-C673-EE11-BBE3-005056BD475F",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/11DE5A18-1ABF-EE11-BBEC-0050569094FE",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/4A5AA572-7403-EF11-BBF4-0050569094FE",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/5747218A-4D4E-EF11-BBF7-0050569094FE",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/172B8CC6-79A8-EF11-BC02-0050569094FE",
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/D4BE1A71-1FE9-EF11-BC08-0050569094FE"
+      ]
+    },
+    {
+      "id": "174303",
+      "name": "走讀桃園機場",
+      "format": "pdf",
+      "urls": [
+        "https://www.taoyuan-airport.com/api/imagecrop/fileid/2ED2AF3E-33AF-ED11-BBDA-005056BD475F"
+      ]
+    },
+    {
+      "id": "174305",
+      "name": "智慧機場資訊整合評估研究案",
+      "format": "pdf",
+      "urls": [
+        "https://www.taoyuanairport.com.tw/uploads/img/companyimg/data/3e642e4a-889e-4bce-b4f8-9dd09348d822.pdf",
+        "https://www.taoyuanairport.com.tw/uploads/img/companyimg/data/6c99433d-5f6c-47e7-80b1-76f35640cf95.pdf",
+        "https://www.taoyuanairport.com.tw/uploads/img/companyimg/data/e032b31f-74d6-45fb-8ac6-6c66ce15bf9d.pdf"
+      ]
+    },
+    {
+      "id": "174307",
+      "name": "管理資訊系統 2.0 委託規劃服務案",
+      "format": "pdf",
+      "urls": [
+        "https://www.taoyuanairport.com.tw/api/uploads/files/20220816/9fed8e98-18ef-496d-800f-dd9ea50430bd.pdf"
+      ]
+    },
+    {
+      "id": "175226",
+      "name": "桃園國際機場定期航班V2",
+      "format": "csv",
+      "urls": [
+        "https://odp.taoyuan-airport.com/dataset/2025092301?format=csv"
+      ]
+    }
+  ]
+}

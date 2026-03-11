@@ -1,0 +1,55 @@
+{
+  "type": "dataset",
+  "provider": "法務部",
+  "slug": "moj_gov_tw_06191177",
+  "datasets": [
+    {
+      "id": "33001",
+      "name": "犯罪狀況及其分析",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/uploadfiles/opendata/crime_statistics.csv"
+      ]
+    },
+    {
+      "id": "33002",
+      "name": "矯正機關收容統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/uploadfiles/opendata/correction_institution_statistics.csv"
+      ]
+    },
+    {
+      "id": "33003",
+      "name": "法院案件統計資料",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/uploadfiles/opendata/court_case_statistics.csv"
+      ]
+    },
+    {
+      "id": "33004",
+      "name": "檢察機關案件統計",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/uploadfiles/opendata/prosecution_statistics.csv"
+      ]
+    },
+    {
+      "id": "33005",
+      "name": "地政士名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/uploadfiles/opendata/land_registration_agents.csv"
+      ]
+    },
+    {
+      "id": "33006",
+      "name": "律師名冊",
+      "format": "csv",
+      "urls": [
+        "https://www.moj.gov.tw/uploadfiles/opendata/attorney_roster.csv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "dataset",
+  "provider": "資訊科技創新研究中心",
+  "slug": "citi_sinica_edu_tw_c76a180a",
+  "datasets": [
+    {
+      "id": "109941",
+      "name": "中央研究院資訊科技創新研究中心-學術演講資訊",
+      "format": "json",
+      "urls": [
+        "https://www.citi.sinica.edu.tw/assets/jsons/event-seminars.json"
+      ]
+    },
+    {
+      "id": "109942",
+      "name": "中央研究院資訊科技創新研究中心-近期研究成果",
+      "format": "json",
+      "urls": [
+        "https://www.citi.sinica.edu.tw/assets/jsons/research-articles.json"
+      ]
+    },
+    {
+      "id": "109943",
+      "name": "中央研究院資訊科技創新研究中心-2020 資通產業系列講座",
+      "format": "json",
+      "urls": [
+        "https://www.citi.sinica.edu.tw/assets/jsons/event-seminars-ict.json"
+      ]
+    }
+  ]
+}

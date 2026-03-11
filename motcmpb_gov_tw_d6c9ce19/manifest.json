@@ -1,0 +1,1699 @@
+{
+  "type": "dataset",
+  "provider": "交通部航港局",
+  "slug": "motcmpb_gov_tw_d6c9ce19",
+  "datasets": [
+    {
+      "id": "6071",
+      "name": "金門-廈門小三通航線航班表",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/8ab1479b-eb9c-488a-bebd-2bc5399c99e9?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/ee71e3bd-5439-452b-9051-09a9dc4bd995?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/cf64011a-ea4b-4b0b-a38c-a503482a8cbe?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/7f8c1b1b-2e2f-44ca-b447-08fe54f895ef?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/b94aa7c4-b452-43a0-9d0f-4f8a3a710536?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/4bbd491b-3d41-465a-9160-ecf6d97d784b?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/99c516f3-56c8-4ad6-a38b-e49f16ce957a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/d3275214-6753-408f-8124-c0dc85e60ab0?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/af76671b-e1c0-45d0-a0e4-8a195e68f6ee?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/fb0ad187-a7f9-4928-a214-71c294951183?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/92a3a5a7-640f-4f3a-96fd-9394b67e4468?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/9a60d569-7a3a-49dc-a0e3-3a5708406896?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/2bfc5428-0010-4c1f-892e-f81d9dd9f937?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/6d77b134-2129-4f1f-834c-e98f99c73830?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/ea0a34db-41bd-43cd-8ba0-b8eb495b934a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/8047fcc1-55ea-4f08-8d69-b0303dbe8e5c?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/6f7e1975-e197-461c-ad97-ab1a1d978b2f?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/1e76fbde-66e3-487c-8b0a-177c80201d25?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/0fb61127-c750-424c-bd9c-e8e73a253e7a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/fcce3977-0b2e-41ce-a6d8-812c3785ddd6?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/3bfc964b-040e-44d3-a20b-98d502681251?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/4781a839-4879-4f9a-939f-3f9e6febf432?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/fe45318e-4eee-4c55-ab1d-5b7c400d2375?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/86f38e52-9ca9-46b0-b8cc-a869dade656d?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/ca56ad68-15a1-471e-b56c-fc1f26bbe91a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/a4dffdbf-3bed-4737-a197-b796a4c17e44?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/d006121d-1513-433a-8a36-b993cdd57249?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/5ebabca9-7543-4699-b0ff-6d139d25a4c7?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/b162f840-8f38-4bde-926b-56c2270a99c5?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/9e5f18b0-a8be-4756-84bb-84ccf31d668f?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/69b32581-cc46-4976-bffc-b8c0c5a6ae18?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/fdcf82a7-9e91-45d2-ab58-b256b6f7d1bd?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/644f3620-e92e-4726-b422-8968bef383df?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/ff2dcef9-42d5-49a7-9730-8e30227cae61?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/a5c79404-5ce3-4563-8392-5f7f3f5728eb?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/e5bb27bc-9e44-48fd-8d04-cf1c7effc46b?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/bb310c18-6650-44a1-a2cf-6d5de60514ba?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c8609a34-92d9-4cb5-98c0-e4b1bd018de7?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c1d94e21-46bc-4cad-8aae-89d84e5bd184?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/0c8d4e3c-acd0-4549-b49c-6b6600dfdbc7?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/45d15819-b4fa-4bc7-a107-e2206b31d0af?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/2a25cc00-3316-4cdc-9de2-8e4800907114?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/f0955214-4975-42da-9a58-1978f55bf037?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/d5e6ad11-53c7-42a3-bb5b-db9c7de56683?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/2b910390-a49f-4e7a-8f41-2b47a65bee85?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/0f8eaef0-42bb-40d2-b350-eabc864a59fc?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/fb110ac8-b57d-4e91-99a5-f2b307980e9d?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/210d74df-130d-4759-8419-20b95533ced3?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/fe066d01-feaf-47c1-adc8-13878e0d1965?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/56760c85-e500-4349-9549-0767658ad827?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/6b0398e6-9654-4e87-afdd-3bfe684a7832?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/50eed888-913b-458c-824a-59f6e80a25b8?SiteId=1&NodeId=556"
+      ]
+    },
+    {
+      "id": "16300",
+      "name": "船員岸上晉升訓練人數",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1369887990460977152.ods&filedisplay=船員岸上晉升訓練人數.ods&flag=doc"
+      ]
+    },
+    {
+      "id": "8236",
+      "name": "國內固定航班資訊",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/78c6d921-3e69-48a5-983d-acfd6d9032f0?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/0874cbba-c2f5-4d58-aa50-b5b67eb255a1?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/3160f818-e9dd-4714-9087-30154537affa?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/1f1325d1-429d-4749-8eb7-729ae7b41481?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/891b9506-1910-463f-9ccf-d42574e0bf8f?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/cdf4b951-0e89-496a-99d6-a342c0cde6a3?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/49099d5c-4030-4827-8bee-e710191fd13a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/5bd95cce-0a41-4d06-b004-5308ec20a613?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/6d56d5e6-a755-4752-82e7-abcf6e6fa53b?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/e87a5115-c20e-4f88-8a27-44fb38e83345?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/90a4b5ef-427e-49d8-9ab7-c5be8c41a339?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/dd66d652-b1d4-42c7-a1c5-b9e3041ab2af?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/b58118ad-aff6-4838-ab4b-f806ea35344c?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/a6371e7e-7bbf-419a-b652-c30dcc3eaa1d?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c5b8fcde-4c2d-4a16-92f6-9804da3ab61e?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/6199dbfc-0e07-443a-a52e-8a273f404127?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/67a73e32-ced2-4b0f-884b-eb4cf8592364?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c4df01e0-7c3a-4ba3-bb2b-7ac5f04add8d?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/16bf1769-12f6-4a0d-b8cf-5e5ef6925c4e?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c4bf1af2-256e-4b56-91b8-d2e979e4f5da?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/23f67060-b34a-4d32-bd82-8668a33cb209?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/709745fd-9131-459a-a775-a853f313ca59?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/5ac7eace-91c4-4825-9c35-41857fb5498d?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/f40730d4-2405-49ce-a8fc-140e80a1e664?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/10beb20d-d0ec-4109-894a-adece11f62cf?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/cf74377e-b20c-4f2f-9ce3-28e8e6b7f622?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/0b8e3fca-6619-44a3-af21-a9d4be311134?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/87b2bd90-6301-4910-96a5-da47da9d6f02?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/08f10b85-68ae-4eb4-b224-5891aeb982a8?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/40d12dea-0054-4c01-95e8-1eab401aed5b?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/736149e4-b02a-483d-af53-6a8738818e01?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/1d381aea-ca5d-4d8d-b1a3-fe68838f4014?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/1a2a99b2-0685-4a52-8001-214986b6b360?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c543354c-f67c-46ef-ab8e-b689ce05f202?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/fb69661e-3028-4d12-ba9a-102862b38bf5?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c2e94c9b-25f9-4436-be56-65dc8a8617c9?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/1a4075f3-9cb6-4fbc-ab9a-74116107778b?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/5b33d1af-1387-416a-8b8c-df84604b3dd9?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/41f1f4e3-1e9a-4f3e-a988-8a720442811c?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/3f47f533-9a5e-42b7-b921-fb4a269fee71?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c3092994-2267-4b69-b140-e74c35babc7b?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/f9d3d824-3f92-4ca0-bba1-242cb99f293f?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/74fa23e2-3f8d-40b4-9ed0-399a274a09b5?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/12e3e7b9-2321-4abf-98bf-a4b3f50eb23e?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/22e583c6-e843-4fec-8818-b34617f23179?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/8ae26be2-b462-442c-91f8-4a019592fcbf?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/2ee23717-6300-41f3-8554-305c4009ad0c?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/df4c0546-274a-419d-9a39-7e1773ed9fb4?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/0df3d14c-77f5-4dc6-a961-42ea852e6f56?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c01e538e-b9d9-48e2-a18f-c508f6c987b4?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/9332606f-a4f9-4a39-a9b3-1cd72b872c6a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/7e6c7f13-34f9-4f95-90f3-c18e564bfbb3?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/04565d8d-02b1-4fb4-b36a-dfa2fedb2419?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/f72e62ca-e291-4786-a723-ab96158eeceb?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/232e625b-9dda-4943-b99f-0656b9980651?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/10c21b7d-8e46-412a-a9b2-382fbf4c8450?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/5f9c8f58-3e50-4551-817d-4fef57ec8e91?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/9a9fef0c-558d-45a2-b8a2-6c5d2d4d26f9?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/eae9e6d1-643e-4ab9-a3b3-c7282ce67648?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/daacb834-6539-4c0b-a4dd-0253a5fdc58b?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/eed81e60-db52-4861-bfb2-d468a62057ef?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/7140932d-8525-4d1f-b49a-4ec9fd16fe3c?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c7c590e1-bb7b-48d1-8a1c-9df178d0a8b5?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/9bd9038f-0ed8-4054-93f1-fc9a554dbcea?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/e4b33e87-d669-4206-b97c-8439711ecf66?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/5ca9ddce-4f00-4e0a-9bd4-1c97a5102966?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/303bfbca-2b03-45ef-9ace-f1c4c4ff556f?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/1f39d105-bc4f-4e94-a257-f64944a896fa?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/8892511c-5eeb-4860-b7e6-120dccf8d1e6?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c8ca3d91-c265-41db-823d-d086343327b3?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/4478ebaa-1b2a-40a3-b327-16cc68515aa9?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c80f5e83-e0f7-4d2e-bb2b-628d8a33c3be?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/b9b9e09a-c284-4f56-9433-b650be056322?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/18a9a0dd-3348-4181-9dec-ad9f150801d9?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/f930d496-7ec1-4d2f-ac80-ed604034b9c5?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/5c322493-b24a-44f9-a2a4-222ccf662888?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/d40f9ed6-c411-402b-b596-1b638ede462b?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/4bee4e28-f724-4e2a-97a9-94f2d1442286?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c6f77e38-862e-4c28-8858-de3ab1828fe3?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/da1ae2df-fcc8-4a7f-9e7f-84ea32541066?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c84b2723-7f93-4040-b322-3b053625e498?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/ad330733-fb39-4b56-af53-9f10383c4c3c?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/9a362aed-e83a-4c99-82e2-b50033fa971e?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/06b2696d-3957-40e7-9e82-ccbf78a53dec?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/1b76a938-aac0-4561-aeed-bed5ff78610a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/eb53be43-b2b7-4313-94b0-8e4d3a308523?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/cea74409-acf7-415c-b0f7-25f56300d36b?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/6a130051-6f30-4429-93bb-124cad7d2192?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/2651deeb-7e4a-473f-98b2-b7fbc1ac701c?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/928d2dd5-1b11-41f0-9d07-abab402dda85?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/af1f82a0-651b-4fc7-922e-71eceb587b81?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/7ee1219a-78b2-45c8-b006-4e3235482375?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/332f6b8a-199c-4df4-b88e-a92bd3079fb1?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/161dcc9c-35f7-403f-bd4d-68a53c9ffa96?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/dc6925e0-2052-4c45-b01a-2ed3028a76b7?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/f717231e-b40a-408d-a767-3394084e204a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c581330b-82fd-4c3c-bd3b-d20acaa2b7ee?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/dfc7fd72-22e1-4412-a82b-684f074dd739?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/04016047-8e21-470a-a2eb-4a862d942e13?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/1bfa3be7-102d-44ad-b123-cfd876a838fd?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/e98661a8-fdd3-4e35-a740-4e78d914d64a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c8b12ddc-baf2-405a-9931-86d7f7955bfb?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/5f7886df-99d9-4721-9570-bf8f526e5e9d?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/976dec8e-fbb4-489a-9fa5-cf7154ca85ba?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/f94db5aa-3266-4d8a-a98a-565d059d9e2f?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/e656979d-6303-48c1-95de-7d143d7ffa37?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/01ab6049-4a28-486f-9aab-5aa97d759852?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/90c2c1d9-62bf-4a73-b8b4-0663522d1796?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/122a4fc0-fc20-4f6a-b2c2-2a249d62c70c?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/25d4c6c0-c233-4186-b947-f6f1fe0fa4ac?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/ab4868e3-b7f0-411e-bbf5-9485e8555acf?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/67bd3d68-172a-41c5-b4ab-57c6b40fc912?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/647f0737-3ad3-46a9-b0fe-65f595550845?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/3d6cd46b-4313-420b-a5e4-69df939fb63f?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/7d95a435-a5fc-4069-9164-a71ee15ccf8b?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c80aeafb-f524-4401-98d9-dbd7fc645427?SiteId=1&NodeId=556"
+      ]
+    },
+    {
+      "id": "28141",
+      "name": "已開放燈塔之交通資訊",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/e611c750-1cea-4f35-b153-f70b1c4ce9f6?SiteId=1&NodeId=554"
+      ]
+    },
+    {
+      "id": "28801",
+      "name": "航港函釋彙編",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/e51f23fe-cb0a-4c3d-9396-264ceea22997?SiteId=1&NodeId=558"
+      ]
+    },
+    {
+      "id": "27277",
+      "name": "交通部航港局職員統計報表",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/55bac82e-95f6-48f9-bab5-473948171996?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2ba713e5-7675-46c0-85a5-d89209ae66a7?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/21e2538b-8010-4d59-8219-39c8f06a42be?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a4969c32-e1da-4a3f-baef-8608fe906ad4?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a316ac4d-a3b2-46ee-b7f7-eb706d936a84?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2d681e9a-0c5c-461d-afd0-45b79f0d0208?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/506c6cfc-054d-40f5-9ed7-2a68f9e1218f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/26e292ce-f514-4dbd-9432-d895d5bf3648?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f25fde94-846d-41dc-b3b6-493d7c5d5c9f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/51d98787-af23-4e8f-9f89-aca4123f737b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/99aad113-12a9-4480-93c5-4412bee414c1?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d5f30eb5-9442-498a-92fd-2054fccacd47?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e65d3bd4-3b79-473a-83f5-d78fa121bf07?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e57705f1-e9f6-49a4-9734-c74f84576564?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/40cc103a-7fe5-48ae-8b62-314ca9b4811d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/dfe32bca-d06a-4adf-b9b3-7eb521891f6f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/6ec22b54-03d4-4047-a5b8-4fbb3f3cef3e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/703d8d87-a30f-47a6-8b71-2e2633ef5106?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/33aa8590-1ac5-4f17-a7f8-7546bff8d4c1?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/913b8a66-ddde-43ac-af52-75c701bb341c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3c9d1b62-1b35-4c60-9c08-91c7e9cf273a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7a857f36-30d6-4d15-ac19-64809ea835a1?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7d662f65-8918-4d66-aa71-b75121968677?DLCount=1",
+        "https://www.motcmpb.gov.tw/Information/Detail/5b466a37-6a46-421d-b5ef-ddca7a95b354?SiteId=1&NodeId=557"
+      ]
+    },
+    {
+      "id": "79374",
+      "name": "交通部航港局單位分決算/單位決算",
+      "format": "xml",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8d61c971-23d4-4166-b476-9fa7a8051e8d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/fe8d4287-565a-48da-b31d-4e6c248b70b5?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/37b264e9-8ea0-4aa2-bc3b-b948e55695c2?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8d4c89d4-cea9-471f-91ad-297912eef7d3?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8898ce0b-0b99-4833-9c11-6968d961ac38?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/27d85081-d9cc-4535-a4b5-c91c8ce3ef20?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0b594dfb-2798-4187-8218-a8b4e15e1c24?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/01a2216e-d1f4-452a-b8ac-2fd418f8fbfa?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c26b0789-81ac-4fb2-8588-d6c576c7acb9?DLCount=1"
+      ]
+    },
+    {
+      "id": "79375",
+      "name": "交通部航港局單位分預算/單位預算",
+      "format": "xml",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/ae1b3ca9-aaed-4f4a-b104-a82f5208c9ce?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c45c8122-e857-422a-9024-81eb5edd3706?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5f7a13fb-7b42-4fd7-a653-c9aa84b77989?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a8ca9c19-6242-4dda-a700-edb2919bc2ce?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/46098b8a-b797-4cb3-9ba9-5fb2b05b9201?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/159f2ebc-3d01-4be1-8681-a437eed3c774?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f71b6910-eac0-4896-9d80-0aadbe1eed19?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/95a9e7a5-ae32-4e7f-9d78-f93f1a77a531?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5ec29449-0706-467e-b52b-182e5d568d2b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a13f8525-72ec-4b9d-96ea-5b1002871f9f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d7a1d16f-0e7b-4be3-a9a2-dc459834288a?DLCount=1"
+      ]
+    },
+    {
+      "id": "43445",
+      "name": "交通部航港局獎補助費用",
+      "format": "csv",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Uploads/KindEditorUpload/0b6d14ec-ad08-4d3d-bdab-b2d45ffee362.csv"
+      ]
+    },
+    {
+      "id": "146619",
+      "name": "交通部航港局小船註冊清冊",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f19568cd-564e-4bdf-ad36-4922a3e38662?DLCount=1"
+      ]
+    },
+    {
+      "id": "126692",
+      "name": "遊艇泊位數統計表",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8627ca66-2206-4a75-af3a-b061b2c99d5f?DLCount=1"
+      ]
+    },
+    {
+      "id": "176513",
+      "name": "遊艇登記註冊清冊",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1460485935987691520.ods&filedisplay=114.12遊艇.ods&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1470259108136357888.xlsx&filedisplay=115.01遊艇.xlsx&flag=doc"
+      ]
+    },
+    {
+      "id": "171266",
+      "name": "每月國輪艘數統計表",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1470262624506613760.ods&filedisplay=國輪登記數統計表115.01.ods&flag=doc"
+      ]
+    },
+    {
+      "id": "171744",
+      "name": "iMarine航港發展資料庫-臺灣進出口國輪外輪承運量",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/cargovolumn"
+      ]
+    },
+    {
+      "id": "171745",
+      "name": "iMarine航港發展資料庫-進出臺灣各國際商港船舶",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/ship/m"
+      ]
+    },
+    {
+      "id": "171748",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(1動物產品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/1"
+      ]
+    },
+    {
+      "id": "171751",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(4調製食品、飲料、煙酒類)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/4"
+      ]
+    },
+    {
+      "id": "174528",
+      "name": "引水相關民眾常見問題集",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407200133598154752.pdf&filedisplay=引水相關v6.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174559",
+      "name": "如何瞭解「航港單一窗口服務平臺MTNet】各子系統之服務功能及基礎操作？及如何申請MTNet帳號?",
+      "format": "其他",
+      "urls": [
+        "https://www.motc.gov.tw/201506260001/app/govdata_list/view?module=&id=1615&uid=202508200001"
+      ]
+    },
+    {
+      "id": "171489",
+      "name": "iMarine航港發展資料庫-臺灣出口貨櫃",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/container/e"
+      ]
+    },
+    {
+      "id": "171794",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(21藝術品古董)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/21"
+      ]
+    },
+    {
+      "id": "171771",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(3動植物油脂及其分解物)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/3"
+      ]
+    },
+    {
+      "id": "171772",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(4調製食品、飲料、煙酒類)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/4"
+      ]
+    },
+    {
+      "id": "171774",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(6化學或有關工業產品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/6"
+      ]
+    },
+    {
+      "id": "171778",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(10紙漿、紙、紙製品印刷)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/10"
+      ]
+    },
+    {
+      "id": "171779",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(11紡織品及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/11"
+      ]
+    },
+    {
+      "id": "171755",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(8皮革毛皮及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/8"
+      ]
+    },
+    {
+      "id": "171758",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(11紡織品及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/11"
+      ]
+    },
+    {
+      "id": "171759",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(12鞋帽傘、羽毛及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/12"
+      ]
+    },
+    {
+      "id": "171762",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(15卑金屬及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/15"
+      ]
+    },
+    {
+      "id": "174167",
+      "name": "MSC、MEPC 重要決議內國法化評估案",
+      "format": "pdf",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/189116fc-7fc2-4409-b761-5d16bba67e5c?SiteId=1&NodeId=391"
+      ]
+    },
+    {
+      "id": "174144",
+      "name": "船員訓練公費政策委託研究",
+      "format": "其他",
+      "urls": [
+        "https://www.motc.gov.tw/201506260001/app/govdata_list/view?module=&id=1615&uid=202507150000"
+      ]
+    },
+    {
+      "id": "174420",
+      "name": "國定古蹟東犬燈塔(東莒島燈塔)修復及再利用工程(第1期)工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1403275955178311680.pdf&filedisplay=02_國定古蹟東犬燈塔(東莒島燈塔)修復及再利用工程(第1期)工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174422",
+      "name": "國定古蹟東湧燈塔(東引島燈塔)修復及再利用工程(第1期)工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1403277057277825024.pdf&filedisplay=03_國定古蹟東湧燈塔(東引島燈塔)修復及再利用工程(第1期)工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174424",
+      "name": "「基隆市市定古蹟彭佳嶼燈塔修復及再利用工程(第1期)」 工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1403278267774930944.pdf&filedisplay=04_基隆市市定古蹟彭佳嶼燈塔修復及再利用工程(第1期)工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174425",
+      "name": "屏東縣歷史建築鵝鑾鼻燈塔修復及再利用工程(第1期)工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1403279190962212864.pdf&filedisplay=05_屏東縣歷史建築鵝鑾鼻燈塔修復及再利用(第1期)工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174427",
+      "name": "臺東縣歷史建築綠島燈塔修復及再利用工程(第1期)工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1470669955623030784.pdf&filedisplay=臺東縣歷史建築綠島燈塔修復再利用工程(第1期)工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174432",
+      "name": "澎湖縣歷史建築目斗嶼燈塔修復及再利用工程(第1期)工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1403285831162007552.pdf&filedisplay=08_目斗嶼燈塔工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174434",
+      "name": "基隆市市定古蹟基隆燈塔修復及再利用計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1403287059342299136.pdf&filedisplay=10_基隆市市定古蹟基隆燈塔修復及再利用計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174925",
+      "name": "如何查詢及瞭解與航港局轄管業務相關法規及其函釋、法制作業、訴願案、法規講習活動？",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1415935740650459136.pdf&filedisplay=法規科.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174927",
+      "name": "如何得知國際海運相關網站及其他推薦網站?",
+      "format": "其他",
+      "urls": [
+        "https://www.motc.gov.tw/201506260001/app/govdata_list/view?module=&id=1615&uid=202509120002"
+      ]
+    },
+    {
+      "id": "174929",
+      "name": "如果有海運相關之國際外賓或機構單位想要拜訪本局並進行議題交流，可以跟哪個單位聯絡呢？",
+      "format": "其他",
+      "urls": [
+        "https://www.motc.gov.tw/201506260001/app/govdata_list/view?module=&id=1615&uid=202509120003"
+      ]
+    },
+    {
+      "id": "174931",
+      "name": "國際海事公約及趨勢動態掌握與因應分析",
+      "format": "其他",
+      "urls": [
+        "https://www.motc.gov.tw/201506260001/app/govdata_list/view?module=&id=1615&uid=202509120005"
+      ]
+    },
+    {
+      "id": "174937",
+      "name": "提升商港區域危險物品安全管理先期計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974810050727936.pdf&filedisplay=附錄 3.4、通識教育試運作訓練課程問卷.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974810054922240.pdf&filedisplay=附錄 3.1、各機構IMDG Code 訓練課程表.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974810184945664.pdf&filedisplay=附錄 2.6、「IMO港區建議書」四大核心及要項與我國法規管理現況對照.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974811619397632.pdf&filedisplay=附錄 3.2、IMDG Code 規範危險物品運輸相關職能應受訓練課程內容.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974830980304896.pdf&filedisplay=附錄 3.3、危險物品通識教材.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974988489003008.pdf&filedisplay=附錄 7.1、特殊危險貨物規定.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974989487247360.pdf&filedisplay=附錄1.5、期末修正報告審查意見與回應.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974989709545472.pdf&filedisplay=附錄2.5 新加坡參訪簡報.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416973644030021632.pdf&filedisplay=附錄 1.1、期中審查意見與回應.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416973645166678016.pdf&filedisplay=附錄 2.2、我國港區裝卸與倉儲安全標準作業流程建議草案.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416973644336205824.pdf&filedisplay=附錄 1.2、期末報告初稿審查意見與回應.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416973645879709696.pdf&filedisplay=附錄 2.1、港區危險物品作業手冊(包裝件型式).pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974614315143168.pdf&filedisplay=附錄 2.3、港區危險物品設備配置安全措施規則草案.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974989575327744.pdf&filedisplay=附錄 7.2、散裝液體(包括液化氣體)、散裝固體危險貨物及管路規定.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974991433404416.pdf&filedisplay=附錄1.3、期末報告簡報.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974992305819648.pdf&filedisplay=附錄4.1、商港法修訂條文建議與說明.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974992377122816.pdf&filedisplay=附錄4.2、商港港務管理規則修訂條文建議與說明.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974992620392448.pdf&filedisplay=附錄5.1  協助回復監察院函詢事項.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974992771387392.pdf&filedisplay=附錄1.4 、IMO港區建議書(中譯).pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974994059038720.pdf&filedisplay=提升商港區域危險物品安全管理先期計畫_摘要表-20180530.pdf&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1416974999016706048.pdf&filedisplay=提升商港區域危險物品安全管理先期計畫_總結報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174942",
+      "name": "海難災害防救業務計畫(113年1月核定版)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1417087750930173952.pdf&filedisplay=海難災害防救業務計畫(113年1月核定版) (2).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174967",
+      "name": "海難災害事故緊急通報處理系統圖",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1418158162455826432.pdf&filedisplay=有關海難通報對象及相關單位處置流程.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "30371",
+      "name": "新聞稿",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/9db80d53-77fa-4f68-b508-db82264f869b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/233213eb-8723-470f-a00b-89bf120bfe35?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/17ea15a5-ae73-4dc8-ab53-be371fb4e77a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/be4d61d2-76f3-4ab3-9a90-8f6de4c648af?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e6c0cfed-e824-4189-af96-0afa6d745010?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/20fb1369-33d8-4d55-b67a-aeb7c9f0ee11?DLCount=1"
+      ]
+    },
+    {
+      "id": "30377",
+      "name": "本島至離島間航線購票網站",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/4a03bf5f-727c-45b8-a919-7d78274a9666?SiteId=1&NodeId=556"
+      ]
+    },
+    {
+      "id": "27671",
+      "name": "交通部航港局廉政會報會議紀錄",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/201cb3fd-5d4c-41b3-a153-7700e94423af?SiteId=1&NodeId=552"
+      ]
+    },
+    {
+      "id": "27673",
+      "name": "商港服務費各港實收統計表",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/6ef85a57-f769-4b4c-b24d-158c8c6b887e?SiteId=1&NodeId=559"
+      ]
+    },
+    {
+      "id": "16301",
+      "name": "我國在船服務人數統計表",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1369890083854880768.ods&filedisplay=11402船員在船服務人數統計.ods&flag=doc"
+      ]
+    },
+    {
+      "id": "157630",
+      "name": "遊艇駕照(含一等遊艇、二等遊艇)發照統計資料",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1369886717984641024.ods&filedisplay=遊艇駕照核補換發歷年統計.ods&flag=doc"
+      ]
+    },
+    {
+      "id": "171298",
+      "name": "iMarine航港發展資料庫-臺灣進口貨實櫃",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/container/i/f"
+      ]
+    },
+    {
+      "id": "174689",
+      "name": "商港區域危險物品安全管理提升計畫",
+      "format": "odt",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887504378204160.odt&filedisplay=05附錄五 教育訓練教材.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887510426390528.odt&filedisplay=07附錄七 APEC日本國際會議與實地參訪行程.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887514830409728.odt&filedisplay=02內文.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887523403567104.odt&filedisplay=08附錄八 商港區域危險物品安全管理產官學座談會資料.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887441417506816.odt&filedisplay=09附錄九 期中報告委員意見與回覆.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887441371369472.odt&filedisplay=11附錄十一 期末報告委員意見與回覆.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887441262317568.odt&filedisplay=10附錄十 期末報告初稿審查意見與回覆.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887443183308800.odt&filedisplay=e1388344-723f-4908-be6c-7659885133f7.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887443833425920.odt&filedisplay=01目錄.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887474984521728.odt&filedisplay=01附錄一 例行會議記錄.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887446043824128.odt&filedisplay=03附錄三 港區危險物品作業手冊（草案）.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887501702238208.odt&filedisplay=12附錄十二 期末報告簡報.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887481913511936.odt&filedisplay=03摘要.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887482215501824.odt&filedisplay=02附錄二 106年度計畫成果彙整.odt&flag=doc",
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410887482660098048.odt&filedisplay=04附錄四 港區危險物品作業手冊座談會資料.odt&flag=doc"
+      ]
+    },
+    {
+      "id": "174690",
+      "name": "遊艇碼頭營運管理參考手冊",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410890499027374080.pdf&filedisplay=遊艇碼頭營運管理參考手冊(定稿)_11406.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174691",
+      "name": "遊艇碼頭設施規劃及設計參考手冊",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410891360709382144.pdf&filedisplay=遊艇碼頭設施規劃及設計參考手冊(定稿)_11406.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174145",
+      "name": "我國海事人員智慧數位升級計畫(115-117年)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394527141114155008.pdf&filedisplay=我國海事人員智慧數位升級計畫(115-117年).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174241",
+      "name": "航海圖書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1398232168911605760.pdf&filedisplay=AI語料資料庫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174430",
+      "name": "國定古蹟西嶼燈塔(漁翁島燈塔)修復及再利用工程(第1期續辦)工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1403284151829794816.pdf&filedisplay=07_西嶼燈塔工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174433",
+      "name": "高雄市市定古蹟旗後燈塔(高雄燈塔)修復及再利用工程(第1期)工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1470669184756092928.pdf&filedisplay=高雄市市定古蹟旗後燈塔(高雄燈塔)修復及再利用工程(第1期)工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174539",
+      "name": "海運產業發展政策研究-航業法修正之研析",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407270246938578944.pdf&filedisplay=海運產業發展政策研究—航業法修正之研析.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174544",
+      "name": "燈塔參觀常見問題",
+      "format": "odt",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407279188091604992.odt&filedisplay=燈塔民眾常見問題.odt&flag=doc"
+      ]
+    },
+    {
+      "id": "174535",
+      "name": "航運產業升級方案委外研究案",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407261915138232320.pdf&filedisplay=20250217_航港局航運產業升級方案_(定稿).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174536",
+      "name": "金門小三通客運固定航線票價及航商聯營可行性研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407263514715754496.pdf&filedisplay=金門小三通客運固定航線票價及航商聯營可行性研究 (1).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174442",
+      "name": "臺中市歷史建築高美燈塔修復及再利用工程工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1403301132926717952.pdf&filedisplay=13_高美燈塔修復及再利用工程工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "171741",
+      "name": "iMarine航港發展資料庫-臺灣進口貨空櫃",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/container/i/e"
+      ]
+    },
+    {
+      "id": "171742",
+      "name": "iMarine航港發展資料庫-臺灣出口貨實櫃",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/container/e/f"
+      ]
+    },
+    {
+      "id": "171743",
+      "name": "iMarine航港發展資料庫-臺灣出口貨空櫃",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/container/e/e"
+      ]
+    },
+    {
+      "id": "171747",
+      "name": "iMarine航港發展資料庫-海港自由貿易港區出口貿易值",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/ftz/e"
+      ]
+    },
+    {
+      "id": "171782",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(13非金屬礦產製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/13"
+      ]
+    },
+    {
+      "id": "171784",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(15卑金屬及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/15"
+      ]
+    },
+    {
+      "id": "171785",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(16機械電力電器及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/16"
+      ]
+    },
+    {
+      "id": "171787",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(18精密儀器設備)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/18"
+      ]
+    },
+    {
+      "id": "171790",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(20雜項製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/20"
+      ]
+    },
+    {
+      "id": "171752",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(5礦產品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/5"
+      ]
+    },
+    {
+      "id": "171753",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(6化學或有關工業產品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/6"
+      ]
+    },
+    {
+      "id": "171754",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(7塑膠橡膠及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/7"
+      ]
+    },
+    {
+      "id": "171756",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(9木竹、藤製材及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/9"
+      ]
+    },
+    {
+      "id": "171757",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(10紙漿、紙、紙製品印刷)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/10"
+      ]
+    },
+    {
+      "id": "171760",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(13非金屬礦產製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/13"
+      ]
+    },
+    {
+      "id": "171761",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(14珍珠寶石貴金屬)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/14"
+      ]
+    },
+    {
+      "id": "171764",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(17運輸工具)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/17"
+      ]
+    },
+    {
+      "id": "171765",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(18精密儀器設備)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/18"
+      ]
+    },
+    {
+      "id": "171766",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(19武器與彈藥；及其零件與附件)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/19"
+      ]
+    },
+    {
+      "id": "171773",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(5礦產品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/5"
+      ]
+    },
+    {
+      "id": "171775",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(7塑膠橡膠及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/7"
+      ]
+    },
+    {
+      "id": "171776",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(8皮革毛皮及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/8"
+      ]
+    },
+    {
+      "id": "174561",
+      "name": "航港局企劃組之委託研究報告",
+      "format": "其他",
+      "urls": [
+        "https://www.motc.gov.tw/201506260001/app/govdata_list/view?module=&id=1615&uid=202508200002"
+      ]
+    },
+    {
+      "id": "20110",
+      "name": "航港建設基金會計報告",
+      "format": "xml",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f6190834-4855-4f85-8d3b-636131a8d6c0?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/4898260d-041a-47a0-ae3e-14e82767b087?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7b8a5643-8ca4-4e9c-bd0b-796b3fc87ac0?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a817fcc6-e87f-4072-945a-f1d10d6b46c0?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3a549ad4-d507-467d-bd37-9dadea7017cd?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/560d42c4-e09f-4c39-be02-fe4b1b414c96?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/37e5528d-bbcf-481e-ae75-87e4ed5b912e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f8ce253b-be24-4b05-9f1c-4a02fa2a12cc?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8e1dff7e-b809-4221-abb4-637190eba918?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5675f72e-3ced-4a37-9bad-8add217aac51?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/36e52c12-a6ae-46e6-b514-d3750ec22541?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/475620ad-1e70-42a7-8667-633f7a87e279?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/acd8ed25-d1e8-4412-beaa-d22e25bff9a4?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/fc5b7437-4a97-4c07-b318-af2f29c6ba07?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a99cb3a9-9f52-44df-ae2c-6390796cdf74?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8129cba3-a6e7-4d1b-adcd-0a79cec72b7a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/834f9dce-29ad-4ed3-ae83-55b55a5d3362?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/caca76f5-4042-49b1-8a08-2b9513111ebc?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e451fe3d-3422-4629-aec3-5e2e1e5091d3?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/aec735fa-65e9-4737-a455-36a50d0afe16?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/224c4783-47f4-470b-b0a3-24daf33bf41b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5eba7171-74b2-4310-bb73-af4f193b94f5?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b490bb8f-a5d9-4b87-9f8d-b4665a4cd5aa?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3470fc39-3b36-4884-983b-a5438207ae6c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/92ac325e-5b2c-4ac4-844b-639b313e08bd?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3f8f1507-b48d-4024-9bfd-04d4633a55be?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f6e6a4f2-4106-4102-b70a-c61a6885061b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a5f7b681-272d-46b4-a466-56a99af03bd1?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/979e59c0-b89e-4866-a1f6-86cc9954fdd7?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/1987bf1e-bb42-40c8-8275-492be5e1100f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/9de384d9-4ad5-47b7-b9ee-f3f2174b9e63?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e7a8e491-6c98-413f-b350-9b10f226717b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c6b8ad1f-a0c6-4951-ba41-cce5e8097e6a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d7891cf3-e3b4-495c-886e-7db29a783cc3?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0a0b0718-2757-44a9-a752-24080aaf88c9?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/dcf5f821-13e9-4587-aeff-6da48a7a811b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8ffb83ab-6d7f-427d-bb3c-f6338e893568?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2caa8547-f1a1-4912-a141-65962f6ef5fc?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0e130c2c-1f6e-4ed8-83bb-b138481b5f7f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b14ede79-f36f-4b81-8a85-eede3c2e857f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a929b70e-748c-4a77-9d0f-56b2412aa73e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e01e6901-8002-4f89-8cc7-de58c72808a8?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/ca56901c-caaa-4e0a-810a-a85f6a8788a6?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3baddaf3-eb53-4785-b96e-910e693e37f5?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f528cdea-e8b8-49f2-9755-36b689542335?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7a427d6b-4174-4610-8a49-50671127d427?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/84ec87bd-54e2-472f-8b83-80bba691b3b5?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7887a516-555a-4b3f-900b-995354e21885?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/fbe302a8-434c-4db3-8a43-b035cc6cad28?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/22f00525-84a1-435f-8201-e1bb82aa9e40?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0d54c4c2-380a-4b55-8542-74d1f9aa4400?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/306e9e13-f62c-4151-86aa-e46cc2c2d6ba?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/91c7b6e0-81a5-48e2-b578-d43c3caf42ae?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/20dacd9e-f12c-4df8-9dec-0df31cf6d404?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8d93fd78-c16b-4470-820a-c4c48f2ad2d5?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/155565d9-4b0e-4756-b591-00873cdb99e4?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a02a82d6-eda2-4eae-852b-0c05c83af1e9?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d7a5ab47-f3f5-4c1d-99f9-b4ba9f79a478?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/6c93fb8d-1c75-4459-a4f1-31ff4f112714?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c34c6be9-87f9-4ff9-b6f4-0062b7d5a56c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2d3de099-6d90-439a-a05d-2363ad02b49e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5cd8329a-d5a1-40c5-b519-a22be77d9342?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/398a602a-88be-4cac-90cb-436c6f93375a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/fa86afd5-5669-4c15-b0e1-5e05bb3605af?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e0296393-5854-4beb-9a94-c7f3cdbf9fbd?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/94b0c109-8e66-4cc5-a3bd-1fce1cd14424?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e0b81947-2b68-46f5-a97c-b769a2d32d45?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3c4977d0-380e-4394-8d71-f671cbe3b19c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d3519953-9ab8-4625-b5bd-b79588d2912c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7aae3aa0-f6b3-419e-810f-4e9572375394?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7cde8e05-ce8f-44c3-8e37-bdff77586c54?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/581ad83b-650e-46be-bf53-95a16cebb833?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e4cb56a9-00f2-4bf1-a758-25e28278955b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5e7b09a1-45e1-4346-97ed-2db0a6d80993?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/118b90fe-4f0f-46ca-8839-aaf489c21fff?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b92e2d62-5e61-45e4-9c90-e5bd4db2a6ac?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/00d043a1-16fc-4785-a328-745cab206922?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/250672dd-18b2-4154-a5dc-b37a69ba4021?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5aff038c-7fbd-4ab1-937f-fe11e75e8951?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e2429108-e609-4f57-91cb-5d7dd5f0d310?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/be058752-1dfd-4868-8508-5c0daa9aae5b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d083a731-d8d5-4344-9e12-20a40e998153?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/6f24e70d-86ac-4dec-ad41-0760cb48bff9?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5730118e-f59d-4b62-a00c-4f9274e896d4?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/920a69bb-02c0-4b75-aece-80aa12789d29?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7b9be127-3a63-40d8-b4c0-4a3b89ac874d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/9dcf8ebf-7044-41a3-945a-d2f6e12a4290?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2f0a588c-8225-4874-90e9-ac5c08b702f7?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0c2827b5-8bed-4632-b9fa-f265e3487895?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/6425dee8-4a46-4ede-8339-45d2d41de81d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/97ea8638-c0e0-45b9-a448-60d1a1664e9c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/db38e424-2353-4e3d-a8d9-4335af20cc7b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8f2a46bc-72bf-4b75-9493-3bef0b89e0a5?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/4ca517c5-c6a2-432f-adb5-deb62b245802?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5308260e-5a3f-450b-9463-f822460e4edd?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/843f19e2-9be3-49be-af3c-3c23fa522ee4?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2be2d9e9-fcee-40c2-bc94-eb55879ab596?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5139cb9b-2a5a-456f-ae76-471bac785ea1?DLCount=1"
+      ]
+    },
+    {
+      "id": "6072",
+      "name": "馬祖小三通(南竿福澳-琅岐)航班表",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/5fe0791f-45c2-48bd-ba42-ec7c51d25cda?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/f203b1e5-c46e-466f-90a8-a8737290655a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/efa11bd0-415e-426a-b86b-4fcd7613b61f?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/5e7eaaba-d21e-41c0-b262-936eecf1299d?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/ada371f5-c49e-4a21-90ee-88e2a7ce98b6?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/8c5bbcc1-e119-4a71-942f-47756ef28350?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/05b7226f-4d40-413b-9669-6fe14aab50c2?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/632af60a-9af7-4a80-9878-29e6d86d4df9?SiteId=1&NodeId=556"
+      ]
+    },
+    {
+      "id": "20047",
+      "name": "交通部航港局會計報告",
+      "format": "xml",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a8d482ac-02dc-410a-ba5a-704570141b29?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7cf3a15c-9965-413e-b1cd-b11fd62196ed?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/1162fc35-fc0c-4e5b-9f0b-aa5fe10a5eef?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/28d54e3e-e27b-4fab-9a4b-4467d566b07d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b7af45e7-2616-4954-9c5b-72fa0ba0290a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/cff144b3-c8ce-411b-9a93-17e3bb3fee73?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/500c12eb-ca3a-46f4-bca4-83568b214c83?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/41bafd51-b358-4153-b935-371594885ccd?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0364213d-620d-48eb-93ae-fb1a7b37f03a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/16ac1a91-4afc-4cfd-a203-dd065db76341?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c73950f6-1e32-4750-bd48-68db9c92008d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f0d11a21-896f-403b-a7f4-6c1b9d3f509e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0317622b-1492-44ce-a3ca-4827aab78395?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d9e19ba7-3113-484b-97ae-a64383a76163?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a9fc8768-69c4-4350-86e7-a35a1163a227?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c90e8cab-ec2b-4f24-8df6-15a41b8cc174?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/572cbede-d795-4777-96d6-6df88e8780c1?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8168e2de-d86d-4915-a043-1b2d0e624f60?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/4e4a73cb-333c-45ae-b83c-b344dae9b282?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/bd4fc440-0780-4443-9f3c-bc7bbd819794?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/02d9d47b-f09d-49e1-bc17-35290150b20e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/6cedb676-cfc7-4739-bf57-97efc48a8c37?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/4d85b53a-e602-4475-910e-bffdf0d99ea4?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/fbec0c85-c899-4c58-8e28-5587273afe28?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/34d3e20b-a236-4b72-bd82-9994be10aaca?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/4c4ff588-d30c-4704-9878-cf0ff65d3675?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/886a895f-b26a-4f35-b942-eb8b06ec1ef7?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/88e49069-2e01-46e2-a214-1777daad506d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b948fd73-7859-4028-9435-4c7e6680cf6d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/26e2a578-1bec-41e0-b29f-0c819b3e649f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c1e0bdea-f533-4d93-a77d-057a9a51f222?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/db433e51-1cb1-4fa6-b517-225285f52d1e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e4611678-b943-4e8d-8f62-db5385df99cf?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f4776b00-72d7-4bc0-88d9-f9d8f483dca8?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a436ef44-765b-4c5b-88fc-692c6db58d73?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/56f43850-e774-4b17-a785-81c8cef191a5?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/9b1d7bc7-847c-4df0-ab7c-21315ebc0897?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/fca83e66-d34f-4152-9fa3-3d90b16f6bca?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/cb74b436-508a-42f5-baf7-82adb684832b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/1b8bc0cf-f92e-416e-9723-5e66ff944070?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0c2a7799-29a4-4b1e-a67c-ee2314a542f4?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0fd674f0-8b6b-4de2-b36c-7ae65e805e46?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b65a0589-0b39-4719-a9c7-39093e5e08db?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0f74fa43-9268-4cd6-a949-a4d378bedac8?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/fc1d044f-2fcb-43e1-8d33-4dbb8ed3aa25?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a445a620-1d3c-4554-84cf-6fb4246ad0c9?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/006a9025-7f34-453e-ac24-80f5cc05727b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/53a883a1-8e96-4410-8013-bf4d93bd774a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/159f92a1-cae9-4d24-ad3f-8d18cc3cd889?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/04e311b6-ddb3-4c75-8323-23e68cdbe65c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d5510252-9668-4c53-90b0-37e152951d45?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/385c7bad-d481-458a-a73d-fd8beaddc397?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3aa5ca22-3582-4c94-81ca-43891e766a11?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3f1d9441-3572-4856-96a8-290430255b28?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/662eaaea-f921-4fea-af34-5ace5e2cc444?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5769119d-db08-4232-8a7a-356b3b1ddb88?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/6e8c9e85-03bf-4f60-bc6f-0a9cdfef83c3?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e48ce12d-411d-408c-8983-60d8ee69bc8c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/edb6fa36-dd4d-4d1d-b26c-c97456feff67?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c63c25dd-0fb4-4bf1-9dcf-7b6f3cb986ad?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/173eb6c3-005f-48f9-a065-ba22f6e55b99?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/942382b5-3eaa-46c8-97cb-14acbba3e315?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d73415bb-d55f-412f-8fbd-f0fb43407686?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/bd8ee400-54fa-4515-a323-8edb3dcfd0df?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/67df77ff-5ff5-48ed-a76a-c6083b2e227f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2a2c44c3-15ba-4ad9-8d6c-eb0ccc34adbd?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/dbdd8076-cf43-4ea3-a9c4-8841c51b11d5?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3c2f1195-4ff4-4fcb-9ab4-00dcff843aa7?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/4cfc8503-8585-4f70-8e91-78cc4327b31f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/646ef051-b940-43ba-afa4-6e0b730833af?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b02765ab-2b68-4554-8df0-807bef755996?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/4454324c-83e3-41f8-89d7-1974beb45b2b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8d5e7321-13aa-4ea0-a7fa-42342f24e470?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2b3e738d-68db-4e0d-9770-9f2faa794e91?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0462f0ff-cb86-46f5-8eaa-fdd4e2103cd6?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d981509a-b555-4ab7-a188-3cc62bd9e6b4?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2de6a71c-6d07-413e-ad1d-7fc2b4b80af5?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a8927b7e-7471-42e1-a7a2-61922db0961d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7fbca307-f996-4c12-817b-f5fd96d6a1ed?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b9ace506-8844-4ef4-83d0-b01c216ff238?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b95d9b11-0b40-412c-99d1-00a4ceaa0b0f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/337633f7-51a6-45a2-ae82-17c3520f6cd9?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/49c26d32-4340-402e-8bd7-86c75fe46e52?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/cb97c32a-4d64-4a8c-a854-f7c6c6aa81ef?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5931e7f2-6e12-4040-9a68-5a0142a1c11c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d6eb6d32-fb61-4d70-a875-a7930a9e6163?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2c24000e-8033-44d1-bd87-d2943a305e1f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/40254644-4bdb-4457-b8cf-3ae092ed1aa2?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/9fc42775-83c4-42b7-956f-288424d8ba37?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/fcc4a56f-c307-4277-a70b-b5b057c26a29?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e786ccb8-c6c7-4bf4-af96-aa30e65755c9?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/6cf756c0-6b9a-474f-a5e3-3ec7c268397d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/ffb2a498-4740-42a6-9355-5ead6557b225?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7399cfd3-13ad-457d-91b9-5ff0a67adb7e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/efca7dd9-b4df-4fe4-bf67-99451d2eb461?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/581ad83b-650e-46be-bf53-95a16cebb833?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c3b76c1b-31ac-4def-b820-e50dbf58373e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/85af9dac-0ed0-42d0-b5e9-a8b3c22e1119?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0edcc76d-3aad-4bf7-859e-5ff1c2e807aa?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f1277416-e5c1-4be7-8b06-18a0d529b9a1?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/df468023-c3f6-4197-8163-edcc8e9ae9cc?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e1231f12-60c5-4d42-9c73-ebfed62b3f50?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5fdc10fd-5ba7-48d6-a461-59132cfb232b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/84b778b2-b03e-4bdb-b9d4-e197656f4987?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5da295cd-f27b-47b2-82e4-a2b27520d4c9?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/16a1550b-9d6e-4649-8b4c-49eeb2f4a9dc?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0a23e511-306c-49e3-a6ed-4070c772a9e3?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e39a22ee-8c1d-4e75-acf5-6297d88d6525?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d5378885-0214-44d0-9287-07b503a30c8f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/fa5a6df0-1f16-4517-a2a8-64002311eadb?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/9fb5c76e-e592-4c73-b838-a51a8ff27326?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/51c8e8a6-6cfc-4e47-aceb-098ea50fcd5b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e600d0ed-6bc8-4748-8f33-5407bf519886?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/1dc5327e-3d2d-4418-a283-fe9b5970fa5d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7c04f273-36f7-4a44-a3db-a4b1d8ca9a5a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/22f9d716-0295-4a7a-b5c6-147c8da23005?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7726a967-ea00-429f-b334-45d31bbd0871?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/6c43f6eb-25f6-4c0f-9ba8-c2afd9ee80d3?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2feb7c3d-b0c0-4a8f-8132-95658fbeb243?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/21ec0095-3123-4b3b-a99f-11bc4fc989f0?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a468a6ae-2b68-4e95-94b2-59a3b6573379?DLCount=1"
+      ]
+    },
+    {
+      "id": "28142",
+      "name": "燈塔燈質表",
+      "format": "csv",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/7cff0559-4d2c-4470-9119-7853d2580fd7?SiteId=1&NodeId=554"
+      ]
+    },
+    {
+      "id": "28799",
+      "name": "國際海運相關網站列表",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/a26bbfbd-38f7-4caa-8f73-2427bf47dcdf?SiteId=1&NodeId=558"
+      ]
+    },
+    {
+      "id": "16302",
+      "name": "交通部航海人員測驗統計",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1369890659867037696.ods&filedisplay=交通部航海人員測驗統計資料.ods&flag=doc"
+      ]
+    },
+    {
+      "id": "30349",
+      "name": "連續假期疏運 (成果)",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/8f9b482d-13f9-4e0b-a16a-feb66b90896d?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/498da57c-4e2b-4f7a-a9e4-e6b52c80f63a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/445fe670-f49c-4c00-9ed3-4daceead2325?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/8d84cea9-001a-4b5d-9e4f-fb0d47e5afad?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/621bd8f1-c694-4dbd-85b3-4a3d256732f1?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/2a5fdca3-c652-46dc-976c-9ac607d11f49?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/241746b8-f274-4714-ad38-5885571ff82f?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/b3eaddbd-7da6-466c-b77f-2bbbd16e1642?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/463d1200-62b2-4625-adce-ba357b82e6b8?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/d85f8ce7-cc4c-422e-a092-021493dcc995?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/1e79e509-070a-4b23-a4b0-405685119e23?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/5d2f31e5-a5a1-44b7-919d-5936b55ab013?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/a5f62e5e-b30a-4ea8-bc62-cbaf82cfba06?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/78ea734f-dba8-492b-9fee-4e5e6462a708?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/d777f4be-1f81-4071-90dd-a7b3a9c832a9?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/39af70d5-7e89-4c87-8935-fe8db50a308c?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/9dbe47b4-569d-4a18-a0fb-1aaae491c890?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/ffb35029-14c6-4770-beff-a539eecb0224?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/c1ed4ff1-f3ed-460c-a446-4fb3d9f06da7?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/ab3b1aaf-b2d0-433e-a125-babeea58871a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/cf1c601f-8877-48e5-bc0a-38cb0c5a530a?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/ce492bd0-c667-4b3b-b448-1c9395096be0?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/7e8ba76a-c56f-48b8-b38a-8b3ec4a4e8ad?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/d2c0e3ee-7fb6-42b9-971a-8f0b237410b2?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/0f16bdd0-b86a-4b88-8e82-6eb7c41a7588?SiteId=1&NodeId=556"
+      ]
+    },
+    {
+      "id": "79372",
+      "name": "航港建設基金決算",
+      "format": "xml",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/bdd9a851-3774-4fa6-a6cb-de908d83e561?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/837fac38-ec1b-4d7f-aede-9c6dbd7bc443?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b600ee5e-26e3-447a-a718-a567f075397a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/1007fb43-ca41-4614-9122-ba97ce161961?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/cd1be458-4303-4d4c-9c7b-9ef71eee6b11?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b5fd6e7c-5052-49d2-adcb-b1d8b389e3df?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/31fc96f6-bb0f-4e9d-9098-a50886522e16?DLCount=1"
+      ]
+    },
+    {
+      "id": "79373",
+      "name": "航港建設基金預算",
+      "format": "xml",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/9e012bbd-e05b-44d5-85a9-ca153d5a3d51?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/4dbde405-381a-47c6-bbc5-cdbded33e383?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/56ed2ab0-690b-49bd-af4c-f7b274f64a8f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/32d353ef-6be8-49ef-a6e0-e0bee7ef89ba?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/89f1bd84-8122-43fc-9f78-b4cbbdfc58c0?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/79cab534-542a-4de3-85ac-2db4f9b14480?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3d91ae24-8ebd-4af3-a16b-14dd33a715dd?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b8742c74-3ae2-41ae-9650-2a47d2472d64?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c52c55c7-598c-4cb6-be94-b98c1fc23268?DLCount=1"
+      ]
+    },
+    {
+      "id": "79376",
+      "name": "航港統計重要指標",
+      "format": "csv",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0b6398de-28cb-41a3-8326-9db6a38077c0?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/29c17a25-1926-4a41-aeff-5abcb59b4305?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/912161d7-03bc-4105-835b-4bc7624f5982?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/cd81d117-9358-42e8-a028-fcc6c1dc9c0a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7815b3fb-f913-4a86-bcfc-434447a60ab6?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/ed6195e9-fc6f-4638-9df1-f7b408536043?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f37c8791-a486-4fb3-9f3c-c3d846e652e1?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/4fa56ccf-0681-440b-bd12-1284a2f59c26?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f3cf9dfd-e642-4446-bf98-715df603cb15?DLCount=1"
+      ]
+    },
+    {
+      "id": "99641",
+      "name": "國際商港船舶進出港動態資料",
+      "format": "csv",
+      "urls": [
+        "https://www.motcmpb.gov.tw/ServerFile/Get/de7294fc-1b5c-4ee9-beb2-ce94c2736a99?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8eca53a7-a186-40b9-b562-261083875057?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3e5ca102-7424-4966-8410-074b0168acc9?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f60822e7-71b8-49a6-8ea0-da9922ba5952?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/bc437edb-2d7c-46a9-9794-015b8fba101c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/314721bc-8789-4e68-b949-0e5116f7f6eb?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3692551e-048b-4acb-aa88-4c4a42304e1a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/33925e7f-77be-4e84-9d64-4c5099e39583?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3a768d62-389b-45d3-bdf2-a8c85d439fe7?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3fbe5d1b-6f64-4d75-9e5a-7483a98df447?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/386e8ed5-c1bf-4ad0-95a4-57575b55b800?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a6101739-01cb-4086-9606-3824f24f0fde?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/90e055db-a042-4cdb-8c60-bf49eac6e22c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d9f8cf61-8d33-4216-bef1-c4ef4b3eda83?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/90a87b44-01d1-46f2-bd8c-9c4cf3de7d90?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/c8f8fbd2-21f3-45d7-b237-dffaca7b2083?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/22eb21e1-b30e-4a55-a511-403352e8471f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/802fe020-46d3-499c-8c07-b782645e2793?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/cf78e229-e760-4dd6-8d3b-932847e52f0e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7a8da60c-fb18-4116-8c3f-1def2a521a03?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/112c704c-fed5-43f6-b271-5244c521f95a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/87db4cf9-5bfc-4a4e-99f3-b089a4ae6ca9?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0f33a6d5-5602-4dbc-935b-d211da80db2e?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/be9235dc-7f88-462e-8dee-5094090e060d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/5830b346-5c53-4513-a5e9-3c1dd2c48672?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0c7fc1cd-fcb8-4566-9c9e-4d111e3c1df9?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f3fc7bb6-37d0-4bf2-97ec-cca14810e2c1?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/2e9a5fe6-831c-4599-8a69-ca62f60016e6?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/47ef5ed4-37de-486e-9cbb-8f748fdb4bb3?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b63cf97c-5dbc-4b8a-acc8-a5f8d2e20b39?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d12ce5dd-7c40-4f72-a426-8d17094e96d3?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/f1f9e6a4-d349-49b2-964a-98f076d4e56a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/6a447ceb-4ed1-4691-b4c6-32deaf611bdd?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7ed2a3c8-d04b-47f9-b993-5746bbba98c8?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0a16db46-46bc-4cdb-9209-c35a9301540c?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/1dbb797d-4eba-46ea-847c-fc675925bd2b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/43a655df-6d2d-4a9c-a42b-bd9888195f83?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/77ac1873-65a8-4138-ad08-21dea5141090?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/45592182-bd37-4d4d-8961-74b1a0064272?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/9239a2f8-daa2-4ea7-b49b-cba49c0f8ee4?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e13cf835-feaf-4195-9956-056d6e6d079d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/060d55c2-a620-45b1-bf2e-e42d9f43ed76?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/cc5179d4-8da9-4c08-8976-8e469ac4c5bc?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b4e20d56-7eaf-46e1-a23e-b65c326af2df?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/e1671b13-3a67-4eaf-8183-3e3aa1b26cce?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/b4081f77-2d76-42e0-98b7-957a275360e0?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/450025d3-0fb1-47fd-bd1f-1957eb6da9d0?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/650790eb-d848-4f33-8474-6442c6840b34?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/628b5048-8b48-47a0-843d-21c84bef5e41?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/dbf0daca-09b5-48ba-b7d3-6ee8cd81298f?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/933b7b02-edc4-4726-a414-1acc87481823?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/36dd426a-93ac-428e-a561-eca528cf4199?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/8f708f20-ebc3-4eae-b3cc-cbfa218d3f38?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/1bbb90ef-1333-441f-ade8-1a3cf47743c3?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/6e14682f-6bfa-427b-b448-c320508f660d?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/29eabbc8-21d1-4b63-afc5-851b5bd4e8c7?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/4051bb9e-f0e2-4b02-997c-8a3cf53cd225?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/ad1f0b43-ab2c-4393-983a-29116337a578?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/80ba421f-e5ee-4d6f-bcfb-bcf3ccde5e4a?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/fe966169-6bdd-452f-89ee-8c95d6f080e2?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/7adeb1f4-a28f-46df-b6ca-c0465852f035?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/196b92f3-06b1-4c2b-968b-2c3130b92e68?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a100f444-007e-4080-b07b-066b57097fcc?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/3ca720a3-cf17-4d9e-a6a3-45a7a404d1ee?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/ec6dcea7-4807-4d14-a71a-f539faa2ab53?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/a37adb7a-7eef-4480-8215-36e353f9e642?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/92c363e4-f96f-4273-b6ed-0fb82310ff83?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/17020d1c-f70b-44e0-9b2a-fc2ffd869863?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/1793def2-e0f1-4715-b3ab-ca64c9d1e2bf?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/d702efed-278d-4ccd-ac90-cd959de33bd6?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/30a5475a-fc0c-40a9-9ef5-e8ce81fe8f5b?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/9e9d7157-5205-4d65-b2e9-4fee7e59b6a2?DLCount=1",
+        "https://www.motcmpb.gov.tw/ServerFile/Get/0f3634cd-0163-4afa-a8d2-90a09224f4e1?DLCount=1"
+      ]
+    },
+    {
+      "id": "46733",
+      "name": "航港局推動政府資料開放小組會議紀錄",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/275aa14c-fd63-4754-a953-44b5a5c6d07d?SiteId=1&NodeId=582"
+      ]
+    },
+    {
+      "id": "103788",
+      "name": "船員外僱及僱外船員申請人數及案件統計表",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1369891372336680960.ods&filedisplay=外僱及僱外案件數與人數.ods&flag=doc"
+      ]
+    },
+    {
+      "id": "127635",
+      "name": "交通部航港局-振興三倍券通訊交易適用業者名單",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/ac25076e-1777-47d3-8944-f942a0babdeb?SiteId=1&NodeId=556"
+      ]
+    },
+    {
+      "id": "143014",
+      "name": "交通部航港局業務宣導廣告費用明細表",
+      "format": "csv",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Uploads/KindEditorUpload/a7469e0a-be0d-49e0-9cc2-e8503ac5c390.csv"
+      ]
+    },
+    {
+      "id": "136683",
+      "name": "馬祖小三通(北竿白沙-黃岐)航班表",
+      "format": "ods",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/305810ec-a290-4f74-b523-a5a81ee88087?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/eba33f4a-09d3-4347-ade3-9afac19f8a0f?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/725ede76-9836-41de-849f-ddec59b0d988?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/39cdb41d-a211-4252-80b2-acd7ca27da1d?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/89a24c56-0f34-4a39-93f4-6e9d7e5d33f5?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/2a470c3f-068e-4f26-99d4-561d1063fe67?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/dfa95e3a-99e2-49af-8fee-c99d4db58294?SiteId=1&NodeId=556",
+        "https://www.motcmpb.gov.tw/Information/Detail/a4323841-f20a-414e-906c-2d55a76125a7?SiteId=1&NodeId=556"
+      ]
+    },
+    {
+      "id": "162925",
+      "name": "航路標識服務費徵收費徵收情形統計表",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1118450803590303744.ods&filedisplay=航路標識服務費徵收費徵收情形統計表.ods&flag=doc"
+      ]
+    },
+    {
+      "id": "157629",
+      "name": "動力小船駕照核發統計數量資料集",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1369884788764184576.ods&filedisplay=動力小船駕照核補換發歷年統計.ods&flag=doc"
+      ]
+    },
+    {
+      "id": "171488",
+      "name": "iMarine航港發展資料庫-臺灣進口貨櫃",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/container/i"
+      ]
+    },
+    {
+      "id": "171490",
+      "name": "iMarine航港發展資料庫-在臺灣轉運貨櫃",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/container/t"
+      ]
+    },
+    {
+      "id": "174168",
+      "name": "新船營運之標準作業程序及查核點評估",
+      "format": "wms",
+      "urls": [
+        "https://www.motcmpb.gov.tw/Information/Detail/418fde90-df12-4b0e-991b-b746efcf65af?SiteId=1&NodeId=391"
+      ]
+    },
+    {
+      "id": "174172",
+      "name": "船舶業務常見問題QA",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394971337633566720.ods&filedisplay=民眾常見問題-政府資料開放格式.ods&flag=doc"
+      ]
+    },
+    {
+      "id": "174146",
+      "name": "船員專業訓練常見問題集(106年)(資料集為文本資料)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394556093987819520.pdf&filedisplay=船員專業訓練常見問題集(106年).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174147",
+      "name": "船員測驗常見問題集(105~106年)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1394557028101263360.pdf&filedisplay=船員測驗常見問題集(105~106年).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174440",
+      "name": "臺中市歷史建築高美燈塔修復及再利用計畫",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1403287558095376384.pdf&filedisplay=11_高美燈塔修復及再利用計畫.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174441",
+      "name": "高雄市市定古蹟旗後燈塔(高雄燈塔)修復及再利用工程(第2期) 工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1403300316132151296.pdf&filedisplay=12_高雄燈塔修復及再利用工程(2期)工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174444",
+      "name": "基隆市市定古蹟基隆燈塔修復及再利用工程工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1470666806828994560.pdf&filedisplay=基隆市市定古蹟基隆燈塔修復及再利用工程工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174419",
+      "name": "桃園市市定古蹟觀音白沙岬燈塔修復及再利用工程(第1期)工作報告書",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1470674256684650496.pdf&filedisplay=01_桃園市市定古蹟觀音白沙岬燈塔修復及再利用工程(第1期)工作報告書.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174527",
+      "name": "海事調查與評議相關民眾常見問題集",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407198144239767552.pdf&filedisplay=海事調查與評議相關v3.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174534",
+      "name": "民眾常見問題航務組",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407257970110107648.pdf&filedisplay=民眾常見問題(航務組).pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174537",
+      "name": "兩岸海運直航政策研究",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407265766956339200.pdf&filedisplay=兩岸海運直航政策研究 .pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174538",
+      "name": "「因應海運趨勢變化，研析航港發展策略」議題調查 —健全國內外航業監理法制研究案",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1407270688326160384.pdf&filedisplay=「因應海運趨勢變化，研析航港發展策略」議題調查 —健全國內外航業監理法制研究案期末報告.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174693",
+      "name": "國內商港未來發展及建設計畫(111~115年)",
+      "format": "pdf",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1410891599168147456.pdf&filedisplay=國內商港未來發展及建設計畫(111_115年)-修正計畫核定版.pdf&flag=doc"
+      ]
+    },
+    {
+      "id": "174926",
+      "name": "如何瞭解航港局國際交流事務資訊，如外賓來訪及國際會議參與情形？",
+      "format": "其他",
+      "urls": [
+        "https://www.motc.gov.tw/201506260001/app/govdata_list/view?module=&id=1615&uid=202509120001"
+      ]
+    },
+    {
+      "id": "174930",
+      "name": "如何瞭解航港局針對國際公約相關資訊？",
+      "format": "其他",
+      "urls": [
+        "https://www.motc.gov.tw/201506260001/app/govdata_list/view?module=&id=1615&uid=202509120004"
+      ]
+    },
+    {
+      "id": "171783",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(14珍珠寶石貴金屬)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/14"
+      ]
+    },
+    {
+      "id": "171786",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(17運輸工具)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/17"
+      ]
+    },
+    {
+      "id": "171788",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(19武器與彈藥；及其零件與附件)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/19"
+      ]
+    },
+    {
+      "id": "171768",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(21藝術品古董)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/21"
+      ]
+    },
+    {
+      "id": "171769",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(1動物產品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/1"
+      ]
+    },
+    {
+      "id": "171770",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(2植物產品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/2"
+      ]
+    },
+    {
+      "id": "171777",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(9木竹、藤製材及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/9"
+      ]
+    },
+    {
+      "id": "171780",
+      "name": "iMarine航港發展資料庫-臺灣出口貨物(12鞋帽傘、羽毛及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/e/1/12"
+      ]
+    },
+    {
+      "id": "171746",
+      "name": "iMarine航港發展資料庫-海港自由貿易港區進口貿易值",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/ftz/i"
+      ]
+    },
+    {
+      "id": "171749",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(2植物產品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/2"
+      ]
+    },
+    {
+      "id": "171750",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(3動植物油脂及其分解物)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/3"
+      ]
+    },
+    {
+      "id": "171763",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(16機械電力電器及其製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/16"
+      ]
+    },
+    {
+      "id": "171767",
+      "name": "iMarine航港發展資料庫-臺灣進口貨物(20雜項製品)",
+      "format": "json",
+      "urls": [
+        "https://imarine.motcmpb.gov.tw/api/opendata/goods/i/1/20"
+      ]
+    },
+    {
+      "id": "173451",
+      "name": "船員專業訓練人數統計",
+      "format": "ods",
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1369892623715667968.ods&filedisplay=船員專業訓練人數統計.ods&flag=doc"
+      ]
+    }
+  ]
+}
