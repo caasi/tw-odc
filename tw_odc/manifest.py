@@ -82,8 +82,9 @@ def parse_dataset(raw: dict) -> dict:
     urls = [u.strip() for u in raw_urls.split(";") if u.strip()]
     raw_fmt = raw.get("檔案格式") or ""
     formats = [f.strip() for f in raw_fmt.split(";") if f.strip()]
-    fmt = formats[0].lower() if formats else "bin"
-    fmt = FORMAT_ALIASES.get(fmt, fmt)
+    fmt = formats[0].lower() if formats else None
+    if fmt is not None:
+        fmt = FORMAT_ALIASES.get(fmt, fmt)
     return {
         "id": str(raw["資料集識別碼"]),
         "name": raw["資料集名稱"],

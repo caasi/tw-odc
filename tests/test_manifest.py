@@ -125,6 +125,26 @@ class TestParseDataset:
         result = parse_dataset(raw)
         assert result["format"] == "zip"
 
+    def test_empty_format_returns_none(self):
+        raw = {
+            "資料集識別碼": 1004,
+            "資料集名稱": "無格式",
+            "檔案格式": None,
+            "資料下載網址": "https://a.gov.tw/1",
+        }
+        result = parse_dataset(raw)
+        assert result["format"] is None
+
+    def test_empty_string_format_returns_none(self):
+        raw = {
+            "資料集識別碼": 1005,
+            "資料集名稱": "空字串格式",
+            "檔案格式": "",
+            "資料下載網址": "https://a.gov.tw/1",
+        }
+        result = parse_dataset(raw)
+        assert result["format"] is None
+
 
 class TestCreateDatasetManifest:
     def test_creates_manifest(self, tmp_path):
