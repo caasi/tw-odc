@@ -723,3 +723,34 @@ uv run python -m data_gov_tw --only nonexistent.csv
 git add -A
 git commit -m "chore: final integration fixes"
 ```
+
+---
+
+## Update: 2026-03-12 — 與實際實作的差異
+
+此 plan 的功能需求大部分已實現，但因 005-cli-refactor 重構，實作方式與原始設計不同。
+
+### 架構差異
+
+| 原始設計 | 現況 |
+|----------|------|
+| 每個 module 各自的 `__main__.py` 含 `clean`/`score` 子命令 | 統一 `tw-odc dataset --dir <slug> clean/score` |
+| `data_gov_tw/__main__.py` 加 `--only`/`--no-cache` | `tw-odc metadata download --only/--no-cache` 及 `tw-odc dataset --dir <slug> download --only/--no-cache` |
+| `shared/scaffold.py` 更新模板含新 CLI | scaffold 機制已移除（見 003 update） |
+| `shared/__main__.py` 移除 `score` 子命令 | `shared/` 整體已不存在 |
+| 各 provider 的 `__main__.py` 更新 | provider 目錄無 Python 程式碼 |
+
+### 功能對照
+
+| 原始需求 | 實作狀態 | 對應位置 |
+|----------|----------|----------|
+| `clean` 子命令 | ✓ 已實作 | `tw-odc dataset --dir <slug> clean` → `tw_odc/cli.py` |
+| `score` 子命令 | ✓ 已實作 | `tw-odc dataset --dir <slug> score` → `tw_odc/cli.py` |
+| `--only` 篩選下載 | ✓ 已實作 | `tw_odc/fetcher.py` `fetch_all()` 的 `only` 參數；CLI 層兩處皆支援 |
+| `--no-cache` 強制下載 | ✓ 已實作 | `tw_odc/fetcher.py` `fetch_all()` 的 `no_cache` 參數 |
+| `clean()` 函式 | ✓ 已實作 | `tw_odc/cli.py` 直接實作（非獨立函式） |
+| ETag 條件式請求 | ✓ 已實作 | `tw_odc/fetcher.py` 內建 ETag 快取機制 |
+
+### 結論
+
+所有功能需求（clean、score、--only、--no-cache）均已實現。差異僅在架構層面：原始設計為分散式（每個 module 自帶 CLI），實際實作為集中式（統一 `tw-odc` CLI）。

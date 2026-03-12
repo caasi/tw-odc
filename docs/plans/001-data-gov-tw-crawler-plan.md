@@ -412,3 +412,34 @@ Expected: all tests PASS.
 git add -A
 git commit -m "test: verify integration with data.gov.tw"
 ```
+
+---
+
+## Update: 2026-03-12 — 已被 005-cli-refactor 取代
+
+此 plan 是專案最初的架構設計，已被 005-cli-refactor 全面取代。
+
+### 已廢棄的設計
+
+| 原始設計 | 現況 |
+|----------|------|
+| `data_gov_tw/crawler.py` 專用爬蟲模組 | 移除；下載邏輯統一由 `tw_odc/fetcher.py` 處理 |
+| `data_gov_tw/__init__.py` 暴露 `run()` | 移除；`data_gov_tw/` 目錄不再存在 |
+| `data_gov_tw/__main__.py` typer CLI | 移除；改為 `tw-odc metadata download` |
+| `shared/__init__.py` 共用 package | 移除；所有邏輯集中於 `tw_odc/` package |
+| `main.py` orchestrator（`PORTAL_PACKAGES` 清單） | 移除；無需 orchestrator，統一 CLI 直接操作 |
+| 每個 portal 是獨立 Python package | provider 目錄僅含 `manifest.json`，無 Python 程式碼 |
+| `datasets/` 在各 portal package 內 | metadata 匯出檔下載至專案根目錄；provider 的 `datasets/` 在各自目錄下 |
+
+### 被後續 plan 承接的功能
+
+| 功能 | 承接者 |
+|------|--------|
+| 下載 data.gov.tw 三份匯出檔 | 根目錄 `manifest.json`（type: metadata）+ `tw-odc metadata download` |
+| aiohttp 非同步下載 | `tw_odc/fetcher.py`（加入 ETag 快取、併發控制、錯誤隔離） |
+| typer CLI 介面 | `tw_odc/cli.py`（統一 `tw-odc` 命令，metadata/dataset 子命令群） |
+| concurrency 控制 | `tw_odc/fetcher.py` 的 `aiolimiter` 限流（取代 semaphore） |
+
+### 結論
+
+此 plan 作為 MVP 已完成其歷史任務。核心需求（下載 data.gov.tw 匯出檔、非同步下載、CLI 介面）全部保留，但架構從「多個獨立 portal package + orchestrator」演進為「統一 tw_odc CLI package + manifest 驅動」。

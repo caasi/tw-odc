@@ -827,3 +827,30 @@ Expected: discovers all scaffolded providers, downloads concurrently.
 git add -A
 git commit -m "test: verify scaffold and download integration"
 ```
+
+---
+
+## Update: 2026-03-12 — 與實際實作的差異
+
+此 plan 的架構在 005-cli-refactor 中被全面取代，以下為主要差異：
+
+### 已廢棄的設計
+
+| 原始設計 | 現況 |
+|----------|------|
+| `shared/fetcher.py` 共用模組 | 整合為 `tw_odc/fetcher.py`，隸屬統一 CLI package |
+| `shared/scaffold.py` 自動產生 provider package | 移除；改為 `tw-odc metadata create --provider` 按需建立 |
+| 每個 provider 有 `__init__.py` + `__main__.py` | provider 目錄僅含 `manifest.json`（+ 選用 `patch.json`），無 Python 程式碼 |
+| `main.py` 動態掃描 `manifest.json` 發現 provider | 移除；統一由 `tw-odc dataset --dir <slug>` 操作 |
+| `data_gov_tw/` 作為一般 provider package | 根目錄 `manifest.json`（type: metadata）管理 data.gov.tw 匯出檔，與 provider manifest 區分 |
+
+### 保留的核心概念
+
+- **manifest.json 驅動**：每個 provider 仍以 `manifest.json` 描述資料集清單
+- **derive_slug**：從下載 URL 推導目錄名稱的邏輯保留於 `tw_odc/manifest.py`
+- **group_by_provider**：從 export-json 按提供機關分組的邏輯保留
+- **共用 fetcher**：下載邏輯集中管理（位置從 `shared/` 移至 `tw_odc/`）
+
+### 結論
+
+此 plan 的目標（按機關組織資料集、manifest 驅動下載）已達成，但實作架構因 005 重構而完全不同。原始的「每個 provider 一個 Python package」設計被「provider 目錄僅含資料、邏輯集中在 tw_odc/」取代。
