@@ -44,7 +44,7 @@ def resolve_params(params: dict | None, overrides: dict | None = None) -> dict:
 
 def _dest_filename(dataset: dict, url_index: int, url_count: int) -> str:
     """Derive destination filename from dataset id and format."""
-    fmt = dataset["format"].lower()
+    fmt = (dataset["format"] or "bin").lower()
     dataset_id = str(dataset["id"])
     if not _SAFE_ID_RE.match(dataset_id):
         raise ValueError(f"Unsafe dataset id: {dataset_id!r}")

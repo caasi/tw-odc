@@ -162,6 +162,18 @@ def test_dest_filename_rejects_path_traversal(tmp_path):
         _dest_filename({"id": "1001", "format": "py/../evil"}, 0, 1)
 
 
+def test_dest_filename_none_format_falls_back_to_bin():
+    """When format is None, filename should use 'bin' as extension."""
+    result = _dest_filename({"id": "1001", "format": None}, 0, 1)
+    assert result == "1001.bin"
+
+
+def test_dest_filename_none_format_multi_url():
+    """When format is None with multiple URLs, filename should use 'bin' as extension."""
+    result = _dest_filename({"id": "1001", "format": None}, 0, 2)
+    assert result == "1001-1.bin"
+
+
 def test_dest_filename_accepts_unicode_format():
     """Chinese format names like '其他' should be accepted."""
     result = _dest_filename({"id": "1001", "format": "其他"}, 0, 1)
