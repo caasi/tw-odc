@@ -139,7 +139,8 @@ def inspect_dataset(dataset: dict, datasets_dir: Path) -> InspectionResult:
         InspectionResult with detected formats, file status, and issues.
     """
     dataset_id = str(dataset["id"])
-    declared_fmt = dataset["format"].lower()
+    declared_fmt = (dataset["format"] or "bin").lower()
+    format_undeclared = dataset["format"] is None
     urls = dataset["urls"]
     url_count = len(urls)
 
@@ -188,12 +189,15 @@ def inspect_dataset(dataset: dict, datasets_dir: Path) -> InspectionResult:
     if any_empty:
         issues.append("EMPTY_FILE")
 
-    # Format mismatch: declared vs detected (skip for ZIP since we look inside)
-    if declared_fmt != "zip" and any_exists:
+    # Format mismatch: declared vs detected (skip for ZIP and undeclared formats)
+    if not format_undeclared and declared_fmt != "zip" and any_exists:
         for fmt in detected_formats:
             if fmt not in ("missing", "empty") and fmt != declared_fmt:
                 issues.append("FORMAT_MISMATCH")
                 break
+
+    if format_undeclared:
+        issues.append("FORMAT_UNDECLARED")
 
     # PDF-specific issue
     if declared_fmt == "pdf" or "pdf" in detected_formats:

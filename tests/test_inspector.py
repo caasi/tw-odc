@@ -191,3 +191,31 @@ class TestInspectDataset:
         result = inspect_dataset(dataset, datasets_dir)
 
         assert "PDF_DATASET" in result.issues
+
+    def test_none_format_uses_bin_filename(self, tmp_path):
+        """When format is None, should look for {id}.bin file."""
+        datasets_dir = tmp_path / "datasets"
+        datasets_dir.mkdir()
+        (datasets_dir / "1001.bin").write_text("a,b\n1,2\n")
+
+        dataset = {"id": "1001", "name": "Undeclared", "format": None, "urls": ["http://x"]}
+        result = inspect_dataset(dataset, datasets_dir)
+
+        assert result.declared_format == "bin"
+        assert result.file_exists is True
+        assert result.detected_formats == ["csv"]
+        assert "FORMAT_UNDECLARED" in result.issues
+        assert "FORMAT_MISMATCH" not in result.issues
+
+    def test_none_format_missing_file(self, tmp_path):
+        """When format is None and file doesn't exist, should still report correctly."""
+        datasets_dir = tmp_path / "datasets"
+        datasets_dir.mkdir()
+
+        dataset = {"id": "9999", "name": "Missing", "format": None, "urls": ["http://x"]}
+        result = inspect_dataset(dataset, datasets_dir)
+
+        assert result.declared_format == "bin"
+        assert result.file_exists is False
+        assert "DOWNLOAD_FAILED" in result.issues
+        assert "FORMAT_UNDECLARED" in result.issues
