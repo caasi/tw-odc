@@ -442,25 +442,35 @@ def dataset_view(
         print(f"E006: {t('E006', id=dataset_id)}", file=sys.stderr)
         raise typer.Exit(code=1)
 
+    from tw_odc.fetcher import _dest_filename
+
     ds = matched[0]
     url_count = len(ds["urls"])
-    fmt = ds["format"].lower()
     found_any = False
 
+    datasets_dir_resolved = datasets_dir.resolve()
     for i in range(url_count):
-        if url_count == 1:
-            filename = f"{dataset_id}.{fmt}"
-        else:
-            filename = f"{dataset_id}-{i + 1}.{fmt}"
+        try:
+            filename = _dest_filename(ds, i, url_count)
+        except ValueError as e:
+            print(str(e), file=sys.stderr)
+            raise typer.Exit(code=1)
+        file_path = (datasets_dir / filename).resolve()
+        try:
+            file_path.relative_to(datasets_dir_resolved)
+        except ValueError:
+            print(f"Destination path escapes datasets directory: {filename}", file=sys.stderr)
+            raise typer.Exit(code=1)
 
-        file_path = datasets_dir / filename
         if not file_path.exists():
             continue
 
         found_any = True
         if url_count > 1:
             print(f"--- {filename} ---", file=sys.stderr)
-        sys.stdout.buffer.write(file_path.read_bytes())
+        with file_path.open("rb") as f:
+            for chunk in iter(lambda: f.read(8192), b""):
+                sys.stdout.buffer.write(chunk)
 
     if not found_any:
         print(f"E008: {t('E008', id=dataset_id)}", file=sys.stderr)

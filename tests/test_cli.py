@@ -504,6 +504,7 @@ class TestDatasetView:
 
         result = runner.invoke(app, ["dataset", "view", "--id", "1001"])
         assert result.exit_code != 0
+        assert "E008" in result.output
 
     def test_view_id_not_found(self, tmp_path, monkeypatch):
         """View errors when dataset ID not in manifest."""
