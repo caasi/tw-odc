@@ -331,3 +331,33 @@ class TestUpdateDatasetManifest:
         assert len(m["datasets"]) == 2
         new_ds = [d for d in m["datasets"] if d["id"] == "1002"][0]
         assert new_ds["format"] is None
+
+    def test_daily_update_flow_preserves_format(self, tmp_path):
+        """Simulate full daily update: parse_dataset with null format → merge preserves existing."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "舊名", "format": "csv", "urls": ["https://a.tw/1"]},
+                {"id": "1002", "name": "JSON資料", "format": "json", "urls": ["https://a.tw/2"]},
+            ],
+        }))
+        # Simulate daily-changed-json.json entries (format is always null)
+        daily_changed = [
+            {
+                "資料集識別碼": 1001,
+                "資料集名稱": "新名",
+                "檔案格式": None,
+                "資料下載網址": "",
+            },
+        ]
+        parsed = [parse_dataset(d) for d in daily_changed]
+        count = update_dataset_manifest(pkg, parsed)
+        assert count == 1
+        m = json.loads((pkg / "manifest.json").read_text())
+        ds_map = {d["id"]: d for d in m["datasets"]}
+        assert ds_map["1001"]["name"] == "新名"
+        assert ds_map["1001"]["format"] == "csv"  # preserved!
+        assert ds_map["1001"]["urls"] == ["https://a.tw/1"]  # preserved!
+        assert ds_map["1002"]["format"] == "json"  # untouched
