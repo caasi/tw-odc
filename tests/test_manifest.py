@@ -270,3 +270,64 @@ class TestUpdateDatasetManifest:
         assert count == 0
         m = json.loads((pkg / "manifest.json").read_text())
         assert len(m["datasets"]) == 1
+
+    def test_none_format_preserves_existing(self, tmp_path):
+        """When changed dataset has format=None, existing format should be preserved."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "舊名", "format": "csv", "urls": ["https://a.tw/1"]},
+            ],
+        }))
+        changed = [
+            {"id": "1001", "name": "新名", "format": None, "urls": []},
+        ]
+        count = update_dataset_manifest(pkg, changed)
+        assert count == 1
+        m = json.loads((pkg / "manifest.json").read_text())
+        ds = m["datasets"][0]
+        assert ds["name"] == "新名"
+        assert ds["format"] == "csv"  # preserved
+        assert ds["urls"] == ["https://a.tw/1"]  # preserved (empty urls)
+
+    def test_non_none_format_updates_existing(self, tmp_path):
+        """When changed dataset has a real format, it should update."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "舊名", "format": "csv", "urls": ["https://a.tw/1"]},
+            ],
+        }))
+        changed = [
+            {"id": "1001", "name": "新名", "format": "json", "urls": ["https://a.tw/new"]},
+        ]
+        count = update_dataset_manifest(pkg, changed)
+        assert count == 1
+        m = json.loads((pkg / "manifest.json").read_text())
+        ds = m["datasets"][0]
+        assert ds["format"] == "json"
+        assert ds["urls"] == ["https://a.tw/new"]
+
+    def test_new_dataset_with_none_format(self, tmp_path):
+        """New datasets (not in existing manifest) should be added as-is, even with None format."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "既有", "format": "csv", "urls": ["https://a.tw/1"]},
+            ],
+        }))
+        changed = [
+            {"id": "1002", "name": "新增", "format": None, "urls": []},
+        ]
+        count = update_dataset_manifest(pkg, changed)
+        assert count == 1
+        m = json.loads((pkg / "manifest.json").read_text())
+        assert len(m["datasets"]) == 2
+        new_ds = [d for d in m["datasets"] if d["id"] == "1002"][0]
+        assert new_ds["format"] is None

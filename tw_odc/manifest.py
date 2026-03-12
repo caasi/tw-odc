@@ -148,7 +148,18 @@ def update_dataset_manifest(pkg_dir: Path, changed_datasets: list[dict]) -> int:
     count = 0
     for ds in changed_datasets:
         ds_id = str(ds["id"])
-        if existing.get(ds_id) != ds:
+        if ds_id in existing:
+            old = existing[ds_id]
+            merged = {**old}
+            merged["name"] = ds["name"]
+            if ds.get("format") is not None:
+                merged["format"] = ds["format"]
+            if ds.get("urls"):
+                merged["urls"] = ds["urls"]
+            if merged != existing[ds_id]:
+                existing[ds_id] = merged
+                count += 1
+        else:
             existing[ds_id] = ds
             count += 1
 
