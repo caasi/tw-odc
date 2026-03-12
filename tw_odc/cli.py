@@ -427,6 +427,56 @@ def dataset_score(
     _output(results, fmt)
 
 
+@dataset_app.command("view")
+def dataset_view(
+    ctx: typer.Context,
+    dataset_id: str = typer.Option(..., "--id", help="Dataset ID to view"),
+) -> None:
+    """Output raw dataset file content to stdout."""
+    pkg_dir = _get_dataset_dir(ctx)
+    manifest = _load_and_check(pkg_dir, ManifestType.DATASET)
+    datasets_dir = pkg_dir / "datasets"
+
+    matched = [ds for ds in manifest["datasets"] if str(ds["id"]) == dataset_id]
+    if not matched:
+        print(f"E006: {t('E006', id=dataset_id)}", file=sys.stderr)
+        raise typer.Exit(code=1)
+
+    from tw_odc.fetcher import _dest_filename
+
+    ds = matched[0]
+    url_count = len(ds["urls"])
+    found_any = False
+
+    datasets_dir_resolved = datasets_dir.resolve()
+    for i in range(url_count):
+        try:
+            filename = _dest_filename(ds, i, url_count)
+        except ValueError as e:
+            print(str(e), file=sys.stderr)
+            raise typer.Exit(code=1)
+        file_path = (datasets_dir / filename).resolve()
+        try:
+            file_path.relative_to(datasets_dir_resolved)
+        except ValueError:
+            print(f"Destination path escapes datasets directory: {filename}", file=sys.stderr)
+            raise typer.Exit(code=1)
+
+        if not file_path.exists():
+            continue
+
+        found_any = True
+        if url_count > 1:
+            print(f"--- {filename} ---", file=sys.stderr)
+        with file_path.open("rb") as f:
+            for chunk in iter(lambda: f.read(8192), b""):
+                sys.stdout.buffer.write(chunk)
+
+    if not found_any:
+        print(f"E008: {t('E008', id=dataset_id)}", file=sys.stderr)
+        raise typer.Exit(code=1)
+
+
 @dataset_app.command("clean")
 def dataset_clean(
     ctx: typer.Context,

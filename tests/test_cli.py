@@ -448,3 +448,89 @@ class TestDatasetScoreMethod:
         assert data[0]["method"] == "gov-tw"
         assert "indicators" in data[0]
         assert data[0]["indicators"]["link_valid"] is True
+
+
+class TestDatasetView:
+    def test_view_single_file(self, tmp_path, monkeypatch):
+        """View outputs raw file content to stdout."""
+        manifest = {
+            "type": "dataset", "provider": "T", "slug": "t",
+            "datasets": [{"id": "1001", "name": "D", "format": "csv", "urls": ["http://x"]}],
+        }
+        pkg_dir = tmp_path / "t"
+        pkg_dir.mkdir()
+        (pkg_dir / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False))
+        ds_dir = pkg_dir / "datasets"
+        ds_dir.mkdir()
+        (ds_dir / "1001.csv").write_text("a,b\n1,2\n")
+        monkeypatch.chdir(pkg_dir)
+
+        result = runner.invoke(app, ["dataset", "view", "--id", "1001"])
+        assert result.exit_code == 0
+        assert result.output == "a,b\n1,2\n"
+
+    def test_view_multi_file(self, tmp_path, monkeypatch):
+        """Multi-file dataset outputs all files sequentially."""
+        manifest = {
+            "type": "dataset", "provider": "T", "slug": "t",
+            "datasets": [{"id": "1001", "name": "D", "format": "csv",
+                          "urls": ["http://x/1", "http://x/2"]}],
+        }
+        pkg_dir = tmp_path / "t"
+        pkg_dir.mkdir()
+        (pkg_dir / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False))
+        ds_dir = pkg_dir / "datasets"
+        ds_dir.mkdir()
+        (ds_dir / "1001-1.csv").write_text("a,b\n1,2\n")
+        (ds_dir / "1001-2.csv").write_text("a,b\n3,4\n")
+        monkeypatch.chdir(pkg_dir)
+
+        result = runner.invoke(app, ["dataset", "view", "--id", "1001"])
+        assert result.exit_code == 0
+        assert "a,b\n1,2\n" in result.output
+        assert "a,b\n3,4\n" in result.output
+
+    def test_view_missing_file(self, tmp_path, monkeypatch):
+        """View errors when dataset files are not downloaded."""
+        manifest = {
+            "type": "dataset", "provider": "T", "slug": "t",
+            "datasets": [{"id": "1001", "name": "D", "format": "csv", "urls": ["http://x"]}],
+        }
+        pkg_dir = tmp_path / "t"
+        pkg_dir.mkdir()
+        (pkg_dir / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False))
+        (pkg_dir / "datasets").mkdir()
+        monkeypatch.chdir(pkg_dir)
+
+        result = runner.invoke(app, ["dataset", "view", "--id", "1001"])
+        assert result.exit_code != 0
+        assert "E008" in result.output
+
+    def test_view_id_not_found(self, tmp_path, monkeypatch):
+        """View errors when dataset ID not in manifest."""
+        manifest = {
+            "type": "dataset", "provider": "T", "slug": "t",
+            "datasets": [{"id": "1001", "name": "D", "format": "csv", "urls": ["http://x"]}],
+        }
+        pkg_dir = tmp_path / "t"
+        pkg_dir.mkdir()
+        (pkg_dir / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False))
+        monkeypatch.chdir(pkg_dir)
+
+        result = runner.invoke(app, ["dataset", "view", "--id", "9999"])
+        assert result.exit_code != 0
+        assert "E006" in result.output
+
+    def test_view_requires_id(self, tmp_path, monkeypatch):
+        """View requires --id option."""
+        manifest = {
+            "type": "dataset", "provider": "T", "slug": "t",
+            "datasets": [{"id": "1001", "name": "D", "format": "csv", "urls": ["http://x"]}],
+        }
+        pkg_dir = tmp_path / "t"
+        pkg_dir.mkdir()
+        (pkg_dir / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False))
+        monkeypatch.chdir(pkg_dir)
+
+        result = runner.invoke(app, ["dataset", "view"])
+        assert result.exit_code != 0

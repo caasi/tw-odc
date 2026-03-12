@@ -20,6 +20,7 @@
   "summary.issues": "%{count} issue(s) recorded to %{path}",
   "W001": "Root manifest.json not found; gov-tw metadata indicators will be unavailable",
   "W002": "export-json.json not found; run 'tw-odc metadata download' first",
+  "E008": "No downloaded files found for dataset %{id}; run 'tw-odc dataset download --id %{id}' first",
   "output.count_suffix": "(%{count} datasets)",
   "output.partial": "(partial)"
 }

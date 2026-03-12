@@ -168,11 +168,8 @@ The JSON export is the input for creating provider manifests. The daily-changed 
 - **RFC 6902 patches**: Provider-specific manifest adjustments via `patch.json`
 - **Stable filenames for parameterized datasets**: `params` affect URL template substitution only; filenames are always `{id}.{format}` regardless of resolved param values
 - **ETag bypass for parameterized datasets**: Parameterized downloads always bypass conditional requests and are never written to the ETag cache; cache entries are only removed for parameterized URLs downloaded in the current run (older entries may remain)
-<<<<<<< HEAD
 - **Unix philosophy for data viewing**: `dataset view` outputs raw file content to stdout without parsing; use external tools (`grep`, `jq`, `head`) for filtering/formatting. Multi-file datasets print filenames to stderr to keep stdout clean for piping
-=======
 - **Dual scoring**: `5-stars` (Tim Berners-Lee) and `gov-tw` (數位發展部品質指引) are independent scoring methods selectable via `--method`
->>>>>>> 4ed10b5 (docs: add gov-tw scoring to i18n and CLAUDE.md)
 
 ## Plans (RFC-style)
 
