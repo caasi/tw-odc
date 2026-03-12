@@ -82,8 +82,9 @@ def parse_dataset(raw: dict) -> dict:
     urls = [u.strip() for u in raw_urls.split(";") if u.strip()]
     raw_fmt = raw.get("檔案格式") or ""
     formats = [f.strip() for f in raw_fmt.split(";") if f.strip()]
-    fmt = formats[0].lower() if formats else "bin"
-    fmt = FORMAT_ALIASES.get(fmt, fmt)
+    fmt = formats[0].lower() if formats else None
+    if fmt is not None:
+        fmt = FORMAT_ALIASES.get(fmt, fmt)
     return {
         "id": str(raw["資料集識別碼"]),
         "name": raw["資料集名稱"],
@@ -147,7 +148,18 @@ def update_dataset_manifest(pkg_dir: Path, changed_datasets: list[dict]) -> int:
     count = 0
     for ds in changed_datasets:
         ds_id = str(ds["id"])
-        if existing.get(ds_id) != ds:
+        if ds_id in existing:
+            old = existing[ds_id]
+            merged = {**old}
+            merged["name"] = ds["name"]
+            if ds.get("format") is not None:
+                merged["format"] = ds["format"]
+            if ds.get("urls"):
+                merged["urls"] = ds["urls"]
+            if merged != existing[ds_id]:
+                existing[ds_id] = merged
+                count += 1
+        else:
             existing[ds_id] = ds
             count += 1
 

@@ -125,6 +125,26 @@ class TestParseDataset:
         result = parse_dataset(raw)
         assert result["format"] == "zip"
 
+    def test_empty_format_returns_none(self):
+        raw = {
+            "資料集識別碼": 1004,
+            "資料集名稱": "無格式",
+            "檔案格式": None,
+            "資料下載網址": "https://a.gov.tw/1",
+        }
+        result = parse_dataset(raw)
+        assert result["format"] is None
+
+    def test_empty_string_format_returns_none(self):
+        raw = {
+            "資料集識別碼": 1005,
+            "資料集名稱": "空字串格式",
+            "檔案格式": "",
+            "資料下載網址": "https://a.gov.tw/1",
+        }
+        result = parse_dataset(raw)
+        assert result["format"] is None
+
 
 class TestCreateDatasetManifest:
     def test_creates_manifest(self, tmp_path):
@@ -250,3 +270,94 @@ class TestUpdateDatasetManifest:
         assert count == 0
         m = json.loads((pkg / "manifest.json").read_text())
         assert len(m["datasets"]) == 1
+
+    def test_none_format_preserves_existing(self, tmp_path):
+        """When changed dataset has format=None, existing format should be preserved."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "舊名", "format": "csv", "urls": ["https://a.tw/1"]},
+            ],
+        }))
+        changed = [
+            {"id": "1001", "name": "新名", "format": None, "urls": []},
+        ]
+        count = update_dataset_manifest(pkg, changed)
+        assert count == 1
+        m = json.loads((pkg / "manifest.json").read_text())
+        ds = m["datasets"][0]
+        assert ds["name"] == "新名"
+        assert ds["format"] == "csv"  # preserved
+        assert ds["urls"] == ["https://a.tw/1"]  # preserved (empty urls)
+
+    def test_non_none_format_updates_existing(self, tmp_path):
+        """When changed dataset has a real format, it should update."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "舊名", "format": "csv", "urls": ["https://a.tw/1"]},
+            ],
+        }))
+        changed = [
+            {"id": "1001", "name": "新名", "format": "json", "urls": ["https://a.tw/new"]},
+        ]
+        count = update_dataset_manifest(pkg, changed)
+        assert count == 1
+        m = json.loads((pkg / "manifest.json").read_text())
+        ds = m["datasets"][0]
+        assert ds["format"] == "json"
+        assert ds["urls"] == ["https://a.tw/new"]
+
+    def test_new_dataset_with_none_format(self, tmp_path):
+        """New datasets (not in existing manifest) should be added as-is, even with None format."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "既有", "format": "csv", "urls": ["https://a.tw/1"]},
+            ],
+        }))
+        changed = [
+            {"id": "1002", "name": "新增", "format": None, "urls": []},
+        ]
+        count = update_dataset_manifest(pkg, changed)
+        assert count == 1
+        m = json.loads((pkg / "manifest.json").read_text())
+        assert len(m["datasets"]) == 2
+        new_ds = [d for d in m["datasets"] if d["id"] == "1002"][0]
+        assert new_ds["format"] is None
+
+    def test_daily_update_flow_preserves_format(self, tmp_path):
+        """Simulate full daily update: parse_dataset with null format → merge preserves existing."""
+        pkg = tmp_path / "provider_a"
+        pkg.mkdir()
+        (pkg / "manifest.json").write_text(json.dumps({
+            "type": "dataset", "provider": "A機關", "slug": "provider_a",
+            "datasets": [
+                {"id": "1001", "name": "舊名", "format": "csv", "urls": ["https://a.tw/1"]},
+                {"id": "1002", "name": "JSON資料", "format": "json", "urls": ["https://a.tw/2"]},
+            ],
+        }))
+        # Simulate daily-changed-json.json entries (format is always null)
+        daily_changed = [
+            {
+                "資料集識別碼": 1001,
+                "資料集名稱": "新名",
+                "檔案格式": None,
+                "資料下載網址": "",
+            },
+        ]
+        parsed = [parse_dataset(d) for d in daily_changed]
+        count = update_dataset_manifest(pkg, parsed)
+        assert count == 1
+        m = json.loads((pkg / "manifest.json").read_text())
+        ds_map = {d["id"]: d for d in m["datasets"]}
+        assert ds_map["1001"]["name"] == "新名"
+        assert ds_map["1001"]["format"] == "csv"  # preserved!
+        assert ds_map["1001"]["urls"] == ["https://a.tw/1"]  # preserved!
+        assert ds_map["1002"]["format"] == "json"  # untouched
