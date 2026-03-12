@@ -20,6 +20,7 @@
   "summary.issues": "%{count} 個問題已記錄到 %{path}",
   "W001": "找不到根目錄 manifest.json；gov-tw 詮釋資料相關指標將無法使用",
   "W002": "找不到 export-json.json；請先執行 'tw-odc metadata download'",
+  "E008": "找不到資料集 %{id} 的下載檔案；請先執行 'tw-odc dataset download --id %{id}'",
   "output.count_suffix": "(%{count} 筆)",
   "output.partial": "(部分)"
 }

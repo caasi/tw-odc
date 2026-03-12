@@ -427,6 +427,46 @@ def dataset_score(
     _output(results, fmt)
 
 
+@dataset_app.command("view")
+def dataset_view(
+    ctx: typer.Context,
+    dataset_id: str = typer.Option(..., "--id", help="Dataset ID to view"),
+) -> None:
+    """Output raw dataset file content to stdout."""
+    pkg_dir = _get_dataset_dir(ctx)
+    manifest = _load_and_check(pkg_dir, ManifestType.DATASET)
+    datasets_dir = pkg_dir / "datasets"
+
+    matched = [ds for ds in manifest["datasets"] if str(ds["id"]) == dataset_id]
+    if not matched:
+        print(f"E006: {t('E006', id=dataset_id)}", file=sys.stderr)
+        raise typer.Exit(code=1)
+
+    ds = matched[0]
+    url_count = len(ds["urls"])
+    fmt = ds["format"].lower()
+    found_any = False
+
+    for i in range(url_count):
+        if url_count == 1:
+            filename = f"{dataset_id}.{fmt}"
+        else:
+            filename = f"{dataset_id}-{i + 1}.{fmt}"
+
+        file_path = datasets_dir / filename
+        if not file_path.exists():
+            continue
+
+        found_any = True
+        if url_count > 1:
+            print(f"--- {filename} ---", file=sys.stderr)
+        sys.stdout.buffer.write(file_path.read_bytes())
+
+    if not found_any:
+        print(f"E008: {t('E008', id=dataset_id)}", file=sys.stderr)
+        raise typer.Exit(code=1)
+
+
 @dataset_app.command("clean")
 def dataset_clean(
     ctx: typer.Context,
