@@ -106,7 +106,7 @@
     {
       "id": "9645",
       "name": "藥品法規條文資料集",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.fda.gov.tw/data/opendata/export/66/csv",
         "https://data.fda.gov.tw/data/opendata/export/66/json",
@@ -146,7 +146,7 @@
     {
       "id": "9578",
       "name": "醫療器材說明書或包裝資料集",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.fda.gov.tw/data/opendata/export/70/csv",
         "https://data.fda.gov.tw/data/opendata/export/70/json",
@@ -446,7 +446,7 @@
     {
       "id": "9123",
       "name": "未註銷藥品許可證資料集",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.fda.gov.tw/data/opendata/export/37/csv",
         "https://data.fda.gov.tw/data/opendata/export/37/json",
@@ -486,7 +486,7 @@
     {
       "id": "54505",
       "name": "經評估無替代藥品品項資料集",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.fda.gov.tw/data/opendata/export/105/csv",
         "https://data.fda.gov.tw/data/opendata/export/105/json",
@@ -496,7 +496,7 @@
     {
       "id": "54506",
       "name": "藥品已解除短缺品項資料集",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.fda.gov.tw/data/opendata/export/106/csv",
         "https://data.fda.gov.tw/data/opendata/export/106/json",
@@ -646,7 +646,7 @@
     {
       "id": "9117",
       "name": "藥品仿單或外盒資料集",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.fda.gov.tw/data/opendata/export/39/csv",
         "https://data.fda.gov.tw/data/opendata/export/39/json",
@@ -656,7 +656,7 @@
     {
       "id": "9121",
       "name": "藥品詳細處方成分資料集",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.fda.gov.tw/data/opendata/export/43/csv",
         "https://data.fda.gov.tw/data/opendata/export/43/json",
@@ -1206,7 +1206,7 @@
     {
       "id": "9576",
       "name": "醫療器材許可證資料集",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.fda.gov.tw/data/opendata/export/68/csv",
         "https://data.fda.gov.tw/data/opendata/export/68/json",
@@ -1401,6 +1401,46 @@
         "https://data.fda.gov.tw/data/opendata/export/198/csv",
         "https://data.fda.gov.tw/data/opendata/export/198/json",
         "https://data.fda.gov.tw/data/opendata/export/198/xml"
+      ]
+    },
+    {
+      "id": "177212",
+      "name": "台灣藥品臨床試驗現況之宣稱適應症 (ICD9編號) 資料集",
+      "format": "bin",
+      "urls": [
+        "https://data.fda.gov.tw/data/opendata/export/206/csv",
+        "https://data.fda.gov.tw/data/opendata/export/206/json",
+        "https://data.fda.gov.tw/data/opendata/export/206/xml"
+      ]
+    },
+    {
+      "id": "177215",
+      "name": "台灣藥品臨床試驗現況之試驗執行機構資料集",
+      "format": "bin",
+      "urls": [
+        "https://data.fda.gov.tw/data/opendata/export/207/csv",
+        "https://data.fda.gov.tw/data/opendata/export/207/json",
+        "https://data.fda.gov.tw/data/opendata/export/207/xml"
+      ]
+    },
+    {
+      "id": "177216",
+      "name": "台灣藥品臨床試驗現況試驗藥品資料集",
+      "format": "bin",
+      "urls": [
+        "https://data.fda.gov.tw/data/opendata/export/208/csv",
+        "https://data.fda.gov.tw/data/opendata/export/208/json",
+        "https://data.fda.gov.tw/data/opendata/export/208/xml"
+      ]
+    },
+    {
+      "id": "177218",
+      "name": "台灣藥品臨床試驗現況試驗藥品主成分資料集",
+      "format": "bin",
+      "urls": [
+        "https://data.fda.gov.tw/data/opendata/export/209/csv",
+        "https://data.fda.gov.tw/data/opendata/export/209/json",
+        "https://data.fda.gov.tw/data/opendata/export/209/xml"
       ]
     }
   ]

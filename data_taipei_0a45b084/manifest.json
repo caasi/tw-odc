@@ -6,7 +6,7 @@
     {
       "id": "128633",
       "name": "臺北市水質監測資訊",
-      "format": "xml",
+      "format": "bin",
       "urls": [
         "https://twd.water.gov.taipei/opendata/wqb/wqb.asmx/GetQualityData"
       ]
@@ -30,7 +30,7 @@
     {
       "id": "128640",
       "name": "臺北市所屬直飲臺",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.taipei/api/dataset/155999f2-3c5d-486b-af58-d7f4c0b0a4c9/resource/181097e0-c171-4bcd-ad41-c7b55dbc616e/download"
       ]
@@ -152,7 +152,7 @@
     {
       "id": "128236",
       "name": "臺北市停水資訊(大臺北地區)",
-      "format": "json",
+      "format": "bin",
       "urls": [
         "https://webs.water.gov.taipei/apps/outage.asmx/outageOpenData"
       ]
@@ -184,7 +184,7 @@
     {
       "id": "128639",
       "name": "大臺北地區消防栓分布點位圖",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://data.taipei/api/dataset/c106a00b-5a21-4393-b213-475a0ece9f2b/resource/b9f8154d-c627-48a8-b3ef-512ed9cde9e7/download"
       ]

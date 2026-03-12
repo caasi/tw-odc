@@ -423,7 +423,7 @@
     {
       "id": "32300",
       "name": "勞動部勞動力發展署及所屬會計月報",
-      "format": "webservices",
+      "format": "bin",
       "urls": [
         "https://apiservice.mol.gov.tw/OdService/rest/datastore/compression/A17020000J-000040-XvO",
         "https://apiservice.mol.gov.tw/OdService/download/A17020000J-000040-9gO",
@@ -690,7 +690,9 @@
         "https://apiservice.mol.gov.tw/OdService/rest/datastore/compression/A17020000J-000040-Zev",
         "https://apiservice.mol.gov.tw/OdService/download/A17020000J-000040-Dfo",
         "https://apiservice.mol.gov.tw/OdService/rest/datastore/compression/A17020000J-000040-qof",
-        "https://apiservice.mol.gov.tw/OdService/download/A17020000J-000040-fmi"
+        "https://apiservice.mol.gov.tw/OdService/download/A17020000J-000040-fmi",
+        "https://apiservice.mol.gov.tw/OdService/rest/datastore/compression/A17020000J-000040-KPt",
+        "https://apiservice.mol.gov.tw/OdService/download/A17020000J-000040-I22"
       ]
     },
     {
@@ -2444,7 +2446,7 @@
     {
       "id": "44062",
       "name": "台灣就業通網站職缺清單",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030144-MKw",
         "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030144-nkP",
@@ -3235,7 +3237,7 @@
     {
       "id": "9332",
       "name": "私立就業服務機構基本資料及評鑑結果",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://apiservice.mol.gov.tw/OdService/download/A17020000J-000001-buF",
         "https://apiservice.mol.gov.tw/OdService/download/A17020000J-000001-MqS",
@@ -3245,7 +3247,7 @@
     {
       "id": "11205",
       "name": "勞動力發展署─新聞稿",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://apiservice.mol.gov.tw/OdService/download/A17040000J-000001-qEL",
         "https://apiservice.mol.gov.tw/OdService/download/A17040000J-000001-U5R",

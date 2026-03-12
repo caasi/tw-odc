@@ -268,19 +268,9 @@
     {
       "id": "13497",
       "name": "移民諮詢服務項目─按單位別分",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0930202&cycle=41&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "10",
-        "&codspc0=0",
-        "4",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "17",
-        "&rdm=ekiluejo&ym=11101&ymt=11112"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/FDC1B512-8C6F-4FD7-BEA7-A96D7AFC9932/resource/16F7276D-9900-4AAE-B667-73444074EB86/download"
       ]
     },
     {
@@ -296,27 +286,9 @@
     {
       "id": "13505",
       "name": "外僑居留人數─按區域別職業別分",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0930101&cycle=41&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "1",
-        "2",
-        "15",
-        "18",
-        "4",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&codlst1=111&rdm=p0iliqJx&ym=11101&ymt=11112"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/8C84BC1C-102E-46D4-9FA7-8A65E5BEB429/resource/CBFAD515-DCDC-4F8B-91E9-BC7172569ACA/download"
       ]
     },
     {
@@ -2009,29 +1981,17 @@
     {
       "id": "13500",
       "name": "全年居留國外之有戶籍國民與全年居留國內之外來人口─按年齡別性別分",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0930104&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "9",
-        "&codspc0=0",
-        "13",
-        "&codlst1=111&rdm=l9rleoAd&ym=11100&ymt=11100"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/4A0289F2-9426-484E-A384-D39CD1FF41DD/resource/CA145636-17F2-4A26-811D-F79B9EA144A9/download"
       ]
     },
     {
       "id": "13504",
       "name": "外僑居留人數─按國籍別職業別分",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0930103&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "29",
-        "&codlst0=111&codspc1=0",
-        "1",
-        "2",
-        "15",
-        "18",
-        "4",
-        "&rdm=ajdqUe3i&ym=11100&ymt=11100"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B9C2BAE0-9EE3-482F-94E7-3A1221040B2F/resource/AE3EB237-BDDC-408E-AA99-19257E846235/download"
       ]
     },
     {
@@ -4951,53 +4911,25 @@
     {
       "id": "13499",
       "name": "查處違法外來人口─按國籍別項目別分",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE9B1E66-0C23-4001-A9CC-D9B98C9C4A46/resource/09A3CEE1-67F8-4C89-9733-9497D61F95B2/download"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/CE9B1E66-0C23-4001-A9CC-D9B98C9C4A46/resource/5366748D-286D-446E-9905-E346CF2609FB/download"
       ]
     },
     {
       "id": "13503",
       "name": "外籍配偶人數與大陸 (含港澳配偶人數)─按區域別、性別分",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0930301&cycle=41&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "12",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "17",
-        "&codlst1=111&rdm=mh4nJJip&ym=10901&ymt=10910"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/AE631767-27F1-437D-B1F1-4429CB60E58E/resource/8923C9F0-ABA1-4E18-B2CF-C3D99E85AE96/download"
       ]
     },
     {
       "id": "13506",
       "name": "外僑居留人數─按區域別國籍別分",
-      "format": "csv",
+      "format": "bin",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0930102&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "29",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&codlst1=111&rdm=jLbekUdn&ym=11100&ymt=11100"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/683BBE74-DED1-423F-844B-FE36364EDFE6/resource/872A03A5-9935-499E-8BF4-9BF36E6DD78E/download"
       ]
     },
     {

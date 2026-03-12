@@ -50,6 +50,115 @@
       "urls": [
         "https://www.ncc.gov.tw/uploadfiles/opendata/telecom_tariffs.csv"
       ]
+    },
+    {
+      "id": "5996",
+      "name": "電信設備審驗合格清單",
+      "format": "bin",
+      "urls": [
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/vv_IPCCDB.csv&filedisplay=vv_IPCCDB.csv&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/vv_IPCCDB.xlsx&filedisplay=vv_IPCCDB.xlsx&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/vv_IPCCDB.ods&filedisplay=vv_IPCCDB.ods&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/vv_IPCCDB.json&filedisplay=vv_IPCCDB.json&flag=doc"
+      ]
+    },
+    {
+      "id": "10170",
+      "name": "通訊傳播監督管理基金附屬單位決算(非營業部分)",
+      "format": "bin",
+      "urls": [
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635230587621376.7z&filedisplay=2227_34002_150811_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635230671507456.7z&filedisplay=2227_35251_160307_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635230751199232.7z&filedisplay=2227_37134_170315_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635230822502400.7z&filedisplay=2227_38841_180301_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635230910582784.7z&filedisplay=2227_41096_190304_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635230973497344.7z&filedisplay=2227_42751_200225_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635231078354944.7z&filedisplay=2227_45738_210220_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635231145463808.7z&filedisplay=2227_47193_220223_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635231220961280.7z&filedisplay=2227_48604_230215_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635231288070144.7z&filedisplay=2227_49908_240322_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407635231346790400.7z&filedisplay=2227_51168_250219_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/chncc/app/data/doc?id=151&module=commonMessage77&detailNo=1471342393243471872&serno=2659363c-9b4c-4349-9a05-17a0ec15e4dc&type=s&preview=undefined&aplistdn=undefined"
+      ]
+    },
+    {
+      "id": "10174",
+      "name": "國家通訊傳播委員會單位決算",
+      "format": "bin",
+      "urls": [
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407637812487917568.7z&filedisplay=2226_33996_150810_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407637812567609344.7z&filedisplay=2226_35239_160304_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407637812630523904.7z&filedisplay=2226_38460_171219_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407637812706021376.zip&filedisplay=2226_38921_180316_1.zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407637812798296064.zip&filedisplay=2226_41073_190225_1.zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407637812865404928.zip&filedisplay=2226_42782_200227_1.zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407637812945096704.zip&filedisplay=2226_46088_210528_1.zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407637813037371392.zip&filedisplay=2226_47938_220826_1.zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407637813117063168.zip&filedisplay=2226_48626_230220_1.zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407637813209337856.zip&filedisplay=2226_49915_240219_1.zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1409743886036766720.zip&filedisplay=2226_51161_250217_1.zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1476459009882984448.zip&filedisplay=114年度國家通訊傳播委員會單位決算(XML).zip&flag=doc"
+      ]
+    },
+    {
+      "id": "29225",
+      "name": "廣播電臺業者資料",
+      "format": "bin",
+      "urls": [
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/廣播電臺業者資料.csv&filedisplay=廣播電臺業者資料.csv&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/廣播電臺業者資料.xlsx&filedisplay=廣播電臺業者資料.xlsx&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/廣播電臺業者資料.ods&filedisplay=廣播電臺業者資料.ods&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/廣播電臺業者資料.json&filedisplay=廣播電臺業者資料.json&flag=doc"
+      ]
+    },
+    {
+      "id": "172711",
+      "name": "通訊傳播監督管理基金114年會計月報",
+      "format": "bin",
+      "urls": [
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1407631573469106176.7z&filedisplay=5738_51137_250208_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1409796508848492544.7z&filedisplay=5738_51192_250305_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1409796508999487488.7z&filedisplay=5738_51288_250408_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1409796509150482432.7z&filedisplay=5738_51385_250506_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1409796509297283072.7z&filedisplay=5738_51451_250609_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1409796509460860928.7z&filedisplay=5738_51519_250703_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1433700378834112512.7z&filedisplay=5738_51725_250905_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1433700378917998592.7z&filedisplay=5738_51726_250905_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1433700378980913152.7z&filedisplay=5738_51797_251003_1.7z&flag=doc",
+        "https://api.ncc.gov.tw/chncc/app/data/doc?id=152&module=commonMessage78&detailNo=2&serno=51908_5738_news&type=s&preview=undefined&aplistdn=undefined",
+        "https://api.ncc.gov.tw/chncc/app/data/doc?id=152&module=commonMessage78&detailNo=1450298331015155712&serno=71b4b346-7072-4a27-8476-1b168c7dc397&type=s&preview=undefined&aplistdn=undefined",
+        "https://api.ncc.gov.tw/chncc/app/data/doc?id=152&module=commonMessage78&detailNo=1468165766124670976&serno=50fbcd5c-f0d8-4066-8b9f-f259cb6582f0&type=s&preview=undefined&aplistdn=undefined"
+      ]
+    },
+    {
+      "id": "175208",
+      "name": "國家通訊傳播委員會中央政府丹娜絲颱風及七二八豪雨災後復原重建特別預算會計月報",
+      "format": "bin",
+      "urls": [
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1433702878505078784.zip&filedisplay=5766_51859_251017_1.zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1465634491962757120.zip&filedisplay=114年10月丹娜絲颱風及七二八豪雨災後復原重建特別預算會計月報(XML).zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1465634492017283072.zip&filedisplay=114年11月丹娜絲颱風及七二八豪雨災後復原重建特別預算會計月報(XML).zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1465634492071809024.zip&filedisplay=114年12月丹娜絲颱風及七二八豪雨災後復原重建特別預算會計月報(XML).zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1469268836606808064.zip&filedisplay=115年1月丹娜絲颱風及七二八豪雨災後復原重建特別預算會計月報(XML).zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1480739860305154048.zip&filedisplay=115年2月丹娜絲颱風及七二八豪雨災後復原重建特別預算會計月報(XML).zip&flag=doc"
+      ]
+    },
+    {
+      "id": "177203",
+      "name": "國家通訊傳播委員會115年會計月報",
+      "format": "bin",
+      "urls": [
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1469267529137393664.zip&filedisplay=115年1月國家通訊傳播委員會會計月報(XML).zip&flag=doc",
+        "https://api.ncc.gov.tw/uploaddowndoc?file=datagov/1480739249358639104.zip&filedisplay=115年2月國家通訊傳播委員會會計月報(XML).zip&flag=doc"
+      ]
+    },
+    {
+      "id": "177204",
+      "name": "通訊傳播監督管理基金115年會計月報",
+      "format": "bin",
+      "urls": [
+        "https://api.ncc.gov.tw/chncc/app/data/doc?id=152&module=commonMessage78&detailNo=1468167961280778240&serno=1962199c-b007-4fb7-90cd-16ecc81949f4&type=s&preview=undefined&aplistdn=undefined"
+      ]
     }
   ]
 }

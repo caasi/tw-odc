@@ -35,7 +35,7 @@
     {
       "id": "133944",
       "name": "嘉義縣警察局查獲經濟案件統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/186213/5436ed5a-2b6b-48e8-a092-ff1b1a66076c.csv"
       ]
@@ -51,7 +51,7 @@
     {
       "id": "133951",
       "name": "嘉義縣警察局警察人員獎勵統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/186221/55b2d9e6-26ea-4cc1-a422-4bf4c01c22b3.csv"
       ]
@@ -59,7 +59,7 @@
     {
       "id": "133953",
       "name": "嘉義縣警察局警察人員傷亡人數統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/186218/4cf7706a-2e08-44b2-a40a-d9a5d0cef556.csv"
       ]
@@ -67,7 +67,7 @@
     {
       "id": "133954",
       "name": "嘉義縣警察局警察人員職員退休、資遣、撫卹人數統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/186223/14229c44-fd34-4f3f-826e-3affe4516974.csv"
       ]
@@ -163,7 +163,7 @@
     {
       "id": "135976",
       "name": "嘉義縣警察局執行警勤區訪查工作成果統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/204397/111f422d-e805-4133-8f3f-75a8322c4f63.csv"
       ]
@@ -315,7 +315,7 @@
     {
       "id": "133943",
       "name": "嘉義縣警察局舉發違反高速公路及快速公路管制規定成果統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/186216/fd710d6c-152e-484b-8ccc-92da3d9dbb70.csv"
       ]
@@ -323,7 +323,7 @@
     {
       "id": "133946",
       "name": "嘉義縣警察局查獲侵害智慧財產權案件成果",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/186212/a25d70fc-d4ef-4fe5-bdd8-3d92e35391a6.csv"
       ]
@@ -455,7 +455,7 @@
     {
       "id": "133945",
       "name": "嘉義縣警察局處理違反社會秩序維護法案件統計",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/186215/df55a010-bce8-418b-ae27-b0dac866fbe6.csv"
       ]
@@ -471,7 +471,7 @@
     {
       "id": "133952",
       "name": "嘉義縣警察局警察人員懲處統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/186222/7b10e576-fb26-4864-8633-2782fe7488f0.csv"
       ]
@@ -479,9 +479,17 @@
     {
       "id": "133956",
       "name": "嘉義縣警察局山地治安管制統計表",
-      "format": "csv",
+      "format": "bin",
       "urls": [
         "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/186205/571a8354-f415-46aa-9eb9-207959c5b6e6.csv"
+      ]
+    },
+    {
+      "id": "177210",
+      "name": "嘉義縣舉發違反道路交通管理事件統計-移公路主管機關裁罰",
+      "format": "bin",
+      "urls": [
+        "https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/186216/fd710d6c-152e-484b-8ccc-92da3d9dbb70.csv"
       ]
     }
   ]

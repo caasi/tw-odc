@@ -752,6 +752,182 @@
       "urls": [
         "https://data.moa.gov.tw/Service/OpenData/Ricepriceavg.aspx?IsTransData=1&UnitId=E69"
       ]
+    },
+    {
+      "id": "7296",
+      "name": "毛豬交易行情",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/Service/OpenData/FromM/AnimalTransData.aspx?IsTransData=1&UnitId=026",
+        "https://data.moa.gov.tw/Service/OpenData/FromM/AnimalTransData.aspx?FOTT=CSV&IsTransData=1&UnitId=026",
+        "https://data.moa.gov.tw/Service/OpenData/FromM/AnimalTransData.aspx?FOTT=Xml&IsTransData=1&UnitId=026"
+      ]
+    },
+    {
+      "id": "54370",
+      "name": "農業部主管法規查詢",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/Service/OpenData/FromM/RegulationsData.aspx?IsTransData=1&UnitId=021",
+        "https://data.moa.gov.tw/Service/OpenData/FromM/RegulationsData.aspx?FOTT=CSV&IsTransData=1&UnitId=021",
+        "https://data.moa.gov.tw/Service/OpenData/FromM/RegulationsData.aspx?FOTT=Xml&IsTransData=1&UnitId=021"
+      ]
+    },
+    {
+      "id": "80108",
+      "name": "花椰菜育苗場售出情形一覽表",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=i3P7o2A3u40H&IsTransData=1",
+        "https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=i3P7o2A3u40H&FOTT=CSV&IsTransData=1"
+      ]
+    },
+    {
+      "id": "85903",
+      "name": "動物認領養",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=QcbUEzN6E6DL&IsTransData=1",
+        "https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=QcbUEzN6E6DL&FOTT=CSV&IsTransData=1"
+      ]
+    },
+    {
+      "id": "114807",
+      "name": "農業部基金會計報告",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/api/FileToJson.ashx?DataId=G25&DataTable=OpenDataList"
+      ]
+    },
+    {
+      "id": "118837",
+      "name": "農業部獸醫研究所單位會計報告",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74550",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74551",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74552",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74553",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74554",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74555",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74556",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74557",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74558",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74559",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74560",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74561",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74562",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74563",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74564",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74565",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74566",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74567",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74568",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74569",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74570",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74571",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74572",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74573",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74574",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74575",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74576",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74577",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74578",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74579",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74580",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74581",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74582",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74583",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74584",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74585",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74586",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74587",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74588",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74589",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74590",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74591",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74592",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74593",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74594",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74595",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74596",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74597",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74598",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74599",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74600",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74601",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74602",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74603",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74604",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74605",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74606",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74607",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74608",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74609",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74610",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74611",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74612",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74613",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74614",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74615",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74616",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74617",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74618",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74619",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74626",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74627",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=H21&FileType=ZIP&RID=74628"
+      ]
+    },
+    {
+      "id": "147024",
+      "name": "農業部動植物防疫檢疫署及所屬單位決算",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74360",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74361",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74362",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74363",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74364",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74365",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74366",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74367",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74368",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74369",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=I13&FileType=ZIP&RID=74632"
+      ]
+    },
+    {
+      "id": "147025",
+      "name": "農業部動植物防疫檢疫署及所屬單位會計報告",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/api/FileToJson.ashx?DataId=I14&DataTable=OpenDataList"
+      ]
+    },
+    {
+      "id": "174915",
+      "name": "農業部動植物防疫檢疫署特別預算會計報告-中央政府前瞻基礎建設計畫第5期特別預算",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J59&FileType=ZIP&RID=74206",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J59&FileType=ZIP&RID=74207",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J59&FileType=ZIP&RID=74208",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J59&FileType=ZIP&RID=74209",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J59&FileType=ZIP&RID=74210",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J59&FileType=ZIP&RID=74781"
+      ]
+    },
+    {
+      "id": "174916",
+      "name": "農業部臺南區農業改良場中央政府前瞻基礎建設計畫第5期特別預算會計月報",
+      "format": "bin",
+      "urls": [
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J60&FileType=ZIP&RID=64964",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J60&FileType=ZIP&RID=64965",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J60&FileType=ZIP&RID=64966",
+        "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J60&FileType=ZIP&RID=64967"
+      ]
     }
   ]
 }

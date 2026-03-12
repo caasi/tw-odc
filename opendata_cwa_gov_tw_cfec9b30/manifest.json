@@ -861,8 +861,9 @@
     {
       "id": "9193",
       "name": "長期天氣預報-季長期天氣展望",
-      "format": "json",
+      "format": "bin",
       "urls": [
+        "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0013-002?Authorization=rdec-key-123-45678-011121314&format=XML",
         "https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0013-002?Authorization=rdec-key-123-45678-011121314&format=JSON"
       ]
     },
