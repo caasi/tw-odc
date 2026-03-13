@@ -1,3 +1,7 @@
+[build-system]
+requires = ["uv_build>=0.10.9,<0.11.0"]
+build-backend = "uv_build"
+
 [project]
 name = "tw-odc"
 version = "0.1.0"
@@ -9,27 +13,18 @@ dependencies = [
     "chardet>=7.0.1",
     "i18nice>=0.16.0",
     "jsonpatch>=1.33",
+    "platformdirs>=4.0",
     "python-magic>=0.4.27",
     "rich>=13.0.0",
     "typer>=0.24.1",
 ]
-
-[build-system]
-requires = ["setuptools>=75.0"]
-build-backend = "setuptools.build_meta"
-
-[tool.setuptools.packages.find]
-include = ["tw_odc*"]
-
-[tool.setuptools.package-data]
-tw_odc = ["locales/*.json"]
 
 [project.scripts]
 tw-odc = "tw_odc.cli:app"
 
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
-pythonpath = ["."]
+pythonpath = ["src"]
 
 [dependency-groups]
 dev = [

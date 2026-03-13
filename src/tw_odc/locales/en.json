@@ -3,7 +3,7 @@
   "E002": "export-json dataset not found in manifest",
   "E003": "%{path} does not exist, run 'tw-odc metadata download' first",
   "E004": "Provider not found: '%{provider}'",
-  "E005": "Please specify --provider or --dir",
+  "E005": "Please specify --provider or --provider-dir",
   "E006": "Dataset not found: ID %{id}",
   "E106": "File not found: %{name}\nAvailable files: %{available}",
   "E107": "Daily changed file not found: %{path}\nRun 'tw-odc metadata download --only daily-changed-json.json' first",
@@ -20,6 +20,7 @@
   "summary.issues": "%{count} issue(s) recorded to %{path}",
   "W001": "Root manifest.json not found; gov-tw metadata indicators will be unavailable",
   "W002": "export-json.json not found; run 'tw-odc metadata download' first",
+  "W003": "URL unreachable: %{url} — %{reason}",
   "E008": "No downloaded files found for dataset %{id}; run 'tw-odc dataset download --id %{id}' first",
   "output.count_suffix": "(%{count} datasets)",
   "output.partial": "(partial)"

@@ -1,7 +1,7 @@
 """Internationalization support for tw-odc CLI."""
 
 import os
-from pathlib import Path
+from importlib.resources import files
 
 import i18n
 
@@ -9,7 +9,7 @@ _SUPPORTED = {"en", "zh-TW"}
 _locale = "en"
 
 # Configure i18nice
-i18n.set("load_path", [str(Path(__file__).parent / "locales")])
+i18n.set("load_path", [str(files("tw_odc").joinpath("locales"))])
 i18n.set("file_format", "json")
 i18n.set("filename_format", "{locale}.{format}")
 i18n.set("skip_locale_root_data", True)

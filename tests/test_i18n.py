@@ -73,7 +73,8 @@ class TestIntegration:
         import json
         from pathlib import Path
 
-        locales_dir = Path(__file__).parent.parent / "tw_odc" / "locales"
+        from importlib.resources import files
+        locales_dir = Path(str(files("tw_odc").joinpath("locales")))
         en = json.loads((locales_dir / "en.json").read_text(encoding="utf-8"))
         zh = json.loads((locales_dir / "zh-TW.json").read_text(encoding="utf-8"))
         assert set(en.keys()) == set(zh.keys()), (
@@ -90,6 +91,7 @@ class TestIntegration:
         manifest = {"type": "dataset", "provider": "T", "slug": "t", "datasets": []}
         (tmp_path / "manifest.json").write_text(json.dumps(manifest))
         monkeypatch.chdir(tmp_path)
+        monkeypatch.setattr("tw_odc.cli.data_dir", lambda: tmp_path)
 
         runner = CliRunner()
         result = runner.invoke(app, ["--lang", "zh-TW", "metadata", "list"])

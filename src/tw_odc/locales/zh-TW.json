@@ -3,7 +3,7 @@
   "E002": "manifest 中找不到 export-json 資料集",
   "E003": "%{path} 不存在，請先執行 tw-odc metadata download",
   "E004": "找不到機關「%{provider}」",
-  "E005": "請指定 --provider 或 --dir",
+  "E005": "請指定 --provider 或 --provider-dir",
   "E006": "找不到 ID 為 %{id} 的資料集",
   "E106": "找不到檔案: %{name}\n可用的檔案: %{available}",
   "E107": "找不到每日異動檔案: %{path}\n請先執行 tw-odc metadata download --only daily-changed-json.json",
@@ -20,6 +20,7 @@
   "summary.issues": "%{count} 個問題已記錄到 %{path}",
   "W001": "找不到根目錄 manifest.json；gov-tw 詮釋資料相關指標將無法使用",
   "W002": "找不到 export-json.json；請先執行 'tw-odc metadata download'",
+  "W003": "URL 無法連線：%{url} — %{reason}",
   "E008": "找不到資料集 %{id} 的下載檔案；請先執行 'tw-odc dataset download --id %{id}'",
   "output.count_suffix": "(%{count} 筆)",
   "output.partial": "(部分)"

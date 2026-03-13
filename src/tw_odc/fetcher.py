@@ -14,6 +14,37 @@ from rich.progress import Progress, BarColumn, DownloadColumn, TransferSpeedColu
 from tw_odc.i18n import t
 
 _SAFE_ID_RE = re.compile(r"^[A-Za-z0-9_\-]+$")
+
+
+async def check_url_health(
+    url: str,
+    session: aiohttp.ClientSession | None = None,
+    timeout: int = 10,
+) -> tuple[bool, str | None]:
+    """HEAD check on a URL. Returns (is_healthy, reason_if_not).
+
+    Healthy: 2xx or 3xx.
+    Unhealthy: 4xx, 5xx, timeout, connection error.
+    """
+    close_session = False
+    if session is None:
+        session = aiohttp.ClientSession()
+        close_session = True
+    try:
+        async with session.head(url, timeout=aiohttp.ClientTimeout(total=timeout), allow_redirects=False) as resp:
+            if resp.status in (405, 501):
+                # Server doesn't support HEAD; assume GET will work.
+                return True, None
+            if resp.status < 400:
+                return True, None
+            return False, f"HTTP {resp.status}"
+    except asyncio.TimeoutError:
+        return False, "Timeout"
+    except aiohttp.ClientError as e:
+        return False, str(e)
+    finally:
+        if close_session:
+            await session.close()
 _SAFE_FMT_RE = re.compile(r"^\w+$")
 
 
@@ -222,6 +253,21 @@ async def fetch_all(
             print(f"E106: {t('E106', name=only, available=available)}", file=sys.stderr)
             return
         downloads = matched
+
+    # HEAD pre-check: verify URLs are reachable before downloading
+    if downloads:
+        unhealthy_urls: set[str] = set()
+        async with aiohttp.ClientSession() as check_session:
+            for url, dest in downloads:
+                ok, reason = await check_url_health(url, session=check_session)
+                if not ok:
+                    print(f"W003: {t('W003', url=url, reason=reason)}", file=sys.stderr)
+                    unhealthy_urls.add(url)
+        if unhealthy_urls:
+            downloads = [(url, dest) for url, dest in downloads if url not in unhealthy_urls]
+
+    if not downloads:
+        return
 
     output_dir.mkdir(parents=True, exist_ok=True)
 

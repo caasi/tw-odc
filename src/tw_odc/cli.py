@@ -5,10 +5,12 @@ import json
 import sys
 from enum import StrEnum
 from pathlib import Path
+from typing import Annotated, Optional
 
 import typer
 
 from tw_odc.i18n import setup_locale, t
+from tw_odc.paths import data_dir, ensure_manifest
 from tw_odc.manifest import (
     ManifestType,
     create_dataset_manifest,
@@ -37,8 +39,58 @@ def main_callback(
 
 metadata_app = typer.Typer(help="Metadata source operations")
 dataset_app = typer.Typer(help="Dataset operations")
+config_app = typer.Typer(help="Configuration info")
 app.add_typer(metadata_app, name="metadata")
 app.add_typer(dataset_app, name="dataset")
+app.add_typer(config_app, name="config")
+
+
+def _get_version() -> str:
+    """Get installed package version, or 'dev' if running from source."""
+    try:
+        from importlib.metadata import version
+        return version("tw-odc")
+    except Exception:
+        return "dev"
+
+
+def _has_local_metadata() -> bool:
+    """Check if $PWD has a valid metadata manifest."""
+    manifest_path = Path.cwd() / "manifest.json"
+    if not manifest_path.is_file():
+        return False
+    try:
+        data = json.loads(manifest_path.read_text(encoding="utf-8"))
+        return data.get("type") == "metadata"
+    except (json.JSONDecodeError, OSError):
+        return False
+
+
+@config_app.command("show")
+def config_show() -> None:
+    """Show configuration and path info."""
+    result = {
+        "version": _get_version(),
+        "metadata_dir": str(data_dir()),
+        "cwd": str(Path.cwd()),
+        "local_metadata": _has_local_metadata(),
+    }
+    json.dump(result, sys.stdout, ensure_ascii=False, indent=2)
+    sys.stdout.write("\n")
+
+
+@metadata_app.callback()
+def metadata_callback(
+    ctx: typer.Context,
+    dir: Annotated[Optional[Path], typer.Option("--dir", help="Metadata 目錄路徑")] = None,
+) -> None:
+    """Metadata subcommand group."""
+    ctx.ensure_object(dict)
+    ctx.obj["metadata_dir"] = Path(dir) if dir else data_dir()
+
+
+def _get_metadata_dir(ctx: typer.Context) -> Path:
+    return ctx.obj["metadata_dir"]
 
 
 class OutputFormat(StrEnum):
@@ -102,6 +154,7 @@ def _output(data, fmt: OutputFormat) -> None:
 
 @metadata_app.command("download")
 def metadata_download(
+    ctx: typer.Context,
     fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
     only: str | None = typer.Option(None, "--only", help="Download only this file"),
     no_cache: bool = typer.Option(False, "--no-cache", help="Bypass ETag cache"),
@@ -110,20 +163,22 @@ def metadata_download(
     """Download metadata files."""
     from tw_odc.fetcher import fetch_all
 
-    cwd = Path.cwd()
-    manifest = _load_and_check(cwd, ManifestType.METADATA)
+    metadata_dir = _get_metadata_dir(ctx)
+    ensure_manifest(metadata_dir)
+    manifest = _load_and_check(metadata_dir, ManifestType.METADATA)
     param_overrides = {"date": date} if date else None
-    asyncio.run(fetch_all(manifest, cwd, only=only, no_cache=no_cache, cache_path=cwd / "etags.json", param_overrides=param_overrides))
+    asyncio.run(fetch_all(manifest, metadata_dir, only=only, no_cache=no_cache, cache_path=metadata_dir / "etags.json", param_overrides=param_overrides))
 
 
 @metadata_app.command("list")
 def metadata_list(
+    ctx: typer.Context,
     fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
 ) -> None:
     """List all providers in metadata."""
-    cwd = Path.cwd()
-    manifest = _load_and_check(cwd, ManifestType.METADATA)
-    export_path = _find_export_json(manifest, cwd)
+    metadata_dir = _get_metadata_dir(ctx)
+    manifest = _load_and_check(metadata_dir, ManifestType.METADATA)
+    export_path = _find_export_json(manifest, metadata_dir)
     if not export_path.exists():
         print(f"E003: {t('E003', path=export_path)}", file=sys.stderr)
         raise typer.Exit(code=1)
@@ -148,12 +203,13 @@ def metadata_list(
 
 @metadata_app.command("create")
 def metadata_create(
+    ctx: typer.Context,
     provider: str = typer.Option(..., "--provider", "-p", help="Provider name"),
 ) -> None:
     """Create a dataset manifest from metadata. Prints directory slug to stdout."""
-    cwd = Path.cwd()
-    manifest = _load_and_check(cwd, ManifestType.METADATA)
-    export_path = _find_export_json(manifest, cwd)
+    metadata_dir = _get_metadata_dir(ctx)
+    manifest = _load_and_check(metadata_dir, ManifestType.METADATA)
+    export_path = _find_export_json(manifest, metadata_dir)
     if not export_path.exists():
         print(f"E003: {t('E003', path=export_path)}", file=sys.stderr)
         raise typer.Exit(code=1)
@@ -165,19 +221,20 @@ def metadata_create(
         print(f"E004: {t('E004', provider=provider)}", file=sys.stderr)
         raise typer.Exit(code=1)
 
-    slug = create_dataset_manifest(cwd, provider, groups[provider])
+    slug = create_dataset_manifest(Path.cwd(), provider, groups[provider])
     print(slug)
 
 
 @metadata_app.command("update")
 def metadata_update(
+    ctx: typer.Context,
     provider: str | None = typer.Option(None, "--provider", "-p", help="Provider name"),
-    dir_path: str | None = typer.Option(None, "--dir", help="Target directory"),
+    provider_dir: str | None = typer.Option(None, "--provider-dir", help="Target provider directory"),
 ) -> None:
     """Update an existing dataset manifest."""
-    cwd = Path.cwd()
-    manifest = _load_and_check(cwd, ManifestType.METADATA)
-    export_path = _find_export_json(manifest, cwd)
+    metadata_dir = _get_metadata_dir(ctx)
+    manifest = _load_and_check(metadata_dir, ManifestType.METADATA)
+    export_path = _find_export_json(manifest, metadata_dir)
     if not export_path.exists():
         print(f"E003: {t('E003', path=export_path)}", file=sys.stderr)
         raise typer.Exit(code=1)
@@ -185,8 +242,8 @@ def metadata_update(
     data = json.loads(export_path.read_text(encoding="utf-8"))
     groups = group_by_provider(data)
 
-    if dir_path:
-        target_dir = cwd / dir_path
+    if provider_dir:
+        target_dir = Path.cwd() / provider_dir
         target_manifest = load_manifest(target_dir)
         provider = target_manifest["provider"]
 
@@ -198,32 +255,33 @@ def metadata_update(
         print(f"E004: {t('E004', provider=provider)}", file=sys.stderr)
         raise typer.Exit(code=1)
 
-    slug = create_dataset_manifest(cwd, provider, groups[provider])
+    slug = create_dataset_manifest(Path.cwd(), provider, groups[provider])
     print(slug, file=sys.stderr)
 
 
 @metadata_app.command("apply-daily")
 def metadata_apply_daily(
+    ctx: typer.Context,
     fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
     date: str | None = typer.Option(None, "--date", help="Date label for the output summary (YYYY-MM-DD); does not select a different input file"),
 ) -> None:
     """Apply daily changed datasets to existing provider manifests."""
     import datetime as _dt
 
-    cwd = Path.cwd()
-    _load_and_check(cwd, ManifestType.METADATA)
+    metadata_dir = _get_metadata_dir(ctx)
+    _load_and_check(metadata_dir, ManifestType.METADATA)
 
     if not date:
         date = _dt.date.today().isoformat()
 
-    daily_path = cwd / "daily-changed-json.json"
+    daily_path = metadata_dir / "daily-changed-json.json"
     if not daily_path.exists():
         print(f"E107: {t('E107', path=daily_path)}", file=sys.stderr)
         raise typer.Exit(code=1)
 
     data = json.loads(daily_path.read_text(encoding="utf-8"))
     groups = group_by_provider(data)
-    providers = find_existing_providers(cwd)
+    providers = find_existing_providers(Path.cwd())
 
     updated: list[str] = []
     skipped: list[str] = []
@@ -358,22 +416,17 @@ def dataset_check(
 
 
 def _load_export_json_lookup() -> dict[str, dict]:
-    """Load export-json.json from project root and build a lookup by dataset ID.
+    """Load export-json.json from metadata dir and build a lookup by dataset ID.
 
     Returns empty dict if file not found (graceful degradation).
     """
-    # Walk up from cwd to find root manifest
-    cwd = Path.cwd()
-    root_manifest_path = cwd / "manifest.json"
-    if not root_manifest_path.exists():
-        # Try parent (if we're in a provider dir)
-        root_manifest_path = cwd.parent / "manifest.json"
+    metadata_dir = data_dir()
+    root_manifest_path = metadata_dir / "manifest.json"
     if not root_manifest_path.exists():
         print(f"W001: {t('W001')}", file=sys.stderr)
         return {}
 
-    root_dir = root_manifest_path.parent
-    export_path = root_dir / "export-json.json"
+    export_path = metadata_dir / "export-json.json"
     if not export_path.exists():
         print(f"W002: {t('W002')}", file=sys.stderr)
         return {}

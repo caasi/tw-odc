@@ -3,7 +3,7 @@ from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
-from tw_odc.fetcher import clean, clean_dataset, fetch_all, resolve_params, _dest_filename
+from tw_odc.fetcher import check_url_health, clean, clean_dataset, fetch_all, resolve_params, _dest_filename
 
 
 def test_resolve_params_today(monkeypatch):
@@ -50,6 +50,20 @@ def _make_manifest(tmp_path, datasets):
     return manifest, pkg_dir
 
 
+def _make_head_response(status=200):
+    """Create a mock HEAD response as an async context manager."""
+    mock_resp = AsyncMock()
+    mock_resp.status = status
+    mock_resp.__aenter__ = AsyncMock(return_value=mock_resp)
+    mock_resp.__aexit__ = AsyncMock(return_value=False)
+    return mock_resp
+
+
+def _make_healthy_head_response():
+    """Create a mock HEAD response that indicates a healthy URL (HTTP 200)."""
+    return _make_head_response(200)
+
+
 def _make_mock_session(status, content=b""):
     """Create a mock aiohttp session with streaming support."""
 
@@ -70,6 +84,7 @@ def _make_mock_session(status, content=b""):
 
     mock_session = AsyncMock()
     mock_session.get = MagicMock(return_value=mock_response)
+    mock_session.head = MagicMock(return_value=_make_healthy_head_response())
     mock_session.__aenter__ = AsyncMock(return_value=mock_session)
     mock_session.__aexit__ = AsyncMock(return_value=False)
 
@@ -143,6 +158,7 @@ async def test_fetch_all_handles_network_error(tmp_path):
 
     mock_session = AsyncMock()
     mock_session.get = _get
+    mock_session.head = MagicMock(return_value=_make_healthy_head_response())
     mock_session.__aenter__ = AsyncMock(return_value=mock_session)
     mock_session.__aexit__ = AsyncMock(return_value=False)
 
@@ -216,6 +232,7 @@ async def test_fetch_all_blocks_domain_on_429(tmp_path):
 
     mock_session = AsyncMock()
     mock_session.get = _get
+    mock_session.head = MagicMock(return_value=_make_healthy_head_response())
     mock_session.__aenter__ = AsyncMock(return_value=mock_session)
     mock_session.__aexit__ = AsyncMock(return_value=False)
 
@@ -448,6 +465,7 @@ async def test_fetch_all_resolves_params(tmp_path):
 
     mock_session = AsyncMock()
     mock_session.get = _get
+    mock_session.head = MagicMock(return_value=_make_healthy_head_response())
     mock_session.__aenter__ = AsyncMock(return_value=mock_session)
     mock_session.__aexit__ = AsyncMock(return_value=False)
 
@@ -497,6 +515,7 @@ async def test_fetch_all_param_overrides(tmp_path):
 
     mock_session = AsyncMock()
     mock_session.get = _get
+    mock_session.head = MagicMock(return_value=_make_healthy_head_response())
     mock_session.__aenter__ = AsyncMock(return_value=mock_session)
     mock_session.__aexit__ = AsyncMock(return_value=False)
 
@@ -570,6 +589,7 @@ async def test_fetch_all_no_cache_skips_conditional_headers(tmp_path):
 
     mock_session = AsyncMock()
     mock_session.get = _get
+    mock_session.head = MagicMock(return_value=_make_healthy_head_response())
     mock_session.__aenter__ = AsyncMock(return_value=mock_session)
     mock_session.__aexit__ = AsyncMock(return_value=False)
 
@@ -622,6 +642,7 @@ async def test_fetch_all_parameterized_skips_etag_cache(tmp_path):
 
     mock_session = AsyncMock()
     mock_session.get = _get
+    mock_session.head = MagicMock(return_value=_make_healthy_head_response())
     mock_session.__aenter__ = AsyncMock(return_value=mock_session)
     mock_session.__aexit__ = AsyncMock(return_value=False)
 
@@ -636,3 +657,72 @@ async def test_fetch_all_parameterized_skips_etag_cache(tmp_path):
     if cache_path.exists():
         new_cache = json.loads(cache_path.read_text())
         assert resolved_url not in new_cache
+
+
+class TestCheckUrlHealth:
+    @pytest.mark.asyncio
+    async def test_2xx_is_healthy(self):
+        mock_session = MagicMock()
+        mock_session.head = MagicMock(return_value=_make_head_response(200))
+
+        ok, reason = await check_url_health("https://example.com/data", session=mock_session, timeout=10)
+        assert ok is True
+        assert reason is None
+
+    @pytest.mark.asyncio
+    async def test_3xx_is_healthy(self):
+        mock_session = MagicMock()
+        mock_session.head = MagicMock(return_value=_make_head_response(301))
+
+        ok, reason = await check_url_health("https://example.com/data", session=mock_session, timeout=10)
+        assert ok is True
+
+    @pytest.mark.asyncio
+    async def test_4xx_is_unhealthy(self):
+        mock_session = MagicMock()
+        mock_session.head = MagicMock(return_value=_make_head_response(404))
+
+        ok, reason = await check_url_health("https://example.com/missing", session=mock_session, timeout=10)
+        assert ok is False
+        assert "404" in reason
+
+    @pytest.mark.asyncio
+    async def test_405_is_healthy(self):
+        """405 Method Not Allowed means server doesn't support HEAD; assume GET works."""
+        mock_session = MagicMock()
+        mock_session.head = MagicMock(return_value=_make_head_response(405))
+
+        ok, reason = await check_url_health("https://example.com/no-head", session=mock_session, timeout=10)
+        assert ok is True
+        assert reason is None
+
+    @pytest.mark.asyncio
+    async def test_501_is_healthy(self):
+        """501 Not Implemented means server doesn't support HEAD; assume GET works."""
+        mock_session = MagicMock()
+        mock_session.head = MagicMock(return_value=_make_head_response(501))
+
+        ok, reason = await check_url_health("https://example.com/no-head", session=mock_session, timeout=10)
+        assert ok is True
+        assert reason is None
+
+    @pytest.mark.asyncio
+    async def test_timeout_is_unhealthy(self):
+        import asyncio
+        mock_session = MagicMock()
+        mock_session.head.side_effect = asyncio.TimeoutError()
+
+        ok, reason = await check_url_health("https://example.com/slow", session=mock_session, timeout=10)
+        assert ok is False
+        assert "timeout" in reason.lower()
+
+    @pytest.mark.asyncio
+    async def test_connection_error_is_unhealthy(self):
+        import aiohttp
+        mock_session = MagicMock()
+        mock_session.head.side_effect = aiohttp.ClientConnectorError(
+            connection_key=MagicMock(), os_error=OSError("DNS resolution failed"))
+
+        ok, reason = await check_url_health("https://nonexistent.example.com", session=mock_session, timeout=10)
+        assert ok is False
+        assert reason is not None
