@@ -40,6 +40,25 @@ async def check_url_health(
             return False, f"HTTP {resp.status}"
     except asyncio.TimeoutError:
         return False, "Timeout"
+    except aiohttp.ClientSSLError:
+        # SSL failed — retry with verification disabled (mirrors _do_download fallback)
+        no_verify = ssl.create_default_context()
+        no_verify.check_hostname = False
+        no_verify.verify_mode = ssl.CERT_NONE
+        retry_session = aiohttp.ClientSession(
+            connector=aiohttp.TCPConnector(ssl=no_verify)
+        )
+        try:
+            async with retry_session.head(url, timeout=aiohttp.ClientTimeout(total=timeout), allow_redirects=False) as resp:
+                if resp.status in (405, 501):
+                    return True, None
+                if resp.status < 400:
+                    return True, None
+                return False, f"HTTP {resp.status}"
+        except (asyncio.TimeoutError, aiohttp.ClientError) as e:
+            return False, str(e)
+        finally:
+            await retry_session.close()
     except aiohttp.ClientError as e:
         return False, str(e)
     finally:

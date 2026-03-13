@@ -726,3 +726,50 @@ class TestCheckUrlHealth:
         ok, reason = await check_url_health("https://nonexistent.example.com", session=mock_session, timeout=10)
         assert ok is False
         assert reason is not None
+
+    @pytest.mark.asyncio
+    async def test_ssl_error_retries_without_verification(self):
+        """SSL error should trigger a retry with verification disabled."""
+        import aiohttp
+
+        mock_session = MagicMock()
+        mock_session.head.side_effect = aiohttp.ClientSSLError(
+            connection_key=MagicMock(), os_error=OSError("certificate verify failed"))
+
+        # The retry creates its own session via aiohttp.ClientSession(),
+        # so we mock that to return a healthy response.
+        retry_session = MagicMock()
+        retry_session.head = MagicMock(return_value=_make_head_response(200))
+        retry_session.close = AsyncMock()
+
+        with patch("aiohttp.ClientSession", return_value=retry_session):
+            with patch("aiohttp.TCPConnector"):
+                ok, reason = await check_url_health(
+                    "https://bad-ssl.example.com/data", session=mock_session, timeout=10
+                )
+
+        assert ok is True
+        assert reason is None
+
+    @pytest.mark.asyncio
+    async def test_ssl_error_retry_also_fails(self):
+        """When SSL retry also fails, should return unhealthy."""
+        import aiohttp
+
+        mock_session = MagicMock()
+        mock_session.head.side_effect = aiohttp.ClientSSLError(
+            connection_key=MagicMock(), os_error=OSError("certificate verify failed"))
+
+        retry_session = MagicMock()
+        retry_session.head.side_effect = aiohttp.ClientConnectorError(
+            connection_key=MagicMock(), os_error=OSError("still broken"))
+        retry_session.close = AsyncMock()
+
+        with patch("aiohttp.ClientSession", return_value=retry_session) as _:
+            with patch("aiohttp.TCPConnector") as _:
+                ok, reason = await check_url_health(
+                    "https://bad-ssl.example.com/data", session=mock_session, timeout=10
+                )
+
+        assert ok is False
+        assert reason is not None
