@@ -23,5 +23,7 @@
   "W003": "URL 無法連線：%{url} — %{reason}",
   "E008": "找不到資料集 %{id} 的下載檔案；請先執行 'tw-odc dataset download --id %{id}'",
   "output.count_suffix": "(%{count} 筆)",
-  "output.partial": "(部分)"
+  "output.partial": "(部分)",
+  "search.count": "找到 %{count} 筆資料集",
+  "E009": "%{path} 中找不到 export-search.jsonl 和 export-json.json；請先執行 'tw-odc metadata download'"
 }

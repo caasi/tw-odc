@@ -684,3 +684,113 @@ class TestConfigShow:
         result = runner.invoke(app, ["config", "show"])
         data = json.loads(result.output)
         assert isinstance(data["version"], str)
+
+
+def _parse_json_output(output: str):
+    """Parse JSON from CLI output, ignoring any trailing stderr lines."""
+    # Find the end of the JSON array/object by trying to parse from the start
+    import json as _json
+    decoder = _json.JSONDecoder()
+    result, _ = decoder.raw_decode(output.lstrip())
+    return result
+
+
+class TestMetadataSearch:
+    @pytest.fixture()
+    def search_dir(self, tmp_path):
+        """Set up metadata dir with search index."""
+        manifest = {
+            "type": "metadata", "provider": "data.gov.tw",
+            "datasets": [{"id": "export-json", "name": "JSON", "format": "json",
+                           "urls": ["https://example.com/export.json"]}],
+        }
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+
+        # Write slim JSONL index directly
+        entries = [
+            {"id": 1, "name": "臺中市工廠登記清冊", "provider": "臺中市政府經濟發展局", "desc": "工廠登記資料", "format": "CSV"},
+            {"id": 2, "name": "臺南市工廠登記清冊", "provider": "臺南市政府經濟發展局", "desc": "工廠登記資料", "format": "JSON"},
+            {"id": 3, "name": "國防部新聞稿", "provider": "國防部", "desc": "即時新聞", "format": "XML"},
+            {"id": 4, "name": "政府採購統計", "provider": "行政院公共工程委員會", "desc": "廠商採購資料", "format": "CSV"},
+        ]
+        index_path = tmp_path / "export-search.jsonl"
+        with open(index_path, "w") as f:
+            for e in entries:
+                f.write(json.dumps(e, ensure_ascii=False) + "\n")
+        return tmp_path
+
+    def test_single_keyword(self, search_dir, monkeypatch):
+        """Single keyword matches across all fields."""
+        monkeypatch.chdir(search_dir)
+        result = runner.invoke(app, ["metadata", "search", "國防"])
+        assert result.exit_code == 0
+        data = _parse_json_output(result.output)
+        assert len(data) == 1
+        assert data[0]["name"] == "國防部新聞稿"
+
+    def test_multiple_keywords_and(self, search_dir, monkeypatch):
+        """Multiple keywords use AND logic."""
+        monkeypatch.chdir(search_dir)
+        result = runner.invoke(app, ["metadata", "search", "臺中", "工廠登記"])
+        data = _parse_json_output(result.output)
+        assert len(data) == 1
+        assert data[0]["provider"] == "臺中市政府經濟發展局"
+
+    def test_cross_field_and(self, search_dir, monkeypatch):
+        """Keywords can match across different fields."""
+        monkeypatch.chdir(search_dir)
+        result = runner.invoke(app, ["metadata", "search", "工程委員會", "廠商"])
+        data = _parse_json_output(result.output)
+        assert len(data) == 1
+        assert data[0]["id"] == 4
+
+    def test_no_results(self, search_dir, monkeypatch):
+        """No matches returns empty list."""
+        monkeypatch.chdir(search_dir)
+        result = runner.invoke(app, ["metadata", "search", "不存在的關鍵字"])
+        assert result.exit_code == 0
+        data = _parse_json_output(result.output)
+        assert data == []
+
+    def test_field_filter_provider(self, search_dir, monkeypatch):
+        """--field provider restricts search to provider name only."""
+        monkeypatch.chdir(search_dir)
+        result = runner.invoke(app, ["metadata", "search", "工廠登記", "--field", "provider"])
+        data = _parse_json_output(result.output)
+        assert len(data) == 0
+
+    def test_field_filter_name(self, search_dir, monkeypatch):
+        """--field name restricts search to dataset name."""
+        monkeypatch.chdir(search_dir)
+        result = runner.invoke(app, ["metadata", "search", "工廠登記", "--field", "name"])
+        data = _parse_json_output(result.output)
+        assert len(data) == 2  # 臺中 + 臺南
+
+    def test_text_format(self, search_dir, monkeypatch):
+        """--format text outputs human-readable lines."""
+        monkeypatch.chdir(search_dir)
+        result = runner.invoke(app, ["metadata", "search", "國防", "--format", "text"])
+        assert result.exit_code == 0
+        assert "國防部新聞稿" in result.output
+        assert "國防部" in result.output
+
+    def test_fallback_to_export_json(self, search_dir, monkeypatch):
+        """Falls back to export-json.json when index is missing."""
+        monkeypatch.chdir(search_dir)
+        # Remove index, create export-json.json instead
+        (search_dir / "export-search.jsonl").unlink()
+        export_data = [
+            {"資料集識別碼": 99, "資料集名稱": "測試資料集", "提供機關": "測試機關", "資料集描述": "測試", "檔案格式": "CSV", "資料下載網址": "https://x"},
+        ]
+        (search_dir / "export-json.json").write_text(json.dumps(export_data, ensure_ascii=False))
+
+        result = runner.invoke(app, ["metadata", "search", "測試"])
+        data = _parse_json_output(result.output)
+        assert len(data) == 1
+        assert data[0]["name"] == "測試資料集"
+
+    def test_no_keywords_shows_error(self, search_dir, monkeypatch):
+        """search with no keywords should error."""
+        monkeypatch.chdir(search_dir)
+        result = runner.invoke(app, ["metadata", "search"])
+        assert result.exit_code != 0

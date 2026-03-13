@@ -23,5 +23,7 @@
   "W003": "URL unreachable: %{url} — %{reason}",
   "E008": "No downloaded files found for dataset %{id}; run 'tw-odc dataset download --id %{id}' first",
   "output.count_suffix": "(%{count} datasets)",
-  "output.partial": "(partial)"
+  "output.partial": "(partial)",
+  "search.count": "Found %{count} datasets",
+  "E009": "export-search.jsonl and export-json.json not found in %{path}; run 'tw-odc metadata download' first"
 }
