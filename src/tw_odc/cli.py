@@ -169,6 +169,12 @@ def metadata_download(
     param_overrides = {"date": date} if date else None
     asyncio.run(fetch_all(manifest, metadata_dir, only=only, no_cache=no_cache, cache_path=metadata_dir / "etags.json", param_overrides=param_overrides))
 
+    # Rebuild search index if export-json.json exists
+    export_json_path = metadata_dir / "export-json.json"
+    if export_json_path.exists():
+        from tw_odc.manifest import build_search_index
+        build_search_index(metadata_dir)
+
 
 @metadata_app.command("list")
 def metadata_list(
@@ -199,6 +205,69 @@ def metadata_list(
         result.append({"provider": name, "slug": slug, "count": len(datasets)})
 
     _output(result, fmt)
+
+
+@metadata_app.command("search")
+def metadata_search(
+    ctx: typer.Context,
+    keywords: Annotated[list[str], typer.Argument(help="Search keywords (AND logic)")],
+    field: Annotated[Optional[list[str]], typer.Option("--field", help="Restrict to field: provider, name, desc")] = None,
+    fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
+) -> None:
+    """Search datasets in metadata by keyword."""
+    metadata_dir = _get_metadata_dir(ctx)
+    index_path = metadata_dir / "export-search.jsonl"
+    export_path = metadata_dir / "export-json.json"
+
+    keywords_lower = [k.lower() for k in keywords]
+    valid_fields = {"provider", "name", "desc"}
+    if field:
+        for f in field:
+            if f not in valid_fields:
+                print(f"Error: --field must be one of: {', '.join(sorted(valid_fields))}", file=sys.stderr)
+                raise typer.Exit(code=1)
+
+    results: list[dict] = []
+
+    if index_path.exists():
+        # Fast path: slim JSONL
+        with open(index_path, encoding="utf-8") as fh:
+            for line in fh:
+                line_lower = line.lower()
+                if not all(k in line_lower for k in keywords_lower):
+                    continue
+                entry = json.loads(line)
+                if field:
+                    haystack = " ".join(str(entry.get(f, "")) for f in field).lower()
+                    if not all(k in haystack for k in keywords_lower):
+                        continue
+                results.append(entry)
+    elif export_path.exists():
+        # Fallback: full JSON parse
+        data = json.loads(export_path.read_text(encoding="utf-8"))
+        for ds in data:
+            entry = {
+                "id": ds.get("資料集識別碼", ""),
+                "name": ds.get("資料集名稱", ""),
+                "provider": ds.get("提供機關", ""),
+                "desc": ds.get("資料集描述", ""),
+                "format": ds.get("檔案格式", ""),
+            }
+            if field:
+                haystack = " ".join(str(entry.get(f, "")) for f in field).lower()
+            else:
+                haystack = " ".join(str(v) for v in entry.values()).lower()
+            if all(k in haystack for k in keywords_lower):
+                results.append(entry)
+    else:
+        print(f"E009: {t('E009', path=metadata_dir)}", file=sys.stderr)
+        raise typer.Exit(code=1)
+
+    # Sort by provider, then id
+    results.sort(key=lambda r: (str(r.get("provider", "")), str(r.get("id", ""))))
+
+    print(t("search.count", count=len(results)), file=sys.stderr)
+    _output(results, fmt)
 
 
 @metadata_app.command("create")

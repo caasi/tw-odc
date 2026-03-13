@@ -55,6 +55,22 @@ tw-odc metadata apply-daily --date 2026-03-10
 
 `apply-daily` 讀取 `daily-changed-json.json`，將異動資料集合併進已存在的 provider manifest，輸出 JSON 摘要（updated / skipped / warnings）。
 
+### 1c. 搜尋資料集
+
+```bash
+# 關鍵字搜尋（AND 邏輯）
+tw-odc metadata search 國防
+tw-odc metadata search 臺中 工廠登記
+
+# 限定欄位搜尋
+tw-odc metadata search 廠商 --field name
+
+# 人類可讀格式
+tw-odc metadata search 國防 --format text
+```
+
+搜尋使用 `metadata download` 時自動產生的 `export-search.jsonl` 索引檔，提供快速的關鍵字查詢。若索引檔不存在，會自動退回解析完整的 `export-json.json`。
+
 ### 2. 查詢機關與建立 provider
 
 ```bash

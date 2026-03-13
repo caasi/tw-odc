@@ -137,6 +137,33 @@ def find_existing_providers(base_dir: Path) -> dict[str, Path]:
     return providers
 
 
+def build_search_index(metadata_dir: Path) -> Path:
+    """Build export-search.jsonl from export-json.json.
+
+    Extracts only search-relevant fields (id, name, provider, desc, format)
+    into a JSONL file for fast line-by-line text matching.
+    """
+    export_path = metadata_dir / "export-json.json"
+    if not export_path.exists():
+        raise FileNotFoundError(f"export-json.json not found in {metadata_dir}")
+
+    index_path = metadata_dir / "export-search.jsonl"
+    data = json.loads(export_path.read_text(encoding="utf-8"))
+
+    with open(index_path, "w", encoding="utf-8") as f:
+        for ds in data:
+            entry = {
+                "id": ds.get("資料集識別碼", ""),
+                "name": ds.get("資料集名稱", ""),
+                "provider": ds.get("提供機關", ""),
+                "desc": ds.get("資料集描述", ""),
+                "format": ds.get("檔案格式", ""),
+            }
+            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+    return index_path
+
+
 def update_dataset_manifest(pkg_dir: Path, changed_datasets: list[dict]) -> int:
     """Incrementally merge changed datasets into an existing manifest. Returns count of changes."""
     if not changed_datasets:

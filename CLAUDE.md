@@ -39,6 +39,12 @@ tw-odc metadata apply-daily --date 2026-03-10        # specific date
 tw-odc metadata list
 tw-odc metadata list --format text
 
+# Search datasets in metadata
+tw-odc metadata search <keywords...>
+tw-odc metadata search 國防 採購                    # multiple keywords (AND)
+tw-odc metadata search 臺中 --field provider        # restrict to provider name
+tw-odc metadata search 工廠登記 --format text        # human-readable output
+
 # Create a dataset manifest for a provider
 tw-odc metadata create --provider "機關名稱"
 
@@ -182,6 +188,7 @@ The JSON export is the input for creating provider manifests. The daily-changed 
 - **ETag bypass for parameterized datasets**: Parameterized downloads always bypass conditional requests and are never written to the ETag cache; cache entries are only removed for parameterized URLs downloaded in the current run (older entries may remain)
 - **Unix philosophy for data viewing**: `dataset view` outputs raw file content to stdout without parsing; use external tools (`grep`, `jq`, `head`) for filtering/formatting. Multi-file datasets print filenames to stderr to keep stdout clean for piping
 - **Dual scoring**: `5-stars` (Tim Berners-Lee) and `gov-tw` (數位發展部品質指引) are independent scoring methods selectable via `--method`
+- **Search index**: `metadata download` generates `export-search.jsonl` (slim JSONL with search fields only) for fast keyword search; `metadata search` falls back to full `export-json.json` parsing if index is missing
 
 ## Plans (RFC-style)
 
