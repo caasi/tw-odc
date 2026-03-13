@@ -339,6 +339,30 @@ class TestMetadataApplyDaily:
         assert any(w["reason"] == "contains_deleted_datasets" for w in output["warnings"])
 
 
+class TestMetadataDownloadSearchIndex:
+    def test_metadata_download_generates_search_index(self, tmp_path, monkeypatch):
+        """metadata download should generate export-search.jsonl after downloading export-json.json."""
+        manifest = {
+            "type": "metadata",
+            "provider": "data.gov.tw",
+            "datasets": [{"id": "export-json", "name": "JSON export", "format": "json",
+                           "urls": ["https://example.com/export.json"]}],
+        }
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+        export_data = [{"資料集識別碼": 1, "資料集名稱": "Test", "提供機關": "A", "資料集描述": "D", "檔案格式": "CSV", "資料下載網址": "https://x"}]
+        (tmp_path / "export-json.json").write_text(json.dumps(export_data))
+        monkeypatch.chdir(tmp_path)
+
+        import tw_odc.fetcher
+        monkeypatch.setattr(tw_odc.fetcher, "fetch_all", lambda *a, **kw: None)
+        monkeypatch.setattr("tw_odc.cli.asyncio.run", lambda coro: None)
+
+        result = runner.invoke(app, ["metadata", "download"])
+
+        assert result.exit_code == 0
+        assert (tmp_path / "export-search.jsonl").exists()
+
+
 class TestMetadataDownloadDate:
     def test_date_option_passes_param_overrides(self, tmp_path, monkeypatch):
         """--date should pass param_overrides to fetch_all."""

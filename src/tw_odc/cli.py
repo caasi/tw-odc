@@ -169,6 +169,12 @@ def metadata_download(
     param_overrides = {"date": date} if date else None
     asyncio.run(fetch_all(manifest, metadata_dir, only=only, no_cache=no_cache, cache_path=metadata_dir / "etags.json", param_overrides=param_overrides))
 
+    # Rebuild search index if export-json.json exists
+    export_json_path = metadata_dir / "export-json.json"
+    if export_json_path.exists():
+        from tw_odc.manifest import build_search_index
+        build_search_index(metadata_dir)
+
 
 @metadata_app.command("list")
 def metadata_list(
