@@ -31,10 +31,13 @@ async def check_url_health(
         session = aiohttp.ClientSession()
         close_session = True
     try:
-        resp = await session.head(url, timeout=aiohttp.ClientTimeout(total=timeout), allow_redirects=False)
-        if resp.status < 400:
-            return True, None
-        return False, f"HTTP {resp.status}"
+        async with session.head(url, timeout=aiohttp.ClientTimeout(total=timeout), allow_redirects=False) as resp:
+            if resp.status in (405, 501):
+                # Server doesn't support HEAD; assume GET will work.
+                return True, None
+            if resp.status < 400:
+                return True, None
+            return False, f"HTTP {resp.status}"
     except asyncio.TimeoutError:
         return False, "Timeout"
     except aiohttp.ClientError as e:
