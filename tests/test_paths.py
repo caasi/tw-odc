@@ -73,3 +73,21 @@ class TestDataDir:
         result = data_dir()
         assert result == config
         assert config.exists()
+
+
+class TestDefaultManifest:
+    def test_default_manifest_is_valid_json(self):
+        """Bundled default_manifest.json should be valid and type=metadata."""
+        from importlib.resources import files
+        content = files("tw_odc").joinpath("default_manifest.json").read_text(encoding="utf-8")
+        data = json.loads(content)
+        assert data["type"] == "metadata"
+        assert len(data["datasets"]) == 5
+
+    def test_default_manifest_has_all_exports(self):
+        """Should contain export-json, export-csv, export-xml, daily-changed-json, daily-changed-csv."""
+        from importlib.resources import files
+        content = files("tw_odc").joinpath("default_manifest.json").read_text(encoding="utf-8")
+        data = json.loads(content)
+        ids = {d["id"] for d in data["datasets"]}
+        assert ids == {"export-json", "export-csv", "export-xml", "daily-changed-json", "daily-changed-csv"}
