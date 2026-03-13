@@ -18,10 +18,14 @@ tw-odc itself contains no LLM code. All evaluation is deterministic and rule-bas
 ## Commands
 
 ```bash
-# Download data.gov.tw exports (JSON/CSV/XML) to project root
+# Show configuration and path info
+tw-odc config show
+
+# Download data.gov.tw exports (JSON/CSV/XML)
 tw-odc metadata download
 tw-odc metadata download --only export-json.json   # download one file only
 tw-odc metadata download --no-cache                 # bypass ETag cache
+tw-odc metadata download --dir /path/to/dir         # specify metadata directory
 
 # Download daily changed datasets (uses today's date by default)
 tw-odc metadata download --only daily-changed-json.json
@@ -40,7 +44,7 @@ tw-odc metadata create --provider "機關名稱"
 
 # Update an existing dataset manifest
 tw-odc metadata update --provider "機關名稱"
-tw-odc metadata update --dir <provider_slug>
+tw-odc metadata update --provider-dir <provider_slug>
 
 # Download a provider's datasets
 tw-odc dataset --dir <provider_slug> download
@@ -83,25 +87,27 @@ uv add <package>
 
 ### Unified CLI (`tw-odc`)
 
-The CLI has two subcommand groups: `metadata` (operates on the root manifest for data.gov.tw exports) and `dataset` (operates on provider-level manifests for individual datasets).
+The CLI has three subcommand groups: `metadata` (operates on metadata manifests for data.gov.tw exports), `dataset` (operates on provider-level manifests for individual datasets), and `config` (shows configuration info).
 
 ### Directory structure
 
 ```
 tw-odc/
-├── manifest.json              # type: metadata — data.gov.tw export URLs
-├── pyproject.toml             # registers tw-odc CLI entry point
-├── tw_odc/                    # CLI package
+├── manifest.json              # type: metadata — data.gov.tw export URLs (dev use)
+├── pyproject.toml             # registers tw-odc CLI entry point (uv_build)
+├── src/tw_odc/                # CLI package (src layout)
 │   ├── __init__.py            # FORMAT_ALIASES (中文格式名對照)
 │   ├── __main__.py            # python -m tw_odc entry point
-│   ├── cli.py                 # typer app — metadata/dataset subcommands
-│   ├── fetcher.py             # async downloader (aiohttp, etag caching)
+│   ├── cli.py                 # typer app — metadata/dataset/config subcommands
+│   ├── paths.py               # cross-platform path resolution (data_dir, ensure_manifest)
+│   ├── fetcher.py             # async downloader (aiohttp, etag caching, HEAD health check)
 │   ├── inspector.py           # file format detection & validation
 │   ├── scorer.py              # 5-Star scoring engine
 │   ├── gov_tw_scorer.py       # gov-tw quality indicators scoring
 │   ├── manifest.py            # manifest I/O, RFC 6902 patch, scaffolding
 │   ├── i18n.py                # locale detection and translation
-│   └── locales/               # en.json, zh-TW.json
+│   ├── locales/               # en.json, zh-TW.json
+│   └── default_manifest.json  # bundled default metadata manifest (bootstrapped on first run)
 ├── <provider_slug>/           # one directory per provider organization
 │   ├── manifest.json          # type: dataset — committed
 │   ├── patch.json             # RFC 6902 patch — optional, committed
@@ -112,28 +118,30 @@ tw-odc/
     ├── test_i18n.py
     ├── test_inspector.py
     ├── test_manifest.py
+    ├── test_paths.py
     ├── test_scorer.py
     └── test_gov_tw_scorer.py
 ```
 
 ### How it works
 
-- `tw_odc/manifest.py` reads `export-json.json` (downloaded metadata), groups datasets by provider (提供機關), derives a slug from download URLs, and creates/updates `manifest.json` per provider; `update_dataset_manifest` merges daily-changed entries incrementally; `find_existing_providers` maps provider names to local `pkg_dir` paths
-- `tw_odc/fetcher.py` reads `manifest.json` from a directory and downloads all listed URLs with concurrency control, ETag caching, error isolation, and path traversal protection; `resolve_params` resolves URL template variables (e.g. `"today"` → `YYYY-MM-DD`); parameterized datasets bypass ETag caching entirely
-- `tw_odc/inspector.py` detects actual file formats (via magic bytes), validates against declared format, inspects ZIP contents
-- `tw_odc/scorer.py` scores datasets using the 5-Star Open Data model based on inspection results
-- `tw_odc/gov_tw_scorer.py` scores datasets using 6 quality indicators from 數位發展部「政府資料品質提升機制運作指引」; requires export-json metadata for encoding, field, and timeliness checks
+- `src/tw_odc/paths.py` resolves the metadata storage directory: prefers `$PWD` if it contains a metadata manifest, otherwise falls back to `~/.config/tw-odc/` (cross-platform via platformdirs); `ensure_manifest` bootstraps the default manifest from bundled `default_manifest.json` on first run
+- `src/tw_odc/manifest.py` reads `export-json.json` (downloaded metadata), groups datasets by provider (提供機關), derives a slug from download URLs, and creates/updates `manifest.json` per provider; `update_dataset_manifest` merges daily-changed entries incrementally; `find_existing_providers` maps provider names to local `pkg_dir` paths
+- `src/tw_odc/fetcher.py` reads `manifest.json` from a directory and downloads all listed URLs with concurrency control, ETag caching, error isolation, HEAD health checks, and path traversal protection; `resolve_params` resolves URL template variables (e.g. `"today"` → `YYYY-MM-DD`); parameterized datasets bypass ETag caching entirely
+- `src/tw_odc/inspector.py` detects actual file formats (via magic bytes), validates against declared format, inspects ZIP contents
+- `src/tw_odc/scorer.py` scores datasets using the 5-Star Open Data model based on inspection results
+- `src/tw_odc/gov_tw_scorer.py` scores datasets using 6 quality indicators from 數位發展部「政府資料品質提升機制運作指引」; requires export-json metadata for encoding, field, and timeliness checks
 - Provider directories contain only `manifest.json` (and optional `patch.json`) — no Python code
 
 ### Manifest types
 
 Two manifest types distinguished by the `type` field:
-- **metadata** (`manifest.json` in root): lists data.gov.tw bulk exports; entries may include an optional `params` dict for URL template substitution (e.g., `{"date": "today"}`)
+- **metadata** (`manifest.json` in metadata dir): lists data.gov.tw bulk exports; entries may include an optional `params` dict for URL template substitution (e.g., `{"date": "today"}`). Metadata dir is resolved by `data_dir()`: `$PWD` if local metadata manifest exists, otherwise `~/.config/tw-odc/`; overridable via `--dir`
 - **dataset** (`manifest.json` in provider dirs): lists individual datasets for a provider
 
 ### Storage
 
-- **Filesystem only, no database** — downloaded files in `datasets/`, metadata exports in project root
+- **Filesystem only, no database** — downloaded files in `datasets/`, metadata exports in metadata dir (may be `~/.config/tw-odc/` or project root)
 - `datasets/` directories and export files are gitignored
 
 ### Pipeline
@@ -162,7 +170,11 @@ The JSON export is the input for creating provider manifests. The daily-changed 
 - **No LLM in pipeline**: All evaluation is deterministic; any external LLM agent can consume the JSON output
 - **5-Star model**: ★ online → ★★ machine-readable → ★★★ open format → ★★★★ RDF/URI → ★★★★★ linked data
 - **No database**: All data stored as files on the filesystem for simplicity
-- **Manifest-based providers**: Each provider has only `manifest.json` (+ optional `patch.json`); all logic in `tw_odc/`
+- **Manifest-based providers**: Each provider has only `manifest.json` (+ optional `patch.json`); all logic in `src/tw_odc/`
+- **src layout**: Package code lives in `src/tw_odc/`, built with `uv_build`
+- **Cross-platform metadata**: `data_dir()` resolves metadata storage location; `~/.config/tw-odc/` as fallback; `--dir` override on metadata subcommands
+- **Bootstrap on first run**: `ensure_manifest` copies bundled `default_manifest.json` to metadata dir if no manifest exists
+- **HEAD health check**: URLs are checked with HEAD before downloading; 405/501 treated as healthy (server doesn't support HEAD)
 - **Incremental scaffolding**: Providers are created one at a time via `metadata create --provider`
 - **JSON-first output**: All commands output JSON by default (`--format text` for human-readable); logs/progress go to stderr
 - **RFC 6902 patches**: Provider-specific manifest adjustments via `patch.json`
