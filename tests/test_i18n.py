@@ -91,6 +91,7 @@ class TestIntegration:
         manifest = {"type": "dataset", "provider": "T", "slug": "t", "datasets": []}
         (tmp_path / "manifest.json").write_text(json.dumps(manifest))
         monkeypatch.chdir(tmp_path)
+        monkeypatch.setattr("tw_odc.cli.data_dir", lambda: tmp_path)
 
         runner = CliRunner()
         result = runner.invoke(app, ["--lang", "zh-TW", "metadata", "list"])

@@ -223,6 +223,7 @@ class TestLangFlag:
         manifest = {"type": "dataset", "provider": "T", "slug": "t", "datasets": []}
         (tmp_path / "manifest.json").write_text(json.dumps(manifest))
         monkeypatch.chdir(tmp_path)
+        monkeypatch.setattr("tw_odc.cli.data_dir", lambda: tmp_path)
         result = runner.invoke(app, ["--lang", "zh-TW", "metadata", "list"])
         assert result.exit_code != 0
         assert "E001" in result.output
@@ -232,6 +233,7 @@ class TestLangFlag:
         manifest = {"type": "dataset", "provider": "T", "slug": "t", "datasets": []}
         (tmp_path / "manifest.json").write_text(json.dumps(manifest))
         monkeypatch.chdir(tmp_path)
+        monkeypatch.setattr("tw_odc.cli.data_dir", lambda: tmp_path)
         result = runner.invoke(app, ["--lang", "en", "metadata", "list"])
         assert result.exit_code != 0
         assert "E001" in result.output
@@ -369,11 +371,37 @@ class TestMetadataDownloadDate:
         assert captured_kwargs.get("param_overrides") == {"date": "2026-03-10"}
 
 
+class TestMetadataDir:
+    def test_metadata_list_with_dir(self, tmp_path, monkeypatch):
+        """metadata --dir should use specified directory for metadata."""
+        meta_dir = tmp_path / "meta"
+        meta_dir.mkdir()
+        manifest = {
+            "type": "metadata", "provider": "data.gov.tw",
+            "datasets": [{"id": "export-json", "name": "JSON", "format": "json",
+                          "urls": ["https://data.gov.tw/datasets/export/json"]}],
+        }
+        (meta_dir / "manifest.json").write_text(json.dumps(manifest))
+        export_data = [
+            {"提供機關": "A機關", "資料集識別碼": 1, "資料集名稱": "D",
+             "檔案格式": "CSV", "資料下載網址": "https://a.gov.tw/d"},
+        ]
+        (meta_dir / "export-json.json").write_text(json.dumps(export_data, ensure_ascii=False))
+        # $PWD has NO metadata manifest
+        monkeypatch.chdir(tmp_path)
+
+        result = runner.invoke(app, ["metadata", "--dir", str(meta_dir), "list"])
+        assert result.exit_code == 0
+        data = json.loads(result.output)
+        assert any(p["provider"] == "A機關" for p in data)
+
+
 class TestWrongManifestType:
     def test_metadata_cmd_in_dataset_dir(self, tmp_path, monkeypatch):
         manifest = {"type": "dataset", "provider": "T", "slug": "t", "datasets": []}
         (tmp_path / "manifest.json").write_text(json.dumps(manifest))
         monkeypatch.chdir(tmp_path)
+        monkeypatch.setattr("tw_odc.cli.data_dir", lambda: tmp_path)
 
         result = runner.invoke(app, ["metadata", "list"])
         assert result.exit_code != 0
