@@ -804,7 +804,7 @@
       "name": "臺中市合法保全業者",
       "format": "csv",
       "urls": [
-        "https://datacenter.taichung.gov.tw/swagger/OpenData/beb1add5-ffe9-4c99-84ee-33ba8d1136fc"
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=beb1add5-ffe9-4c99-84ee-33ba8d1136fc"
       ]
     },
     {
@@ -3410,9 +3410,7 @@
       "name": "臺中市合法當舖業者",
       "format": "json",
       "urls": [
-        "https://datacenter.taichung.gov.tw/swagger/OpenData/10e29f5d-c637-4c8f-ba4e-9bcb16c7489a",
-        "https://datacenter.taichung.gov.tw/swagger/OpenData/78bf0870-54d1-4b94-9d78-0fa448087cfd",
-        "https://datacenter.taichung.gov.tw/swagger/OpenData/ab61ccf6-456d-4a76-be56-fc2f9f80e2ff"
+        "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=78bf0870-54d1-4b94-9d78-0fa448087cfd"
       ]
     },
     {

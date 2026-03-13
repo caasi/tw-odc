@@ -316,25 +316,7 @@
       "name": "各級政府地政人員數─按區域別分",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0540601&cycle=43&outmode=12&utf=1&compmode=0&outkind=2&fldspc=0",
-        "1",
-        "6",
-        "1",
-        "12",
-        "1",
-        "&codspc0=0",
-        "3",
-        "4",
-        "2",
-        "7",
-        "1",
-        "10",
-        "1",
-        "13",
-        "1",
-        "16",
-        "16",
-        "&rdm=l7aKiqln&ym=10812&ymt=10812"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1F732D2F-73DF-4D91-B6E9-C6526AF66D3E/resource/1AD49025-5630-44A3-A6E7-9E130B2F6148/download"
       ]
     },
     {
@@ -342,11 +324,7 @@
       "name": "非都市土地使用分區改劃─按改劃前使用分區別分",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0520201&cycle=4&outmode=12&utf=1&compmode=0&outkind=2&fldspc=0",
-        "22",
-        "&codspc0=0",
-        "11",
-        "&rdm=jpaYbame&ym=10800&ymt=10800"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/6E3F0940-BCA9-44A1-89C3-D11086E6EAB7/resource/AA4760F5-676E-446C-B191-65E7713B50A0/download"
       ]
     },
     {
@@ -354,11 +332,7 @@
       "name": "非都市土地使用變更編定面積─按用地別分",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0520203&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "21",
-        "&codspc0=0",
-        "21",
-        "&rdm=hdpylila&ym=10800&ymt=10800"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1CC04EBE-2633-473C-92A4-9810AE896016/resource/8CCF55CC-7A55-4B06-B8AE-7C6619ADD866/download"
       ]
     },
     {
@@ -400,21 +374,7 @@
       "name": "本年註銷地政士開業人數─按區域別分",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0540502&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "12",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&rdm=j9lpnjAB&ym=10800&ymt=10800"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B8C38467-74F7-4C7D-A2A5-860776248C74/resource/4FEE9D3E-D211-4E87-9816-E8B0BFAF7335/download"
       ]
     },
     {
@@ -2235,23 +2195,7 @@
       "name": "土地他項權利登記─按區域別登記項目別分  ",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0510203&cycle=41&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "12",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&codspc1=0",
-        "10",
-        "&rdm=qYlhatap&ym=10901&ymt=10910"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/0B1058F3-11CF-4C87-B4C9-B3F63640BDA1/resource/5F879D09-7164-4170-8B3F-76AA4B04EC2E/download"
       ]
     },
     {
@@ -2777,23 +2721,7 @@
       "name": "非都市土地使用分區編定面積─按區域別用地別分",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0520102&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "11",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&codspc1=0",
-        "21",
-        "&rdm=lehkeKIo&ym=10800&ymt=10800"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/21A0D7FB-4E96-4CC0-8D24-BE71B6199910/resource/E9E9DCD6-3FB1-4B9B-990A-25474DD7EC63/download"
       ]
     },
     {
@@ -4096,23 +4024,7 @@
       "name": "非都市土地使用分區編定筆數─按區域別用地別分",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0520101&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "11",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&codspc1=0",
-        "21",
-        "&rdm=lYmioaij&ym=10800&ymt=10800"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/B2C2331B-DDCF-4C63-94A2-FEFC97EB2AF0/resource/B4AE2A0A-C314-4D1B-9EC6-A726EB2BBFFE/download"
       ]
     },
     {
@@ -4184,21 +4096,7 @@
       "name": "公告土地現值─按區域別分",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0540701&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "27",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&rdm=eXpoKnfe&ym=10800&ymt=10800"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/1DFEDC65-410C-4BDA-B0A4-47EE4054F9DD/resource/0BA32C3C-0F15-40C5-8B5B-F387CFC6D265/download"
       ]
     },
     {
@@ -4206,21 +4104,7 @@
       "name": "市地重劃辦理面積─按區域別分",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0540101&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "5",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&rdm=gilfbicl&ym=11100&ymt=11100"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/9E078AA8-9EBA-4F68-B077-88150041BED1/resource/E95CCDE6-AE1E-4A18-BA3B-EF27EFF633B4/download"
       ]
     },
     {
@@ -4228,21 +4112,7 @@
       "name": "市地重劃辦理面積(自辦)─按區域別分",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0540102&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "5",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&rdm=kpap5bee&ym=11100&ymt=11100"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/2A389DE8-DC51-4F4E-B70C-EA9241A2DB90/resource/4C3A6093-47A3-4A8A-AC2C-20170743497A/download"
       ]
     },
     {
@@ -4250,21 +4120,7 @@
       "name": "本年核准地政士開業人數─按區域別分",
       "format": "csv",
       "urls": [
-        "https://statis.moi.gov.tw/micst/webMain.aspx?sys=220&kind=21&type=1&funid=c0540501&cycle=4&outmode=12&utf=1&compmode=0&outkind=3&fldspc=0",
-        "9",
-        "&codspc0=0",
-        "2",
-        "3",
-        "2",
-        "6",
-        "1",
-        "9",
-        "1",
-        "12",
-        "1",
-        "15",
-        "16",
-        "&rdm=BKeqajnb&ym=10800&ymt=10800"
+        "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/84609D2D-45DB-4BA5-9974-FB0B707D8435/resource/F6E75ED2-5642-41DF-8A6C-C1E80B3AB222/download"
       ]
     },
     {
