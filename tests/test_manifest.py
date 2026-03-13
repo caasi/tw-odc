@@ -361,3 +361,84 @@ class TestUpdateDatasetManifest:
         assert ds_map["1001"]["format"] == "csv"  # preserved!
         assert ds_map["1001"]["urls"] == ["https://a.tw/1"]  # preserved!
         assert ds_map["1002"]["format"] == "json"  # untouched
+
+
+class TestBuildSearchIndex:
+    def test_generates_jsonl(self, tmp_path):
+        """build_search_index creates export-search.jsonl from export-json.json."""
+        export_data = [
+            {
+                "資料集識別碼": 12345,
+                "資料集名稱": "臺中市工廠登記清冊",
+                "提供機關": "臺中市政府經濟發展局",
+                "資料集描述": "工廠登記資料",
+                "檔案格式": "CSV",
+                "資料下載網址": "https://example.com/a.csv",
+            },
+            {
+                "資料集識別碼": 67890,
+                "資料集名稱": "國防部新聞稿",
+                "提供機關": "國防部",
+                "資料集描述": "新聞稿資料",
+                "檔案格式": "XML",
+                "資料下載網址": "https://example.com/b.xml",
+            },
+        ]
+        export_path = tmp_path / "export-json.json"
+        export_path.write_text(json.dumps(export_data, ensure_ascii=False))
+
+        from tw_odc.manifest import build_search_index
+        index_path = build_search_index(tmp_path)
+
+        assert index_path == tmp_path / "export-search.jsonl"
+        assert index_path.exists()
+
+        lines = index_path.read_text(encoding="utf-8").strip().splitlines()
+        assert len(lines) == 2
+
+        first = json.loads(lines[0])
+        assert first["id"] == 12345
+        assert first["name"] == "臺中市工廠登記清冊"
+        assert first["provider"] == "臺中市政府經濟發展局"
+        assert first["desc"] == "工廠登記資料"
+        assert first["format"] == "CSV"
+
+    def test_only_includes_search_fields(self, tmp_path):
+        """Index entries should not include URL, encoding, or other fields."""
+        export_data = [{
+            "資料集識別碼": 1,
+            "資料集名稱": "Test",
+            "提供機關": "Agency",
+            "資料集描述": "Desc",
+            "檔案格式": "JSON",
+            "資料下載網址": "https://example.com/data.json",
+            "編碼格式": "UTF-8",
+            "品質檢測": "白金",
+        }]
+        (tmp_path / "export-json.json").write_text(json.dumps(export_data))
+
+        from tw_odc.manifest import build_search_index
+        build_search_index(tmp_path)
+
+        entry = json.loads((tmp_path / "export-search.jsonl").read_text().strip())
+        assert set(entry.keys()) == {"id", "name", "provider", "desc", "format"}
+
+    def test_missing_export_json_raises(self, tmp_path):
+        """build_search_index raises FileNotFoundError when export-json.json is missing."""
+        from tw_odc.manifest import build_search_index
+
+        with pytest.raises(FileNotFoundError):
+            build_search_index(tmp_path)
+
+    def test_overwrites_existing_index(self, tmp_path):
+        """Calling build_search_index again overwrites the previous index."""
+        export_data = [{"資料集識別碼": 1, "資料集名稱": "A", "提供機關": "B", "資料集描述": "C", "檔案格式": "CSV", "資料下載網址": "https://x"}]
+        (tmp_path / "export-json.json").write_text(json.dumps(export_data))
+        (tmp_path / "export-search.jsonl").write_text("old data\n")
+
+        from tw_odc.manifest import build_search_index
+        build_search_index(tmp_path)
+
+        lines = (tmp_path / "export-search.jsonl").read_text().strip().splitlines()
+        assert len(lines) == 1
+        assert "old data" not in lines[0]
