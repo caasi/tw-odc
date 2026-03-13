@@ -1123,6 +1123,16 @@
         "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J76&FileType=ZIP&RID=75157",
         "https://data.moa.gov.tw/OpenData/GetOpenDataFile.aspx?id=J76&FileType=ZIP&RID=75158"
       ]
+    },
+    {
+      "id": "7273",
+      "name": "植物疫情預警",
+      "format": null,
+      "urls": [
+        "https://data.moa.gov.tw/Service/OpenData/FromM/PestNoticeData.aspx?IsTransData=1&UnitId=047",
+        "https://data.moa.gov.tw/Service/OpenData/FromM/PestNoticeData.aspx?FOTT=CSV&IsTransData=1&UnitId=047",
+        "https://data.moa.gov.tw/Service/OpenData/FromM/PestNoticeData.aspx?FOTT=Xml&IsTransData=1&UnitId=047"
+      ]
     }
   ]
 }
