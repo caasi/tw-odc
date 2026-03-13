@@ -4,160 +4,6 @@
   "slug": "pcc_gov_tw_0ae77f3b",
   "datasets": [
     {
-      "id": "24442",
-      "name": "行政院公共工程委員會申訴會調解案件收結案處理情形",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/113行政院公共工程委員會申訴會調解案件收結案處理情形.json"
-      ]
-    },
-    {
-      "id": "24444",
-      "name": "行政院公共工程委員會年度施政績效報告",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/秘書處_行政院公共工程委員會年度施政績效報告.json"
-      ]
-    },
-    {
-      "id": "24448",
-      "name": "採購評選專家學者資料庫性別比例",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/05_採購評選專家學者資料庫性別比例.json"
-      ]
-    },
-    {
-      "id": "24451",
-      "name": "公共工程品質管理人員回訓班性別比例",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/02_公共工程品質管理人員回訓班性別比例.json"
-      ]
-    },
-    {
-      "id": "8871",
-      "name": "中央機關終解約案件統計表",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/中央機關終解約案件統計表.csv",
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/中央機關停工案件統計表.csv"
-      ]
-    },
-    {
-      "id": "8872",
-      "name": "地方機關終解約案件統計表",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/地方機關終解約案件統計表.csv",
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/地方機關停工案件統計表.csv"
-      ]
-    },
-    {
-      "id": "8873",
-      "name": "各季工程施工查核統計",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各季工程施工查核統計.csv"
-      ]
-    },
-    {
-      "id": "9703",
-      "name": "各機關每月依採購性質之第1次公告招標件數及預算金額統計",
-      "format": "json",
-      "urls": [
-        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=6"
-      ]
-    },
-    {
-      "id": "5964",
-      "name": "當年度工程查核及複查結果",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/工程施工查核小組年度查核及複查結果一覽表.csv"
-      ]
-    },
-    {
-      "id": "6155",
-      "name": "決標金額前5大之決標公告",
-      "format": "json",
-      "urls": [
-        "https://web.pcc.gov.tw/tps/openDataApi/atmTop5"
-      ]
-    },
-    {
-      "id": "6575",
-      "name": "連帶保證廠商",
-      "format": "xml",
-      "urls": [
-        "https://web.pcc.gov.tw/vms/jgvm/jgvmPublic/queryNonTermAndClose/xml"
-      ]
-    },
-    {
-      "id": "6577",
-      "name": "大宗資材之H型鋼價格調查",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/H型鋼.csv"
-      ]
-    },
-    {
-      "id": "6578",
-      "name": "大宗資材之鋼板價格調查",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/鋼板.csv"
-      ]
-    },
-    {
-      "id": "6809",
-      "name": "近1年工程採購得標30件以上廠商名單",
-      "format": "xml",
-      "urls": [
-        "https://web.pcc.gov.tw/wr-report/wr/homeClient/downloadOpenAPI?reportId=EngBidder"
-      ]
-    },
-    {
-      "id": "6810",
-      "name": "近1年工程採購廠商得標30件以上且於同一機關得標10件以上之廠商及機關名單",
-      "format": "xml",
-      "urls": [
-        "https://web.pcc.gov.tw/wr-report/wr/homeClient/downloadOpenAPI?reportId=EngOrgAndBidder"
-      ]
-    },
-    {
-      "id": "6816",
-      "name": "公共設施災後復建工程執行進度",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/公共設施災後復建工程執行進度.csv"
-      ]
-    },
-    {
-      "id": "9321",
-      "name": "近1季機關採公開方式辦理之決標件數、決標金額及比率",
-      "format": "json",
-      "urls": [
-        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=2"
-      ]
-    },
-    {
-      "id": "6819",
-      "name": "大宗資材之混凝土價格調查",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/預拌混凝土.csv"
-      ]
-    },
-    {
-      "id": "6823",
-      "name": "工程會列管公共建設計畫預算執行情形統計表",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/1.工程會列管公共建設計畫歷年預算執行情形一覽表(113年度).csv"
-      ]
-    },
-    {
       "id": "7261",
       "name": "公開徵求公告",
       "format": "xml",
@@ -206,6 +52,64 @@
       ]
     },
     {
+      "id": "6575",
+      "name": "連帶保證廠商",
+      "format": "xml",
+      "urls": [
+        "https://web.pcc.gov.tw/vms/jgvm/jgvmPublic/queryNonTermAndClose/xml"
+      ]
+    },
+    {
+      "id": "6577",
+      "name": "大宗資材之H型鋼價格調查",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/H型鋼.csv"
+      ]
+    },
+    {
+      "id": "6578",
+      "name": "大宗資材之鋼板價格調查",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/鋼板.csv"
+      ]
+    },
+    {
+      "id": "8871",
+      "name": "中央機關終解約案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/中央機關終解約案件統計表.csv",
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/中央機關停工案件統計表.csv"
+      ]
+    },
+    {
+      "id": "8872",
+      "name": "地方機關終解約案件統計表",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/地方機關終解約案件統計表.csv",
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/地方機關停工案件統計表.csv"
+      ]
+    },
+    {
+      "id": "8873",
+      "name": "各季工程施工查核統計",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各季工程施工查核統計.csv"
+      ]
+    },
+    {
+      "id": "9703",
+      "name": "各機關每月依採購性質之第1次公告招標件數及預算金額統計",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=6"
+      ]
+    },
+    {
       "id": "10687",
       "name": "行政院公共工程委員會單位決算",
       "format": "zip",
@@ -248,6 +152,86 @@
       ]
     },
     {
+      "id": "9321",
+      "name": "近1季機關採公開方式辦理之決標件數、決標金額及比率",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=2"
+      ]
+    },
+    {
+      "id": "6155",
+      "name": "決標金額前5大之決標公告",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/tps/openDataApi/atmTop5"
+      ]
+    },
+    {
+      "id": "5964",
+      "name": "當年度工程查核及複查結果",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/工程施工查核小組年度查核及複查結果一覽表.csv"
+      ]
+    },
+    {
+      "id": "6819",
+      "name": "大宗資材之混凝土價格調查",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/預拌混凝土.csv"
+      ]
+    },
+    {
+      "id": "6823",
+      "name": "工程會列管公共建設計畫預算執行情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/1.工程會列管公共建設計畫歷年預算執行情形一覽表(113年度).csv"
+      ]
+    },
+    {
+      "id": "6809",
+      "name": "近1年工程採購得標30件以上廠商名單",
+      "format": "xml",
+      "urls": [
+        "https://web.pcc.gov.tw/wr-report/wr/homeClient/downloadOpenAPI?reportId=EngBidder"
+      ]
+    },
+    {
+      "id": "6810",
+      "name": "近1年工程採購廠商得標30件以上且於同一機關得標10件以上之廠商及機關名單",
+      "format": "xml",
+      "urls": [
+        "https://web.pcc.gov.tw/wr-report/wr/homeClient/downloadOpenAPI?reportId=EngOrgAndBidder"
+      ]
+    },
+    {
+      "id": "6816",
+      "name": "公共設施災後復建工程執行進度",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/公共設施災後復建工程執行進度.csv"
+      ]
+    },
+    {
+      "id": "27524",
+      "name": "工程技術顧問公司登記按營業範圍技師科別查詢表",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/工程技術顧問公司登記按營業範圍技師科別查詢表.json"
+      ]
+    },
+    {
+      "id": "31971",
+      "name": "重點防汛工程列管名單",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/重點防汛工程列管名單.csv"
+      ]
+    },
+    {
       "id": "33521",
       "name": "前1年度中央及地方各機關申訴與調解案件數統計",
       "format": "json",
@@ -272,43 +256,11 @@
       ]
     },
     {
-      "id": "31971",
-      "name": "重點防汛工程列管名單",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/重點防汛工程列管名單.csv"
-      ]
-    },
-    {
       "id": "33063",
       "name": "歷年延遲付款廠商通報案件數",
       "format": "csv",
       "urls": [
         "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/歷年延遲付款廠商通報案件數.csv"
-      ]
-    },
-    {
-      "id": "27524",
-      "name": "工程技術顧問公司登記按營業範圍技師科別查詢表",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/工程技術顧問公司登記按營業範圍技師科別查詢表.json"
-      ]
-    },
-    {
-      "id": "78497",
-      "name": "近半年政府採購有關事項公示送達公告",
-      "format": "json",
-      "urls": [
-        "https://web.pcc.gov.tw/opas/pspad/pspadClient/readPspadJsonFile"
-      ]
-    },
-    {
-      "id": "59635",
-      "name": "工程會列管公共建設計畫完工啟用案件",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/7.工程會列管公共建設計畫完工啟用案件(更新113年).csv"
       ]
     },
     {
@@ -328,19 +280,59 @@
       ]
     },
     {
-      "id": "165146",
-      "name": "機關刊登招標公告提供電子領標比率",
-      "format": "json",
+      "id": "59635",
+      "name": "工程會列管公共建設計畫完工啟用案件",
+      "format": "csv",
       "urls": [
-        "https://web.pcc.gov.tw/tps/openDataApi/lyOpenData?runType=1"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/7.工程會列管公共建設計畫完工啟用案件(更新113年).csv"
       ]
     },
     {
-      "id": "165150",
-      "name": "前1年度公告金額以上採購限制性決標公告",
+      "id": "24442",
+      "name": "行政院公共工程委員會申訴會調解案件收結案處理情形",
       "format": "json",
       "urls": [
-        "https://web.pcc.gov.tw/tps/openDataApi/lyOpenData?runType=3"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/113行政院公共工程委員會申訴會調解案件收結案處理情形.json"
+      ]
+    },
+    {
+      "id": "24444",
+      "name": "行政院公共工程委員會年度施政績效報告",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/秘書處_行政院公共工程委員會年度施政績效報告.json"
+      ]
+    },
+    {
+      "id": "24448",
+      "name": "採購評選專家學者資料庫性別比例",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/05_採購評選專家學者資料庫性別比例.json"
+      ]
+    },
+    {
+      "id": "24451",
+      "name": "公共工程品質管理人員回訓班性別比例",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/02_公共工程品質管理人員回訓班性別比例.json"
+      ]
+    },
+    {
+      "id": "78497",
+      "name": "近半年政府採購有關事項公示送達公告",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/opas/pspad/pspadClient/readPspadJsonFile"
+      ]
+    },
+    {
+      "id": "163033",
+      "name": "工程會列管公共建設之達成率比較",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/8.工程會列管公共建設之達成率比較(更新113年).csv"
       ]
     },
     {
@@ -357,6 +349,17 @@
       "format": "json",
       "urls": [
         "https://web.pcc.gov.tw/cscps/cspm/api/greenMarkPublicSearch"
+      ]
+    },
+    {
+      "id": "160213",
+      "name": "生態檢核辦理情形統計表",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/生態檢核執行情形統計表_表1各機關技服.csv",
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/生態檢核執行情形統計表_表2各機關工程.csv",
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/生態檢核執行情形統計表_表3各技服.csv",
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/生態檢核執行情形統計表_表4各工程.csv"
       ]
     },
     {
@@ -391,22 +394,27 @@
       ]
     },
     {
-      "id": "160213",
-      "name": "生態檢核辦理情形統計表",
-      "format": "csv",
+      "id": "165146",
+      "name": "機關刊登招標公告提供電子領標比率",
+      "format": "json",
       "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/生態檢核執行情形統計表_表1各機關技服.csv",
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/生態檢核執行情形統計表_表2各機關工程.csv",
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/生態檢核執行情形統計表_表3各技服.csv",
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/生態檢核執行情形統計表_表4各工程.csv"
+        "https://web.pcc.gov.tw/tps/openDataApi/lyOpenData?runType=1"
       ]
     },
     {
-      "id": "163033",
-      "name": "工程會列管公共建設之達成率比較",
+      "id": "165150",
+      "name": "前1年度公告金額以上採購限制性決標公告",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/tps/openDataApi/lyOpenData?runType=3"
+      ]
+    },
+    {
+      "id": "171435",
+      "name": "直轄市及各縣市政府一百五十萬以上工程進度填報率排行榜",
       "format": "csv",
       "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/8.工程會列管公共建設之達成率比較(更新113年).csv"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/直轄市及各縣市政府一百五十萬以上工程進度填報率排行榜.csv"
       ]
     },
     {
@@ -423,27 +431,11 @@
       ]
     },
     {
-      "id": "172023",
-      "name": "近半年GPA決標資料集",
-      "format": "json",
-      "urls": [
-        "https://web.pcc.gov.tw/tps/tp/OpenData/downloadFile?fileName=GPAaward_20241201.json"
-      ]
-    },
-    {
       "id": "171017",
       "name": "行政院公共工程委員會創新平台之創新產品交流一覽表",
       "format": "csv",
       "urls": [
         "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/創新交流平台-創新產品交流一覽表.csv"
-      ]
-    },
-    {
-      "id": "171435",
-      "name": "直轄市及各縣市政府一百五十萬以上工程進度填報率排行榜",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/直轄市及各縣市政府一百五十萬以上工程進度填報率排行榜.csv"
       ]
     },
     {
@@ -463,27 +455,35 @@
       ]
     },
     {
-      "id": "9320",
-      "name": "近半年工程類最低標決標金額與底價標比及預算標比",
+      "id": "172023",
+      "name": "近半年GPA決標資料集",
       "format": "json",
       "urls": [
-        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=1"
+        "https://web.pcc.gov.tw/tps/tp/OpenData/downloadFile?fileName=GPAaward_20241201.json"
       ]
     },
     {
-      "id": "9322",
-      "name": "近1季依採購性質決標之件數及決標金額統計",
-      "format": "json",
+      "id": "6572",
+      "name": "共同供應契約衛材藥品決標單價清單",
+      "format": "xml",
       "urls": [
-        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=3"
+        "https://web.pcc.gov.tw/cscps/cspm/api/medicineSearchApi"
       ]
     },
     {
-      "id": "9323",
-      "name": "近1季依採購級距之決標件數及決標金額統計",
-      "format": "json",
+      "id": "6573",
+      "name": "優先採購招標公告",
+      "format": "xml",
       "urls": [
-        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=5"
+        "https://web.pcc.gov.tw/pis/pss/public/downloadOpenData"
+      ]
+    },
+    {
+      "id": "6579",
+      "name": "大宗資材之瀝青混凝土價格調查",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/瀝青混凝土.csv"
       ]
     },
     {
@@ -519,6 +519,22 @@
       ]
     },
     {
+      "id": "5988",
+      "name": "拒絕往來廠商公告",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/vms/rvlm/rvlmPublicSearch/queryRVFile/json"
+      ]
+    },
+    {
+      "id": "6410",
+      "name": "近1年工程採購案廠商於同一機關得標20件以上之廠商及機關名",
+      "format": "xml",
+      "urls": [
+        "https://web.pcc.gov.tw/wr-report/wr/homeClient/downloadOpenAPI?reportId=EngOrgAndBidder2"
+      ]
+    },
+    {
       "id": "10684",
       "name": "行政院公共工程委員會單位預算",
       "format": "zip",
@@ -546,70 +562,6 @@
         "https://www.pcc.gov.tw/downloadFile?fpath=YXJ0aWNsZS8xNzI1OTU1NjkxMjk0LnppcA%3D%3D&sname=114%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97%E6%A1%88XML.zip",
         "https://www.pcc.gov.tw/downloadFile?fpath=YXJ0aWNsZS8xNzUyMTI4NTU1NTYzLnppcA%3D%3D&sname=114%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97XML.zip",
         "https://www.pcc.gov.tw/downloadFile?fpath=YXJ0aWNsZS8xNzU2Njk2Mjg0NjUwLnppcA%3D%3D&sname=115%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97%E6%A1%88XML.zip"
-      ]
-    },
-    {
-      "id": "8405",
-      "name": "查詢即時各科技師執業人數",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/查詢即時各科技師執業人數.json"
-      ]
-    },
-    {
-      "id": "5988",
-      "name": "拒絕往來廠商公告",
-      "format": "json",
-      "urls": [
-        "https://web.pcc.gov.tw/vms/rvlm/rvlmPublicSearch/queryRVFile/json"
-      ]
-    },
-    {
-      "id": "6410",
-      "name": "近1年工程採購案廠商於同一機關得標20件以上之廠商及機關名",
-      "format": "xml",
-      "urls": [
-        "https://web.pcc.gov.tw/wr-report/wr/homeClient/downloadOpenAPI?reportId=EngOrgAndBidder2"
-      ]
-    },
-    {
-      "id": "6572",
-      "name": "共同供應契約衛材藥品決標單價清單",
-      "format": "xml",
-      "urls": [
-        "https://web.pcc.gov.tw/cscps/cspm/api/medicineSearchApi"
-      ]
-    },
-    {
-      "id": "6573",
-      "name": "優先採購招標公告",
-      "format": "xml",
-      "urls": [
-        "https://web.pcc.gov.tw/pis/pss/public/downloadOpenData"
-      ]
-    },
-    {
-      "id": "6579",
-      "name": "大宗資材之瀝青混凝土價格調查",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/瀝青混凝土.csv"
-      ]
-    },
-    {
-      "id": "33522",
-      "name": "前1年度中央及地方申訴會收結案統計表",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/113前1年度中央及地方申訴會收結案統計表.json"
-      ]
-    },
-    {
-      "id": "33064",
-      "name": "施工查核缺失扣點情形",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/施工查核缺失態樣.csv"
       ]
     },
     {
@@ -669,11 +621,43 @@
       ]
     },
     {
-      "id": "24441",
-      "name": "行政院公共工程委員會申訴會申訴案件收結案處理情形",
+      "id": "8405",
+      "name": "查詢即時各科技師執業人數",
       "format": "json",
       "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/113行政院公共工程委員會申訴會申訴案件收結案處理情形.json"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/查詢即時各科技師執業人數.json"
+      ]
+    },
+    {
+      "id": "9320",
+      "name": "近半年工程類最低標決標金額與底價標比及預算標比",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=1"
+      ]
+    },
+    {
+      "id": "9322",
+      "name": "近1季依採購性質決標之件數及決標金額統計",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=3"
+      ]
+    },
+    {
+      "id": "9323",
+      "name": "近1季依採購級距之決標件數及決標金額統計",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=5"
+      ]
+    },
+    {
+      "id": "33064",
+      "name": "施工查核缺失扣點情形",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/施工查核缺失態樣.csv"
       ]
     },
     {
@@ -690,6 +674,22 @@
       "format": "json",
       "urls": [
         "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/03_公共工程品質管理訓練班參訓學員性別比例.json"
+      ]
+    },
+    {
+      "id": "24441",
+      "name": "行政院公共工程委員會申訴會申訴案件收結案處理情形",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/113行政院公共工程委員會申訴會申訴案件收結案處理情形.json"
+      ]
+    },
+    {
+      "id": "33522",
+      "name": "前1年度中央及地方申訴會收結案統計表",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/113前1年度中央及地方申訴會收結案統計表.json"
       ]
     },
     {
@@ -717,35 +717,11 @@
       ]
     },
     {
-      "id": "139101",
-      "name": "行政院施政方針工程會部分",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/秘書處_行政院年度施政方針-行政院公共工程委員會部分.json"
-      ]
-    },
-    {
-      "id": "159121",
-      "name": "財物類公開取得電子報價單採購達成率",
-      "format": "xml",
-      "urls": [
-        "https://web.pcc.gov.tw/qdcs/apis/opendata/org-eqm-ratio"
-      ]
-    },
-    {
-      "id": "142698",
-      "name": "災後復建案件查詢",
+      "id": "162786",
+      "name": "近10年中小企業承包或分包政府採購之總金額及所占比率",
       "format": "csv",
       "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/災後復建案件查詢.csv"
-      ]
-    },
-    {
-      "id": "142699",
-      "name": "風災各縣市核列件數及金額",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/風災各縣市核列件數及金額.csv"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/近10年度政府採購由中小企業承包或分包比率.csv"
       ]
     },
     {
@@ -788,11 +764,35 @@
       ]
     },
     {
-      "id": "162786",
-      "name": "近10年中小企業承包或分包政府採購之總金額及所占比率",
+      "id": "139101",
+      "name": "行政院施政方針工程會部分",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/秘書處_行政院年度施政方針-行政院公共工程委員會部分.json"
+      ]
+    },
+    {
+      "id": "142698",
+      "name": "災後復建案件查詢",
       "format": "csv",
       "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/近10年度政府採購由中小企業承包或分包比率.csv"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/災後復建案件查詢.csv"
+      ]
+    },
+    {
+      "id": "142699",
+      "name": "風災各縣市核列件數及金額",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/風災各縣市核列件數及金額.csv"
+      ]
+    },
+    {
+      "id": "159121",
+      "name": "財物類公開取得電子報價單採購達成率",
+      "format": "xml",
+      "urls": [
+        "https://web.pcc.gov.tw/qdcs/apis/opendata/org-eqm-ratio"
       ]
     },
     {
@@ -804,11 +804,11 @@
       ]
     },
     {
-      "id": "175037",
-      "name": "各工程類別最近5年完工標案件數及金額",
-      "format": "csv",
+      "id": "174101",
+      "name": "行政院公共工程委員會中央政府前瞻基礎建設計畫第4期特別決算",
+      "format": "zip",
       "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各工程類別最近5年完工標案件數及金額.csv"
+        "https://www.pcc.gov.tw/downloadFile?fpath=YXJ0aWNsZS8xNzM5NDM2ODExNDU1LnppcA%3D%3D&sname=%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E6%B1%BA%E7%AE%97%EF%BC%88112%E5%B9%B4%E5%BA%A6%E8%87%B3113%E5%B9%B4%E5%BA%A6%EF%BC%89.zip"
       ]
     },
     {
@@ -828,11 +828,27 @@
       ]
     },
     {
-      "id": "174101",
-      "name": "行政院公共工程委員會中央政府前瞻基礎建設計畫第4期特別決算",
-      "format": "zip",
+      "id": "175037",
+      "name": "各工程類別最近5年完工標案件數及金額",
+      "format": "csv",
       "urls": [
-        "https://www.pcc.gov.tw/downloadFile?fpath=YXJ0aWNsZS8xNzM5NDM2ODExNDU1LnppcA%3D%3D&sname=%E5%89%8D%E7%9E%BB%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E8%A8%88%E7%95%AB%E7%AC%AC4%E6%9C%9F%E7%89%B9%E5%88%A5%E6%B1%BA%E7%AE%97%EF%BC%88112%E5%B9%B4%E5%BA%A6%E8%87%B3113%E5%B9%B4%E5%BA%A6%EF%BC%89.zip"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各工程類別最近5年完工標案件數及金額.csv"
+      ]
+    },
+    {
+      "id": "6574",
+      "name": "採購預告",
+      "format": "xml",
+      "urls": [
+        "https://web.pcc.gov.tw/tps/tp/OpenData/downloadPredictOpenDataFile"
+      ]
+    },
+    {
+      "id": "6576",
+      "name": "政府電子採購網採購標的分類",
+      "format": "xml",
+      "urls": [
+        "https://web.pcc.gov.tw/osm/public/proctrg/download/CpcOpenData.xml"
       ]
     },
     {
@@ -900,19 +916,27 @@
       ]
     },
     {
-      "id": "6574",
-      "name": "採購預告",
-      "format": "xml",
+      "id": "8869",
+      "name": "列管閒置公共設施案件彙整表",
+      "format": "csv",
       "urls": [
-        "https://web.pcc.gov.tw/tps/tp/OpenData/downloadPredictOpenDataFile"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/列管閒置公共設施案件彙整表.csv"
       ]
     },
     {
-      "id": "6576",
-      "name": "政府電子採購網採購標的分類",
-      "format": "xml",
+      "id": "24443",
+      "name": "行政院公共工程委員會年度施政計畫",
+      "format": "json",
       "urls": [
-        "https://web.pcc.gov.tw/osm/public/proctrg/download/CpcOpenData.xml"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/秘書處_行政院公共工程委員會年度施政計畫.json"
+      ]
+    },
+    {
+      "id": "24453",
+      "name": "女性企業取得政府採購案件數",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/01_女性企業取得政府採購案件數.json"
       ]
     },
     {
@@ -924,59 +948,43 @@
       ]
     },
     {
+      "id": "26442",
+      "name": "公共工程綱要編碼",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/公共工程綱要編碼(更新).json"
+      ]
+    },
+    {
+      "id": "27499",
+      "name": "行政院公共工程委員會資料開放行動方案",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/本會政府資料開放行動方案(11212).json"
+      ]
+    },
+    {
+      "id": "27525",
+      "name": "災後復建審議資訊案件",
+      "format": "json",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/災後復建審議資訊案件.json"
+      ]
+    },
+    {
+      "id": "9324",
+      "name": "近1季最有利標之決標件數及決標金額統計",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=4"
+      ]
+    },
+    {
       "id": "9704",
       "name": "各機關每月依採購性質之決標件數及決標金額統計（依公告日期統計且不含跨月更正之決標案）",
       "format": "json",
       "urls": [
         "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=7"
-      ]
-    },
-    {
-      "id": "18316",
-      "name": "行政院公共工程委員會政府資料開放諮詢小組會議紀錄",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/opendatameeting(114_2).json"
-      ]
-    },
-    {
-      "id": "18346",
-      "name": "近1季機關採最有利標方式辦理30件以上且占機關全部案件比率大於或等於30%之決標案件統計",
-      "format": "xml",
-      "urls": [
-        "https://web.pcc.gov.tw/wr-report/wr/homeClient/downloadOpenAPI?reportId=AdvTender"
-      ]
-    },
-    {
-      "id": "18347",
-      "name": "近1季機關以次低標決標2件以上之案件統計",
-      "format": "xml",
-      "urls": [
-        "https://web.pcc.gov.tw/wr-report/wr/homeClient/downloadOpenAPI?reportId=Law58"
-      ]
-    },
-    {
-      "id": "18356",
-      "name": "流域綜合治理計畫執行情形",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/流域綜合治理計畫執行情形.csv"
-      ]
-    },
-    {
-      "id": "18357",
-      "name": "歷年全民督工得獎主辦機關數量統計",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/歷年全民督工得獎主辦機關數量統計.csv"
-      ]
-    },
-    {
-      "id": "18365",
-      "name": "異常政府採購案件移送檢調機關統計",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/稽核小組_異常政府採購案件移送檢調機關統計.json"
       ]
     },
     {
@@ -1120,19 +1128,59 @@
       ]
     },
     {
-      "id": "27525",
-      "name": "災後復建審議資訊案件",
+      "id": "18316",
+      "name": "行政院公共工程委員會政府資料開放諮詢小組會議紀錄",
       "format": "json",
       "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/災後復建審議資訊案件.json"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/opendatameeting(114_2).json"
       ]
     },
     {
-      "id": "27499",
-      "name": "行政院公共工程委員會資料開放行動方案",
+      "id": "18346",
+      "name": "近1季機關採最有利標方式辦理30件以上且占機關全部案件比率大於或等於30%之決標案件統計",
+      "format": "xml",
+      "urls": [
+        "https://web.pcc.gov.tw/wr-report/wr/homeClient/downloadOpenAPI?reportId=AdvTender"
+      ]
+    },
+    {
+      "id": "18347",
+      "name": "近1季機關以次低標決標2件以上之案件統計",
+      "format": "xml",
+      "urls": [
+        "https://web.pcc.gov.tw/wr-report/wr/homeClient/downloadOpenAPI?reportId=Law58"
+      ]
+    },
+    {
+      "id": "18356",
+      "name": "流域綜合治理計畫執行情形",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/流域綜合治理計畫執行情形.csv"
+      ]
+    },
+    {
+      "id": "18357",
+      "name": "歷年全民督工得獎主辦機關數量統計",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/歷年全民督工得獎主辦機關數量統計.csv"
+      ]
+    },
+    {
+      "id": "18365",
+      "name": "異常政府採購案件移送檢調機關統計",
       "format": "json",
       "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/本會政府資料開放行動方案(11212).json"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/稽核小組_異常政府採購案件移送檢調機關統計.json"
+      ]
+    },
+    {
+      "id": "31384",
+      "name": "公共工程品質管理訓練班性別人數統計",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/公共工程品質管理訓練班性別人數統計.csv"
       ]
     },
     {
@@ -1168,81 +1216,6 @@
       ]
     },
     {
-      "id": "24443",
-      "name": "行政院公共工程委員會年度施政計畫",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/秘書處_行政院公共工程委員會年度施政計畫.json"
-      ]
-    },
-    {
-      "id": "24453",
-      "name": "女性企業取得政府採購案件數",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/01_女性企業取得政府採購案件數.json"
-      ]
-    },
-    {
-      "id": "9324",
-      "name": "近1季最有利標之決標件數及決標金額統計",
-      "format": "json",
-      "urls": [
-        "https://web.pcc.gov.tw/tps/openDataApi/atmOpenData?runType=4"
-      ]
-    },
-    {
-      "id": "8869",
-      "name": "列管閒置公共設施案件彙整表",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/列管閒置公共設施案件彙整表.csv"
-      ]
-    },
-    {
-      "id": "26442",
-      "name": "公共工程綱要編碼",
-      "format": "json",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/公共工程綱要編碼(更新).json"
-      ]
-    },
-    {
-      "id": "31384",
-      "name": "公共工程品質管理訓練班性別人數統計",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/公共工程品質管理訓練班性別人數統計.csv"
-      ]
-    },
-    {
-      "id": "165149",
-      "name": "前1年度公告金額以上採購限制性招標公告",
-      "format": "json",
-      "urls": [
-        "https://web.pcc.gov.tw/tps/openDataApi/lyOpenData?runType=2"
-      ]
-    },
-    {
-      "id": "161487",
-      "name": "各機關工程施工查核甲等以上比率",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各機關工程施工查核甲等以上比率(中央部會主辦及補助案件).csv",
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各機關工程施工查核甲等以上比率(中央部會主辦案件).csv",
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各機關工程施工查核甲等以上比率(中央部會補助案件).csv",
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各機關工程施工查核甲等以上比率(地方機關主辦案件).csv"
-      ]
-    },
-    {
-      "id": "163972",
-      "name": "工程類公開取得電子報價單採購達成率",
-      "format": "xml",
-      "urls": [
-        "https://web.pcc.gov.tw/qdcs/apis/opendata/org-eqm-ratio?type=e"
-      ]
-    },
-    {
       "id": "157698",
       "name": "廠商分析資料",
       "format": "csv",
@@ -1259,11 +1232,14 @@
       ]
     },
     {
-      "id": "171436",
-      "name": "行政院各部會署一百五十萬以上工程進度填報率排行榜",
+      "id": "161487",
+      "name": "各機關工程施工查核甲等以上比率",
       "format": "csv",
       "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/行政院各部會署一百五十萬以上工程進度填報率排行榜.csv"
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各機關工程施工查核甲等以上比率(中央部會主辦及補助案件).csv",
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各機關工程施工查核甲等以上比率(中央部會主辦案件).csv",
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各機關工程施工查核甲等以上比率(中央部會補助案件).csv",
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/各機關工程施工查核甲等以上比率(地方機關主辦案件).csv"
       ]
     },
     {
@@ -1291,6 +1267,38 @@
       ]
     },
     {
+      "id": "171436",
+      "name": "行政院各部會署一百五十萬以上工程進度填報率排行榜",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/行政院各部會署一百五十萬以上工程進度填報率排行榜.csv"
+      ]
+    },
+    {
+      "id": "171337",
+      "name": "品質查核件數及成績統計月報表",
+      "format": "csv",
+      "urls": [
+        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/標案管理-品質查核件數及成績統計月報表.csv"
+      ]
+    },
+    {
+      "id": "163972",
+      "name": "工程類公開取得電子報價單採購達成率",
+      "format": "xml",
+      "urls": [
+        "https://web.pcc.gov.tw/qdcs/apis/opendata/org-eqm-ratio?type=e"
+      ]
+    },
+    {
+      "id": "165149",
+      "name": "前1年度公告金額以上採購限制性招標公告",
+      "format": "json",
+      "urls": [
+        "https://web.pcc.gov.tw/tps/openDataApi/lyOpenData?runType=2"
+      ]
+    },
+    {
       "id": "176094",
       "name": "行政院公共工程委員會中央政府丹娜絲颱風及七二八豪雨災後復原重建特別預算會計月報",
       "format": "zip",
@@ -1300,14 +1308,6 @@
         "https://www.pcc.gov.tw/downloadFile?fpath=YXJ0aWNsZS8xNzY1NzkzOTU2MDIyLnppcA%3D%3D&sname=%E4%B8%B9%E5%A8%9C%E7%B5%B2%E9%A2%B1%E9%A2%A8%E5%8F%8A%E4%B8%83%E4%BA%8C%E5%85%AB%E8%B1%AA%E9%9B%A8%E7%81%BD%E5%BE%8C%E5%BE%A9%E5%8E%9F%E9%87%8D%E5%BB%BA%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97114%E5%B9%B411%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
         "https://www.pcc.gov.tw/downloadFile?fpath=YXJ0aWNsZS8xNzcwMTAyMDc1MTIwLnppcA%3D%3D&sname=%E4%B8%B9%E5%A8%9C%E7%B5%B2%E9%A2%B1%E9%A2%A8%E5%8F%8A%E4%B8%83%E4%BA%8C%E5%85%AB%E8%B1%AA%E9%9B%A8%E7%81%BD%E5%BE%8C%E5%BE%A9%E5%8E%9F%E9%87%8D%E5%BB%BA%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97114%E5%B9%B412%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip",
         "https://www.pcc.gov.tw/downloadFile?fpath=YXJ0aWNsZS8xNzcwNzgxODQ2Mzc3LnppcA%3D%3D&sname=%E4%B8%B9%E5%A8%9C%E7%B5%B2%E9%A2%B1%E9%A2%A8%E5%8F%8A%E4%B8%83%E4%BA%8C%E5%85%AB%E8%B1%AA%E9%9B%A8%E7%81%BD%E5%BE%8C%E5%BE%A9%E5%8E%9F%E9%87%8D%E5%BB%BA%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97115%E5%B9%B41%E6%9C%88%E6%9C%83%E8%A8%88%E6%9C%88%E5%A0%B1.zip"
-      ]
-    },
-    {
-      "id": "171337",
-      "name": "品質查核件數及成績統計月報表",
-      "format": "csv",
-      "urls": [
-        "https://pcic.pcc.gov.tw/pwc-web/api/service/opendata-file/document/標案管理-品質查核件數及成績統計月報表.csv"
       ]
     },
     {
