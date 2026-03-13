@@ -10,7 +10,7 @@ from typing import Annotated, Optional
 import typer
 
 from tw_odc.i18n import setup_locale, t
-from tw_odc.paths import data_dir
+from tw_odc.paths import data_dir, ensure_manifest
 from tw_odc.manifest import (
     ManifestType,
     create_dataset_manifest,
@@ -128,6 +128,7 @@ def metadata_download(
     from tw_odc.fetcher import fetch_all
 
     metadata_dir = _get_metadata_dir(ctx)
+    ensure_manifest(metadata_dir)
     manifest = _load_and_check(metadata_dir, ManifestType.METADATA)
     param_overrides = {"date": date} if date else None
     asyncio.run(fetch_all(manifest, metadata_dir, only=only, no_cache=no_cache, cache_path=metadata_dir / "etags.json", param_overrides=param_overrides))

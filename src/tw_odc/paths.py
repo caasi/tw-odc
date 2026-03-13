@@ -42,3 +42,14 @@ def data_dir() -> Path:
     config = _config_dir()
     config.mkdir(parents=True, exist_ok=True)
     return config
+
+
+def ensure_manifest(metadata_dir: Path) -> None:
+    """若 metadata_dir 內無 manifest.json，從 package 內建的 default 複製一份。"""
+    manifest_path = metadata_dir / "manifest.json"
+    if manifest_path.exists():
+        return
+    from importlib.resources import files
+    default = files("tw_odc").joinpath("default_manifest.json").read_text(encoding="utf-8")
+    metadata_dir.mkdir(parents=True, exist_ok=True)
+    manifest_path.write_text(default, encoding="utf-8")

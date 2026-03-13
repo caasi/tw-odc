@@ -2,7 +2,7 @@ import json
 import sys
 from pathlib import Path
 
-from tw_odc.paths import _config_dir, data_dir
+from tw_odc.paths import _config_dir, data_dir, ensure_manifest
 
 
 class TestConfigDir:
@@ -91,3 +91,28 @@ class TestDefaultManifest:
         data = json.loads(content)
         ids = {d["id"] for d in data["datasets"]}
         assert ids == {"export-json", "export-csv", "export-xml", "daily-changed-json", "daily-changed-csv"}
+
+
+class TestEnsureManifest:
+    def test_copies_default_when_missing(self, tmp_path):
+        """Should copy default manifest when manifest.json is absent."""
+        target = tmp_path / "config"
+        target.mkdir()
+        ensure_manifest(target)
+        assert (target / "manifest.json").exists()
+        data = json.loads((target / "manifest.json").read_text())
+        assert data["type"] == "metadata"
+
+    def test_noop_when_exists(self, tmp_path):
+        """Should not overwrite existing manifest.json."""
+        existing = {"type": "metadata", "provider": "custom", "datasets": []}
+        (tmp_path / "manifest.json").write_text(json.dumps(existing))
+        ensure_manifest(tmp_path)
+        data = json.loads((tmp_path / "manifest.json").read_text())
+        assert data["provider"] == "custom"
+
+    def test_creates_parent_dirs(self, tmp_path):
+        """Should create parent directories if they don't exist."""
+        target = tmp_path / "a" / "b" / "c"
+        ensure_manifest(target)
+        assert (target / "manifest.json").exists()

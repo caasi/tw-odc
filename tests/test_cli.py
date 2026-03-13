@@ -371,6 +371,26 @@ class TestMetadataDownloadDate:
         assert captured_kwargs.get("param_overrides") == {"date": "2026-03-10"}
 
 
+class TestMetadataBootstrap:
+    def test_download_creates_manifest_from_default(self, tmp_path, monkeypatch):
+        """When metadata_dir has no manifest.json, bootstrap from default."""
+        meta_dir = tmp_path / "config" / "tw-odc"
+        meta_dir.mkdir(parents=True)
+        monkeypatch.chdir(tmp_path)
+
+        # Mock fetch_all as a no-op to avoid actual downloads
+        import tw_odc.fetcher
+        monkeypatch.setattr(tw_odc.fetcher, "fetch_all", lambda *a, **kw: None)
+        monkeypatch.setattr("tw_odc.cli.asyncio.run", lambda coro: None)
+
+        result = runner.invoke(app, ["metadata", "--dir", str(meta_dir), "download"])
+        assert result.exit_code == 0
+        # manifest.json should now exist in meta_dir
+        assert (meta_dir / "manifest.json").exists()
+        data = json.loads((meta_dir / "manifest.json").read_text())
+        assert data["type"] == "metadata"
+
+
 class TestMetadataDir:
     def test_metadata_list_with_dir(self, tmp_path, monkeypatch):
         """metadata --dir should use specified directory for metadata."""
