@@ -132,7 +132,7 @@ tw-odc/
 ### How it works
 
 - `src/tw_odc/paths.py` resolves the metadata storage directory: prefers `$PWD` if it contains a metadata manifest, otherwise falls back to `~/.config/tw-odc/` (cross-platform via platformdirs); `ensure_manifest` bootstraps the default manifest from bundled `default_manifest.json` on first run
-- `src/tw_odc/manifest.py` reads `export-json.json` (downloaded metadata), groups datasets by provider (提供機關), derives a slug from download URLs, and creates/updates `manifest.json` per provider; `update_dataset_manifest` merges daily-changed entries incrementally; `find_existing_providers` maps provider names to local `pkg_dir` paths
+- `src/tw_odc/manifest.py` reads `export-json.json` (downloaded metadata), groups datasets by provider (提供機關), derives a slug from download URLs, and creates/updates `manifest.json` per provider; `update_dataset_manifest` merges daily-changed entries incrementally; `find_existing_providers` maps provider names to local `pkg_dir` paths; `build_search_index` generates `export-search.jsonl` (slim JSONL with search-relevant fields only)
 - `src/tw_odc/fetcher.py` reads `manifest.json` from a directory and downloads all listed URLs with concurrency control, ETag caching, error isolation, HEAD health checks, and path traversal protection; `resolve_params` resolves URL template variables (e.g. `"today"` → `YYYY-MM-DD`); parameterized datasets bypass ETag caching entirely
 - `src/tw_odc/inspector.py` detects actual file formats (via magic bytes), validates against declared format, inspects ZIP contents
 - `src/tw_odc/scorer.py` scores datasets using the 5-Star Open Data model based on inspection results
