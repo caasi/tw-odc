@@ -39,8 +39,44 @@ def main_callback(
 
 metadata_app = typer.Typer(help="Metadata source operations")
 dataset_app = typer.Typer(help="Dataset operations")
+config_app = typer.Typer(help="Configuration info")
 app.add_typer(metadata_app, name="metadata")
 app.add_typer(dataset_app, name="dataset")
+app.add_typer(config_app, name="config")
+
+
+def _get_version() -> str:
+    """Get installed package version, or 'dev' if running from source."""
+    try:
+        from importlib.metadata import version
+        return version("tw-odc")
+    except Exception:
+        return "dev"
+
+
+def _has_local_metadata() -> bool:
+    """Check if $PWD has a valid metadata manifest."""
+    manifest_path = Path.cwd() / "manifest.json"
+    if not manifest_path.is_file():
+        return False
+    try:
+        data = json.loads(manifest_path.read_text(encoding="utf-8"))
+        return data.get("type") == "metadata"
+    except (json.JSONDecodeError, OSError):
+        return False
+
+
+@config_app.command("show")
+def config_show() -> None:
+    """Show configuration and path info."""
+    result = {
+        "version": _get_version(),
+        "metadata_dir": str(data_dir()),
+        "cwd": str(Path.cwd()),
+        "local_metadata": _has_local_metadata(),
+    }
+    json.dump(result, sys.stdout, ensure_ascii=False, indent=2)
+    sys.stdout.write("\n")
 
 
 @metadata_app.callback()
@@ -380,22 +416,17 @@ def dataset_check(
 
 
 def _load_export_json_lookup() -> dict[str, dict]:
-    """Load export-json.json from project root and build a lookup by dataset ID.
+    """Load export-json.json from metadata dir and build a lookup by dataset ID.
 
     Returns empty dict if file not found (graceful degradation).
     """
-    # Walk up from cwd to find root manifest
-    cwd = Path.cwd()
-    root_manifest_path = cwd / "manifest.json"
-    if not root_manifest_path.exists():
-        # Try parent (if we're in a provider dir)
-        root_manifest_path = cwd.parent / "manifest.json"
+    metadata_dir = data_dir()
+    root_manifest_path = metadata_dir / "manifest.json"
     if not root_manifest_path.exists():
         print(f"W001: {t('W001')}", file=sys.stderr)
         return {}
 
-    root_dir = root_manifest_path.parent
-    export_path = root_dir / "export-json.json"
+    export_path = metadata_dir / "export-json.json"
     if not export_path.exists():
         print(f"W002: {t('W002')}", file=sys.stderr)
         return {}

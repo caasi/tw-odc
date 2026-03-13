@@ -498,6 +498,50 @@ class TestDatasetScoreMethod:
         assert data[0]["indicators"]["link_valid"] is True
 
 
+class TestLoadExportJsonWithDataDir:
+    def test_gov_tw_score_uses_data_dir(self, tmp_path, monkeypatch):
+        """gov-tw scoring should find export-json.json via data_dir()."""
+        # Metadata in a separate config dir
+        config_dir = tmp_path / "config"
+        config_dir.mkdir()
+        root_manifest = {
+            "type": "metadata", "provider": "data.gov.tw",
+            "datasets": [{"id": "export-json", "name": "JSON", "format": "json",
+                          "urls": ["https://data.gov.tw/datasets/export/json"]}],
+        }
+        (config_dir / "manifest.json").write_text(json.dumps(root_manifest))
+        export_data = [
+            {"資料集識別碼": "1001", "資料集名稱": "D", "提供機關": "T",
+             "檔案格式": "CSV", "資料下載網址": "http://x",
+             "編碼格式": "UTF-8", "主要欄位說明": "a、b",
+             "更新頻率": "每1月", "詮釋資料更新時間": "2026-03-10 00:00:00.000000"},
+        ]
+        (config_dir / "export-json.json").write_text(json.dumps(export_data, ensure_ascii=False))
+
+        # Provider in $PWD
+        work_dir = tmp_path / "work"
+        work_dir.mkdir()
+        pkg_dir = work_dir / "t"
+        pkg_dir.mkdir()
+        manifest = {
+            "type": "dataset", "provider": "T", "slug": "t",
+            "datasets": [{"id": "1001", "name": "D", "format": "csv", "urls": ["http://x"]}],
+        }
+        (pkg_dir / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False))
+        ds_dir = pkg_dir / "datasets"
+        ds_dir.mkdir()
+        (ds_dir / "1001.csv").write_text("a,b\n1,2\n")
+
+        monkeypatch.chdir(work_dir)
+        # Patch data_dir to return config_dir
+        monkeypatch.setattr("tw_odc.cli.data_dir", lambda: config_dir)
+
+        result = runner.invoke(app, ["dataset", "--dir", "t", "score", "--method", "gov-tw"])
+        assert result.exit_code == 0
+        data = json.loads(result.output)
+        assert data[0]["method"] == "gov-tw"
+
+
 class TestDatasetView:
     def test_view_single_file(self, tmp_path, monkeypatch):
         """View outputs raw file content to stdout."""
@@ -582,3 +626,37 @@ class TestDatasetView:
 
         result = runner.invoke(app, ["dataset", "view"])
         assert result.exit_code != 0
+
+
+class TestConfigShow:
+    def test_config_show_json_output(self, tmp_path, monkeypatch):
+        """config show outputs JSON with version, metadata_dir, cwd, local_metadata."""
+        manifest = {"type": "metadata", "provider": "data.gov.tw", "datasets": []}
+        (tmp_path / "manifest.json").write_text(json.dumps(manifest))
+        monkeypatch.chdir(tmp_path)
+
+        result = runner.invoke(app, ["config", "show"])
+        assert result.exit_code == 0
+        data = json.loads(result.output)
+        assert "version" in data
+        assert data["metadata_dir"] == str(tmp_path)
+        assert data["cwd"] == str(tmp_path)
+        assert data["local_metadata"] is True
+
+    def test_config_show_no_local_metadata(self, tmp_path, monkeypatch):
+        """When no local metadata manifest, local_metadata should be False."""
+        monkeypatch.chdir(tmp_path)
+        monkeypatch.setattr("tw_odc.cli.data_dir", lambda: tmp_path)
+
+        result = runner.invoke(app, ["config", "show"])
+        assert result.exit_code == 0
+        data = json.loads(result.output)
+        assert data["local_metadata"] is False
+
+    def test_config_show_version_field(self, tmp_path, monkeypatch):
+        """Version should be a string (either semver or 'dev')."""
+        monkeypatch.chdir(tmp_path)
+        monkeypatch.setattr("tw_odc.cli.data_dir", lambda: tmp_path)
+        result = runner.invoke(app, ["config", "show"])
+        data = json.loads(result.output)
+        assert isinstance(data["version"], str)
