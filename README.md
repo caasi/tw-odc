@@ -4,7 +4,7 @@
 
 從[政府資料開放平臺](https://data.gov.tw/)開始，爬蟲收集資料集清單，再以確定性規則檢查格式、驗證連結、偵測常見問題（如 PDF、試算表當資料庫、下載失敗等）。評分結果以結構化 JSON 輸出，讓資料品質可以被大規模量測。
 
-tw-odc 本身不包含 LLM 程式碼。所有評估皆為確定性、基於規則的分析。CLI 輸出結構化 JSON（評分、問題、資料集 metadata），供任何 LLM agent 或人工流程消費——產出報告、草擬改善建議信、建立儀表板。這個分離讓稽核管線可重現，同時保持下游使用的彈性。
+tw-odc 本身不包含 LLM 程式碼。所有評估皆為確定性、基於規則的分析。多數查詢、檢查、評分類指令預設輸出結構化 JSON（評分、問題、資料集 metadata）；少數指令會輸出 slug 或原始檔案內容。這些輸出供任何 LLM agent 或人工流程消費——產出報告、草擬改善建議信、建立儀表板。這個分離讓稽核管線可重現，同時保持下游使用的彈性。
 
 ## 使用方式
 
@@ -174,7 +174,7 @@ tw-odc/
 
 ### Pipeline
 
-完整稽核流程：`metadata download → manifest scaffolding → dataset download → check → score → JSON output`
+完整稽核流程：`metadata download → metadata create / metadata update → dataset download → check → score → JSON output`
 
 增量更新：`metadata download --only daily-changed-json.json → metadata apply-daily`
 
@@ -183,7 +183,7 @@ tw-odc/
 - **確定性評分**：問題分類與星級評分不使用 LLM，純規則邏輯
 - **禮貌爬蟲**：並行數限制（預設 5）、路徑穿越防護、錯誤隔離
 - **無資料庫**：所有資料以檔案形式儲存
-- **JSON 優先輸出**：所有指令預設輸出 JSON（`--format text` 提供人類可讀格式）；日誌與進度輸出至 stderr
+- **JSON 優先輸出**：有結構化輸出的指令（`list`、`check`、`score` 等）預設輸出 JSON（`--format text` 提供人類可讀格式）；錯誤訊息走 stderr。少數指令（`metadata create/update`）輸出 slug，`dataset view` 輸出原始檔案內容
 - **Unix 哲學**：`dataset view` 輸出原始內容至 stdout，不做解析；搭配 `grep`、`jq`、`head` 等工具使用
 - **RFC 6902 patch**：透過 `patch.json` 調整個別 provider 的 manifest
 - **i18n**：支援英文與繁體中文，自動偵測系統語系
