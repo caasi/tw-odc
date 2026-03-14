@@ -4,9 +4,14 @@ build-backend = "uv_build"
 
 [project]
 name = "tw-odc"
-version = "0.1.0"
+version = "0.1.1"
 description = "Taiwan Open Data Checker — 台灣開放資料品質檢測工具"
 readme = "README.md"
+license = "MIT"
+authors = [
+    { name = "caasi Huang", email = "caasi.igd@gmail.com" },
+    { name = "Claude (Anthropic)", email = "noreply@anthropic.com" },
+]
 requires-python = ">=3.13"
 dependencies = [
     "aiohttp>=3.13.3",
