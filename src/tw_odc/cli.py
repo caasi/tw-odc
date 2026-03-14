@@ -157,15 +157,28 @@ def metadata_download(
     ctx: typer.Context,
     fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
     only: str | None = typer.Option(None, "--only", help="Download only this file"),
+    all_formats: bool = typer.Option(False, "--all", help="Download all formats (default: JSON only)"),
     no_cache: bool = typer.Option(False, "--no-cache", help="Bypass ETag cache"),
     date: str | None = typer.Option(None, "--date", help="Override {date} param (YYYY-MM-DD)"),
 ) -> None:
     """Download metadata files."""
     from tw_odc.fetcher import fetch_all
 
+    if only and all_formats:
+        print("Error: --only and --all are mutually exclusive", file=sys.stderr)
+        raise typer.Exit(code=1)
+
     metadata_dir = _get_metadata_dir(ctx)
     ensure_manifest(metadata_dir)
     manifest = _load_and_check(metadata_dir, ManifestType.METADATA)
+
+    # Filter to JSON-only by default (unless --only or --all)
+    if not only and not all_formats:
+        manifest = {
+            **manifest,
+            "datasets": [ds for ds in manifest["datasets"] if ds.get("format") == "json"],
+        }
+
     param_overrides = {"date": date} if date else None
     asyncio.run(fetch_all(manifest, metadata_dir, only=only, no_cache=no_cache, cache_path=metadata_dir / "etags.json", param_overrides=param_overrides))
 
