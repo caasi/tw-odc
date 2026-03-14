@@ -1,4 +1,4 @@
-.PHONY: daily daily-download daily-apply build publish publish-test
+.PHONY: daily daily-download daily-apply clean build publish publish-test
 
 # Full daily update: download → apply
 daily: daily-download daily-apply
@@ -11,8 +11,12 @@ daily-download:
 daily-apply:
 	uv run tw-odc metadata apply-daily
 
+# Clean build artifacts
+clean:
+	rm -rf dist/
+
 # Build package
-build:
+build: clean
 	uv build
 
 # Publish to PyPI
