@@ -21,17 +21,17 @@ tw-odc itself contains no LLM code. All evaluation is deterministic and rule-bas
 # Show configuration and path info
 tw-odc config show
 
-# Download data.gov.tw exports (JSON/CSV/XML)
+# Download data.gov.tw exports (JSON by default)
 tw-odc metadata download
-tw-odc metadata download --only export-json.json   # download one file only
-tw-odc metadata download --no-cache                 # bypass ETag cache
-tw-odc metadata download --dir /path/to/dir         # specify metadata directory
+tw-odc metadata download --all                      # download all formats (JSON/CSV/XML)
+tw-odc metadata download --only export-json.json     # download one file only
+tw-odc metadata download --no-cache                  # bypass ETag cache
+tw-odc metadata download --dir /path/to/dir          # specify metadata directory
 
 # Download daily changed datasets (uses today's date by default)
-tw-odc metadata download --only daily-changed-json.json
 tw-odc metadata download --only daily-changed-csv.csv --date 2026-03-10
 
-# Apply daily changes to existing provider manifests
+# Apply daily changes to existing provider manifests (auto-creates missing providers)
 tw-odc metadata apply-daily                          # uses today's date
 tw-odc metadata apply-daily --date 2026-03-10        # specific date
 
@@ -154,7 +154,7 @@ Two manifest types distinguished by the `type` field:
 
 Full audit: `metadata download → manifest scaffolding → dataset download → inspect → score → JSON output`
 
-Incremental update: `metadata download --only daily-changed-json.json → metadata apply-daily`
+Incremental update: `metadata download → metadata apply-daily`
 
 ### data.gov.tw specifics
 
@@ -189,6 +189,8 @@ The JSON export is the input for creating provider manifests. The daily-changed 
 - **Unix philosophy for data viewing**: `dataset view` outputs raw file content to stdout without parsing; use external tools (`grep`, `jq`, `head`) for filtering/formatting. Multi-file datasets print filenames to stderr to keep stdout clean for piping
 - **Dual scoring**: `5-stars` (Tim Berners-Lee) and `gov-tw` (數位發展部品質指引) are independent scoring methods selectable via `--method`
 - **Search index**: `metadata download` generates `export-search.jsonl` (slim JSONL with search fields only) for fast keyword search; `metadata search` falls back to full `export-json.json` parsing if index is missing
+- **JSON-first metadata**: `metadata download` defaults to JSON-only; use `--all` for CSV/XML exports
+- **Auto-scaffold on daily update**: `apply-daily` automatically creates missing provider manifests from `export-json.json`
 
 ## Plans (RFC-style)
 
