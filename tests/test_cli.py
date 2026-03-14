@@ -289,7 +289,7 @@ class TestMetadataApplyDaily:
         return tmp_path
 
     def test_apply_daily_updates_and_warns(self, tmp_path, monkeypatch):
-        """Should update existing provider and warn about missing ones."""
+        """Should update existing provider and warn about missing export for unknown ones."""
         base = self._setup_providers(tmp_path)
         monkeypatch.chdir(base)
 
@@ -297,15 +297,16 @@ class TestMetadataApplyDaily:
         assert result.exit_code == 0
         output = json.loads(result.output)
         assert "a_gov_tw_12345678" in output["updated"]
+        assert "created" in output
+        # X機關 cannot be scaffolded (no export-json.json), so it warns
         assert any(w["provider"] == "X機關" for w in output["warnings"])
-        assert any(w["reason"] == "no_local_manifest" for w in output["warnings"])
+        assert any(w["reason"] == "export_json_missing" for w in output["warnings"])
 
         # Verify manifest was actually updated
         m = json.loads((base / "a_gov_tw_12345678" / "manifest.json").read_text())
         ids = [d["id"] for d in m["datasets"]]
         assert "1001" in ids
         assert "1002" in ids
-        # id 1001 should have updated name
         ds_1001 = next(d for d in m["datasets"] if d["id"] == "1001")
         assert ds_1001["name"] == "更新資料"
 
@@ -337,6 +338,92 @@ class TestMetadataApplyDaily:
         assert result.exit_code == 0
         output = json.loads(result.output)
         assert any(w["reason"] == "contains_deleted_datasets" for w in output["warnings"])
+
+
+    def test_apply_daily_auto_scaffolds_missing_provider(self, tmp_path, monkeypatch):
+        """Should auto-create provider manifest when provider is missing locally."""
+        base = self._setup_providers(tmp_path)
+        # Add export-json.json with X機關 data (needed for scaffolding)
+        export_data = [
+            {"提供機關": "X機關", "資料集識別碼": 9998, "資料集名稱": "既有資料",
+             "檔案格式": "CSV", "資料下載網址": "https://x.gov.tw/old"},
+            {"提供機關": "X機關", "資料集識別碼": 9999, "資料集名稱": "無本地",
+             "檔案格式": "CSV", "資料下載網址": "https://x.gov.tw/1"},
+        ]
+        (tmp_path / "export-json.json").write_text(
+            json.dumps(export_data, ensure_ascii=False))
+        monkeypatch.chdir(base)
+
+        result = runner.invoke(app, ["metadata", "apply-daily", "--date", "2026-03-10"])
+        assert result.exit_code == 0
+        output = json.loads(result.output)
+        # X機關 should be in created, not in warnings
+        assert "created" in output
+        assert any("x_gov_tw" in s for s in output["created"])
+        assert not any(w.get("reason") == "no_local_manifest" for w in output["warnings"]
+                       if w.get("provider") == "X機關")
+        # Provider dir should exist with manifest
+        created_dirs = [d for d in tmp_path.iterdir()
+                        if d.is_dir() and "x_gov_tw" in d.name]
+        assert len(created_dirs) == 1
+        m = json.loads((created_dirs[0] / "manifest.json").read_text())
+        assert m["provider"] == "X機關"
+        ids = [d["id"] for d in m["datasets"]]
+        assert "9998" in ids
+        assert "9999" in ids
+
+    def test_apply_daily_scaffold_warns_when_no_export_json(self, tmp_path, monkeypatch):
+        """Should warn when export-json.json is missing and cannot scaffold."""
+        base = self._setup_providers(tmp_path)
+        # No export-json.json exists
+        monkeypatch.chdir(base)
+
+        result = runner.invoke(app, ["metadata", "apply-daily", "--date", "2026-03-10"])
+        assert result.exit_code == 0
+        output = json.loads(result.output)
+        assert "created" in output
+        assert output["created"] == []
+        # X機關 should have a warning about missing export
+        assert any(w.get("reason") == "export_json_missing" for w in output["warnings"]
+                   if w.get("provider") == "X機關")
+
+    def test_apply_daily_scaffold_warns_provider_not_in_export(self, tmp_path, monkeypatch):
+        """Should warn when provider exists in daily but not in export-json.json."""
+        base = self._setup_providers(tmp_path)
+        # export-json.json exists but has no X機關
+        export_data = [
+            {"提供機關": "Y機關", "資料集識別碼": 8888, "資料集名稱": "其他",
+             "檔案格式": "CSV", "資料下載網址": "https://y.gov.tw/1"},
+        ]
+        (tmp_path / "export-json.json").write_text(
+            json.dumps(export_data, ensure_ascii=False))
+        monkeypatch.chdir(base)
+
+        result = runner.invoke(app, ["metadata", "apply-daily", "--date", "2026-03-10"])
+        assert result.exit_code == 0
+        output = json.loads(result.output)
+        assert output["created"] == []
+        assert any(w.get("reason") == "provider_not_in_export" for w in output["warnings"]
+                   if w.get("provider") == "X機關")
+
+    def test_apply_daily_created_field_always_present(self, tmp_path, monkeypatch):
+        """Output should always have 'created' field, even when empty."""
+        base = self._setup_providers(tmp_path)
+        # Remove X機關 from daily so no scaffolding needed
+        daily = [
+            {"提供機關": "A機關", "資料集識別碼": 1001, "資料集名稱": "更新",
+             "檔案格式": "CSV", "資料下載網址": "https://a.gov.tw/1",
+             "資料集變動狀態": "修改"},
+        ]
+        (tmp_path / "daily-changed-json.json").write_text(
+            json.dumps(daily, ensure_ascii=False))
+        monkeypatch.chdir(base)
+
+        result = runner.invoke(app, ["metadata", "apply-daily", "--date", "2026-03-10"])
+        assert result.exit_code == 0
+        output = json.loads(result.output)
+        assert "created" in output
+        assert output["created"] == []
 
 
 class TestMetadataDownloadSearchIndex:
