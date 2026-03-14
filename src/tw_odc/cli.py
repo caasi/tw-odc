@@ -157,15 +157,28 @@ def metadata_download(
     ctx: typer.Context,
     fmt: OutputFormat = typer.Option(OutputFormat.JSON, "--format", help="Output format"),
     only: str | None = typer.Option(None, "--only", help="Download only this file"),
+    all_formats: bool = typer.Option(False, "--all", help="Download all formats (default: JSON only)"),
     no_cache: bool = typer.Option(False, "--no-cache", help="Bypass ETag cache"),
     date: str | None = typer.Option(None, "--date", help="Override {date} param (YYYY-MM-DD)"),
 ) -> None:
     """Download metadata files."""
     from tw_odc.fetcher import fetch_all
 
+    if only and all_formats:
+        print("Error: --only and --all are mutually exclusive", file=sys.stderr)
+        raise typer.Exit(code=1)
+
     metadata_dir = _get_metadata_dir(ctx)
     ensure_manifest(metadata_dir)
     manifest = _load_and_check(metadata_dir, ManifestType.METADATA)
+
+    # Filter to JSON-only by default (unless --only or --all)
+    if not only and not all_formats:
+        manifest = {
+            **manifest,
+            "datasets": [ds for ds in manifest["datasets"] if ds.get("format") == "json"],
+        }
+
     param_overrides = {"date": date} if date else None
     asyncio.run(fetch_all(manifest, metadata_dir, only=only, no_cache=no_cache, cache_path=metadata_dir / "etags.json", param_overrides=param_overrides))
 
@@ -354,7 +367,24 @@ def metadata_apply_daily(
 
     updated: list[str] = []
     skipped: list[str] = []
+    created: list[str] = []
     warnings: list[dict] = []
+
+    # Lazy-loaded export data for auto-scaffolding
+    _export_groups: dict | None = None
+    _export_loaded = False
+
+    def _get_export_groups() -> dict | None:
+        nonlocal _export_groups, _export_loaded
+        if _export_loaded:
+            return _export_groups
+        _export_loaded = True
+        export_path = metadata_dir / "export-json.json"
+        if not export_path.exists():
+            return None
+        export_data = json.loads(export_path.read_text(encoding="utf-8"))
+        _export_groups = group_by_provider(export_data)
+        return _export_groups
 
     for provider_name, datasets in sorted(groups.items()):
         # Check for deleted datasets
@@ -366,8 +396,18 @@ def metadata_apply_daily(
         active = [d for d in datasets if d.get("資料集變動狀態") != "刪除"]
 
         if provider_name not in providers:
-            warnings.append({"provider": provider_name, "reason": "no_local_manifest"})
-            continue
+            # Auto-scaffold missing provider
+            export_groups = _get_export_groups()
+            if export_groups is None:
+                warnings.append({"provider": provider_name, "reason": "export_json_missing"})
+                continue
+            if provider_name not in export_groups:
+                warnings.append({"provider": provider_name, "reason": "provider_not_in_export"})
+                continue
+            slug = create_dataset_manifest(Path.cwd(), provider_name, export_groups[provider_name])
+            pkg_dir = Path.cwd() / slug
+            created.append(slug)
+            providers[provider_name] = pkg_dir
 
         if not active:
             pkg_dir = providers[provider_name]
@@ -384,6 +424,7 @@ def metadata_apply_daily(
 
     result = {
         "date": date,
+        "created": created,
         "updated": updated,
         "skipped": skipped,
         "warnings": warnings,

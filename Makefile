@@ -3,9 +3,9 @@
 # Full daily update: download → apply
 daily: daily-download daily-apply
 
-# Download today's daily changed JSON
+# Download JSON metadata (export + daily changes)
 daily-download:
-	uv run tw-odc metadata download --only daily-changed-json.json
+	uv run tw-odc metadata download
 
 # Apply daily changes to existing provider manifests
 daily-apply:
