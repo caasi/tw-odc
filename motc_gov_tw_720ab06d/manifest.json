@@ -511,6 +511,614 @@
         "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1429761198684901376.csv&filedisplay=交通部辦理人民申請提供政府資訊案件統計表.csv&flag=doc",
         "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1395693512921452544.csv&filedisplay=交通部辦理人民申請提供政府資訊案件統計表 (2).csv&flag=doc"
       ]
+    },
+    {
+      "id": "42574",
+      "name": "交通部辦理人民申請提供政府資訊案件統計表",
+      "format": null,
+      "urls": [
+        "https://www.motc.gov.tw/uploaddowndoc?file=datagov/1463013501084635136.csv&filedisplay=交通部辦理人民申請提供政府資訊案件統計表.csv&flag=doc"
+      ]
+    },
+    {
+      "id": "161154",
+      "name": "臺鐵車站基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v3/Rail/TRA/Station"
+      ]
+    },
+    {
+      "id": "161155",
+      "name": "臺鐵所有車次之定期時刻表資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v3/Rail/TRA/GeneralTrainTimetable"
+      ]
+    },
+    {
+      "id": "161156",
+      "name": "臺鐵列車即時到離站資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v3/Rail/TRA/StationLiveBoard"
+      ]
+    },
+    {
+      "id": "161157",
+      "name": "臺鐵營運通阻資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v3/Rail/TRA/Alert"
+      ]
+    },
+    {
+      "id": "161158",
+      "name": "公路客運預估到站資料(N1)[批次更新]",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Bus/EstimatedTimeOfArrival/InterCity"
+      ]
+    },
+    {
+      "id": "161159",
+      "name": "市區公車預估到站資料(N1)[批次更新]",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Bus/EstimatedTimeOfArrival/City/Taipei"
+      ]
+    },
+    {
+      "id": "161160",
+      "name": "港口資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v3/Ship/Port"
+      ]
+    },
+    {
+      "id": "161161",
+      "name": "臺鐵列車即時位置動態資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v3/Rail/TRA/TrainLiveBoard"
+      ]
+    },
+    {
+      "id": "161162",
+      "name": "臺鐵每日時刻表所有供應日期資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v3/Rail/TRA/DailyTrainTimetable/TrainDates"
+      ]
+    },
+    {
+      "id": "161163",
+      "name": "高鐵每日時刻表所有供應日期資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Rail/THSR/DailyTimetable/TrainDates"
+      ]
+    },
+    {
+      "id": "161164",
+      "name": "高鐵當天對號座即時剩餘位資料({原始}列車區段Leg角度)",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Rail/THSR/AvailableSeatStatus/Train/Leg/Today"
+      ]
+    },
+    {
+      "id": "161165",
+      "name": "即時航班資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Air/FIDS/Flight"
+      ]
+    },
+    {
+      "id": "161166",
+      "name": "國內航空定期時刻表",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Air/GeneralSchedule/Domestic"
+      ]
+    },
+    {
+      "id": "161167",
+      "name": "國際航空定期時刻表",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Air/GeneralSchedule/International"
+      ]
+    },
+    {
+      "id": "161168",
+      "name": "機場即時入境航班",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Air/FIDS/Airport/Arrival"
+      ]
+    },
+    {
+      "id": "161169",
+      "name": "機場即時出境航班",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Air/FIDS/Airport/Departure"
+      ]
+    },
+    {
+      "id": "161170",
+      "name": "高速公路發布路段即時路況資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Road/Traffic/Live/Freeway"
+      ]
+    },
+    {
+      "id": "161171",
+      "name": "省道發布路段即時路況資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v2/Road/Traffic/Live/Highway"
+      ]
+    },
+    {
+      "id": "161172",
+      "name": "指定[縣市]路外停車場出入口資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/Parking/OffStreet/ParkingEntranceExit/City/Taipei"
+      ]
+    },
+    {
+      "id": "161173",
+      "name": "指定[縣市]之路邊停車格位基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/Parking/OnStreet/ParkingSpot/City/NewTaipei"
+      ]
+    },
+    {
+      "id": "161174",
+      "name": "指定[縣市]停車場基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/Parking/OffStreet/CarPark/City/Taipei"
+      ]
+    },
+    {
+      "id": "170210",
+      "name": "航運港口充電站之充電樁基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingPoint/Ship/Port/TIPC?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170211",
+      "name": "航運港口充電站之充電槍基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Connector/Ship/Port/TIPC?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170212",
+      "name": "航運港口充電站之基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Station/Ship/Port/TIPC?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170213",
+      "name": "航運港口充電站之充電槍充電費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingRate/Ship/Port/TIPC?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170214",
+      "name": "航運港口充電站之充電槍即時狀態資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ConnectorLiveStatus/Ship/Port/TIPC?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170215",
+      "name": "高速公路所有服務區充電站之充電站基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingPoint/Freeway/ServiceArea?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170216",
+      "name": "高速公路所有服務區充電站之充電樁基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Connector/Freeway/ServiceArea?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170217",
+      "name": "高速公路所有服務區充電站之充電槍基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Connector/Freeway/ServiceArea?%24top=30&%24format=JSON"
+      ]
+    },
+    {
+      "id": "170218",
+      "name": "高速公路所有服務區充電站之充電槍充電費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingRate/Freeway/ServiceArea?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170219",
+      "name": "高速公路所有服務區充電站之充電槍即時狀態資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ConnectorLiveStatus/Freeway/ServiceArea?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170220",
+      "name": "充電站之基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Station/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170221",
+      "name": "充電站之充電樁基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingPoint/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170222",
+      "name": "充電站之充電槍基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Connector/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170223",
+      "name": "充電站之充電槍充電費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingRate/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "170224",
+      "name": "充電站之充電槍即時狀態資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ConnectorLiveStatus/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174319",
+      "name": "充電站之營運業者資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Operator/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174320",
+      "name": "充電站之停車費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ParkingRate/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174321",
+      "name": "充電站之營運時間資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ServiceTime/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174322",
+      "name": "觀光景點充電站之基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Station/Tourism?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174323",
+      "name": "觀光景點充電站之充電樁基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingPoint/Tourism?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174324",
+      "name": "觀光景點充電站之充電槍基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Connector/Tourism?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174325",
+      "name": "觀光景點充電站之充電槍充電費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingRate/Tourism?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174326",
+      "name": "觀光景點充電站之營運業者資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Operator/Tourism?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174327",
+      "name": "觀光景點充電站之營運時間資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ServiceTime/Tourism?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174328",
+      "name": "觀光景點充電站之停車費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ParkingRate/Tourism?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174329",
+      "name": "觀光景點充電站之充電槍即時狀態資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ConnectorLiveStatus/Tourism?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174330",
+      "name": "軌道車站充電站之基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Station/Rail/Station/TRA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174331",
+      "name": "軌道車站充電站之充電樁基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingPoint/Rail/Station/TRA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174332",
+      "name": "軌道車站充電站之充電槍基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Connector/Rail/Station/TRA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174333",
+      "name": "軌道車站充電站之充電槍充電費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingRate/Rail/Station/TRA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174334",
+      "name": "軌道車站充電站之營運業者資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Operator/Rail/Station/TRA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174335",
+      "name": "軌道車站充電站之營運時間資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ServiceTime/Rail/Station/TRA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174336",
+      "name": "軌道車站充電站之停車費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ParkingRate/Rail/Station/TRA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174337",
+      "name": "軌道車站充電站之充電槍即時狀態資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ConnectorLiveStatus/Rail/Station/TRA?%24count=true&%24format=JSON"
+      ]
+    },
+    {
+      "id": "174338",
+      "name": "機場充電站之基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Station/Air/Airport/CAA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174339",
+      "name": "機場充電站之充電樁基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingPoint/Air/Airport/CAA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174340",
+      "name": "機場充電站之充電槍基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Connector/Air/Airport/CAA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174341",
+      "name": "機場充電站之充電槍充電費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingRate/Air/Airport/CAA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174342",
+      "name": "機場充電站之營運業者資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Operator/Air/Airport/CAA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174343",
+      "name": "機場充電站之營運時間資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ServiceTime/Air/Airport/CAA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174344",
+      "name": "機場充電站之停車費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ParkingRate/Air/Airport/CAA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174345",
+      "name": "機場充電站之充電槍即時狀態資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ConnectorLiveStatus/Air/Airport/CAA?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174346",
+      "name": "航運港口充電站之營運業者資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Operator/Ship/Port/TIPC?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174347",
+      "name": "航運港口充電站之營運時間資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ServiceTime/Ship/Port/TIPC?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174348",
+      "name": "航運港口充電站之停車費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ParkingRate/Ship/Port/TIPC?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174349",
+      "name": "高速公路所有服務區充電站之營運業者資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/Operator/Freeway/ServiceArea?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174350",
+      "name": "高速公路所有服務區充電站之營業時間資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ServiceTime/Freeway/ServiceArea?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174351",
+      "name": "高速公路所有服務區充電站之停車費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/EV/ParkingRate/Freeway/ServiceArea?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174352",
+      "name": "路邊停車路段基本資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/Parking/OnStreet/ParkingSegment/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174353",
+      "name": "路邊停車路段剩餘位動態資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/Parking/OnStreet/ParkingSegmentAvailability/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174354",
+      "name": "路邊停車路段車位數資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/Parking/OnStreet/ParkingSegmentSpace/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174355",
+      "name": "路邊停車路段收費時段與費率資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/Parking/OnStreet/ParkingSegmentChargeTime/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174356",
+      "name": "路邊停車路段費率方案資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/Parking/OnStreet/ParkingSegmentRate/City/Taipei?%24format=JSON"
+      ]
+    },
+    {
+      "id": "174357",
+      "name": "路邊停車格位動態資料",
+      "format": null,
+      "urls": [
+        "https://tdx.transportdata.tw/api/basic/v1/Parking/OnStreet/ParkingSpotAvailability/City/Taipei?%24format=JSON"
+      ]
     }
   ]
 }
